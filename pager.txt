@@ -1,3 +1,20 @@
+POCSAG1200: Address:  414217  Function: 3  Alpha:   C,
+POCSAG2400: Address: 1022475  Function: 0  Alpha:   16:59-65 CIDAS testing in B 570 from  18:00 hrs - SSM  <NUL><NUL>
+POCSAG1200: Address: 1032981  Function: 2  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:58-05 4556<NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:58-04 4556<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1658161121+++TIME=1658161121<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:58-01 5204<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1658161121+++TIME=1658161121<NUL>
+POCSAG1200: Address: 1454786  Function: 0  Alpha:   16:58-41 PLS CALL PC GREGORY 01606 366320 
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   16:58-22 8263 DAY SURG
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  549881  Function: 2  Alpha:   16:57-06 ~CHERYL BOWYER 07841904848 - MANY THANKS<NUL><NUL>
+POCSAG1200: Address: 1032689  Function: 3  Alpha:   <ACK><DLE>
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   16:55-16 4379<NUL>
+POCSAG1200: Address:  600824  Function: 0  Alpha:   <DLE><DC2>
+POCSAG1200: Address:  548014  Function: 2  Alpha:   16:55-51 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: ro14vlw. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  930994  Function: 2  Alpha:   16:54-88 Stop Message received for Incident 2111006552;  [STOP] 16/11/21 16:54:38 STOP MESSAGE RECEIVED FROM G60P1 (OIC 31347 IN G60P1)<NUL><NUL>
 POCSAG1200: Address:  930487  Function: 2  Alpha:   16:54-04 CPAD CPAD489  OGILVIES BUTCHERS 121 NEWLAITHES AVENUE MORTON CARLISLE CUMBRIA CA2 6PP Allocated to Call 24675069, please call Ambulance Control<NUL><NUL>
 POCSAG1200: Address:   40095  Function: 2  Alpha:   16:54-23 CPAD CPAD489  OGILVIES BUTCHERS 121 NEWLAITHES AVENUE MORTON CARLISLE CUMBRIA CA2 6PP Allocated to Call 24675069, please call Ambulance Control<NUL><NUL>
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:53-84 62135
@@ -981,20 +998,3 @@ POCSAG2400: Address:   11729  Function: 0  Alpha:   15:18-73 PLS CALL 07401 041 
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   15:18-00 16/11/2021 15:11:06 INC 24674639 12A01E BANKS ROAD CP SCHOOL, BANKS ROAD, GARSTON L19, L19 8JZ Female 26Y COLLAPSED GRD 340619 383920
 POCSAG1200: Address:   49263  Function: 2  Alpha:   15:18-80 MEDICAL EMERGENCY TO WARD 12 UHND <NUL><NUL>
 POCSAG1200: Address:  548234  Function: 2  Alpha:   )&)YC4NMD56NV7C47&&37<NUL>
-POCSAG2400: Address: 2026356  Function: 2 
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:17-11 4825<NUL>
-POCSAG2400: Address: 1913794  Function: 2  Alpha:   15:17-82 3120<NUL>
-POCSAG1200: Address: 1512707  Function: 3  Alpha:   Fj
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032945  Function: 3  Alpha:   <DC4><FF><ENQ>cL
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1936584  Function: 0 
-POCSAG1200: Address:  548233  Function: 2  Alpha:   )&)YC4NMD56NV7C47&&37<NUL>
-POCSAG2400: Address: 1322760  Function: 2  Alpha:   15:15-17 NHSBT - DONOR REFERRAL. Please call DR OMAR P<ENQ>H<STX>ERTON on Direct Dial Number 01685724424 Hospital PRINCE CHARLES, MERTHYR TYDFIL Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address:   28869  Function: 0  Alpha:   15:15-80 PLS CALL 28693<NUL><NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   15:15-06 4156<NUL>
-POCSAG1200: Address: 1420728  Function: 0 
-POCSAG1200: Address:  548232  Function: 2  Alpha:   )&)YC4NMD56NV7C48&&38<NUL>
-POCSAG2400: Address: 1913651  Function: 2  Alpha:   15:15-69 5013<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  548232  Function: 2  Alpha:   )&)YC4NMD56NV7C47&&37<NUL>
