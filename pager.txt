@@ -1,3 +1,36 @@
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   14:59-77 4312<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX><SOH>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   14:59-22 2441<NUL>
+POCSAG1200: Address:  585224  Function: 2  Alpha:   14:59-29 1: 001CLDAT39019 Dil Airdale 3 Fault Unit Fault 01<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX><SOH>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:58-48 3507<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:58-05 4155<NUL>
+POCSAG1200: Address: 1280164  Function: 1 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   14:58-78 16/11/2021 14:56:19 INC 24674578 31D02 O/S, WATERSIDE, ST JAMES COURT WEST, ACCRINGTON, BB5 1NA Male 14Y M- LAY ON THE FLOOR, VOMITING GRD 375830 4282
+POCSAG2400: Address:   11754  Function: 0  Alpha:   14:58-95 PLS CALL 6721
+POCSAG2400: Address: 1913970  Function: 2  Alpha:   14:58-99 4263<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   14:57-76 2445<NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   14:57-65 80637
+POCSAG1200: Address:  585450  Function: 2  Alpha:   14:57-22 PLS CALL 4090
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1321146  Function: 2  Alpha:   14:56-09 test test test 2
+POCSAG1200: Address: 1058476  Function: 2  Alpha:   14:56-49 16/11/2021 14:43:10 INC 24674526 CCC3 4 QUEEN STREET, GLOSSOP, SK13 8EL Male 44Y ProQA Overridden - Call Escalated - SUICIDE GRD 402717 393880
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   *U2<GS>1P0f
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   14:55-78 14:55-77 PLS CALL 01616 561 291 <NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   14:55-76 PLS CALL 01616 561 291 <NUL><NUL>
+POCSAG1200: Address:   40089  Function: 2 
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   14:55-92 2168<NUL>
+POCSAG1200: Address: 1420123  Function: 0  Alpha:   jr
+POCSAG1200: Address: 1356922  Function: 1  Alpha:   <CAN><SUB>
+POCSAG1200: Address: 1821638  Function: 3  Alpha:   e.`*ds3<HT>z<LF>98E<FS>\"<SO>.<DC1><BEL>
+POCSAG1200: Address:  181226  Function: 3 
+POCSAG1200: Address:  494778  Function: 1 
+POCSAG1200: Address: 1321866  Function: 2  Alpha:   14:55-81 Call 24674483 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1489780  Function: 1 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:54-41 4791<NUL>
+POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
 POCSAG1200: Address:   40089  Function: 2  Alpha:   14:54-08 16/11/20rsd
 POCSAG2400: Address: 1321169  Function: 2  Alpha:   14:54-14 Test Test  Test<NUL>
 POCSAG2400: Address: 1321146  Function: 2  Alpha:   14:54-08 Test Test  Test<NUL>
@@ -965,36 +998,3 @@ POCSAG1200: Address: 1115585  Function: 0
 POCSAG1200: Address:  206664  Function: 0 
 POCSAG1200: Address:  362528  Function: 3 
 POCSAG1200: Address: 1511969  Function: 3  Alpha:   <ACK><DLE>
-POCSAG2400: Address: 1913698  Function: 2  Alpha:   12:57-19 4316<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   12:56-64 3298<NUL>
-POCSAG1200: Address: 1031655  Function: 0 
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:56-01 N1: zbx appservice.channel4.local Warning: appservice.channel4.local fwtransport deals health-check 1<LF>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   12:56-09 3508<NUL>
-POCSAG2400: Address: 1913970  Function: 2  Alpha:   12:56-97 4263<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   12:56-63 3104<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   12:56-91 16/11/2021 12:54:11 INC 24674024 13C02 27 LADYBROOK AVENUE, TIMPERLEY ALTRINCHAM, WA15 6DT Female 61Y LOW BM GRD 378750 389514<NUL><NUL>
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   12:55-26 INC ALERT No: 16786455 Ineffective breathing - COVID  , SOB, CANT SIT UP, AT: 8 SHERIDAN ROAD, EXETER, EX4 8EY, Time of Call: 16/11/2021 12:52:43, Co-ords: 50.7352451 -3.4850833<NUL><NUL>
-POCSAG1200: Address: 1364353  Function: 2 
-POCSAG1200: Address: 1632784  Function: 2  Alpha:   K<DC1>
-POCSAG1200: Address: 1313221  Function: 2  Alpha:   12:55-70 Destination: D105 SSC In\123, Booking Ref#: 800416, Vehicle: WP19WPG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG1200: Address: 2089808  Function: 0 
-POCSAG1200: Address: 1058476  Function: 2  Alpha:   12:54-48 16/11/2021 12:54:07 INC 24674022 10D01 2 ALBERT MEWS, ALBERT STREET, HADFIELD GLOSSOP, SK13 1AQ Female 55 pain in shoulder and back, hot sweaty, GRD 402147 396389
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   12:54-69 68177
-POCSAG1200: Address:  269047  Function: 2  Alpha:   12:54-98 16/11/2021 12:54:07 INC 24674022 10D01 2 ALBERT MEWS, ALBERT STREET, HADFIELD GLOSSOP, SK13 1AQ Female 55 pain in shoulder and back, hot sweaty, GRD 402147 396389
-POCSAG1200: Address:  334075  Function: 2  Alpha:   12:54-7<SOH>-16/11/2021 12:51:25 INC 24674014 06E01E 36 CARLTON ROAD, ELLENBROOK MANCHESTER, M28 7TT Female 73Y DIB- GRD 373244 401970<NUL>
-POCSAG1200: Address: 1217461  Function: 2  Alpha:   ale 73Y DIB- GRD 373244 401970<NUL>
-POCSAG2400: Address: 1235016  Function: 1 
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   12:53-25 INC ALERT No: 16786446 Breathing Problems - 4F RESPIRATORY INFECTION, VOMITING, BREATHING HEAVILY, FALLING ASLEEP, AT: 35 HILL TOP ROAD, EXETER, EX1 3DZ, Time of Call: 16/11/2021 12:51:43, Co-ords: 50.7339028 -3.47064<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253161121+++TIME=1253161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253161121+++TIME=1253161121<NUL>
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   12:53-33 16/11/2021 12:51:25 INC 24674014 06D01 36 CARLTON ROAD, ELLENBROOK MANCHESTER, M28 7TT Female 73Y DIB- GRD 373244 401970<NUL><NUL>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   12:53-62 16/11/2021 12:51:25 INC 24674014 06D01 36 CARLTON ROAD, ELLENBROOK MANCHESTER, M28 7TT Female 73Y DIB- GRD 373244 401970<NUL><NUL>
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   12:53-66 16/11/2021 12:50:57 INC 24674012 31D01 45 PEAKDALE AVENUE, CRUMPSALL MANCHESTER, M8 5QB Male 76Y LEG SWELLING - UNRESPONSIVE - FAST RESPS - LOW SATS GRD 384754 402016<NUL><NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   12:53-55 16/11/2021 12:50:57 INC 24674012 31D01 45 PEAKDALE AVENUE, CRUMPSALL MANCHESTER, M8 5QB Male 76Y LEG SWELLING - UNRESPONSIVE - FAST RESPS - LOW SATS GRD 384754 402016<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   12:53-70 16/11/2021 12:50:57 INC 24674012 31D01 45 PEAKDALE AVENUE, CRUMPSALL MANCHESTER, M8 5QB Male 76Y LEG SWELLING - UNRESPONSIVE - FAST RESPS - LOW SATS GRD 384754 402016<NUL><NUL>
-POCSAG2400: Address: 1913700  Function: 2  Alpha:   12:52-81 5359<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   12:52-61 3508<NUL>
-POCSAG1200: Address: 1761428  Function: 2  Alpha:   <SYN><SOH>
-POCSAG2400: Address:  872041  Function: 1 
