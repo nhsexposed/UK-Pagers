@@ -1,3 +1,19 @@
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:28-39 4960<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1428161121+++TIME=1428161121<NUL>
+POCSAG2400: Address: 1323880  Function: 2  Alpha:   14:27-25 4878<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   14:28-02 16/11/2021 14:25:38 INC 24674448 13C01 13 THE GROVE, DIDSBURY MANCHESTER, M20 2RG Male 91Y DIABETIC GRD 384895 390463<NUL><NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN>1
+POCSAG2400: Address: 1321040  Function: 2  Alpha:   14:27-48 5002<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  553829  Function: 3  Alpha:   <SYN><HT>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   14:26-36 4155<NUL>
+POCSAG1200: Address:  893664  Function: 0 
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   14:26-69 3104<NUL>
+POCSAG2400: Address: 1913774  Function: 2  Alpha:   14:26-89 5001<NUL>
+POCSAG1200: Address: 1322030  Function: 2  Alpha:   14:25-87 6556 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   14:24-99 16/11/2021 14:20:58 INC 24674428 06E01 65 ENDMOOR ROAD, HUYTON L36, L36 3UH Male 78Y BREATHING REALLY BAD, HANDS CRAMPING, LEFT SIDED CHEST PAIN GRD 343496 392150
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:24-31 16/11/2021 14:20:58 INC 24674428 06E01 65 ENDMOOR ROAD, HUYTON L36, L36 3UH Male 78Y BREATHING REALLY BAD, HANDS CRAMPING, LEFT SIDED CHEST PAIN GRD 343496 392150
 POCSAG2400: Address:   28896  Function: 0  Alpha:   14:24-6<SYN>"5128<NUL>
 POCSAG1200: Address:  149135  Function: 2  Alpha:   14:24-96 Please call 01535 292764. Thanks<NUL>
 POCSAG1200: Address: 1515653  Function: 0  Alpha:   <ACK>&:<STX><GS>
@@ -982,19 +998,3 @@ POCSAG1200: Address:  408597  Function: 1
 POCSAG1200: Address: 1284300  Function: 0  Alpha:   <ETX>R
 POCSAG1200: Address: 1682267  Function: 1  Alpha:   hl
 POCSAG1200: Address:  432762  Function: 1  Alpha:   <CAN><EM>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-45 N1: zbx dcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 91 days, 04:11:40<LF><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   12:35-88 16/11/2021 12:31:52 INC 24673942 08D03G PENNINE CARE NHS TRUST BIRCH HILL HOSPITAL, BIRCH ROAD, ROCHDALE, OL12 9QB Female 36Y COMPROMISED AIRWAY - SMOKE INHILATION GRD 392072 415979<NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   12:35-00 16/11/2021 12:31:52 INC 24673942 08D03G PENNINE CARE NHS TRUST BIRCH HILL HOSPITAL, BIRCH ROAD, ROCHDALE, OL12 9QB Female 36Y COMPROMISED AIRWAY - SMOKE INHILATION GRD 392072 415979<NUL>
-POCSAG1200: Address: 1032918  Function: 3  Alpha:   F<NUL>
-POCSAG1200: Address:  735612  Function: 1 
-POCSAG1200: Address: 1294179  Function: 1 
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-42 N1: zbx FCR-V-ESBLIVE01 Maj'8<GS>Pf:V2<DLE>(<CAN><EM>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-41 N1: zbx DCR-V-AMQLIVE01 Minor: AMQ Console Port no status data for > 180 seconds Up (1)<LF>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-40 N1: zbx FCR-V-AMQLIVE01 Minor: AMQ Broker Port no status data for > 180 seconds Down (0)<LF><NUL><NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-39 N1: zbx DCR-V-AMQLIVE01 Minor: AMQ Broker Port no status data for > 180 seconds Up (1)<LF><NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-38 N1: zbx DCR-V-ESBLIVE01 Major: Mule p01 no status data for > 180 seconds Up (1)<LF><NUL><NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-37 N1: zbx FCR-V-AMQLIVE01 Warning: p01 C4NL ActiveMQ DLQ.request_media_service_material_check queue depth > 0 36
-POCSAG2400: Address: 1324567  Function: 2  Alpha:   12:35-27 INC ALERT No: 16786380 Cardiac Arrest -, AT: 16 BARBICAN LANE, BARNSTAPLE, EX32 8LB, Time of Call: 16/11/2021 12:33:18, Co-ords: 51.0771224 -4.0497888
-POCSAG2400: Address: 1913851  Function: 2  Alpha:   12:35-60 5359<NUL>
-POCSAG1200: Address:  583080  Function: 1 
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-36 N1: zbx fcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 90 days, 03:04:10<LF><NUL>
