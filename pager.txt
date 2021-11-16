@@ -1,3 +1,29 @@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:24-6<SYN>"5128<NUL>
+POCSAG1200: Address:  149135  Function: 2  Alpha:   14:24-96 Please call 01535 292764. Thanks<NUL>
+POCSAG1200: Address: 1515653  Function: 0  Alpha:   <ACK>&:<STX><GS>
+POCSAG1200: Address:   82292  Function: 1  Alpha:   D 
+POCSAG1200: Address: 1421843  Function: 2 
+POCSAG1200: Address:  593986  Function: 1  Alpha:   L<EOT>E<STX>b
+POCSAG1200: Address: 1582441  Function: 1 
+POCSAG1200: Address: 1455798  Function: 1 
+POCSAG1200: Address:  421532  Function: 1 
+POCSAG1200: Address:  433595  Function: 0 
+POCSAG1200: Address: 1668258  Function: 3  Alpha:   @j<NUL><HT>A
+POCSAG1200: Address:  694785  Function: 2 
+POCSAG1200: Address:  389777  Function: 3 
+POCSAG1200: Address:  731480  Function: 2  Alpha:   98
+POCSAG1200: Address: 1714511  Function: 0  Alpha:   >:Bg<DC2>
+POCSAG1200: Address: 1988790  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   14:22-93 33879
+POCSAG1200: Address:  805124  Function: 0 
+POCSAG1200: Address:  627547  Function: 0 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   14:21-57 4155<NUL>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   14:21-36 6053 IP1
+POCSAG2400: Address:  926240  Function: 0 
+POCSAG2400: Address: 1716782  Function: 0 
+POCSAG2400: Address:  150086  Function: 0  Alpha:   14:20-30 5242<NUL>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   Fd
+POCSAG2400: Address:   28870  Function: 0  Alpha:   14:20-30 PLS CALL DEER WARD ON 01843 234 205 
 POCSAG1200: Address:  314589  Function: 2  Alpha:   14:19-40 3149<NUL>
 POCSAG1200: Address:   74254  Function: 3  Alpha:   i<LF><ESC><DLE>drY<EOT>
 POCSAG1200: Address:  272014  Function: 0 
@@ -972,29 +998,3 @@ POCSAG2400: Address: 1324567  Function: 2  Alpha:   12:35-27 INC ALERT No: 16786
 POCSAG2400: Address: 1913851  Function: 2  Alpha:   12:35-60 5359<NUL>
 POCSAG1200: Address:  583080  Function: 1 
 POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-36 N1: zbx fcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 90 days, 03:04:10<LF><NUL>
-POCSAG1200: Address: 1484850  Function: 0 
-POCSAG1200: Address:  557705  Function: 2 
-POCSAG1200: Address: 1945928  Function: 0  Alpha:   <SUB>r
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-35 N1: zbx api.c4int.com Major: DMZ external proxy https://api.c4int.com/bigiptest.txt - failed step 1<LF><NUL><NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   12:33-99 4167<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   12:33-58 2445<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   12:33-29 5204<NUL>
-POCSAG2400: Address: 1913885  Function: 2  Alpha:   12:33-23 3574<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:33-57 5897<NUL>
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   12:33-00 4312<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1233161121+++TIME=1233161121<NUL>
-POCSAG2400: Address: 1323338  Function: 2  Alpha:   12:32-63 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG2400: Address: 1052908  Function: 2  Alpha:   12:33-76 6431<NUL>
-POCSAG2400: Address: 1323292  Function: 2  Alpha:   12:32-83 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33666  Function: 2  Alpha:   12:32-70 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33649  Function: 2  Alpha:   12:32-86 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33646  Function: 2  Alpha:   12:32-07 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33650  Function: 2  Alpha:   12:32-13 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address: 1933864  Function: 2  Alpha:   wo8xosrs
-POCSAG1200: Address: 1513263  Function: 0  Alpha:   3<HT>
-POCSAG1200: Address:  351823  Function: 3 
-POCSAG1200: Address:   33708  Function: 2  Alpha:   12:32-70 Major Incident Pager Test please contact Vince Mo<SO>~
-POCSAG1200: Address:   33653  Function: 2  Alpha:   12:32-37 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33663  Function: 2  Alpha:   12:32-54 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33661  Function: 2  Alpha:   12:32-71 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   12:32-84 16/11/2021 12:28:40 INC 24673922 28C01F 66 TAVISTOCK STREET, NELSON, BB9 9JJ Male 30Y CANNOT FEEL ONE SIDE OF FACE NAUSEA GRD 386889 438107
