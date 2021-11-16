@@ -2605,3 +2605,38 @@ POCSAG2400: Address: 2008956  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0638161121+++TIME=0638161121<NUL>
 POCSAG2400: Address:  584009  Function: 2  Alpha:   06:38-60 3266<NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   06:39-95 16/11/2021 06:35:39 INC 24672710 07C03 84 LIVERPOOL ROAD, GREAT SANKEY WARRINGTON WA5, WA5 1QX Female 20M tea scald GRD 357897 387817
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:40-55 Tue Nov 16 06:40:39 UTC 2021 -- PROBLEM : mgmt1-cor ge-0/0/10 on mgmt1-cor is CRITICAL (CRITICAL: Interface ge-0/0/10 (index 525) is down.)
+POCSAG1200: Address:   49263  Function: 2  Alpha:   06:41-74 MEDICAL EMERGENCY WARD 52 DMH 
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   06:41-05 5002<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1736500  Function: 1 
+POCSAG1200: Address: 1582910  Function: 1  Alpha:   6<BEL>
+POCSAG1200: Address:  841751  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address: 1686273  Function: 1  Alpha:   *)
+POCSAG1200: Address:  533698  Function: 2 
+POCSAG1200: Address: 1651810  Function: 2 
+POCSAG1200: Address:  355027  Function: 2 
+POCSAG1200: Address: 1338177  Function: 3  Alpha:   Nv
+POCSAG1200: Address: 2059066  Function: 2 
+POCSAG1200: Address: 1817204  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:42-61 Tue Nov 16 06:42:37 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce21/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce21/1-linx-status [10017] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:42-62 Tue Nov 16 06:42:37 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce18/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce18/1-linx-status [10106] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:42-66 Tue Nov 16 06:42:37 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce20/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce20/1-linx-status [10114] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1640969  Function: 3 
+POCSAG1200: Address:  697730  Function: 0  Alpha:   P 
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:42-70 Tue Nov 16 06:42:53 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/2/0-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/2/0  [1075] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:43-71 Tue Nov 16 06:43:07 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/0/0-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/0/0  [1070] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:43-73 Tue Nov 16 06:43:13 UTC 2021 -- PROBLEM : bgp-status on edge1-stj-jed1 is CRITICAL (CRITICAL: critical 1, warning 0)
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0643161121+++TIME=0643161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0643161121+++TIME=0643161121<NUL>
+POCSAG2400: Address: 1814999  Function: 0  Alpha:   06:43-03 ON CALL FM PLS CALL JACK AT NATIONAL SERVICE HUB ON 0345 425 1001
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:43-81 Tue Nov 16 06:43:57 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/3/1-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/3/1  [1080] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1477587  Function: 1  Alpha:   (R<ESC>=Y\9x8<EM><BS>>9+<FF>lklK<FF><BS>h6<FF><FF>.,<ETB>h[<ESC>(,NL+L<CR>N<VT>-LK<FF>(z<FS>h8]\<Y<ESC><GS>;<RS>(<GS>|<VT>y{];
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:44-85 Tue Nov 16 06:44:05 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/2-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/2  [630] on 192.168.45.17 is currently up/down
+POCSAG1200: Address:  548039  Function: 2  Alpha:   06:44-59 16/11/2021 06:42:37 INC 24672724 04B02A O/S MET QUATER, WHITECHAPEL, LIVERPOOL, L1 6DX Male 63Y ASSAULTED PUNCHED TO HEAD AND HIT HEAD ON THE FLOOR GRD 334643 390508
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   06:44-42 16/11/2021 06:42:37 INC 24672724 04B02A O/S MET QUATER, WHITECHAPEL, LIVERPOOL, L1 6DX Male 63Y ASSAULTED PUNCHED TO HEAD AND HIT HEAD ON THE FLOOR GRD 334643 390508
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:44-87 Tue Nov 16 06:44:25 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/2/3-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/2/3  [635] on 192.168.45.17 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:44-88 Tue Nov 16 3<HT>
+POCSAG1200: Address: 1067402  Function: 1  Alpha:   IE
+POCSAG1200: Address:  710059  Function: 1 
