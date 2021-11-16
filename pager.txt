@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:54-08 Tue Nov 16 06:54:16 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce23/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:54-07 Tue Nov 16 06:54:12 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce18/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:54-06 Tue Nov 16 06:54:10 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce22/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   06:53-53 16/11/2021 06:49:21 INC 24672743 28C01J 103 HAYFIELD AVENUE, HOGHTON NR BAMBER BRIDGE, PR5 0AX Female 85Y LEFT SIDED WEAKNESS SLURRING WORDS GRD 358988 426127<NUL>
+POCSAG1200: Address: 1716256  Function: 0 
+POCSAG1200: Address: 1204424  Function: 0 
+POCSAG1200: Address: 1265158  Function: 2 
+POCSAG1200: Address: 1494382  Function: 2 
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:53-04 Tue Nov 16 06:53:27 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce21/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0653161121+++TIME=0653161121<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:53-03 Tue Nov 16 06:53:16 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce20/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0653161121+++TIME=0653161121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022646  Function: 0  Alpha:   06:52-96 PLEASE CALL 01823 344 443 <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:50-01 Tue Nov 16 06:50:48 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/0/1-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/0/1  [1067] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1578128  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   06:50-97 16/11/2021 06:46:05 INC 24672738 06E01 79 FORD LANE, FORD L21, L21 0HQ Female 71Y CANT BREATH GRD 333660 39895
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   06:50-10 16/11/2021 06:46:05 INC 24672738 06E01 79 FORD LANE, FORD L21, L21 0HQ Female 71Y CANT BREATH GRD 333660 39895
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:49-00 Tue Nov 16 06:49:41 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/1-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/0/1  [625] on 192.168.45.17 is currently up/down
+POCSAG1200: Address:  585566  Function: 2  Alpha:   06:49-57 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: wx66wpk. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:49-99 Tue Nov 16 06:49:27 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/0/3-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/0/3  [1069] on 192.168.41.2 is currently up/down
 POCSAG1200: Address:   40078  Function: 2  Alpha:   06:49-07 16/11/2021 06:45:31 INC 24672736 12D04E TARNSIDE HOUSE - FLAT 31, COUNTHILL DRIVE, CRUMPSALL MANCHESTER, M8 4JP Male 60Y 60YOM, SEIZURE GRD 383548 402973
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0648161121+++TIME=0648161121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0648161121+++TIME=0648161121<NUL>
@@ -976,25 +998,3 @@ POCSAG1200: Address: 1127514  Function: 3
 POCSAG1200: Address: 1153447  Function: 2 
 POCSAG1200: Address: 1673350  Function: 2  Alpha:   d<DC2>
 POCSAG1200: Address: 1770061  Function: 2 
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   02:05-33 16/11/2021 02:01:52 INC 24672266 23D02I LYTHAM HOUSE KITCHEN, LYTHAM ROAD, BLACKPOOL, FY1 6DL Male 18Y Q TAKING SOMETHING GRD 330811 434646
-POCSAG1200: Address: 1964584  Function: 1 
-POCSAG1200: Address:  216321  Function: 2  Alpha:   02:04-98 (2/2) Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Shop / Showroom<NUL>
-POCSAG1200: Address: 1313150  Function: 2  Alpha:   02:04-65 (1/2)029417-16112021; F1.1.0.P FIRE - COMMERCIAL BUILDING; 7 BAYLIS PARADE,SLOUGH,SL1 3LF; 497228,181029; POLICE IA; Assigned: JY17P2, JY17P1, JY18P1;
-POCSAG1200: Address:  216321  Function: 2  Alpha:   02:04-98 (1/2)029417-16112021; F1.1.0.P FIRE - COMMERCIAL BUILDING; 7 BAYLIS PARADE,SLOUGH,SL1 3LF; 497228,181029; POLICE IA; Assigned: JY17P2, JY17P1, JY18P1;
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:03-30 4312<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203161121+++TIME=2z23161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203161121+++TIME=0203161121<NUL>
-POCSAG1200: Address:  209785  Function: 2  Alpha:   02:03-68 16/11/2021 02:01:46 INC 24672265 10D04 1 SANDS ROAD, RISHTON, BB1 4LT Male 64Y CHEST PAIN GRD 372746 430635<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   02:00-52 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158161121+++TIME=0158161121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158161121+++TIME=0158161121<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   01:57-42 2183<NUL>
-POCSAG2400: Address:  209929  Function: 0 
-POCSAG2400: Address: 1324542  Function: 2  Alpha:   01:57-84 INC ALERT No: 16784819 DROWNING - POLICE - F - JUMPED OF QUAY INTO WATER, AT: NEAR THE SLIPWAY, NORTH QUAY, HAYLE, TR27 4BL, Time of Call: 16/11/2021 01:56:45, Co-ords: 50.1905291 -5.42733
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   01:55-23 frailty unit 35933<NUL>
-POCSAG2400: Address:  584009  Function: 2  Alpha:   01:55-54 4157<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   01:53-64 723 8836 <NUL><NUL>
-POCSAG1200: Address:  269111  Function: 2  Alpha:   01:53-47 16/11/2021 01:43:04 INC 24672216 21D03M 81 WARRENSIDE CLOSE, WILPSHIRE BLACKBURN, BB1 9PE Female 76Y F-RECTAL BLEEDING GRD 369195 431770
