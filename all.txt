@@ -5337,3 +5337,33 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1148161121+++TIME=11
 POCSAG1200: Address: 1512669  Function: 3  Alpha:   F<FF><STX>fL
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1148161121+++TIME=1148161121<NUL>
 POCSAG2400: Address:  583728  Function: 2  Alpha:   11:48-80 84141
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:49-39 2307<NUL>
+POCSAG2400: Address: 1978624  Function: 0 
+POCSAG2400: Address: 1146224  Function: 2 
+POCSAG1200: Address:  585538  Function: 2  Alpha:   11:51-09  2505
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   11:51-67 Tue Nov 16 11:51:41 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/0-linx on edge1-imm.nva1 is CRITICAL (SNMP TRAP CRITICAL - Interface edge1-imm.nva1-11/0/0-linx [624] on edge1-imm.nva1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1321706  Function: 2  Alpha:   11:51-51 Destination: Parking\D78 Ext TP, Booking Ref#: 800497, Vehicle: FJ63CSO. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address:  269282  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   11:52-91 5128<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1321930  Function: 2  Alpha:   11:52-25 PLS CALL 4901
+POCSAG2400: Address:   92896  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:53-85 16/11/2021 11:42:14 INC 24673738 24C03 160 SANDAL STREET, MILES PLATTING MANCHESTER, M40 7BL Female 26Y FALLEN DOWN ON THE FLOOR- PREGNANT - PAIN IN ABDOMEN GRD 386546 399349<NUL><NUL>
+POCSAG1200: Address: 1323823  Function: 2  Alpha:   11:53-79 Resource comment received for Incident 2111006466;  TO MDT: 0777629780
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1153161121+++TIME=1153161121<NUL>
+POCSAG2400: Address: 1913957  Function: 2  Alpha:   11:53-35 5202<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1153161121+++TIME=1153161121<NUL>
+POCSAG1200: Address:  649969  Function: 2  Alpha:   11:53-34 69004
+POCSAG1200: Address: 1312598  Function: 2  Alpha:   11:53-90 PROCEED TO:  GAS LEAK/CONFIRMED  PERSONS INVOLVED; SK87JS,   56 WOODFIELD ROAD  CHEADLE HULME CHECUEE , VICARAGE AVENUE/CHURCH ROAD; FNWR-OPS11; ROLE:[BG] SM ; WESTWOOD HOME CARE, LADY IS IN PALLATIVE CARE AND IS BEDBOUND, CARERS 
+POCSAG1200: Address: 1680278  Function: 2 
+POCSAG1200: Address: 1421834  Function: 0 
+POCSAG1200: Address: 1229170  Function: 0  Alpha:    O
+POCSAG1200: Address: 1714499  Function: 0 
+POCSAG1200: Address: 1466156  Function: 2  Alpha:   <EOT>:
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   11:53-34 9077<NUL>
+POCSAG1200: Address:  940540  Function: 2  Alpha:   11:54-76 16/11/2021 11:51:55 INC 24673774 26 HAZELWOOD CLOSE, LEYLAND, PR25 1RH Male 15Y RTC - DOMESTIC SITUATION - MUM RAN OVER SON GRD 353247 422068<NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   11:54-44 16/11/2021 11:51:55 INC 24673774 26 HAZELWOOD CLOSE, LEYLAND, PR25 1RH Male 15Y RTC - DOMESTIC SITUATION - MUM RAN OVER SON GRD 353247 422068<NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   bf
+POCSAG2400: Address:  564459  Function: 2  Alpha:   EAST 6,473<NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   11:54-35 07818533330
+POCSAG1200: Address: 1058636  Function: 2  Alpha:   11:54-58 16/11/2021 11:51:55 INC 24673774 29D02M 26 HAZELWOOD CLOSE, LEYLAND, PR25 1RH Male 15Y RTC - DOMESTIC SITUATION - MUM RAN OVER SON GRD 353247 422068
