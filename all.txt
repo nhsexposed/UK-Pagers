@@ -1989,3 +1989,11 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333161121+++TIME=0333161121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0333161121+++TIME=0333161121<NUL>
 POCSAG1200: Address: 1321712  Function: 2  Alpha:   03:33-78 Destination: D82 SSC Out\204, Booking Ref#: 800900, Vehicle: ay16lys. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   03:36-99 25785 <NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   03:36-74 16/11/2021 03:34:47 INC 24672420 31D03 24 LANCASTER PLACE, BLACKBURN, BB2 6JT Female 13Y METABOLIC DISORDER AMONIA GRD 366989 428343<NUL>
+POCSAG1200: Address:  269111  Function: 2  Alpha:   03:36-49 16/11/2021 03:34:47 INC 24672420 31D03 
+POCSAG1200: Address: 1774728  Function: 3  Alpha:   #<ETX>b<FF>t<FS><FF><FS>%-<DC4><ENQ><STX>e<FF><FS>,d<STX><DC2>d<FF><FS>\<DC4>,<NAK>ud<STX><DC2><DC4><DC4><ETX>2S$<ENQ>2,n<SO>f.<ACK><LF><ESC>K<ENQ>j,$<CR><DC4>|dL<FS><EOT>"L<FS>}<DC4>%,<DC4><ENQ><LF>l|tL<FF><EOT>:<DC4>%<EOT><SUB>33KCK<ETX>"<DC3>C<ESC>#<ESC><ETX><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   03:37-73 16/11/2021 03:36:10 INC 24672421 06E01 75 PARKGATE WAY, MURDISHAW RUNCORN WA7, WA7 6DX Female 64Y ASTHMA - CHEST INFECTION - COLD GRD 355412 381059<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0338161121+++TIME=0338161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0338161121+++TIME=0338161121<NUL>
