@@ -2640,3 +2640,25 @@ POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:44-87 Tue Nov 16 06:44:25
 POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:44-88 Tue Nov 16 3<HT>
 POCSAG1200: Address: 1067402  Function: 1  Alpha:   IE
 POCSAG1200: Address:  710059  Function: 1 
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:44-89 Tue Nov 16 06:44:38 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/1/2-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/1/2  [1072] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:45-91 Tue Nov 16 06:45:05 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/3/1-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/3/1  [639] on 192.168.45.17 is currently up/down
+POCSAG1200: Address: 1692779  Function: 2  Alpha:   <ACK><DC4>=<SO>4\..VlMH<GS><SI>
+POCSAG1200: Address: 1405182  Function: 2  Alpha:   "~<RS>wNr<LF>9p,BZ"<SO>,<DC1><BEL>VH<ETX>+dA<NAK>r`<LF>90E<FS>X"<SO>
+POCSAG1200: Address: 1736500  Function: 1 
+POCSAG1200: Address: 1291013  Function: 3  Alpha:   (k
+POCSAG1200: Address: 1582910  Function: 1  Alpha:   6<BEL>
+POCSAG1200: Address:  743000  Function: 2 
+POCSAG1200: Address: 1153793  Function: 0  Alpha:   *)
+POCSAG1200: Address:  533698  Function: 2 
+POCSAG1200: Address: 1651810  Function: 2 
+POCSAG1200: Address:  355027  Function: 2 
+POCSAG1200: Address: 1654389  Function: 3 
+POCSAG1200: Address:  931246  Function: 2 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   06:46-89 16/11/2021 06:43:26 INC 24672729 10C01 100 MARTINDALE CRESCENT, MIDDLETON MANCHESTER, M24 5PP Female 29Y CHEST PAIN GRD 385713 407093
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:46-95 Tue Nov 16 06:46:34 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/1/1-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/1/1  [1071] on 192.168.41.2 is currently up/down
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:47-96 Tue Nov 16 06:47:53 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/3-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/0/3  [627] on 192.168.45.17 is currently up/down
+POCSAG1200: Address: 1781959  Function: 2  Alpha:   06:48-55 20632
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0648161121+++TIME=0648161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0648161121+++TIME=0648161121<NUL>
+POCSAG1200: Address:   40078  Function: 2  Alpha:   06:49-07 16/11/2021 06:45:31 INC 24672736 12D04E TARNSIDE HOUSE - FLAT 31, COUNTHILL DRIVE, CRUMPSALL MANCHESTER, M8 4JP Male 60Y 60YOM, SEIZURE GRD 383548 402973
