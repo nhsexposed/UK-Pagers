@@ -1,3 +1,16 @@
+POCSAG2400: Address:  564459  Function: 2  Alpha:   EAST 6,473<NUL>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   19:32-79 107204<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1039106  Function: 3  Alpha:   %2
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   19:32-31 PROBLEM: Windows - Drive: C is CRITICAL on host GMMHACLVDA09A, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host GMMHACLVDA09A<CR><LF>Service: Windows - Drive: C<CR><LF>Host: GMMHACLVDA09A<CR><LF>Alias: <CR><LF>Address: 192.168.23.139<CR><LF>Host Group Hierarchy: <CR><LF>Stat<NUL><NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   19:31-84 16/11/2021 19:30:59 INC 24675740 06E01 60 
+POCSAG1200: Address:  234377  Function: 2  Alpha:   19:31-59 16/11/2021 19:30:59 INC 24675740 06E01 60 RUSLAND AVENUE, MERESIDE BLACKPOOL, FY4 4SP Female 61Y FIGHTING FOR BREATH COPD GRD 334795 434030
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   19:31-22 16/11/2021 19:30:59 INC 24675740 06E01 60 RUSLAND AVENUE, MERESIDE BLACKPOOL, FY4 4SP Female 61Y FIGHTING FOR BREATH COPD GRD 334795 434030
+POCSAG2400: Address: 1647830  Function: 2  Alpha:   F<SO>f6<ACK>z6<ACK><SUB>L6O<RS><SO><ACK>*]<EOT>b$'f<STX><SUB>L6O<RS><SO><ACK>rL<EOT>b$'f<STX><SUB>L6O<RS><SO><ACK>:<DC4><DEL>.<BEL><BEL>b$'<ACK>z<SYN><BEL><SUB>L6O<RS><SO><ACK>*d.<RS>&O~v<ACK><SUB>-<SYN>7O<RS>.<RS><BEL>b$'vjP<CAN>L6O<RS><SO><ACK>:<DC4><DEL>.<BEL><BEL>b$'<ACK>Br~V<ETX><STX>#K3C#<ESC>;Kb<STX>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:31-32 Opsview Down, Ignore alerts from ATP servers. Opsview down so canb<NUL><EM>t downtime. Glyn<CR><LF><CR><LF>This email is sent for and o
+POCSAG2400: Address:  216272  Function: 2  Alpha:   19:31-19 Opsview Down, Ignore alerts from ATP servers. Opsview down so canb<NUL><EM>t downtime. Glyn<CR><LF><CR><LF>This email is sent for and on behalf of Civica UK Ltd, Civica NI Ltd, Civica Group Ltd or Civica Election Services Ltd.<CR><LF>Civica Group Ltd (no: 04968437), 
+POCSAG2400: Address:  287512  Function: 2  Alpha:   Alphanumeric test Tuesday 1439<NUL>
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   19:28-99 PROBLEM: kbrcmslads01oni is DOWN, <CR><LF>PROBLEM: kbrcmslads01oni is DOWN<CR><LF><CR><LF>Host: kbrcmslads01oni<CR><LF>Alias: Domain Controller<CR><LF>Address: 10.32.59.2<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > VI-ONI > CMS-ONI > CMS-KBR-ONI<CR><LF>State: D<NUL><NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   19:28-31 PROBLEM: kbrcmslads01oni is DOWN, <CR><LF>PROBLEM: kbrcmslads01oni is DOWN<CR><LF><CR><LF>Host: kbrcmslads01oni<CR><LF>Alias: Domain Controller<CR><LF>Address: 10.32.59.2<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > VI-ONI > CMS-ONI > CMS-KBR-ONI<CR><LF>State: D<NUL><NUL>
 POCSAG2400: Address:  216251  Function: 2  Alpha:   19:28-38 PROBLEM: kbrcmslads01oni is DOWN, <CR><LF>PROBLEM: kbrcmslads01oni is DOWN<CR><LF><CR><LF>Host: kbrcmslads01oni<CR><LF>Alias: Domain Controller<CR><LF>Address: 10.32.59.2<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > VI-ONI > CMS-ONI > CMS-KBR-ONI<CR><LF>State: D<NUL><NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1323899  Function: 2  Alpha:   17:29-24 4179<NUL>
 POCSAG1200: Address:  350338  Function: 0  Alpha:   17:29-09 16/11/2021 17:27:46 INC 24675241 06D02 ROOM 6, WHITBURN HOUSE HOTEL, 111 GARSTANG ROAD8<EOT>FULWOOD PRESTON, PR2 3EB Male 17Y MALE SEVERE HEADACHES - D AND V - VISION BLURRED DIFF BREATH GRD 353413 431194<NUL><NUL>
 POCSAG1200: Address: 1534124  Function: 2  Alpha:   17:29-50 (2/2) BOWqrMobile: https://bossd.nfcsp.org.uk
 POCSAG2400: Address:  225851  Function: 2  Alpha:   17:29-74 107205<NUL><NUL>
-POCSAG2400: Address:  549033  Function: 2  Alpha:   17:29-26 6061<NUL>
-POCSAG1200: Address:  538872  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1728161121+++TIME=1728161121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1728161121+++TIME=1728161121<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:28-41 3164<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   17:27-50 16/11/2021 17:22:17 INC 24675218 17D05G 30 DYKIN ROAD, CROW WOOD WIDNES WA8, WA8 3HN Female 81Y FALLEN GRD 353026 387239<NUL><NUL>
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   17:27-24 NHSBT - DONOR REFERRAL. Please call Consultant James Napier on Direct Dial Number 0785 228 9564 Hospital Newham Hospital, London Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   17:27-93 NHSBT - DONOR REFERRAL. Please call Consultant James Napier on Direct Dial Number 0785 228 9564 Hospital Newham Hospital, London Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323237  Function: 2  Alpha:   17:27-91 NHSBT - DONOR REFERRAL. Please call Consultant James Napier on Direct Dial Number 0785 228 9564 Hospital Newham Hospital, London Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323230  Function: 2  Alpha:   17:27-04 NHSBT - DONOR REFERRAL. Please call Consultant James Napier on Direct Dial Number 0785 228 9564 Hospital Newham Hospital, London Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   17:27-96 16/11/2021 17
-POCSAG1200: Address:  269059  Function: 2  Alpha:   17:27-36 16/11/2021 17:26:08 INC 24675234 09E01 95B WALLASEY VILLAGE, WALLASEY VILLAGE WALLASEY CH45, CH45 3LE Male 69Y UNCON ON THE FLOOR GRD 329356 392294<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DLE>,H<FF>d(0f
