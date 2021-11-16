@@ -9545,3 +9545,16 @@ POCSAG2400: Address:   28894  Function: 0  Alpha:   19:38-09 2180<NUL>
 POCSAG1200: Address: 1500254  Function: 2  Alpha:   19:39-27 TEST PAGE PLS RESPOND 
 POCSAG1200: Address:  200957  Function: 2  Alpha:   19:39-03 PLS CALL 27941<NUL><NUL>
 POCSAG1200: Address: 1966614  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:39-02 5201<NUL>
+POCSAG1200: Address: 1318948  Function: 2  Alpha:   19:39-80 3991 1<NUL><NUL>
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   19:40-71 3977 paeds<NUL>
+POCSAG1200: Address: 1321857  Function: 2  Alpha:   19:40-06 TEST PAGE PLS RESPOND 
+POCSAG1200: Address: 1761390  Function: 2  Alpha:   %2
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1257025  Function: 2  Alpha:   19:42-32 DSCC PIN 4109 - REQUEST 03457 500 620 <NUL>
+POCSAG1200: Address:  987072  Function: 2  Alpha:   19:42-63 3991<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123456
+POCSAG512: Address: 1641119  Function: 0  Alpha:   01234567890
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C]8L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1943161121+++TIME=1943161121<NUL>
+POCSAG1200: Address: 1761390  Function: 2  Alpha:   U<BS>
