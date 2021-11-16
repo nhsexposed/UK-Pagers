@@ -8724,3 +8724,134 @@ POCSAG1200: Address:  400574  Function: 1  Alpha:   X<CAN>
 POCSAG1200: Address: 1816759  Function: 2  Alpha:   18:14-90 (1/2)029498-16112021; T12.0.0.P TRANSPORT - RTC SCENE SAFETY; (STREET RECORD),HANWORTH ROUNDABOUT,BRACKNELL; 000000,000000;<NUL><NUL>
 POCSAG1200: Address:  548039  Function: 2  Alpha:   18:14-97 16/11/2021 18:11:24 INC 24675420 06E01A 11 WATERLOO ROAD, NEW BRIGHTON WALLASEY CH45, CH45 2JN Male 53Y DIB GRD 330813 394052
 POCSAG1200: Address: 1816759  Function: 2  Alpha:   18:14-91 (2/2) GENTLEMAN CRASHED CAR INTO BOLLARD BY BUS LANE; Assigned: JY16P1; Roles    JY16P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)
+POCSAG2400: Address:  216251  Function: 2  Alpha:   18:14-28 PROBLEM: Windows NIC: Production is CRITICAL on host GMMHACLVDA24A, <CR><LF>PROBLEM: Windows NIC: Production is CRITICAL on host GMMHACLVDA24A<CR><LF>Service: Windows NIC: Production<CR><LF>Host: GMMHACLVDA24A<CR><LF>Alias: <CR><LF>Address: 192.168.23.154<CR><LF>Host Group Hi<NUL><NUL>
+POCSAG1200: Address:   58416  Function: 0 
+POCSAG1200: Address:  269101  Function: 2  Alpha:   18:16-95 16/11/2021 18:13:59 INC 24675430 10C03 50 WOODSIDE AVENUE, SEDBERGH, LA10 5EY Male 56Y CHEST PAIN AND TINGLING DOWN ARM GRD 365354 492243<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   18:16-62 INC ALERT No: 16787518 Traffic/Transportation Accidents - POLICE - RTC - CYCLIST - HEAD INJURY - BLEEDING, AT: O/S, 336 WIMBORNE ROAD, WINTON BOURNEMOUTH, BH9 2HH, Time of Call: 16/11/2021 18:15:07, Co-ords: 50.740516 -1.8797336
+POCSAG1200: Address:  216501  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216505  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216503  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216507  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216508  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216509  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216510  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216511  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216512  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216515  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216516  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG1200: Address:  216517  Function: 2  Alpha:   18:18:51 S10P1 Fire call 14324<NUL>
+POCSAG2400: Address: 1323047  Function: 2  Alpha:   18:17-65 NHSBT - DONOR REFERRAL. Please call SENIOR SISTER IZZY MARTIN on Direct Dial Number 0117 414 1478 Hospital SOUTHMEAD HOSPITAL, BRISTOL Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1132120  Function: 2 
+POCSAG2400: Address:   70032  Function: 2  Alpha:   al Nu
+POCSAG2400: Address:  859059  Function: 0 
+POCSAG2400: Address:  142619  Function: 0 
+POCSAG2400: Address:  721548  Function: 3 
+POCSAG2400: Address:  375564  Function: 3  Alpha:   @<DLE>
+POCSAG2400: Address: 1994997  Function: 0  Alpha:   &<SI>f<ACK><SUB>m,%
+POCSAG2400: Address: 1444241  Function: 1  Alpha:   <ENQ>$(<SUB>9
+POCSAG2400: Address:  719155  Function: 1  Alpha:    DEpt
+POCSAG2400: Address: 1350708  Function: 3 
+POCSAG2400: Address: 1315749  Function: 1 
+POCSAG2400: Address:  300701  Function: 3  Alpha:   9X
+POCSAG2400: Address:  648966  Function: 3 
+POCSAG2400: Address:  294335  Function: 0  Alpha:   _eag<DC2>
+POCSAG2400: Address:  986329  Function: 1 
+POCSAG2400: Address:  144169  Function: 3 
+POCSAG2400: Address: 1322865  Function: 2  Alpha:   18:17-02 NHSBT - DONOR REFERRAL. Please call SENIOR SISTER IZZY MARTIN on Direct Dial Number 0117 414 1478 Hospital SOUTHMEAD HOSPITAL, BRISW<SO>L Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1022656  Function: 0  Alpha:   18:17-34 NHSBT - DONOR REFERRAL. Please call SENIOR SISTER IZZY MARTIN on Direct Dial Number 0117 414 1478 Hospital SOUTHMEAD HOSPITAL, BRISTOL Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1322867  Function: 2  Alpha:   18:17-90 NHSBT - DONOR REFERRAL. Please call SENIOR SISTER IZZY MARTIN on Direct Dial Number 0117 414 1478 Hospital SOUTHMEAD HOSPITAL, BRISTOL Dept ICU . Regards Donor Referral Line
+POCSAG1200: Address:  677643  Function: 2 
+POCSAG1200: Address:  189075  Function: 0 
+POCSAG1200: Address:  557772  Function: 3 
+POCSAG1200: Address:  894796  Function: 0  Alpha:   nr
+POCSAG1200: Address: 1139925  Function: 0  Alpha:   C#
+POCSAG1200: Address: 1321866  Function: 2  Alpha:   18:17-93 16/11/2021 18:14:54 INC 24675436 O/S ON DUAL CARRIAGEWAY NEAR TO, ACME REFRIGERATION, LOWER PHILIPS ROAD, WHITEBIRK INDUSTRIAL ESTATE BLACKBURN, BB1 5UD Male 25Y SUB CALL MOTORCYCLE V CAR RTC GRD 369979 429843<NUL><NUL>
+POCSAG1200: Address:  549740  Function: 2  Alpha:   18:17-22 ** PROBLEM Service Alert: Production DC - Production - Infrastructure - Nagios Monitoring Server - 002/Check edge hostgroup alert on pdcpinag002 is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check ed
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   18:17-79 16/11/2021 18:14:54 INC 24675436 29D02L O/S ON DUAL CARRIAGEWAY NEAR TO, ACME REFRIGERATION, LOWER PHILIPS ROAD, WHITEBIRK INDUSTRIAL ESTATE BLACKBURN, BB1 5UD Maq2<DLE>
+POCSAG1200: Address:  875113  Function: 0 
+POCSAG1200: Address:  183121  Function: 3 
+POCSAG1200: Address: 1082050  Function: 1  Alpha:   AL
+POCSAG1200: Address: 1070715  Function: 3 
+POCSAG1200: Address:  614187  Function: 1 
+POCSAG1200: Address: 1510620  Function: 3 
+POCSAG1200: Address:  157324  Function: 1 
+POCSAG1200: Address:  158221  Function: 1  Alpha:   a <HT><DLE>)
+POCSAG1200: Address: 1843390  Function: 1 
+POCSAG1200: Address:  676391  Function: 1 
+POCSAG1200: Address:  734063  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1915824  Function: 3 
+POCSAG1200: Address:  918616  Function: 0 
+POCSAG1200: Address: 1265177  Function: 2 
+POCSAG1200: Address: 1162072  Function: 0  Alpha:   rf
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1818161121+++TIME=1818161121<NUL>
+POCSAG1200: Address: 1312565  Function: 2  Alpha:   18:18-09 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1312573  Function: 2  Alpha:   18:18-21 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address:   30290  Function: 3 
+POCSAG1200: Address:  632100  Function: 3 
+POCSAG1200: Address: 1312592  Function: 2  Alpha:   18:18-88 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1312611  Function: 2  Alpha:   18:18-56 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1312575  Function: 2  Alpha:   18:18-62 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1312591  Function: 2  Alpha:   18:18-30 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1594913  Function: 2  Alpha:   18:18-91 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1312572  Function: 2  Alpha:   18:18-25 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1312580  Function: 2  Alpha:   18:18-84 (2/2) ON-CALL APPLIANCES 8 MAX 1 MIN <NUL><NUL>
+POCSAG1200: Address:  534837  Function: 2  Alpha:   l,$L<FF>
+POCSAG1200: Address: 1417742  Function: 0 
+POCSAG1200: Address: 1094663  Function: 3 
+POCSAG1200: Address: 1159943  Function: 1  Alpha:   O%(WH
+POCSAG1200: Address:  330338  Function: 3  Alpha:   d gab
+POCSAG1200: Address:  134157  Function: 0 
+POCSAG1200: Address: 1094662  Function: 3 
+POCSAG1200: Address: 1071814  Function: 1 
+POCSAG1200: Address: 1648231  Function: 1 
+POCSAG1200: Address:  660279  Function: 3  Alpha:   O%
+POCSAG1200: Address:  267032  Function: 3  Alpha:   )<LF><EOT>V2<BS>HI<SOH>$h
+POCSAG1200: Address:   16386  Function: 0  Alpha:   !<CR>)<FF>N
+POCSAG1200: Address:  615222  Function: 3 
+POCSAG1200: Address: 1056848  Function: 1 
+POCSAG1200: Address:   66050  Function: 3 
+POCSAG1200: Address:  353499  Function: 1 
+POCSAG1200: Address: 1715075  Function: 0 
+POCSAG1200: Address: 1335748  Function: 0 
+POCSAG1200: Address: 1585188  Function: 0 
+POCSAG1200: Address: 1218349  Function: 1 
+POCSAG1200: Address:  132565  Function: 3 
+POCSAG1200: Address:  325942  Function: 1  Alpha:   ET
+POCSAG1200: Address: 1782855  Function: 1 
+POCSAG1200: Address:  190216  Function: 3 
+POCSAG1200: Address: 1165833  Function: 0  Alpha:    k`$f
+POCSAG1200: Address: 1417740  Function: 0 
+POCSAG1200: Address: 1094661  Function: 3 
+POCSAG1200: Address: 1159941  Function: 1  Alpha:   .<DC1>
+POCSAG1200: Address:  330336  Function: 3  Alpha:   d gab
+POCSAG1200: Address: 1066321  Function: 0  Alpha:   <ACK>&:';<SO><STX>5
+POCSAG1200: Address:  134155  Function: 0 
+POCSAG1200: Address: 1094660  Function: 3 
+POCSAG1200: Address: 1071812  Function: 1 
+POCSAG1200: Address: 1648229  Function: 1 
+POCSAG1200: Address:  660277  Function: 3 
+POCSAG1200: Address:  267038  Function: 3  Alpha:   )<LF><EOT>Z8<BS>HIqY<EOT><ENQ><DC2>4
+POCSAG1200: Address:   16384  Function: 0  Alpha:   WHC+da<NAK>rp<LF>9<DLE>`ebpt
+POCSAG1200: Address: 1148764  Function: 0  Alpha:   bn
+POCSAG1200: Address: 1091805  Function: 3  Alpha:   <DC2>KR\$
+POCSAG1200: Address: 1056848  Function: 1 
+POCSAG1200: Address:  353499  Function: 1 
+POCSAG1200: Address: 1715075  Function: 0 
+POCSAG1200: Address: 1218349  Function: 1 
+POCSAG1200: Address:  132565  Function: 3 
+POCSAG1200: Address:  325942  Function: 1  Alpha:   ET
+POCSAG1200: Address: 1782855  Function: 1 
+POCSAG1200: Address: 1314983  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1363096  Function: 1 
+POCSAG1200: Address:  190216  Function: 3 
+POCSAG1200: Address: 1320554  Function: 0 
+POCSAG1200: Address:  534835  Function: 2  Alpha:   l,$L<FF>
+POCSAG1200: Address: 1594911  Function: 2  Alpha:   18:18-28 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
+POCSAG1200: Address: 1148766  Function: 0  Alpha:   dd
+POCSAG1200: Address: 1090783  Function: 3  Alpha:   <DC2>Kbg<DC2>
+POCSAG1200: Address:  386504  Function: 2 
+POCSAG1200: Address: 1065601  Function: 2 
+POCSAG1200: Address: 1258082  Function: 0 
+POCSAG1200: Address:  760882  Function: 3 
