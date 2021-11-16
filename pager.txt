@@ -1,3 +1,40 @@
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:34-25 2233<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:33-85 509<DC2><FF>
+POCSAG1200: Address:  940431  Function: 2  Alpha:   16:33-44 16/11/2021 16:29:11 INC 24674985 23D02I NEW STREET, LANCASTER, LA1 1EG Male 48Y Q OVERDOSE NOT MAKING SENSE GRD 347571 461788
+POCSAG1200: Address:  930510  Function: 2  Alpha:   16:33-26 16/11/2021 16:32:42 INC 24674997 06E01 NEXT RETAIL LTD, 4 ST JOHNS SQUARE, BURY, BL9 0JL Male 25Y ASTHMA ATTACK GRD 380885 410968<NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   16:33-00 16/11/2021 16:32:42 INC 24674997 06E01 NEXT RETAIL LTD, 4 ST JOHNS SQUARE, BURY, BL9 0JL Male 25Y ASTHMA ATTACK GRD 380885 410968<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1633161121+++TIME=1633161121<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:33-58 4687<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:33-08 5204<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:32-84 3504<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   16:32-89 3164<NUL>
+POCSAG1200: Address: 1911329  Function: 0  Alpha:   K<DC2>
+POCSAG1200: Address:  876369  Function: 1 
+POCSAG1200: Address: 1253511  Function: 3 
+POCSAG1200: Address: 1231150  Function: 1  Alpha:   IC
+POCSAG1200: Address:  789085  Function: 3  Alpha:   <FS>h
+POCSAG1200: Address: 1734476  Function: 3  Alpha:   6<SI>
+POCSAG1200: Address:   86818  Function: 3  Alpha:   ge1-c
+POCSAG1200: Address:  194282  Function: 3 
+POCSAG1200: Address: 1502329  Function: 1 
+POCSAG1200: Address: 1757625  Function: 0 
+POCSAG1200: Address: 1077064  Function: 1 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>@
+POCSAG1200: Address:  549236  Function: 2  Alpha:   16:32-65 ** PROBLEM Service Alert: Production DC - Production - Infrastructure - Nagios Monitoring Server - 001/Check NBA SLE Streams is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check NBA SLE Streams<CR><LF>Host:
+POCSAG1200: Address:  549740  Function: 2  Alpha:   16:32-18 ** PROBLEM Service Alert: Production DC - Production - Infrastructure - Nagios Monitoring Server - 001/Check NBA SLE Streams is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check NBA SLE Streams<CR><LF>Host:
+POCSAG1200: Address:  216378  Function: 2  Alpha:   16:32-08 N1: zbx DCR-V-AMQLIVE01 Minor: p01 FWTRANSPORT ActiveMQ DLQ.fwtransport.creative.management.v4.create queue depth > 0 2<LF><NUL><NUL>
+POCSAG2400: Address: 1320379  Function: 2  Alpha:   16:31-11 5531<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   16:31-88 3508<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   16:31-91 16/11/2021 16:28:40 INC 24674982 23C07I 14 ELM GROVE, WINSFORD CW7, CW7 3EX Male 53Y OVERDOSE GRD 366373 36614
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:30-63 16/11/2021 16:27:52 INC 24674979 29B01V OFF ROBERT STREET, LORD STREET, STRANGEWAYS MANCHESTER, M3 1HN Unknown UnknownY RTC CAR V CAR GRD 384019 39952
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   F`
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>*
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:30-45 4167<NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   16:30-49 4155<NUL>
+POCSAG1200: Address: 1761369  Function: 2  Alpha:   <DC2>CA<ETX>L
+POCSAG1200: Address:  108034  Function: 0  Alpha:   16:29-84 16/11/2021 16:24:56 W5AHUS12MajAlm Status : W5AHUS12 Major Alarm<NUL>
 POCSAG1200: Address: 1165908  Function: 2 
 POCSAG1200: Address:  779539  Function: 1 
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:29-52 16/11/2021 16:27:08 INC 24674974 25B03 FLAT 3 OXFORD HOUSE, CHARLESTOWN ROAD, BLACKLEY MANCHESTER, M9 7AB Female 30Y WANTS TO KILL HERSELF GRD 385888 402789
@@ -961,40 +998,3 @@ POCSAG1200: Address:  312970  Function: 3
 POCSAG1200: Address: 1782993  Function: 0 
 POCSAG1200: Address: 1912905  Function: 2 
 POCSAG1200: Address:  157824  Function: 0  Alpha:   <SUB>C
-POCSAG1200: Address:  156471  Function: 3  Alpha:   <SUB>Pxg<DC2>
-POCSAG1200: Address:  570600  Function: 0  Alpha:   F<ACK>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:51-28 4172<NUL>
-POCSAG1200: Address:    8281  Function: 2 
-POCSAG1200: Address:  230853  Function: 3  Alpha:   FF
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:51-22 5202<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   V0
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   14:50-82 5205<NUL>
-POCSAG2400: Address: 1200568  Function: 3 
-POCSAG1200: Address:  230853  Function: 3  Alpha:   FB
-POCSAG1200: Address: 2025459  Function: 1 
-POCSAG2400: Address: 1913668  Function: 2  Alpha:   14:49-32 3104<NUL>
-POCSAG2400: Address: 1485413  Function: 2 
-POCSAG2400: Address: 1913818  Function: 2  Alpha:   14:48-79 2441<NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   14:48-50 16/11/2021 14:46:54 INC 24674547 10D04 33 ELMFIELD STREET, CHURCH NR ACCRINGTON, BB5 4EA Male 45Y CHEST PAIN GRD 374837 429084<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1448161121+++TIME=1448161121<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   14:48-69 3119<NUL>
-POCSAG1200: Address:  548165  Function: 2  Alpha:   14:48-14 5<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   14:47-80 2343<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   14:47-89 5074<NUL>
-POCSAG1200: Address:  163233  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   <STX><ACK>
-POCSAG1200: Address:  290108  Function: 3  Alpha:   <ACK><DLE>E`L
-POCSAG1200: Address:  548165  Function: 2  Alpha:   14:45-13 13
-POCSAG2400: Address: 1322516  Function: 2  Alpha:   14:45-30 76652
-POCSAG2400: Address:   28905  Function: 0  Alpha:   14:44-79 5201<NUL>
-POCSAG1200: Address:  718489  Function: 3 
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:43-21 5202<NUL>
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   14:43-38 8263 DAY SURGERY
-POCSAG1200: Address:  209361  Function: 3  Alpha:   F<DC2>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1443161121+++TIME=1443161121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443161121+++TIME=1443161121<NUL>
-POCSAG1200: Address:  906725  Function: 3  Alpha:   <ACK><NUL>
-POCSAG1200: Address:  420445  Function: 3  Alpha:   <DC2>CH2L
-POCSAG1200: Address:   33666  Function: 2  Alpha:   14:42-72 Te<ESC><GS>(;y|
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
