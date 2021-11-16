@@ -1,3 +1,21 @@
+POCSAG1200: Address:  678621  Function: 2  Alpha:   07:09-23 Destination: Parking\D78 Ext TP, Booking Ref#: 800806, Vehicle: PN15RKZ. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:09-55 Tue Nov 16 07:09:01 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce18/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:08-53 Tue Nov 16 07:08:48 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce18/1-linx-status on spine2-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1913856  Function: 0  Alpha:   y2<DLE>rr9z4w0zt77P072<DLE>8ywqr22<DLE>z7<DLE>:t2Pc0z2twzy2<ETB>Eoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo<ACK>E<ACK><ENQ>aw7<NUL><NUL>
+POCSAG1200: Address: 1321707  Function: 2  Alpha:   07:08-16 Destination: D105 SSC In\117, Booking Ref#: 800588, Vehicle: fp18wrc. If no more Booking Ref to unload, igno
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708161121+++TIME=0708161121<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:08-52 Tue Nov 16 07:08:13 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce21/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:08-51 Tue Nov 16 07:08:02 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce20/1-linx-status on spine1-stj-jed1 is CRITICAL (Critical - the interface is currently up/down)<NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   07:07-40 16/11/2021 07:05:56 INC 24672779 31D04 SYLVESTER REST HOME, 77-79 READS AVENUE, BLACKPOOL, FY1 4DG Male 80Y NOT RESPONDING VERY WELL GRD 331203 435793
+POCSAG1200: Address:  234377  Function: 2  Alpha:   07:07-15 16/11/2021 07:05:56 INC 24672779 31D04 SYLVESTER REST HOME, 77-79 READS AVENUE, BLACKPOOL, FY1 4DG Male 80Y NOT RESPONDING VERY WELL GRD 331203 435793
+POCSAG1200: Address:  987049  Function: 2  Alpha:   07:07-24 16/11/2021 07:05:56 INC 246727
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   07:07-77 16/11/2021 07:05:56 INC 24672779 31D04 SYLVESTER REST HOME, 77-79 READS AVENUE, BLACKPOOL, FY1 4DG Male 80Y NOT RESPONDING VERY WELL GRD 331203 435793
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:06-50 Tue Nov 16 07:06:01 UTC 2021 -- PROBLEM : mgmt1-imm ge-0/0/14 on mgmt1-imm is CRITICAL (CRITICAL: Interface ge-0/0/14 (index 530) is down.)
+POCSAG1200: Address:  548183  Function: 2  Alpha:   07:04-38 BA SHEET UPDATED - MARKET DRAYTON 4 VALVES
+POCSAG1200: Address:  585963  Function: 2  Alpha:   07:04-06 BA SHEET UPDATED - MARKET DRAYTON 4 VALVES
+POCSAG1200: Address: 1321541  Function: 2  Alpha:   07:04-94 BA SHEET UPDATED - MARKET DRAYTON 4 VALVES
+POCSAG1200: Address: 1321450  Function: 2  Alpha:   07:04-96 BA SHEET UPDATED - MARKET DRAYTON 4 VALVES
 POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:04-47 Tue Nov 16 07:04:14 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/0/3-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/0/3  [1069] on 192.168.41.2 is currently up/down
 POCSAG2400: Address:   28896  Function: 0  Alpha:   07:03-44 2183<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0703161121+++TIME=0703161121<NUL>
@@ -980,21 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0238161121+++TIME=02
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:37-32 2182<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1801360  Function: 0 
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   02:36-44 33458
-POCSAG1200: Address: 1385434  Function: 2 
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   02:33-42 16/11/2021 02:24:57 INC 24672310 06D04A 28 MAPLE AVENUE, ECCLES MANCHESTER, M30 8JU Female 50Y DIB GRD 375295 399911
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   02:33-14 4167<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0233161121+++TIME=0233161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIM]}8233161121+++TIME=0233161121<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:32-31 4167<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  859296  Function: 0 
-POCSAG1200: Address: 1849416  Function: 3 
-POCSAG1200: Address: 1889703  Function: 1  Alpha:   , eg<DC2>
-POCSAG1200: Address:   92998  Function: 3 
-POCSAG1200: Address:  197131  Function: 2 
-POCSAG1200: Address:  266850  Function: 1  Alpha:   fv&6<SYN>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228161121+++TIME=0228161121<NUL>
