@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:14-02 5204<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:13-01 5369<NUL>
+POCSAG2400: Address: 1913700  Function: 2  Alpha:   14:13-83 4769<NUL>
+POCSAG1200: Address: 1422752  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1413161121+++TIME=1413161121<NUL>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   14:12-69 4457<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:13-27 5809<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   14:13-99 16/11/2021 14:10:45 INC 24674379 26O01 52 STEPHENSON ROAD, STRETFORD MANCHESTER, M32 0SS Male 76Y LOW MAGNESIUM GRD 380029 394617<NUL><NUL>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   Vh
+POCSAG1200: Address:  265302  Function: 3  Alpha:   eP
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   14:11-63 16/11/2021 14:08:57 INC 24674370 06E01 49 WARREN STREET, FLEETWOOD, FY7 6EMI19;<DC4>;<EM>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   14:11-84 16/11/2021 14:08:57 INC 24674370 06E01 49 WARREN STREET, FLEETWOOD, FY7 6EA Female 76Y ON THE FLOOR STRUGGLING TO BREATHE GRD 333710 447933
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:10-37 4179<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:10-18 5204<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1321247  Function: 2  Alpha:   14:10-77 Please call EXTN: 36644<NUL><NUL>
 POCSAG1200: Address:  892449  Function: 2 
 POCSAG1200: Address:  270893  Function: 2  Alpha:   14:09-05 33813
 POCSAG1200: Address: 1761383  Function: 3  Alpha:   <DC2>Cd1L
@@ -981,20 +998,3 @@ POCSAG2400: Address: 1320361  Function: 2  Alpha:   12:29-53 5359<NUL>
 POCSAG1200: Address:  234394  Function: 2  Alpha:   12:30-17 8<NUL>
 POCSAG2400: Address: 1913708  Function: 2  Alpha:   12:29-32 4188<NUL>
 POCSAG2400: Address: 1913886  Function: 2  Alpha:   12:29-35 3576<NUL>
-POCSAG2400: Address: 1320204  Function: 2  Alpha:   12:29-02 3157<NUL>
-POCSAG2400: Address: 1914025  Function: 2  Alpha:   12:29-44 4034<NUL>
-POCSAG2400: Address: 1913823  Function: 2  Alpha:   12:28-64 4167<NUL>
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   12:28-19 5359<NUL>
-POCSAG2400: Address: 1913823  Function: 2  Alpha:   12:28-63 4379<NUL>
-POCSAG2400: Address: 1913745  Function: 2  Alpha:   12:28-74 4881<NUL>
-POCSAG2400: Address:  584425  Function: 2  Alpha:   12:28-17 73837
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   12:28-60 16/11/2021 12:26:11 INC 24673913 06D01 55 WINDMILL ROAD, WALKDEN MANCHESTER, M28 3RP Male 54Y DIB GRD 373092 404159<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1228161121+++TIME=1228161121<NUL>
-POCSAG2400: Address:   33739  Function: 2  Alpha:   12:28-42 INC ALERT No: 16786355 Cardiac Arrest -, AT: ORCHARD MEADOW, ROAD PAST ORCHARD MEADOW, BICKINGTON NEWTON ABBOT, TQ12 6NX, Time of Call: 16/11/2021 12:27:32, Co-ords: 50.5347138 -3.6720273<NUL>
-POCSAG2400: Address: 1913702  Function: 2  Alpha:   12:28-55 5173<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1228161121+++TIME=1228161121<NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:28-27 N1: zbx FCR-V-AMQLIVE01 Warning: AMQ Console Port status changed - check for amq failover Down (0)<LF>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:28-26 N1: zbx FCR-V-AMQLIVE01 Warning: AMQ Broker Port status changed - check for amq failover Down (0)<LF><NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   12:28-25 N1: zbx DCR-V-AMQLIVE01 Critical: Master AMQ server not found Up (1)<LF><NUL>
-POCSAG1200: Address: 1761428  Function: 2  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1324588  Function: 2  Alpha:   12:28-14 PLEASE CALL 4002 , SWITCHBOARD CALL WAITING. 
