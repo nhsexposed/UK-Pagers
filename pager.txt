@@ -1,3 +1,28 @@
+POCSAG2400: Address:   28907  Function: 0  Alpha:   20:09-51 4411<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <EM>j<NUL>aL
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2008161121+++TIME=2008161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2008161121+++TIME=2008161121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:08-08 2300<NUL>
+POCSAG1200: Address: 1483305  Function: 2  Alpha:   20:08-81 16/11/2021 20:07:53 INC 2
+POCSAG2400: Address: 1323465  Function: 2  Alpha:   20:07-48 80300
+POCSAG2400: Address:  549198  Function: 2  Alpha:   20:07-09 80300
+POCSAG2400: Address:  216268  Function: 2  Alpha:   20:07-44 PROBLEM: ICON-MCATP03 is DOWN, <CR><LF>PROBLEM: ICON-MCATP03 is DOWN<CR><LF><CR><LF>Host: ICON-MCATP03<CR><LF>Alias: <CR><LF>Address: 192.168.132.6<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > ICON-MAN-SERVERS<CR><LF>State: DOWN<CR><LF>Date & Time: Tue Nov 16 20:07:1<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CQ,L
+POCSAG2400: Address:  583441  Function: 2  Alpha:   20:06-74 80300
+POCSAG1200: Address:   35328  Function: 2  Alpha:   <STX>4
+POCSAG2400: Address: 2026358  Function: 2 
+POCSAG2400: Address:  583718  Function: 2  Alpha:   20:05-33 80300
+POCSAG2400: Address:  583469  Function: 2  Alpha:   20:05-85 80300
+POCSAG2400: Address:  584222  Function: 2  Alpha:   20:05-19 80300
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:05-07 5070<NUL>
+POCSAG2400: Address:  583528  Function: 2  Alpha:   20:05-79 80300
+POCSAG1200: Address: 2094240  Function: 3 
+POCSAG1200: Address:  108034  Function: 0  Alpha:   20:05-85 16/11/2021 20:01:52 B11AH19MajorAlm Status : AH19 Major Alarm<NUL>
+POCSAG2400: Address: 1323305  Function: 2  Alpha:   20:04-39 80300
+POCSAG1200: Address:   40161  Function: 2  Alpha:   20:04-99 please call rfh ext 36086
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <NAK>S
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   20:04-57 please call rfh ext 36086
 POCSAG2400: Address:  583587  Function: 2  Alpha:   20:04-48 80300
 POCSAG1200: Address: 1032734  Function: 0 
 POCSAG1200: Address:  428496  Function: 2  Alpha:   20:03-66 31072
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1630831  Function: 0
 POCSAG1200: Address:  269100  Function: 2  Alpha:   18:08-28 16/11/2021 18:06:47 INC 24675396 06D01 24 CLOVELLY STREET, CASTLETON ROCHDALE, OL11 3HL Male 62Y DIB,NOT WELL GRD 387775 411392<NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   18:08-22 16/11/2021 18:06:47 INC 24675396 06D01 24 CLOVELLY STREET, CASTLETON ROCHDALE, OL11 3HL Male 62Y DIB,NOT WELL GRD 387775 411392<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1808161121+++TIME=1808161121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1808161121+++TIME=1808161121<NUL>
-POCSAG2400: Address: 1913852  Function: 2  Alpha:   18:06-46 2132<NUL>
-POCSAG2400: Address: 1913852  Function: 2  Alpha:   18:06-45 2132<NUL>
-POCSAG1200: Address: 1324655  Function: 2  Alpha:   18:06-43 ** PROBLEM Host Alert: 240948717-Cloudfront-Bloomberg-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 240948717-Cloudfront-Bloomberg-ON<CR><LF>State: DOWN<CR><LF>Address: 240948717<CR><LF>Info: CRITICAL: no levels<CR><LF><CR><LF>Notifica
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  549236  Function: 2  Alpha:   18:05-67 ** PROBLEM Host Alert: 240948717-Cloudfront-Bloomberg is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 240948717-Cloudfront-Bloomberg<CR><LF>State: DOWN<CR><LF>Address: 240948717<CR><LF>Info: CRITICAL: no levels<CR><LF><CR><LF>Notification C
-POCSAG2400: Address:  585264  Function: 2  Alpha:   18:05-18 What does the next generation UFO higbay look like, What does the next generation UFO higbay look like<CR><LF><CR><LF>Hello emergency@ideaworks.co.uk,<CR><LF><CR><LF>g<FS><VT>d8<LF>e<SO>;d<<d9<SO>f<STX>(g<SUB><EOT>e-mailh=/d;6d8<CR>f<DC4>/f<FF><SOH>HTMLc<NUL><STX><CR><LF>h/7h.?i<ETB>.d8<VT>i<GS>"g<SUB><EOT>g=<DC1>i!5d=?f<STX>(h<ETX>=e$<US>e<FS>(g=<DC1>i!5f5<SI>h'<BS>e<ENQ>6d8-i<CAN><ENQ>h/;h?<EM>f<GS>!d?!f<SOH>/o<<SUB><CR><LF>http://edm.signcomplex.com.cn/x/?S7Y1_p9ra2Zi<NUL>
-POCSAG1200: Address:  695397  Function: 2  Alpha:   18:05-38 16/11/2021 18:03:01 INC 24675377 09D02 21 CLIFTON TERRACE, HODDLESDEN DARWEN, BB3 3NR Male 56Y FOUND A PT AT BOTTOM OF STAIRS NOT BREATHING GRD 371447 422900<NUL><NUL>
-POCSAG1200: Address:  930510  Function: 2  Alpha:   18:05-32 16/11/2021 18:03:01 INC 24675377 09D02 21 CLIFTON TERRACE, HODDLESDEN DARWEN, BB3 3NR Male 56Y FOUND A PT AT BOTTOM OF STAIRS NOT BREATHING GRD 371447 422900<NUL><NUL>
-POCSAG1200: Address: 1321960  Function: 0 
-POCSAG1200: Address:  679608  Function: 2  Alpha:   18:04-25 62226
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   18:04-55 62226
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:04-15 4157<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   18:04-18 16/11/2021 18:03:03 INC 24675378 06D01 13 ROSEBERY AVENUE, SOUTH SHORE BLACKPOOL, FY4 1LA Male 84Y DIB GRD 330954 432931<NUL><NUL>
-POCSAG1200: Address:  696528  Function: 2  Alpha:   18:04-10 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>h
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803161121+++TIME=1803161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803161121+++TIME=1803161121<NUL>
-POCSAG2400: Address: 1114120  Function: 0 
-POCSAG2400: Address:  549098  Function: 2  Alpha:   18:02-64 Regarding donor 152976, 17/06/1963, Pinderfields General Hospital, Wakefield - Treatment withdrawn 17:20, Asystole 17:39, KTS 17:47
-POCSAG2400: Address:  549112  Function: 2  Alpha:   18:02-93 Regarding donor 152976, 17/06/1963, Pinderfields General Hospital, Wakefield - Treatment withdrawn 17:20, Asystole 17:39, KTS 17:47
-POCSAG2400: Address:  549115  Function: 2  Alpha:   18:02-68 Regarding donor 152976, 17/06/1963, Pinderfields General Hospital, Wakefield - Treatment withdrawn 17:20, Asystole 17:39, KTS 17:47
-POCSAG1200: Address: 1511970  Function: 3  Alpha:   vj
-POCSAG2400: Address: 1749844  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
