@@ -1,3 +1,28 @@
+POCSAG2400: Address:  149113  Function: 2  Alpha:   09:19-94 4885<NUL>
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   09:19-67 2182<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   09:18-07 N1: zbx DCR-V-ESBLIVE01 Minor: DCR-V-ESBLIVE01 Agency Portal Campaign Service failed 500<LF><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0918161121+++TIME=0918161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0918161121+++TIME=0918161121<NUL>
+POCSAG2400: Address: 1321512  Function: 2  Alpha:   09:18-93 NANA PLS CALL SID 07944 595 840 <NUL>
+POCSAG1200: Address: 1321711  Function: 2  Alpha:   09:18-08 Destination: Parking\D78 Ext TP, Booking Ref#: 801019, Vehicle: dk09fym. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   09:17-87 4157<NUL>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   09:17-72 4183<NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   09:17-26 3104<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   09:17-34 3240<NUL>
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-73 0913 Area Controllers Test pag
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   09:16-17 SECC team test<NUL><NUL>
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2><ETX>a1L
+POCSAG2400: Address:   28927  Function: 0  Alpha:   09:15-12 2184<NUL>
+POCSAG1200: Address: 1202789  Function: 2 
+POCSAG1200: Address:   74227  Function: 3  Alpha:   okang
+POCSAG1200: Address: 1059105  Function: 1 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   09:15-00 16/11/2021 09:14:13 INC 24673135 31E01 367 GUILDFORD ROAD, BIRKDALE SOUTHPORT PR8, PR8 3EB Male 74Y UNRESPONSIVE, NOISY BREATHING GRD 333117 413435<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   09:15-24 16/11/2021 09:14:13 INC 24673135 31E01 367 GUILDFORD ROAD, BIRKDALE SOUTHPORT PR8, PR8 3EB M<ESC><SUB><EM>h
+POCSAG2400: Address:   28911  Function: 0  Alpha:   09:15-14 3104<NUL>
+POCSAG1200: Address:  548014  Function: 2  Alpha:   09:15-46 Destination: Parking\D78 Ext T
+POCSAG1200: Address:  413059  Function: 2  Alpha:   09:14-24 (2/2) Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Detached ; BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   09:14-08 16/11/2021 09:13:25 INC 24673133 10D02 7 LOWTHER STREET, GREAT LEVER BOLTON, BL3 2HP Female 35Y chest pain - dib GRD 372373 407216<NUL>
 POCSAG2400: Address: 1323201  Function: 2  Alpha:   09:13-92 Please call CRITICAL CARE RESEARCH NURSE LACE ROSAROSO on 07400 022 969 from QUEENS HOSPITAL, ROMFORD, regarding a research trial. Many thanks.<NUL><NUL>
 POCSAG2400: Address:  583574  Function: 2  Alpha:   09:13-36 Please call CRITICAL CARE RESEARCH NURSE LACE ROSAROSO on 07400 022 969 from QUEENS HOSPITAL, ROMFORD, regarding a research trial. Many thanks.<NUL><NUL>
 POCSAG2400: Address: 1323218  Function: 2  Alpha:   09:13-10 Please call CRITICAL CARE RESEARCH NURSE LACE ROSAROSO on 07400 022 969 from QUEENS HOSPITAL, ROMFORD, regarding a research trial. Many thanks.<NUL><NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address:  892066  Function: 0
 POCSAG1200: Address: 1090937  Function: 2 
 POCSAG1200: Address: 1664729  Function: 1 
 POCSAG1200: Address:  765079  Function: 0  Alpha:   <LF>IHg<DC2><DC4><CR><<ENQ>d<EOT>
-POCSAG1200: Address:   78245  Function: 3  Alpha:   male 62Y
-POCSAG1200: Address: 1726484  Function: 3  Alpha:   ,4
-POCSAG1200: Address: 1020707  Function: 2  Alpha:   <STX>2
-POCSAG1200: Address: 1909114  Function: 2 
-POCSAG1200: Address:  651921  Function: 2  Alpha:   "<DLE><SOH>f`
-POCSAG1200: Address: 1182504  Function: 1 
-POCSAG1200: Address: 1750095  Function: 2 
-POCSAG1200: Address:  625684  Function: 2 
-POCSAG1200: Address: 1336516  Function: 0 
-POCSAG1200: Address:  987049  Function: 2  Alpha:   07:28-27 16/11/2021 07:21:35 INC 24672807 28C01J 12 FARINGDON AVENUE, SOUTH SHORE BLACKPOOL, FY4 3QQ Female 62Y WITHDRAWAL SYMPTOMS VISION PROBLEMS CANT WALK GRD 332006 432279<NUL><NUL>
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:28-19 Tue Nov 16 07:28:43 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/2/3-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/2/3  [635] on 192.168.45.17 is currently up/down
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:28-17 Tue Nov 16 07:28:28 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/2-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/2  [630] on 192.168.45.17 is currently up/down
-POCSAG2400: Address:   28894  Function: 0  Alpha:   07:28-83 2180<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728161121+++TIME=0728161121<NUL>
-POCSAG1200: Address: 1374897  Function: 1 
-POCSAG1200: Address: 1718177  Function: 1 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   07:28-84 33844
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:28-11 Tue Nov 16 07:28:10 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/3-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/3  [631] on 192.168.45.17 is currently up/down
-POCSAG1200: Address:  267831  Function: 2  Alpha:   07:28-24 4<NUL>
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-10 Tue Nov 16 07:27:57 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/2/3-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/2/3  [1078] on 192.168.41.2 is currently up/down
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-09 Tue Nov 16 07:27:51 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/2-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/0/2  [626] on 192.168.45.17 is currently up/down
-POCSAG1200: Address:  519937  Function: 1 
-POCSAG1200: Address: 1736352  Function: 3 
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-07 Tue Nov 16 07:27:40 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/2/2-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/2/2  [1076] on 192.168.41.2 is currently up/down
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-06 Tue Nov 16 07:27:32 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/1-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/1  [629] on 192.168.45.17 is currently up/down
