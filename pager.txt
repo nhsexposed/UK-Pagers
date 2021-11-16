@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   23:24-79 16/11/2021 23:23:11 INC 24676559 10D01 2 LANGHOLME PLACE, ECCLES MANCHESTER, M30 8PX Female 55Y CHEST PAIN AND TINGLES DOWN ARM GRD 376005 398651
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2323161121+++TIME=2323161121<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   23:23-87 16/11/2021 23:20:42 INC 24676547 01C06 20 LOWDEN AVENUE, LITHERLAND L21, L21 9JF Female 81Y lower back / abdo GRD 333925 398411<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  875720  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   23:20-40 please call arienne, brunel ward x38079
+POCSAG2400: Address:  216663  Function: 2  Alpha:   23:19-80 07395119825 - Mrs Cherry : 29 Weardale Road Carlisle Cumbria CA2 7BT Bitch Cheeka whelping panting having contractions for last 6 hours with no puppies phone call requested<NUL>
 POCSAG1200: Address:   40118  Function: 2  Alpha:   23:19-87 16/11/2021 23:17:39 INC 24676540 30D03 15 LIME STREET, ELLESMERE PORT CH65, CH65 2AY Male 18Y VISION GOING HEAD INJURY SEVERE PAIN GRD 340067 377281
 POCSAG1200: Address: 1948435  Function: 3  Alpha:   p@xfndbr
 POCSAG1200: Address:   91666  Function: 1 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1287913  Function: 0
 POCSAG1200: Address: 1840280  Function: 2  Alpha:   =<FS>
 POCSAG1200: Address: 1261415  Function: 0  Alpha:   3<HT>
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:52-27 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   20:52-57 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
-POCSAG1200: Address: 1509880  Function: 2  Alpha:   20:52-94 16/11/2021 20:49:21 INC 24676025 02E01 FLAT 8, 15 LORD STREET, RUNCORN WA7, WA7 1HF Female 35Y F- DIB GRD 350940 383156
-POCSAG1200: Address:  269059  Function: 2  Alpha:   20:52-54 16/11/2021 20:49:21 INC 24676025 02E01 FLAT 8, 15 LORD STREET, RUNCORN WA7, WA7 1HF Female 35Y F- DIB GRD 350940 383156
-POCSAG1200: Address: 1107090  Function: 2 
-POCSAG1200: Address: 1546288  Function: 1  Alpha:    <EOT>
-POCSAG1200: Address:  548170  Function: 2  Alpha:   20:51-26 PROCEED TO:  BUILDING FIRE/DOMESTIC; FY45BJ,   31 LOWFIELD ROAD   BLACKPOOL , WHERNSIDE/WALKERS HILL; FNWR-OPS06; ROLE:[BL] SM OR GM (SKILL-TAC) ;    ; L30P1 L36P1 LS061 LS067<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   20:51-40 16/11/2021 20:49:21 INC 24676025 06E01 FLAT 8, 15 LORD STREET, RUNCORN WA7, WA7 1HF Female 35Y F- DIB GRD 350940 383156
-POCSAG1200: Address:   41512  Function: 2  Alpha:   20:51-04 33455
