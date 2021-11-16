@@ -1,3 +1,37 @@
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   12:29-02 3157<NUL>
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   12:29-44 4034<NUL>
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   12:28-64 4167<NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   12:28-19 5359<NUL>
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   12:28-63 4379<NUL>
+POCSAG2400: Address: 1913745  Function: 2  Alpha:   12:28-74 4881<NUL>
+POCSAG2400: Address:  584425  Function: 2  Alpha:   12:28-17 73837
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   12:28-60 16/11/2021 12:26:11 INC 24673913 06D01 55 WINDMILL ROAD, WALKDEN MANCHESTER, M28 3RP Male 54Y DIB GRD 373092 404159<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1228161121+++TIME=1228161121<NUL>
+POCSAG2400: Address:   33739  Function: 2  Alpha:   12:28-42 INC ALERT No: 16786355 Cardiac Arrest -, AT: ORCHARD MEADOW, ROAD PAST ORCHARD MEADOW, BICKINGTON NEWTON ABBOT, TQ12 6NX, Time of Call: 16/11/2021 12:27:32, Co-ords: 50.5347138 -3.6720273<NUL>
+POCSAG2400: Address: 1913702  Function: 2  Alpha:   12:28-55 5173<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1228161121+++TIME=1228161121<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:28-27 N1: zbx FCR-V-AMQLIVE01 Warning: AMQ Console Port status changed - check for amq failover Down (0)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:28-26 N1: zbx FCR-V-AMQLIVE01 Warning: AMQ Broker Port status changed - check for amq failover Down (0)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:28-25 N1: zbx DCR-V-AMQLIVE01 Critical: Master AMQ server not found Up (1)<LF><NUL>
+POCSAG1200: Address: 1761428  Function: 2  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1324588  Function: 2  Alpha:   12:28-14 PLEASE CALL 4002 , SWITCHBOARD CALL WAITING. 
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:27-88 5075<NUL>
+POCSAG1200: Address:  142888  Function: 3 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:27-94 16/11/2021 12:25:21 INC 24673906 06E01 OUTSIDE, 13 BELGRAVE BUNGALOWS, RADCLIFFE MANCHESTER, M26 4PD Female 57Y COPD - CANT GET BREATH PROPERLY GRD 377863 407669<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   12:27-46 16/11/2021 12:25:21 INC 24673906 06E01 OUTSIDE, 13 BELGRAVE BUNGALOWS, RADCLIFFE MANCHESTER, M26 4PD Female 57Y COPD - CANT GET BREATH PROPERLY GRD 377863 407669<NUL>
+POCSAG1200: Address:   22104  Function: 2  Alpha:   12:26-67 16/11/2021 12:23:56 INC 24673900 23B01I 13 HEATHER GROVE, PEMBERTON WIGAN, WN5 9PJ Female 30Y F OVERDOSE GRD 356448 404808
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   12:26-22 16/11/2021 12:23:56 INC 24673900 23B01I 13 HEATHER GROVE, PEMBERTON WIGAN, WN5 9PJ Female 30Y F OVERDOSE GRD 356448 404808
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   12:26-18 5204<NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   12:25-29 RING AMAUA ON 753229 QEQM <NUL><NUL>
+POCSAG2400: Address: 1022590  Function: 0  Alpha:   12:25-60 235<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:25-68 4099<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:25-24 N1: zbx FCR-V-AMQLIVE01 Warning: AMQ Console Port status changed - check for amq failover Up (1)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:25-24 N1: zbx FCR-V-AMQLIVE01 Warning: p01 C4NL ActiveMQ c4nl_delayed_message_Store queue depth > 320 385<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:25-22 N1: zbx DCR-V-AMQLIVE01 Warning: AMQ Console Port status changed - check for amq failover Down (0)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:25-23 N1: zbx DCR-V-AMQLIVE01 Warning: AMQ Broker Port status changed - check for amq failover Down (0)<LF><NUL>
+POCSAG2400: Address: 1913682  Function: 2  Alpha:   12:24-19 4625<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:24-20 N1: zbx FCR-V-ESBLIVE01 Warning: FCR-V-ESBLIVE01 Image Integration getmodifiedasset linear  - failed step 1<LF>
 POCSAG2400: Address: 1022590  Function: 0  Alpha:   12:24-59 235<NUL><NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   12:24-28 3129<NUL>
 POCSAG2400: Address: 1242621  Function: 2  Alpha:   12:23-15 NHSBT - DONOR REFERRAL. Please call Dr David Shearn on Direct Dial Number 02392 286 000 ext 3792 Hospital Queen Alexandra Hospital, Portsmouth Dept ICU . Regards Donor Referral Line<NUL>
@@ -964,37 +998,3 @@ POCSAG1200: Address: 1224032  Function: 0
 POCSAG1200: Address: 1927399  Function: 2  Alpha:   O%
 POCSAG1200: Address:  563719  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1322510  Function: 2  Alpha:   10:46-58 80300
-POCSAG2400: Address: 1324369  Function: 2  Alpha:   10:45-53 80300
-POCSAG2400: Address:   28905  Function: 0  Alpha:   10:45-69 5013<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   10:45-93 2343<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:45-46 4183<NUL>
-POCSAG2400: Address: 1913776  Function: 2  Alpha:   10:45-04 2075<NUL>
-POCSAG1200: Address:  464524  Function: 3 
-POCSAG1200: Address:  183516  Function: 1 
-POCSAG1200: Address:  596266  Function: 3  Alpha:   <<EOT><SUB><DC4>%
-POCSAG1200: Address: 1097306  Function: 3 
-POCSAG1200: Address: 1278992  Function: 3 
-POCSAG1200: Address:  428383  Function: 0  Alpha:   O%
-POCSAG1200: Address:  825391  Function: 1 
-POCSAG1200: Address: 1612277  Function: 0  Alpha:   OR - 
-POCSAG1200: Address:  631309  Function: 1 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:45-26 16/11/2021 10:40:36 INC 24673471 13D01 CROWNS PAINT, HOLLINS ROAD, DARWEN, BB3 0BJ Female 62Y FOUND HER O&<DLE>*
-POCSAG1200: Address:  433871  Function: 2  Alpha:   10:45-78 2564<NUL>
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address:  584087  Function: 2  Alpha:   10:45-69 80300
-POCSAG1200: Address: 1679539  Function: 1 
-POCSAG1200: Address:  562770  Function: 1  Alpha:   ER
-POCSAG1200: Address:  117570  Function: 3 
-POCSAG1200: Address:  754761  Function: 2 
-POCSAG1200: Address: 1717824  Function: 0  Alpha:   R*(@V
-POCSAG1200: Address: 1067671  Function: 2  Alpha:   O%
-POCSAG1200: Address:  577799  Function: 3 
-POCSAG1200: Address: 1819558  Function: 2 
-POCSAG1200: Address:  366254  Function: 2 
-POCSAG1200: Address: 1578405  Function: 0 
-POCSAG1200: Address: 1876141  Function: 3 
-POCSAG1200: Address:  630586  Function: 2 
-POCSAG1200: Address:  840445  Function: 1  Alpha:   <CAN><CAN>
-POCSAG1200: Address:  290120  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE>N<NAK><ESC><DC2>)2f
