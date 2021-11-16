@@ -6667,3 +6667,53 @@ POCSAG2400: Address: 1322666  Function: 2  Alpha:   13:59-09 We are OPEL 4<LF>Pl
 POCSAG2400: Address: 1322408  Function: 2  Alpha:   13:59-47 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
 POCSAG2400: Address: 1322252  Function: 2  Alpha:   13:59-36 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
 POCSAG2400: Address: 1322230  Function: 2  Alpha:   13:59-21 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322231  Function: 2  Alpha:   13:59-10 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322271  Function: 2  Alpha:   13:59-44 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322666  Function: 2  Alpha:   14:00-10 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322206  Function: 2  Alpha:   14:00-52 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322202  Function: 2  Alpha:   14:00-70 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322233  Function: 2  Alpha:   14:00-26 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1982197  Function: 2  Alpha:   <ACK><DC2>/6O.><BEL>J<DEL>.<ETB><BEL><LF><RS>&O~v<ACK><SUB><SO><SYN>'<RS><BEL>2~<SYN><BEL>z<EOT>-d<EOT>"s<STX><NUL>
+POCSAG2400: Address: 1785008  Function: 0 
+POCSAG2400: Address: 1322624  Function: 2  Alpha:   14:00-18 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322229  Function: 2  Alpha:   14:00-25 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322352  Function: 2  Alpha:   14:00-47 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322222  Function: 2  Alpha:   14:00-00 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322217  Function: 2  Alpha:   14:00-05 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 2078360  Function: 2 
+POCSAG2400: Address: 1322213  Function: 2  Alpha:   14:00-41 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1322608  Function: 2  Alpha:   14:00-33 We are OPEL 4<LF>Please review your action cards for OPEL 4.<NUL><NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   14:00-09 5072<NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   14:00-34 4114<NUL>
+POCSAG2400: Address: 2016511  Function: 0  Alpha:   <CAN><SUB>}g<DC2>
+POCSAG2400: Address:   99160  Function: 1  Alpha:   jl
+POCSAG2400: Address: 1530465  Function: 0 
+POCSAG2400: Address:  662137  Function: 1  Alpha:   <FF>t
+POCSAG2400: Address:  369250  Function: 2 
+POCSAG2400: Address:   71251  Function: 1 
+POCSAG2400: Address:   85459  Function: 1  Alpha:   Cg
+POCSAG2400: Address: 1582324  Function: 2 
+POCSAG2400: Address:  900285  Function: 1  Alpha:   |<SO>
+POCSAG2400: Address: 1046366  Function: 2 
+POCSAG2400: Address: 1278598  Function: 2  Alpha:   ction`3<HT>
+POCSAG2400: Address: 1456232  Function: 0 
+POCSAG2400: Address: 1875568  Function: 1 
+POCSAG2400: Address:  315353  Function: 0  Alpha:   <FS>h
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:  600900  Function: 0  Alpha:   14:00-21 This is a TEST Message; please respond using your pager<NUL>
+POCSAG1200: Address:  978271  Function: 1 
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>CH<CAN>L
+POCSAG2400: Address: 1913928  Function: 2  Alpha:   14:01-72 3157<NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   14:02-68 3104<NUL>
+POCSAG1200: Address:  618435  Function: 3  Alpha:   E2
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   <DC2>@
+POCSAG2400: Address: 1913918  Function: 2  Alpha:   14:03-17 4139<NUL>
+POCSAG2400: Address: 1321200  Function: 2  Alpha:   14:03-88 call x38436
+POCSAG2400: Address: 1022656  Function: 0  Alpha:   YA<ACK><US><GS>'+<EM>)<ETX><GS>)A<SYN><DC3><VT>%<ETX><GS>A$<US><US><GS><VT>3A^]A<BS>SeKGiA<BS>SCYA<FS>k[EKeA`nrnn@bfh@nbh@<DLE>_gaSiCYA<EOT>%<DC3>')<US><EM>A$<US>3<ETX><EM>A<DC2><GS><CR><DC3>%<ESC><ETX>%3A<BS>KaiA<DC2><BEL>+A\@$KOCeIgA<BS>_]_eA$KMKeeCYA<CAN>S]K
+POCSAG2400: Address:  549213  Function: 2  Alpha:   14:03-81 NHSBT - DONOR REFERRAL. Please call CONSULTANT KIERAN ROONEY on Direct Dial Number 07977 134 714 Hospital BRISTOL ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   14:04-67 3508<NUL>
+POCSAG2400: Address: 1322867  Function: 2  Alpha:   14:03-85 NHSBT - DONOR REFERRAL. Please call CONSULTANT KIERAN ROONEY on Direct Dial Number 07977 134 714 Hospital BRISTOL ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1322764  Function: 2  Alpha:   14:04-80 NHSBT - DONOR REFERRAL. Please call CONSULTANT KIERAN ROONEY on Direct Dial Number 07977 134 714 Hospital BRISTOL ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address:  549067  Function: 2  Alpha:   14:04-98 NHSBT - DONOR REFERRAL. Please call CONSULTANT KIERAN ROONEY on Direct Dial Number 07977 134 714 Hospital BRISTOL ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1322760  Function: 2  Alpha:   14:04-13 NHSBT - DONOR REFERRAL. Please call CONSULTANT KIERAN ROONEY on Direct Dial Number 07977 134 714 Hospital BRISTOL ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1322897  Function: 2  Alpha:   14:04-04 NHSBT - DONOR REFERRAL. Please call CONSULTANT KIERAN ROONEY on Direct Dial Number 07977 134 714 Hospital BRISTOL ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
