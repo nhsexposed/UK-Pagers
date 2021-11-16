@@ -6899,3 +6899,47 @@ POCSAG1200: Address: 1032699  Function: 3  Alpha:   v
 POCSAG1200: Address: 1718896  Function: 1 
 POCSAG1200: Address:   42213  Function: 2 
 POCSAG1200: Address: 2025317  Function: 0 
+POCSAG1200: Address: 1512730  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address:  214413  Function: 1  Alpha:   S<DC4>
+POCSAG1200: Address:   68086  Function: 1  Alpha:   SP
+POCSAG1200: Address:  234186  Function: 2  Alpha:   14:39-80 FAST 
+POCSAG1200: Address: 1476701  Function: 2  Alpha:   )J<SUB><LF><DC4>
+POCSAG1200: Address: 1233158  Function: 3 
+POCSAG1200: Address: 1071815  Function: 1 
+POCSAG1200: Address: 1648231  Function: 1  Alpha:   O%
+POCSAG1200: Address:  660272  Function: 3 
+POCSAG1200: Address:  856139  Function: 0  Alpha:   <CAN><SUB>
+POCSAG1200: Address:   33708  Function: 2  Alpha:   14:40-71 TEST CALL FOR DAVE HOLMAN
+POCSAG1200: Address:  549745  Function: 2  Alpha:   14:39-58 ATTEND:<LF>CO ALARM<LF>104 KILLOWEN STREET,BALLYMACARRETT,BELFAST,.<LF>0P 2T<LF>32585211<LF>J 35724 73088<LF>E1101 E1102 EO03 EO14<LF>END
+POCSAG1200: Address:   33646  Function: 2  Alpha:   14:40-08 TEST CALL FOR DAVE HOLMAN
+POCSAG1200: Address:   33652  Function: 2  Alpha:   14:40-73 TEST CALL FOR DAVE HOLMAN
+POCSAG2400: Address:  287512  Function: 2  Alpha:   Alphanumeric test Tuesday 1439<NUL>
+POCSAG1200: Address:   33650  Function: 2  Alpha:   14:40-14 TEST CALL FOR DAVE HOLMAN
+POCSAG1200: Address:   33649  Function: 2  Alpha:   14:40-87 TEST CALL FOR DAVE HOLMAN
+POCSAG1200: Address:   33653  Function: 2  Alpha:   14:40-39 14:40-38 TEST CALL FOR DAVE HOLMAN<NUL><NUL>
+POCSAG2400: Address: 1913970  Function: 2  Alpha:   14:39-98 4269<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   14:40-04 5242<NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   14:40-37 4114<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   14:41-87 4399<NUL>
+POCSAG2400: Address:  549438  Function: 2  Alpha:   14:41-47 x1 person trapped in HAE lift. Dispatched FRS
+POCSAG2400: Address:  549442  Function: 2  Alpha:   14:41-27 x1 person trapped in HAE lift. Dispatched FRS
+POCSAG2400: Address:  549432  Function: 2  Alpha:   14:41-32 x1 person trapped in HAE lift. Dispatched FRS
+POCSAG1200: Address: 1582187  Function: 1  Alpha:   J2<SOH>5Fe<SOH>E)<DC2><STX>5<ACK>3<ETB><ETX>]Ue<STX><EM>>V:<DC2><STX>%:<STX><DC1>>>J^<ACK>f<STX>5<SOH>U:J<SYN>NB>:N&Z<SYN><STX>5<SOH>!&R<STX>!<SYN><ACK><DC2><STX><GS>J<DC2><STX>Ma]EMY<SOH>MeIMY]<SOH><NUL>
+POCSAG2400: Address:  549464  Function: 2  Alpha:   14:41-05 x1 person trapped in HAE lift. Dispatched FRS
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   14:42-75 65056
+POCSAG1200: Address:   33708  Function: 2  Alpha:   14:42-72 Test message for Dave Holman only <NUL><NUL>
+POCSAG1200: Address:   33650  Function: 2  Alpha:   14:42-15 Test message for Dave Holman only <NUL><NUL>
+POCSAG1200: Address:   33649  Function: 2  Alpha:   14:42-88 Test message for Dave Holman only <NUL><NUL>
+POCSAG2400: Address: 1323341  Function: 2  Alpha:   14:42-83 Test message for Dave Holman only <NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:   33666  Function: 2  Alpha:   14:42-72 Te<ESC><GS>(;y|
+POCSAG1200: Address:  420445  Function: 3  Alpha:   <DC2>CH2L
+POCSAG1200: Address:  906725  Function: 3  Alpha:   <ACK><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443161121+++TIME=1443161121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1443161121+++TIME=1443161121<NUL>
+POCSAG1200: Address:  209361  Function: 3  Alpha:   F<DC2>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   14:43-38 8263 DAY SURGERY
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:43-21 5202<NUL>
+POCSAG1200: Address:  718489  Function: 3 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   14:44-79 5201<NUL>
