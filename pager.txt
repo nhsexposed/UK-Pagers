@@ -1,3 +1,105 @@
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:29-24 Tue Nov 16 07:29:32 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/3/2-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/3/2  [636] on 192.168.45.17 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:29-22 Tue Nov 16 07:29:00 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/1/2-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/1/2  [1072] on 192.168.41.2 is currently up/down
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   07:28-48 INC ALERT No: 16785364 Traumatic Injuries (Specific) - CONFUSED - HEAD INJURY - FOUND ON FLOOR, AT: O/S, 21A AVON RUN ROAD, CHRISTCHURCH, BH23 4DY, Time of Call: 16/11/2021 07:25:55, Co-ords: 50.7314854 -1.7323257
+POCSAG1200: Address:  789083  Function: 3  Alpha:   <FS>h8]\,Y<ESC><DC1>;<RS>
+POCSAG1200: Address: 1717155  Function: 1 
+POCSAG1200: Address: 1489416  Function: 1  Alpha:   77
+POCSAG1200: Address:  337372  Function: 1 
+POCSAG1200: Address:  923683  Function: 3  Alpha:   <EOT>j
+POCSAG1200: Address:  990904  Function: 1  Alpha:   <NAK>m
+POCSAG1200: Address: 1454455  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1253511  Function: 3 
+POCSAG1200: Address: 1231150  Function: 1  Alpha:   IC
+POCSAG1200: Address:  789085  Function: 3  Alpha:   <FS>h
+POCSAG1200: Address: 1734476  Function: 3  Alpha:   6<SI>
+POCSAG1200: Address:   86818  Function: 3  Alpha:   ge1-c
+POCSAG1200: Address:  194282  Function: 3 
+POCSAG1200: Address: 1502329  Function: 1 
+POCSAG1200: Address: 1757625  Function: 0 
+POCSAG1200: Address: 1339224  Function: 0 
+POCSAG1200: Address: 1915759  Function: 3  Alpha:   a1Mg<DC2>T<CAN>X
+POCSAG1200: Address:  189461  Function: 3 
+POCSAG1200: Address: 1717828  Function: 0 
+POCSAG1200: Address:   66891  Function: 0  Alpha:   OB
+POCSAG1200: Address:  177515  Function: 1 
+POCSAG1200: Address:  825906  Function: 1 
+POCSAG1200: Address:  266850  Function: 1 
+POCSAG1200: Address: 1397433  Function: 0 
+POCSAG1200: Address:  420879  Function: 1  Alpha:   O%
+POCSAG1200: Address:  791454  Function: 2  Alpha:   m<SO>
+POCSAG1200: Address:  226908  Function: 2 
+POCSAG1200: Address: 1652591  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1141967  Function: 1 
+POCSAG1200: Address: 1676038  Function: 3  Alpha:   `l
+POCSAG1200: Address:  557773  Function: 3 
+POCSAG1200: Address:  189077  Function: 2 
+POCSAG1200: Address:  792355  Function: 2 
+POCSAG1200: Address: 1876147  Function: 1 
+POCSAG1200: Address:  634008  Function: 2 
+POCSAG1200: Address:  892064  Function: 0 
+POCSAG1200: Address: 1090943  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1664735  Function: 1 
+POCSAG1200: Address:  765077  Function: 0  Alpha:   <LF>I<BS><SUB>x<LF>H<HT>
+POCSAG1200: Address:   78243  Function: 3  Alpha:   male 62Y
+POCSAG1200: Address: 1726482  Function: 3  Alpha:   ,4
+POCSAG1200: Address: 1020705  Function: 2  Alpha:   <STX>2
+POCSAG1200: Address: 1182510  Function: 1 
+POCSAG1200: Address: 1060029  Function: 3  Alpha:   ,%
+POCSAG1200: Address: 1750093  Function: 2 
+POCSAG1200: Address: 1873540  Function: 1  Alpha:   VE
+POCSAG1200: Address:  241793  Function: 3  Alpha:   b<DC4>
+POCSAG1200: Address: 1337051  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address:  624474  Function: 1  Alpha:   hf
+POCSAG1200: Address:  226905  Function: 2 
+POCSAG1200: Address: 1652585  Function: 0 
+POCSAG1200: Address: 1141961  Function: 1 
+POCSAG1200: Address: 1676032  Function: 3  Alpha:   `l
+POCSAG1200: Address:  557775  Function: 3  Alpha:   O%
+POCSAG1200: Address:  189079  Function: 2 
+POCSAG1200: Address:  157518  Function: 1 
+POCSAG1200: Address: 1316702  Function: 0 
+POCSAG1200: Address:  792357  Function: 2 
+POCSAG1200: Address: 1876149  Function: 1 
+POCSAG1200: Address: 1243460  Function: 0  Alpha:   LE
+POCSAG1200: Address:  731083  Function: 1  Alpha:   <DC3><BS>
+POCSAG1200: Address:  634010  Function: 2 
+POCSAG1200: Address:  892066  Function: 0 
+POCSAG1200: Address: 1090937  Function: 2 
+POCSAG1200: Address: 1664729  Function: 1 
+POCSAG1200: Address:  765079  Function: 0  Alpha:   <LF>IHg<DC2><DC4><CR><<ENQ>d<EOT>
+POCSAG1200: Address:   78245  Function: 3  Alpha:   male 62Y
+POCSAG1200: Address: 1726484  Function: 3  Alpha:   ,4
+POCSAG1200: Address: 1020707  Function: 2  Alpha:   <STX>2
+POCSAG1200: Address: 1909114  Function: 2 
+POCSAG1200: Address:  651921  Function: 2  Alpha:   "<DLE><SOH>f`
+POCSAG1200: Address: 1182504  Function: 1 
+POCSAG1200: Address: 1750095  Function: 2 
+POCSAG1200: Address:  625684  Function: 2 
+POCSAG1200: Address: 1336516  Function: 0 
+POCSAG1200: Address:  987049  Function: 2  Alpha:   07:28-27 16/11/2021 07:21:35 INC 24672807 28C01J 12 FARINGDON AVENUE, SOUTH SHORE BLACKPOOL, FY4 3QQ Female 62Y WITHDRAWAL SYMPTOMS VISION PROBLEMS CANT WALK GRD 332006 432279<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:28-19 Tue Nov 16 07:28:43 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/2/3-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/2/3  [635] on 192.168.45.17 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:28-17 Tue Nov 16 07:28:28 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/2-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/2  [630] on 192.168.45.17 is currently up/down
+POCSAG2400: Address:   28894  Function: 0  Alpha:   07:28-83 2180<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728161121+++TIME=0728161121<NUL>
+POCSAG1200: Address: 1374897  Function: 1 
+POCSAG1200: Address: 1718177  Function: 1 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   07:28-84 33844
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:28-11 Tue Nov 16 07:28:10 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/3-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/3  [631] on 192.168.45.17 is currently up/down
+POCSAG1200: Address:  267831  Function: 2  Alpha:   07:28-24 4<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-10 Tue Nov 16 07:27:57 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/2/3-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/2/3  [1078] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-09 Tue Nov 16 07:27:51 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/2-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/0/2  [626] on 192.168.45.17 is currently up/down
+POCSAG1200: Address:  519937  Function: 1 
+POCSAG1200: Address: 1736352  Function: 3 
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-07 Tue Nov 16 07:27:40 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/2/2-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/2/2  [1076] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-06 Tue Nov 16 07:27:32 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/1/1-linx on edge1-imm.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-11/1/1  [629] on 192.168.45.17 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-05 Tue Nov 16 07:27:31 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/0/0-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/0/0  [1070] on 192.168.41.2 is currently up/down
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:27-03 Tue Nov 16 07:27:07 UTC 2021 -- PROBLEM : edge1-cor.nva1-10/0/2-linx on edge1-cor.nva1 is CRITICAL (check-ifmib-db CRITICAL - Interface xe-10/0/2  [1068] on 192.168.41.2 is currently up/down
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   07:26-90 5400<NUL>
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:   49263  Function: 2  Alpha:   07:25-75 MEDICAL EMERGENCY WARD 51 DMH<NUL>
+POCSAG1200: Address: 1602661  Function: 3 
+POCSAG1200: Address:  216378  Function: 2  Alpha:   07:24-02 N1: zbx appservice.channel4.local Warning: appservice.channel4.local fwtransport audience_items health-check 1
 POCSAG2400: Address: 1815068  Function: 0  Alpha:   07:24-08 ADULT CARDIAC ARREST AMU ST HELIER BED 6 07:17<NUL><NUL>
 POCSAG1200: Address:   40074  Function: 2  Alpha:   07:23-62 16/11/2021 07:21:10 INC 24672806 31C01 6 OLNEY AVENUE, BENCHILL MANCHESTER, M22 8AB Female 87Y LIGHTHEADED, DIZZY, NAUSEA GRD 382771 388597
 POCSAG1200: Address: 2009502  Function: 2  Alpha:   07:23-11 ADRIAN , EAST OF ENGLAND AMBULANCE SERVICE REPORTING LONG DELAYS FOR AMBULANCE, LOOKING FOR AN UPDATE. 01245 444 515
@@ -896,105 +998,3 @@ POCSAG1200: Address:  856897  Function: 1
 POCSAG1200: Address: 2041433  Function: 2 
 POCSAG1200: Address:   84551  Function: 2  Alpha:   O%(Qs<DC4><VT>h
 POCSAG1200: Address: 1477910  Function: 0  Alpha:   <HT>t
-POCSAG1200: Address:  197132  Function: 2 
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG1200: Address:  637737  Function: 2  Alpha:   fb
-POCSAG1200: Address:  222809  Function: 2 
-POCSAG1200: Address: 1337055  Function: 3  Alpha:   <LF><VT>[g<DC2>4IAIE<SOH>
-POCSAG1200: Address: 1672030  Function: 0  Alpha:   rr
-POCSAG1200: Address:  222813  Function: 2 
-POCSAG1200: Address: 1390797  Function: 0 
-POCSAG1200: Address: 1445016  Function: 1 
-POCSAG1200: Address:  788656  Function: 0 
-POCSAG1200: Address: 1466823  Function: 1  Alpha:   <ESC>CCg<DC2>
-POCSAG1200: Address: 1352774  Function: 1 
-POCSAG1200: Address:  164437  Function: 2 
-POCSAG1200: Address: 1271308  Function: 1 
-POCSAG1200: Address:  469332  Function: 0 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   03:29-72 16/11/2021 03:27:31 INC 24672410 06E01 54 PEEL GARDENS, COLNE, BB8 9PR Female 58Y BREATHING PROBLEMS- ASTHMA ATTACK GRD 388380 440262
-POCSAG1200: Address:  360002  Function: 0  Alpha:   03:29-45 16/11/2021 03:27:31 INC 24672410 06E01 54 PEEL GARDENS, COLNE, BB8 9PR Female 58Y BREATHING PROBLEMS- ASTHMA ATTACK GRD 388380 440262
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328161121+++TIME=0328161121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0328161121+++TIME=0328161121<NUL>
-POCSAG1200: Address: 1140943  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1420134  Function: 2  Alpha:   np
-POCSAG1200: Address:  557774  Function: 3 
-POCSAG1200: Address:  189077  Function: 2 
-POCSAG1200: Address:  858805  Function: 1 
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   03:27-13 16/11/2021 03:25:27 INC 24672406 19C04 HIGHWINDS, PRESTON ROAD, CHARNOCK RICHARD CHORLEY, PR7 5JZ Male 63Y HEARTS RACING 193W
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   03:27-27 16/11/2021 03:25:27 INC 24672406 19C04 HIGHWINDS, PRESTON ROAD, CHARNOCK RICHARD CHORLEY, PR7 5JZ Male 63Y HEARTS RACING 191/115 GRD 355378 416897<NUL><NUL>
-POCSAG1200: Address:  346010  Function: 0  Alpha:   03:27-42 16/11/2021 03:25:27 INC 24672406 19C04 HIGHWINDS, PRESTON ROAD, CHARNOCK RICHARD CHORLEY, PR7 5JZ Male 63Y HEARTS RACING 191/115 GRD 355378 416897<NUL><NUL>
-POCSAG1200: Address:  269100  Function: 2  Alpha:   03:27-15 16/11/2021 03:25:17 INC 24672405 31D02 10 SWIFT ROAD, BAMFORD ROCHDALE, OL11 5RF Male 73Y COLLAPSED UNCONCIOUS GRD 386942 413095
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   03:25-32 16/11/2021 03:22:05 INC 24672401 23C02I THE OLD RIBBON MILL - FLAT 7, PITT STREET, MACCLESFIELD SK11, SK11 7PY Male 36Y OVERDOSE- GRD 391949 372723<NUL>
-POCSAG1200: Address:  703882  Function: 2  Alpha:   03:24-53 The following resources/officers have been Stood Down from incident DNDN011399-16112021: DN35R2 as SWR from RIP(Ripon)<NUL>
-POCSAG1200: Address:  703882  Function: 2  Alpha:   03:24-52 The following resources/officers have been Stood Down from incident DNDN011399-16112021: DN35P1 as RP from RIP(Ripon)<NUL><NUL>
-POCSAG1200: Address:  703882  Function: 2  Alpha:   03:24-51 The following resources/officers have been Stood Down from incident DNDN011399-16112021: DN14R2 as SWR from MAL(Malton)
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323161121+++TIME=0323161121<NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   03:23-12 16/11/2021 03:21:21 INC 24672399 10D02 6 OLDFIELD, PENWORTHAM, PR1 9ED Male 23Y ARMS NUMB AND TINGLY, DIB GRD 352548 426733<NUL><NUL>
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   03:22-26 16/11/2021 03:21:21 INC 24672399 10D02 6 OLDFIELD, PENWORTHAM, PR1 9ED Male 23Y ARMS NUMB AND TINGLY, DIB GRD 352548 426733<NUL><NUL>
-POCSAG1200: Address: 1323875  Function: 2  Alpha:   03:22-21 PLEASE CALL 07890 251 280 NINA
-POCSAG1200: Address: 1323874  Function: 2  Alpha:   03:22-05 PLEASE CALL 07890 251 280 NINA
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   03:20-30 16/11/2021 03:19:55 INC 24672397 09E01 156 RIDYARD STREET, LITTLE HULTON MANCHESTER, M38 9WA Female 57Y BLUE GRD 372999 404038<NUL><NUL>
-POCSAG1200: Address: 1138883  Function: 2 
-POCSAG1200: Address: 1938250  Function: 2  Alpha:   rr
-POCSAG1200: Address:  557769  Function: 3 
-POCSAG1200: Address:  189073  Function: 2 
-POCSAG1200: Address: 1404631  Function: 1  Alpha:   O%h<STX><HT>2V<SYN>
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   03:20-16 16/11/2021 03:19:55 INC 24672397 09E01 156 RIDYARD STREET, LITTLE HULTON MANCHESTER, M38 9WA Female 57Y BLUE GRD 372999 404038<NUL><NUL>
-POCSAG1200: Address: 1089611  Function: 2  Alpha:   03:20-64 16/11/2021 03:19:55 INC 24672397 156 RIDYARD STREET, LITTLE HULTON MANCHESTER, M38 9WA Female 57Y BLUE GRD 372999 404038<NUL><NUL>
-POCSAG1200: Address:   33723  Function: 2  Alpha:   03:19-58 03:19-57 PLEASE CALL 07487 248 134 AT WILLOW LODGE PARK IN DOVER RE END OF LIFE MEDICATION 
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   03:19-11 PLEASE CALL 07487 248 134 AT WILLOW LODGE PARK IN DOVER RE END OF LIFE MEDICATION 
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   03:19-34 PLEASE CALL 07487 248 134 AT WILLOW LODGE PARK IN DOVER RE END OF LIFE MEDICATION 
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:19-80 PLEASE CALL 07487 248 134 AT WILLOW LODGE PARK IN DOVER RE END OF LIFE MEDICATION 
-POCSAG1200: Address:  549881  Function: 2  Alpha:   03:19-00 ~FYI - 2 CASUALTIES SUFFERING FROM SMOKE INHALATION AT INCIDENT RANDALSTOWN CAUSED BY PETROL BOMB<NUL><NUL>
-POCSAG1200: Address:  549840  Function: 2  Alpha:   03:19-33 ~FYI - 2 CASUALTIES SUFFERING FROM SMOKE INHALATION AT INCIDENT RANDALSTOWN CAUSED BY PETROL BOMB<NUL><NUL>
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   03:19-11 VIROLOGY LEEDS UNI 0113 392 6034 
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   03:18-63 VIROLOGY LEEDS UNI 0113 392 6034 
-POCSAG2400: Address: 1323102  Function: 2  Alpha:   03:18-80 VIROLOGY LEEDS UNI 0113 392 6034 
-POCSAG2400: Address: 1322785  Function: 2  Alpha:   03:18-27 VIROLOGY LEEDS UNI 0113 392 6034 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0318161121+++TIME=0318161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   03:15-92 6810 CDU <NUL><NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   03:14-66  PLEASE CALL MAJORS ASSESSMENT WILLIAM HARVEY EXT 723 4413 AND ASK FOR ALISON BROWN <NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   03:15-69 16/11/2021 03:13:00 INC 24672388 06D04 3 ASH GROVE, NEWHEY ROCHDALE, OL16 4LR Male 61Y VENTILATOR BROKEN RELY ON IT FOR BREATHING GRD 393436 411274<NUL>
-POCSAG1200: Address: 1500155  Function: 2  Alpha:   03:14-28 Confirmed Primary Angioplasty, ETA 25   Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address:    1973  Function: 2  Alpha:   03:14-32 Confirmed Primary Angioplasty, ETA 25   Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address:  334328  Function: 2  Alpha:   03:14-30 Confirmed Primary Angioplasty, ETA 25   Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address:  290371  Function: 2  Alpha:   03:14-01 Confirmed Primary Angioplasty, ETA 25   Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0313161121+++TIME=0313161121<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   03:12-91 16/11/2021 03:11:17 INC 24672387 06E01E 65 SCAFELL WALK, WOODLANDS ESTATE NETHERLEY L27, L27 5RJ Male 77Y SHORT OF BREATH GRD 345117 387562
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   03:12-80 16/11/2021 03:11:17 INC 24672387 06E01E 65 SCAFELL WALK, WOODLANDS ESTATE NETHERLEY L27, L27 5RJ Male 77Y SHORT OF BREATH GRD 345117 387562
-POCSAG1200: Address:  548039  Function: 2  Alpha:   03:12-52 16/11/2021 03:11:17 INC 24672387 06E01E 65 SCAFELL WALK, WOODLANDS ESTATE NETHERLEY L27, L27 5RJ Male 77Y SHORT OF BREATH GRD 345117 387562
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   03:11-14 16/11/2021 03:07:54 INC 24672379 28C01J 13 MELBOURNE STREET, SWINTON MANCHESTER, M27 8TE Male 89Y Q STROKE GRD 378720 401848<NUL>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   03:11-43 16/11/2021 03:07:54 INC 24672379 28C01J 13 MELBOURNE STREET, SWINTON MANCHESTER, M27 8TE Male 89Y Q STROKE GRD 378720 401848<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   03:10-70 16/11/2021 03:08:39 INC 24672381 12C02 15 LONGWORTH STREET, TONGE FOLD BOLTON, BL2 6AR Female 19Y SHAKING, COULDNT BREATHE AT ALL GRD 373143 409322<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   03:10-78 16/11/2021 03:08:39 INC 24672381 12C02 15 LONGWORTH STREET, TONGE FOLD BOLTON, BL2 6AR Female 19Y SHAKING, COULDNT BREATHE AT ALL GRD 373143 409322<NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   03:10-11 16/11/2021 03:09:23 INC 24672383 06D02 6 OLDFIELD, PENWORTHAM, PR1 9ED Male 23Y FURTHER CALL - DIB GRD 352548 426733
-POCSAG1200: Address:  646500  Function: 2  Alpha:   03:10-20 16/11/2021 03:01:34 INC 24672372 12D02E 40 WALDEGRAVE ROAD, LONGSOWERBY CARLISLE, CA2 6EW Female 20Y F- HAD SIEZURE GRD 339064 554697
-POCSAG1200: Address:   22104  Function: 2  Alpha:   03:10-61 16/11/2021 03:06:36 INC 24672377 23C02A 16 HOLLY GROVE, WEST LEIGH, WN7 5SP Male 26Y TAKEN TABELTS THAT INTERACT WITH TABELTS HE TAKES - PINS AND NEEDLES ALL OVER GRD 365477 401229<NUL><NUL>
-POCSAG1200: Address: 1714502  Function: 3 
-POCSAG1200: Address: 1165836  Function: 0  Alpha:    &<SYN>P'
-POCSAG1200: Address:  642331  Function: 3  Alpha:   HH
-POCSAG1200: Address:   91322  Function: 3 
-POCSAG1200: Address:   88577  Function: 0 
-POCSAG1200: Address:  284168  Function: 1  Alpha:   2q
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308161121+++TIME=0308161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0308161121+++TIME=0308161121<NUL>
-POCSAG2400: Address: 1484837  Function: 3  Alpha:   p$<DC1>1S*1f
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1500155  Function: 2  Alpha:   03:05-27 Confirmed Primary Angioplasty, ETA 15 Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL>
-POCSAG1200: Address:    1973  Function: 2  Alpha:   03:05-31 Confirmed Primary Angioplasty, ETA 15 Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL>
-POCSAG1200: Address:  290371  Function: 2  Alpha:   03:05-00 Confirmed Primary Angioplasty, ETA 15 Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL>
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   03:04-45 33458
-POCSAG1200: Address: 1321626  Function: 2  Alpha:   03:03-00 Destination: D105 SSC In\102, Booking Ref#: 800927, Vehicle: FJ21UMD. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG1200: Address:  270259  Function: 2  Alpha:   03:03-62 BOWEL OFFER: Donor: 152975, Hospital: LEEDS GENERAL, HB6201, DOB: 14/09/1967 - Recipient name: TIMOTHY TWIGGE, DOB: 17/04/1973, Match: 111, THIS OFFER EXPIRES AT 03:50 . PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.<NUL>
-POCSAG1200: Address: 1321669  Function: 2  Alpha:   03:03-96 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: PO68YBW. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address:  433973  Function: 2  Alpha:   03:03-54 BOWEL OFFER: Donor: 152975, Hospital: LEEDS GENERAL, HB6201, DOB: 14/09/1967 - Recipient name: TIMOTHY TWIGGE, DOB: 17/04/1973, Match: 111, THIS OFFER EXPIRES AT 03:50 . PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.<NUL>
-POCSAG1200: Address:  271340  Function: 2  Alpha:   03:03-63 BOWEL OFFER: Donor: 152975, Hospital: LEEDS GENERAL, HB6201, DOB: 14/09/1967 - Recipient name: TIMOTHY TWIGGE, DOB: 17/04/1973, Match: 111, THIS OFFER EXPIRES AT 03:50 . PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.<NUL>
-POCSAG1200: Address: 1089955  Function: 2  Alpha:   03:03-32 BOWEL OFFER: Donor: 152975, Hospital: LEEDS GENERAL, HB6201, DOB: 14/09/1967 - Recipient name: TIMOTHY TWIGGE, DOB: 17/04/1973, Match: 111, THIS OFFER EXPIRES AT 03:50 . PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.<NUL>
-POCSAG1200: Address:  433784  Function: 2  Alpha:   03:03-48 BOWEL OFFER: Donor: 152975, Hospital: LEEDS GENERAL, HB6201, DOB: 14/09/1967 - Recipient name: TIMOTHY TWIGGE, DOB: 17/04/1973, Match: 111, THIS OFFER EXPIRES AT 03:50 . PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.<NUL>
-POCSAG1200: Address:  209879  Function: 2  Alpha:   03:03-70 BOWEL OFFER: Donor: 152975, Hospital: LEEDS GENERAL, HB6201, DOB: 14/09/1967 - Recipient name: TIMOTHY TWIGGE, DOB: 17/04/1973, Match: 111, THIS OFFER EXPIRES AT 03:50 . PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.<NUL>
