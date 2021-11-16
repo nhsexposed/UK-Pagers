@@ -5838,3 +5838,82 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   12:33-99 4167<NUL>
 POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-35 N1: zbx api.c4int.com Major: DMZ external proxy https://api.c4int.com/bigiptest.txt - failed step 1<LF><NUL><NUL>
 POCSAG1200: Address: 1945928  Function: 0  Alpha:   <SUB>r
 POCSAG1200: Address:  557705  Function: 2 
+POCSAG1200: Address: 1484850  Function: 0 
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-36 N1: zbx fcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 90 days, 03:04:10<LF><NUL>
+POCSAG1200: Address:  583080  Function: 1 
+POCSAG2400: Address: 1913851  Function: 2  Alpha:   12:35-60 5359<NUL>
+POCSAG2400: Address: 1324567  Function: 2  Alpha:   12:35-27 INC ALERT No: 16786380 Cardiac Arrest -, AT: 16 BARBICAN LANE, BARNSTAPLE, EX32 8LB, Time of Call: 16/11/2021 12:33:18, Co-ords: 51.0771224 -4.0497888
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-37 N1: zbx FCR-V-AMQLIVE01 Warning: p01 C4NL ActiveMQ DLQ.request_media_service_material_check queue depth > 0 36
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-38 N1: zbx DCR-V-ESBLIVE01 Major: Mule p01 no status data for > 180 seconds Up (1)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-39 N1: zbx DCR-V-AMQLIVE01 Minor: AMQ Broker Port no status data for > 180 seconds Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-40 N1: zbx FCR-V-AMQLIVE01 Minor: AMQ Broker Port no status data for > 180 seconds Down (0)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-41 N1: zbx DCR-V-AMQLIVE01 Minor: AMQ Console Port no status data for > 180 seconds Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-42 N1: zbx FCR-V-ESBLIVE01 Maj'8<GS>Pf:V2<DLE>(<CAN><EM>
+POCSAG1200: Address: 1294179  Function: 1 
+POCSAG1200: Address:  735612  Function: 1 
+POCSAG1200: Address: 1032918  Function: 3  Alpha:   F<NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   12:35-00 16/11/2021 12:31:52 INC 24673942 08D03G PENNINE CARE NHS TRUST BIRCH HILL HOSPITAL, BIRCH ROAD, ROCHDALE, OL12 9QB Female 36Y COMPROMISED AIRWAY - SMOKE INHILATION GRD 392072 415979<NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   12:35-88 16/11/2021 12:31:52 INC 24673942 08D03G PENNINE CARE NHS TRUST BIRCH HILL HOSPITAL, BIRCH ROAD, ROCHDALE, OL12 9QB Female 36Y COMPROMISED AIRWAY - SMOKE INHILATION GRD 392072 415979<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-45 N1: zbx dcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 91 days, 04:11:40<LF><NUL>
+POCSAG1200: Address:  432762  Function: 1  Alpha:   <CAN><EM>
+POCSAG1200: Address: 1682267  Function: 1  Alpha:   hl
+POCSAG1200: Address: 1284300  Function: 0  Alpha:   <ETX>R
+POCSAG1200: Address:  408597  Function: 1 
+POCSAG1200: Address:  735085  Function: 2 
+POCSAG1200: Address: 1935214  Function: 3  Alpha:   02 Warni~Y<EOT>u3<GS>
+POCSAG1200: Address:  386568  Function: 3 
+POCSAG1200: Address: 1708817  Function: 3 
+POCSAG1200: Address:   71665  Function: 3  Alpha:    D
+POCSAG1200: Address: 1363227  Function: 0  Alpha:   Y9
+POCSAG1200: Address:  184220  Function: 3 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:35-30 5204<NUL>
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   12:35-96 2447<NUL>
+POCSAG2400: Address:  695842  Function: 2  Alpha:   12:35-45 4709<NUL>
+POCSAG1200: Address:  290120  Function: 3  Alpha:   <ACK><ETX>
+POCSAG1200: Address:  290108  Function: 3  Alpha:   <SYN>r
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-48 N1: zbx DCR-V-AMQLIVE01 Major: Ping no response Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-50 N1: zbx fcr-v-proxy01 Major: Ping no response Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-51 N1: zbx FCR-V-AMQLIVE01 Major: Ping no response Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-52 N1: zbx DCR-V-ESBLIVE01 Major: Ping no response Up (1)<LF><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   12:36-78 Tue Nov 16 12:36:50 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/2-linx on edge1-imm.nva1 is CRITICAL (SNMP TRAP CRITICAL - Interface edge1-imm.nva1-11/0/2-linx [626] on edge1-imm.nva1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1565343  Function: 2  Alpha:   12:37-82 Call 24673913 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-53 N1: zbx dcr-v-proxy01 Major: Ping no response Up (1)<LF>
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   12:37-61 Call 24673913 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-55 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-user-profiles-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  549855  Function: 2  Alpha:   12:37-26 ~FFC BURNS WILL BE SICK ALL SET. WHITE WATCH REQUIRE 1 X FF ALL SET. DOCTORS LINE TO FOLLOW
+POCSAG1200: Address:  334075  Function: 2  Alpha:   12:37-69 Call 24673913 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  549856  Function: 2  Alpha:   12:37-54 ~FFC BURNS WILL BE SICK ALL SET. WHITE WATCH REQUIRE 1 X FF ALL SET. DOCTORS LINE TO FOLLOW
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-58 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-flexbens-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-59 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-corp-payroll-hr-ws-1.1.4 status - nodata Up (1)<LF>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   12:37-68 16/11/2021 12:35:47 INC 24673951 25B02 COWLEY HIGH SCHOOL, HARD LANE, DENTONS GREEN ST HELENS WA10, WA10 6LB Female 14Y 14 YR OLD FEMALE M.H EPISODE SMALL CUT TO THE PALM OF HER HAND GRD 349928 396667<NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-61 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-exec-reporting-ws-2.3.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-62 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-internal-comms-ws-2.3.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216342  Function: 2  Alpha:   12:37-76 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: gn66zfa. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-63 N1: zbx FCR-V-ESB<EOT>HRE01 Minor: Mule app c4erp-hr-fm-users-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address: 1032918  Function: 3  Alpha:   F<DC2>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-64 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-finance-users-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-64 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-discovery-asrun-ws-2.0.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-66 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-corp-payroll-finance-ws-1.1.4 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-67 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-travel-ws-2.3.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-68 N1: zbx fcr-v-proxy01 Minor: Apache Uptime nodata > 360 seconds 90 days, 03:04:10<LF>
+POCSAG2400: Address: 1913671  Function: 2  Alpha:   12:38-16 5359<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   12:38-54
+POCSAG1200: Address: 1511424  Function: 2  Alpha:   <LF>3{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF><DC3>S<DC3><DC3>S<DC3>3<ETX>Jt<FS><EOT><DC2>#3;<ESC>CK;<ETX><DC2>+<DC3><EOT><ESC>;<ENQ>*c<STX>"E,<EOT><SUB>d|<FS>-d<STX><DC2>M$<,DLdd<EOT><SUB>%<CR>dL<NAK><DC4>M$<,d<STX><SUB>]<FF>+<ETX><LF>C,<ENQ>*u^v~>w<ACK><SUB><DC3><ETX><SUB>~v&<SI><RS>&<BEL><SUB>.v&<ETB>/vr<LF><RS>Og.o<ACK><SUB>/.^.<SYN><BEL><STX><US>O<US>F<ACK>J<RS><US>//<RS><BEL>:<DC4>%<EOT><SUB>K+K<DC3><ESC><ETX><SUB>KK##<ETX><ETX><NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   12:38-97 16/11/2021 12:36:49 INC 24673955 06E01 54 ST MARTINS ROAD, BLACKPOOL, FY4 2DY Male 86Y BLUE ROUND LIPS, BREATHING SHALLOW, BAD CHEST GRD 331342 432840
+POCSAG1200: Address: 1650780  Function: 2 
+POCSAG1200: Address:  842741  Function: 1 
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   12:38-59 16/11/2021 12:36:49 INC 24673955 06E01 54 ST MARTINS ROAD, BLACKPOOL, FY4 2DY Male 86Y BLUE ROUND LIPS, BREATHING SHALLOW, BAD CHEST GRD 331342 432840
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-71 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-discovery-sponsorship-ws-2.0.0 status - nodata Up (1)<LF><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238161121+++TIME=1238161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1238161121+++TIME=1238161121<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-72 N1: zbx DCR-V-ESBLIVE01 Minor: Mule app c4pirate-kantar-asset-api-ws-1.0.19 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-73 N1: zbx DCR-V-ESBLIVE01 Minor: Mule app dai-simulcast-ivi-ws-2.0.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-75 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4pirate-kantar-asset-api-ws-1.0.19 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-76 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-discovery-a55-ws-2.0.0 status - nodata Up (1)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-77 N1: zbx dcr-v-proxy01 Minor: Apache Uptime nodata > 360 seconds 91 days, 04:11:40<LF>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   12:38-32 2182<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   12:39-46 4825<NUL>
+POCSAG2400: Address: 1259120  Function: 1 
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:39-78 N1: zbx DCR-V-ESBLIVE01 Minor: Mule app c4l2v-polling-ws-1.3.0 status - nodata Up (1)<LF><NUL><NUL>

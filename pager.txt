@@ -1,3 +1,82 @@
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:39-78 N1: zbx DCR-V-ESBLIVE01 Minor: Mule app c4l2v-polling-ws-1.3.0 status - nodata Up (1)<LF><NUL><NUL>
+POCSAG2400: Address: 1259120  Function: 1 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   12:39-46 4825<NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   12:38-32 2182<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-77 N1: zbx dcr-v-proxy01 Minor: Apache Uptime nodata > 360 seconds 91 days, 04:11:40<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-76 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-discovery-a55-ws-2.0.0 status - nodata Up (1)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-75 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4pirate-kantar-asset-api-ws-1.0.19 status - nodata Up (1)<LF>
+POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-73 N1: zbx DCR-V-ESBLIVE01 Minor: Mule app dai-simulcast-ivi-ws-2.0.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-72 N1: zbx DCR-V-ESBLIVE01 Minor: Mule app c4pirate-kantar-asset-api-ws-1.0.19 status - nodata Up (1)<LF>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1238161121+++TIME=1238161121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238161121+++TIME=1238161121<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:38-71 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-discovery-sponsorship-ws-2.0.0 status - nodata Up (1)<LF><NUL><NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   12:38-59 16/11/2021 12:36:49 INC 24673955 06E01 54 ST MARTINS ROAD, BLACKPOOL, FY4 2DY Male 86Y BLUE ROUND LIPS, BREATHING SHALLOW, BAD CHEST GRD 331342 432840
+POCSAG1200: Address:  842741  Function: 1 
+POCSAG1200: Address: 1650780  Function: 2 
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   12:38-97 16/11/2021 12:36:49 INC 24673955 06E01 54 ST MARTINS ROAD, BLACKPOOL, FY4 2DY Male 86Y BLUE ROUND LIPS, BREATHING SHALLOW, BAD CHEST GRD 331342 432840
+POCSAG1200: Address: 1511424  Function: 2  Alpha:   <LF>3{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF><DC3>S<DC3><DC3>S<DC3>3<ETX>Jt<FS><EOT><DC2>#3;<ESC>CK;<ETX><DC2>+<DC3><EOT><ESC>;<ENQ>*c<STX>"E,<EOT><SUB>d|<FS>-d<STX><DC2>M$<,DLdd<EOT><SUB>%<CR>dL<NAK><DC4>M$<,d<STX><SUB>]<FF>+<ETX><LF>C,<ENQ>*u^v~>w<ACK><SUB><DC3><ETX><SUB>~v&<SI><RS>&<BEL><SUB>.v&<ETB>/vr<LF><RS>Og.o<ACK><SUB>/.^.<SYN><BEL><STX><US>O<US>F<ACK>J<RS><US>//<RS><BEL>:<DC4>%<EOT><SUB>K+K<DC3><ESC><ETX><SUB>KK##<ETX><ETX><NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   12:38-54
+POCSAG2400: Address: 1913671  Function: 2  Alpha:   12:38-16 5359<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-68 N1: zbx fcr-v-proxy01 Minor: Apache Uptime nodata > 360 seconds 90 days, 03:04:10<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-67 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-travel-ws-2.3.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-66 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-corp-payroll-finance-ws-1.1.4 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-64 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-discovery-asrun-ws-2.0.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-64 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-finance-users-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address: 1032918  Function: 3  Alpha:   F<DC2>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-63 N1: zbx FCR-V-ESB<EOT>HRE01 Minor: Mule app c4erp-hr-fm-users-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  216342  Function: 2  Alpha:   12:37-76 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: gn66zfa. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-62 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-internal-comms-ws-2.3.0 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-61 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-exec-reporting-ws-2.3.0 status - nodata Up (1)<LF>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   12:37-68 16/11/2021 12:35:47 INC 24673951 25B02 COWLEY HIGH SCHOOL, HARD LANE, DENTONS GREEN ST HELENS WA10, WA10 6LB Female 14Y 14 YR OLD FEMALE M.H EPISODE SMALL CUT TO THE PALM OF HER HAND GRD 349928 396667<NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-59 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4-corp-payroll-hr-ws-1.1.4 status - nodata Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-58 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-flexbens-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address:  549856  Function: 2  Alpha:   12:37-54 ~FFC BURNS WILL BE SICK ALL SET. WHITE WATCH REQUIRE 1 X FF ALL SET. DOCTORS LINE TO FOLLOW
+POCSAG1200: Address:  334075  Function: 2  Alpha:   12:37-69 Call 24673913 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  549855  Function: 2  Alpha:   12:37-26 ~FFC BURNS WILL BE SICK ALL SET. WHITE WATCH REQUIRE 1 X FF ALL SET. DOCTORS LINE TO FOLLOW
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-55 N1: zbx FCR-V-ESBLIVE01 Minor: Mule app c4erp-hr-user-profiles-ws-2.3.0 status - nodata Up (1)<LF><NUL>
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   12:37-61 Call 24673913 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:37-53 N1: zbx dcr-v-proxy01 Major: Ping no response Up (1)<LF>
+POCSAG1200: Address: 1565343  Function: 2  Alpha:   12:37-82 Call 24673913 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   12:36-78 Tue Nov 16 12:36:50 UTC 2021 -- PROBLEM : edge1-imm.nva1-11/0/2-linx on edge1-imm.nva1 is CRITICAL (SNMP TRAP CRITICAL - Interface edge1-imm.nva1-11/0/2-linx [626] on edge1-imm.nva1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-52 N1: zbx DCR-V-ESBLIVE01 Major: Ping no response Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-51 N1: zbx FCR-V-AMQLIVE01 Major: Ping no response Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-50 N1: zbx fcr-v-proxy01 Major: Ping no response Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:36-48 N1: zbx DCR-V-AMQLIVE01 Major: Ping no response Up (1)<LF><NUL>
+POCSAG1200: Address:  290108  Function: 3  Alpha:   <SYN>r
+POCSAG1200: Address:  290120  Function: 3  Alpha:   <ACK><ETX>
+POCSAG2400: Address:  695842  Function: 2  Alpha:   12:35-45 4709<NUL>
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   12:35-96 2447<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:35-30 5204<NUL>
+POCSAG1200: Address:  184220  Function: 3 
+POCSAG1200: Address: 1363227  Function: 0  Alpha:   Y9
+POCSAG1200: Address:   71665  Function: 3  Alpha:    D
+POCSAG1200: Address: 1708817  Function: 3 
+POCSAG1200: Address:  386568  Function: 3 
+POCSAG1200: Address: 1935214  Function: 3  Alpha:   02 Warni~Y<EOT>u3<GS>
+POCSAG1200: Address:  735085  Function: 2 
+POCSAG1200: Address:  408597  Function: 1 
+POCSAG1200: Address: 1284300  Function: 0  Alpha:   <ETX>R
+POCSAG1200: Address: 1682267  Function: 1  Alpha:   hl
+POCSAG1200: Address:  432762  Function: 1  Alpha:   <CAN><EM>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-45 N1: zbx dcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 91 days, 04:11:40<LF><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   12:35-88 16/11/2021 12:31:52 INC 24673942 08D03G PENNINE CARE NHS TRUST BIRCH HILL HOSPITAL, BIRCH ROAD, ROCHDALE, OL12 9QB Female 36Y COMPROMISED AIRWAY - SMOKE INHILATION GRD 392072 415979<NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   12:35-00 16/11/2021 12:31:52 INC 24673942 08D03G PENNINE CARE NHS TRUST BIRCH HILL HOSPITAL, BIRCH ROAD, ROCHDALE, OL12 9QB Female 36Y COMPROMISED AIRWAY - SMOKE INHILATION GRD 392072 415979<NUL>
+POCSAG1200: Address: 1032918  Function: 3  Alpha:   F<NUL>
+POCSAG1200: Address:  735612  Function: 1 
+POCSAG1200: Address: 1294179  Function: 1 
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-42 N1: zbx FCR-V-ESBLIVE01 Maj'8<GS>Pf:V2<DLE>(<CAN><EM>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-41 N1: zbx DCR-V-AMQLIVE01 Minor: AMQ Console Port no status data for > 180 seconds Up (1)<LF>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-40 N1: zbx FCR-V-AMQLIVE01 Minor: AMQ Broker Port no status data for > 180 seconds Down (0)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-39 N1: zbx DCR-V-AMQLIVE01 Minor: AMQ Broker Port no status data for > 180 seconds Up (1)<LF><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-38 N1: zbx DCR-V-ESBLIVE01 Major: Mule p01 no status data for > 180 seconds Up (1)<LF><NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:35-37 N1: zbx FCR-V-AMQLIVE01 Warning: p01 C4NL ActiveMQ DLQ.request_media_service_material_check queue depth > 0 36
+POCSAG2400: Address: 1324567  Function: 2  Alpha:   12:35-27 INC ALERT No: 16786380 Cardiac Arrest -, AT: 16 BARBICAN LANE, BARNSTAPLE, EX32 8LB, Time of Call: 16/11/2021 12:33:18, Co-ords: 51.0771224 -4.0497888
+POCSAG2400: Address: 1913851  Function: 2  Alpha:   12:35-60 5359<NUL>
+POCSAG1200: Address:  583080  Function: 1 
+POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-36 N1: zbx fcr-v-proxy01 Warning: Apache Uptime nodata > 180 seconds 90 days, 03:04:10<LF><NUL>
+POCSAG1200: Address: 1484850  Function: 0 
 POCSAG1200: Address:  557705  Function: 2 
 POCSAG1200: Address: 1945928  Function: 0  Alpha:   <SUB>r
 POCSAG1200: Address:  216378  Function: 2  Alpha:   12:34-35 N1: zbx api.c4int.com Major: DMZ external proxy https://api.c4int.com/bigiptest.txt - failed step 1<LF><NUL><NUL>
@@ -919,82 +998,3 @@ POCSAG2400: Address: 1085401  Function: 3
 POCSAG2400: Address:  168953  Function: 1 
 POCSAG2400: Address: 2012728  Function: 0 
 POCSAG2400: Address:   28896  Function: 0  Alpha:   11:02-47 2642<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   11:02-12 N1: zbx DCR-V-AMQLIVE01 Warning: p01 C4NL ActiveMQ DLQ.request_transcode_message_m2a_dr queue depth > 0 2<LF><NUL><NUL>
-POCSAG1200: Address: 1321706  Function: 2  Alpha:   11:01-50 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: LN15KVK. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address: 1092740  Function: 2  Alpha:   11:01-97 2190<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v 
-POCSAG1200: Address: 2016816  Function: 2 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v 
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   11:01-87 5428<NUL>
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   11:01-75 5201<NUL>
-POCSAG1200: Address: 1363220  Function: 0 
-POCSAG1200: Address:  823972  Function: 2 
-POCSAG1200: Address:  721418  Function: 3 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:01-72 16/11/2021 10:59:28 INC 24673554 06E01 LITTLE OAKS NURSERY, OAK ROAD, PARTINGTON MANCHESTER, M31 4LD Female 40Y STRUGGLING TO BREATH ASTHMATIC GRD 371142 390618<NUL><NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v 
-POCSAG2400: Address:   28907  Function: 0  Alpha:   95<EM>00-22 4139<NUL>
-POCSAG2400: Address:  225491  Function: 2  Alpha:   11:00-58 *TEST CRASH TEST*<NUL><NUL>
-POCSAG2400: Address: 1008256  Function: 2  Alpha:   11:00-87 *TEST CRASH TEST*<NUL><NUL>
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   11:00-66 *TEST CRASH TEST*<NUL><NUL>
-POCSAG1200: Address:  600751  Function: 2  Alpha:   11:00-20 *TEST CRASH TEST*<NUL><NUL>
-POCSAG1200: Address: 1015330  Function: 2  Alpha:   11:00-27 Speech: Test: Only: Speech: Test: Only: Please: Dial: Zero: Too: Respond<NUL>
-POCSAG1200: Address:  114390  Function: 0  Alpha:   11:00-95 Speech: Test: Only: Speech: Test: Only: Please: Dial: Zero: Too: Respond<NUL>
-POCSAG1200: Address:  114391  Function: 0  Alpha:   11:00-34 Speech: Test: Only: Speech: Test: Only: Please: Dial: Zero: Too: Respond<NUL>
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:00-16 *TEST CRASH TEST*<NUL><NUL>
-POCSAG2400: Address: 1324545  Function: 2  Alpha:   11:00-11 INC ALERT No: 16786037 Traumatic Injuries (Specific) - CAUGHT HIS HAND IN DOOR- PASSED OUT, AT: CAR PARK, CHARLOTTE STREET CAR PARK, CITY CENTRE BATH, BA1 2NR, Time of Call: 16/11/2021 10:57:20, Co-ords: 51.3842346 -2.366738<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:00-45 16/11/2021 10:55:39 INC 24673533 32D01 101, SUNNYSIDE ROAD, DROYLSDEN MANCHESTER, M43 7GE Female 80Y NO RESPONSE GRD 389999 399206<NUL>
-POCSAG1200: Address:  290108  Function: 3  Alpha:   <DC1>a
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   10:59-47 33948
-POCSAG1200: Address: 1454786  Function: 0  Alpha:   10:59-39 PLEASE CALL THE DSCC PIN 12800
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   10:59-21 INC ALERT No: 16786045 Multiple/Continuous Fitting - SEIZURES, AT: 105 RIFFORD ROAD, EXETER, EX2 5LW, Time of Call: 16/11/2021 10:58:33, Co-ords: 50.7158318 -3.4946687<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   10:58-39 3104<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:58-74 5201<NUL>
-POCSAG2400: Address: 1913736  Function: 2  Alpha:   10:58-71 5428<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   10:58-33 2188<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1058161121+++TIME=1058161121<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   10:58-66 5076<NUL>
-POCSAG1200: Address:  678716  Function: 2  Alpha:   10:57-25 FYI MALE WITH BAG OVER HEAD - AMB NOW IA FS NOT REQ
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913660  Function: 2  Alpha:   10:56-40 3504<NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:56-56 16/11/2021 10:54:46 INC 24673526 09E02 3 MANOR DRIVE, UPTON WIRRAL CH49, CH49 6JE Male 56Y CANT WAKE HIM - COLLAPSED ON FLOOR GRD 327734 388250<NUL><NUL>
-POCSAG1200: Address: 1534147  Function: 2  Alpha:   10:56-36 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1534147  Function: 2  Alpha:   10:56-36 (1/2)024698-16112021; M5 Exercise; MAYFLOWER THEATRE,MAYFLOWER THEATRE,COMMERCIAL ROAD,Polygon,SOUTHAMPTON,SO15 1GE; 441560,112295;
-POCSAG1200: Address:  428347  Function: 2  Alpha:   10:56-25 16/11/2021 10:54:46 INC 24673526 09E02 3 MANOR DRIVE, UPTON WIRRAL CH49, CH49 6JE Male 56Y CANT WAKE HIM - COLLAPSED ON FLOOR GRD 327734 388250<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   10:56-46 16/11/2021 10:54:46 INC 24673526 09E02 3 MANOR DRIVE, UPTON WIRRAL CH49, CH49 6JE Male 56Y CANT WAKE HIM - COLLAPSED ON FLOOR GRD 327734 388250<NUL><NUL>
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG1200: Address: 1534193  Function: 2  Alpha:   10:55-30 **FOR EXERCISE PURPOSES ONLY**  DUTY NILO CONTACT CONTROL - OP PLATO DECLARED, MAYFLOWER THEATRE, SOUTHAMPTON, EXPLOSION  
-POCSAG1200: Address: 1534149  Function: 2  Alpha:   10:55-10 **FOR EXERCISE PURPOSES ONLY**  DUTY NILO CONTACT CONTROL - OP PLATO DECLARED, MAYFLOWER THEATRE, SOUTHAMPTON, EXPLOSION  
-POCSAG1200: Address: 1534242  Function: 2  Alpha:   10:55-57 **FOR EXERCISE PURPOSES ONLY**  DUTY NILO CONTACT CONTROL - OP PLATO DECLARED, MAYFLOWER THEATRE, SOUTHAMPTON, EXPLOSION  
-POCSAG1200: Address: 1534132  Function: 2  Alpha:   10:55-36 **FOR EXERCISE PURPOSES ONLY**  DUTY NILO CONTACT CONTROL - OP PLATO DECLARED, MAYFLOWER THEATRE, SOUTHAMPTON, EXPLOSION  
-POCSAG1200: Address: 1534287  Function: 2  Alpha:   10:55-62 **FOR EXERCISE PURPOSES ONLY**  DUTY NILO CONTACT CONTROL - OP PLATO DECLARED, MAYFLOWER THEATRE, SOUTHAMPTON, EXPLOSION  
-POCSAG1200: Address: 1534145  Function: 2  Alpha:   10:55-19 **FOR EXERCISE PURPOSES ONLY**  DUTY NILO CONTACT CONTROL - OP PLATO DECLARED, MAYFLOWER THEATRE, SOUTHAMPTON, EXPLOSION  
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
-POCSAG1200: Address: 1812348  Function: 3  Alpha:   Ub
-POCSAG1200: Address:  585566  Function: 2  Alpha:   10:54-61 Destination: Parking\D78 Ext TP, Booking Ref#: 800904, Vehicle: FD17XPC. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
-POCSAG1200: Address: 1220786  Function: 1  Alpha:   B<SYN>
-POCSAG1200: Address:  708897  Function: 1  Alpha:    N
-POCSAG1200: Address:  730760  Function: 1  Alpha:   <DC3>5
-POCSAG1200: Address:   88454  Function: 3  Alpha:   le 73Y DqY<EOT>ei'
-POCSAG1200: Address: 1933163  Function: 2  Alpha:   10:53-10 PLS CALL 0788 913 1431
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1053161121+++TIME=1053161121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1053161121+++TIME=1053161121<NUL>
-POCSAG1200: Address:  940431  Function: 2  Alpha:   10:52-42 16/11/2021 10:50:45 INC 24673510 10D02 RIVERSWAY HOUSE, MORECAMBE ROAD, SCALE HALL LANCASTER, LA1 2SS Female 39Y CHEST PAIN AND BACK - DIB - SWEATING GRD 347432 462443<NUL>
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG2400: Address:   28926  Function: 0  Alpha:   10:52-82 4114<NUL>
-POCSAG2400: Address: 1913790  Function: 2  Alpha:   10:52-20 5070<NUL>
-POCSAG2400: Address:  548053  Function: 2  Alpha:   10:52-02 OUT FOR DELIVERY: ESTIMATED ARRIVAL 11:30 AM  2:30 PM. YOUR PACKAGE IS ARRIVING TODAY.<NUL><NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   10:52-19 16/11/2021 10:49:58 INC 24673509 23C07A FLAT ABOVE, KNOTT END NEWSAGENTS, 2 WYRE VIEW, KNOTT END ON SEA POULTON LE FYLDE, FY6 0AE Female 36Y HEART DOESNT FEEL RIGHT - Q POISIONED GRD 335189 448479
-POCSAG1200: Address:  230853  Function: 3  Alpha:   <DC1>-
-POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   V<STX>
-POCSAG2400: Address:   28922  Function: 0  Alpha:   10:51-65 4114<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
-POCSAG1200: Address: 1321672  Function: 2  Alpha:   10:51-89 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: NK69XMU. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   Ub
-POCSAG1200: Address: 1817185  Function: 2  Alpha:   10:50-60 16/11/2021 10:47:57 INC 24673503 17D05 6 WHARFEDALE CLOSE, LEYLAND, PR25 3BL Female 92Y PAIN IN SHOULDER - FALLEN GRD 354350 421047
-POCSAG1200: Address:  135328  Function: 2  Alpha:   10:50-47 16/11/2021 10:47:57 INC 24673503 17D05 6 WHARFEDALE CLOSE, LEYLAND, PR25 3BL Female 92Y PAIN IN SHOULDER - FALLEN GRD 354350 421047
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   10:50-96 ADULT CARDIAC ARREST FORREST ASSESSMENT UNIT 10:46 WHIPPS CROSS HOSPITAL<NUL>
-POCSAG1200: Address: 1001124  Function: 2  Alpha:   10:50-07 ADULT CARDIAC ARREST FORREST ASSESSMENT UNIT 10:46 WHIPPS CROSS HOSPITAL<NUL>
