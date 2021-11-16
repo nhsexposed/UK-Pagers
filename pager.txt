@@ -1,3 +1,37 @@
+POCSAG1200: Address:  153160  Function: 3  Alpha:   S<DC3>H<DLE>31P<DC3>p<LF>9
+POCSAG1200: Address:  731487  Function: 1  Alpha:   O%
+POCSAG1200: Address:  326061  Function: 0  Alpha:   RS<NUL>AFTER
+POCSAG1200: Address: 1485837  Function: 0 
+POCSAG1200: Address:  301108  Function: 1 
+POCSAG1200: Address:  657748  Function: 1 
+POCSAG1200: Address:  791331  Function: 0 
+POCSAG1200: Address: 2042219  Function: 3 
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   20:49-47 16/11/2021 20:47:14 INC 24676016 12D02 THE GATE, 600 PRINCESS DRIVE, HUYTON L14, L14 9NQ Female 17Y IN AND OUT OF CON - HAD FIT GRD 342728 392132
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2048161121+++TIME=2048161121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048161121+++TIME=2048161121<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   20:47-58 PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A, <CR><LF>PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A<CR><LF>Service: Citrix Services<CR><LF>Host: GMMHACLVDA24A<CR><LF>Alias: <CR><LF>Address: 192.168.23.154<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITIC<NUL><NUL>
+POCSAG1200: Address:  828022  Function: 2 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:47-03 3298<NUL>
+POCSAG2400: Address: 1044842  Function: 2  Alpha:   20:47-30 4443<NUL>
+POCSAG2400: Address: 2024178  Function: 1 
+POCSAG2400: Address: 1749045  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   20:47-89 16/11/2021 20:44:50 INC 24676004 06E01 BOTTOM OF COLE ST, 1 COLE STREET, BIRKENHEAD, CH43 4US Female 19Y DIB GRD 331298 388613<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   20:47-63 16/11/2021 20:44:50 INC 24676004 06E01 BOTTOM OF COLE ST, 1 COLE STREET, BIRKENHEAD, CH43 4US Female 19Y DIB GRD 331298 388613<NUL><NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <EM>jTcL
+POCSAG1200: Address: 1052892  Function: 2  Alpha:   20:46-58 16/11/2021 20:44:12 INC 24675997 17D05 1 ALLWEIGHTS HOUSE, CHAMPION WAY, PENRITH, CA11 7BW Female 80Y CA PAT STAGE 4- FALLEN - HEAD INJ GRD 351590 529884
+POCSAG1200: Address:  273040  Function: 3  Alpha:   02/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:46-24 PROBLEM: Website Check - Host IP - Different Port: SOAP CHECK is CRITICAL on host rbgcmslabc02oni, <CR><LF>PROBLEM: Website Check - Host IP - Different Port: SOAP CHECK is CRITICAL on host rbgcmslabc02oni<CR><LF>Service: Website Check - Host IP - Diffe<NUL><NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   20:46-29 2581<NUL>
+POCSAG2400: Address:  204464  Function: 2  Alpha:   T<ENQ><EOT>y=N<SO><DC4><HT><LF>T<ENQ>D<CAN>ml\<FF><NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   20:46-63 PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni, <CR><LF>PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni<CR><LF>Service: Website Check - Host IP - Diffe<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   20:46-54 PROBLEM: Website Check - Host IP - Different Port: SOAP CHECK is CRITICAL on host rbgcmslabc02oni, <CR><LF>PROBLEM: Website Check - Host IP - Different Port: SOAP CHECK is CRITICAL on host rbgcmslabc02oni<CR><LF>Service: Website Check - Host IP - Diffe<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:44-22 PROBLEM: Opsview - DB Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - DB Status is CRITICAL on host opsview<CR><LF>Service: Opsview - DB Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: localhost<CR><LF>Host Group Hierarchy: Opsvi<NUL><NUL>
+POCSAG2400: Address: 1966611  Function: 0 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   20:44-51 PROBLEM: Opsview - DB Status is CRITICAL on host mansdpmovo01mc1, <CR><LF>PROBLEM: Opsview - DB Status is CRITICAL on host mansdpmovo01mc1<CR><LF>Service: Opsview - DB Status<CR><LF>Host: mansdpmovo01mc1<CR><LF>Alias: <CR><LF>Address: mansdpmovo01mc1.ms.private<CR><LF>Host Gr<NUL><NUL>
+POCSAG1200: Address: 1723914  Function: 0  Alpha:   Y<CAN><DLE><EM><CAN><GS>Z<EM>]<CAN><SUB>P$g!<DLE><EM><SUB>[[Z\<FS><EM>PX<ESC>"X<SUB><DLE>#f *P<FS>!<SYN><DLE>a"'b$,Pag*)*P<SYN><DLE>#f *P<FS><SYN><DLE><FS>Pf'**i`&<DLE>ig "<SYN><DLE>d,b"<SYN>Pie<CAN><SUB><DLE><EM>)!Pf0v2<DLE><SUB>\,<DLE>c &f"'P<SYN><DLE>b$=@#)"PY\ZX<SUB><EM>PY<FS>Z<FS><SUB><ESC><NUL>
+POCSAG1200: Address:  351025  Function: 3 
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   20:45-75 16
 POCSAG1200: Address:  432245  Function: 2  Alpha:   20:43-12 PLS CALL HAILEY ON 07761 760 919 
 POCSAG2400: Address: 1322970  Function: 2  Alpha:   20:42-67 8013<NUL>
 POCSAG1200: Address: 1815072  Function: 0  Alpha:   <NAK>S
@@ -964,37 +998,3 @@ POCSAG1200: Address: 1417740  Function: 0
 POCSAG1200: Address: 1165833  Function: 0  Alpha:    k`$f
 POCSAG1200: Address:  190216  Function: 3 
 POCSAG1200: Address: 1782855  Function: 1 
-POCSAG1200: Address:  325942  Function: 1  Alpha:   ET
-POCSAG1200: Address:  132565  Function: 3 
-POCSAG1200: Address: 1218349  Function: 1 
-POCSAG1200: Address: 1585188  Function: 0 
-POCSAG1200: Address: 1335748  Function: 0 
-POCSAG1200: Address: 1715075  Function: 0 
-POCSAG1200: Address:  353499  Function: 1 
-POCSAG1200: Address:   66050  Function: 3 
-POCSAG1200: Address: 1056848  Function: 1 
-POCSAG1200: Address:  615222  Function: 3 
-POCSAG1200: Address:   16386  Function: 0  Alpha:   !<CR>)<FF>N
-POCSAG1200: Address:  267032  Function: 3  Alpha:   )<LF><EOT>V2<BS>HI<SOH>$h
-POCSAG1200: Address:  660279  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1648231  Function: 1 
-POCSAG1200: Address: 1071814  Function: 1 
-POCSAG1200: Address: 1094662  Function: 3 
-POCSAG1200: Address:  134157  Function: 0 
-POCSAG1200: Address:  330338  Function: 3  Alpha:   d gab
-POCSAG1200: Address: 1159943  Function: 1  Alpha:   O%(WH
-POCSAG1200: Address: 1094663  Function: 3 
-POCSAG1200: Address: 1417742  Function: 0 
-POCSAG1200: Address:  534837  Function: 2  Alpha:   l,$L<FF>
-POCSAG1200: Address: 1312580  Function: 2  Alpha:   18:18-84 (2/2) ON-CALL APPLIANCES 8 MAX 1 MIN <NUL><NUL>
-POCSAG1200: Address: 1312572  Function: 2  Alpha:   18:18-25 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address: 1594913  Function: 2  Alpha:   18:18-91 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address: 1312591  Function: 2  Alpha:   18:18-30 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address: 1312575  Function: 2  Alpha:   18:18-62 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address: 1312611  Function: 2  Alpha:   18:18-56 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address: 1312592  Function: 2  Alpha:   18:18-88 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address:  632100  Function: 3 
-POCSAG1200: Address:   30290  Function: 3 
-POCSAG1200: Address: 1312573  Function: 2  Alpha:   18:18-21 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address: 1312565  Function: 2  Alpha:   18:18-09 (1/2)NOTIFY DATE:     16.11.21    TIME: 1800 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE B<SYN> 13 WHOLETIME APPLIANCES TRAINING - 0 B<SYN> AVAILABLE FOR RECALL B<SYN> <NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1818161121+++TIME=1818161121<NUL>
