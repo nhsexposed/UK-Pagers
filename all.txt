@@ -15852,3 +15852,24 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   13:58-66 4660<NUL>
 POCSAG2400: Address: 1320387  Function: 2  Alpha:   13:58-19 3104<EM>
 POCSAG2400: Address: 2004608  Function: 3 
 POCSAG2400: Address:  706998  Function: 3  Alpha:   E=<SOH>35017u,B
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:00-67 4131<NUL>
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   14:00-54 2150<NUL>
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   v 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:01-68 4935<NUL>
+POCSAG2400: Address: 1324371  Function: 2  Alpha:   14:01-89 5753 TEST MESSAGE<NUL><NUL>
+POCSAG2400: Address: 1324371  Function: 2  Alpha:   14:01-90 5753 TEST MESSAGE<NUL><NUL>
+POCSAG1200: Address: 1476343  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK>B
+POCSAG1200: Address:   78338  Function: 1  Alpha:   ff,P#)"P<EM>[Y[X<CAN><DLE>ZX<CAN>\<FS><SUB><NUL>
+POCSAG1200: Address:  901466  Function: 2  Alpha:   14:02-07 02890578830
+POCSAG2400: Address:  149253  Function: 2  Alpha:   14:02-11 PLS CALL DONNA FISHER 07305 780 601 (DAUGHTER CALLED AS HER FATHER HAS PASSED AWAY)<NUL><NUL>
+POCSAG2400: Address: 1913678  Function: 2  Alpha:   14:02-93 2581<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:03-34 5202<NUL>
+POCSAG1200: Address:  116486  Function: 0  Alpha:   T<ENQ>t(z<EM>i<HT><EOT><SUB><CAN>i<HT>t(J<BS>46<ACK>gV<SYN><BEL>4<SYN><ETB>6<ACK>v<ACK>
+POCSAG1200: Address:  727741  Function: 1  Alpha:   <CAN><SUB>
+POCSAG1200: Address:  111454  Function: 1  Alpha:   fb
+POCSAG1200: Address:  107305  Function: 2  Alpha:   jf
+POCSAG1200: Address:  937436  Function: 1  Alpha:   <EM><DLE>
+POCSAG1200: Address:  928324  Function: 0 
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   14:04-77 3144<NUL>
