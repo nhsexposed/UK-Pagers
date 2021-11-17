@@ -12334,3 +12334,18 @@ POCSAG1200: Address:   40074  Function: 2  Alpha:   06:17-79 17/11/2021 06:15:55
 POCSAG1200: Address: 1321675  Function: 2  Alpha:   06:17-88 Destination: D82 SSC Out\205, Booking Ref#: FF4BPH119, Vehicle: ae62bcz. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0618171121+++TIME=0618171121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0618171121+++TIME=0618171121<NUL>
+POCSAG1200: Address: 1067846  Function: 2  Alpha:   06:20-65 Destination: D105 SSC In\114, Booking Ref#: 801096, Vehicle: WN16EHN. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   06:20-48 17/11/2021 06:17:37 INC 24677417 26D01 WATSON HOUSE, 50 STATION ROAD, BLACKPOOL, FY4 1EU Female 82Y LOW SATS - NOT ALERT GRD 330775 433823<NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   06:20-94 17/11/2021 06:17:37 INC 24677417 26D01 WATSON
+POCSAG1200: Address:  544667  Function: 1  Alpha:   :Z
+POCSAG1200: Address: 1705268  Function: 0 
+POCSAG1200: Address:  197324  Function: 1  Alpha:   TA
+POCSAG1200: Address: 1654365  Function: 2 
+POCSAG1200: Address:  234377  Function: 2  Alpha:   06:20-85 17/11/2021 06:17:37 INC 24677417 26D01 WATSON HOUSE, 50 STATION ROAD, BLACKPOOL, FY4 1EU Female 82Y LOW SATS - NOT ALERT GRD 330775 433823<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG512: Address: 1855065  Function: 0 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   06:22-45 17/11/2021 06:21:07 INC 24677424 04B01A 55 CONISTON STREET, ANFIELD L5, L5 6QY Male 57Y ASSAULTED - HEAD INJ - VOMITING GRD 336440 392447<NUL><NUL>
+POCSAG1200: Address:   30648  Function: 2  Alpha:   06:23-62 17/11/2021 06:21:21 INC 24677425 17D04G 19 FELL CLOSE, GRANGE OVER SANDS, LA11 7JG Female 72Y SLIPPED OUT OF BED AND HURT HER LEGS AND BACK GRD 340023 477659<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0623171121+++TIME=0623171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0623171121+++TIME=0623171121<NUL>
