@@ -1,3 +1,14 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333171121+++TIME=1333171121<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   13:33-15 2343<NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:33-04 62819
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  267831  Function: 2  Alpha:   13:31-46 12
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:30-17 4769<NUL>
+POCSAG1200: Address: 1483090  Function: 1 
+POCSAG1200: Address: 1554250  Function: 0 
+POCSAG1200: Address:  433829  Function: 2  Alpha:   13:30-97 4575 1<NUL><NUL>
+POCSAG2400: Address:  101561  Function: 3 
+POCSAG2400: Address: 2028152  Function: 1 
 POCSAG2400: Address: 1913746  Function: 2  Alpha:   13:28-66 5440<NUL>
 POCSAG2400: Address: 1024580  Function: 0 
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   13:27-14 2343<NUL>
@@ -987,14 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   10:15-50 5207<NUL>
 POCSAG2400: Address:  583463  Function: 2  Alpha:   10:15-32 80300
 POCSAG2400: Address: 2091645  Function: 0 
 POCSAG2400: Address:  583430  Function: 2  Alpha:   10:14-36 80300
-POCSAG2400: Address:  950832  Function: 1 
-POCSAG1200: Address: 1783296  Function: 3 
-POCSAG1200: Address: 1875970  Function: 0 
-POCSAG2400: Address: 2024144  Function: 0 
-POCSAG2400: Address:  551341  Function: 2 
-POCSAG2400: Address:  584180  Function: 2  Alpha:   10
-POCSAG2400: Address: 2026097  Function: 0 
-POCSAG2400: Address: 2045360  Function: 2  Alpha:   <CR>N<SO>D~<CR>4~<RS>M><FF><CR>tm^,<SO>D~<CR>$<FS><<]U<SO><SO>4^<SO><SO>N<GS>]<<SO>T<ENQ>4:Z<HT><NUL>
-POCSAG2400: Address:  583520  Function: 2  Alpha:   10:13-70 EXERCISE EXERCISE - Site Power failure. Follow your local EI's for Loss of Power supplies and await further instructions whilst Utilities attempt to switch over to back-up supplies - SSM<NUL><NUL>
-POCSAG2400: Address:  684396  Function: 2  Alpha:   <ACK><ACK>
-POCSAG2400: Address:  583850  Function: 2  Alpha:   10:13-24
