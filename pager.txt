@@ -1,3 +1,8 @@
+POCSAG1200: Address: 1321703  Function: 2  Alpha:   04:44-70 Destination: Parking\D78 Ext TP, Booking Ref#: 800931, Vehicle: mv15cpn. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443171121+++TIME=0443171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0443171121+++TIME=0443171121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0438171121+++TIME=0438171121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0438171121+++TIME=0438171121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address:  108097  Function: 0  Alpha:   00:02-74 plse call 4264<NUL>
 POCSAG2400: Address: 1713265  Function: 0  Alpha:   <STX>%:*<SYN>
 POCSAG2400: Address:  164752  Function: 2 
 POCSAG2400: Address:  214223  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1715790  Function: 1  Alpha:   <STX>5<ACK><SO>"
-POCSAG2400: Address: 1592525  Function: 0 
-POCSAG2400: Address: 1233157  Function: 3 
-POCSAG2400: Address:  604003  Function: 0  Alpha:   <ACK><EOT><ETB>v<ACK>
-POCSAG2400: Address: 1989762  Function: 0  Alpha:   `bDdn
