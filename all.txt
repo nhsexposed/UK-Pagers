@@ -11741,3 +11741,7 @@ POCSAG2400: Address: 1033688  Function: 0  Alpha:   <US>c
 POCSAG2400: Address: 1598033  Function: 3 
 POCSAG2400: Address:  281209  Function: 3  Alpha:   D8
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0318171121+++TIME=0318171121<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:21-71 3105<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323171121+++TIME=0323171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323171121+++TIME=0323171121<NUL>
