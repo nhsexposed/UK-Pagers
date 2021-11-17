@@ -1,3 +1,22 @@
+POCSAG1200: Address:  420271  Function: 2  Alpha:   14:24-50 3941<NUL>
+POCSAG1200: Address:  325987  Function: 3  Alpha:   &<DLE>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   FF
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   14:23-47 2161<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1423171121+++TIME=1423171121<NUL>
+POCSAG2400: Address:   28869  Function: 0  Alpha:   14:22-89 REFER A PATIENT. PLS CALL EXT 28329 
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   14:22-00 3116<NUL>
+POCSAG2400: Address: 1913878  Function: 2  Alpha:   14:22-50 4935<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   14:21-67 5201<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:21-35 MSG02-D GRD 351627 395392
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:21-64 2018<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   14:20-44 2161<NUL>
+POCSAG1200: Address:  679742  Function: 2  Alpha:   14:20
+POCSAG1200: Address: 1686720  Function: 0 
+POCSAG1200: Address:  312672  Function: 0  Alpha:   14:20-02 17/11/2021 14:19:04 INC 24679350 29B01 JUNCTION 21 TO 22 EASTBOUND, M62, OL16 4NU Male UnknownY RTC GRD 398334 414763<NUL><NUL>
+POCSAG1200: Address:  959353  Function: 0 
+POCSAG1200: Address: 1749618  Function: 0 
 POCSAG2400: Address:   28896  Function: 0  Alpha:   14:19-87 5201<NUL>
 POCSAG1200: Address: 1511844  Function: 2  Alpha:   <SYN><ACK>
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   14:18-81 3181<NUL>
@@ -979,22 +998,3 @@ POCSAG1200: Address: 1216771  Function: 2
 POCSAG1200: Address: 1115587  Function: 3 
 POCSAG1200: Address:  255434  Function: 3 
 POCSAG1200: Address: 1261888  Function: 2 
-POCSAG1200: Address:   95912  Function: 3 
-POCSAG1200: Address:  210767  Function: 3  Alpha:   O%
-POCSAG1200: Address:  455060  Function: 3  Alpha:   D, L1  6@H Bem
-POCSAG1200: Address:  312672  Function: 0  Alpha:   10:45-77 17/11/2021 10:41:45 INC 24678321 17D04G GREYTREES, WELLFIELD LANE, WESTHEAD, L40 6HH Female 75Y Q BROKEN BONE GRD 343156 407091<NUL>
-POCSAG2400: Address: 2024315  Function: 2 
-POCSAG1200: Address:    8200  Function: 0  Alpha:   10:44-14 Call or Calls waiting at Switchboard
-POCSAG1200: Address: 1022781  Function: 2  Alpha:   10:43-20 Device is Down (FPS Alerts)., FPS_Alert_4-Out-Response-over-3-minutes is Down on Device: FPS Alerts (10.100.31.180).<CR><LF><CR><LF>Details:<CR><LF>Monitors that are down include: FPS_Alert_4-Out-Response-over-3-minutes<CR><LF>Monitors that are up include: FPS_Ale<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1043171121+++TIME=1043171121<NUL>
-POCSAG1200: Address:  219383  Function: 0 
-POCSAG1200: Address:  619125  Function: 0 
-POCSAG1200: Address: 1039242  Function: 0 
-POCSAG1200: Address: 1594915  Function: 2  Alpha:   10:43-13 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
-POCSAG1200: Address: 1312586  Function: 2  Alpha:   10:43-33 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
-POCSAG1200: Address:  683139  Function: 0  Alpha:   (%<ETX><GS>'<ESC><DC3>''<DC3><US><GS>'<SOH>
-POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
-POCSAG1200: Address: 1312647  Function: 2  Alpha:   10:43-28 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
-POCSAG1200: Address: 1312572  Function: 2  Alpha:   10:43-30 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
-POCSAG1200: Address:  756917  Function: 0  Alpha:   L<FS><GS>M|t<FS><ENQ>
-POCSAG1200: Address: 1312591  Function: 2  Alpha:   10:43-35 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
