@@ -1,3 +1,30 @@
+POCSAG1200: Address: 1845203  Function: 2  Alpha:   11:09-82 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address:  295505  Function: 0 
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   11:09-35 4156<NUL>
+POCSAG1200: Address: 1399872  Function: 3 
+POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC4>+
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   11:07-01 68177
+POCSAG2400: Address: 1323214  Function: 2  Alpha:   11:06-94 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address: 1324318  Function: 2  Alpha:   11:06-06 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address:   33713  Function: 2  Alpha:   11:06-23 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address: 1651872  Function: 3  Alpha:   h9<HT><EOT>&<ACK>v<ACK>4V<SYN><ACK><EOT>Gf<ACK><ACK><EOT><NUL><NUL>
+POCSAG2400: Address: 1323237  Function: 2  Alpha:   11:06-99 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address: 1323174  Function: 2  Alpha:   11:06-77 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG1200: Address: 1966609  Function: 0 
+POCSAG1200: Address: 1511903  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323176  Function: 2  Alpha:   11:06-99 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address: 1323253  Function: 2  Alpha:   11:06-18 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address: 1323179  Function: 2  Alpha:   11:06-19 PLS CALL HEART VALVE BANK 0207 351 8460 <NUL><NUL>
+POCSAG2400: Address: 1913727  Function: 2  Alpha:   11:06-54 3508<NUL>
+POCSAG2400: Address: 1321209  Function: 2  Alpha:   11:06-99 Please call extn 37037
+POCSAG2400: Address:   28893  Function: 0  Alpha:   11:06-59 5204<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:06-54 5201<NUL>
+POCSAG1200: Address:  606732  Function: 2  Alpha:   f0v2P<ESC>[,Pf f"P*'<DLE>ib)h'gi$k"Pa ga")<DLE>h jd"'*<DLE>j`e"'<DLE>j*)'<DLE>c')Pk'ii"P#)"PYY\<ESC>\<FS><DLE>ZX<CAN>\<FS><FS><NUL>
+POCSAG1200: Address: 2019945  Function: 0 
+POCSAG1200: Address: 1483183  Function: 2  Alpha:   11:06-01 17/11/2021 11:04:30 INC 24678441 09E02 ON CANAL BOAT AT, 133 SHAW HALL CARAVAN PARK, SMITHY LANE, SCARISBRICK ORMSKIRK, L40 8HJ Male 76Y MALE UN RESPONSIVE CANCER PATIENT TAKEN TURN FOR WORSE GRD 339789 411898<NUL><NUL>
+POCSAG2400: Address: 1324027  Function: 2  Alpha:   11:05-38 NEL 111 is in Front End Escalation, DMP 4. For more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS J.N
+POCSAG1200: Address: 2029299  Function: 0 
 POCSAG1200: Address: 1630965  Function: 0 
 POCSAG2400: Address: 1976691  Function: 2 
 POCSAG1200: Address: 1876596  Function: 1 
@@ -971,30 +998,3 @@ POCSAG1200: Address: 1312718  Function: 2  Alpha:   09:02-29 This is a pager tes
 POCSAG1200: Address:  269111  Function: 2  Alpha:   09:02-82 17/11/2021 09:01:25 INC 24677866 26D01 16 CEMETERY ROAD, DARWEN, BB3 2LS Female 70Y WOUND WEEPING AFTER HIP REPLACEMENT - INFECTION - VOMITTING GRD 369789 420457<NUL>
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   09:02-65 17/11/2021 09:01:25 INC 24677866 26D01 16 CEMETERY ROAD, DARWEN, BB3 2LS Female 70Y WOUND WEEPING AFTER HIP REPLACEMENT - INFECTION - VOMITTING GRD 369789 420457<NUL>
 POCSAG1200: Address: 1312720  Function: 2  Alpha:   09:02-28 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1323808  Function: 2  Alpha:   09:02-79 RED: You are now director on-call. Please text 07885 202 225 to confirm that you have received this message.   Thank you END<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1500155  Function: 2  Alpha:   09:02-30 Confirmed Primary Angioplasty, ETA  30  Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address:    1973  Function: 2  Alpha:   09:02-34 Confirmed Primary Angioplasty, ETA  30  Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address:  334328  Function: 2  Alpha:   09:02-32 Confirmed Primary Angioplasty, ETA  30  Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address: 1312586  Function: 2  Alpha:   09:02-29 (3/3) RSPCA HAVE NO RESOURCES AVAIL - DEER WITH BACK LEGS TRAPPED IN METAL FENCE - UNSURE IF INJURED - PREMISES STAFF WILL MEET CREWS AT MAIN ENTRANCE
-POCSAG1200: Address:  290371  Function: 2  Alpha:   09:02-03 Confirmed Primary Angioplasty, ETA  30  Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
-POCSAG1200: Address: 1312586  Function: 2  Alpha:   09:02-27 (1/3)Incident Information for SG088  Incident 039009-17112021 To       17/11/2021 08:50:16 Address  SCJ EURAFNE LIMITED          S C JOHNSON WAX LTD         <NUL><NUL>
-POCSAG1200: Address: 1323822  Function: 2  Alpha:   09:02-76 GREEN: You are now no longer Director On-Call.  Incoming Director on call is Rod Booth and their number is 07894 041 701.  Thank you END
-POCSAG1200: Address:  696118  Function: 2  Alpha:   09:02-12 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address: 1925348  Function: 2  Alpha:   09:02-07 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
-POCSAG2400: Address: 1323900  Function: 2  Alpha:   09:02-03 AMBER: Location: WINDSOR AVE, UXBRIDGE, Incident type: PARTIAL BUILDING COLLAPSE, Resources assigned: HART, IRO, AEU, CAD 1519, TG: 40, EOC BOW, Initials: DS<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   09:02-26 4201<NUL>
-POCSAG1200: Address:  549776  Function: 2  Alpha:   09:01-29 ~FOR INFO - BOOKED OFF DUTY<NUL>
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   09:00-33 Good morning, please join the cc.
-POCSAG2400: Address:  549915  Function: 2  Alpha:   09:00-93 Good morning, please join the cc.
-POCSAG2400: Address:   33713  Function: 2  Alpha:   09:00-19 Good morning, please join the cc.
-POCSAG2400: Address:  583574  Function: 2  Alpha:   09:00-44 Good morning, please join the cc.
-POCSAG1200: Address:   40089  Function: 2  Alpha:   09:01-33 17/11/2021 08:59:49 INC 24677858 19D02 BIRCH GLEN, HACKENSALL ROAD, KNOTT END OVER WYRE, FY6 0AX Female 87Y ANGINA ATTACK GRD 335256 448333
-POCSAG1200: Address:  549778  Function: 2  Alpha:   09:01-33 ~FOR INFO - BOOKED OFF DUTY 
-POCSAG1200: Address:  989925  Function: 2  Alpha:   09:01-44 Robin here<NUL>
-POCSAG2400: Address: 1323183  Function: 2  Alpha:   09:00-63 Good morning, please join the cc.
-POCSAG2400: Address: 1323218  Function: 2  Alpha:   09:00-18 Good morning, please join the cc.
-POCSAG2400: Address: 1022279  Function: 0  Alpha:   09:00-42 Good morning, please join the cc.
-POCSAG2400: Address: 1323237  Function: 2  Alpha:   09:00-97 Good morning, please join the cc.
