@@ -1,3 +1,18 @@
+POCSAG2400: Address:   28916  Function: 0  Alpha:   15:04-78 4114<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:03-70 4292<NUL>
+POCSAG2400: Address: 1022524  Function: 0  Alpha:   15:03-47 Harambe<CR><LF>81675<CR><LF>GD<NUL>
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   15:02-23 3509<NUL>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   15:02-77 4311<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:02-76 2610<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:02-04 4114<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:01-52 4187<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   15:00-88 4167<NUL>
+POCSAG2400: Address:  926715  Function: 1 
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   <ACK>h
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:00-39 5201<NUL>
+POCSAG2400: Address: 1032531  Function: 3  Alpha:   6p
+POCSAG2400: Address: 1022280  Function: 0  Alpha:   14:59-04 NHSBT - DONOR REFERRAL. Please call ADAM ROGERS on Direct Dial Number 01903 285124 Hospital WORTHING HOSPITAL  Dept ITU . Regards Donor Referral Line<NUL>
 POCSAG2400: Address: 1320204  Function: 2  Alpha:   14:58-44 4316<NUL>
 POCSAG1200: Address: 1512707  Function: 3  Alpha:   B<STX>
 POCSAG1200: Address:  290224  Function: 2  Alpha:   $n
@@ -983,18 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 2021941  Function: 1 
 POCSAG1200: Address:  618261  Function: 3  Alpha:   E<STX>
 POCSAG1200: Address: 1761458  Function: 3  Alpha:   <DLE>,$H<DLE>!0f
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>CHaL
-POCSAG1200: Address:  688737  Function: 0 
-POCSAG2400: Address: 1603432  Function: 3 
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:50-26 6238 Please
-POCSAG1200: Address: 1485611  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  413130  Function: 2  Alpha:   11:49-23 (3/3) Additional_Data Address Classification Water Sports Facility<NUL><NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   11:49-46 17/11/2021 11:46:26 INC 24678650 27D04S (182) OUTSIDE, ENFIELD STREET, PEMBERTON WIGAN, WN5 8DG Male 24Y ASSULT TO THE BACK OF THE HEAD GRD 355592 404076
-POCSAG2400: Address: 1573818  Function: 2  Alpha:   11:49-81 6708<NUL>
-POCSAG1200: Address:  957376  Function: 0 
-POCSAG1200: Address:  618317  Function: 3  Alpha:   <ETB><LF>
-POCSAG1200: Address: 1764438  Function: 1 
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   11:48-55 4114<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   11:48-30 3106<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   11:48-85 2642<NUL>
-POCSAG1200: Address:  363803  Function: 2  Alpha:   11:48-59 6970<NUL>
