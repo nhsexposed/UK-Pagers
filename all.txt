@@ -11488,3 +11488,8 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0148171121+++TIME=01
 POCSAG2400: Address:  216251  Function: 2  Alpha:   01:48-19 PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni, <CR><LF>PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni<CR><LF>Service: Windows Firewall<CR><LF>Host: mansdpmftp01oni<CR><LF>Alias: <CR><LF>Address: 10.41.4.20<CR><LF>Host Group Hierarchy: Opsview > <NUL><NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   01:48-12 PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni, <CR><LF>PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni<CR><LF>Service: Windows Firewall<CR><LF>Host: mansdpmftp01oni<CR><LF>Alias: <CR><LF>Address: 10.41.4.20<CR><LF>Host Group Hierarchy: Opsview > <NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0148171121+++TIME=0148171121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  271532  Function: 2  Alpha:   01:52-31 17/11/2021 01:51:27 INC 24676971 23D01I KESWICK COUNTRY HOUSE HOTEL, STATION ROAD, KESWICK, CA12 4NQ Female 18Y FEMALE OVERDOSE GRD 327097 523727
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153171121+++TIME=0153171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153171121+++TIME=0153171121<NUL>
