@@ -1,3 +1,16 @@
+POCSAG1200: Address:  906480  Function: 3  Alpha:   pp<FF><EM>4&1f
+POCSAG1200: Address: 1484406  Function: 0 
+POCSAG1200: Address: 1500254  Function: 2  Alpha:   18:49-28 TEST PAGE PLS RESPOND<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1848171121+++TIME=1848171121<NUL>
+POCSAG1200: Address: 1033006  Function: 2  Alpha:   <DLE>D<FF>$yd0f
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   18:47-22 PLS CALL GEORGINA COLLINSON ON 01295 229 196 - S TRAUMA WARD - ISSUES WITH EMAILS 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:46-10 5204<NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   18:46-57 2561<NUL>
+POCSAG1200: Address: 1813345  Function: 1 
+POCSAG2400: Address: 1031477  Function: 0 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   18:45-55 5070<NUL>
+POCSAG1200: Address:   30500  Function: 2  Alpha:   18:45-43 Test CALL<NUL><NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   18:44-09 5204<NUL>
 POCSAG2400: Address:   28893  Function: 0  Alpha:   18:44-68 2561<NUL>
 POCSAG1200: Address:   33650  Function: 2  Alpha:   18:44-16 PLS CALL TRACY AT IC24 ON 07788 913 809 <NUL><NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1879921  Function: 0
 POCSAG2400: Address: 1913656  Function: 2  Alpha:   15:54-80 3509<NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   15:54-97 17/11/2021 15:47:48 INC 24679766 31E01 33 COPPICE WALK, DENTON MANCHESTER, M34 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1553171121+++TIME=1553171121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1553171121+++TIME=1553171121<NUL>
-POCSAG512: Address:  114445  Function: 2  Alpha:   15:53-`+ <NULL><NUL><NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   <SYN>`
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>#MDL
-POCSAG1200: Address: 1059898  Function: 3  Alpha:   <EOT><ENQ><CR>ed
-POCSAG1200: Address: 1626159  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1337815  Function: 3 
-POCSAG1200: Address: 1941638  Function: 3  Alpha:   d<SO>
-POCSAG1200: Address:  978397  Function: 1  Alpha:   <EM>P
-POCSAG1200: Address:  266852  Function: 1  Alpha:   fv
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  370474  Function: 3  Alpha:   `j
-POCSAG1200: Address: 1418079  Function: 1  Alpha:   lr`g<DC2>
