@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1330703  Function: 2 
+POCSAG2400: Address: 1330702  Function: 2 
+POCSAG2400: Address: 1330701  Function: 2 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   20:24-78 2075<NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address: 1896052  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2023171121+++TIME=2023171121<NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   20:22-37 PHAMRCY  ON CALL PLS  23238 URGENTLY
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   20:22-43 2182<NUL>
+POCSAG1200: Address:  269054  Function: 2  Alpha:   20:22-63 17/11/2021 20:18:11 INC 24680995 26D01 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 37Y NOT ATE FOR A WEEK GRD 372195 395222<NUL><NUL>
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   20:22-95 17/11/2021 20:18:11 INC 24680995 26D01 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 37Y NOT ATE FOR A WEEK GRD 372195 395222<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1216775  Function: 2 
+POCSAG1200: Address: 1134685  Function: 3 
+POCSAG1200: Address:  993852  Function: 1 
+POCSAG1200: Address:  184611  Function: 0  Alpha:   . 
+POCSAG1200: Address:  657546  Function: 0  Alpha:   t<DC3>
+POCSAG1200: Address: 1444186  Function: 3 
+POCSAG1200: Address:   86677  Function: 3  Alpha:   @h$<ENQ>A<LF>CYKAl
+POCSAG1200: Address: 1181771  Function: 3  Alpha:   s<DC3><DC3><DC1><VT>
+POCSAG1200: Address:  630866  Function: 3  Alpha:   ,<GS>
+POCSAG1200: Address: 2043978  Function: 0 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   R<FF>
+POCSAG1200: Address:  413079  Function: 2  Alpha:   20:20-31 (1/2)029616-17112021; F8.0.0.P FIRE - FIRE IN THE OPEN; NORTHUMBERLAND AVENUE,READING,RG2 7PX; 472209,171476; KIDS HAVE A FIRE ALIGHT IN TROLLEY;
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:19-83 RECOVERY: Generic Service with space - special char: SWAN - SQL Server Service is OK on host shakeylsql01mc1, <CR><LF>RECOVERY: Generic Service with space - special char: SWAN - SQL Server Service is OK on host shakeylsql01mc1<CR><LF>Service: Generic S<NUL><NUL>
 POCSAG1200: Address: 1246811  Function: 3 
 POCSAG1200: Address:  345543  Function: 1  Alpha:   O%hnks<NUL><NUL>p<LF>98E<FS>\"<SO>.<DC1><BEL>vx
 POCSAG1200: Address: 1255374  Function: 3  Alpha:   2<SYN>
@@ -972,29 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653171121+++TIME=16
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653171121+++TIME=1653171121<NUL>
 POCSAG2400: Address: 1323889  Function: 2  Alpha:   16:53-56 5204<NUL>
 POCSAG1200: Address:   42847  Function: 2  Alpha:   16:52-15 4311<NUL>
-POCSAG2400: Address:   28868  Function: 0  Alpha:   16:52-23 WARD 20 - BLEEP 2813<NUL><NUL>
-POCSAG1200: Address: 1483634  Function: 0 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:51-19 6t52<NUL>
-POCSAG1200: Address: 1919080  Function: 3  Alpha:   CM
-POCSAG1200: Address:  763360  Function: 1  Alpha:   )]
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F<DC2>
-POCSAG1200: Address: 1039184  Function: 3  Alpha:   <ACK>+
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:49-42 4163<NUL>
-POCSAG1200: Address:  646500  Function: 2  Alpha:   16:48-47 17/11/2021 16:45:31 INC 24680037 28C01J 41 CHERTSEY BANK, CARLISLE, CA1 2QF Female 61Y MOUTH GONE TO SIDE GRD 341445 554231<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:48-91 4316<NUL>
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DLE>2H<FF>#d0f
-POCSAG2400: Address: 1321585  Function: 2  Alpha:   16:48-55 pls call 35451<NUL><NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   16:47-66 17/11/2021 16:45:27 INC 24680036 10D04 252 FOX LANE, LEYLAND, PR25 1HJ Male 73Y PAIN IN CHEST GRD 352984 42162
-POCSAG1200: Address: 1511868  Function: 2  Alpha:   &p
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   16:47-52 17/11/2021 16:44:45 INC 24680031 28C
-POCSAG1200: Address: 1321567  Function: 2  Alpha:   16:47-55 2594<NUL>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   16:47-25 3507<NUL>
-POCSAG1200: Address: 1761428  Function: 2  Alpha:   F0
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   16:46-23 4301<NUL>
-POCSAG2400: Address: 1913848  Function: 2  Alpha:   16:46-84 5204<NUL>
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   16:45-59
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:45-26 17/11/2021 16:43:34 INC 24680024 12D02E 3 LIMEFIELD, BLACKBURN, BB2 6BT Male 30Y FITTING GRD 367027 428275<NUL><NUL>
-POCSAG2400: Address:  549107  Function: 2  Alpha:   16:44-10 Please call Hub Operations on 0117 975 7580 regarding Donor number - 152987, Donor hospital - KING'S COLLEGE LONDON, Donor DOB - 26/05/1968
-POCSAG2400: Address:  549112  Function: 2  Alpha:   16:44-08 Please call Hub Operations on 0117 975 7580 regarding Donor number - 152987, Donor hospital - KING'S COLLEGE LONDON, Donor DOB - 26/05/1968
-POCSAG2400: Address: 1913735  Function: 2  Alpha:   16:44-"7 2233<NUL>
