@@ -1,3 +1,28 @@
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   B<STX>
+POCSAG2400: Address: 2000627  Function: 1 
+POCSAG1200: Address:  396886  Function: 1  Alpha:   Z(
+POCSAG1200: Address:  792382  Function: 0 
+POCSAG1200: Address:  231557  Function: 2  Alpha:   b@
+POCSAG1200: Address:  961852  Function: 1  Alpha:   <EM><DLE>
+POCSAG1200: Address:  266851  Function: 1  Alpha:   fv
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address:  105257  Function: 3  Alpha:   fn
+POCSAG2400: Address: 1022276  Function: 0  Alpha:   15:08-35 NH
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1508171121+++TIME=1508171121<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:08-17 5002<NUL>
+POCSAG1200: Address:  958545  Function: 0 
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   &0
+POCSAG2400: Address: 1913540  Function: 2  Alpha:   15:07-33 4268<NUL>
+POCSAG1200: Address:  820854  Function: 2  Alpha:   15:07-15 01642212273
+POCSAG1200: Address: 1817289  Function: 2  Alpha:   15:06-80 4832<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:06-53 4114<NUL>
+POCSAG1200: Address: 1594944  Function: 2  Alpha:   15:06-61 Pageone test message please ignore 2ND TEST 370695<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:05-06 4114<NUL>
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   15:05-35 3104<NUL>
+POCSAG2400: Address:  548053  Function: 2  Alpha:   15:05-23 VPS: PF<NUL>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   15:04-25 4311<NUL>
+POCSAG2400: Address: 1913945  Function: 2  Alpha:   15:04-38 4188<NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   15:04-82 Call or Calls waiting at Switchboard
 POCSAG2400: Address:   28916  Function: 0  Alpha:   15:04-78 4114<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:03-70 4292<NUL>
 POCSAG2400: Address: 1022524  Function: 0  Alpha:   15:03-47 Harambe<CR><LF>81675<CR><LF>GD<NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=115
 POCSAG1200: Address:  585004  Function: 2  Alpha:   11:58-12 1: 001SPLVSMH35077 Battery Alarm ALARM 01<NUL>
 POCSAG1200: Address:  664466  Function: 2  Alpha:   11:57-56 1: 005sxMVSMH35077 Battery Alarm ALARM 01<NUL>
 POCSAG1200: Address:  420501  Function: 3  Alpha:   &2
-POCSAG2400: Address:   28926  Function: 0  Alpha:   11:57-96 5204<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  340913  Function: 2  Alpha:   11:57-38 5330<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   11:56-42 4316<NUL>
-POCSAG2400: Address: 1913540  Function: 2  Alpha:   11:56-30 4269<NUL>
-POCSAG1200: Address: 1761428  Function: 2  Alpha:   &0
-POCSAG2400: Address: 1320204  Function: 2  Alpha:   11:56-37 4140<NUL>
-POCSAG2400: Address: 1321040  Function: 2  Alpha:   11:55-49 4903<NUL>
-POCSAG2400: Address:   28895  Function: 0  Alpha:   11:54-89 2183<NUL>
-POCSAG1200: Address:  152236  Function: 2  Alpha:   11:53-32 PLEASE CONTACT FIRE CONTROL<NUL>
-POCSAG1200: Address:  108034  Function: 0  Alpha:   11
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   11:53-60 17/11/2021 11:52:19 INC 24678687 06D01 31 TANSLEY AVENUE, COPPULL CHORLEY, PR7 5DJ Female 61Y COPD TROUBLE BREATHING SATS 90% LOW PULSE GRD 355539 414039
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   11:53-62 17/11/2021 11:52:19 INC 24678687 06D01 31 TANSLEY AVENUE, COPPULL CHORLEY, PR7 5DJ Female 61Y COPD TROUBLE BREATHING SATS 90% LOW PULSE GRD 355539 414039
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG1200: Address: 1031655  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1153171121+++TIME=1153171121<NUL>
-POCSAG2400: Address: 1587832  Function: 2 
-POCSAG2400: Address:   28895  Function: 0  Alpha:   11:52-88 2642<NUL>
-POCSAG2400: Address: 1913696  Function: 2  Alpha:   11:52-52 2616<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:52-68 17/11/2021 11:51:10 INC 24678680 06E01 31 ADEN CLOSE, BRADFORD MANCHESTER, M12 6WH Male 11M STRUGGLING TO BREATHE GRD 385947 397886
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   11:52-90 17/11/2021 11:50:02 INC 24678674 28C01U 5 MONA ROAD, BLACKBURN, BB2 3JN Female 88Y stroke - speech problems - diabetic problems GRD 368310 426270
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 2021941  Function: 1 
-POCSAG1200: Address:  618261  Function: 3  Alpha:   E<STX>
-POCSAG1200: Address: 1761458  Function: 3  Alpha:   <DLE>,$H<DLE>!0f
