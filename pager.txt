@@ -1,3 +1,21 @@
+POCSAG1200: Address:  856192  Function: 2  Alpha:   <FS>X<EM><CAN><SUB>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   6<ACK>
+POCSAG1200: Address: 1551474  Function: 2  Alpha:   09:48-70 47446
+POCSAG2400: Address: 1913726  Function: 2  Alpha:   09:48-37 5205<NUL>
+POCSAG2400: Address:  555083  Function: 2  Alpha:   <ACK><ACK>
+POCSAG2400: Address: 1008281  Function: 2  Alpha:   09:48-88
+POCSAG1200: Address: 1874102  Function: 0 
+POCSAG1200: Address:  570989  Function: 1 
+POCSAG2400: Address: 1219656  Function: 1  Alpha:   8#YAs
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0948171121+++TIME=0948171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0948171121+++TIME=0948171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:  583523  Function: 2  Alpha:   09:46-06 80300
+POCSAG2400: Address:  977783  Function: 1 
+POCSAG2400: Address:  583564  Function: 2  Alpha:   09:46-93 80300
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:46-37 4954<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:45-11 17/11/2021 09:37:10 INC 24678028 30D03 23 MOORLANDS DRIVE, WYBUNBURY NANTWICH CW5, CW5 7PA Female 95Y Q BROKEN HIP - LEANING ON ARM - FEELING LIGHT HEADED AND DIZZY GRD 369389 350089
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   09:45-79 17/11/2021 09:43:20 INC 24678053 25B03 91 WAPSHARE ROAD, NORRIS GREEN L11, L11 8LR Male 24Y THREATENING SUICIDE GRD 338560 393783<NUL><NUL>
 POCSAG2400: Address: 1913740  Function: 2  Alpha:   09:44-29 2300<NUL>
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   09:44-57 69001
 POCSAG1200: Address:  679608  Function: 2  Alpha:   09:<FF>t,27 69001
@@ -980,21 +998,3 @@ POCSAG1200: Address:  266850  Function: 1  Alpha:   fvVv&<ACK><ACK>4
 POCSAG1200: Address: 1349433  Function: 1 
 POCSAG1200: Address: 1148712  Function: 3  Alpha:   fr
 POCSAG1200: Address:  200280  Function: 2 
-POCSAG1200: Address: 1339102  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>
-POCSAG1200: Address:  623453  Function: 0  Alpha:   bd
-POCSAG1200: Address:  200284  Function: 2 
-POCSAG1200: Address:  625509  Function: 3  Alpha:   @hdjn`j<NUL>x<LF>9x,B^"<SO>.<DC1><BEL>WHC+da<NAK>rp<LF>98E<FS>\"<SO>,a
-POCSAG1200: Address: 1182604  Function: 1  Alpha:   <DC4><DC1>H,m
-POCSAG1200: Address:  533539  Function: 2  Alpha:   <FF><FS>
-POCSAG1200: Address: 1520714  Function: 0 
-POCSAG1200: Address:  135937  Function: 3 
-POCSAG1200: Address:  597799  Function: 3  Alpha:   O%(<SOH>1<ACK><RS>N
-POCSAG1200: Address: 1069143  Function: 0 
-POCSAG1200: Address: 1395653  Function: 3  Alpha:   "i,P'
-POCSAG1200: Address:  658221  Function: 3 
-POCSAG1200: Address:  348052  Function: 2 
-POCSAG1200: Address: 1059636  Function: 1 
-POCSAG1200: Address: 1712299  Function: 2 
-POCSAG1200: Address: 1115498  Function: 0 
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   08:19-52 Owners of the following vehicles illegally parked on MEP Car Park please move them immediately - Black Volvo BN58 XZY and Back Mercedes C16 HKS - SSM<NUL>
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   08:19-24 Owners of the following vehicles illegally parked on MEP Car Park please move them immediately - Black Volvo BN58 XZY and Back Mercedes C16 HKS - SSM<NUL>
