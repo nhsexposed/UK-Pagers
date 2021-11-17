@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313171121+++TIME=0313171121<NUL>
+POCSAG1200: Address:  585480  Function: 3 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  414217  Function: 3  Alpha:   RhDdL
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   03:11-51 17/11/2021 03:10:17 INC 24677141 32B02 44 DARLINGTON CRESCENT, SAUGHALL CHESTER CH1, CH1 6DB Male 96Y CARELINE- NO RESPONSE GRD 336241 370115<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:08-70 3105<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0308171121+++TIME=0308171121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308171121+++TIME=0308171121<NUL>
@@ -991,10 +998,3 @@ POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:58-51 3180<NUL>
 POCSAG1200: Address:  761382  Function: 0 
 POCSAG1200: Address: 1208965  Function: 0  Alpha:   <EOT><VT>
 POCSAG1200: Address:  707844  Function: 2 
-POCSAG1200: Address:  369300  Function: 2 
-POCSAG1200: Address:  694219  Function: 1 
-POCSAG1200: Address:  708643  Function: 0 
-POCSAG1200: Address:  761378  Function: 0 
-POCSAG1200: Address: 1712482  Function: 2 
-POCSAG1200: Address:  510871  Function: 1  Alpha:   O%
-POCSAG1200: Address:  791727  Function: 1 
