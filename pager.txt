@@ -1,3 +1,46 @@
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:34-62 4462<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1833171121+++TIME=1833171121<NUL>
+POCSAG512: Address:  214607  Function: 3  Alpha:   O%
+POCSAG2400: Address:  173619  Function: 3 
+POCSAG2400: Address: 1433434  Function: 3 
+POCSAG2400: Address: 1321176  Function: 2  Alpha:   18:32-34 NHS ENGLAND DIRECTOR ON CALL MICHELE ILIS CCG DIRECTOR ON CALL PLS CALL 0792 081 7880
+POCSAG2400: Address: 1321148  Function: 2  Alpha:   18:32-20 NHS ENGLAND DIRECTOR ON CALL MICHELE ILIS CCG DIRECTOR ON CALL PLS CALL 0792 081 7880
+POCSAG1200: Address:  585270  Function: 2  Alpha:   18:32-82 TEST MESSAGE 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03o<t/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  733792  Function: 0 
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   v 
+POCSAG2400: Address:  476747  Function: 2  Alpha:   /07901998197. NEL Ops EC.
+POCSAG2400: Address: 1323941  Function: 2  Alpha:   18:30-93 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1323941  Function: 2  Alpha:   18:30-92 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1324054  Function: 2  Alpha:   18:30-81 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:30-83 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1324058  Function: 2  Alpha:   18:30-21 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1323923  Function: 2  Alpha:   18:30-93 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address:  936961  Function: 2 
+POCSAG2400: Address: 1323926  Function: 2  Alpha:   18:30-34 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1323923  Function: 2  Alpha:   18:30-92 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1324077  Function: 2  Alpha:   18:30-76 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG2400: Address: 1691687  Function: 2  Alpha:   O%h,d
+POCSAG2400: Address: 1278790  Function: 2  Alpha:   rrPbr
+POCSAG2400: Address: 1939892  Function: 2 
+POCSAG2400: Address: 1816420  Function: 1 
+POCSAG2400: Address: 1074371  Function: 0 
+POCSAG2400: Address: 2022810  Function: 0  Alpha:   sY
+POCSAG2400: Address: 1702658  Function: 3 
+POCSAG2400: Address:  169705  Function: 2 
+POCSAG2400: Address:  708640  Function: 3  Alpha:   x-
+POCSAG2400: Address: 1390436  Function: 2 
+POCSAG2400: Address:  840699  Function: 1  Alpha:   ]i
+POCSAG2400: Address: 1284641  Function: 3  Alpha:   <EOT><LF>
+POCSAG2400: Address: 1672024  Function: 0  Alpha:   nb
+POCSAG2400: Address: 1997192  Function: 1 
+POCSAG2400: Address: 1324023  Function: 2  Alpha:   18
+POCSAG2400: Address:  969331  Function: 0 
+POCSAG2400: Address: 1324023  Function: 2  Alpha:   18:30-70 NEL 111 is in front end escalation - DMP 4 - For info only, 02077836953/07901998197. NEL Ops EC.
+POCSAG1200: Address: 1357673  Function: 2 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   18:30-51 4555<NUL>
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   18:30-62 please call rfh ext 33965
+POCSAG1200: Address: 2079600  Function: 0 
 POCSAG1200: Address: 1483387  Function: 2 
 POCSAG1200: Address: 1975908  Function: 1 
 POCSAG1200: Address: 1625342  Function: 2  Alpha:   J<STX>A<ACK>NR<STX>!>VJ<STX><SOH><NUL>
@@ -955,46 +998,3 @@ POCSAG1200: Address: 1761428  Function: 2  Alpha:   &0
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:40-40 4172<NUL>
 POCSAG2400: Address: 1259326  Function: 2  Alpha:   15:40-11 3268<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:40-82 3157<NUL>
-POCSAG1200: Address:  268596  Function: 3  Alpha:   l<DLE><DC3>1<DLE>u,<SO>,,<SO><BS>1<SUB><ESC>(0Z<FS>9<CAN>;<EM>h<FF>H18<GS><ESC><GS>(U;<SUB><GS>H18<GS><ESC><GS><BS>,<FF>
-POCSAG1200: Address:  664466  Function: 2  Alpha:   15:40-59 1:
-POCSAG2400: Address: 1259326  Function: 2  Alpha:   15:39-10 PLS CALL 2003
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-81 5201<NUL>
-POCSAG1200: Address:   71159  Function: 1  Alpha:   O%(<DLE>!
-POCSAG1200: Address:  619463  Function: 3 
-POCSAG1200: Address: 1387870  Function: 3  Alpha:   xH
-POCSAG1200: Address: 1060005  Function: 2 
-POCSAG1200: Address: 1356877  Function: 2 
-POCSAG1200: Address:   78212  Function: 0  Alpha:   IL
-POCSAG1200: Address:   84563  Function: 3 
-POCSAG1200: Address:  272011  Function: 2 
-POCSAG1200: Address: 1912898  Function: 1  Alpha:   <ESC>K
-POCSAG1200: Address: 1257590  Function: 0 
-POCSAG1200: Address:  325965  Function: 1  Alpha:   E 
-POCSAG1200: Address:  591252  Function: 2 
-POCSAG1200: Address: 1723609  Function: 0 
-POCSAG1200: Address:  874544  Function: 2 
-POCSAG1200: Address:  612903  Function: 2  Alpha:   O%(2<SOH>
-POCSAG1200: Address:   11141  Function: 2 
-POCSAG1200: Address:  809173  Function: 0 
-POCSAG1200: Address:  886915  Function: 2  Alpha:   d@$<US><US><ESC>Ad
-POCSAG1200: Address:  721418  Function: 3 
-POCSAG1200: Address:  978074  Function: 1 
-POCSAG1200: Address:  266849  Function: 1  Alpha:   fv
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1686319  Function: 2  Alpha:   O%(12
-POCSAG1200: Address: 1339101  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>+S
-POCSAG1200: Address: 1681244  Function: 1  Alpha:   rr
-POCSAG1200: Address: 1356875  Function: 2 
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:39-78 2097<NUL>
-POCSAG2400: Address: 1321209  Function: 2  Alpha:   15:39-00 34917
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-80 5202<NUL>
-POCSAG1200: Address: 2088952  Function: 3 
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2><DC3>
-POCSAG1200: Address: 1815006  Function: 0  Alpha:   15:39-28 PLS CALL 0787 5576 509 - URGENT <NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:38-79 4183<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1538171121+++TIME=1538171121<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   15:38-89 4163<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1538171121+++TIME=1538171121<NUL>
-POCSAG2400: Address: 1913540  Function: 2  Alpha:   15:37-34 4268<NUL>
-POCSAG2400: Address:  327680  Function: 0 
