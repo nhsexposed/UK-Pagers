@@ -1,3 +1,24 @@
+POCSAG1200: Address: 1022781  Function: 2  Alpha:   10:43-20 Device is Down (FPS Alerts)., FPS_Alert_4-Out-Response-over-3-minutes is Down on Device: FPS Alerts (10.100.31.180).<CR><LF><CR><LF>Details:<CR><LF>Monitors that are down include: FPS_Alert_4-Out-Response-over-3-minutes<CR><LF>Monitors that are up include: FPS_Ale<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1043171121+++TIME=1043171121<NUL>
+POCSAG1200: Address:  219383  Function: 0 
+POCSAG1200: Address:  619125  Function: 0 
+POCSAG1200: Address: 1039242  Function: 0 
+POCSAG1200: Address: 1594915  Function: 2  Alpha:   10:43-13 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
+POCSAG1200: Address: 1312586  Function: 2  Alpha:   10:43-33 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
+POCSAG1200: Address:  683139  Function: 0  Alpha:   (%<ETX><GS>'<ESC><DC3>''<DC3><US><GS>'<SOH>
+POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
+POCSAG1200: Address: 1312647  Function: 2  Alpha:   10:43-28 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
+POCSAG1200: Address: 1312572  Function: 2  Alpha:   10:43-30 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
+POCSAG1200: Address:  756917  Function: 0  Alpha:   L<FS><GS>M|t<FS><ENQ>
+POCSAG1200: Address: 1312591  Function: 2  Alpha:   10:43-35 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
+POCSAG1200: Address: 1594916  Function: 2  Alpha:   10:43-35 INFORM -  PLEASE START USING REQUEST TO SPEAK (BUTTONS 7 AND 9) FOR RADIO TRANSMISSIONS<NUL>
+POCSAG1200: Address:  295504  Function: 0 
+POCSAG1200: Address: 1024753  Function: 0 
+POCSAG1200: Address:  462338  Function: 3 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   10:42-39 6{;9<NUL>
+POCSAG512: Address: 1991607  Function: 1 
+POCSAG1200: Address: 2026353  Function: 2 
+POCSAG1200: Address:  290120  Function: 3  Alpha:   V<LF>
 POCSAG1200: Address: 2025086  Function: 0 
 POCSAG2400: Address: 1032517  Function: 3  Alpha:   Fl
 POCSAG1200: Address:   77279  Function: 2  Alpha:   10:38-27 Whitby FIRE CALL
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1560385  Function: 3
 POCSAG1200: Address: 1817164  Function: 2  Alpha:   08:46-55 Destination: Parking\D78 Ext TP, Booking Ref#: P11105004, Vehicle: bv19kuy. If no more Booking Ref to unload, ignore destination and proceed to the Egl<FF>}
 POCSAG1200: Address: 1814681  Function: 2  Alpha:   08:46-16 17/11/2021 08:43:37 INC 24677799 31D04 174 PRESTON NEW ROAD, MARTON BLACKPOOL, FY4 4HE Female 65Y HEART RATE 43 COLLASPED ON THE BED GRD 333430 434491
 POCSAG1200: Address: 1259126  Function: 2  Alpha:   08:46-54 17/11/2021 08:43:37 INC 24677799 31D04 174 PRESTON NEW ROAD, MARTON BLACKPOOL, FY4 4HE Female 65Y HEART RATE 43 COLLASPED ON THE BED GRD 333430 434491
-POCSAG2400: Address:  371549  Function: 0  Alpha:   jr
-POCSAG2400: Address:  200284  Function: 2 
-POCSAG2400: Address: 1441795  Function: 0  Alpha:   WHCel
-POCSAG2400: Address:  793522  Function: 3 
-POCSAG2400: Address:  346919  Function: 2  Alpha:   O%hStt<SO><BS><ENQ>l-mm<CR>I,-
-POCSAG2400: Address: 1582157  Function: 3 
-POCSAG2400: Address:  510547  Function: 1  Alpha:   <CAN>E<NAK>:<BS>iyI<SOH>$z
-POCSAG2400: Address:   68297  Function: 0  Alpha:   TR
-POCSAG2400: Address: 1680312  Function: 1 
-POCSAG2400: Address: 1255176  Function: 1 
-POCSAG2400: Address:  634135  Function: 0  Alpha:   O%
-POCSAG2400: Address:  627495  Function: 0 
-POCSAG2400: Address:  141973  Function: 2  Alpha:    (h""Pif
-POCSAG2400: Address:  339548  Function: 3  Alpha:   i9
-POCSAG2400: Address:  532659  Function: 2 
-POCSAG2400: Address: 1160962  Function: 0  Alpha:   $)
-POCSAG2400: Address: 1246794  Function: 2 
-POCSAG2400: Address:  879153  Function: 3  Alpha:   -,
-POCSAG2400: Address: 1816168  Function: 0 
-POCSAG2400: Address: 1075392  Function: 3 
-POCSAG2400: Address:  371551  Function: 0  Alpha:   bh`g<DC2>
