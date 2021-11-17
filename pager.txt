@@ -1,3 +1,30 @@
+POCSAG2400: Address: 1913722  Function: 2  Alpha:   11:19-67 5633<NUL>
+POCSAG2400: Address: 1323792  Function: 2  Alpha:   11:19-96 5244<NUL>
+POCSAG1200: Address: 1031804  Function: 3  Alpha:   A<EM>
+POCSAG1200: Address: 1015513  Function: 3  Alpha:   F2
+POCSAG1200: Address: 1322007  Function: 2  Alpha:   11:19-93 Missed call: 020-30267410
+POCSAG2400: Address: 1032526  Function: 3  Alpha:   V 
+POCSAG1200: Address: 1031516  Function: 2  Alpha:   Q<ACK>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   11:18-97 5070<NUL>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   11zq:+96 5007<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1118171121+++TIME=1118171121<NUL>
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   11:17-58 INC ALERT No: 16789882 Traffic/Transportation Accidents - MOBILTY SCOTTER HAS GONE IN
+POCSAG2400: Address:  216735  Function: 2  Alpha:   11:17-09 INC ALERT No: 16789882 Traffic/Transportation Accidents - MOBILTY SCOTTER HAS GONE IN
+POCSAG1200: Address: 1032702  Function: 3  Alpha:   F<DLE>
+POCSAG1200: Address:  989925  Function: 2  Alpha:   11:17-48 joanne here
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  959328  Function: 3 
+POCSAG2400: Address: 1913679  Function: 2  Alpha:   11:16-37 4272<NUL>
+POCSAG1200: Address:  325987  Function: 3  Alpha:   F<NUL>
+POCSAG2400: Address: 1321504  Function: 2  Alpha:   11:16-01 please call <LF>Dr English on 07929249132 .<NUL><NUL>
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   11:15-73 2182<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   11:15-70 Alert from MANSDPMSFM01B, interconnect 3 -`0he connection on downlink port 12, s..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development NX(--><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   11:15-68 Alert from MANSDPMSFM01B, interconnect 3 - The connection on downlink port 12, s..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   11:14-35 3246<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   11:14-93 4157<NUL>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   11:14-95 5073<NUL>
+POCSAG1200: Address: 1527936  Function: 1 
+POCSAG1200: Address: 1322009  Function: 2  Alpha:   11:14-46 3343<NUL>
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   11:14-44 5072<NUL>
 POCSAG1200: Address:   80196  Function: 2  Alpha:   H<FF>
 POCSAG2400: Address: 1324566  Function: 2  Alpha:   11:13-57 INC ALERT No: 16789867 Chest Pain (Non Traumatic) - CHEST PAINS AND VOMITING - FEMALE, AT: 2 WEBLEY ROAD, EXETER, EX2 9HQ, Time of Call: 17/11/2021 11:12:39, Co-ords: 50.7109764 -3.5469782
@@ -971,30 +998,3 @@ POCSAG1200: Address:  296356  Function: 1
 POCSAG1200: Address:  328744  Function: 0 
 POCSAG1200: Address:  856759  Function: 0  Alpha:   O%(6<SYN>
 POCSAG1200: Address: 1130063  Function: 2 
-POCSAG1200: Address: 1409398  Function: 3 
-POCSAG1200: Address: 1417741  Function: 0  Alpha:   <SYN>P
-POCSAG1200: Address:  534836  Function: 2  Alpha:   l,$L<FF>
-POCSAG1200: Address: 1320555  Function: 0 
-POCSAG1200: Address: 1782848  Function: 1 
-POCSAG1200: Address:  132566  Function: 3 
-POCSAG1200: Address: 1218350  Function: 1 
-POCSAG1200: Address: 1715076  Function: 0 
-POCSAG1200: Address:  353500  Function: 1 
-POCSAG1200: Address:   66051  Function: 3 
-POCSAG1200: Address: 1056849  Function: 1 
-POCSAG1200: Address:   70016  Function: 0  Alpha:   TE<SUB>  
-POCSAG1200: Address: 2042120  Function: 1 
-POCSAG1200: Address: 1594916  Function: 2  Alpha:   09:04-32 (1/2)NOTIFY
-POCSAG1200: Address: 1312565  Function: 2  Alpha:   09:04-11 (1/2)NOTIFY DATE:     17.11.21    TIME: 0900 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE - 15 WHOLETIME APPLIANCES TRAINING B<SYN> AVAILABLE FOR RECALL - 1 ON-CALL<NUL>
-POCSAG1200: Address: 1312592  Function: 2  Alpha:   09:04-90 (1/2)NOTIFY DATE:     17.11.21    TIME: 0900 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE - 15 WHOLETIME APPLIANCES TRAINING B<SYN> AVAILABLE FOR RECALL - 1 ON-CALL<NUL>
-POCSAG1200: Address: 1312580  Function: 2  Alpha:   09:04-85 (1/2)NOTIFY DATE:     17.11.21    TIME: 0900 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE - 15 WHOLETIME APPLIANCES TRAINING B<SYN> AVAILABLE%OOR RECALL - 1 ON-CALL<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0903171121+++TIME=0903171121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903171121+++TIME=0903171121<NUL>
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   09:02-89 INC ALERT No: 16789458 Cardiac Arrest -, AT: ON A BUS LONGDOWN AVENUE STOP, HOME LEAS CLOSE, STOKE GIFFORD BRISTOL, BS16 1FL, Time of Call: 17/11/2021 08:59:58, Co-ords: 51.4988581 -2.560800
-POCSAG1200: Address:  285568  Function: 2 
-POCSAG1200: Address: 1324228  Function: 2  Alpha:   09:02-32 This is a pager test<NUL><NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   09:02-17 4114<NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   09:02-32 4201<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:03-62 17/11/2021 09:01:27 INC 24677867 01C04 16 PENNYCRESS DRIVE, LIVERPOOL, L11 2WX Female 33Y LAYING ON FLOOR WITH ABDO PAINS GRD 338739 394454
-POCSAG1200: Address: 1312731  Function: 2  Alpha:   09:02-65 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312709  Function: 2  Alpha:   09:02-30 This is a pager test<NUL><NUL>
