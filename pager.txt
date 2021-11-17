@@ -1,3 +1,17 @@
+POCSAG1200: Address:  585538  Function: 2  Alpha:   16:53-17 3622<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   16:53-67 17/11/2021 
+POCSAG1200: Address:  367284  Function: 1  Alpha:   m<FF>\<CR><BS>
+POCSAG1200: Address:  338196  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653171121+++TIME=1653171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653171121+++TIME=1653171121<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   16:53-56 5204<NUL>
+POCSAG1200: Address:   42847  Function: 2  Alpha:   16:52-15 4311<NUL>
+POCSAG2400: Address:   28868  Function: 0  Alpha:   16:52-23 WARD 20 - BLEEP 2813<NUL><NUL>
+POCSAG1200: Address: 1483634  Function: 0 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:51-19 6t52<NUL>
+POCSAG1200: Address: 1919080  Function: 3  Alpha:   CM
+POCSAG1200: Address:  763360  Function: 1  Alpha:   )]
+POCSAG1200: Address:  618313  Function: 3  Alpha:   F<DC2>
 POCSAG1200: Address: 1039184  Function: 3  Alpha:   <ACK>+
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:49-42 4163<NUL>
 POCSAG1200: Address:  646500  Function: 2  Alpha:   16:48-47 17/11/2021 16:45:31 INC 24680037 28C01J 41 CHERTSEY BANK, CARLISLE, CA1 2QF Female 61Y MOUTH GONE TO SIDE GRD 341445 554231<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1320387  Function: 2  Alpha:   14:05-20 2427<NUL>
 POCSAG1200: Address: 2061952  Function: 2  Alpha:   <BS>mLMlL<FF><NUL>
 POCSAG1200: Address:  929088  Function: 3 
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   14:05-63 69002
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   14:04-77 3144<NUL>
-POCSAG1200: Address:  928324  Function: 0 
-POCSAG1200: Address:  937436  Function: 1  Alpha:   <EM><DLE>
-POCSAG1200: Address:  107305  Function: 2  Alpha:   jf
-POCSAG1200: Address:  111454  Function: 1  Alpha:   fb
-POCSAG1200: Address:  727741  Function: 1  Alpha:   <CAN><SUB>
-POCSAG1200: Address:  116486  Function: 0  Alpha:   T<ENQ>t(z<EM>i<HT><EOT><SUB><CAN>i<HT>t(J<BS>46<ACK>gV<SYN><BEL>4<SYN><ETB>6<ACK>v<ACK>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:03-34 5202<NUL>
-POCSAG2400: Address: 1913678  Function: 2  Alpha:   14:02-93 2581<NUL>
-POCSAG2400: Address:  149253  Function: 2  Alpha:   14:02-11 PLS CALL DONNA FISHER 07305 780 601 (DAUGHTER CALLED AS HER FATHER HAS PASSED AWAY)<NUL><NUL>
-POCSAG1200: Address:  901466  Function: 2  Alpha:   14:02-07 02890578830
-POCSAG1200: Address:   78338  Function: 1  Alpha:   ff,P#)"P<EM>[Y[X<CAN><DLE>ZX<CAN>\<FS><SUB><NUL>
-POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK>B
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
