@@ -17505,3 +17505,14 @@ POCSAG1200: Address:  891304  Function: 1
 POCSAG1200: Address: 1612184  Function: 2 
 POCSAG1200: Address: 1323329  Function: 1  Alpha:   S%qc<SYN>
 POCSAG1200: Address:  865378  Function: 3 
+POCSAG1200: Address: 1913536  Function: 2  Alpha:   9;<CAN>;<EM><BS><SO>,<SYN>Hs<DC3><NAK>HP41<DLE><NAK>2Rs<DC1>hQ<DC4><DC1>h,<CR><CR>NL<CR><BS>Ml,L-<SO><NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   18:41-57 5204<NUL>
+POCSAG1200: Address: 1352291  Function: 0 
+POCSAG1200: Address:  696118  Function: 2  Alpha:   18:42-14 33867
+POCSAG512: Address:  168152  Function: 2 
+POCSAG2400: Address: 1323098  Function: 2  Alpha:   18:42-53 2195<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843171121+++TIME=1843171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843171121+++TIME=1843171121<NUL>
+POCSAG1200: Address:   33650  Function: 2  Alpha:   18:44-16 PLS CALL TRACY AT IC24 ON 07788 913 809 <NUL><NUL>
+POCSAG2400: Address:   28893  Function: 0  Alpha:   18:44-68 2561<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:44-09 5204<NUL>
