@@ -1,3 +1,25 @@
+POCSAG2400: Address:   11852  Function: 0  Alpha:   07:08-91 PLEASE CALL BROOMFIELD HOSPITAL 01245 515 930 <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708171121+++TIME=0708171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0708171121+++TIME=0708171121<NUL>
+POCSAG2400: Address: 1815054  Function: 0  Alpha:   07:07-10 PLS CONTACT MAJOR INCIDENT MANAGEMENT ON 01635 692 266<NUL><NUL>
+POCSAG1200: Address: 1092176  Function: 2  Alpha:   07:07-26 All capacity used<LF>Now onboarding in CAU<LF>Very night with multiple priorities<LF><LF>Control Room Open (yes/No) 3900, 2930<LF><LF>
+POCSAG1200: Address:  470206  Function: 2 
+POCSAG1200: Address:  801854  Function: 3 
+POCSAG1200: Address: 1584245  Function: 3 
+POCSAG1200: Address: 1082003  Function: 1 
+POCSAG1200: Address: 1320962  Function: 1  Alpha:   +d
+POCSAG1200: Address:  969753  Function: 1 
+POCSAG1200: Address: 1060048  Function: 2  Alpha:   <ETX><ETX>C<STX><DC2>
+POCSAG1200: Address:   68254  Function: 3  Alpha:   es?NoqY<EOT>
+POCSAG1200: Address: 1683532  Function: 2 
+POCSAG1200: Address: 1912897  Function: 1 
+POCSAG1200: Address:  361143  Function: 1  Alpha:   g<DC2>T:6z48
+POCSAG1200: Address:  268988  Function: 2  Alpha:   07:07-41 All capacity used<LF>Now onboarding in CAU<LF>Very night wi
+POCSAG1200: Address:  267877  Function: 0  Alpha:   07:07-08 All capacity used<LF>Now onboarding in CAU<LF>Very night with multiple priorities<LF><LF>Control Room Open (yes/No) 3900, 2930<LF><LF>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   07:07-66 33715
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1471640  Function: 3 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:05-52 17/11/2021 07:04:34 INC 24677517 17A04G 124 STANLEY PARK AVENUE NORTH, WALTON L4, L4 9UF Female 78Y FALLS UNABLE TO GET UP GRD 336997 394708<NUL><NUL>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   07:04-04 MSG01- 17/11/2021 07:00:31 INC 24677510 20D01C O/S AT ACCESS TO BEECH, THE REFRESHMENT ROOMS, 2 BEDFORD ROAD EAST, ROCK FERRY BIRKENHEAD CH42, CH42 1LS Female UnknownY FEMALE FOUND LYING UN MUD - POSSIBLE COLD EXPOSURE - NOT ALERT GRD 33340<NUL><NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   07:03-52 4687<NUL>
 POCSAG1200: Address:  585532  Function: 2  Alpha:   07:03-24 All capacity used, <LF>now onboarding on CAU <LF>very busy night with multiple priorities <LF><LF>Control Room Open (yes/No) 3900, 2930<LF><LF>
@@ -976,25 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0253171121+++TIME=02
 POCSAG1200: Address:   41432  Function: 2  Alpha:   02:53-15 17/11/2021 02:<NAK>1<36 INC 24677108 31E01 7 BRADLEY STREET, COLNE, BB8 0QN Male 74Y passed out on the toilet GRD 389682 440334<NUL><NUL>
 POCSAG1200: Address: 1565498  Function: 2  Alpha:   02:53-01 17/11/2021 02:51:36 INC 24677108 31E01 7 BRADLEY STREET, COLNE, BB8 0QN Male 74Y passed out on the toilet GRD 389682 440334<NUL><NUL>
 POCSAG1200: Address:  214093  Function: 2  Alpha:   02:53-98 17/11/2021 02:51:36 INC 24677108 31E01 7 BRADLEY STREET, COLNE, BB8 0QN Male 74Y passed out on the toilet GRD 389682 440334<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   02:51-71 6053 please
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   02:50-08 17/11/2021 02:48:30 INC 24677106 25B03V PHONE BOX, WATERLOO ROAD, ASHTON ASHTON UNDER LYNE, OL6 8QH Male 50Y SUICIDAL MALE, NOT TAKEN MH MED, FEELING LOW GRD 393782 400350
-POCSAG2400: Address:  584009  Function: 2  Alpha:   02:49-70 4376<NUL>
-POCSAG1200: Address:  269111  Function: 2  Alpha:   02:49-78 17/11/2021 02:47:54 INC 24677104 31E01 2 CAMBRIDGE STREET, DARWEN, BB3 3JH Male 25Y BREATHING PROBLEMS- GASPING FOR BREATH- COVID POSITIVE GRD 370035 422157
-POCSAG1200: Address:  269168  Function: 2  Alpha:   02:49-09 17/11/2021 02:47:54 INC 24677104 31E01 2 CAMBRIDGE STREET, DARWEN, BB3 3JH Male 25Y BREATHING PROBLEMS- GASPING FOR BREATH- COVID POSITIVE GRD 370035 422157
-POCSAG1200: Address:  197450  Function: 0 
-POCSAG1200: Address:  293232  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0248171121+++TIME=0248171121<NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   02:48-51 PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni, <CR><LF>PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni<CR><LF>Service: Windows Firewall<CR><LF>Host: mansdpmftp01oni<CR><LF>Alias: <CR><LF>Address: 10.41.4.20<CR><LF>Host Group Hierarchy: Opsview > <NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   02:48-18 PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni, <CR><LF>PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni<CR><LF>Service: Windows Firewall<CR><LF>Host: mansdpmftp01oni<CR><LF>Alias: <CR><LF>Address: 10.41.4.20<CR><LF>Host Group Hierarchy: Opsview > <NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   02:48-07 PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni, <CR><LF>PROBLEM: Windows Firewall is CRITICAL on host mansdpmftp01oni<CR><LF>Service: Windows Firewall<CR><LF>Host: mansdpmftp01oni<CR><LF>Alias: <CR><LF>Address: 10.41.4.20<CR><LF>Host Group Hierarchy: Opsview > <NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   02:48-87 PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A, <CR><LF>PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A<CR><LF>Service: Citrix Services<CR><LF>Host: GMMHACLVDA24A<CR><LF>Alias: <CR><LF>Address: 192.168.23.154<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITIC<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   02:48-26 PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A, <CR><LF>PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A<CR><LF>Service: Citrix Services<CR><LF>Host: GMMHACLVDA24A<CR><LF>Alias: <CR><LF>Address: 192.168.23.154<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITIC<NUL><NUL>
-POCSAG2400: Address:  263684  Function: 0 
-POCSAG2400: Address:  216268  Function: 2  Alpha:   02:48-17 PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A, <CR><LF>PROBLEM: Citrix Services is CRITICAL on host GMMHACLVDA24A<CR><LF>Service: Citrix Services<CR><LF>Host: GMMHACLVDA24A<CR><LF>Alias: <CR><LF>Address: 192.168.23.154<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITIC<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  336053  Function: 2  Alpha:   02:46-77 17/11/2021 02:46:28 INC 24677099 DX0106 9 NIPPER LANE, LILY HILL WHITEFIELD MANCHESTER, M45 7RH Female 10m 111 NWAS/Breathless - Fever - Runny Nose - Cough - Vomiting - 1 Hr GRD 380290 40654
-POCSAG2400: Address:  149253  Function: 2  Alpha:   02:46-05 REPORTING HUSBAND HAS PASSED AWAY, PLEASE CALL ON 07855 790 113 ASAP <NUL>
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   02:46-16 REPORTING HUSBAND HAS PASSED AWAY, PLEASE CALL ON 07855 790 113 ASAP <NUL>
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:46-39 REPORTING HUSBAND HAS PASSED AWAY, PLEASE CALL ON 07855 790 113 ASAP <NUL>
-POCSAG1200: Address:   33723  Function: 2  Alpha:   02:46-68 02:46-67 REPORTING HUSBAND HAS PASSED AWAY, PLEASE CALL ON 07855 790 113 ASAP <NUL>
