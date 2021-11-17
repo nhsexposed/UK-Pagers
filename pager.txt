@@ -1,3 +1,7 @@
+POCSAG2400: Address:   28869  Function: 0  Alpha:   03:34-83 27552 <NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333171121+++TIME=0333171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  584009  Function: 2  Alpha:   03:31-71 2343<NUL>
 POCSAG2400: Address:  216251  Function: 2  Alpha:   03:28-31 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
 POCSAG2400: Address:  216264  Function: 2  Alpha:   03:28-55 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
 POCSAG2400: Address:  216272  Function: 2  Alpha:   03:28-11 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2303161121+++TIME=23
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2303161121+++TIME=2303161121<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:03-30 5400<NUL>
 POCSAG1200: Address:  108101  Function: 0  Alpha:   23:03-27 Plse call Merissa on 020 8487 6127<NUL><NUL>
-POCSAG1200: Address:   22104  Function: 2  Alpha:   23:02-82 16/11/2021 22:58:34 INC 24676477 23B01I 16A GRAYTHORPE WALK, SALFORD 6 SALFORD, M5 4HL Female 40Y OVERDOSE, FEELING LOW GRD 381342 398294<NUL><NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   23:02-37 16/11/2021 22:58:34 INC 24676477 23B01I 16A GRAYTHORPE WALK, SALFORD 6 SALFORD, M5 4HL Female 40Y OVERDOSE, FEELING LOW GRD 381342 398294<NUL><NUL>
-POCSAG1200: Address:  149176  Function: 2  Alpha:   23:00-22 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1487681  Function: 2  Alpha:   23:00-26 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
