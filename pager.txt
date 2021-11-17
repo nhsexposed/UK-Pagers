@@ -1,3 +1,12 @@
+POCSAG2400: Address:  706998  Function: 3  Alpha:   E=<SOH>35017u,B
+POCSAG2400: Address: 2004608  Function: 3 
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   13:58-19 3104<EM>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:58-66 4660<NUL>
+POCSAG1200: Address: 1727964  Function: 1  Alpha:   <EM><SUB><DLE>Z<CAN>Z<ESC>[<EM><NUL><NUL>
+POCSAG1200: Address:  340147  Function: 0  Alpha:   13:56-30 4226<NUL>
+POCSAG2400: Address: 1913772  Function: 2  Alpha:   13:55-70 4167<NUL>
+POCSAG1200: Address: 1483352  Function: 0 
+POCSAG2400: Address:   28906  Function: 0  Alpha:   13:54-97 3104<NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   2$
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1353171121+++TIME=1353171121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1353171121+++TIME=1353171121<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  820854  Function: 2  Alpha:   10:27-13 01642212273
 POCSAG1200: Address:  343317  Function: 0  Alpha:   10:26-52 Engine 3 Shutdown, Engine_3_OnLoa
 POCSAG1200: Address:  401693  Function: 2  Alpha:   10:26-96 PLS CALL EZI BIRNBAUN AT YOUR CONVENIENCE. ADVISED YOU HAVE NUMBER.<NUL>
 POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   10:26-41 17/11/2021 10:24:55 INC 24678240 06E01 7 MAY STREET, BOOTLE L20, L20 5BE Male 76Y SUB CALL - PT WORSENED - CANT BREATH GRD 334332 396015
-POCSAG2400: Address: 1492104  Function: 3 
-POCSAG1200: Address: 1993331  Function: 0 
-POCSAG1200: Address:  548166  Function: 2  Alpha:   10:25-55 2012<NUL>
-POCSAG1200: Address:  549765  Function: 2  Alpha:   10:25-19 ~PLEASE CONTACT RCC.<NUL><NUL>
-POCSAG1200: Address: 1712224  Function: 1  Alpha:   <ACK>I<HT>dX\<GS>L]<FF><DC4><SYN>V<HT>4zzIIYH<BS>DX<BS>4:<CAN>HY(<LF>4<SUB>8<BS>YHZ<ENQ>4YHJJY<BS>t(J<BS>4VFVF<ACK><ACK>D&<SYN>'<SYN>6<ACK>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   10:24-34 4114<NUL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   10:24-91 5207<NUL>
