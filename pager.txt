@@ -1,3 +1,23 @@
+POCSAG1200: Address:  618261  Function: 3  Alpha:   U<FF>
+POCSAG1200: Address:  401693  Function: 2  Alpha:   16:19-04 PLS CALL 07772 784 128 - REG KAYLA BRANDEIS <NUL>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:19-77 17/11/2021 16:17:10 INC 24679901 32D01 10 BRIGHTMAN STREET, ABBEY HEY MANCHESTER, M18 8GN Male 72Y COMMUNITY ALARM DIABETIC PROBLEM GRD 389005 396829<NUL>
+POCSAG1200: Address: 1511868  Function: 2  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   16:18-82 5013<NUL>
+POCSAG1200: Address:  453916  Function: 1 
+POCSAG1200: Address: 1814763  Function: 0  Alpha:   <ACK>D
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1618171121+++TIME=1618171121<NUL>
+POCSAG2400: Address:  583534  Function: 2  Alpha:   16:17-99 555<NUL><NUL>
+POCSAG2400: Address: 1322526  Function: 2  Alpha:   16:17-32 555<NUL><NUL>
+POCSAG1200: Address: 1534114  Function: 2  Alpha:   16:17-64 CONTACT CONTROL<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   16:17-99 5204<NUL>
+POCSAG1200: Address: 1761428  Function: 2  Alpha:   1n
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:   78129  Function: 1  Alpha:   OO
+POCSAG1200: Address:   64660  Function: 0  Alpha:   16:15-77 please call x %<SOH>57<NUL>
+POCSAG1200: Address: 1671721  Function: 1  Alpha:   o enl
+POCSAG1200: Address:  150345  Function: 0 
+POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:14-20 3181<NUL>
 POCSAG2400: Address:  583573  Function: 2  Alpha:   16:14-03 555<NUL><NUL>
 POCSAG1200: Address:  354553  Function: 2  Alpha:   <NUL><FF>
 POCSAG2400: Address:  583842  Function: 2  Alpha:   16:13-94 555<NUL><NUL>
@@ -978,23 +998,3 @@ POCSAG1200: Address: 1223022  Function: 1
 POCSAG1200: Address: 1377428  Function: 2  Alpha:   g,B)P
 POCSAG1200: Address:  338196  Function: 0 
 POCSAG1200: Address: 1415200  Function: 3  Alpha:   ,<EOT>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   13:11-06 EXT 6810 - JULIE
-POCSAG1200: Address:  189077  Function: 2 
-POCSAG1200: Address:  585224  Function: 2  Alpha:   13:11-46 1: 001CLCOMBA39040 BR5 Airdale 2 Flt Unit Fault 01<NUL>
-POCSAG2400: Address: 1377200  Function: 2 
-POCSAG2400: Address:  640392  Function: 2  Alpha:   13:10-34 6280<NUL>
-POCSAG2400: Address: 1550320  Function: 0 
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   13:10-35 3164<NUL>
-POCSAG1200: Address:  585004  Function: 2  Alpha:   13:10-13 1: 001CLCOMBA39040 BR5 Airdale 2 Flt Unit Fault 01<NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   &&
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   %*
-POCSAG2400: Address:   28904  Function: 0  Alpha:   13:09-82 2097<NUL>
-POCSAG1200: Address:  265355  Function: 3  Alpha:   F<DC2>
-POCSAG1200: Address:  413130  Function: 2  Alpha:   13:09-27 (1/2)029574-17112021; M3.0.0.P MOBILISING - STANDBY; JY04 Newbury,NEWBURY FIRE STATION; 447513,167806; Please standby at JY04 - Newbury (FBER-OPS01 (38*));<NUL>
-POCSAG1200: Address:  585543  Function: 2  Alpha:   13:09-30 6970<NUL>
-POCSAG2400: Address: 1913679  Function: 2  Alpha:   13:08-40 4954<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   13:08-80 4114<NUL>
-POCSAG2400: Address: 2014833  Function: 3 
-POCSAG1200: Address:  549846  Function: 2  Alpha:   13:08-36 ~PLS CONTACT CATHY IN RCC
-POCSAG1200: Address:  618261  Function: 3  Alpha:   ER
