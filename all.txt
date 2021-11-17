@@ -12372,3 +12372,26 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0633171121+++TIME=06
 POCSAG1200: Address: 1092646  Function: 2  Alpha:   06:33-26 17/11/2021 06:30:45 INC 24677445 21D05M 24 LINDEN PLACE, BISPHAM BLACKPOOL, FY2 0QZ Male 41Y VOMITTING BLOOD GRD 332413 439090<NUL><NUL>
 POCSAG1200: Address: 1942098  Function: 2 
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   06:33-65 17/11/2021 06:30:55 INC 24677446 23C01I 131 DEYSBROOK LANE, WEST DERBY L12, L12 4YE Male 49Y MALE - MENTAL HEALTH GRD 340519 393176
+POCSAG1200: Address:  214093  Function: 2  Alpha:   06:35-06 17/11/2021 06:31:34 INC 24677447 10D02 7 LANGDALE RISE, COLNE, BB8 7RA Female 84Y CANT MOVE GRD 389920 440734<NUL>
+POCSAG1200: Address:   41432  Function: 2  Alpha:   06:35-21 17/11/2021 06:31:34 INC 24677447 10D02 7 LANGDALE RISE, COLNE, BB8 7RA Female 84Y CANT MOVE GRD 389920 440734<NUL>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   06:35-13 17/11/2021 06:32:01 INC 24677451 06E01 WHITEBECK COURT - FLAT 63, MOORWAY DRIVE, BLACKLEY MANCHESTER, M9 7HR Female 86Y BAD COUGH AND CANT BREATHE GRD 387379 403548<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-97 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce18/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce18/1-linx-status [10106] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-01 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce20/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce20/1-linx-status [10114] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-05 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce20/1-linx-status on spine1-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine1-stj-jed1-ce20/1-linx-status [10114] on spine1-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-00 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce21/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce21/1-linx-status [10017] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-07 Wed Nov 17 06:35:57 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce18/1-linx-status on spine1-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine1-stj-jed1-ce18/1-linx-status [10106] on spine1-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-03 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce21/1-linx-status on spine1-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine1-stj-jed1-ce21/1-linx-status [10017] on spine1-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-02 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce23/1-linx-status on spine1-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine1-stj-jed1-ce23/1-linx-status [10025] on spine1-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-06 Wed Nov 17 06:35:56 UTC 2021 -- PROBLEM : spine2-stj-jed1-ce22/1-linx-status on spine2-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine2-stj-jed1-ce22/1-linx-status [10021] on spine2-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   06:35-08 Wed Nov 17 06:35:57 UTC 2021 -- PROBLEM : spine1-stj-jed1-ce19/1-linx-status on spine1-stj-jed1 is CRITICAL (SNMP TRAP CRITICAL - Interface spine1-stj-jed1-ce19/1-linx-status [10110] on spine1-stj-jed1 is currently up/down)<NUL><NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   06:35-11 5013<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  360002  Function: 0  Alpha:   06:37-83 17/11/2021 06:34:52 INC 24677454 21D05M 327 COAL CLOUGH LANE, BURNLEY, BB11 5BS Female 78Y VOMITED BLOOD GRD 382591 431496
+POCSAG1200: Address:  457064  Function: 3 
+POCSAG1200: Address:   14950  Function: 0  Alpha:   06:37-41 17/11/2021 06:34:52 INC 24677454 21D05M 327 COAL CLOUGH LANE, BURNLEY, BB11 5BS Female 78Y VOMITED BLOOD GRD 382591 431496
+POCSAG1200: Address:   41432  Function: 2  Alpha:   06:37-22 17/11/2021 06:34:52 INC 24677454 21D05M 327 COAL CLOUGH LANE, BURNLEY, BB11 5BS Female 78Y VOMITED BLOOD GRD 382591 431496
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0638171121+++TIME=0638171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0638171121+++TIME=0638171121<NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   06:38-17 2183<NUL>
+POCSAG1200: Address: 1482769  Function: 2  Alpha:   06:39-78 FOR INFO 2111006720  ADD:h4y ALT LANE OLDHAM OL82EN  INC TYPE:   BUILDING FIRE DOMESTIC TG:  OPS01 FOR INFO ONLY AS: MENTORING OFFICER<NUL><NUL>
