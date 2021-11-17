@@ -1,3 +1,36 @@
+POCSAG2400: Address: 2091645  Function: 0 
+POCSAG2400: Address:  583430  Function: 2  Alpha:   10:14-36 80300
+POCSAG2400: Address:  950832  Function: 1 
+POCSAG1200: Address: 1783296  Function: 3 
+POCSAG1200: Address: 1875970  Function: 0 
+POCSAG2400: Address: 2024144  Function: 0 
+POCSAG2400: Address:  551341  Function: 2 
+POCSAG2400: Address:  584180  Function: 2  Alpha:   10
+POCSAG2400: Address: 2026097  Function: 0 
+POCSAG2400: Address: 2045360  Function: 2  Alpha:   <CR>N<SO>D~<CR>4~<RS>M><FF><CR>tm^,<SO>D~<CR>$<FS><<]U<SO><SO>4^<SO><SO>N<GS>]<<SO>T<ENQ>4:Z<HT><NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   10:13-70 EXERCISE EXERCISE - Site Power failure. Follow your local EI's for Loss of Power supplies and await further instructions whilst Utilities attempt to switch over to back-up supplies - SSM<NUL><NUL>
+POCSAG2400: Address:  684396  Function: 2  Alpha:   <ACK><ACK>
+POCSAG2400: Address:  583850  Function: 2  Alpha:   10:13-24
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   10:13-21 17/11/2021 10:12:12 INC 24678183 31E01 KNOWSLEY MANOR CARE HOME, 239 KNOWSLEY LANE, HUYTON L36, L36 8EL Female 81Y UNCONSCIOUS GRD 343887 392725<NUL>
+POCSAG1200: Address:  619020  Function: 3  Alpha:   VD
+POCSAG1200: Address:  487944  Function: 2 
+POCSAG1200: Address:  399134  Function: 2  Alpha:   <EOT><LF><<FF>Lt<FS>%<ENQ><DC2><CR>$L<FF>$}<DC4><ENQ>:<DC4>%<EOT><SUB><ESC><DC3>3++<ETX>"<ESC><ESC>+#<DC3><ETX><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  336423  Function: 2  Alpha:   10:11-88 17/11/20
+POCSAG2400: Address: 1700514  Function: 0 
+POCSAG2400: Address: 1388962  Function: 2 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:11-24 4188<NUL>
+POCSAG1200: Address: 2073845  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:  583587  Function: 2  Alpha:   10:10-50 80300
+POCSAG2400: Address: 1318932  Function: 2  Alpha:   10:10-04 3569<NUL>
+POCSAG2400: Address: 1913817  Function: 2  Alpha:   10:10-74 4901<NUL>
+POCSAG2400: Address: 1323059  Function: 2  Alpha:   10:10-31 80300
+POCSAG2400: Address:  584088  Function: 2  Alpha:   10:10-66 80300
+POCSAG2400: Address:  584089  Function: 2  Alpha:   10:09-71 80300
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   10:09-31 2233<NUL>
+POCSAG2400: Address: 1324449  Function: 2  Alpha:   10:09-54 NHSBT - DONOR REFERRAL. Please call PAUL CROWEST on Direct Dial Number 01737 768511 EX 2745 BLEEP 830 Hospital REDHILL EAST SURREY Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:   33713  Function: 2  Alpha:   10:09-22 NHSBT - DONOR REFERRAL. Please call PAUL CROWEST on Direct Dial Number 01737 768511 EX 2745 BLEEP 830 Hospital REDHILL EAST SURREY Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
 POCSAG2400: Address: 1323006  Function: 2  Alpha:   10:09-75 80300
 POCSAG2400: Address:  583583  Function: 2  Alpha:   10:09-05 80300
 POCSAG2400: Address: 1913802  Function: 2  Alpha:   10:09-03 2018<NUL>
@@ -965,36 +998,3 @@ POCSAG1200: Address: 1070265  Function: 3
 POCSAG1200: Address: 1681024  Function: 0 
 POCSAG1200: Address:  634006  Function: 1  Alpha:   I<EM>XX<BS>$<BS>yyY<EOT><NAK>e,
 POCSAG1200: Address:  858533  Function: 0 
-POCSAG1200: Address: 1877325  Function: 2 
-POCSAG1200: Address:  588268  Function: 0  Alpha:   , 
-POCSAG1200: Address: 1680131  Function: 3 
-POCSAG1200: Address:  152595  Function: 2 
-POCSAG1200: Address:  339226  Function: 1 
-POCSAG1200: Address:  895105  Function: 2  Alpha:   b@hf@
-POCSAG1200: Address:  266855  Function: 1  Alpha:   fvVg<DC2>4;3<ESC><ETX><STX>
-POCSAG1200: Address: 1349438  Function: 1 
-POCSAG1200: Address: 1680173  Function: 3  Alpha:   jr
-POCSAG1200: Address:  200285  Function: 2 
-POCSAG1200: Address: 1339099  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
-POCSAG1200: Address: 1684314  Function: 0  Alpha:   br
-POCSAG1200: Address:  200281  Function: 2 
-POCSAG1200: Address:  891652  Function: 1  Alpha:   WHC+da<NAK>rp<LF>98E<FS>\"<SO><RS>KPWHC+d!w2
-POCSAG1200: Address:  394331  Function: 1  Alpha:   <CAN><FS>
-POCSAG1200: Address:  734570  Function: 3  Alpha:   6F
-POCSAG1200: Address: 1090976  Function: 1  Alpha:   AT
-POCSAG1200: Address:  361999  Function: 1  Alpha:   O%hI<LF>
-POCSAG1200: Address: 1316263  Function: 1 
-POCSAG1200: Address:  924206  Function: 1 
-POCSAG1200: Address:  311781  Function: 0  Alpha:   US CA
-POCSAG1200: Address:  428067  Function: 1  Alpha:   <ACK>T8z<HT>
-POCSAG1200: Address: 1070271  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1681031  Function: 0 
-POCSAG1200: Address:  634004  Function: 1  Alpha:   I<EM>XX<BS>$<BS>y)JY
-POCSAG1200: Address:  858532  Function: 0 
-POCSAG1200: Address: 1877323  Function: 2 
-POCSAG1200: Address:  588266  Function: 0  Alpha:   , 
-POCSAG1200: Address: 1680130  Function: 3 
-POCSAG1200: Address:  152593  Function: 2 
-POCSAG1200: Address:  339225  Function: 1 
-POCSAG1200: Address:  266853  Function: 1  Alpha:   fvVvf6<ACK><EOT>
-POCSAG1200: Address: 1349437  Function: 1 
