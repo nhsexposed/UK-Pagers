@@ -1,3 +1,17 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203171121+++TIME=0203171121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:01-36 2304<NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   02:01-11 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 02:01:36 UTC <NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:01-35 4312<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1121432  Function: 1 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   02:01-76 Case ref 11276206 Fill in tick sheet
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1321243  Function: 2  Alpha:   02:00-18 Please c!<BS>l AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address: 1022271  Function: 0  Alpha:   01:59-05 NHSBT - DONOR REFERRAL. Please call ANITA THOMAS on Direct Dial Number 0191 4041034 Hospital SOUTH TYNESIDE DISTRICT HOSPITAL, SOUTH SHIELDS Dept ITU . Regards Donor Referral Line
+POCSAG2400: Address: 1322796  Function: 2  Alpha:   01:59-15 NHSBT - DONOR REFERRAL. Please call ANITA THOMAS on Direct Dial Number 0191 4041034 Hospital SOUTH TYNESIDE DISTRICT HOSPITAL, SOUTH SHIELDS Dept ITU . Regards Donor Referral Line
+POCSAG2400: Address: 1323101  Function: 2  Alpha:   01:59-57 NHSBT - DONOR REFERRAL. Please call ANITA THOMAS on Direct Dial Number 0191 4041034 Hospital SOUTH TYNESIDE DISTRICT HOSPITAL, SOUTH SHIELDS Dept ITU . Regards Donor Referral Line
+POCSAG2400: Address: 1323103  Function: 2  Alpha:   01:59-55 NHSBT - DONOR REFERRAL. Please call ANITA THOMAS on Direct Dial Number 0191 4041034 Hospital SOUTH TYNESIDE DISTRICT HOSPITAL, SOUTH SHIELDS Dept ITU . Regards Donor Referral Line
+POCSAG1200: Address:   40074  Function: 2  Alpha:   01:59-63 17/11/2021 01:56:32 INC 24676986 26C02 18C GREENHEYS LANE, HULME MANCHESTER, M15 6NQ Female 47Y HAND SWOLLEN GRD 384189 396317<NUL><NUL>
 POCSAG1200: Address: 1841206  Function: 3 
 POCSAG1200: Address:  734445  Function: 1 
 POCSAG1200: Address: 1454708  Function: 0 
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1171166  Function: 2
 POCSAG2400: Address:  216264  Function: 2  Alpha:   22:28-09 RECOVERY: Opsview - DB Performance is OK on host mansdpmovo01mc1, <CR><LF>RECOVERY: Opsview - DB Performance is OK on host mansdpmovo01mc1<CR><LF>Service: Opsview - DB Performance<CR><LF>Host: mansdpmovo01mc1<CR><LF>Alias: <CR><LF>Address: mansdpmovo01mc1.ms.private<CR><LF>Ho<NUL><NUL>
 POCSAG2400: Address:  880408  Function: 1 
 POCSAG2400: Address: 2087016  Function: 0 
-POCSAG2400: Address: 1499582  Function: 2  Alpha:   gIA[_eY<EOT>
-POCSAG2400: Address:  137197  Function: 2  Alpha:   9:
-POCSAG2400: Address:  388573  Function: 3 
-POCSAG2400: Address:  773780  Function: 1 
-POCSAG2400: Address: 1359076  Function: 2 
-POCSAG2400: Address: 1954754  Function: 3  Alpha:   ti<DEL>ns
-POCSAG2400: Address: 1916640  Function: 3 
-POCSAG2400: Address:   48263  Function: 1  Alpha:   g<DC2>Tsv
-POCSAG2400: Address: 1232223  Function: 0 
-POCSAG2400: Address:  739086  Function: 1  Alpha:   S5
-POCSAG2400: Address:  705157  Function: 0 
-POCSAG2400: Address: 1860421  Function: 1 
-POCSAG2400: Address:  252915  Function: 3  Alpha:   vo01m
-POCSAG2400: Address:  355866  Function: 1  Alpha:   {<FS>
