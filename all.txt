@@ -12077,3 +12077,33 @@ POCSAG2400: Address: 2089808  Function: 0
 POCSAG2400: Address: 1519473  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0458171121+++TIME=0458171121<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   04:58-53 4187<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   05:00-79 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:01-34 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 05:01:37 UTC <NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   05:01-36 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 05:01:37 UTC <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:02-73 3105<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503171121+++TIME=0503171121<NUL>
+POCSAG1200: Address: 1321718  Function: 2  Alpha:   05:03-53 Destination: D105 SSC In\112, Booking Ref#: 800375, Vehicle: LK18UVX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   05:03-24 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:03-35 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   05:03-05 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:03-36 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   05:03-69 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   05:03-38 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   05:03-06 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  584009  Function: 2  Alpha:   05:03-72 4376<NUL>
+POCSAG2400: Address: 2078600  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   05:04-20 17?1<DC1><NAK><EM><CAN>Y<CAN><DLE>
+POCSAG1200: Address:  218716  Function: 2 
+POCSAG1200: Address:  107308  Function: 2  Alpha:   fb
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address: 1149056  Function: 3  Alpha:   h@D`@
+POCSAG1200: Address: 1461777  Function: 1  Alpha:   z)
+POCSAG1200: Address:  722221  Function: 2  Alpha:   <DC2><BS>
+POCSAG1200: Address: 1231214  Function: 0  Alpha:   E, HOb3<HT>jkd
+POCSAG1200: Address:  280608  Function: 2 
+POCSAG1200: Address:  255177  Function: 1 
+POCSAG1200: Address: 1438433  Function: 3 
+POCSAG1200: Address:  852546  Function: 0  Alpha:   L6<NUL>6D
+POCSAG1200: Address:  534067  Function: 2 
+POCSAG1200: Address:  604861  Function: 1  Alpha:   05:04-55 DSCC DUTY CASE PIN 13570, 03457 500 620 <NUL><NUL>

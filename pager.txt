@@ -1,3 +1,33 @@
+POCSAG1200: Address:  604861  Function: 1  Alpha:   05:04-55 DSCC DUTY CASE PIN 13570, 03457 500 620 <NUL><NUL>
+POCSAG1200: Address:  534067  Function: 2 
+POCSAG1200: Address:  852546  Function: 0  Alpha:   L6<NUL>6D
+POCSAG1200: Address: 1438433  Function: 3 
+POCSAG1200: Address:  255177  Function: 1 
+POCSAG1200: Address:  280608  Function: 2 
+POCSAG1200: Address: 1231214  Function: 0  Alpha:   E, HOb3<HT>jkd
+POCSAG1200: Address:  722221  Function: 2  Alpha:   <DC2><BS>
+POCSAG1200: Address: 1461777  Function: 1  Alpha:   z)
+POCSAG1200: Address: 1149056  Function: 3  Alpha:   h@D`@
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  107308  Function: 2  Alpha:   fb
+POCSAG1200: Address:  218716  Function: 2 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   05:04-20 17?1<DC1><NAK><EM><CAN>Y<CAN><DLE>
+POCSAG2400: Address: 2078600  Function: 0 
+POCSAG2400: Address:  584009  Function: 2  Alpha:   05:03-72 4376<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   05:03-06 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   05:03-38 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   05:03-69 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:03-36 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN05MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   05:03-05 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:03-35 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   05:03-24 PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1, <CR><LF>PROBLEM: Opsview NSClient Windows Agent x64 Port is CRITICAL on host EORRABLXEN06MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: EORRABLXEN<NUL><NUL>
+POCSAG1200: Address: 1321718  Function: 2  Alpha:   05:03-53 Destination: D105 SSC In\112, Booking Ref#: 800375, Vehicle: LK18UVX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503171121+++TIME=0503171121<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:02-73 3105<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   05:01-36 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 05:01:37 UTC <NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:01-34 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 05:01:37 UTC <NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   05:00-79 Case ref 11276206 Fill in tick sheet
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   04:58-53 4187<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0458171121+++TIME=0458171121<NUL>
 POCSAG2400: Address: 1519473  Function: 2 
@@ -968,33 +998,3 @@ POCSAG1200: Address: 1582663  Function: 1
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0008171121+++TIME=0008171121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0008171121+++TIME=0008171121<NUL>
 POCSAG1200: Address:  557589  Function: 0  Alpha:   AL
-POCSAG1200: Address:  268060  Function: 1 
-POCSAG1200: Address: 1134899  Function: 3 
-POCSAG1200: Address:  283721  Function: 3 
-POCSAG1200: Address: 1770190  Function: 2 
-POCSAG1200: Address:  109355  Function: 3  Alpha:   bd
-POCSAG1200: Address:  198235  Function: 3 
-POCSAG1200: Address:  267878  Function: 0 
-POCSAG1200: Address: 1512613  Function: 2 
-POCSAG1200: Address: 1356613  Function: 0 
-POCSAG1200: Address:  557716  Function: 0  Alpha:   NJ
-POCSAG1200: Address:  631555  Function: 3 
-POCSAG1200: Address:  676674  Function: 1 
-POCSAG1200: Address: 1261177  Function: 2 
-POCSAG1200: Address:  889568  Function: 3  Alpha:   #P''<DLE>
-POCSAG1200: Address: 1706191  Function: 2  Alpha:   O%
-POCSAG1200: Address:  734575  Function: 0 
-POCSAG1200: Address: 1686118  Function: 1 
-POCSAG1200: Address: 1734374  Function: 1 
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   00:08-24 17/11/2021 00:05:12 INC 24676686 32D01 ACROSS THE ROAD FROM THE GYM, OLD HALL LANE, FALLOWFIELD MANCHESTER, M14 6HA Female 35Y LYING ON FLOOR, POSS HEAD INJURY GRD 385639 394441<NUL><NUL>
-POCSAG1200: Address:  412936  Function: 0  Alpha:   <GS><NAK>+%3A<SO>%<HT>Afpjlfr@frhhhb<NUL><NUL>
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   00:07-78 INC ALERT No: 16788503 Cardiac Arrest -, AT: 4 SHAYMOOR LANE, PILNING BRISTOL, BS35 4JR, Time of Call: 17/11/2021 00:06:26, Co-ords: 51.552928149 -2.623973812<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:07-25 4183<NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   00:07-94 17/11/2021 00:05:;<DC2>*INC 24676687 10D02 40 BECKDEAN AVENUE, POULTON LE FYLDE, FY6 8BG Female 59Y F- CHEST PAIN GRD 334585 438527<NUL>
-POCSAG1200: Address:  234377  Function: 2  Alpha:   00:07-69 17/11/2021 00:05:32 INC 24676687 10D02 40 BECKDEAN AVENUE, POULTON LE FYLDE, FY6 8BG Female 59Y F- CHEST PAIN GRD 334585 438527<NUL>
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   00:07-10 17/11/2021 00:05:32 INC 24676687 10D02 40 BECKDEAN AVENUE, POUL<DLE>_N LE FYLDE, FY6 8BG Female 59Y F- CHEST PAIN GRD 334585 438527<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   00:07-52 17/11/2021 00:01:22 INC 24676673 17O01P O/S ACROSS FROM JD GYM, BAGULEY METROLINK STATION, SOUTHMOOR ROAD, BAGULEY MANCHESTER, M23 9XD Female 18Y FALL- CANT MOVE LEG GRD 380641 388924<NUL><NUL>
-POCSAG1200: Address:  209785  Function: 2  Alpha:   00:06-85 17/11/2021 00:05:35 INC 24676688 02D02 162 WHALLEY ROAD, LANGHO BLACKBURN, BB6 8AA Male 64Y MALE ALLERGY REACTION GRD 370841 434564
-POCSAG1200: Address:  269168  Function: 2  Alpha:   00:06-82 17/11/2021 00:05:35 INC 24676688 02D02 162 WHALLEY ROAD, LANGHO BLACKBURN, BB6 8AA Male 64Y MALE ALLERGY REACTION GRD 370841 434564
-POCSAG1200: Address:  340148  Function: 0  Alpha:   00:06-88 17/11/2021 00:05:35 INC 24676688 02D02 162 WHALLEY ROAD, LANGHO BLACKBURN, BB6 8AA Male 64Y MALE ALLERGY REACTION GRD 370841 434564
-POCSAG2400: Address: 1095090  Function: 0 
