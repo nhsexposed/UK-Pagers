@@ -14994,3 +14994,25 @@ POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:48-25 5205<NUL>
 POCSAG2400: Address: 1913877  Function: 2  Alpha:   10:49-16 4411<NUL>|<DEL><DEL>]^r
 POCSAG2400: Address: 1303336  Function: 1 
 POCSAG1200: Address: 2065880  Function: 1 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   10:49-56 5202<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:50-25 3104<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1320271  Function: 2  Alpha:   10:50-14 PLS CONTACT THE NHS DIGITAL CSOC - 07864 690 241 - SIMON DYSON
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   10:51-78 4155<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   10:51-93 5202<NUL>
+POCSAG1200: Address:  548165  Function: 2  Alpha:   10:52-19 2708<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   10:52-94 5202<NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC3>D
+POCSAG1200: Address: 1089773  Function: 2  Alpha:   10:53-86 3021<NUL>
+POCSAG1200: Address:  664466  Function: 2  Alpha:   10:53-55 1: 001SPLVSCC83032 Chill Sub TEV Alarm Discharg Alm 01<NUL><NUL>
+POCSAG2400: Address:  225757  Function: 2  Alpha:   10:53-73 TEST PAGE - listed as Hadfield2 George +44 (0)7623902436
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   <NAK><BS>
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:54-93 5201<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   A<EM>
+POCSAG1200: Address: 1761499  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1229184  Function: 0 
+POCSAG1200: Address: 1270049  Function: 0  Alpha:   <EOT>2<FF>n<SO>
+POCSAG1200: Address: 1876332  Function: 0 
+POCSAG1200: Address:  922292  Function: 2 
+POCSAG1200: Address:  296997  Function: 3 
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   10:54-33 2346<NUL>
