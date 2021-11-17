@@ -11842,3 +11842,11 @@ POCSAG1200: Address: 1066311  Function: 3  Alpha:   g<DC2>
 POCSAG1200: Address:  856136  Function: 1 
 POCSAG1200: Address:   91690  Function: 3 
 POCSAG1200: Address: 1678178  Function: 3  Alpha:   r@Frb
+POCSAG1200: Address:  678665  Function: 2  Alpha:   04:00-78 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:  216272  Function: 2  Alpha:   04:01-16 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 04:01:37 UTC <NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   04:01-97 PROBLEM: saupenlovc02a is DOWN, <CR><LF>PROBLEM: saupenlovc02a is DOWN<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: DOWN<CR><LF>Date & Time: Wed Nov 17 04:01:37 UTC <NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:01-29 4155<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0403171121+++TIME=0403171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403171121+++TIME=0403171121<NUL>
