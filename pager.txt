@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1551474  Function: 2  Alpha:   14:34-73 21847071
+POCSAG1200: Address: 1321567  Function: 2  Alpha:   14:34-53 2380<NUL>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   14:34-67 69869
+POCSAG1200: Address:  679608  Function: 2  Alpha:   14:34-37 69869
+POCSAG1200: Address:  649969  Function: 2  Alpha:   14:34-49 69869
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   14:33-78 3509<NUL>
+POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:<DC3>3+37 4172<NUL>
+POCSAG1200: Address:  688737  Function: 0 
+POCSAG512: Address: 1484409  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1465465  Function: 2 
+POCSAG1200: Address:  698560  Function: 1 
+POCSAG1200: Address:  290208  Function: 0 
+POCSAG1200: Address:  212087  Function: 0 
+POCSAG1200: Address:   80014  Function: 0 
+POCSAG2400: Address: 2078449  Function: 2 
+POCSAG1200: Address: 1039073  Function: 3  Alpha:   <ACK>&
+POCSAG2400: Address: 1913794  Function: 2  Alpha:   14:31-84 3539<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   14:31-42 3163<NUL>
+POCSAG2400: Address: 1323019  Function: 2  Alpha:   14:31-15 5685 TEST MESSAGE<NUL><NUL>
+POCSAG1200: Address: 2017494  Function: 2  Alpha:   Un
 POCSAG1200: Address:  751263  Function: 2 
 POCSAG1200: Address:  183614  Function: 1 
 POCSAG1200: Address: 1165843  Function: 2  Alpha:   ''B$g
@@ -976,25 +998,3 @@ POCSAG1200: Address: 2065880  Function: 1
 POCSAG2400: Address: 1303336  Function: 1 
 POCSAG2400: Address: 1913877  Function: 2  Alpha:   10:49-16 4411<NUL>|<DEL><DEL>]^r
 POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:48-25 5205<NUL>
-POCSAG1200: Address: 1031655  Function: 0 
-POCSAG1200: Address:  839775  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1352783  Function: 2 
-POCSAG1200: Address: 1518979  Function: 1 
-POCSAG1200: Address:  191266  Function: 3  Alpha:   c <BEL><SYN>P
-POCSAG1200: Address: 1444757  Function: 0  Alpha:   <CAN>H
-POCSAG2400: Address: 1321235  Function: 2  Alpha:   10:48-42 Please call extn 31131
-POCSAG1200: Address:  506336  Function: 1 
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   10:48-07 17/11/2021 10:46:27 INC 24678343 06E01 30 BLUNDELLS DRIVE, MORETON WIRRAL CH46, CH46 8SL Male 71Y DIF BREATHING GRD 326435 390303<NUL><NUL>
-POCSAG2400: Address: 1913739  Function: 2  Alpha:   10:47-10 3189<NUL>
-POCSAG1200: Address:  265320  Function: 3  Alpha:   <DC2>#A<FS>L
-POCSAG1200: Address:  585450  Function: 2  Alpha:   10:46-26 2513<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   10:46-92 4822<NUL>
-POCSAG2400: Address: 1323650  Function: 2  Alpha:   10:46-99 87193
-POCSAG1200: Address:  940431  Function: 2  Alpha:   10:46-61 17/11/2021 10:45:19 INC 24678333 06E01 14 ALBION STREET, BULK LANCASTER, LA1 1DY Female 84Y FEMALE DIB, GASPING GRD 348210 462114<NUL><NUL>
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   10:46-70 33540
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:45-72 3144<NUL>
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   10:45-95 2233<NUL>
-POCSAG1200: Address: 1243525  Function: 0  Alpha:   D,<NUL>BL
-POCSAG1200: Address: 1174028  Function: 0 
-POCSAG1200: Address: 1706444  Function: 2 
