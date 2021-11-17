@@ -1,3 +1,12 @@
+POCSAG2400: Address:  216251  Function: 2  Alpha:   03:28-31 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   03:28-55 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   03:28-11 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   03:28-23 PROBLEM: Disk: T is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: T is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: T<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   03:28-10 PROBLEM: Disk: T is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: T is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: T<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0328171121+++TIME=0328171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328171121+++TIME=0328171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   03:26-95 17/11/2021 03:24:39 INC 24677156 06D04 1 DRURY STREET, LEVENSHULME MANCHESTER, M19 3PQ Female 18Y BREATHING DIFF GRD 387441 394151<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323171121+++TIME=0323171121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323171121+++TIME=0323171121<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -989,12 +998,3 @@ POCSAG1200: Address:   22104  Function: 2  Alpha:   23:02-82 16/11/2021 22:58:34
 POCSAG1200: Address: 1565272  Function: 2  Alpha:   23:02-37 16/11/2021 22:58:34 INC 24676477 23B01I 16A GRAYTHORPE WALK, SALFORD 6 SALFORD, M5 4HL Female 40Y OVERDOSE, FEELING LOW GRD 381342 398294<NUL><NUL>
 POCSAG1200: Address:  149176  Function: 2  Alpha:   23:00-22 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
 POCSAG1200: Address: 1487681  Function: 2  Alpha:   23:00-26 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address: 1487751  Function: 2  Alpha:   23:00-89 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1765506  Function: 2  Alpha:   23:00-98 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  149169  Function: 2  Alpha:   23:00-91 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1765468  Function: 2  Alpha:   23:00-77 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1242610  Function: 2  Alpha:   23:00-63 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1487772  Function: 2  Alpha:   23:00-02 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  618757  Function: 2  Alpha:   23:00-62 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1594899  Function: 2  Alpha:   23:00-13 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
