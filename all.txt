@@ -16502,3 +16502,32 @@ POCSAG1200: Address:  290101  Function: 3  Alpha:   V<STX>
 POCSAG1200: Address: 1511973  Function: 3  Alpha:   @<EM>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   15:49-11 2194<NUL>
 POCSAG2400: Address: 1913764  Function: 2  Alpha:   15:49-61 4379<NUL>
+POCSAG1200: Address:  269153  Function: 2  Alpha:   15:49-19 482<NUL><NUL>
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   <STX>,<SOH>(L
+POCSAG2400: Address: 2026356  Function: 2 
+POCSAG2400: Address:  216748  Function: 2  Alpha:   15:50-74 PLS CONTACT STAFFORDSHIRE POLICE ON 101 QUOTING INCIDENT 320 OF 17/11/2021 <NUL>
+POCSAG2400: Address: 1913540  Function: 2  Alpha:   15:50-35 4269<NUL>
+POCSAG1200: Address: 1032702  Function: 3  Alpha:   "<DLE>
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   <DLE>,<BS>0<ENQ> 1f
+POCSAG1200: Address: 1225311  Function: 1  Alpha:   <SYN><STX>ug<DC2>T@&!%+<VT><SI><EM><DC3><GS><SI>@(_
+POCSAG1200: Address: 1070690  Function: 1 
+POCSAG1200: Address:  825123  Function: 2 
+POCSAG1200: Address: 1445011  Function: 2  Alpha:   <HT>4Xi<HT>d(J<NUL>4F<ACK><SYN><ACK>f<ACK>4
+POCSAG1200: Address: 1602799  Function: 1 
+POCSAG1200: Address: 1890359  Function: 1  Alpha:   O%h+da<NAK>rp<LF>98E<FS>\"<SO>.<DC1><BEL>WHC+da<NAK>rp<LF>98E<FS>\"<SO>
+POCSAG1200: Address:  212222  Function: 1  Alpha:   X<SUB>
+POCSAG1200: Address: 1418079  Function: 1  Alpha:   lr`g<DC2>
+POCSAG1200: Address:  370474  Function: 3  Alpha:   `j
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  266852  Function: 1  Alpha:   fv
+POCSAG1200: Address:  978397  Function: 1  Alpha:   <EM>P
+POCSAG1200: Address: 1941638  Function: 3  Alpha:   d<SO>
+POCSAG1200: Address: 1337815  Function: 3 
+POCSAG1200: Address: 1626159  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1059898  Function: 3  Alpha:   <EOT><ENQ><CR>ed
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>#MDL
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   <SYN>`
+POCSAG512: Address:  114445  Function: 2  Alpha:   15:53-`+ <NULL><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1553171121+++TIME=1553171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1553171121+++TIME=1553171121<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   15:54-97 17/11/2021 15:47:48 INC 24679766 31E01 33 COPPICE WALK, DENTON MANCHESTER, M34 
