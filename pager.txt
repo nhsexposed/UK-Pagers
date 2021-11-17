@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1913740  Function: 2  Alpha:   09:44-29 2300<NUL>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   09:44-57 69001
+POCSAG1200: Address:  679608  Function: 2  Alpha:   09:<FF>t,27 69001
+POCSAG1200: Address:  820852  Function: 0 
+POCSAG2400: Address: 1323798  Function: 2  Alpha:   09:44-99 4877<NUL>
+POCSAG1200: Address: 1515656  Function: 0 
+POCSAG1200: Address: 1489779  Function: 1 
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   09:43-55 5276<NUL>
+POCSAG1200: Address: 1781839  Function: 2  Alpha:   09:43-51 1<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0943171121+++TIME=0943171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0943171121+++TIME=0943171121<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   09:43-51 4163<NUL>
+POCSAG1200: Address: 1511903  Function: 0 
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913978  Function: 2  Alpha:   09:42-70 5276<NUL>
+POCSAG2400: Address: 1892514  Function: 2 
+POCSAG2400: Address: 1913673  Function: 2  Alpha:   09:41-94 4906<NUL>
+POCSAG2400: Address: 1913767  Function: 2  Alpha:   09:41-00 2218<NUL>
+POCSAG2400: Address: 1913884  Function: 2  Alpha:   09:41-44 4268<NUL>
+POCSAG512: Address: 2091646  Function: 0 
+POCSAG1200: Address: 1973296  Function: 1 
+POCSAG2400: Address: 1913767  Function: 2  Alpha:   09:40-99 2218<NUL>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   Fd
 POCSAG2400: Address: 1811057  Function: 0 
 POCSAG2400: Address: 1324565  Function: 2  Alpha:   09:39-51 INC ALERT No: 16789570 Cardiac Arrest -, AT: 5 BEECH HILL, WELLINGTON, TA21 8ER, Time of Call: 17/11/2021 09:38:15, Co-ords: 50.9760259 -3.2206408<NUL><NUL>
 POCSAG1200: Address: 1312756  Function: 2  Alpha:   09:38-49 (2/2) Scene Safety Map ref  450208,451150<NUL>
@@ -975,26 +998,3 @@ POCSAG1200: Address: 1712299  Function: 2
 POCSAG1200: Address: 1115498  Function: 0 
 POCSAG2400: Address: 1022493  Function: 0  Alpha:   08:19-52 Owners of the following vehicles illegally parked on MEP Car Park please move them immediately - Black Volvo BN58 XZY and Back Mercedes C16 HKS - SSM<NUL>
 POCSAG2400: Address: 1022472  Function: 0  Alpha:   08:19-24 Owners of the following vehicles illegally parked on MEP Car Park please move them immediately - Black Volvo BN58 XZY and Back Mercedes C16 HKS - SSM<NUL>
-POCSAG2400: Address: 1022474  Function: 0  Alpha:   08:19-80 Owners of the following vehicles illegally parked on MEP Car Park please move them immediately - Black Volvo BN58 XZY and Back Mercedes C16 HKS - SSM<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   08:19-42 17/11/2021 08:18:36 INC 24677720 06E01 20 NEWLANDS WALK, MIDDLETON MANCHESTER, M24 5LG Female 78Y COPD - BREATHLESS GRD 386207 407471
-POCSAG2400: Address:   33739  Function: 2  Alpha:   08:19-59 INC ALERT No: 16789344 Traffic/Transportation Accidents - HIT BY VAN, AT: GRAHAMS LTD, BABBAGE ROAD, TOTNES, TQ9 5JA, Time of Call: 17/11/2021 08:17:27, Co-ords: 50.4338405 -3.6820626<NUL><NUL>
-POCSAG2400: Address: 1324552  Function: 2  Alpha:   08:19-40 INC ALERT No: 16789344 Traffic/Transportation Accidents - HIT BY VAN, AT: GRAHAMS LTD, BABBAGE ROAD, TOTNES, TQ9 5JA, Time of Call: 17/11/2021 08:17:27, Co-ords: 50.4338405 -3.6820626<NUL><NUL>
-POCSAG1200: Address: 1321620  Function: 2  Alpha:   08:19-37 Destination: Parking\D78 Ext TP, Booking Ref#: FF4BP116, Vehicle: EY57DHD. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><NUL><NUL>
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   08:18-67 17/11/2021 08:16:42 INC 24677711 06E01 FLAT 10 REGENT COURT, CARYL ROAD, ST ANNES LYTHAM ST ANNES, FY8 2QA Male 97Y MALE NOT RESPONDING GRD 331709 429555
-POCSAG1200: Address:  234377  Function: 2  Alpha:   08:18-89 17/11/2021 08:16:42 INC 24677711 06E01 FLAT 10 REGENT COURT, CARYL ROAD, ST ANNES LYTHAM ST ANNES, FY8 2QA Male 97Y MALE NOT RESPONDING GRD 331709 429555
-POCSAG1200: Address: 1817185  Function: 2  Alpha:   08:18-18 17/11/2021 08:16:42 INC 24677711 06E01 FLAT 10 REGENT COURT, CARYL ROAD, ST ANNES LYTHAM ST ANNES, FY8 2QA Male 97Y MALE NOT RESPONDING GRD 331709 429555
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0818171121+++TIME=0818171121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0818171121+++TIME=0818171121<NUL>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   08:17-27 2560<NUL>
-POCSAG1200: Address: 1067866  Function: 2  Alpha:   08:17-75 17/11/2021 08:12:56 INC 24677697 19C04 4 ST WILFREDS ROAD, WIDNES, WA8 3AE Female 82Y HBP - POUNDING HEART - DIZZY GRD 353189 387681<NUL>
-POCSAG1200: Address:   49656  Function: 2  Alpha:   08:17-59 PLS CALL THE SDS SWITCHBOARD SERVICE ON 01733 636 030
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   08:16-36 4399<NUL>
-POCSAG2400: Address: 1320204  Function: 2  Alpha:   08:16-26 2618<NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   08:16-11 17/11/2021 08:14:55 INC 24677706 RAINSOUGH BROW, RAINSOUGH MANCHESTER, M25 9XW Male UnknownY RTC GRD 380873 402222<NUL><NUL>
-POCSAG1200: Address: 1092710  Function: 2  Alpha:   08:16-06 17/11/2021 08:14:55 INC 24677706 RAINSOUGH BROW, RAINSOUGH MANCHESTER, M25 9XW Male UnknownY RTC GRD 380873 402222<NUL><NUL>
-POCSAG1200: Address: 1004724  Function: 3  Alpha:   z<EOT>
-POCSAG1200: Address: 1243522  Function: 1  Alpha:   D/; F
-POCSAG1200: Address: 1330201  Function: 1  Alpha:   <HT>JZi<HT>
-POCSAG1200: Address: 1021088  Function: 3 
-POCSAG1200: Address: 1261720  Function: 3 
-POCSAG1200: Address:  194871  Function: 0  Alpha:   ICeg<DC2>
