@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:08-70 3105<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0308171121+++TIME=0308171121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308171121+++TIME=0308171121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1211433  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303171121+++TIME=0303171121<NUL>
 POCSAG1200: Address:   49263  Function: 2  Alpha:   03:03-86 UHND MEDQkML EMERGENCY WARD 5 
@@ -994,7 +998,3 @@ POCSAG1200: Address:  761378  Function: 0
 POCSAG1200: Address: 1712482  Function: 2 
 POCSAG1200: Address:  510871  Function: 1  Alpha:   O%
 POCSAG1200: Address:  791727  Function: 1 
-POCSAG1200: Address:  169612  Function: 3  Alpha:   <DC4><NAK>
-POCSAG1200: Address:  642332  Function: 1 
-POCSAG1200: Address:  990115  Function: 0 
-POCSAG1200: Address: 1432403  Function: 1 
