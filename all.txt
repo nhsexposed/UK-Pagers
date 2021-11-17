@@ -17711,3 +17711,27 @@ POCSAG1200: Address:  266649  Function: 1
 POCSAG2400: Address:  216268  Function: 2  Alpha:   19:38-87 PROBLEM: MS SQL Server Listener is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: MS SQL Server Listener is CRITICAL on host shakeylsql01mc1<CR><LF>Service: MS SQL Server Listener<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hi<NUL><NUL>
 POCSAG2400: Address: 1032265  Function: 0 
 POCSAG1200: Address: 1925348  Function: 2  Alpha:   19:39-10 31071
+POCSAG2400: Address:  926244  Function: 0 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:40-91 PROBLEM: Generic Service with space - spec
+POCSAG2400: Address: 1843825  Function: 0 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   19:40-90 PROBLEM: Generic Service with space - s
+POCSAG2400: Address:  216251  Function: 2  Alpha:   19:40-99 PROBLEM: Generic Service with space - special char: CxBI - SQL Service is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Generic Service with space - special char: CxBI - SQL Service is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Generic Servi<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   19:40-60 PROBLEM: Generic Service with space - special char: SWAN - SQL Daemon is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Generic Service with space - special char: SWAN - SQL Daemon is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Generic Service<NUL><NUL>
+POCSAG2400: Address: 2089570  Function: 0 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   19:40-82 PROBLEM: Generic Service with space - special char: RelesaseFour - SQL Server service is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Generic Service with space - special char: RelesaseFour - SQL Server service is CRITICAL on host shakeylsq<NUL><NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   19:41-45)17/11/2021 19:38:09 INC 24680799 ON MOTORWAY NORTHBOU
+POCSAG2400: Address:  150086  Function: 0  Alpha:   19:41-43 5400<NUL>
+POCSAG2400: Address:  992424  Function: 2  Alpha:   <BEL><NUL>
+POCSAG2400: Address:  549018  Function: 2  Alpha:   19:43-05 888000<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1943171121+++TIME=1943171121<NUL>
+POCSAG2400: Address:  305781  Function: 0 
+POCSAG1200: Address:  634011  Function: 0 
+POCSAG1200: Address: 1880951  Function: 3 
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   f<ACK>
+POCSAG1200: Address:  400666  Function: 0 
+POCSAG1200: Address: 1769994  Function: 3 
+POCSAG1200: Address:  548039  Function: 2  Alpha:   19
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   19:42-02 17/11/2021 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:41-01 PROBLEM: MS SQL Full-text Filter Daemon
+POCSAG2400: Address:  975423  Function: 0 
