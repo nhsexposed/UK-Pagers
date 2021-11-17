@@ -1,3 +1,19 @@
+POCSAG1200: Address:  434936  Function: 2 
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   11:28-99 2307<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   11:28-36 4187<NUL>
+POCSAG1200: Address: 1511945  Function: 2  Alpha:   F<DLE>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1128171121+++TIME=1128171121<NUL>
+POCSAG1200: Address: 1031672  Function: 3  Alpha:   <ACK><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913679  Function: 2  Alpha:   11:26-38 4263<NUL>
+POCSAG2400: Address: 1913970  Function: 2  Alpha:   11:26-03 4269<NUL>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   V<STX>
+POCSAG2400: Address: 1031920  Function: 3  Alpha:   CH
+POCSAG2400: Address: 1913726  Function: 2  Alpha:   11:26-38 5202<NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   11:25-39 4187<NUL>
+POCSAG1200: Address:  209424  Function: 3  Alpha:   &"
+POCSAG1200: Address: 1484914  Function: 3  Alpha:   U<DC2>
+POCSAG1200: Address: 1504792  Function: 3 
 POCSAG1200: Address: 1511985  Function: 3  Alpha:   VF
 POCSAG2400: Address: 1320387  Function: 2  Alpha:   11:23-16 5201<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1123171121+++TIME=1123171121<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1312575  Function: 2  Alpha:   09:04-66 (1/2)NOTIFY DATE:  
 POCSAG1200: Address: 1312592  Function: 2  Alpha:   09:04-91 (2/2) APPLIANCES 1 MAX 0 MIN
 POCSAG1200: Address: 1312580  Function: 2  Alpha:   09:04-86 (2/2) APPLIANCES 1 MAX 0 MIN
 POCSAG1200: Address: 2042178  Function: 1 
-POCSAG1200: Address: 1594912  Function: 2  Alpha:   09:04-70 (1/2)NOTIFY DATE:     17.11.21    TIME: 0900 HRS  WHOLETIME APPLIANCES AVAILABLE IMMEDIATE - 15 WHOLETIME APPLIANCES TRAINING B<SYN> AVAILABlGH
-POCSAG1200: Address: 1989849  Function: 0  Alpha:   <ACK><ETX>
-POCSAG1200: Address:  197839  Function: 0  Alpha:   O%
-POCSAG1200: Address:  601375  Function: 3 
-POCSAG1200: Address: 1021094  Function: 0 
-POCSAG1200: Address: 1712286  Function: 0 
-POCSAG1200: Address:  164564  Function: 2  Alpha:   `$f !
-POCSAG1200: Address:  296356  Function: 1 
-POCSAG1200: Address:  328744  Function: 0 
-POCSAG1200: Address:  856759  Function: 0  Alpha:   O%(6<SYN>
-POCSAG1200: Address: 1130063  Function: 2 
-POCSAG1200: Address: 1409398  Function: 3 
-POCSAG1200: Address: 1417741  Function: 0  Alpha:   <SYN>P
-POCSAG1200: Address:  534836  Function: 2  Alpha:   l,$L<FF>
-POCSAG1200: Address: 1320555  Function: 0 
-POCSAG1200: Address: 1363097  Function: 1 
