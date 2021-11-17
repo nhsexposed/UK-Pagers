@@ -1,3 +1,20 @@
+POCSAG1200: Address: 1761418  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 2074225  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1338171121+++TIME=13381711zy<NUL>
+POCSAG1200: Address: 1092803  Function: 2  Alpha:   13
+POCSAG1200: Address: 1352288  Function: 0 
+POCSAG1200: Address: 1258793  Function: 2  Alpha:   13:38-13 FYI<NUL><NUL>
+POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2><ETX><ENQ>KL
+POCSAG1200: Address:   98305  Function: 3  Alpha:   YY<SOH>QAMaCm<SOH><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323609  Function: 2  Alpha:   13:36-40 2263 TEST MESSAGE<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:36-64 4935<NUL>
+POCSAG1200: Address: 2089569  Function: 0 
+POCSAG2400: Address: 1324565  Function: 2  Alpha:   13:34-60<NUL>AVA ALERT No: 16790401
+POCSAG1200: Address:  688820  Function: 1  Alpha:   OM<NUL>SAIIN
+POCSAG1200: Address: 1417780  Function: 2 
+POCSAG1200: Address:   66912  Function: 3  Alpha:   0v2 [^,Pija b $<SYN><DLE>
+POCSAG1200: Address:  301736  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333171121+++TIME=1333171121<NUL>
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   13:33-15 2343<NUL>
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:33-04 62819
@@ -981,20 +998,3 @@ POCSAG2400: Address:  603689  Function: 0
 POCSAG2400: Address:  584097  Function: 2  Alpha:   10:19-77 80300
 POCSAG2400: Address:  149245  Function: 2  Alpha:   10:18-12 80300
 POCSAG1200: Address:  619020  Function: 3  Alpha:   VD
-POCSAG2400: Address:  583472  Function: 2  Alpha:   10:18-62 80300
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1018171121+++TIME=1018171121<NUL>
-POCSAG1200: Address: 1411544  Function: 3 
-POCSAG2400: Address:  584648  Function: 2  Alpha:   10:17-02 80300
-POCSAG2400: Address:  583423  Function: 2  Alpha:   10:17-81 80300
-POCSAG2400: Address:   28869  Function: 0  Alpha:   10:16-85 PLS CALL HANIF 07943 434 315 OR BLEEP 1369
-POCSAG2400: Address:  548053  Function: 2  Alpha:   10:16-15 SBELL
-POCSAG1200: Address:  433829  Function: 2  Alpha:   10:16-94 3438<NUL>
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:  583428  Function: 2  Alpha:   10:16-68 80300
-POCSAG1200: Address: 1817185  Function: 2  Alpha:   10:15-25 17/11/2021 10:14:02 INC 24678193 11D02U WILLOW UNIT, H C ONE OVAL LTD MEADOW BANK CARE HOME, MEADOW LANE, BAMBER BRIDGE PRESTON, PR5 8LN Female 93Y choking GRD 357738 423811
-POCSAG1200: Address: 1572856  Function: 2 
-POCSAG2400: Address:  584649  Function: 2  Alpha:   10:15-20 80300
-POCSAG2400: Address:   28899  Function: 0  Alpha:   10:15-50 5207<NUL>
-POCSAG2400: Address:  583463  Function: 2  Alpha:   10:15-32 80300
-POCSAG2400: Address: 2091645  Function: 0 
-POCSAG2400: Address:  583430  Function: 2  Alpha:   10:14-36 80300
