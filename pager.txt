@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:13-35 4172<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1413171121+++TIME=1413171121<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   14:13-16 4160<NUL>
+POCSAG1200: Address:  216316  Function: 2  Alpha:   14:13-51 2521 
+POCSAG2400: Address: 1913633  Function: 2  Alpha:   14:12-75 2872<NUL>
+POCSAG512: Address: 1205353  Function: 0 
+POCSAG512: Address:   95856  Function: 1  Alpha:   ^$
+POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   14:11-82 5023<NUL>
+POCSAG2400: Address: 1746553  Function: 1 
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   14:09-57 3119<NUL>
 POCSAG2400: Address: 1553344  Function: 0 
 POCSAG1200: Address: 1258970  Function: 2  Alpha:   14:08-78 33540
 POCSAG1200: Address: 1602917  Function: 0 
@@ -987,14 +998,3 @@ POCSAG2400: Address: 1322513  Function: 2  Alpha:   10:37-95 80300
 POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
 POCSAG2400: Address:  225635  Function: 2  Alpha:   10:36-31 01642212273
 POCSAG1200: Address: 2028154  Function: 1 
-POCSAG1200: Address: 1761428  Function: 2  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   10:36-16 2333<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   10:36-95 5056<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  583422  Function: 2  Alpha:   10:35-56 80300
-POCSAG1200: Address:  267027  Function: 3 
-POCSAG1200: Address:  791355  Function: 1 
-POCSAG2400: Address:  583423  Function: 2  Alpha:   10:35-82 80300
-POCSAG2400: Address:  549497  Function: 2  Alpha:   10:35-02 Test from Raymond<NUL><NUL>
-POCSAG2400: Address:  583437  Function: 2  Alpha:   10:35-15 80300
-POCSAG2400: Address:  548006  Function: 2  Alpha:   10:35-33 TEST MESSAGE<NUL>
