@@ -1,3 +1,26 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   16:04-24 Call or Calls waiting at Switchboard
+POCSAG1200: Address: 1039729  Function: 2  Alpha:   M<SO>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603171121+++TIME=1603171121<NUL>
+POCSAG2400: Address: 1913678  Function: 2  Alpha:   16:03-94 4379<NUL>
+POCSAG2400: Address: 1913961  Function: 2  Alpha:   16:03-00 2616<NUL>
+POCSAG2400: Address: 1913836  Function: 2  Alpha:   16:02-74 4114<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:02-15 4167<NUL>
+POCSAG1200: Address: 1564050  Function: 3  Alpha:   %R
+POCSAG1200: Address:  564434  Function: 1 
+POCSAG1200: Address:  623361  Function: 3  Alpha:   d@
+POCSAG1200: Address:  202481  Function: 1 
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:01-07 60280
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   16:01-09 60280
+POCSAG2400: Address:   28919  Function: 0  Alpha:   16:01-26 2798<NUL>
+POCSAG2400: Address: 1913869  Function: 2  Alpha:   16:01-27 2233<NUL>
+POCSAG2400: Address:   28893  Function: 0  Alpha:   16:00-67 2195<NUL>
+POCSAG1200: Address: 1038809  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   33851  Function: 2  Alpha:   Pageone test message please ignore 2ND TEST 372526<NUL>
+POCSAG2400: Address:  674104  Function: 2  Alpha:   p<SOH>
+POCSAG2400: Address: 1022475  Function: 0  Alpha:   16:00-72 Reminder - Main Gate will close tonight at 18:00hrs. Use North or Calder for egress from Site - SSM
+POCSAG2400: Address:   28926  Function: 0  Alpha:   16:00-01 4167<NUL>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   15:59-82 5201<NUL>
 POCSAG2400: Address:   28906  Function: 0  Alpha:   15:59-03 5327<SOH>
 POCSAG2400: Address: 1448408  Function: 3 
 POCSAG2400: Address:   11705  Function: 0  Alpha:   15:59-62 ACER WARD. VISIT REQUIRED. UNIT 1177925. <LF>
@@ -975,26 +998,3 @@ POCSAG1200: Address:  269168  Function: 2  Alpha:   12:58-14 17/11/2021 12:56:17
 POCSAG2400: Address:   11796  Function: 0  Alpha:   12:57-38 Boiler lock out ALERT<NUL>
 POCSAG2400: Address: 1320201  Function: 2  Alpha:   12:57-56 4387<NUL>
 POCSAG1200: Address:  209785  Function: 2  Alpha:   12:57-97 17/11/2021 12:56:15 INC 24678979 26D01 
-POCSAG1200: Address: 1092740  Function: 2  Alpha:   12:56-98 3818<NUL>
-POCSAG1200: Address: 2023240  Function: 2  Alpha:   12:56-93 6709<NUL>
-POCSAG2400: Address: 1259692  Function: 2  Alpha:   12:56-68 PLS CALL 4901
-POCSAG2400: Address: 1913945  Function: 2  Alpha:   12:56-37 2616<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 2024016  Function: 2 
-POCSAG1200: Address:  395606  Function: 0 
-POCSAG1200: Address: 1184949  Function: 3 
-POCSAG1200: Address: 1516869  Function: 1 
-POCSAG1200: Address: 1740370  Function: 0 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   12:53-01 4387<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253171121+++TIME=1253171121<NUL>
-POCSAG2400: Address:  583563  Function: 2  Alpha:   12:52-75 Pageone test message please ignore 376432<NUL>
-POCSAG2400: Address: 1913927  Function: 2  Alpha:   12:52-15 4558<NUL>
-POCSAG1200: Address: 1423900  Function: 3  Alpha:   2<DLE>
-POCSAG1200: Address:   75265  Function: 1 
-POCSAG1200: Address:  853000  Function: 1 
-POCSAG1200: Address:  218408  Function: 2 
-POCSAG1200: Address: 1056847  Function: 2  Alpha:   ,<E3<HT>
-POCSAG1200: Address:   33030  Function: 0  Alpha:   @@
-POCSAG1200: Address:  393598  Function: 0  Alpha:   }m<CR>d|-<SO>$<EM>{<CAN><SYN>V<ACK><EOT><DC4>i=<FS>M\lM<SO><EOT>&<SYN>Wv6V<NAK>v<SYN><SYN>&<ACK>&<SYN><ACK>Dz<CR><EOT><EOT><EOT><EOT><EOT><EOT><DC4>vv<NAK><SYN>v%<ACK>&<SYN><ACK><DC4>&&G<ACK>'<BEL><SYN><ACK><DC4>HL,^<><SO><EOT>dYx*X*<SUB><VT>4XhI*<SUB>H<HT>D<EM>)(<SUB>(<SUB><VT><EOT><EOT><EOT><EOT><EOT><EOT><EOT><EOT><EOT><EOT>Z*H<EM>9<BS>D<EM>)(<SUB>(<SUB><VT><EOT><EOT><EOT><EOT><EOT><EOT><EOT><EOT><EOT><NUL><NUL>
-POCSAG1200: Address:  678641  Function: 2  Alpha:   12:52-02 (1/3)Incident Infor
-POCSAG2400: Address:   28901  Function: 0  Alpha:   12:52-43 2008<NUL>

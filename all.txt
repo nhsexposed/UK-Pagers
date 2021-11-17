@@ -16589,3 +16589,26 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1558171121+++TIME=15
 POCSAG2400: Address:   11705  Function: 0  Alpha:   15:59-62 ACER WARD. VISIT REQUIRED. UNIT 1177925. <LF>
 POCSAG2400: Address: 1448408  Function: 3 
 POCSAG2400: Address:   28906  Function: 0  Alpha:   15:59-03 5327<SOH>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   15:59-82 5201<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   16:00-01 4167<NUL>
+POCSAG2400: Address: 1022475  Function: 0  Alpha:   16:00-72 Reminder - Main Gate will close tonight at 18:00hrs. Use North or Calder for egress from Site - SSM
+POCSAG2400: Address:  674104  Function: 2  Alpha:   p<SOH>
+POCSAG2400: Address:   33851  Function: 2  Alpha:   Pageone test message please ignore 2ND TEST 372526<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1038809  Function: 2 
+POCSAG2400: Address:   28893  Function: 0  Alpha:   16:00-67 2195<NUL>
+POCSAG2400: Address: 1913869  Function: 2  Alpha:   16:01-27 2233<NUL>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   16:01-26 2798<NUL>
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   16:01-09 60280
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:01-07 60280
+POCSAG1200: Address:  202481  Function: 1 
+POCSAG1200: Address:  623361  Function: 3  Alpha:   d@
+POCSAG1200: Address:  564434  Function: 1 
+POCSAG1200: Address: 1564050  Function: 3  Alpha:   %R
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:02-15 4167<NUL>
+POCSAG2400: Address: 1913836  Function: 2  Alpha:   16:02-74 4114<NUL>
+POCSAG2400: Address: 1913961  Function: 2  Alpha:   16:03-00 2616<NUL>
+POCSAG2400: Address: 1913678  Function: 2  Alpha:   16:03-94 4379<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603171121+++TIME=1603171121<NUL>
+POCSAG1200: Address: 1039729  Function: 2  Alpha:   M<SO>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   16:04-24 Call or Calls waiting at Switchboard
