@@ -16436,3 +16436,47 @@ POCSAG1200: Address: 1815006  Function: 0  Alpha:   15:39-28 PLS CALL 0787 5576 
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2><DC3>
 POCSAG1200: Address: 2088952  Function: 3 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-80 5202<NUL>
+POCSAG2400: Address: 1321209  Function: 2  Alpha:   15:39-00 34917
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:39-78 2097<NUL>
+POCSAG1200: Address: 1356875  Function: 2 
+POCSAG1200: Address: 1681244  Function: 1  Alpha:   rr
+POCSAG1200: Address: 1339101  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>+S
+POCSAG1200: Address: 1686319  Function: 2  Alpha:   O%(12
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   fv
+POCSAG1200: Address:  978074  Function: 1 
+POCSAG1200: Address:  721418  Function: 3 
+POCSAG1200: Address:  886915  Function: 2  Alpha:   d@$<US><US><ESC>Ad
+POCSAG1200: Address:  809173  Function: 0 
+POCSAG1200: Address:   11141  Function: 2 
+POCSAG1200: Address:  612903  Function: 2  Alpha:   O%(2<SOH>
+POCSAG1200: Address:  874544  Function: 2 
+POCSAG1200: Address: 1723609  Function: 0 
+POCSAG1200: Address:  591252  Function: 2 
+POCSAG1200: Address:  325965  Function: 1  Alpha:   E 
+POCSAG1200: Address: 1257590  Function: 0 
+POCSAG1200: Address: 1912898  Function: 1  Alpha:   <ESC>K
+POCSAG1200: Address:  272011  Function: 2 
+POCSAG1200: Address:   84563  Function: 3 
+POCSAG1200: Address:   78212  Function: 0  Alpha:   IL
+POCSAG1200: Address: 1356877  Function: 2 
+POCSAG1200: Address: 1060005  Function: 2 
+POCSAG1200: Address: 1387870  Function: 3  Alpha:   xH
+POCSAG1200: Address:  619463  Function: 3 
+POCSAG1200: Address:   71159  Function: 1  Alpha:   O%(<DLE>!
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-81 5201<NUL>
+POCSAG2400: Address: 1259326  Function: 2  Alpha:   15:39-10 PLS CALL 2003
+POCSAG1200: Address:  664466  Function: 2  Alpha:   15:40-59 1:
+POCSAG1200: Address:  268596  Function: 3  Alpha:   l<DLE><DC3>1<DLE>u,<SO>,,<SO><BS>1<SUB><ESC>(0Z<FS>9<CAN>;<EM>h<FF>H18<GS><ESC><GS>(U;<SUB><GS>H18<GS><ESC><GS><BS>,<FF>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:40-82 3157<NUL>
+POCSAG2400: Address: 1259326  Function: 2  Alpha:   15:40-11 3268<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:40-40 4172<NUL>
+POCSAG1200: Address: 1761428  Function: 2  Alpha:   &0
+POCSAG2400: Address: 1913970  Function: 2  Alpha:   15:41-08 5328<NUL>
+POCSAG1200: Address:  585224  Function: 2  Alpha:   15:41-48 1: 001CLDAT39019 Dil Airdale 3 Fault Unit Fault 01<NUL>
+POCSAG1200: Address:   11825  Function: 0  Alpha:   !<ACK>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:42<CR>21 5276<NUL>
+POCSAG1200: Address:  600636  Function: 2  Alpha:   15:42-99 <NULL><NUL><NUL>
+POCSAG2400: Address: 1814997  Function: 0  Alpha:   15:43-93 Adult trauma  to AE Resus ETA 15 mins<NUL><NUL>
+POCSAG2400: Address:  934040  Function: 3 
+POCSAG2400: Address:   33846  Function: 2  Alpha:   15:44-01 Pageone test message please ignore 372533<NUL>

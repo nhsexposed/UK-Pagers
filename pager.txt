@@ -1,3 +1,47 @@
+POCSAG2400: Address:   33846  Function: 2  Alpha:   15:44-01 Pageone test message please ignore 372533<NUL>
+POCSAG2400: Address:  934040  Function: 3 
+POCSAG2400: Address: 1814997  Function: 0  Alpha:   15:43-93 Adult trauma  to AE Resus ETA 15 mins<NUL><NUL>
+POCSAG1200: Address:  600636  Function: 2  Alpha:   15:42-99 <NULL><NUL><NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:42<CR>21 5276<NUL>
+POCSAG1200: Address:   11825  Function: 0  Alpha:   !<ACK>
+POCSAG1200: Address:  585224  Function: 2  Alpha:   15:41-48 1: 001CLDAT39019 Dil Airdale 3 Fault Unit Fault 01<NUL>
+POCSAG2400: Address: 1913970  Function: 2  Alpha:   15:41-08 5328<NUL>
+POCSAG1200: Address: 1761428  Function: 2  Alpha:   &0
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:40-40 4172<NUL>
+POCSAG2400: Address: 1259326  Function: 2  Alpha:   15:40-11 3268<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:40-82 3157<NUL>
+POCSAG1200: Address:  268596  Function: 3  Alpha:   l<DLE><DC3>1<DLE>u,<SO>,,<SO><BS>1<SUB><ESC>(0Z<FS>9<CAN>;<EM>h<FF>H18<GS><ESC><GS>(U;<SUB><GS>H18<GS><ESC><GS><BS>,<FF>
+POCSAG1200: Address:  664466  Function: 2  Alpha:   15:40-59 1:
+POCSAG2400: Address: 1259326  Function: 2  Alpha:   15:39-10 PLS CALL 2003
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-81 5201<NUL>
+POCSAG1200: Address:   71159  Function: 1  Alpha:   O%(<DLE>!
+POCSAG1200: Address:  619463  Function: 3 
+POCSAG1200: Address: 1387870  Function: 3  Alpha:   xH
+POCSAG1200: Address: 1060005  Function: 2 
+POCSAG1200: Address: 1356877  Function: 2 
+POCSAG1200: Address:   78212  Function: 0  Alpha:   IL
+POCSAG1200: Address:   84563  Function: 3 
+POCSAG1200: Address:  272011  Function: 2 
+POCSAG1200: Address: 1912898  Function: 1  Alpha:   <ESC>K
+POCSAG1200: Address: 1257590  Function: 0 
+POCSAG1200: Address:  325965  Function: 1  Alpha:   E 
+POCSAG1200: Address:  591252  Function: 2 
+POCSAG1200: Address: 1723609  Function: 0 
+POCSAG1200: Address:  874544  Function: 2 
+POCSAG1200: Address:  612903  Function: 2  Alpha:   O%(2<SOH>
+POCSAG1200: Address:   11141  Function: 2 
+POCSAG1200: Address:  809173  Function: 0 
+POCSAG1200: Address:  886915  Function: 2  Alpha:   d@$<US><US><ESC>Ad
+POCSAG1200: Address:  721418  Function: 3 
+POCSAG1200: Address:  978074  Function: 1 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   fv
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address: 1686319  Function: 2  Alpha:   O%(12
+POCSAG1200: Address: 1339101  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>+S
+POCSAG1200: Address: 1681244  Function: 1  Alpha:   rr
+POCSAG1200: Address: 1356875  Function: 2 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:39-78 2097<NUL>
+POCSAG2400: Address: 1321209  Function: 2  Alpha:   15:39-00 34917
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-80 5202<NUL>
 POCSAG1200: Address: 2088952  Function: 3 
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2><DC3>
@@ -954,47 +998,3 @@ POCSAG1200: Address:  412859  Function: 3
 POCSAG1200: Address:  858130  Function: 0 
 POCSAG1200: Address:  634914  Function: 3 
 POCSAG1200: Address: 1337561  Function: 1 
-POCSAG1200: Address:  234377  Function: 2  Alpha:   12:33-06 17/11/2021 12:28:25 INC 24678852 10D05 7 CHERRY TREE GARDENS, MARTON BLACKPOOL, FY4 4PY Male 67Y PREVIOUS STROKES - ? HAD ANOTHER STROKE GRT!673233 433869<NUL><NUL>
-POCSAG1200: Address: 2024980  Function: 1 
-POCSAG1200: Address:   47898  Function: 1 
-POCSAG1200: Address:  930825  Function: 0  Alpha:   k 
-POCSAG1200: Address:  382472  Function: 0 
-POCSAG1200: Address: 1261759  Function: 0  Alpha:   &<DC2>Zg<DC2><DC4><VT>'
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1233171121+++TIME=1233171121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1233171121+++TIME=1233171121<NUL>
-POCSAG1200: Address:  992992  Function: 2  Alpha:    GRD 332228 436011<NUL><NUL>
-POCSAG1200: Address:  271751  Function: 2  Alpha:   12:32-88 17/11/2021 12:30:34 INC 24678862 17D05 23 RYDAL MOUNT, KENDAL, LA9 4
-POCSAG1200: Address:  325960  Function: 3  Alpha:   6B
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   12:31-34 5181<NUL>
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:31-61 2018<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:31-95 5072<NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   12:31-44 17/11/2021 12:29:11 INC 24678856 26C02 30 FENWICK STREET, BURNLEY, BB11 5JG Female 6Y 6 YOF CONTINUOUS COUGH GRD 382578 431250<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:{0<CR>[<FS>
-POCSAG1200: Address:   91679  Function: 2 
-POCSAG1200: Address:  977950  Function: 1 
-POCSAG1200: Address:  801078  Function: 2 
-POCSAG1200: Address:  297005  Function: 1 
-POCSAG1200: Address:  536109  Function: 1 
-POCSAG1200: Address: 1844844  Function: 1 
-POCSAG1200: Address:  600410  Function: 3 
-POCSAG1200: Address:  349663  Function: 3  Alpha:   Z{{g<DC2>tn<CR>
-POCSAG1200: Address:  921906  Function: 1  Alpha:   dd
-POCSAG1200: Address: 1315623  Function: 2 
-POCSAG1200: Address: 1713798  Function: 1 
-POCSAG1200: Address: 1675861  Function: 2  Alpha:   ,<DLE>Dgj
-POCSAG1200: Address:  165452  Function: 1 
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:30-17 3148<NUL>
-POCSAG1200: Address:  801533  Function: 0  Alpha:   mM
-POCSAG1200: Address: 1077884  Function: 1 
-POCSAG1200: Address:  438434  Function: 0  Alpha:    2<DC2>yry9<GS>
-POCSAG1200: Address:  470494  Function: 1 
-POCSAG1200: Address:  770860  Function: 3  Alpha:   us
-POCSAG1200: Address: 1770899  Function: 3 
-POCSAG1200: Address:  610978  Function: 0 
-POCSAG1200: Address: 1508032  Function: 0  Alpha:   heCk 
-POCSAG1200: Address:  771912  Function: 3 
-POCSAG1200: Address: 1507853  Function: 1  Alpha:   RO
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:&<DEL>=57 4140<NUL>
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   12:27-38 5002<NUL>
