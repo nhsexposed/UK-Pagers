@@ -1,3 +1,18 @@
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   V<NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1913722  Function: 2  Alpha:   14:58-71 5201<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   14:58-56 5204<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:57-06 2339<NUL>
+POCSAG1200: Address: 2064096  Function: 2 
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   14:56-55 5204<NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <ACK><ACK>
+POCSAG1200: Address:  295505  Function: 0 
+POCSAG2400: Address:  189465  Function: 1  Alpha:   W<FS>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:55-19 4114<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   14:55-38 4379<NUL>
 POCSAG2400: Address: 1843316  Function: 0 
 POCSAG1200: Address: 2073137  Function: 1 
 POCSAG1200: Address: 1460627  Function: 0  Alpha:   <EM>x
@@ -983,18 +998,3 @@ POCSAG2400: Address:  184150  Function: 0
 POCSAG2400: Address:  216251  Function: 2  Alpha:   11:16-88 Alert from MANSDPMSFM01B, interconnect 3 - The connection on downlink port 8, su..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
 POCSAG2400: Address: 1365218  Function: 1  Alpha:   >F&<BEL><DC2><ETX><VT>3<ETX>B,>g.&'<BEL><STX><CR><RS>^<SO><SYN>'<ACK>*t&/<SYN><BEL><ETB>O<RS>/<ACK>",6/f~<ACK>o.v&<BEL>b<EOT><ENQ>jjrkP<DLE>-<RS><DEL>.<ETB><US>.<ACK>j<FF>t<FS>%<EOT>m<FS>5l<EOT><DC3><DC3>d<STX>Jv&/<SYN><US>~vv.<RS>&<BEL>2kP@&'<BEL><US>W{z<LF>;<DC3>s<DC2>KsBs*{<SUB>z<LF><RS>&O6O&O<DEL><DC2><DEL><DC2>/<RS>'<DEL>Jv&/<SYN><US>~<ACK><NUL>
 POCSAG2400: Address:  216251  Function: 2  Alpha:   11:16-88 Alert from MANSDPMSFM02B, interconnect 6 - The connection on downlink port 20, s..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM02B, interconnect 6<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
-POCSAG2400: Address:  138347  Function: 0 
-POCSAG2400: Address:   28919  Function: 0  Alpha:   11:16-28 4398<NUL>
-POCSAG2400: Address: 2026358  Function: 2 
-POCSAG2400: Address: 1605259  Function: 2  Alpha:   <ETX>=;<ETX><DC1>?_;3';/<ETX>A?KS
-POCSAG2400: Address: 1930490  Function: 0 
-POCSAG2400: Address: 1735162  Function: 3 
-POCSAG2400: Address: 1446945  Function: 2 
-POCSAG2400: Address: 2022711  Function: 3  Alpha:   O%h&<BEL>
-POCSAG2400: Address: 1687399  Function: 1 
-POCSAG2400: Address: 1265181  Function: 2 
-POCSAG2400: Address: 1502780  Function: 3 
-POCSAG2400: Address: 1385963  Function: 0  Alpha:   K<SI>?<ETX><NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   <DLE>,PH5`0f
-POCSAG1200: Address:  286618  Function: 1  Alpha:   <RS><EM><HT>A&/<ETX><GS>A<CAN>cfX@<CAN>cf@f<DLE>'A<FF>K[CYKAfp2A$)<BEL>Ab@<ACK><ETX>%A<SO>%<HT>Affpfhj@frbh`b<NUL><NUL>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   11:15-94 18/11/2021 11:12:28 INC 24683523 28C02Y 15 HALKYN AVENUE, SEFTON PARK L17, L17 2AH Female 70Y F - HEADACHE - SLURRING WORDS GRD 337942 388611<NUL>
