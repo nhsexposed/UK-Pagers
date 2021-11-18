@@ -1,3 +1,27 @@
+POCSAG1200: Address:  548153  Function: 2  Alpha:   08:24-71 Destination: D105 SSC In\104, Booking Ref#: 801193, Vehicle: fp19aet. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:24-06 18/11/2021 08:17:50 INC 24682838 21D02M 29 GUELPH STREET, KENSINGTON L7, L7 8RA Female 87Y pt vomiting black colour GRD 336278 390865
+POCSAG1200: Address: 1770631  Function: 2  Alpha:   08:23-09 Anyone available to attend a Cat 1 call at 9 Fairfield, Flookburgh, LA11 7NB?  Incident is 67yof, tongue swelling and struggling to breathe following a sting yesterday. Thanks, Vicki.<NUL><NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   08:23-15 18/11/2021 08:17:50 INC 24682838 21D02M 29 GUELPH STREET, KENSINGTON L7, L7 8RA Female 87Y pt vomiting black colour GRD 336278 390865
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   08:23-49 18/11/2021 08:17:50 INC 24682838 21D02M 29 GUELPH STREET, KENSINGTON L7, L7 8RA Female 87Y pt vomiting black colour GRD 336278 390865
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   08:23-92 18/11/2021 08:17:50 INC 24682838 21D02M 29 GUELPH STREET, KENSINGTON L7, L7 8RA Female 87Y pt vomiting black colour GRD 336278 390865
+POCSAG1200: Address:  267831  Function: 2  Alpha:   08:23-52 32
+POCSAG1200: Address:  821474  Function: 3 
+POCSAG1200: Address:  548156  Function: 2  Alpha:   08:23-12 Destination: BCM\D25 North\Canopy, Booking Ref#: P11104002, Vehicle: RBE608. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0823181121+++TIME=0823181121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0823181121+++TIME=0823181121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1513392  Function: 1 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   08:22-30 4399<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   30648  Function: 2  Alpha:   08:22-67 18/11/2021 08:18:41 INC 24682842 02C01 9 FAIRFIELD, FLOOKBURGH GRANGE OVER SANDS, LA11 7NB Female 67Y TONGUE IS SWELLING AND STRUGGLING TO BREATHE/SWALLOW STING IN FINGER YESTERDAY GRD 336698 475967<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   08:21-59 5205<NUL>
+POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   08:20-60 2304<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   08:20-58 50065006
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   08:20-84 4311<NUL>
+POCSAG2400: Address: 1913852  Function: 2  Alpha:   08:20-57 3254<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   08:19-74 3157<NUL>
+POCSAG1200: Address:  216342  Function: 2  Alpha:   08:19-87 Destination: D82 SSC Out\204, Booking Ref#: 801212, Vehicle: PO67VLT. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG1200: Address:  413064  Function: 2  Alpha:   08:19-73 PLEASE CALL X 1290<NUL>
 POCSAG2400: Address: 1913830  Function: 2  Alpha:   08:18-62 5205<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0818181121+++TIME=0818181121<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843171121+++TIME=18
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843171121+++TIME=1843171121<NUL>
 POCSAG2400: Address: 1323098  Function: 2  Alpha:   18:42-53 2195<NUL>
 POCSAG512: Address:  168152  Function: 2 
-POCSAG1200: Address:  696118  Function: 2  Alpha:   18:42-14 33867
-POCSAG1200: Address: 1352291  Function: 0 
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   18:41-57 5204<NUL>
-POCSAG1200: Address: 1913536  Function: 2  Alpha:   9;<CAN>;<EM><BS><SO>,<SYN>Hs<DC3><NAK>HP41<DLE><NAK>2Rs<DC1>hQ<DC4><DC1>h,<CR><CR>NL<CR><BS>Ml,L-<SO><NUL>
-POCSAG1200: Address:  865378  Function: 3 
-POCSAG1200: Address: 1323329  Function: 1  Alpha:   S%qc<SYN>
-POCSAG1200: Address: 1612184  Function: 2 
-POCSAG1200: Address:  891304  Function: 1 
-POCSAG1200: Address:  906480  Function: 3  Alpha:   ppL<VT>4.1f
-POCSAG1200: Address: 1058499  Function: 2  Alpha:   18:38-51 17/11/2021 18:37:09 INC 24680496 29D02M O/S, 7 REES PARK, BURSCOUGH, L40 5SX Female 32Y BEEN RAN OVER GRD 344668 411592
-POCSAG1200: Address: 1822625  Function: 2  Alpha:   J<ENQ>t<ACK>$ZX8<LF><EOT><SUB>(:I<ENQ>$X*::xYz<BS>I<ENQ>DI<ACK><ACK>T6<LF><VT>dX\<GS>L]<FF>4&<SYN><VT>$XXh<HT>$<SUB>h<HT>tiZ(<LF>t(J<BS>4FFff<ACK><BEL>D<SYN><SYN>V<SYN>'<ACK>
-POCSAG1200: Address:  940540  Function: 2  Alpha:   18:38-09 17/11/2021 18:37:09 INC 24680496 O/S, 7 REES PARK, BURSCOUGH, L40 5SX Female 32Y BEEN RAN OVER GRD 344668 411592<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1838171121+++TIME=1838171121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1838171121+++TIME=1838171121<NUL>
-POCSAG2400: Address: 1913953  Function: 2  Alpha:   18:38-04 4462<NUL>
-POCSAG1200: Address: 1266080  Function: 1 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   18:37-91 17/11/2021 
-POCSAG1200: Address: 1218383  Function: 3 
-POCSAG1200: Address: 1843821  Function: 0  Alpha:   J<SO><STX><STX><HT>
-POCSAG1200: Address:  852716  Function: 0  Alpha:   OO
-POCSAG1200: Address: 1355667  Function: 3  Alpha:   <HT>$z<EM>H
-POCSAG1200: Address: 2030581  Function: 2 
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address:  507972  Function: 1  Alpha:   ,<GS>%<ENQ><STX><CR><FS><GS>-$<EOT>zt<EOT>"E,<EOT><SUB><CR>
