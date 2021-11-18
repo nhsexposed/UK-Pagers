@@ -19536,3 +19536,51 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1113181121+++TIME=11
 POCSAG1200: Address:  420460  Function: 3  Alpha:   "<DLE>
 POCSAG1200: Address:  420455  Function: 2  Alpha:   <DC2>#<CR>*L
 POCSAG1200: Address:  814376  Function: 1 
+POCSAG1200: Address:  858471  Function: 3  Alpha:   Y<EOT>
+POCSAG1200: Address: 1534147  Function: 2  Alpha:   11:14-39 CONTACT FIRE CONTROL <NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   11:14-57 18/11/2021 11:12:47 INC 24683525 09E02 39 SYCAMORE ROAD, RUNCORN WA7, WA7 5LD Female 1M NOT BREATHING GRD 352435 381894
+POCSAG1200: Address:  738325  Function: 0  Alpha:   t3
+POCSAG1200: Address:  563718  Function: 3 
+POCSAG1200: Address:  617151  Function: 0 
+POCSAG1200: Address: 1850967  Function: 3  Alpha:   g<DC2><DC4><GS>A
+POCSAG1200: Address: 1445728  Function: 2  Alpha:   <ENQ>t
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   11:14-56 18/11/2021 11:12:47 INC 24683525 09E02 39 SYCAMORE ROAD, RUNCORN WA7, WA7 5LD Female 1M NOT BREATHING GRD 352435 381894
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:14-99 18/11/2021 11:12:47 INC 24683525 09E02 39 SYCAMORE ROAD, RUNCORN WA7, WA7 5LD Female 1M NOT BREATHING GRD 352435 381894
+POCSAG1200: Address:  420375  Function: 0 
+POCSAG1200: Address:  216338  Function: 2  Alpha:   11:15-07 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: PN71EFA. If no more Booking Ref to unload, ignore destination and proceed to the Gatehous}Jb<ETB>wwwwwwwws,B
+POCSAG1200: Address: 2080632  Function: 1  Alpha:   ~~n~~n~~~~~~~~vv>
+POCSAG1200: Address: 1081082  Function: 1 
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   11:15-94 18/11/2021 11:12:28 INC 24683523 28C02Y 15 HALKYN AVENUE, SEFTON PARK L17, L17 2AH Female 70Y F - HEADACHE - SLURRING WORDS GRD 337942 388611<NUL>
+POCSAG1200: Address:  286618  Function: 1  Alpha:   <RS><EM><HT>A&/<ETX><GS>A<CAN>cfX@<CAN>cf@f<DLE>'A<FF>K[CYKAfp2A$)<BEL>Ab@<ACK><ETX>%A<SO>%<HT>Affpfhj@frbh`b<NUL><NUL>
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   <DLE>,PH5`0f
+POCSAG2400: Address: 1385963  Function: 0  Alpha:   K<SI>?<ETX><NUL>
+POCSAG2400: Address: 1502780  Function: 3 
+POCSAG2400: Address: 1265181  Function: 2 
+POCSAG2400: Address: 1687399  Function: 1 
+POCSAG2400: Address: 2022711  Function: 3  Alpha:   O%h&<BEL>
+POCSAG2400: Address: 1446945  Function: 2 
+POCSAG2400: Address: 1735162  Function: 3 
+POCSAG2400: Address: 1930490  Function: 0 
+POCSAG2400: Address: 1605259  Function: 2  Alpha:   <ETX>=;<ETX><DC1>?_;3';/<ETX>A?KS
+POCSAG2400: Address: 2026358  Function: 2 
+POCSAG2400: Address:   28919  Function: 0  Alpha:   11:16-28 4398<NUL>
+POCSAG2400: Address:  138347  Function: 0 
+POCSAG2400: Address:  216251  Function: 2  Alpha:   11:16-88 Alert from MANSDPMSFM02B, interconnect 6 - The connection on downlink port 20, s..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM02B, interconnect 6<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
+POCSAG2400: Address: 1365218  Function: 1  Alpha:   >F&<BEL><DC2><ETX><VT>3<ETX>B,>g.&'<BEL><STX><CR><RS>^<SO><SYN>'<ACK>*t&/<SYN><BEL><ETB>O<RS>/<ACK>",6/f~<ACK>o.v&<BEL>b<EOT><ENQ>jjrkP<DLE>-<RS><DEL>.<ETB><US>.<ACK>j<FF>t<FS>%<EOT>m<FS>5l<EOT><DC3><DC3>d<STX>Jv&/<SYN><US>~vv.<RS>&<BEL>2kP@&'<BEL><US>W{z<LF>;<DC3>s<DC2>KsBs*{<SUB>z<LF><RS>&O6O&O<DEL><DC2><DEL><DC2>/<RS>'<DEL>Jv&/<SYN><US>~<ACK><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   11:16-88 Alert from MANSDPMSFM01B, interconnect 3 - The connection on downlink port 8, su..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
+POCSAG2400: Address:  184150  Function: 0 
+POCSAG2400: Address: 1057096  Function: 2 
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>CM<NUL>L
+POCSAG1200: Address: 1508701  Function: 2 
+POCSAG1200: Address:  722728  Function: 3  Alpha:   4<DC1>
+POCSAG1200: Address:   96681  Function: 0  Alpha:   T 
+POCSAG1200: Address: 1836571  Function: 3  Alpha:   YY
+POCSAG2400: Address:   28905  Function: 0  Alpha:   11:17-32 2343<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   11:17-99 INC ALERT No: 16793746 Cardiac Arrest -, AT: 32 VALE ROAD, BOSCOMBE BOURNEMOUTH, BH1 3SZ, Time of Call: 18/11/2021 11:16:51, Co-ords: 50.725888872 -1.851960047
+POCSAG2400: Address: 1032518  Function: 3  Alpha:   f`
+POCSAG2400: Address: 1323900  Function: 2  Alpha:   11:17-09 GREEN - EXERCISE LIVIA COMPLETE WM DS BOW 
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   11:17-51 Alert from MANSDPMSFM02B, interconnect 6 - The connection on downlink por
+POCSAG1200: Address:  197492  Function: 2  Alpha:   B<BS><NUL>`L
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1118181121+++TIME=1118181121<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:19-94 5013<NUL>
