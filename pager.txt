@@ -1,3 +1,24 @@
+POCSAG2400: Address: 2008957  Function: 0 
+POCSAG2400: Address: 1324613  Function: 2  Alpha:   19:09-56 PLS CALL DEBRA. 07815 689 623 
+POCSAG1200: Address:  239233  Function: 3  Alpha:   <ACK><US>
+POCSAG1200: Address:  312991  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address: 1640791  Function: 3 
+POCSAG1200: Address:  395539  Function: 2 
+POCSAG1200: Address:  938291  Function: 0 
+POCSAG1200: Address: 1582178  Function: 1 
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   19:07-71 18/11/2021 19:05:47 INC 24685706 O/S, 310A ST GEORGES ROAD, PRESTON, PR1 6NR Male 14Y HIT AND RUN GRD 354522 430537<NUL>
+POCSAG1200: Address: 1335361  Function: 1  Alpha:   <DC3><ETX><SUB>D<FS><DC3><EOT><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:06-41 4283<NUL>
+POCSAG2400: Address:  303669  Function: 2 
+POCSAG2400: Address: 1324011  Function: 2  Alpha:   19:06-27 GREEN: INFO: CAD #4231. SELCO BUILDERS, WHITE HART LANE, N17.  35YOF IN CARDIAC ARREST AFTER WOOD FALLING ON THEM. WM EOC NORTH AJC
+POCSAG1200: Address: 1798434  Function: 1 
+POCSAG1200: Address:  200957  Function: 2  Alpha:   19:06-60 PLS CONTACT EXT 334
+POCSAG1200: Address: 1306790  Function: 2  Alpha:   ,<FF>
+POCSAG1200: Address: 1099676  Function: 1  Alpha:   X<FS>
+POCSAG1200: Address: 1206048  Function: 3 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   19:04-93 18/11
+POCSAG1200: Address:  227361  Function: 0  Alpha:   19:04-72 51096
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   19:04-84 18/11/2021 19:02:30 INC 24685688 MR SCOOPS, 180B RIBBLETON AVENUE, RIBBLETON PRESTON, PR2 6QN Male 19Y HIT BY CAR GRD 356335 431082
 POCSAG1200: Address:  996504  Function: 3 
 POCSAG1200: Address: 1312632  Function: 2  Alpha:   19:06:29 S03L2 Fire call 14412<NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1586798  Function: 1
 POCSAG1200: Address: 1584715  Function: 0  Alpha:   N<STX><DC1>R<DC2>"<SOH>E
 POCSAG1200: Address:  510872  Function: 1 
 POCSAG1200: Address: 1416224  Function: 2 
-POCSAG1200: Address:  624775  Function: 2  Alpha:   d<LF>Ag<DC2>
-POCSAG1200: Address: 1016334  Function: 2 
-POCSAG1200: Address: 1349436  Function: 1 
-POCSAG1200: Address: 1335769  Function: 2  Alpha:   <SUB>KK<DC2><ETX>s<VT><ETX><ACK>+S
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:40-05 4312<NUL>
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   15:39-76 4660<NUL>
-POCSAG2400: Address: 1913724  Function: 2  Alpha:   15:38-02 4379<NUL>
-POCSAG1200: Address: 2073429  Function: 3 
-POCSAG1200: Address: 2077691  Function: 2 
-POCSAG1200: Address: 1265292  Function: 3 
-POCSAG1200: Address:  142363  Function: 1 
-POCSAG1200: Address:  875123  Function: 1 
-POCSAG1200: Address: 1814754  Function: 3 
-POCSAG1200: Address: 1101056  Function: 2 
-POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
-POCSAG1200: Address: 2040992  Function: 3 
-POCSAG2400: Address: 1190646  Function: 0 
-POCSAG2400: Address: 1749603  Function: 1 
-POCSAG2400: Address: 1913668  Function: 2  Alpha:   15:37-40 4277<NUL>
-POCSAG1200: Address:  499830  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
