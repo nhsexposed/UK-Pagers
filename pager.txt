@@ -1,3 +1,19 @@
+POCSAG2400: Address: 2010981  Function: 0 
+POCSAG1200: Address: 1039231  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   11:28-81 69001
+POCSAG1200: Address:  679608  Function: 2  Alpha:   11:28-51 69001
+POCSAG1200: Address: 1773836  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1128181121+++TIME=1128181121<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   11:27-94 4114<NUL>
+POCSAG1200: Address: 1652112  Function: 0 
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:27-79 18/11/2021 11:26
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
+POCSAG1200: Address: 1512730  Function: 3  Alpha:   U2
+POCSAG2400: Address:   28894  Function: 0  Alpha:   11:26-49 2183<NUL>
+POCSAG2400: Address: 1895004  Function: 2 
+POCSAG1200: Address:  420375  Function: 0 
+POCSAG1200: Address:  420460  Function: 3  Alpha:   B.
+POCSAG2400: Address:  163950  Function: 0 
 POCSAG2400: Address:  149126  Function: 2  Alpha:   11:23-89 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
 POCSAG2400: Address:  549203  Function: 2  Alpha:   11:23-02 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
 POCSAG2400: Address:  549205  Function: 2  Alpha:   11:23-13 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
@@ -982,19 +998,3 @@ POCSAG2400: Address:  216264  Function: 2  Alpha:   08:38-03 Nimble Alarm Acknow
 POCSAG2400: Address:  216268  Function: 2  Alpha:   08:38-69 Nimble Alarm Acknowledged on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Thu Nov 18 00:07:49 2021<CR><LF><CR><LF>Object: SP.2.577195.1637193798CommVault<CR><LF>Status: Acknowledged<CR><LF>Acknowledged By:<NUL><NUL>
 POCSAG2400: Address:  216272  Function: 2  Alpha:   08:38-58 Nimble Alarm Acknowledged on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Thu Nov 18 00:09:25 2021<CR><LF><CR><LF>Object: SP.2.577196.1637193868CommVault<CR><LF>Status: Acknowledged<CR><LF>Acknowledged By:<NUL><NUL>
 POCSAG2400: Address:  216272  Function: 2  Alpha:   08:38-58 Nimble Alarm Acknowledged on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Thu Nov 18 00:07:49 2021<CR><LF><CR><LF>Object: SP.2.577195.1637193798CommVault<CR><LF>Status: Acknowledged<CR><LF>Acknowledged By:<NUL><NUL>
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   <ACK>O
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0838181121+++TIME=0838181121<NUL>
-POCSAG1200: Address:  209785  Function: 2  Alpha:   08:37-10 18/11/2021 08:35:24 INC 24682899 11D01U 92 DUGDALE ROAD, BURNLEY, BB12 6DW Male 57Y CHOKING GRD 381973 433001<NUL>
-POCSAG1200: Address:  360002  Function: 0  Alpha:   08:37-33 18/11/2021 08:35:24 INC 24682899 11D01U 92 DUGDALE ROAD, BURNLEY, BB12 6DW Male 57Y CHOKING GRD 381973 433001<NUL>
-POCSAG1200: Address:  678716  Function: 2  Alpha:   08:37-29 PLS CONTACT CONTROL <NUL><NUL>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   08:37-30 2186<NUL>
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   5J
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   08:37-59 18/11/2021 08:35:11 INC 24682898 OUTSIDE, 181 WASH LANE, BROAD OAK BURY, BL9 7DH Male 57Y CAME OFF BIKE GRD 381645 410829<NUL>
-POCSAG1200: Address:   40100  Function: 2  Alpha:   08:37-30 18/11/2021 08:35:11 INC 24682898 OUTSIDE, 181 WASH LANE, BROAD OAK BURY, BL9 7DH Male 57Y CAME OFF BIKE GRD 381645 410829<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   08:37-94 18/11/2021 08:35:11 INC 24682898 OUTSIDE, 181 WASH LANE, BROAD OAK BURY(bSL9 7DH Male 57Y CAME OFF BIKE GRD 381645 410829<NUL>
-POCSAG1200: Address:  432909  Function: 2  Alpha:   08:37-13 FAO ALEX - RE LOOKING TO PICK UP SOME SEDATION. PLEASE CALL EMILY WAGHORN TEL  07581 474 402<NUL>
-POCSAG1200: Address: 1321666  Function: 2  Alpha:   08:37-84 Destination: D105 SSC In\120, Booking Ref#: 800994, Vehicle: yk68wgw. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   08:37-93 4554<NUL>
-POCSAG1200: Address: 1311408  Function: 1  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1022590  Function: 0  Alpha:   08:36-63 231<NUL><NUL>
-POCSAG2400: Address:  549126  Function: 2  Alpha:   08:36-41 79933
