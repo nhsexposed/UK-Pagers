@@ -1,3 +1,34 @@
+POCSAG2400: Address:   28905  Function: 0  Alpha:   18:49-47 4114<NUL>
+POCSAG1200: Address:  216553  Function: 2  Alpha:   18:51:32 S0|Z3xNyre call 14409<NUL>
+POCSAG1200: Address:  400572  Function: 1  Alpha:   Z<CAN>
+POCSAG1200: Address: 1314564  Function: 2 
+POCSAG1200: Address:  216548  Function: 2  Alpha:   18:51:32 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216541  Function: 2  Alpha:   18:51:32 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216539  Function: 2  Alpha:   18:51:32 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216537  Function: 2  Alpha:   18:51:32 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1848181121+++TIME=1848181121<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   18:48-01 MEDICAL EMERGENCY  - WARD 51 - DARLINGTON 
+POCSAG1200: Address:   40161  Function: 2  Alpha:   18:47-12 please call rfh ext 34018
+POCSAG2400: Address:  216263  Function: 2  Alpha:   18:47-15 RECOVERY: BOOPENLCNS02MC1 is UP, <CR><LF>RECOVERY: BOOPENLCNS02MC1 is UP<CR><LF><CR><LF>Host: BOOPENLCNS02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.83<CR><LF>Host Group Hierarchy: <CR><LF>State: UP<CR><LF>Date & Time: Thu Nov 18 18:47:33 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>SSH OK - O<NUL><NUL>
+POCSAG2400: Address: 1716781  Function: 0 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:48-14 2183<NUL>
+POCSAG1200: Address: 2073317  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3R<DLE>a
+POCSAG1200: Address: 1022860  Function: 2  Alpha:   18:46-42 49
+POCSAG1200: Address: 1841872  Function: 3 
+POCSAG1200: Address: 1312612  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   18:46-66 4660<NUL>
+POCSAG1200: Address:  216545  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216544  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216543  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216542  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216541  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216537  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG1200: Address:  216536  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   18:45-99 3105<NUL>
+POCSAG2400: Address: 2073172  Function: 0 
+POCSAG2400: Address: 1913545  Function: 2  Alpha:   18:45-77 4387<NUL>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   18:45-08 107205<NUL><NUL>
 POCSAG1200: Address:  587528  Function: 2 
 POCSAG1200: Address: 1469469  Function: 0  Alpha:   <FS><DLE>
 POCSAG1200: Address:  266852  Function: 1  Alpha:   f<ACK>
@@ -967,34 +998,3 @@ POCSAG1200: Address: 1881181  Function: 2
 POCSAG1200: Address:  621797  Function: 3 
 POCSAG1200: Address:  629154  Function: 0 
 POCSAG1200: Address:   71977  Function: 1  Alpha:   D, HO
-POCSAG1200: Address:  677832  Function: 0  Alpha:   4q
-POCSAG1200: Address:  395311  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1318055  Function: 2 
-POCSAG1200: Address: 1941638  Function: 3  Alpha:   b<SO>
-POCSAG1200: Address: 1502493  Function: 1  Alpha:   <FS>P
-POCSAG1200: Address:  266852  Function: 1  Alpha:   f<ACK>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  625450  Function: 2  Alpha:   jn
-POCSAG1200: Address: 1335768  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>+S
-POCSAG1200: Address:  106110  Function: 2  Alpha:   15:27<CR>\<SUB>pY<EOT>
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   15:27-32 68362
-POCSAG1200: Address: 1883319  Function: 2  Alpha:   O%h<SO>&
-POCSAG1200: Address: 1120895  Function: 1 
-POCSAG1200: Address:  637790  Function: 1  Alpha:   bh
-POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:26-32 4114<NUL>
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   15:25-90 2343<NUL>
-POCSAG2400: Address:   28895  Function: 0  Alpha:   15:25-09 5128<NUL>
-POCSAG1200: Address:  340147  Function: 0  Alpha:   15:25-32 4226<NUL>
-POCSAG1200: Address:  605436  Function: 1 
-POCSAG1200: Address: 1335779  Function: 3 
-POCSAG1200: Address:  310771  Function: 3 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   15:24-60 5204<NUL>
-POCSAG1200: Address: 1746665  Function: 0 
-POCSAG1200: Address:  619026  Function: 2  Alpha:   vP
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:23-37 4901<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   15:23-59 5204<NUL>
-POCSAG1200: Address:  734818  Function: 0  Alpha:   v<SYN><ETB><ACK>4<SYN>Wv
-POCSAG1200: Address:  676385  Function: 1 
-POCSAG1200: Address: 1319097  Function: 0 
