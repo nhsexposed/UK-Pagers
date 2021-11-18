@@ -21057,3 +21057,23 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1648181121+++TIME=16
 POCSAG1200: Address:  413130  Function: 2  Alpha:   16:48-58 (3/4) Additional_Data FAMO true; Additional_Data Tel No for FAMO 0035312952366; Additional_Data Tel number of Premises 07707345277;
 POCSAG1200: Address:  600824  Function: 0  Alpha:   p<DLE>F9<NAK>e1f
 POCSAG2400: Address:  940155  Function: 2  Alpha:   16:49-69 Potential Major Incident (ALERT) STAND DOWN<NUL><NUL>
+POCSAG2400: Address: 1022130  Function: 2  Alpha:   16:49-94 Potential Major Incident (ALERT) STAND DOWN<NUL><NUL>
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   16:49-84 please can you call Gills Top on 01756 752699 re: Rita Tosney<NUL>
+POCSAG1200: Address:  721288  Function: 1 
+POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 2044769  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  549854  Function: 2  Alpha:   16:52-21 ~E11 STATION BEING CLEANED - E1101 OFF RUN FOR CLEANING<NUL>
+POCSAG1200: Address:  549855  Function: 2  Alpha:   16:52-45 ~E11 STATION BEING CLEANED - E1101 OFF RUN FOR CLEANING<NUL>
+POCSAG1200: Address:  549856  Function: 2  Alpha:   16:52-74 ~E11 STATION BEING CLEANED - E1101 OFF RUN FOR CLEANING<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:52-32 2304<NUL>
+POCSAG512: Address:  114445  Function: 2  Alpha:   16:53-11 <NULL><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653181121+++TIME=1653181121<NUL>
+POCSAG2400: Address: 2075377  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653181121+++TIME=1653181121<NUL>
+POCSAG2400: Address:  370072  Function: 3 
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:54-97 2798<NUL>
+POCSAG1200: Address:  108093  Function: 0  Alpha:   16:54-06 plse call x3633<NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   16:54-50 Boiler lock out ALERT<NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   16:54-51 Boiler lock out ALERT<NUL>
