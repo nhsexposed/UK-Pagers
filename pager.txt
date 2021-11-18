@@ -1,3 +1,17 @@
+POCSAG1200: Address:  375597  Function: 3  Alpha:   jl
+POCSAG1200: Address: 1255004  Function: 3 
+POCSAG1200: Address: 1335770  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address:  370521  Function: 0  Alpha:   db
+POCSAG1200: Address: 1255001  Function: 3 
+POCSAG1200: Address:  239360  Function: 1  Alpha:   B:
+POCSAG1200: Address:  734566  Function: 0 
+POCSAG1200: Address:  676389  Function: 1 
+POCSAG1200: Address:  958546  Function: 0 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:49-23 2445<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:48-35 2233<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  420307  Function: 2  Alpha:   22:46-60 18/11/2021 22:43:16 INC 24686589 10C04 Ormskirk District General Hospital Lancashire -, WIGAN ROAD, ORMSKIRK, L39 2AZ Female 21Y CHEST PAIN GRD 342081 408133<NUL><NUL>
+POCSAG1200: Address:  678610  Function: 2  Alpha:   22:45-02 PLS CALL HAIRMYRES HOSP <NUL>
 POCSAG1200: Address:  352586  Function: 2  Alpha:   22:44-19 3079<NUL>
 POCSAG1200: Address: 2077824  Function: 0  Alpha:   #<ETX><LF>--,t<FS>=<CR>Le<STX><DC2><FF>l<DC4>,<DC4><ENQ><DC2><DC4>M$<,d<STX><STX><NAK>-<ETX>2+%<EOT>j<FF>f.<ACK><DC2>;K<ENQ>BL<D<EOT>"-l<EOT><ENQ>j<STX><LF><DC4>|4-<EOT><SUB>K<ETX>:<DC4>%<EOT><SUB>+3<DC3>CK<ETX>"<DC3>3<ETX><ESC><VT><ETX><NUL>
 POCSAG1200: Address: 1103011  Function: 3  Alpha:   aYE<SOH>AAaQ<SOH>EA<SOH>5&:VR<SYN><STX><NAK>R<ACK>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1477919  Function: 3  Alpha:   O%
 POCSAG2400: Address: 1814995  Function: 0  Alpha:   <DLE>FP27D0f
 POCSAG2400: Address:   28896  Function: 0  Alpha:   18:14-10 4167<NUL>
 POCSAG1200: Address:  585270  Function: 2  Alpha:   18:13-83 TEST CALL<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1813181121+++TIME=1813181121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1813181121+++TIME=1813181121<NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   18:12-13 PROBLEM: Windows
-POCSAG1200: Address:  197129  Function: 2 
-POCSAG1200: Address: 1453529  Function: 1 
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  225851  Function: 2  Alpha:   18:11-04 107205<NUL><NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   18:11-20 PLEASE CALL 01634 830 000 EX 4998
-POCSAG1200: Address: 1796392  Function: 2 
-POCSAG512: Address:  640251  Function: 2  Alpha:   18:11-29 33943
-POCSAG1200: Address:  930489  Function: 2  Alpha:   18:11-95 18/11/2021 18:09
-POCSAG2400: Address:   28906  Function: 0  Alpha:   18:10-24 3117<NUL>
-POCSAG2400: Address: 1834960  Function: 3 
