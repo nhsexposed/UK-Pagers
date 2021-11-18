@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   17:39-14 4769<NUL>
+POCSAG1200: Address:  227361  Function: 0  Alpha:   17:38-69 52430
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1738181121+++TIME=1738181121<NUL>
+POCSAG1200: Address:  206082  Function: 0  Alpha:   t(J<BS>46<SYN><SYN>7&<ACK>D6&V<ACK>v<ACK><NUL><NUL>
+POCSAG1200: Address: 1983153  Function: 3 
+POCSAG1200: Address:  368768  Function: 1  Alpha:   dr
+POCSAG1200: Address:  725256  Function: 2 
+POCSAG1200: Address: 1683694  Function: 2  Alpha:   6<ACK>&<ACK><EOT>fY<EOT>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   17:37-33 2183<NUL>
+POCSAG1200: Address:  695458  Function: 2  Alpha:   17:37-79 8386<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   58082  Function: 1  Alpha:   17:36-21 3148<NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   17:36-57 5400<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   17:34-97 3119<NUL>
 POCSAG1200: Address: 1816832  Function: 2  Alpha:   17:34-83 01223849714
 POCSAG1200: Address:  216361  Function: 2  Alpha:   17:33-08 FOR INFO - FULL EMERGENCY MIA 18.11.r9!5730<NUL><NUL>
 POCSAG1200: Address: 2009030  Function: 2  Alpha:   17:33-34 FOR INFO - FULL EMERGENCY MIA 18.11.21 1730<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1122476  Function: 2
 POCSAG1200: Address:   33620  Function: 2 
 POCSAG1200: Address: 2028260  Function: 0 
 POCSAG1200: Address:  421535  Function: 1 
-POCSAG1200: Address: 1316254  Function: 0 
-POCSAG1200: Address: 1271086  Function: 1 
-POCSAG1200: Address: 1686917  Function: 1 
-POCSAG1200: Address:  918912  Function: 2 
-POCSAG1200: Address: 1315095  Function: 1  Alpha:   O%h<STX><SUB>
-POCSAG1200: Address:  628775  Function: 2 
-POCSAG1200: Address:  142567  Function: 2  Alpha:   <EM><VT>Y@<ACK><ETX>*@e<DC4><ENQ>A<SUB>CYKAp`2A<FF><ETX><EM><EM><VT><GS>A<DLE><DC3>)A<DLE><VT><ETX><HT>A<SO>%<HT>Aff`f`n@jjlhd`
-POCSAG1200: Address:  107306  Function: 2  Alpha:   jj
-POCSAG1200: Address: 1933875  Function: 0 
-POCSAG1200: Address: 1511970  Function: 3  Alpha:   <ACK>q
-POCSAG2400: Address: 1022632  Function: 0  Alpha:   14:05-15 Medical Emergency/Adult Crash  BUS STOP OUTSIDE MAIN ENTRANCE<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   14:04-36 4399<NUL>
-POCSAG1200: Address: 1039333  Function: 3  Alpha:   <NAK><BS>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   14:03-54 4167<NUL>
