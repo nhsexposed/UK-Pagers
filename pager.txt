@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1948181121+++TIME=1948181121<NUL>
+POCSAG1200: Address: 1441907  Function: 0 
+POCSAG1200: Address:  271489  Function: 2 
+POCSAG1200: Address: 1815006  Function: 0  Alpha:   19:47-48 37120
+POCSAG1200: Address: 1586401  Function: 0 
+POCSAG1200: Address: 1469137  Function: 0 
+POCSAG1200: Address: 1352768  Function: 3 
+POCSAG1200: Address:  561446  Function: 2 
+POCSAG1200: Address: 2008946  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:45-22 2616<NUL>
 POCSAG1200: Address: 1508385  Function: 2  Alpha:   <EOT><SUB><ESC><VT><ETX>3<DC3><ETX>"<ESC>3K3<VT><ETX><NUL><NUL>
 POCSAG1200: Address:  182868  Function: 0 
 POCSAG1200: Address: 1059018  Function: 2 
@@ -987,14 +998,3 @@ POCSAG1200: Address:  696528  Function: 2  Alpha:   16:04-31 Please call AGH swi
 POCSAG2400: Address: 1913681  Function: 2  Alpha:   16:04-17 4268<NUL>
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   16:03-36 2619<NUL>
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   16:03-64 3504<NUL>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   16:03-27 2233<NUL>
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   F<DLE>
-POCSAG1200: Address:   80196  Function: 2  Alpha:   H<FF>
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   16:02
-POCSAG1200: Address:  975475  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:01-42 4167<NUL>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  696528  Function: 2  Alpha:   16:00-30 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG2400: Address:   63432  Function: 3 
-POCSAG2400: Address: 1320202  Function: 2  Alpha:   16:00-59 2169<NUL>
