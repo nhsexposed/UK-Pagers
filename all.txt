@@ -17937,3 +17937,10 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0658181121+++TIME=06
 POCSAG1200: Address: 1770639  Function: 0  Alpha:   9<BS><SYN><FS>L
 POCSAG1200: Address: 1511903  Function: 0 
 POCSAG1200: Address:  108097  Function: 0  Alpha:   06:59-87 Plse call 3570<NUL><NUL>
+POCSAG2400: Address: 1913551  Function: 2  Alpha:   07:00-25 5201<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   07:01-05 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  876400  Function: 0 
+POCSAG1200: Address:  320857  Function: 3 
+POCSAG1200: Address: 1312566  Function: 2  Alpha:   07:02-80 NOTIFY - PLEASE CALL GUILDFORD FIRE STATION - MANY THANKS<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0703181121+++TIME=0703181121<NUL>
