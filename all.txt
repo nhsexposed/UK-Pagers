@@ -22181,3 +22181,53 @@ POCSAG1200: Address: 1001130  Function: 2  Alpha:   21:13-&<SYN>
 POCSAG1200: Address: 1001127  Function: 2  Alpha:   21:13-81 CARDIAC ARREST TEAM TO WARD 13F, BED 21 @ RLH.<NUL><NUL>
 POCSAG1200: Address: 1001124  Function: 2  Alpha:   21:13-30 CARDIAC ARREST TEAM TO WARD 13F, BED 21 @ RLH.<NUL><NUL>
 POCSAG1200: Address: 1476342  Function: 0 
+POCSAG2400: Address: 1495391  Function: 3  Alpha:   3<HT>
+POCSAG2400: Address: 1527088  Function: 0 
+POCSAG2400: Address: 1732684  Function: 0  Alpha:   M&/V<ETX>r<ACK>/<RS><US><SO>vv<DC2><SYN>O&O<RS>G<RS>~.w<RS>Nfvz<SYN>?nP@|<RS>'W<ETX><DC2><EOT><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   21:16-53 PROBLEM:@<DC4>yndows Management 
+POCSAG2400: Address:  472192  Function: 0 
+POCSAG2400: Address: 1198496  Function: 0  Alpha:   1<CR><LF>Service: Group Policy Client<CR><LF>Host: BOOPENLVDA02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.100<CR><LF>Host Group Hierarchy: <NUL><NUL>
+POCSAG2400: Address: 1188417  Function: 0 
+POCSAG1200: Address: 1323878  Function: 2  Alpha:   21:17-11 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
+POCSAG1200: Address: 1323875  Function: 2  Alpha:   21:17-31 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
+POCSAG1200: Address: 1746546  Function: 1 
+POCSAG2400: Address: 1324068  Function: 2  Alpha:   21:17-16 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
+POCSAG1200: Address: 1246426  Function: 1 
+POCSAG1200: Address:  740611  Function: 2 
+POCSAG1200: Address: 1604739  Function: 2 
+POCSAG1200: Address: 1188020  Function: 1  Alpha:   RJ
+POCSAG1200: Address: 1221191  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1512608  Function: 2 
+POCSAG1200: Address:  267880  Function: 3 
+POCSAG1200: Address: 1616077  Function: 2  Alpha:   *K
+POCSAG1200: Address:  825974  Function: 3  Alpha:   <CR>L,+<FF>~3<HT>
+POCSAG1200: Address: 1155872  Function: 2  Alpha:   `dBv@
+POCSAG1200: Address:  406433  Function: 0 
+POCSAG1200: Address:  846386  Function: 0  Alpha:   <VT><DC4>
+POCSAG1200: Address: 1624395  Function: 0  Alpha:   E - P
+POCSAG1200: Address:  679100  Function: 2  Alpha:   t<FS>
+POCSAG1200: Address:  300685  Function: 1 
+POCSAG1200: Address:  389782  Function: 3 
+POCSAG1200: Address:  708902  Function: 1  Alpha:    I
+POCSAG1200: Address: 1684289  Function: 2 
+POCSAG1200: Address: 1240578  Function: 3 
+POCSAG1200: Address:   91322  Function: 0 
+POCSAG1200: Address: 1719675  Function: 3 
+POCSAG1200: Address: 1020451  Function: 0 
+POCSAG1200: Address: 1650286  Function: 0 
+POCSAG1200: Address: 1007423  Function: 2  Alpha:   $<EOT>rg<DC2>
+POCSAG1200: Address:  779784  Function: 0 
+POCSAG1200: Address: 1443447  Function: 0  Alpha:   O%h+$d<NAK>r @u
+POCSAG1200: Address: 1263193  Function: 2 
+POCSAG1200: Address: 1148762  Function: 0  Alpha:   hd
+POCSAG1200: Address: 1315443  Function: 3 
+POCSAG1200: Address: 1890675  Function: 1 
+POCSAG1200: Address: 2015637  Function: 3  Alpha:   2A<ACK><US>+<SI><DC1><DC3><GS><SI>AZ@*!A <EM><ETX>')<DC3><BEL>A<EOT><ETX><EM><EM>'A<SO>%<HT>Afhphf`@hl`djr<NUL>
+POCSAG2400: Address: 1652089  Function: 2  Alpha:   f<SYN>W<SYN>v<ENQ>vVVvVfV<ACK><ETB>Wf<ENQ>4ZH<HT>t<HT>><SO>T)h<ENQ><NUL>
+POCSAG2400: Address: 1323941  Function: 2  Alpha:   21:17-01 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
+POCSAG2400: Address: 1324027  Function: 2  Alpha:   21:17-53 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   21:17-67 PROBLem{ Web Che
+POCSAG2400: Address:  216263  Function: 2  Alpha:   21:17-62 PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on h
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   21:17-30 PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on host CISCMS-Tier-1-a, <CR><LF>PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on host CISCMS-Tier-1-a<CR><LF>Service: Web Check Site: civicasnowportal.com<CR><LF>Host: CISCMS-Tier-1-a<CR><LF>Al<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2118181121+++TIME=2118181121<NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   21:18-56 PLS CALL SHEFFIELD SPARROW FEMALE ON 7253124<NUL>
