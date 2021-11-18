@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1508385  Function: 2  Alpha:   <EOT><SUB><ESC><VT><ETX>3<DC3><ETX>"<ESC>3K3<VT><ETX><NUL><NUL>
+POCSAG1200: Address:  182868  Function: 0 
+POCSAG1200: Address: 1059018  Function: 2 
+POCSAG1200: Address: 2054474  Function: 0 
+POCSAG1200: Address: 1147257  Function: 3 
+POCSAG1200: Address: 1773833  Function: 1 
+POCSAG1200: Address:  306142  Function: 2  Alpha:   19:43-75 ON CALL IT PERSON  TO CONTACT 57803 
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   19:43-44 ON CALL IT PERSON  TO CONTACT 57803 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1943181121+++TIME=1943181121<NUL>
+POCSAG2400: Address:   33739  Function: 2  Alpha:   19:41-85 INC ALERT No: 16795477 Cardiac Arrest -, AT: KIMBERLEY, KNOWLES HILL ROAD, NEWTON ABBOT, TQ12 2PW, Time of Call: 18/11/2021 19:41:24, Co-ords: 50.534311633 -3.610838133
+POCSAG2400: Address:  901450  Function: 2  Alpha:   19:41-35 2222<NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   19:40-63 21818 <NUL><NUL>
+POCSAG512: Address:  640251  Function: 2  Alpha:   19:40-31 33844
+POCSAG1200: Address:  958549  Function: 0 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   19:39-57 18/11/2021 19:38:22 INC 24685863 06E01 69 THE TITHINGS, HALTON BROOK RUNCORN WA7, WA7 2DT Female 79Y F-79 COPD, DIB GRD 353113 382103
 POCSAG1200: Address: 1258970  Function: 2  Alpha:   19:39-08 33460
 POCSAG1200: Address:  696528  Function: 2  Alpha:   19:39-34 Please call AGH switchboard on 01535 652511<NUL><NUL>
 POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<DC2><BEL>g1f
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  696528  Function: 2  Alpha:   16:00-30 Please call AGH switchboard on 01535 652511<NUL><NUL>
 POCSAG2400: Address:   63432  Function: 3 
 POCSAG2400: Address: 1320202  Function: 2  Alpha:   16:00-59 2169<NUL>
-POCSAG1200: Address:  420237  Function: 2  Alpha:   16:00-20 18/11/2021 15:58:07 INC 24684866 10D03 HERDLEY BANK PRIMARY SCHOOL, GENERAL AREA OF, COANWOOD HALTWHISTLE, NE49 0QT Male 56Y CHEST PAINS - MALE - NEARLY COLLAPSED - CRUSHING PAIN GRD 368070 559209
-POCSAG1200: Address: 1254466  Function: 0 
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   15:59-85 call on 69002
-POCSAG1200: Address:  679608  Function: 2  Alpha:   15:59-55 call on 69002
-POCSAG1200: Address:  649969  Function: 2  Alpha:   15:59-68 call on 69002
-POCSAG2400: Address:   28927  Function: 0  Alpha:   15:59-38 2644<NUL>
-POCSAG2400: Address: 1870577  Function: 0 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   15:59-80 18/11/2021 15:57:41 INC 2468
-POCSAG1200: Address: 1761388  Function: 3  Alpha:   E<STX>
-POCSAG2400: Address:   28893  Function: 0  Alpha:   15:58-84 5201<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1558181121+++TIME=1558181121<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:58-29 4283<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:56-08 2561<NUL>
