@@ -1,3 +1,39 @@
+POCSAG2400: Address: 1797988  Function: 2  Alpha:   <SO><ACK>26(<DLE><ACK>S<ETB><ETX><EM><SOH>Q&7<ETB>k<SOH>Q"W<ETX>9<STX><NUL>
+POCSAG2400: Address: 1741684  Function: 1 
+POCSAG2400: Address: 1094065  Function: 2 
+POCSAG2400: Address: 1023345  Function: 3 
+POCSAG2400: Address:  867641  Function: 3 
+POCSAG2400: Address:  266848  Function: 2 
+POCSAG2400: Address: 1582148  Function: 0 
+POCSAG2400: Address: 1593379  Function: 1  Alpha:   w9<LF><GS><DLE>
+POCSAG2400: Address:  276530  Function: 3 
+POCSAG2400: Address: 1477138  Function: 1 
+POCSAG2400: Address: 1761369  Function: 0 
+POCSAG2400: Address:  328727  Function: 3  Alpha:   g<DC2>T[<FS><NAK>h<DLE>6|x
+POCSAG1200: Address: 1708843  Function: 1  Alpha:   .N<SO>],<SO><DC4>Ll<RS>=\l<ENQ>
+POCSAG2400: Address: 1323953  Function: 2  Alpha:   19:12-05 Test<NUL>
+POCSAG1200: Address: 1630965  Function: 0 
+POCSAG1200: Address:  200957  Function: 2  Alpha:   19:12-61 PLS CALL 31761 <NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   19:11-48 4160<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:11-75 4183<NUL>
+POCSAG1200: Address:  979248  Function: 1 
+POCSAG1200: Address: 1550321  Function: 0 
+POCSAG1200: Address: 1321742  Function: 2  Alpha:   19:10-77 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1321729  Function: 2  Alpha:   19:10-zv PPCodtest call<NUL><NUL>
+POCSAG1200: Address: 1321732  Function: 2  Alpha:   19:10-40 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1321744  Function: 2  Alpha:   19:10-83 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1321731  Function: 2  Alpha:   19:10-87 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1947248  Function: 0 
+POCSAG1200: Address: 1321754  Function: 2  Alpha:   19:10-81pPuc<EM>btesf2call<NUL><NUL>
+POCSAG1200: Address: 1321737  Function: 2  Alpha:   19:10-83 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1321725  Function: 2  Alpha:   19:10-61 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1321740  Function: 2  Alpha:   19:10-82 PPCI test call<NUL><NUL>
+POCSAG1200: Address: 1321727  Function: 2  Alpha:   19:10-45 PPCI test call<NUL><NUL>
+POCSAG1200: Address:  549857  Function: 2  Alpha:   19:10-18 ~FOR INFO - N2171 & N2102 BACK ON THE RUN 
+POCSAG1200: Address:  549856  Function: 2  Alpha:   19:10-79 ~FOR INFO - N2171 & N2102 BACK ON THE RUN 
+POCSAG1200: Address: 1511903  Function: 0 
+POCSAG1200: Address:  549810  Function: 2  Alpha:   19:09-31 ~FOR INFO - N2171 & N2102 BACK ON THE RUN 
 POCSAG2400: Address: 2008957  Function: 0 
 POCSAG2400: Address: 1324613  Function: 2  Alpha:   19:09-56 PLS CALL DEBRA. 07815 689 623 
 POCSAG1200: Address:  239233  Function: 3  Alpha:   <ACK><US>
@@ -962,39 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1548181121+++TIME=15
 POCSAG1200: Address: 1032982  Function: 3  Alpha:   &b
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:47-27 3130<NUL>
 POCSAG2400: Address:  569909  Function: 1 
-POCSAG2400: Address: 1483442  Function: 1 
-POCSAG2400: Address: 1290851  Function: 0 
-POCSAG2400: Address: 1913712  Function: 2  Alpha:   15:47-11 2581<NUL>
-POCSAG1200: Address: 1058505  Function: 2  Alpha:   15:47-36 2110<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:47-28 2616<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/<SYN><DLE>12 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:46-55 2447<NUL>
-POCSAG2400: Address: 2014839  Function: 3 
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:46-34 3164<NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   15:46-79 18/11/2021 15:43:59 INC 24684801 ACROSS THE ROAD, 102 BILLINGE ROAD, PEMBERTON WIGAN, WN5 9JH Male 33Y CAR HIT A CYCLE GRD 356289 404375
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:46-26 4954<NUL>
-POCSAG1200: Address: 1511970  Function: 3  Alpha:   <SYN><EOT>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   15:44-78 18/11/2021 15:42:41 INC 2468479<DEL>!NEAR TO CASTLEWAY 
-POCSAG1200: Address: 1737313  Function: 2 
-POCSAG1200: Address:  849116  Function: 1  Alpha:   3<ETX>"<ETX><DC3>K;K
-POCSAG1200: Address: 2027632  Function: 1 
-POCSAG2400: Address: 1320382  Function: 2  Alpha:   15:44-82 5374<NUL>
-POCSAG2400: Address: 1913827  Function: 2  Alpha:   15:43-56 4554<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   15:42-54 33803
-POCSAG1200: Address:  420502  Function: 2  Alpha:   <SYN>p
-POCSAG1200: Address: 1298082  Function: 2 
-POCSAG1200: Address: 2078360  Function: 2 
-POCSAG1200: Address: 2024319  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   15:41-47 4312<NUL>
-POCSAG1200: Address: 1503199  Function: 2  Alpha:   ];Vg<DC2>
-POCSAG1200: Address:  699326  Function: 2 
-POCSAG1200: Address: 2062182  Function: 0 
-POCSAG1200: Address:  735572  Function: 1  Alpha:    UNkn
-POCSAG1200: Address: 1436684  Function: 0 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   15:40-23 5002<NUL>
-POCSAG1200: Address:  941223  Function: 0 
-POCSAG1200: Address: 1586798  Function: 1 
-POCSAG1200: Address: 1584715  Function: 0  Alpha:   N<STX><DC1>R<DC2>"<SOH>E
-POCSAG1200: Address:  510872  Function: 1 
-POCSAG1200: Address: 1416224  Function: 2 
