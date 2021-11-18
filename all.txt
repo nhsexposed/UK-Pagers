@@ -21800,3 +21800,10 @@ POCSAG1200: Address:  958546  Function: 0
 POCSAG1200: Address: 1797280  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1918181121+++TIME=1918181121<NUL>
 POCSAG2400: Address:  619128  Function: 1  Alpha:   o<DEL>
+POCSAG1200: Address: 2074230  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1321839  Function: 2  Alpha:   19:22-69 TEST PAGE PLEASE RESPOND<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on n3$side 12345678901234567890
+POCSAG1200: Address: 1321700  Function: 2  Alpha:   19:22-95 Destination: D105 SSC In\123, Booking Ref#: 801220, Vehicle: PO67XUP. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   19:24-27 PLEASE CALL TRAUMA WARD ON 01295 229 196<NUL><NUL>
+POCSAG1200: Address: 1974485  Function: 0 
