@@ -1,3 +1,17 @@
+POCSAG1200: Address:  677581  Function: 2 
+POCSAG1200: Address:  677581  Function: 2 
+POCSAG1200: Address: 2036960  Function: 0  Alpha:   <LF>C{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF>CS+<DC3>S<ESC>;<ETX>Jt<FS><EOT><DC2>#3C+3+<VT><ETX><DC2>+<DC3><EOT><ESC><ETX>:<VT><ETX>:<DC4><CR>t<,<EOT><DC2>}<FF>$<EOT>r|<DC4>%Ed<STX>:|$d,L<ENQ>BL%,d<STX><SUB>]<FF>#<ETX><DC2><ESC>-<EOT>j<FF>f.<ACK><LF>CK<ENQ><SUB>-M<FS>L$<FF>d<EOT>:<DC4>%<EOT><SUB>K+;<DC3><VT><ETX><SUB>K#;<VT><ETX><ETX>
+POCSAG1200: Address: 1615075  Function: 0 
+POCSAG1200: Address:  269100  Function: 2  Alpha:   18:53-82 18/11/2021 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:52-15 4167<NUL>
+POCSAG1200: Address:  413096  Function: 2  Alpha:   18:52-61 01173421902
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   18:51-15 4556<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   18:51-68 4462<NUL>
+POCSAG2400: Address:   33704  Function: 2  Alpha:   18:51-55 18:51-54 ON-CALL REGIONAL MANAGER CALL SHARON BROSMAN ON 07896 275 127
+POCSAG1200: Address: 1534245  Function: 2  Alpha:   18:51-68 CONTACT CONTROL<NUL>
+POCSAG1200: Address: 2003028  Function: 1 
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   18:50-27 DISTRICT NURSE PLS CALL 07846 646 505 -  CARER FOR DAVID SMITH ON END OF LIFE CARE
 POCSAG2400: Address:   28905  Function: 0  Alpha:   18:49-47 4114<NUL>
 POCSAG1200: Address:  216553  Function: 2  Alpha:   18:51:32 S0|Z3xNyre call 14409<NUL>
 POCSAG1200: Address:  400572  Function: 1  Alpha:   Z<CAN>
@@ -984,17 +998,3 @@ POCSAG1200: Address:  598848  Function: 2
 POCSAG1200: Address: 1149061  Function: 3  Alpha:   h@N@<ACK><DC1>+%
 POCSAG1200: Address: 1245901  Function: 3 
 POCSAG1200: Address: 1502300  Function: 1 
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   15:31-34 4379<NUL>
-POCSAG1200: Address:  348761  Function: 2  Alpha:   NC
-POCSAG1200: Address:  265245  Function: 2  Alpha:   <DC2>C]DL
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:29-38 2327<NUL>
-POCSAG2400: Address: 2012789  Function: 1 
-POCSAG2400: Address: 1812084  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1528181121+++TIME=1528181121<NUL>
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   15:28-64 5201<NUL>
-POCSAG1200: Address:  296207  Function: 1 
-POCSAG1200: Address:  596006  Function: 2  Alpha:   ,m
-POCSAG1200: Address: 1881181  Function: 2 
-POCSAG1200: Address:  621797  Function: 3 
-POCSAG1200: Address:  629154  Function: 0 
-POCSAG1200: Address:   71977  Function: 1  Alpha:   D, HO

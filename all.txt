@@ -21685,3 +21685,17 @@ POCSAG1200: Address: 1314564  Function: 2
 POCSAG1200: Address:  400572  Function: 1  Alpha:   Z<CAN>
 POCSAG1200: Address:  216553  Function: 2  Alpha:   18:51:32 S0|Z3xNyre call 14409<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   18:49-47 4114<NUL>
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   18:50-27 DISTRICT NURSE PLS CALL 07846 646 505 -  CARER FOR DAVID SMITH ON END OF LIFE CARE
+POCSAG1200: Address: 2003028  Function: 1 
+POCSAG1200: Address: 1534245  Function: 2  Alpha:   18:51-68 CONTACT CONTROL<NUL>
+POCSAG2400: Address:   33704  Function: 2  Alpha:   18:51-55 18:51-54 ON-CALL REGIONAL MANAGER CALL SHARON BROSMAN ON 07896 275 127
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   18:51-68 4462<NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   18:51-15 4556<NUL>
+POCSAG1200: Address:  413096  Function: 2  Alpha:   18:52-61 01173421902
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:52-15 4167<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  269100  Function: 2  Alpha:   18:53-82 18/11/2021 
+POCSAG1200: Address: 1615075  Function: 0 
+POCSAG1200: Address: 2036960  Function: 0  Alpha:   <LF>C{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF>CS+<DC3>S<ESC>;<ETX>Jt<FS><EOT><DC2>#3C+3+<VT><ETX><DC2>+<DC3><EOT><ESC><ETX>:<VT><ETX>:<DC4><CR>t<,<EOT><DC2>}<FF>$<EOT>r|<DC4>%Ed<STX>:|$d,L<ENQ>BL%,d<STX><SUB>]<FF>#<ETX><DC2><ESC>-<EOT>j<FF>f.<ACK><LF>CK<ENQ><SUB>-M<FS>L$<FF>d<EOT>:<DC4>%<EOT><SUB>K+;<DC3><VT><ETX><SUB>K#;<VT><ETX><ETX>
+POCSAG1200: Address:  677581  Function: 2 
+POCSAG1200: Address:  677581  Function: 2 
