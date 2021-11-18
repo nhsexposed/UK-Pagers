@@ -1,3 +1,17 @@
+POCSAG1200: Address:  200957  Function: 2  Alpha:   20:49-69 21317 RE: REQUESTING HYPERTONIC SALINE <LF><NUL><NUL>
+POCSAG1200: Address: 1946880  Function: 2  Alpha:   <EOT>Y<CAN>H<LF><HT>$z<EM>HH<ENQ>$X(<CAN>iyHzi<HT>t<SUB>)*<SUB>H<HT>4<BS>i6F<ENQ>4<BS>i6<ACK>t6<SUB><BS>T<EM>L]<FF>t6<SYN><VT>d<FS>LM]l<CR>$<FS>l}\L<FF><EOT>]<FS>L<FF>t(J<BS>466<ACK>6<SYN><BEL>4<ACK>G6<ACK><SYN><ACK><NUL>
+POCSAG2400: Address: 1998964  Function: 2 
+POCSAG2400: Address:  284688  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   20:46-96 PLEASE CALL EX 1007
+POCSAG2400: Address:  216263  Function: 2  Alpha:   20:46-50 PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni, <CR><LF>PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni<CR><LF>Service: Website Check - Host IP - Diffe<NUL><NUL>
+POCSAG2400: Address: 2038984  Function: 2  Alpha:   CAL on host rbgcmslabc02oni<CR><LF>Service: Website
+POCSAG2400: Address:  220603  Function: 3  Alpha:   20:46-54 PR
+POCSAG2400: Address:  926240  Function: 0 
+POCSAG1200: Address: 1749752  Function: 0 
+POCSAG2400: Address:  736329  Function: 2  Alpha:   +K
+POCSAG2400: Address:  588736  Function: 0 
+POCSAG2400: Address: 1978739  Function: 0 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   20:43-28 4114<NUL>
 POCSAG1200: Address:  295507  Function: 0 
 POCSAG2400: Address: 1913980  Function: 2  Alpha:   20:41-30 5201<NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address:   39758  Function: 1
 POCSAG1200: Address:  245698  Function: 3  Alpha:   f<NUL>
 POCSAG2400: Address:   11796  Function: 0  Alpha:   16:56-54 Boiler lock out ALERT<NUL>
 POCSAG2400: Address:   11796  Function: 0  Alpha:   16:55-53 Boiler lock out ALERT<NUL>
-POCSAG2400: Address: 1485634  Function: 0 
-POCSAG2400: Address:   11796  Function: 0  Alpha:   16:55-52 Boiler lock out ALERT<NUL>
-POCSAG2400: Address:   11796  Function: 0  Alpha:   16:54-51 Boiler lock out ALERT<NUL>
-POCSAG2400: Address:   11796  Function: 0  Alpha:   16:54-50 Boiler lock out ALERT<NUL>
-POCSAG1200: Address:  108093  Function: 0  Alpha:   16:54-06 plse call x3633<NUL>
-POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:54-97 2798<NUL>
-POCSAG2400: Address:  370072  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653181121+++TIME=1653181121<NUL>
-POCSAG2400: Address: 2075377  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653181121+++TIME=1653181121<NUL>
-POCSAG512: Address:  114445  Function: 2  Alpha:   16:53-11 <NULL><NUL><NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:52-32 2304<NUL>
-POCSAG1200: Address:  549856  Function: 2  Alpha:   16:52-74 ~E11 STATION BEING CLEANED - E1101 OFF RUN FOR CLEANING<NUL>
-POCSAG1200: Address:  549855  Function: 2  Alpha:   16:52-45 ~E11 STATION BEING CLEANED - E1101 OFF RUN FOR CLEANING<NUL>
