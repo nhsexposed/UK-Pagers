@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   10:37-74 3181<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 2089812  Function: 0 
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:35-55 3266<NUL>
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   10:34-63 5531<NUL>
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   10:34-59 2150<NUL>
 POCSAG1200: Address:  752111  Function: 1  Alpha:   ';
 POCSAG1200: Address: 1254786  Function: 1  Alpha:   <DC1>Hss<NAK>hQ<DC4><DC1>hl<CR>,Mm<FF>hL<CR>m-l
 POCSAG2400: Address: 1913916  Function: 2  Alpha:   10:33-19 2304<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1092762  Function: 2  Alpha:   08:06-92 18/11/2021 08:04:56
 POCSAG1200: Address: 1572704  Function: 3  Alpha:   Rl<DLE>aL
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   08:06-91 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
 POCSAG1200: Address:  940544  Function: 2  Alpha:   08:05-48 8386<NUL>
-POCSAG2400: Address: 1032259  Function: 0 
-POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <FF>`L
-POCSAG1200: Address: 1744385  Function: 2  Alpha:   <DC1>#
-POCSAG1200: Address: 1816963  Function: 2  Alpha:   08:04-98 Destination: Parking\D78 Ext TP, Booking Ref#: 801482, Vehicle: GN66SYP. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
-POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-00 ** PROBLEM Service Alert: Maintenance server node 1/Check /mnt/miscreports_priv_yospace_net is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /mnt/miscreports_priv_yospace_net<CR><LF>Host: Maintenance se
-POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-75 ** PROBLEM Service Alert: Maintenance server node 1/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt001.priv.yospace.net
