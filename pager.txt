@@ -1,3 +1,33 @@
+POCSAG2400: Address:  818834  Function: 0 
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   09:04-67 2638<NUL>
+POCSAG1200: Address: 1032915  Function: 2  Alpha:   <SYN>$
+POCSAG2400: Address: 1913894  Function: 2  Alpha:   09:04-63 4277<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0903181121+++TIME=0903181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903181121+++TIME=0903181121<NUL>
+POCSAG1200: Address: 1534132  Function: 2  Alpha:   09:03-37 Please contact control to confirm your duty<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1815068  Function: 0  Alpha:   09:02-16 ADULT CARDIAC ARREST A6 WARD , 08.59AM.
+POCSAG1200: Address: 1321666  Function: 2  Alpha:   09:02-85 Destination: Parking\D78 Ext TP, Booking Ref#: 800994, Vehicle: yk68wgw. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 1321642  Function: 2  Alpha:   09:02-13 Destination: Parking\D78 Ext TP, Booking Ref#: P11115010, Vehicle: BD67BZH. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><NUL><NUL>
+POCSAG2400: Address:   33738  Function: 2  Alpha:   09:02-82 INC ALERT No: 16793295 Traumatic Injuries (Specific) - CYCLIST- FLYING OVER HANDLE BARS, AFTER HITTTING THE BREAKS HARD, AT: O/S ON CROSS ROADS, 6 KINGSGATE PENNSYLVANIA ROAD, EXETER, EX4 6DH, Time of Call: 18/11/2021 08:58:25, Co
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:02-63 4183<NUL>
+POCSAG2400: Address: 1324565  Function: 2  Alpha:   09:02-70 INC ALERT No: 16793295 Traumatic Injuries (Specific) - CYCLIST- FLYING OVER HANDLE BARS, AFTER HITTTING THE BREAKS HARD, AT: O/S ON CROSS ROADS, 6 KINGSGATE PENNSYLVANIA ROAD, EXETER, EX4 6DH, Time of Call: 18/11/2021 08:58:25, Co-ords: 50.<NUL><NUL>
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   09:02-00 18/11/2021 09:01:27 INC 24682986 12D02 5 WESTWOOD AVENUE, LITTLE HULTON MANCHESTER, M28 0HR Male 62Y MALE FITTING GRD 372256 403018
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  930489  Function: 2  Alpha:   09:01-73 18/11/2021 09:00:02 INC 24682980 06E01 4 SHAKESPEARE ROAD, RAINSOUGH MANCHESTER, M25 9GW Male 80Y DIZZINESS - SHORTNESS OF BREATH GRD 380867 403123<NUL>
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   09:01-37 5090<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:01-56 18/11/2021 09:00:02 INC 24682980 06E01 4 SHAKESPEARE ROAD, RAINSOUGH MANCHESTER, M25 9GW Male 80Y DIZZINESS - SHORTNESS OF BREATH GRD 380867 403123<NUL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   09:01-27 18/11/2021 09:00:02 INC 24682980 06E01 4 SHAKESPEARE ROAD, RAINSOUGH MANCHESTER, M25 9GW Male 80Y DIZZINESS - SHORTNESS OF BREATH GRD 380867 403123<NUL>
+POCSAG1200: Address: 1032197  Function: 3  Alpha:   bn
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   &b
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   <DC2>F
+POCSAG1200: Address:  678665  Function: 2  Alpha:   09:00-07 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1451424  Function: 3 
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   09:00-66 2446<NUL>
+POCSAG1200: Address: 1058476  Function: 2  Alpha:   09:00-78 18/11/2021 08:59:56 INC 24682979 DX01125 12 SILK STREET, GLOSSOP, SK13 8QQ Male 43 111 NWAS/Covid Positive 6days- Oxygen Levels Low GRD 404096 394170<NUL>
+POCSAG1200: Address: 1323803  Function: 2  Alpha:   09:00-48 RED: You are now director on-call. Please text 07885 202 225 to confirm that you have received this message.   Thank you END<NUL>
+POCSAG1200: Address: 1321709  Function: 2  Alpha:   08:59-19 Destination: Parking\D78 Ext TP, Booking Ref#: 801173, Vehicle: KX17RFK. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 1312601  Function: 2  Alpha:   08:59-66 PLEASE CONTACT SW107 - MATT OAKLEY - DEFECTIVE VEHICLE<NUL><NUL>
 POCSAG2400: Address: 2096120  Function: 3 
 POCSAG2400: Address:   28924  Function: 0  Alpha:   08:59-29 2183<NUL>
 POCSAG2400: Address: 1323200  Function: 2  Alpha:   08:58-08 Good morning, please join the cc. Lucy<NUL>
@@ -968,33 +998,3 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   06:26-25 18/11/2021 06:24:02
 POCSAG1200: Address:  334075  Function: 2  Alpha:   06:24-93 18/11/2021 06:19:48 INC 24682559 32D01 AT THE CORNER OF FREDERICK ST AND HIGHER MARKET STREET, HIGHER MARKET STREET, FARNWORTH BOLTON, BL4 8HQ Male UnknownY SEEN SOMEONE LAYING ON THE PAVEMENT GRD 374193 405524<NUL>
 POCSAG1200: Address: 1034512  Function: 1 
 POCSAG2400: Address: 1946008  Function: 1 
-POCSAG2400: Address: 1330703  Function: 2 
-POCSAG2400: Address: 1330702  Function: 2 
-POCSAG2400: Address: 1330701  Function: 2 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   20:24-78 2075<NUL>
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG2400: Address: 1896052  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2023171121+++TIME=2023171121<NUL>
-POCSAG1200: Address:  200957  Function: 2  Alpha:   20:22-37 PHAMRCY  ON CALL PLS  23238 URGENTLY
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   20:22-43 2182<NUL>
-POCSAG1200: Address:  269054  Function: 2  Alpha:   20:22-63 17/11/2021 20:18:11 INC 24680995 26D01 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 37Y NOT ATE FOR A WEEK GRD 372195 395222<NUL><NUL>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   20:22-95 17/11/2021 20:18:11 INC 24680995 26D01 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 37Y NOT ATE FOR A WEEK GRD 372195 395222<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1216775  Function: 2 
-POCSAG1200: Address: 1134685  Function: 3 
-POCSAG1200: Address:  993852  Function: 1 
-POCSAG1200: Address:  184611  Function: 0  Alpha:   . 
-POCSAG1200: Address:  657546  Function: 0  Alpha:   t<DC3>
-POCSAG1200: Address: 1444186  Function: 3 
-POCSAG1200: Address:   86677  Function: 3  Alpha:   @h$<ENQ>A<LF>CYKAl
-POCSAG1200: Address: 1181771  Function: 3  Alpha:   s<DC3><DC3><DC1><VT>
-POCSAG1200: Address:  630866  Function: 3  Alpha:   ,<GS>
-POCSAG1200: Address: 2043978  Function: 0 
-POCSAG1200: Address:  906480  Function: 3  Alpha:   R<FF>
-POCSAG1200: Address:  413079  Function: 2  Alpha:   20:20-31 (1/2)029616-17112021; F8.0.0.P FIRE - FIRE IN THE OPEN; NORTHUMBERLAND AVENUE,READING,RG2 7PX; 472209,171476; KIDS HAVE A FIRE ALIGHT IN TROLLEY;
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:19-83 RECOVERY: Generic Service with space - special char: SWAN - SQL Server Service is OK on host shakeylsql01mc1, <CR><LF>RECOVERY: Generic Service with space - special char: SWAN - SQL Server Service is OK on host shakeylsql01mc1<CR><LF>Service: Generic S<NUL><NUL>
-POCSAG1200: Address: 1246811  Function: 3 
-POCSAG1200: Address:  345543  Function: 1  Alpha:   O%hnks<NUL><NUL>p<LF>98E<FS>\"<SO>.<DC1><BEL>vx
-POCSAG1200: Address: 1255374  Function: 3  Alpha:   2<SYN>
-POCSAG1200: Address: 1006525  Function: 3  Alpha:   }N
