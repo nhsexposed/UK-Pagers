@@ -1,3 +1,29 @@
+POCSAG1200: Address: 2024496  Function: 0 
+POCSAG1200: Address:  950948  Function: 0 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   20:29-29 RECOVERY: Group Policy Client is OK on host rnyflelcit03mc1, <CR><LF>RECOVERY: Group Policy Client is OK on host rnyflelcit03mc1<CR><LF>Service: Group Policy Client<CR><LF>Host: rnyflelcit03mc1<CR><LF>Alias: Citrix 1912 LTSR Server<CR><LF>Address: 10.0.40.216<CR><LF>Host Grou<NUL><NUL>
+POCSAG2400: Address:  583556  Function: 2  Alpha:   20:28-73 80300
+POCSAG1200: Address: 2008804  Function: 0 
+POCSAG2400: Address:  584658  Function: 2  Alpha:   20:28-10 80300
+POCSAG2400: Address:   11694  Function: 0  Alpha:   20:27-15 FIRE CALL<NUL><NUL>
+POCSAG2400: Address: 1783368  Function: 2  Alpha:   01
+POCSAG2400: Address: 1767070  Function: 2 
+POCSAG2400: Address:  362462  Function: 3 
+POCSAG2400: Address: 1462645  Function: 0  Alpha:   6&
+POCSAG2400: Address:  629596  Function: 1  Alpha:   `b
+POCSAG2400: Address: 1246811  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1745718  Function: 0 
+POCSAG2400: Address:  681145  Function: 1 
+POCSAG2400: Address: 1107472  Function: 1 
+POCSAG1200: Address: 2078360  Function: 2 
+POCSAG2400: Address:  583537  Function: 2  Alpha:   20:24-67 80300
+POCSAG1200: Address:  469401  Function: 2  Alpha:   <CR>PXg 
+POCSAG1200: Address:  629552  Function: 1 
+POCSAG1200: Address: 1147175  Function: 0  Alpha:   g<DC2><DC4> W
+POCSAG1200: Address: 1790223  Function: 0 
+POCSAG1200: Address:  394270  Function: 0 
+POCSAG1200: Address: 1683685  Function: 1  Alpha:   <ACK>6
+POCSAG1200: Address: 2014833  Function: 3 
 POCSAG2400: Address:   28900  Function: 0  Alpha:   20:24-56 4769<NUL>
 POCSAG2400: Address: 1876208  Function: 0 
 POCSAG1200: Address: 1509880  Function: 2  Alpha:   20:23-80 18/11/2021 20:22:06 INC 24686041 30D03 6 THANET GROVE, LEIGH, WN7 1JL Male 84Y M - FOUND ON FLOOR GRD 366293 400371<NUL>
@@ -972,29 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3A<NUL><NUL>
 POCSAG2400: Address: 1768020  Function: 0 
 POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>#Q<FF>L
 POCSAG2400: Address: 1913681  Function: 2  Alpha:   16:40-19 4269<NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:   11699  Function: 0  Alpha:   16:39-36 FIRE CALL<NUL><NUL>
-POCSAG1200: Address:  911025  Function: 2 
-POCSAG1200: Address: 1896709  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1638181121+++TIME=1638181121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1638181121+++TIME=1638181121<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:38-69 5400<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:38-95 4873<NUL>
-POCSAG1200: Address:  164450  Function: 3 
-POCSAG1200: Address: 1477201  Function: 0  Alpha:   Y<CAN>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   Fj
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:37-58 18/11/2021 16:36:23 INC 24685060 06D02 POST OFFICE, 81-85 MEADOW STREET, PRESTON, PR1 1TS Male 73Y CANT BREATHE GRD 354359 429984<NUL><NUL>
-POCSAG2400: Address: 1913670  Function: 2  Alpha:   16:37-10 4268<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:37-32 3129<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:36-94 4179<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:36-68 4163<NUL>
-POCSAG2400: Address: 1913681  Function: 2  Alpha:   16:36-18 4269<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:35-10 18/11/2021 16:33:30 INC 24685045 29B03U JUST BEFORE JUNCTION 6, JUNCTION 5 TO 6 NORTHBOUND, M61, BL3 4SG Unknown UnknownY 5 VEHICLE RTC GRD 364646 408212
-POCSAG1200: Address: 2008957  Function: 0 
-POCSAG2400: Address: 1914019  Function: 2  Alpha:   16:35-88 4104<NUL>
-POCSAG1200: Address:   40100  Function: 2  Alpha:   16:35-39 18/11/2021 16:33:30 INC 24685045 JUST BEFORE JUNCTION 6, JUNCTION 5 TO 6 NORTHBOUND, M61, BL3 4SG Unknown UnknownY 5 VEHICLE RTC GRD 364646 408212<NUL><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:34-93 2343<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:34-12 3180<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:34-11 2351<NUL>
-POCSAG2400: Address: 1320373  Function: 2  Alpha:   16:34-52 3539<NUL>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   &b
