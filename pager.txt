@@ -1,3 +1,29 @@
+POCSAG2400: Address:   28897  Function: 0  Alpha:   14:19-87 2300<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1318076  Function: 2  Alpha:   14:18-40 6269<NUL>
+POCSAG1200: Address: 1562596  Function: 2  Alpha:   14:17-92 2201<NUL>
+POCSAG2400: Address: 1324611  Function: 2  Alpha:   14:16-52 TEST Message - please can you confirm message received via email to John/Sam please.<NUL>
+POCSAG2400: Address: 1324600  Function: 2  Alpha:   14:16-53 TEST Message - please can you confirm message received via email to John/Sam please.<NUL>
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   14:16-06 4312<NUL>
+POCSAG1200: Address:  212275  Function: 2  Alpha:   c$
+POCSAG1200: Address: 1511970  Function: 3  Alpha:   <ACK>q
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <NAK>.
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   14:16-96 18/11/2021 14:12:54 INC 24684381 06E01A 63 WINSTANLEY ROAD, MILES PLATTING MANCHESTER, M40 7WJ Male 28Y SHARP IN RIBS AND CANT BREATH GRD 385783 39944
+POCSAG2400: Address: 1914026  Function: 2  Alpha:   14:15-94 2018<NUL>
+POCSAG1200: Address:  212275  Function: 2  Alpha:   c$
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   14:15-98 Call or Calls waiting at Switchboard
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 1353009  Function: 2  Alpha:   pf@hdljbd<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:15-18 4283<NUL>
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   14:15-26 4283<NUL>
+POCSAG1200: Address:  740969  Function: 3 
+POCSAG1200: Address: 1115544  Function: 0 
+POCSAG1200: Address:  378152  Function: 0 
+POCSAG1200: Address:  339351  Function: 1  Alpha:   O%
+POCSAG1200: Address:  938071  Function: 0 
+POCSAG2400: Address:   26601  Function: 0 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:14-65 5400<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   14:14-19 3104<NUL>
 POCSAG2400: Address: 1008256  Function: 2  Alpha:   14:14-94 888000<NUL><NUL>
 POCSAG1200: Address: 1157257  Function: 3  Alpha:   %\
 POCSAG1200: Address: 1046513  Function: 1  Alpha:   t]
@@ -972,29 +998,3 @@ POCSAG2400: Address:  216272  Function: 2  Alpha:   10:t-
 POCSAG2400: Address: 1913951  Function: 2  Alpha:   10:45-29 4863<NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   10
 POCSAG2400: Address: 1532128  Function: 0 
-POCSAG2400: Address: 1913900  Function: 2  Alpha:   10:44-39 2111<NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   10:43-04 5013<NUL>
-POCSAG2400: Address: 1913702  Function: 2  Alpha:   10:43-57 3530<NUL>
-POCSAG1200: Address:  269456  Function: 3  Alpha:   ed
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   v 
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   10:41-44 50<DC1>5<DLE>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address: 2024181  Function: 1 
-POCSAG1200: Address: 2047232  Function: 2  Alpha:   KegA<DLE>_gaSiCYgS
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>C
-POCSAG1200: Address: 1749845  Function: 2 
-POCSAG1200: Address:  608289  Function: 1  Alpha:   frjr`n@frrbbn<NUL>
-POCSAG1200: Address: 1271496  Function: 3 
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   10:37-74 3181<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 2089812  Function: 0 
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:35-55 3266<NUL>
-POCSAG2400: Address: 1320362  Function: 2  Alpha:   10:34-63 5531<NUL>
-POCSAG2400: Address: 1320366  Function: 2  Alpha:   10:34-59 2150<NUL>
-POCSAG1200: Address:  752111  Function: 1  Alpha:   ';
-POCSAG1200: Address: 1254786  Function: 1  Alpha:   <DC1>Hss<NAK>hQ<DC4><DC1>hl<CR>,Mm<FF>hL<CR>m-l
-POCSAG2400: Address: 1913916  Function: 2  Alpha:   10:33-19 2304<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   10:33-73 3132<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   10:32-99 3181<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <ACK>)
