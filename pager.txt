@@ -1,3 +1,26 @@
+POCSAG1200: Address:   40074  Function: 2  Alpha:   07:14-04 18/11/2021 07:11:09 INC 24682660 17A01G CHEADLE POOLS & FITNESS CENTRE, SHIERS DRIVE, CHEADLE HULME CHEADLE, SK8 1JR Female 42Y F-FALL-CANT MOVE ARM GRD 386199 387827<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:13-89 18/11/2021 07:10:21 INC 24682655 01C03 85A MILTON ROAD, WIDNES WA8, WA8 7JR Female 59Y ABDO PAIN GRD 350935 385474<NUL><NUL>
+POCSAG1200: Address: 1067866  Function: 2  Alpha:   07:13-98 18/11/2021 07:10:21 INC 24682655 01C03 85A MILTON ROAD, WIDNES WA8, WA8 7JR Female 59Y ABDO PAIN GRD 350935 385474<NUL><NUL>
+POCSAG1200: Address: 1032926  Function: 3  Alpha:   <ACK>/
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713181121+++TIME=0713181121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0713181121+++TIME=0713181121<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:13-26 Thu Nov 18 07:13:10 UTC 2021 -- PROBLEM : core5-in2-RE1-status on core5-in2 is CRITICAL (SNMP TRAP CRITICAL - FRU has changed jnxFruOffline RE 1 reason : none)
+POCSAG1200: Address: 1321675  Function: 2  Alpha:   07:12-93 Destination: Parking\D78 Ext TP, Booking Ref#: 800711, Vehicle: kx17skd. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   07:12-24 INC ALERT No: 16793055 Cardiac Arrest -, AT: FLAT 5, 2 NORTON FARM ROAD, HENBURY BRISTOL, BS10 7ER, Time of Call: 18/11/2021 07:12:11, Co-ords: 51.5113893 -2.6330655
+POCSAG1200: Address:  108097  Function: 0  Alpha:   07:12-88 Plse call 3570<NUL><NUL>
+POCSAG1200: Address:  646620  Function: 2  Alpha:   07:12-58 PLEASE CALL THE DIALYSIS UNIT ON 0208 801 5334, SYSTEM IS NOT WORKING<NUL>
+POCSAG1200: Address: 1321708  Function: 2  Alpha:   07:11-53 Destination: Parking\D78 Ext TP, Booking Ref#: 800725, Vehicle: AV17UXK. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 1032878  Function: 3  Alpha:   DfT*f
+POCSAG1200: Address:  234377  Function: 2  Alpha:   07:10-78 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address:  987049  Function: 2  Alpha:   07:10-87 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   07:10-47 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   07:10-35 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address: 1512787  Function: 3  Alpha:   V 
+POCSAG2400: Address:  585266  Function: 2  Alpha:   07:10-61 PLEASE RING KIRSTY CHESTERFIELD TEL 01246 272 498. THE FOBS ARE NOT WORKING, ALARM IS GOING OFF. <NUL><NUL>
+POCSAG1200: Address:  695667  Function: 3  Alpha:   <SI>s
+POCSAG1200: Address:  190674  Function: 3 
+POCSAG1200: Address:  226961  Function: 1 
 POCSAG1200: Address: 1321717  Function: 2  Alpha:   07:09-88 Destination: D105 SSC In\123, Booking Ref#: 801182, Vehicle: PJ70AOB. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG1200: Address:  549236  Function: 2  Alpha:   07:08-84 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL:
 POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:08-59 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL:
@@ -975,26 +998,3 @@ POCSAG1200: Address:  920272  Function: 1
 POCSAG1200: Address: 1293047  Function: 3  Alpha:   O%(<VT><ETB>
 POCSAG1200: Address:  294334  Function: 0  Alpha:   _e
 POCSAG1200: Address: 1962758  Function: 2 
-POCSAG1200: Address: 1577596  Function: 1  Alpha:   |<FS>,N<FS>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   17:10-00 5204<NUL>
-POCSAG2400: Address:  583557  Function: 2  Alpha:   17:10-89 555<NUL><NUL>
-POCSAG2400: Address:  583934  Function: 2  Alpha:   17:11-48 555<NUL><NUL>
-POCSAG2400: Address:  549979  Function: 2  Alpha:   17:10-68 555<NUL><NUL>
-POCSAG2400: Address:  583513  Function: 2  Alpha:   17:10-65 555<NUL><NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   17:09-36 2642<NUL>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:   40091  Function: 2  Alpha:   17:09-04 17/11/2021 17:08:26
-POCSAG1200: Address:  334075  Function: 2  Alpha:   17:09-41 17/11/2021 17:08:26 INC 24680120 09E
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   17:09-69 17/11/2021 17:08:26 INC 24680120 09E01 40 EVERGREEN CLOSE, CHORLEY, PR7 3QB Female 75Y FOUND DECEASED GRD 358020 416272
-POCSAG1200: Address: 1147154  Function: 2  Alpha:   `@
-POCSAG1200: Address: 1683680  Function: 1 
-POCSAG1200: Address:  346010  Function: 0  Alpha:   17:09-86 17/11/2021 17:08:26 IN
-POCSAG2400: Address: 1913958  Function: 2  Alpha:   17:09-10 4908<NUL>
-POCSAG1200: Address:  487448  Function: 1 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   17:08-62 17/11/2021 17:07:07 INC 24680112 31D02 69 HAPTON ROAD, PADIHAM NR BURNLEY, BB12 7BD Male 36Y UNCONSCIOUS GRD 379445 433362
-POCSAG1200: Address: 1484918  Function: 3  Alpha:   eb<SOH>`L
-POCSAG2400: Address: 1104098  Function: 0 
-POCSAG2400: Address: 1553151  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1708171121+++TIME=1708171121<NUL>
-POCSAG2400: Address: 1320204  Function: 2  Alpha:   17:08-47 2075<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1708171121+++TIME=1708171121<NUL>

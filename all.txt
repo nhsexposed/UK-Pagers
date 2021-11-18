@@ -17979,3 +17979,26 @@ POCSAG1200: Address: 1241288  Function: 0  Alpha:   <ETB>k
 POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:08-59 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL:
 POCSAG1200: Address:  549236  Function: 2  Alpha:   07:08-84 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL:
 POCSAG1200: Address: 1321717  Function: 2  Alpha:   07:09-88 Destination: D105 SSC In\123, Booking Ref#: 801182, Vehicle: PJ70AOB. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  226961  Function: 1 
+POCSAG1200: Address:  190674  Function: 3 
+POCSAG1200: Address:  695667  Function: 3  Alpha:   <SI>s
+POCSAG2400: Address:  585266  Function: 2  Alpha:   07:10-61 PLEASE RING KIRSTY CHESTERFIELD TEL 01246 272 498. THE FOBS ARE NOT WORKING, ALARM IS GOING OFF. <NUL><NUL>
+POCSAG1200: Address: 1512787  Function: 3  Alpha:   V 
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   07:10-35 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   07:10-47 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address:  987049  Function: 2  Alpha:   07:10-87 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address:  234377  Function: 2  Alpha:   07:10-78 18/11/2021 07:09:34 INC 24682653 06E01 75 WESTMORLAND AVENUE, BLACKPOOL, FY1 5PG Male 75Y DIB GRD 331481 43528
+POCSAG1200: Address: 1032878  Function: 3  Alpha:   DfT*f
+POCSAG1200: Address: 1321708  Function: 2  Alpha:   07:11-53 Destination: Parking\D78 Ext TP, Booking Ref#: 800725, Vehicle: AV17UXK. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address:  646620  Function: 2  Alpha:   07:12-58 PLEASE CALL THE DIALYSIS UNIT ON 0208 801 5334, SYSTEM IS NOT WORKING<NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   07:12-88 Plse call 3570<NUL><NUL>
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   07:12-24 INC ALERT No: 16793055 Cardiac Arrest -, AT: FLAT 5, 2 NORTON FARM ROAD, HENBURY BRISTOL, BS10 7ER, Time of Call: 18/11/2021 07:12:11, Co-ords: 51.5113893 -2.6330655
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1321675  Function: 2  Alpha:   07:12-93 Destination: Parking\D78 Ext TP, Booking Ref#: 800711, Vehicle: kx17skd. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   07:13-26 Thu Nov 18 07:13:10 UTC 2021 -- PROBLEM : core5-in2-RE1-status on core5-in2 is CRITICAL (SNMP TRAP CRITICAL - FRU has changed jnxFruOffline RE 1 reason : none)
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0713181121+++TIME=0713181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713181121+++TIME=0713181121<NUL>
+POCSAG1200: Address: 1032926  Function: 3  Alpha:   <ACK>/
+POCSAG1200: Address: 1067866  Function: 2  Alpha:   07:13-98 18/11/2021 07:10:21 INC 24682655 01C03 85A MILTON ROAD, WIDNES WA8, WA8 7JR Female 59Y ABDO PAIN GRD 350935 385474<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:13-89 18/11/2021 07:10:21 INC 24682655 01C03 85A MILTON ROAD, WIDNES WA8, WA8 7JR Female 59Y ABDO PAIN GRD 350935 385474<NUL><NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   07:14-04 18/11/2021 07:11:09 INC 24682660 17A01G CHEADLE POOLS & FITNESS CENTRE, SHIERS DRIVE, CHEADLE HULME CHEADLE, SK8 1JR Female 42Y F-FALL-CANT MOVE ARM GRD 386199 387827<NUL><NUL>
