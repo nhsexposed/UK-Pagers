@@ -1,3 +1,12 @@
+POCSAG2400: Address:  584009  Function: 2  Alpha:   23:49-97 5082<NUL>
+POCSAG1200: Address: 1975269  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2348181121+++TIME=2348181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2348181121+++TIME=2348181121<NUL>
+POCSAG1200: Address: 2094240  Function: 3  Alpha:   EEII<SOH>QMIeAQ
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:45-27 3116<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:45-41 4156<NUL>
+POCSAG1200: Address: 1188528  Function: 2 
+POCSAG1200: Address: 2075383  Function: 1  Alpha:   <DEL><DEL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2343181121+++TIME=2343181121<NUL>
 POCSAG1200: Address: 1516609  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1716781  Function: 0
 POCSAG2400: Address:   28896  Function: 0  Alpha:   18:48-14 2183<NUL>
 POCSAG1200: Address: 2073317  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3R<DLE>a
-POCSAG1200: Address: 1022860  Function: 2  Alpha:   18:46-42 49
-POCSAG1200: Address: 1841872  Function: 3 
-POCSAG1200: Address: 1312612  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   18:46-66 4660<NUL>
-POCSAG1200: Address:  216545  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
-POCSAG1200: Address:  216544  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
-POCSAG1200: Address:  216543  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
-POCSAG1200: Address:  216542  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
-POCSAG1200: Address:  216541  Function: 2  Alpha:   18:48:29 S04P2 Fire call 14409<NUL>
