@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   08:54-63 5066<NUL>
+POCSAG2400: Address: 1323494  Function: 2  Alpha:   08:54-87 01224833999
+POCSAG1200: Address: 1259964  Function: 2  Alpha:   08:54-94 6532, <CR><LF>: 18/11/2021 08:53:58<CR><LF>: Urgent/Trapping/Breakdown - Richard Keen <CR><LF><CR><LF>07815662240<CR><LF><CR><LF>Issue with the back lift, it's stuck on the top floor - He's opened the doors and the lift floor is higher and misaligned - <CR><LF><CR><LF>Little Fair Care Ho<NUL><NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   08:54-62 4193<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853181121+++TIME=0853181121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0853181121+++TIME=0853181121<NUL>
+POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913783  Function: 2  Alpha:   08:52-04 5201<NUL>
+POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
+POCSAG2400: Address: 1022478  Function: 0  Alpha:   08:52-61 888 - Sellafield Pager Test<NUL>
+POCSAG1200: Address:  871631  Function: 3 
+POCSAG1200: Address: 1348958  Function: 2 
+POCSAG1200: Address: 1121950  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   08:51-78 2307<NUL>
+POCSAG1200: Address:  225626  Function: 2  Alpha:   08:51-22 01513504771
+POCSAG1200: Address:   40074  Function: 2  Alpha:   08:50-14 18/11/2021 08:47:51 INC 24682945 26O01 7 MILLOM COURT, CARTMEL DRIVE, TIMPERLEY ALTRINCHAM, WA15 7ES Female 56Y ON FLOOR UNK HOW GOT THERE GRD 379685 388775
+POCSAG2400: Address:   28869  Function: 0  Alpha:   08:50-95 PLS CALL A & E DOCTOR WATTS 26009
+POCSAG2400: Address: 1880699  Function: 1 
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <NAK>&
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   08:49-77 4316<NUL>
 POCSAG2400: Address:   28868  Function: 0  Alpha:   08:49-30 PLS CALL A & E 35143 <NUL>
 POCSAG1200: Address: 1817112  Function: 2  Alpha:   08:49-12 Destination: Parking\D78 Ext TP, Booking Ref#: 801307, Vehicle: KY68GXB. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
 POCSAG1200: Address: 1067985  Function: 2  Alpha:   08:48-73 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: fl63dgv. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   20:06-20 4312<NUL>
 POCSAG1200: Address: 1770127  Function: 3  Alpha:   O%
 POCSAG1200: Address:  433311  Function: 1 
 POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address: 1246812  Function: 3 
-POCSAG1200: Address: 1867482  Function: 2  Alpha:   <LF><VT>[<DC2><VT><VT><VT><ETX>
-POCSAG1200: Address: 1745460  Function: 2 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   20:05
-POCSAG1200: Address: 1455116  Function: 1 
-POCSAG1200: Address:  288307  Function: 2 
-POCSAG1200: Address: 1477907  Function: 0 
-POCSAG1200: Address:  676522  Function: 1 
-POCSAG1200: Address: 1584490  Function: 0 
-POCSAG1200: Address: 1465143  Function: 1  Alpha:   $Edg<DC2><DC4>>^2<STX>I><ACK><DC2>0<SOH>]
-POCSAG1200: Address:  824613  Function: 0  Alpha:   , 126
-POCSAG1200: Address: 1165837  Function: 0 
-POCSAG1200: Address:  267860  Function: 1  Alpha:   z)
-POCSAG1200: Address:  328873  Function: 0 
-POCSAG1200: Address:  761008  Function: 0  Alpha:   $,
-POCSAG1200: Address: 1562573  Function: 2  Alpha:   20:04-52 888000<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2003171121+++TIME=2003171121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003171121+++TIME=2003171121<NUL>
-POCSAG1200: Address: 1746548  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  971640  Function: 3 
-POCSAG1200: Address: 1978495  Function: 1 
