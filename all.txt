@@ -19390,3 +19390,17 @@ POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:35-55 3266<NUL>
 POCSAG2400: Address: 2089812  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1913537  Function: 2  Alpha:   10:37-74 3181<NUL>
+POCSAG1200: Address: 1271496  Function: 3 
+POCSAG1200: Address:  608289  Function: 1  Alpha:   frjr`n@frrbbn<NUL>
+POCSAG1200: Address: 1749845  Function: 2 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>C
+POCSAG1200: Address: 2047232  Function: 2  Alpha:   KegA<DLE>_gaSiCYgS
+POCSAG1200: Address: 2024181  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   10:41-44 50<DC1>5<DLE>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   v 
+POCSAG1200: Address:  269456  Function: 3  Alpha:   ed
+POCSAG2400: Address: 1913702  Function: 2  Alpha:   10:43-57 3530<NUL>
+POCSAG2400: Address:  149113  Function: 2  Alpha:   10:43-04 5013<NUL>
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   10:44-39 2111<NUL>
