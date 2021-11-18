@@ -1,3 +1,33 @@
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   19:58-42 2616<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1958181121+++TIME=1958181121<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:58-26 PROBLEM: Group Policy Client is CRITICAL on host rnyflelweb01mc1, <CR><LF>PROBLEM: Group Policy Client is CRITICAL on host rnyflelweb01mc1<CR><LF>Service: Group Policy Client<CR><LF>Host: rnyflelweb01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.68.216<CR><LF>Host Group Hierarchy: <NUL><NUL>
+POCSAG1200: Address:  858419  Function: 2 
+POCSAG1200: Address: 1718177  Function: 0  Alpha:   eUaEa
+POCSAG1200: Address:  353497  Function: 1 
+POCSAG1200: Address:  546088  Function: 3  Alpha:   UU
+POCSAG1200: Address: 1206486  Function: 3 
+POCSAG1200: Address: 1410909  Function: 0  Alpha:   p*
+POCSAG2400: Address:  216251  Function: 2  Alpha:   19:57-30 PROBLEM: Group Policy Client is CRITICAL on host rnyflelcit03mc1, <CR><LF>PROBLEM: Group Policy Client is CRITICAL on host rnyflelcit03mc1<CR><LF>Service: Group Policy Client<CR><LF>Host: rnyflelcit03mc1<CR><LF>Alias: Citrix 1912 LTSR Server<CR><LF>Address: 10.0.40.216<CR><NUL><NUL>
+POCSAG1200: Address:  629317  Function: 2 
+POCSAG1200: Address:  280204  Function: 0 
+POCSAG1200: Address:  626084  Function: 1 
+POCSAG1200: Address:   78242  Function: 3  Alpha:   male 68Y
+POCSAG1200: Address:  397969  Function: 3 
+POCSAG1200: Address:  874513  Function: 2 
+POCSAG1200: Address: 1718607  Function: 0  Alpha:   O%(<VT>%I@<SUB>
+POCSAG1200: Address:   88454  Function: 0  Alpha:   NC
+POCSAG1200: Address:  117334  Function: 3 
+POCSAG1200: Address:  938684  Function: 3 
+POCSAG1200: Address: 1651210  Function: 1 
+POCSAG1200: Address: 2071138  Function: 0 
+POCSAG2400: Address:   28906  Function: 0  Alpha:   19:57-26 3105<NUL>
+POCSAG1200: Address: 2075244  Function: 0 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   19:56-81 18
+POCSAG1200: Address:  108097  Function: 0  Alpha:   19:55-95 PLEASE CALL EX 0660
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG2400: Address: 1324616  Function: 2  Alpha:   19:]4-71 PLS CALL ADAM KEETLEY. 07970 898 492 <NUL><NUL>
+POCSAG2400: Address: 2000628  Function: 1 
+POCSAG2400: Address: 1324610  Function: 2  Alpha:   19:54-81 <DC2>]S CALL ADAM KEETLEY. 07970 898 492 <NUL><NUL>
 POCSAG1200: Address: 1620223  Function: 1 
 POCSAG1200: Address:  585538  Function: 2  Alpha:   19:53-29 6906<NUL>
 POCSAG2400: Address:   28893  Function: 0  Alpha:   19:53-85 4201<NUL>
@@ -968,33 +998,3 @@ POCSAG1200: Address:  549770  Function: 2  Alpha:   16:19-25 ATTEND:<LF>RTA<LF>3
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   16:18-38 4187<NUL>
 POCSAG1200: Address: 1482136  Function: 0 
 POCSAG1200: Address: 1158069  Function: 3  Alpha:   fj
-POCSAG1200: Address: 1162074  Function: 0  Alpha:   br
-POCSAG2400: Address: 1913964  Function: 2  Alpha:   16:17-06 5072<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  428496  Function: 2  Alpha:   16:16-70 33813
-POCSAG1200: Address:  926242  Function: 0 
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   16:15-90 5400<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:14-30 4156<NUL>
-POCSAG2400: Address: 1913763  Function: 2  Alpha:   16:13-29 5072<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1613181121+++TIME=1613181121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1613181121+++TIME=1613181121<NUL>
-POCSAG2400: Address: 1913957  Function: 2  Alpha:   16:13-44 5201<NUL>|<DEL><DEL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:13-10 2183<NUL>
-POCSAG2400: Address: 1913813  Function: 2  Alpha:   16:12-28 2233<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320383  Function: 2  Alpha:   16:12-39 4114<NUL>
-POCSAG2400: Address: 1913700  Function: 2  Alpha:   16:12-91 4316<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320348  Function: 2  Alpha:   16:12-90 3157<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:11-10 2351<NUL>
-POCSAG2400: Address: 1913841  Function: 2  Alpha:   16:11-35 2233<NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   Bb
-POCSAG1200: Address:  325898  Function: 3  Alpha:   <ACK>b
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   (<ACK>
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   Uj
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:10-09 3129<NUL>
-POCSAG2400: Address: 1913994  Function: 2  Alpha:   16:09-87 5080<NUL>
-POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:09-96 2427<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:08-92 3414<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1608181121+++TIME=1608181121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1608181121+++TIME=1608181121<NUL>
