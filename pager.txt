@@ -1,3 +1,30 @@
+POCSAG1200: Address:   83052  Function: 2  Alpha:   18:03-06 BLEEP TEST 3338<NUL>
+POCSAG1200: Address:  696953  Function: 2  Alpha:   18:03-69 BLEEP TEST 3338<NUL>
+POCSAG1200: Address:  695144  Function: 2  Alpha:   18:03-00 BLEEP TEST 3338<NUL>
+POCSAG1200: Address:  432473  Function: 2  Alpha:   18:03-29 BLEEP TEST 3338<NUL>
+POCSAG1200: Address:  269024  Function: 2  Alpha:   18:03-79 BLEEP TEST 3338<NUL>
+POCSAG1200: Address: 1781946  Function: 2  Alpha:   18
+POCSAG1200: Address: 1322003  Function: 2  Alpha:   18:03-19 BLEEP TEST 3338<NUL>
+POCSAG1200: Address: 1500190  Function: 2  Alpha:   18:03-94 BLEEP TEST 3338<NUL>
+POCSAG1200: Address: 2025083  Function: 0 
+POCSAG1200: Address:  696608  Function: 2  Alpha:   18:03-96 BLEEP TEST 3338<NUL>
+POCSAG1200: Address: 1589286  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803181121+++TIME=1803181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803181121+++TIME=1803181121<NUL>
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   18:02-79 please  call extn 3766
+POCSAG2400: Address: 1044842  Function: 2  Alpha:   18:02-34 4443<NUL>
+POCSAG1200: Address:  958549  Function: 0 
+POCSAG1200: Address:  534577  Function: 1  Alpha:   <EOT>__igA<NUL><NUL>
+POCSAG1200: Address: 1932752  Function: 3  Alpha:   oo
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:02-41 18/11/2021 18:00:59 INC 24685424 09D01 ON CORNER, SYMONS STREET, SALFORD Male UnknownY ON FLOOR NOT MOVING GRD 383338 401194<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:02-74 18/11/2021 18:01:03 INC 24685426 06E01 1 CHIPPENHAM AVENUE, OF
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1814968  Function: 0  Alpha:   18:01-25 RING 43156<NUL>
+POCSAG2400: Address: 2021937  Function: 1 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   18:00-16 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   18:00-70 4179<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <ACK>H
+POCSAG2400: Address: 1246002  Function: 3 
 POCSAG1200: Address:  959328  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1758181121+++TIME=1758181121<NUL>
 POCSAG2400: Address: 1022280  Function: 0  Alpha:   17:57-08 NHSBT - DONOR REFERRAL. Please call SISTER on Direct Dial Number 0208 725 1504 Hospital ST GEORGES HOSP Dept CARDIOTHORACIC ITU . Regards Donor Referral Line<NUL><NUL>
@@ -971,30 +998,3 @@ POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
 POCSAG2400: Address:   28926  Function: 0  Alpha:   14:35-07 5128<NUL>
 POCSAG2400: Address: 1913759  Function: 2  Alpha:   14:35-65 5066<NUL>
 POCSAG2400: Address: 1913761  Function: 2  Alpha:   14:35-34 3164<NUL>
-POCSAG1200: Address: 2075376  Function: 1 
-POCSAG2400: Address:  433538  Function: 2  Alpha:   14:35-90 2463<NUL>
-POCSAG1200: Address:   91801  Function: 3 
-POCSAG1200: Address: 1453208  Function: 2 
-POCSAG1200: Address:  874800  Function: 3 
-POCSAG1200: Address: 1345583  Function: 2  Alpha:   g<DC2>
-POCSAG1200: Address: 1717326  Function: 3  Alpha:   <STX><GS>
-POCSAG1200: Address:  535712  Function: 3 
-POCSAG1200: Address:  412693  Function: 1  Alpha:   <CAN>;
-POCSAG1200: Address:  112658  Function: 2  Alpha:   LQ
-POCSAG1200: Address:  852687  Function: 3  Alpha:   g<DC2><DC4>*<DLE>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:34-81 18/11/2021 14:32:08 INC 24684464 26O01 10 PENHURST 50
-POCSAG1200: Address: 1478228  Function: 1 
-POCSAG2400: Address:   28902  Function: 0  Alpha:   14:33-92 2445<NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
-POCSAG2400: Address: 1913961  Function: 2  Alpha:   14:32-01 2447<NUL>
-POCSAG1200: Address:  265302  Function: 3  Alpha:   U2
-POCSAG1200: Address: 1777786  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  962290  Function: 0 
-POCSAG2400: Address:   28895  Function: 0  Alpha:   14:31-08 5128<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   14:30-04 4906<NUL>
-POCSAG2400: Address: 1913756  Function: 2  Alpha:   14:28-90 2616<NUL>
-POCSAG1200: Address:  963126  Function: 1 
-POCSAG1200: Address:  293234  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1428181121+++TIME=1428181121<NUL>
-POCSAG1200: Address: 1259921  Function: 3  Alpha:   <ENQ>'<ACK>`L
