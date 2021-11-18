@@ -1,3 +1,14 @@
+POCSAG1200: Address: 1352656  Function: 2 
+POCSAG1200: Address: 1318076  Function: 2  Alpha:   10:19-38 7<NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   10:17-56 18/11/2021 10:15
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:17-70 4188<NUL>
+POCSAG1200: Address: 1289851  Function: 3  Alpha:   3 06E01 16 MOUNTBATTEN COURT, CREWE CW2, CW2 7ST Male 69Y MALE DIB GRD 369412 355418<NUL>
+POCSAG1200: Address: 1813345  Function: 1 
+POCSAG2400: Address: 1913643  Function: 2  Alpha:   10:16-56 5201<NUL>
+POCSAG2400: Address: 1323880  Function: 2  Alpha:   10:16-26 2857<NUL>
+POCSAG2400: Address: 1913929  Function: 2  Alpha:   10:15-87 4387<NUL>
+POCSAG1200: Address:  959082  Function: 1 
+POCSAG1200: Address: 2025459  Function: 1 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   10:13-31 4160<NUL>
 POCSAG2400: Address: 1913970  Function: 2  Alpha:   10:13-10 4262<NUL>
 POCSAG2400: Address: 1913712  Function: 2  Alpha:   10:13-07 4269<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1817164  Function: 2  Alpha:   08:00-62 Destination: Parkin
 POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:00-66 ** PROBLEM Service Alert: Demo server node 2/Check /home is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /home<CR><LF>Host: Demo server node 2<CR><LF>Address: pdcmzmsc002.priv.yospace.net<CR><LF>State: CRITICAL<CR><LF><CR>
 POCSAG1200: Address:  549740  Function: 2  Alpha:   08:00-44 ** PROBLEM Service Alert: Demo server node 2/Check /home is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /home<CR><LF>Host: Demo server node 2<CR><LF>Address: pdcmzmsc002.priv.yospace.net<CR><LF>State: CRITICAL<CR><LF><CR>
 POCSAG2400: Address: 1814971  Function: 0  Alpha:   08:00-17 STROKE EMERGENCY, A E RESUS ETA 10 MINS AT 07:58 AM
-POCSAG1200: Address:  678665  Function: 2  Alpha:   08:00-06 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address:  150086  Function: 0  Alpha:   07:59-45 3510<NUL>
-POCSAG1200: Address:  106110  Function: 2  Alpha:   07:59-81 18/11/2021 07:58:01 INC 24682781 17A04G 21 MARLES COURT, BURNLEY, BB10 3DT Female 58Y FEM - DISABLED - FALLEN GRD 384543 433740<NUL>
-POCSAG2400: Address: 1207792  Function: 2 
-POCSAG2400: Address: 1582744  Function: 2 
-POCSAG2400: Address: 1324544  Function: 2  Alpha:   07:59-04 INC ALERT No: 16793146 Falls - CALLER CARELINE - 96Y FEMALE FALLEN - DEAF, AT: ST AUDRIES COURT - FLAT 25, ST AUDRIES COURT, WATCHET, TA23 0BS, Time of Call: 18/11/2021 07:57:52, Co-ords: 51.1804187 -3.3328505<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0758181121+++TIME=0758181121<NUL>
-POCSAG2400: Address:   28869  Function: 0  Alpha:   07:58-94 PLEASE CALL 26017<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0758181121+++TIME=0758181121<NUL>
-POCSAG1200: Address:  267189  Function: 0  Alpha:   07:58-58 MATTHEW PLS CALL SHEENA FLOWER  07779 182 115
-POCSAG1200: Address: 1322156  Function: 2  Alpha:   07:58-38 MARIA  MELGACO TEL 07469 886 369 
