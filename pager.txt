@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF><HT>Cpb1f
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:36-43 4660<NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   20:36-98 18/11/2021 20:33
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   20:36-74 18/11/2021 20:33:15 INC 24686097 JUST BEFORE JUNCT, JUNCTION 12 EXIT EASTBOUND TO M602 EASTBOUND, M62, M41 7FN Unknown UnknownY RTC - VAN VS CAR GRD 375244 399140
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   20:35-97 18/11/2021 20:35:01 INC 24686107 JUNCTION 15 TO 14 ANTI-CLOCKWISE, M60, M28 3NL Unknown UnknownY RTC GRD 375587 402001<NUL>
+POCSAG1200: Address:  475048  Function: 2 
+POCSAG1200: Address:  249285  Function: 0  Alpha:   MeQ]ae<SOH><NUL>
 POCSAG2400: Address:   28895  Function: 0  Alpha:   20:34-11 4157<NUL>
 POCSAG1200: Address: 1246810  Function: 3 
 POCSAG1200: Address: 1494023  Function: 1  Alpha:   WHCg<DC2>t<NAK>rp<LF>98E<FS>\"<SO> M<FS>
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1913963  Function: 2  Alpha:   16:47-29 2233<NUL>
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   16:48-68 2798<NUL>
 POCSAG1200: Address:  593552  Function: 2 
 POCSAG1200: Address: 1448960  Function: 2 
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:47-33 64991
-POCSAG1200: Address:  346010  Function: 0  Alpha:   <CAN><ESC>
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   16:47-36 64991
-POCSAG1200: Address: 1512700  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  268980  Function: 2  Alpha:   16:47-51 TEST<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:44-54 5201<NUL>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:44-32 64991
