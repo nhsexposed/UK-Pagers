@@ -1,3 +1,23 @@
+POCSAG2400: Address:   11699  Function: 0  Alpha:   16:39-36 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  911025  Function: 2 
+POCSAG1200: Address: 1896709  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1638181121+++TIME=1638181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1638181121+++TIME=1638181121<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:38-69 5400<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:38-95 4873<NUL>
+POCSAG1200: Address:  164450  Function: 3 
+POCSAG1200: Address: 1477201  Function: 0  Alpha:   Y<CAN>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   Fj
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:37-58 18/11/2021 16:36:23 INC 24685060 06D02 POST OFFICE, 81-85 MEADOW STREET, PRESTON, PR1 1TS Male 73Y CANT BREATHE GRD 354359 429984<NUL><NUL>
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   16:37-10 4268<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:37-32 3129<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:36-94 4179<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:36-68 4163<NUL>
+POCSAG2400: Address: 1913681  Function: 2  Alpha:   16:36-18 4269<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:35-10 18/11/2021 16:33:30 INC 24685045 29B03U JUST BEFORE JUNCTION 6, JUNCTION 5 TO 6 NORTHBOUND, M61, BL3 4SG Unknown UnknownY 5 VEHICLE RTC GRD 364646 408212
+POCSAG1200: Address: 2008957  Function: 0 
+POCSAG2400: Address: 1914019  Function: 2  Alpha:   16:35-88 4104<NUL>
+POCSAG1200: Address:   40100  Function: 2  Alpha:   16:35-39 18/11/2021 16:33:30 INC 24685045 JUST BEFORE JUNCTION 6, JUNCTION 5 TO 6 NORTHBOUND, M61, BL3 4SG Unknown UnknownY 5 VEHICLE RTC GRD 364646 408212<NUL><NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   16:34-93 2343<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   16:34-12 3180<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   16:34-11 2351<NUL>
@@ -978,23 +998,3 @@ POCSAG1200: Address: 1032664  Function: 2  Alpha:   h(
 POCSAG2400: Address:   28924  Function: 0  Alpha:   12:40-31 2188<NUL>
 POCSAG2400: Address: 1585736  Function: 3 
 POCSAG2400: Address: 1913696  Function: 2  Alpha:   12:39-55 4194<NUL>
-POCSAG2400: Address: 1129280  Function: 1 
-POCSAG2400: Address: 1913643  Function: 2  Alpha:   12:38-57 2300<NUL>
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2><ETX>
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   12:38-96 18/11/2021 12:36:45 INC 24683915 31D04 GOLDEN DAYS,<SOH>WACK LAN}l!SHEVINGTON VALE WIGAN, WN6 8RS Male 86Y FAINTED GRD 353781 410282
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>dXcL
-POCSAG2400: Address: 1259326  Function: 2  Alpha:   12:38-12 3268<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   12:38-48 33891
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:37-11 4114<NUL>
-POCSAG2400: Address: 1762368  Function: 0 
-POCSAG2400: Address:   28907  Function: 0  Alpha:   12:37-83 5201<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1913673  Function: 2  Alpha:   12:36-95 4140<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   12:35-96 PLEASE CALL DR CHINEVU 07506 859188<NUL>
-POCSAG2400: Address: 1913861  Function: 2  Alpha:   12:35-73 3117<NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:  433538  Function: 2  Alpha:   12:35-89 6601<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   12:35-22 18/11/2021 12
-POCSAG1200: Address:  988352  Function: 3 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <SYN>0
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>H<SO>A
