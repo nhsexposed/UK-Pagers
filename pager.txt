@@ -1,3 +1,20 @@
+POCSAG1200: Address:  752111  Function: 1  Alpha:   ';
+POCSAG1200: Address: 1254786  Function: 1  Alpha:   <DC1>Hss<NAK>hQ<DC4><DC1>hl<CR>,Mm<FF>hL<CR>m-l
+POCSAG2400: Address: 1913916  Function: 2  Alpha:   10:33-19 2304<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   10:33-73 3132<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:32-99 3181<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <ACK>)
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 <DEL>ife 12345678901234567890
+POCSAG1200: Address: 1001124  Function: 2  Alpha:   10:32-25 CARDIAC ARREST CATH LAB 9- SBH
+POCSAG1200: Address: 1882656  Function: 0 
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   10:32-46 4034<NUL>
+POCSAG1200: Address: 1001127  Function: 2  Alpha:   10:32-76 CARDIAC ARREST CATH LAB 9- SBH
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1606193  Function: 0 
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:31-35 SBELL
+POCSAG2400: Address: 1499986  Function: 2 
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:30-33 SBELL
 POCSAG1200: Address: 1512730  Function: 3  Alpha:   U*
 POCSAG2400: Address: 1913978  Function: 2  Alpha:   10:28-73 2751<NUL>
 POCSAG1200: Address:  619026  Function: 2  Alpha:   VD
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1744385  Function: 2  Alpha:   <DC1>#
 POCSAG1200: Address: 1816963  Function: 2  Alpha:   08:04-98 Destination: Parking\D78 Ext TP, Booking Ref#: 801482, Vehicle: GN66SYP. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
 POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-00 ** PROBLEM Service Alert: Maintenance server node 1/Check /mnt/miscreports_priv_yospace_net is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /mnt/miscreports_priv_yospace_net<CR><LF>Host: Maintenance se
 POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-75 ** PROBLEM Service Alert: Maintenance server node 1/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt001.priv.yospace.net
-POCSAG1200: Address:  549740  Function: 2  Alpha:   08:04-53 ** PROBLEM Service Alert: Maintenance server node 1/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt001.priv.yospace.net
-POCSAG1200: Address: 1925701  Function: 2  Alpha:   08:04-76 8386<NUL>
-POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-97 ** PROBLEM Service Alert: Maintenance server node 2/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 2<CR><LF>Address: pdcpzmnt002.priv.yospace.net
-POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-96 ** PROBLEM Service Alert: Maintenance server node 1/Check ATT Stream Status is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check ATT Stream Status<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt00
-POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-72 ** PROBLEM Service Alert: Maintenance server node 2/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 2<CR><LF>Address: pdcpzmnt002.priv.yospace.net
-POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-71 ** PROBLEM Service Alert: Maintenance server node 1/Check ATT Stream Status is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check ATT Stream Status<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt00
-POCSAG1200: Address:  549740  Function: 2  Alpha:   08:04-49 ** PROBLEM Service Alert: Maintenance server node 2/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /oxp/cds<CR><LF>Host: Maintenance server node 2<CR><LF>Address: pdcpzmnt002.priv.yospace.net
-POCSAG1200: Address: 1925333  Function: 2  Alpha:   08:04-66 OXYGEN ALARM AS ERROR E6.5 PLEASE CALL CHARLENE 07837 942 597 
-POCSAG1200: Address:  695837  Function: 2  Alpha:   08:04-54 OXYGEN ALARM AS ERROR E6.5 PLEASE CALL CHARLENE 07837 942 597 
-POCSAG1200: Address: 1970705  Function: 2  Alpha:   08:04-55 33945
-POCSAG1200: Address:  930489  Function: 2  Alpha:   08:04-69 18/11/2021 08:01:31 INC 24682791 04B02A 16 NAYLOR STREET, MILES PLATTING MANCHESTER, M40 7WE Male 67Y ASSULTED WITH A BOTTLE OVER THE HEAD GRD 385622 399193
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   08:03-63 18/11/2021 08:01:31 INC 24682791 04B02A 16 NAYLOR STREET, MILES PLATTING MANCHESTER, M40 7WE Male 67Y ASSULTED WITH A BOTTLE OVER THE HEAD GRD 385622 399193
-POCSAG1200: Address: 1312647  Function: 2  Alpha:   08:03-32 Proceed to: 039192-18112021 RTC PERSONS TRAPPED SMALL VEHICLE  JUNCTION 10 TO 9,WISLEY TO LEATHERHEAD,M25
-POCSAG2400: Address:  549937  Function: 2  Alpha:   08:03-12 PLEASE CALL GARY TEL 07541 996 632, REPORTING A FAULT. <NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   08:03-86 18/11/2021 07:56:52 INC 24682777 10C01 12 DEAN FOLD, WATER, BB4 9RJ Male 30Y CHEST PAINS GRD 384307 425849<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0803181121+++TIME=0803181121<NUL>
-POCSAG1200: Address: 1275662  Function: 0 

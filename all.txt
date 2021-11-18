@@ -19367,3 +19367,20 @@ POCSAG1200: Address:  641573  Function: 2
 POCSAG1200: Address:  619026  Function: 2  Alpha:   VD
 POCSAG2400: Address: 1913978  Function: 2  Alpha:   10:28-73 2751<NUL>
 POCSAG1200: Address: 1512730  Function: 3  Alpha:   U*
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:30-33 SBELL
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1499986  Function: 2 
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:31-35 SBELL
+POCSAG2400: Address: 1606193  Function: 0 
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1001127  Function: 2  Alpha:   10:32-76 CARDIAC ARREST CATH LAB 9- SBH
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   10:32-46 4034<NUL>
+POCSAG1200: Address: 1882656  Function: 0 
+POCSAG1200: Address: 1001124  Function: 2  Alpha:   10:32-25 CARDIAC ARREST CATH LAB 9- SBH
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 <DEL>ife 12345678901234567890
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <ACK>)
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:32-99 3181<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   10:33-73 3132<NUL>
+POCSAG2400: Address: 1913916  Function: 2  Alpha:   10:33-19 2304<NUL>
+POCSAG1200: Address: 1254786  Function: 1  Alpha:   <DC1>Hss<NAK>hQ<DC4><DC1>hl<CR>,Mm<FF>hL<CR>m-l
+POCSAG1200: Address:  752111  Function: 1  Alpha:   ';
