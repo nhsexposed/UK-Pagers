@@ -1,3 +1,31 @@
+POCSAG2400: Address: 1913750  Function: 2  Alpha:   07:18-88 3507<NUL>
+POCSAG1200: Address:  549236  Function: 2  Alpha:   07:18-90 ** PROBLEM Host Alert: 239862852-TelenorSE-PRD_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239862852-TelenorSE-PRD_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 239862852<CR><LF>Info: CRITICAL: one or more lev
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:18-65 ** PROBLEM Host Alert: 239862852-TelenorSE-PRD_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239862852-TelenorSE-PRD_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 239862852<CR><LF>Info: CRITICAL: one or more lev
+POCSAG1200: Address:  549740  Function: 2  Alpha:   07:18-43 ** PROBLEM Host Alert: 239862852-TelenorSE-PRD_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239862852-TelenorSE-PRD_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 239862852<CR><LF>Info: CRITICAL: one or more lev
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:18-64 ** PROBLEM Host Alert: 239862852-TelenorSE-PRD_TV12_DASH is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239862852-TelenorSE-PRD_TV12_DASH<CR><LF>State: DOWN<CR><LF>Address: 239862852<CR><LF>Info: CRITICAL: one or more levels ar
+POCSAG1200: Address:  549740  Function: 2  Alpha:   07:18-42 ** PROBLEM Host Alert: 239862852-TelenorSE-PRD_TV12_DASH is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239862852-TelenorSE-PRD_TV12_DASH<CR><LF>State: DOWN<CR><LF>Address: 239862852<CR><LF>Info: CRITICAL: one or more levels ar
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0718181121+++TIME=0718181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0718181121+++TIME=0718181121<NUL>
+POCSAG2400: Address:  549099  Function: 2  Alpha:   07:17-66 FAST TRACK LIVER OFFER: Donor 153006, Hospital BASILDON, HF0101, DOB 31/05/1948, DBD, Organ Location: BASILDON, Fast track trigger point met: 7 NAMED DECLINES. THIS OFFER EXPIRES AT 08:00 -  Please see EOS. A COPY OF THE COVID -19
+POCSAG2400: Address:  549103  Function: 2  Alpha:   07:17-59 FAST TRACK LIVER OFFER: Donor 153006, Hospital BASILDON, HF0101, DOB 31/05/1948, DBD, Organ Location: BASILDON, Fast track trigger point met: 7 NAMED DECLINES. THIS OFFER EXPIRES AT 08:00 -  Please see EOS. A COPY OF THE COVID -19
+POCSAG2400: Address:  549107  Function: 2  Alpha:   07:17-20 FAST TRACK LIVER OFFER: Donor 153006, Hospital BASILDON, HF0101, DOB 31/05/1948, DBD, Organ Location: BASILDON, Fast track trigger point met: 7 NAMED DECLINES. THIS OFFER EXPIRES AT 08:00 -  Please see EOS. A COPY OF THE COVID -19
+POCSAG2400: Address:  549145  Function: 2  Alpha:   07:17-60 FAST TRACK LIVER OFFER: Donor 153006, Hospital BASILDON, HF0101, DOB 31/05/1948, DBD, Organ Location: BASILDON, Fast track trigger point met: 7 NAMED DECLINES. THIS OFFER EXPIRES AT 08:00 -  Please see EOS. A COPY OF THE COVID -19
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   07:16-39 PROBLEM: Disk: /var/log is CRITICAL on host mansdpmsys01a.hosting.civica.com, <CR><LF>PROBLEM: Disk: /var/log is CRITICAL on host mansdpmsys01a.hosting.civica.com<CR><LF>Service: Disk: /var/log<CR><LF>Host: mansdpmsys01a.hosting.civica.com<CR><LF>Alias: Region A s<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   07:16-71 PROBLEM: Disk: /var/log is CRITICAL on host mansdpmsys01a.hosting.civica.com, <CR><LF>PROBLEM: Disk: /var/log is CRITICAL on host mansdpmsys01a.hosting.civica.com<CR><LF>Service: Disk: /var/log<CR><LF>Host: mansdpmsys01a.hosting.civica.com<CR><LF>Alias: Region A s<NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   07:16-78 PROBLEM: Disk: /var/log is CRITICAL on host mansdpmsys01a.hosting.civica.com, <CR><LF>PROBLEM: Disk: /var/log is CRITICAL on host mansdpmsys01a.hosting.civica.com<CR><LF>Service: Disk: /var/log<CR><LF>Host: mansdpmsys01a.hosting.civica.com<CR><LF>Alias: Region A s<NUL><NUL>
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   07:16-63 Steam controls & Demin Water controls are in force. Any plants wanting to change their usage requirements of either supply must contact the Infrastructure SCo on x74770 beforehand - SSM
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   07:16-17 Steam controls & Demin Water controls are in force. Any plants wanting to change their usage requirements of either supply must contact the Infrastructure SCo on x74770 beforehand - SSM
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   07:16-35 Steam controls & Demin Water controls are in force. Any plants wanting to change their usage requirements of either supply must contact the Infrastructure SCo on x74770 beforehand - SSM
+POCSAG1200: Address:  549236  Function: 2  Alpha:   07:16-88 ** PROBLEM Host Alert: 239863673-TelenorSE-PRD_SJUAN_DASH is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239863673-TelenorSE-PRD_SJUAN_DASH<CR><LF>State: DOWN<CR><LF>Address: 239863673<CR><LF>Info: CRITICAL: one or more levels 
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:16-63 ** PROBLEM Host Alert: 239863673-TelenorSE-PRD_SJUAN_DASH is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239863673-TelenorSE-PRD_SJUAN_DASH<CR><LF>State: DOWN<CR><LF>Address: 239863673<CR><LF>Info: CRITICAL: one or more levels 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:16-91 18/11/2021 07:12:14 INC 24682663 05C03 16 CHURCH ROAD, RAINFORD ST HELENS WA11, WA11 8HE Female 54Y KIDNEY PAIN/CANT URINATE GRD 347793 400812
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   07:16-28 18/11/2021 07:14:21 INC 24682667 29D02M JUNC WITH MIDDLEWICH ROAD OF, PARK LANE, SANDBACH CW11, CW11 1EP Female 32Y RTC - PERSON V CAR - WRIST / BACK PAIN GRD 374848 360738<NUL>
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:15-62 ** PROBLEM Host Alert: 239863228-TelenorSE-PRD_TV4HD_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239863228-TelenorSE-PRD_TV4HD_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 239863228<CR><LF>Info: CRITICAL: one or more l
+POCSAG1200: Address: 1032926  Function: 3  Alpha:   <ACK>/
+POCSAG1200: Address:  549236  Function: 2  Alpha:   07:15-86 ** PROBLEM Host Alert: 239863673-TelenorSE-PRD_SJUAN_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239863673-TelenorSE-PRD_SJUAN_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 239863673<CR><LF>Info: CRITICAL: one or more l
+POCSAG1200: Address:  549740  Function: 2  Alpha:   07:15-39 ** PROBLEM Host Alert: 239863673-TelenorSE-PRD_SJUAN_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239863673-TelenorSE-PRD_SJUAN_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 239863673<CR><LF>Info: CRITICAL: one or more l
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:14-60 ** PROBLEM Host Alert: 239863228-TelenorSE-PRD_TV4HD_DASH is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 239863228-TelenorSE-PRD_TV4HD_DASH<CR><LF>State: DOWN<CR><LF>Address: 239863228<CR><LF>Info: CRITICAL: one or more levels 
 POCSAG1200: Address:   40074  Function: 2  Alpha:   07:14-04 18/11/2021 07:11:09 INC 24682660 17A01G CHEADLE POOLS & FITNESS CENTRE, SHIERS DRIVE, CHEADLE HULME CHEADLE, SK8 1JR Female 42Y F-FALL-CANT MOVE ARM GRD 386199 387827<NUL><NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:13-89 18/11/2021 07:10:21 INC 24682655 01C03 85A MILTON ROAD, WIDNES WA8, WA8 7JR Female 59Y ABDO PAIN GRD 350935 385474<NUL><NUL>
 POCSAG1200: Address: 1067866  Function: 2  Alpha:   07:13-98 18/11/2021 07:10:21 INC 24682655 01C03 85A MILTON ROAD, WIDNES WA8, WA8 7JR Female 59Y ABDO PAIN GRD 350935 385474<NUL><NUL>
@@ -970,31 +998,3 @@ POCSAG1200: Address:  695819  Function: 2  Alpha:   17:11-67 BLEEP TEST, PLS CAL
 POCSAG1200: Address:  695144  Function: 2  Alpha:   17:11-97 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
 POCSAG1200: Address:  269024  Function: 2  Alpha:   17:11-76 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
 POCSAG1200: Address:  135483  Function: 2  Alpha:   17:11-93 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
-POCSAG1200: Address: 1322003  Function: 2  Alpha:   17:11-16 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
-POCSAG1200: Address:  428412  Function: 2  Alpha:   17:11-86 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
-POCSAG1200: Address: 1258680  Function: 2  Alpha:   17:11-03 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
-POCSAG1200: Address: 1487387  Function: 0 
-POCSAG1200: Address:  733992  Function: 2  Alpha:   17:11-07 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
-POCSAG1200: Address:  992448  Function: 3  Alpha:   r<LF>ab@<SYN><VT><ESC><ENQ><ETX><EM><EM>A<DLE><US>+'<VT>AZ@<FF><EM><ETX>)AdjX@<ACK><EM><ETX>%<VT><GS><HT><US><GS>A$<US><ETX><HT>Y@<LF><BEL><BEL><EM><VT>'A<SUB><ETX><GS><BEL><DC1><VT>')<VT>%Y@<SUB>g`@r<STX><HT>A<SUB>CYKApb2A<FF><ETX><EM><EM><VT><GS>A<FS><US>)A<EOT>%<VT><ETX>)<DC1><DC3><GS><SI>A<SO>%<HT>Afnnr`h@frprh`<NUL><NUL>
-POCSAG1200: Address:  432776  Function: 2  Alpha:   17:10-33 17/11/2021 17:08
-POCSAG1200: Address: 2025087  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   03/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  433973  Function: 2  Alpha:   17:10-68 Please call Hub Operations on 0117 975 w3:1 regarding Donor number - 152992, Donor hospital - KINGS COLLEGE, Donor DOB - 21/06/1973.<NUL>
-POCSAG1200: Address: 1317894  Function: 2  Alpha:   17:11-94 BLEEP TEST, PLS CALL 3338 <NUL><NUL>
-POCSAG1200: Address:  325974  Function: 3  Alpha:   U&
-POCSAG1200: Address: 1058002  Function: 0 
-POCSAG1200: Address: 1449766  Function: 3  Alpha:   d,<,db3<HT>
-POCSAG1200: Address: 1980742  Function: 0 
-POCSAG1200: Address: 1729725  Function: 0 
-POCSAG1200: Address:   88581  Function: 3 
-POCSAG1200: Address: 1541740  Function: 2 
-POCSAG1200: Address:  925276  Function: 0 
-POCSAG1200: Address:  548795  Function: 3 
-POCSAG1200: Address: 2077923  Function: 1 
-POCSAG1200: Address:  625922  Function: 1  Alpha:   <BS>_
-POCSAG1200: Address: 1265305  Function: 2 
-POCSAG1200: Address:  167257  Function: 1 
-POCSAG1200: Address:  920272  Function: 1 
-POCSAG1200: Address: 1293047  Function: 3  Alpha:   O%(<VT><ETB>
-POCSAG1200: Address:  294334  Function: 0  Alpha:   _e
-POCSAG1200: Address: 1962758  Function: 2 
