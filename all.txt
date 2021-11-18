@@ -22605,3 +22605,21 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:13-26 18/11/2021 23:12:39
 POCSAG1200: Address:  652006  Function: 2 
 POCSAG2400: Address:   28896  Function: 0  Alpha:   23:14-30 21
 POCSAG2400: Address: 1903106  Function: 2 
+POCSAG1200: Address:   76369  Function: 3 
+POCSAG1200: Address: 2046331  Function: 3  Alpha:   <RS><BEL>
+POCSAG1200: Address: 1354068  Function: 2  Alpha:   J*
+POCSAG1200: Address: 1980518  Function: 1 
+POCSAG1200: Address: 1507848  Function: 2  Alpha:   RO
+POCSAG1200: Address: 1258601  Function: 1 
+POCSAG1200: Address:  771915  Function: 3 
+POCSAG1200: Address: 2077824  Function: 2  Alpha:   <>.<BEL><EOT><GS>,.
+POCSAG1200: Address:  549236  Function: 2  Alpha:   23:15-09 ** PROBLEM Service Alert: harro-eu-west-1-004-telemetryapi1/Tomcat Threads is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Tomcat Threads<CR><LF>Host: harro-eu-west-1-004-telemetryapi1<CR><LF>Address: harro-eu-west
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   23:15-81 18/11/2021 23:12:46 INC 24686690 06E01 MANDELA HOUSE, 1A GARMOYLE CLOSE, WAVERTREE L15, L15 0JB Male 65Y STRUGGLING TO BREATHE, COPD, ON NEBS GRD 338075 389075
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2318181121+++TIME=2318181121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2318181121+++TIME=2318181121<NUL>
+POCSAG2400: Address:  532596  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   23:18-60 33835
+POCSAG2400: Address:   28896  Function: 0  Alpha:   23:18-31 4157<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:18-40 3116<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:19-79 5090<NUL>
