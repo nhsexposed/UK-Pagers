@@ -1,3 +1,31 @@
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>C\!L
+POCSAG2400: Address: 1498776  Function: 0  Alpha:   <FS>(
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>C\!L
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:18-02 5530<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:17-67 5201<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:17-27 4312<NUL>
+POCSAG1200: Address: 2011889  Function: 0 
+POCSAG1200: Address: 1606199  Function: 0 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   15:17-66 2441<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2014838  Function: 3 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:   28916  Function: 0  Alpha:   15:16-85 2233<NUL>
+POCSAG1200: Address: 1511870  Function: 2  Alpha:   <ACK>E
+POCSAG1200: Address:  143329  Function: 0 
+POCSAG1200: Address: 2011507  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:   92993  Function: 3 
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   15:15-55 18/11/2021 15:12:06 INC 24684654 23C
+POCSAG1200: Address: 1868490  Function: 3  Alpha:   HO
+POCSAG1200: Address: 1377645  Function: 1 
+POCSAG1200: Address: 1316380  Function: 2  Alpha:   Y*
+POCSAG1200: Address:  743995  Function: 1 
+POCSAG1200: Address: 1220771  Function: 3 
+POCSAG1200: Address: 1409378  Function: 2 
+POCSAG1200: Address: 1683680  Function: 1  Alpha:   fV
+POCSAG1200: Address: 2011990  Function: 1 
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:14-25 3576<NUL>
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   15:12-40 5202<NUL>
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1895006  Function: 2
 POCSAG2400: Address: 2010981  Function: 0 
 POCSAG1200: Address: 1039231  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   11:28-81 69001
-POCSAG1200: Address:  679608  Function: 2  Alpha:   11:28-51 69001
-POCSAG1200: Address: 1773836  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1128181121+++TIME=1128181121<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   11:27-94 4114<NUL>
-POCSAG1200: Address: 1652112  Function: 0 
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:27-79 18/11/2021 11:26
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   U2
-POCSAG2400: Address:   28894  Function: 0  Alpha:   11:26-49 2183<NUL>
-POCSAG2400: Address: 1895004  Function: 2 
-POCSAG1200: Address:  420375  Function: 0 
-POCSAG1200: Address:  420460  Function: 3  Alpha:   B.
-POCSAG2400: Address:  163950  Function: 0 
-POCSAG2400: Address:  149126  Function: 2  Alpha:   11:23-89 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
-POCSAG2400: Address:  549203  Function: 2  Alpha:   11:23-02 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
-POCSAG2400: Address:  549205  Function: 2  Alpha:   11:23-13 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
-POCSAG2400: Address: 1323267  Function: 2  Alpha:   11:23-27 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   11
-POCSAG2400: Address: 1322878  Function: 2  Alpha:   11:23-83 PLS CALL OMAR ST GEORGE'S HOSP 07310 294 956<NUL>
-POCSAG1200: Address:   49263  Function: 2  Alpha:   11:23-97 MEDICAL EMERGENCY PLASTICS DRESSING CLINIC UHND<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1123181121+++TIME=1123181121<NUL>
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   11:21-19 Alert from MANSDPMSFM01B,@ioterconnect 
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   11:21-56 Alert from MANSDPMSFM01B, interconnect 3 - The connection on downlink port 7, su..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   11:21-88 Alert from MANSDPMSFM01B, interconnect 3 - The connection on downlink port 7, su..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
-POCSAG1200: Address: 1974901  Function: 0 
-POCSAG1200: Address:  234377  Function: 2  Alpha:   11:21-95 18/11/2021 11:14:09 INC 24683529 05D01 70 WILLOWBANK AVENUE, BLACKPOOL, FY4 3NB Female 95Y CONFUSED PT- CARELINE GRD 332494 432515<NUL>
-POCSAG1200: Address: 1713217  Function: 1 
