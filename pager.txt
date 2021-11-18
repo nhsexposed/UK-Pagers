@@ -1,3 +1,31 @@
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:24-60 5204<NUL>
+POCSAG1200: Address: 1746665  Function: 0 
+POCSAG1200: Address:  619026  Function: 2  Alpha:   vP
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:23-37 4901<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:23-59 5204<NUL>
+POCSAG1200: Address:  734818  Function: 0  Alpha:   v<SYN><ETB><ACK>4<SYN>Wv
+POCSAG1200: Address:  676385  Function: 1 
+POCSAG1200: Address: 1319097  Function: 0 
+POCSAG1200: Address:  944856  Function: 0 
+POCSAG1200: Address: 1888512  Function: 3 
+POCSAG1200: Address:  189415  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1552498  Function: 0 
+POCSAG1200: Address: 1875968  Function: 0 
+POCSAG1200: Address: 1614053  Function: 0  Alpha:   2<ACK>N"<SYN>N<STX>!<SYN><ACK><DC2>N<STX><GS>J<DC2><STX>MMIAMI<SOH>QAAYE]a
+POCSAG1200: Address: 1221204  Function: 0 
+POCSAG2400: Address:  829811  Function: 0 
+POCSAG2400: Address:  549128  Function: 2  Alpha:   15:22-38 PLEASE CALL PAUL LOGUE 078315 48927<NUL>
+POCSAG2400: Address: 1745528  Function: 0 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:21-30 3164<NUL>
+POCSAG1200: Address:  557576  Function: 2  Alpha:   4Y UNDERNEATH VAN - BIKE GRD 340193 395877
+POCSAG1200: Address: 1844991  Function: 0 
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:21-27 4316<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:21-29 2304<NUL>
+POCSAG1200: Address:  325898  Function: 3  Alpha:   V<LF>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  325898  Function: 3  Alpha:   F<EM>
+POCSAG2400: Address:  975206  Function: 0 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:19-28 4312<NUL>
 POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>C\!L
 POCSAG2400: Address: 1498776  Function: 0  Alpha:   <FS>(
 POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>C\!L
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   11:36-55 4155<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   11:36-01 5128<NUL>
 POCSAG2400: Address: 1320387  Function: 2  Alpha:   11:36-28 4954<NUL>
 POCSAG1200: Address: 1997673  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   11:34-76 4314<NUL>
-POCSAG1200: Address:  290038  Function: 3  Alpha:   9<BS><SYN>LL
-POCSAG2400: Address:   28900  Function: 0  Alpha:   11:34-54 3120<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:32-56 2547<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  585254  Function: 2  Alpha:   11:32-81 01173421905
-POCSAG2400: Address: 1140944  Function: 1 
-POCSAG1200: Address: 2075219  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2007790  Function: 0 
-POCSAG1200: Address: 1966614  Function: 0 
-POCSAG1200: Address:  290108  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:   28902  Function: 0  Alpha:   11:31-87 4379<NUL>
-POCSAG1200: Address: 2012752  Function: 2 
-POCSAG1200: Address:  619026  Function: 2  Alpha:   VD
-POCSAG2400: Address: 1913836  Function: 2  Alpha:   11:30-77 5905<NUL>
-POCSAG2400: Address: 1859062  Function: 1  Alpha:   eA$KMKeeCYA<CAN>S]K<SOH><NUL>
-POCSAG2400: Address:  926244  Function: 0 
-POCSAG2400: Address: 2026353  Function: 2 
-POCSAG2400: Address:  150086  Function: 0  Alpha:   11:29-51 2894<NUL>
-POCSAG2400: Address:  866673  Function: 0 
-POCSAG2400: Address: 1315697  Function: 2 
-POCSAG2400: Address:  632664  Function: 1  Alpha:   rr
-POCSAG2400: Address: 1259200  Function: 2 
-POCSAG2400: Address: 1895006  Function: 2 
-POCSAG2400: Address: 2010981  Function: 0 
-POCSAG1200: Address: 1039231  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   11:28-81 69001
