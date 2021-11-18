@@ -1,3 +1,21 @@
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>H<SO>A
+POCSAG2400: Address: 1323801  Function: 2  Alpha:   12:33-28 3266<NUL>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   12:33-02 2168<NUL>
+POCSAG2400: Address: 2003574  Function: 0 
+POCSAG1200: Address:  290116  Function: 3  Alpha:   <DC2>CT<FF>L
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN><DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   12:30-33 3148<NUL>
+POCSAG1200: Address:  433593  Function: 0 
+POCSAG1200: Address:  825863  Function: 3  Alpha:   O%
+POCSAG1200: Address:  390119  Function: 2 
+POCSAG1200: Address:  396498  Function: 0  Alpha:   Y8
+POCSAG1200: Address:  886913  Function: 2  Alpha:   d@B`@
+POCSAG1200: Address: 1769992  Function: 3 
+POCSAG1200: Address: 1349438  Function: 1 
+POCSAG1200: Address: 1466747  Function: 2  Alpha:   <BS><HT>[<DC2><ETX><DC3><VT><ETX><STX><DC3>S
+POCSAG1200: Address: 2050016  Function: 3 
+POCSAG1200: Address:  585538  Function: 2  Alpha:   12:29-26 2505<NUL>
 POCSAG1200: Address:   22104  Function: 2  Alpha:   12:29-35 18/11/2021 12:27:32 INC 24683871 23B01I 4 LONGRIDGE AVENUE, STANDISH WIGAN, WN6 0ER Female 54Y TAKEN OVERDOSE. GRD 356615 409837
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   12:28-21 66100
 POCSAG1200: Address: 1594925  Function: 2  Alpha:   12:28-23 66100
@@ -980,21 +998,3 @@ POCSAG2400: Address: 1322219  Function: 2  Alpha:   09:17-22 PLEASE CALL KATE ON
 POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
 POCSAG2400: Address: 1913671  Function: 2  Alpha:   09:17-20 3298<NUL>
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   09:17-82 2233<NUL>
-POCSAG1200: Address:  678759  Function: 2  Alpha:   09:17-63 Destination: D105 SSC In\123, Booking Ref#: 801191, Vehicle: VX19YGG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________cW______________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG1200: Address: 1318133  Function: 2  Alpha:   09:17-80 PROCEED TO:  PERSONS REPORTED FIRE/PERSONS REPORTED FIRE; BB13JB,   53 WHITEBIRK ROAD   BLACKBURN , HEREFORD ROAD/UNNAMED ROAD; FNWR-OPS09; ROLE:WM ; CALL FROM POL - NEIGHBOUR HAS CALLED THEM AS CAN SEE SMOKE FROM WINDOWS AND FLAME FROM COO<NUL><NUL>
-POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>CM<L
-POCSAG1200: Address:  816963  Function: 2  Alpha:   09:17-37 PROCEED TO:  BAE BARROW/CAT 1 - AFA; LA141AF,  BAE SYSTEMS  BRIDGE ROAD   BARROW-IN-FURNESS : @BAE BARROW BAE SYSTEMS, ST PATRICKS ROAD/UNNAMED ROAD; FNWR-OPS08; ROLE:[BC] NEAREST STATION MANAGER/GROUP MANAGER ; CAT 1 FIRE ALARM A
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  433067  Function: 2  Alpha:   09:16-47 18/11/2021 09:12:46 INC 24683026 10D02 70 BIRKDALE DRIVE, ASHTON ON RIBBLE PRESTON, PR2 1UN Female 80Y BACK PAIN GRD 350087 430612<NUL>
-POCSAG2400: Address: 1650480  Function: 3 
-POCSAG2400: Address: 1423552  Function: 1 
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   09:16-19 Contractors SE Building Controllers Test - 0957<NUL>
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   09:16-38 5090<NUL>
-POCSAG2400: Address: 1022473  Function: 0  Alpha:   09:16-69 SECC team test<NUL><NUL>
-POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-92 0913 Area Controllers Test pag
-POCSAG2400: Address:   28893  Function: 0  Alpha:   09:16-74 5201<NUL>
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   09:16-36 SECC team test<NUL><NUL>
-POCSAG1200: Address: 1321712  Function: 2  Alpha:   09:16-88 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: JO69GAS. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG2400: Address:  549205  Function: 2  Alpha:   09:15-11 NHSBT - DONOR REFERRAL. Please call DR ALI on Direct Dial Number 077200744056 Hospital BIRMINGHAM CHILDRENS Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1322877  Function: 2  Alpha:   09:15-56 NHSBT - DONOR REFERRAL. Please call DR ALI on Direct Dial Number 077200744056 Hospital BIRMINGHAM CHILDRENS Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   09:15-99 18/11/2021 09:12:44 INC 24683025 31C01 39 CONNAUGHT SQUARE, TONGE MOOR BOLTON, BL2 2JA Male 59Y FALL - HIGH TEMP GRD 372632 410537<NUL>
