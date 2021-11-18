@@ -20458,3 +20458,33 @@ POCSAG1200: Address:  265302  Function: 3  Alpha:   U2
 POCSAG2400: Address: 1913961  Function: 2  Alpha:   14:32-01 2447<NUL>
 POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
 POCSAG2400: Address:   28902  Function: 0  Alpha:   14:33-92 2445<NUL>
+POCSAG1200: Address: 1478228  Function: 1 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:34-81 18/11/2021 14:32:08 INC 24684464 26O01 10 PENHURST 50
+POCSAG1200: Address:  852687  Function: 3  Alpha:   g<DC2><DC4>*<DLE>
+POCSAG1200: Address:  112658  Function: 2  Alpha:   LQ
+POCSAG1200: Address:  412693  Function: 1  Alpha:   <CAN>;
+POCSAG1200: Address:  535712  Function: 3 
+POCSAG1200: Address: 1717326  Function: 3  Alpha:   <STX><GS>
+POCSAG1200: Address: 1345583  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address:  874800  Function: 3 
+POCSAG1200: Address: 1453208  Function: 2 
+POCSAG1200: Address:   91801  Function: 3 
+POCSAG2400: Address:  433538  Function: 2  Alpha:   14:35-90 2463<NUL>
+POCSAG1200: Address: 2075376  Function: 1 
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   14:35-34 3164<NUL>
+POCSAG2400: Address: 1913759  Function: 2  Alpha:   14:35-65 5066<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   14:35-07 5128<NUL>
+POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address:  548168  Function: 2  Alpha:   14:36-96 BLEEP 8762 
+POCSAG1200: Address:  325950  Function: 3  Alpha:   2H<FF>bL
+POCSAG1200: Address: 1678173  Function: 1  Alpha:   `l
+POCSAG1200: Address: 1453147  Function: 0  Alpha:   <ESC><DLE>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913784  Function: 2  Alpha:   14:37-77 4940<NUL>
+POCSAG2400: Address: 1606199  Function: 0 
+POCSAG1200: Address: 1024757  Function: 0 
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   c<FF>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1438181121+++TIME=1438181121<NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   14:39-76 3164<NUL>
+POCSAG1200: Address: 1485592  Function: 3  Alpha:   6"
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   <ETX><HT>

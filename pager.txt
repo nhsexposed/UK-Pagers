@@ -1,3 +1,33 @@
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   <ETX><HT>
+POCSAG1200: Address: 1485592  Function: 3  Alpha:   6"
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   14:39-76 3164<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1438181121+++TIME=1438181121<NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   c<FF>
+POCSAG1200: Address: 1024757  Function: 0 
+POCSAG2400: Address: 1606199  Function: 0 
+POCSAG2400: Address: 1913784  Function: 2  Alpha:   14:37-77 4940<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1453147  Function: 0  Alpha:   <ESC><DLE>
+POCSAG1200: Address: 1678173  Function: 1  Alpha:   `l
+POCSAG1200: Address:  325950  Function: 3  Alpha:   2H<FF>bL
+POCSAG1200: Address:  548168  Function: 2  Alpha:   14:36-96 BLEEP 8762 
+POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   14:35-07 5128<NUL>
+POCSAG2400: Address: 1913759  Function: 2  Alpha:   14:35-65 5066<NUL>
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   14:35-34 3164<NUL>
+POCSAG1200: Address: 2075376  Function: 1 
+POCSAG2400: Address:  433538  Function: 2  Alpha:   14:35-90 2463<NUL>
+POCSAG1200: Address:   91801  Function: 3 
+POCSAG1200: Address: 1453208  Function: 2 
+POCSAG1200: Address:  874800  Function: 3 
+POCSAG1200: Address: 1345583  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address: 1717326  Function: 3  Alpha:   <STX><GS>
+POCSAG1200: Address:  535712  Function: 3 
+POCSAG1200: Address:  412693  Function: 1  Alpha:   <CAN>;
+POCSAG1200: Address:  112658  Function: 2  Alpha:   LQ
+POCSAG1200: Address:  852687  Function: 3  Alpha:   g<DC2><DC4>*<DLE>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:34-81 18/11/2021 14:32:08 INC 24684464 26O01 10 PENHURST 50
+POCSAG1200: Address: 1478228  Function: 1 
 POCSAG2400: Address:   28902  Function: 0  Alpha:   14:33-92 2445<NUL>
 POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
 POCSAG2400: Address: 1913961  Function: 2  Alpha:   14:32-01 2447<NUL>
@@ -968,33 +998,3 @@ POCSAG1200: Address: 1193569  Function: 2
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG1200: Address: 1155944  Function: 3  Alpha:   d`db@
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   11:04-74 18
-POCSAG1200: Address:  635816  Function: 2 
-POCSAG1200: Address: 1304152  Function: 2 
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>#A<FS>L
-POCSAG2400: Address: 1321040  Function: 2  Alpha:   11:03
-POCSAG1200: Address:  269101  Function: 2  Alpha:   11:03-12 18/11/2021 11:00:48 INC 24683464 03D04 COACH HOUSE, SKIRSGILL LANE, EAMONT BRIDGE PENRITH, CA10 2BQ Female 22Y FEM KICKED BY HORSE GRD 351902 528792
-POCSAG1200: Address:   80170  Function: 3  Alpha:   td
-POCSAG2400: Address: 1745415  Function: 0 
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:00-32 *TEST CRASH TEST*<NUL><NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   11:00-86 5076<NUL>
-POCSAG1200: Address:  386802  Function: 2  Alpha:   ?k<SOH>Q>?k<SOH>I<SYN>OC?;<DC3><ETX><NUL>
-POCSAG1200: Address: 1441908  Function: 0 
-POCSAG2400: Address: 1913700  Function: 2  Alpha:   11:00-89 5202<NUL>
-POCSAG2400: Address:  549963  Function: 2  Alpha:   11:00-79 NHSBT - DONOR REFERRAL. Please call SISTER on Direct Dial Number 0161 922 6062/40E
-POCSAG2400: Address: 1970821  Function: 0  Alpha:   $<VT><CR><VT>%%<ETX><EM>]@ YKCgKAFCYYA&<DC3>')<VT>%A^]A<BS>SeKGiA<BS>SCYA<FS>k[EKeA`blb@rdd@l`ld^hdnb@<DLE>_gaSiCYA(<ETX><ESC><VT>'<DC3><HT><VT>A<SO><VT><GS>A<BS>KaiA<ACK>%<DC3>)<DC3><BEL><ETX><EM>A<ACK><ETX>%<VT>A\@$KOCeIgA<BS>_]_eA$KMKeeCYA<CAN>S]K<SOH><NUL>
-POCSAG1200: Address:  216478  Function: 2  Alpha:   10:59-72p29
-POCSAG1200: Address: 1992567  Function: 0 
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   &'
-POCSAG1200: Address: 1205463  Function: 0  Alpha:   K;<ETX><ETX>"<ESC>+<VT><VT>3<ETX>
-POCSAG1200: Address: 1562596  Function: 2  Alpha:   10:59-89 22019
-POCSAG2400: Address:   28895  Function: 0  Alpha:   10:59-03 5128<NUL>
-POCSAG1200: Address: 1471352  Function: 2 
-POCSAG2400: Address: 1022278  Function: 0  Alpha:   10:57-60
-POCSAG2400: Address:  954994  Function: 1 
-POCSAG2400: Address: 1023028  Function: 3 
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:57-26 NHSBT - DONOR REFERRAL. Please call S/N SARAH on Direct Dial Number 01603 288986 Hospital NORFOLK AND NORWICH Dept ITU . Regards Donor Referral Line
-POCSAG2400: Address: 2024122  Function: 0 
-POCSAG2400: Address:   28901  Function: 0  Alpha:   10:57-52 5013<NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   10:57-49 18/11/2021 10:55:50 INC 24683445 06E01 215 WARRINGTON ROAD, WIDNES WA8, WA8 0AZ Female 58Y F - DIB - OXYGEN LEVELS OF 53% GRD 352579 386235
-POCSAG1200: Address: 1680368  Function: 0 
