@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:39-23 PLS CALL 66831<NUL><NUL>
+POCSAG1200: Address: 2041456  Function: 1 
+POCSAG1200: Address:  435744  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1338181121+++TIME=1338181121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1338181121+++TIME=1338181121<NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:37-50 18/11/2021 13:31:31 INC 24684186 28C01H 5 ELSDON GARDENS, TONGE MOOR BOLTON, BL2 2UN Male 76Y HCP GRD 372582 410316<NUL>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   13:36-90 2182<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   13:34-92 2447<NUL>
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:33-59 2304<NUL>
 POCSAG1200: Address: 2001468  Function: 0 
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1573818  Function: 2  Alpha:   09:53-84 6716<NUL>
 POCSAG2400: Address:   28926  Function: 0  Alpha:   09:53-02 5201<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0953181121+++TIME=0953181121<NUL>
 POCSAG1200: Address: 1241897  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0953181121+++TIME=0953181121<NUL>
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:52-66 4104<NUL>
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   09:51-47 5460<NUL>
-POCSAG2400: Address: 1913839  Function: 2  Alpha:   09:51-69 4312<NUL>
-POCSAG2400: Address: 1913700  Function: 2  Alpha:   09:51-88 5201<NUL>
