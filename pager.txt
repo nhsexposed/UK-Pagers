@@ -1,3 +1,26 @@
+POCSAG1200: Address:  101208  Function: 0  Alpha:   jn
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <ENQ><STX>
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 1561420  Function: 2  Alpha:   P<EM>k"d)P#)"PYYY<CAN><SUB><CAN><DLE>Z<CAN>[<FS>Y<EM><NUL>
+POCSAG512: Address:  923685  Function: 0  Alpha:   &6FVfv<ACK><ETB><BEL><SYN>&6FVfv<ACK><ETB><BEL><ACK>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1848704  Function: 2 
+POCSAG2400: Address: 1746677  Function: 3 
+POCSAG1200: Address: 1321866  Function: 2  Alpha:   13:01
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG2400: Address:  907571  Function: 0 
+POCSAG2400: Address:  938066  Function: 0 
+POCSAG2400: Address:   67457  Function: 3  Alpha:   geR S
+POCSAG2400: Address: 1819520  Function: 3 
+POCSAG2400: Address: 1530487  Function: 2 
+POCSAG2400: Address:  107358  Function: 1  Alpha:   lj
+POCSAG2400: Address:  549445  Function: 2  Alpha:   13
+POCSAG2400: Address:  549447  Function: 2  Alpha:   13:01-54 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG2400: Address:  549462  Function: 2  Alpha:   13:00-29 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG2400: Address: 1913788  Function: 2  Alpha:   13:01-56 3298<NUL>
+POCSAG2400: Address: 1713777  Function: 2 
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   6"
 POCSAG2400: Address: 2018033  Function: 0 
 POCSAG2400: Address:  150086  Function: 0  Alpha:   12:59-53 3131<NUL>
 POCSAG2400: Address: 1812507  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
@@ -975,26 +998,3 @@ POCSAG1200: Address:  312672  Function: 0  Alpha:   09:27-57 18/11/2021 09:23:08
 POCSAG1200: Address:  906782  Function: 3  Alpha:   FB
 POCSAG2400: Address:  583853  Function: 2  Alpha:   09:27-49 76306
 POCSAG2400: Address: 1913712  Function: 2  Alpha:   09:27-06 4660<NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   09:27-83 18/11/2021 09:24:48 INC 24683074 23B01I 7 TAY COURT, BARROW IN FURNESS, LA14 1YQ Female 21Y 21YOF - TAKEN OVERDOSE GRD 319213 469635<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1511876  Function: 2  Alpha:   <DC1>"
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   09:26-39 NHSBT - DONOR REFERRAL. Please call S/N PATTERSON on Direct Dial Number 01482 674231 OR 4335 Hospital HULL ROYAL Dept ICU . Regards Donor Referral Lin
-POCSAG2400: Address: 1022277  Function: 0  Alpha:   09:26-46 NHSBT - DONOR REFERRAL. Please call S/N PATTERSON on Direct Dial Number 01482 674231 OR 4335 Hospital HULL ROYAL Dept ICU . Regards Donor Referral Lin
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   09:26-00 NHSBT - DONOR REFERRAL. Please call S/N PATTERSON on Direct Dial Number 01482 674231 OR 4335 Hospital HULL ROYAL Dept ICU . Regards Donor Referral Lin
-POCSAG2400: Address: 1323101  Function: 2  Alpha:   09:26-69 NHSBT - DONOR REFERRAL. Please call S/N PATTERSON on Direct Dial Number 01482 674231 OR 4335 Hospital HULL ROYAL Dept ICU . Regards Donor Referral Lin
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
-POCSAG1200: Address: 1511969  Function: 3  Alpha:   F&
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   09:26-02 4179<NUL>
-POCSAG2400: Address: 1913970  Function: 2  Alpha:   09:26-09 4901<NUL>
-POCSAG1200: Address:  267831  Function: 2  Alpha:   09:25-57 21
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   09:25-32 2427<NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   09:24-19 18/11/2021 09:20:31 INC 24683059 29B03V BROOKFIELD DRIVE, FAZAKERLEY L9, L9 7AN Unknown UnknownY RTC 2 CARS GRD 337110 396405
-POCSAG1200: Address:  428347  Function: 2  Alpha:   09:24-87 18/11/2021 09:20:31 INC 24683059 29B03V BROOKFIELD DRIVE, FAZAKERLEY L9, L9 7AN Unknown UnknownY RTC 2 CARS GRD 337110 396405
-POCSAG1200: Address: 1817185  Function: 2  Alpha:   09:24-10 18/11/2021 09:20:31 INC 24683059 29B03V BROOKFIELD DRIVE, FAZAKERLEY L9, L9 7AN Unknown UnknownY RTC 2 CARS GRD 337110 396405
-POCSAG1200: Address: 1322094  Function: 2  Alpha:   09:24-04 Incident: WHITECHAPEL WAY,PRIORSLEE,TELFORD,SHROPSHIRE,WHITECHAPEL HOUSE, INCIDENT NUMBER: 98851 - BUILDING FIRE<LF><LF>SMOKE <NUL><NUL>
-POCSAG1200: Address:  640109  Function: 2  Alpha:   09:24-92 18/11/2021 09:21:14 INC 24683062 10D<DLE>U<BS>12 MARLBOROUGH AVENUE, WINSFORD CW7, CW7 2RR Male 69Y MALE SEV PAIN IN ABDO - BACK GRD 364298 367195
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   &b
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   09:23-38 4660<NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   09:23-03 5202<NUL>
-POCSAG1200: Address: 1816912  Function: 2  Alpha:   09:23-88 (2/2) Roles    JY04P2:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)
-POCSAG1200: Address: 1816912  Function: 2  Alpha:   09:23-87 (1/2)029645-18112021; F8.0.0.P FIRE - FIRE IN THE OPEN; HERMITAGE GLASS,HAMBRIDGE LANE,NEWBURY; 448975,166975; SKIP FIRE; Assigned: JY04P2;
