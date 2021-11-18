@@ -1,3 +1,29 @@
+POCSAG2400: Address:   28927  Function: 0  Alpha:   17:49-39 5125<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   17:49-23 3509<NUL>
+POCSAG1200: Address:  916118  Function: 2  Alpha:   17:48-55 Please call 888000<NUL>
+POCSAG1200: Address: 1594924  Function: 2  Alpha:   17:48-08 Subject: STOP RECEIVED INCIDENT 2111007233 #Body: FROM:G15P2<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1748181121+++TIME=1748181121<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   17:48-28 3148<NUL>
+POCSAG1200: Address: 1816912  Function: 2  Alpha:   17:47-90 (1/2)029687-18112021; F8.0.0.P FIRE - FIRE IN THE OPEN; (STREET RECORD),ROSEMOOR GARDENS,NEWBURY; 448542,167760; KIDS BLOWING UP GAS CANNISTERS;<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   17:47-69 5204<NUL>
+POCSAG1200: Address: 2011714  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   <DLE><NAK><CR>04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1618558  Function: 2 
+POCSAG1200: Address: 2075378  Function: 1 
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   17:45-67 CARDIAC ARREST TEAM,, A&E, ZONE A, ROOM 1, RLH<NUL><NUL>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   17:44-85 please can you ring Dr Smith on 07789 693944<NUL>
+POCSAG1200: Address:  756306  Function: 1  Alpha:   <BS>46<ACK><SYN><BEL>W<ACK>
+POCSAG1200: Address:  761377  Function: 0 
+POCSAG1200: Address: 1221985  Function: 2 
+POCSAG1200: Address:  167231  Function: 0  Alpha:   O%(<SYN>He33
+POCSAG1200: Address:  421535  Function: 1 
+POCSAG1200: Address:  267678  Function: 0 
+POCSAG1200: Address: 1403454  Function: 2 
+POCSAG1200: Address: 1683845  Function: 1 
+POCSAG1200: Address:  157195  Function: 2  Alpha:   p<DC2>ts<DC3><ETX><VT>H
+POCSAG1200: Address:  313379  Function: 2 
+POCSAG1200: Address:  611506  Function: 1 
+POCSAG1200: Address: 1243521  Function: 1  Alpha:   D, CE
 POCSAG2400: Address: 1311088  Function: 1 
 POCSAG2400: Address:  548053  Function: 2  Alpha:   17:44-47 YOUR ITEM SOLD FOR A338.00: GET READY TO DISPATCH PANASONIC RBM300<NUL><NUL>
 POCSAG1200: Address:  549856  Function: 2  Alpha:   17:43-76 ~FOR INFO, N21 STATION CLOSED FOR COVID CLEAN AND BOTH CREWS OFF THE RUN 
@@ -972,29 +998,3 @@ POCSAG1200: Address:  265302  Function: 3  Alpha:   eP
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1413181121+++TIME=1413181121<NUL>
 POCSAG2400: Address: 1022277  Function: 0  Alpha:   14:13-49 NHSBT - 
 POCSAG1200: Address: 1258970  Function: 2  Alpha:   14:12-97 Please Call Switchboard<NUL><NUL>
-POCSAG512: Address: 2074225  Function: 2 
-POCSAG1200: Address: 1377733  Function: 3 
-POCSAG1200: Address:  433741  Function: 2  Alpha:   14:11-21 3997<NUL>X<DEL><DEL>
-POCSAG1200: Address:  420460  Function: 3  Alpha:   <DC2>CA<ETX>L
-POCSAG1200: Address:  290040  Function: 3  Alpha:   <EM><BS>D`L
-POCSAG1200: Address:   22104  Function: 2  Alpha:   14:10-39 TEST TEST TEST<NUL><NUL>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   14:10-15 INC ALERT No: 16794362 Choking - CHEST PAISN, AT: 11A THORNBERRY AVENUE, EXETER, EX1 3HR, Time of Call: 18/11/2021 14:10:16, Co-ords: 50.724146332 -3.490796266
-POCSAG1200: Address: 1032937  Function: 0 
-POCSAG1200: Address:  725894  Function: 2  Alpha:   14:10-49 WEEKLY TEST
-POCSAG1200: Address:  597136  Function: 0  Alpha:   <CR><,t<STX>*D%<ENQ>*<ESC>#C<ETX>
-POCSAG1200: Address: 1039338  Function: 3  Alpha:   <NAK>`
-POCSAG1200: Address:  371936  Function: 2  Alpha:   18-11-21 14:00 WEEKLY TEST, PLEASE CALL SECURITY TO CONFIRM RECEIPT OF THIS MESSAGE. EXT 5348<NUL>
-POCSAG1200: Address: 1122825  Function: 0 
-POCSAG1200: Address: 1266984  Function: 2 
-POCSAG1200: Address:  674704  Function: 3 
-POCSAG1200: Address:  561868  Function: 3 
-POCSAG1200: Address: 1253555  Function: 1 
-POCSAG1200: Address:   95634  Function: 1  Alpha:   RR
-POCSAG1200: Address: 1438434  Function: 3 
-POCSAG1200: Address: 1515704  Function: 1  Alpha:   <ACK>f2<SOH>5.J<SYN>
-POCSAG1200: Address:  619026  Function: 2  Alpha:   <SO><DC2>
-POCSAG1200: Address: 1511903  Function: 0 
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   14:07-74 5002<NUL>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   14:07-25 4379<NUL>
-POCSAG1200: Address: 1480309  Function: 0 
-POCSAG1200: Address: 1874437  Function: 3 
