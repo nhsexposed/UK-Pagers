@@ -1,3 +1,28 @@
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:43-70 18/11/2021 13:41:00 INC 24684230 12A01E 57 NIMROD STREET, WALTON L4, L4 4DU Male 37Y HAD A FIT GRD 335752 394153<NUL>
+POCSAG1200: Address: 1560636  Function: 0 
+POCSAG1200: Address: 2008021  Function: 1 
+POCSAG1200: Address:  559144  Function: 2  Alpha:    WN7 2AH Male 85Y UNCONC DIABETIC - BS 1.4 GRD 366797 400001
+POCSAG1200: Address:  340294  Function: 1  Alpha:   MRJ<SYN><SYN>R2<SOH>1<SYN>&<RS>"2<SOH>]:^<SOH>I<ENQ>"<STX>5<ACK>3<ETB><ETX>aUe<STX>U:<SO>>:<SO><STX><DC1>&<ACK><LF><SYN>R&<SO><STX>5<SOH><HT>N<STX>E9Q<SOH><GS>J<DC2><STX>MYY]e]<SOH>QAAAAE
+POCSAG1200: Address: 1741685  Function: 1 
+POCSAG512: Address:  553732  Function: 1  Alpha:   fS
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB T
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   13:42-26 5013<NUL>
+POCSAG1200: Address: 1258733  Function: 2  Alpha:   13:42
+POCSAG1200: Address: 1032147  Function: 2  Alpha:   <EOT>M
+POCSAG1200: Address: 2057408  Function: 2  Alpha:   <STX>e,<FF><FS>-<EOT><SUB><FF>dd<EOT><DC2>C3#<DC3><ETX><NUL><NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:41-24 62849
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3J<DC1>@
+POCSAG1200: Address:  738995  Function: 3 
+POCSAG1200: Address:  445626  Function: 0 
+POCSAG1200: Address:  154130  Function: 3 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:41-42
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   v0
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   13:41-62 5204<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   13:41-97 PLS CALL JEN WALTON 7238077 RE: A & E PATIENT <NUL><NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   Fb
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>CMDL
+POCSAG1200: Address: 2026098  Function: 0 
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:39-23 PLS CALL 66831<NUL><NUL>
 POCSAG1200: Address: 2041456  Function: 1 
 POCSAG1200: Address:  435744  Function: 0 
@@ -973,28 +998,3 @@ POCSAG1200: Address:  679608  Function: 2  Alpha:   09:59-47 62877
 POCSAG1200: Address:  926240  Function: 0 
 POCSAG2400: Address:  549099  Function: 2  Alpha:   09:59-67 PLEASE CALL HUB OPERATIONS RE DONOR 152953
 POCSAG1200: Address: 2044503  Function: 0 
-POCSAG2400: Address:  549108  Function: 2  Alpha:   09:59-68 PLEASE CALL HUB OPERATIONS RE DONOR 152953
-POCSAG2400: Address:  549107  Function: 2  Alpha:   09:59-21 PLEASE CALL HUB OPERATIONS RE DONOR 152953
-POCSAG2400: Address: 1914019  Function: 2  Alpha:   09:59-86 4104<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   09:58-52 2447<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0958181121+++TIME=0958181121<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   09:57-99 5202<NUL>
-POCSAG1200: Address:  627237  Function: 1 
-POCSAG2400: Address:  583456  Function: 2  Alpha:   09:56-88 80300
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   09:56-98 INC ALERT No: 16
-POCSAG1200: Address: 1845968  Function: 3  Alpha:   04/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  173168  Function: 1 
-POCSAG1200: Address:  184273  Function: 2 
-POCSAG1200: Address: 1896048  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:55-69 5202<NUL>
-POCSAG1200: Address: 1604336  Function: 1 
-POCSAG1200: Address:  135429  Function: 2  Alpha:   09:55-22 6716<NUL>|<DEL><DEL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   09:55-48 5460<NUL>
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address: 1157497  Function: 0 
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address:  745969  Function: 2 
-POCSAG2400: Address: 1573818  Function: 2  Alpha:   09:53-84 6716<NUL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   09:53-02 5201<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0953181121+++TIME=0953181121<NUL>
-POCSAG1200: Address: 1241897  Function: 0 
