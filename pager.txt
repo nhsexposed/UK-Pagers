@@ -1,3 +1,40 @@
+POCSAG1200: Address: 1122825  Function: 0 
+POCSAG1200: Address: 1266984  Function: 2 
+POCSAG1200: Address:  674704  Function: 3 
+POCSAG1200: Address:  561868  Function: 3 
+POCSAG1200: Address: 1253555  Function: 1 
+POCSAG1200: Address:   95634  Function: 1  Alpha:   RR
+POCSAG1200: Address: 1438434  Function: 3 
+POCSAG1200: Address: 1515704  Function: 1  Alpha:   <ACK>f2<SOH>5.J<SYN>
+POCSAG1200: Address:  619026  Function: 2  Alpha:   <SO><DC2>
+POCSAG1200: Address: 1511903  Function: 0 
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   14:07-74 5002<NUL>
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   14:07-25 4379<NUL>
+POCSAG1200: Address: 1480309  Function: 0 
+POCSAG1200: Address: 1874437  Function: 3 
+POCSAG1200: Address:  647940  Function: 2 
+POCSAG1200: Address: 1355667  Function: 3  Alpha:   <HT>t
+POCSAG1200: Address:  662059  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   14:06
+POCSAG1200: Address:  557770  Function: 3 
+POCSAG1200: Address:  189074  Function: 0 
+POCSAG1200: Address: 1006328  Function: 3 
+POCSAG1200: Address:  799605  Function: 3 
+POCSAG1200: Address: 1122476  Function: 2 
+POCSAG1200: Address:   33620  Function: 2 
+POCSAG1200: Address: 2028260  Function: 0 
+POCSAG1200: Address:  421535  Function: 1 
+POCSAG1200: Address: 1316254  Function: 0 
+POCSAG1200: Address: 1271086  Function: 1 
+POCSAG1200: Address: 1686917  Function: 1 
+POCSAG1200: Address:  918912  Function: 2 
+POCSAG1200: Address: 1315095  Function: 1  Alpha:   O%h<STX><SUB>
+POCSAG1200: Address:  628775  Function: 2 
+POCSAG1200: Address:  142567  Function: 2  Alpha:   <EM><VT>Y@<ACK><ETX>*@e<DC4><ENQ>A<SUB>CYKAp`2A<FF><ETX><EM><EM><VT><GS>A<DLE><DC3>)A<DLE><VT><ETX><HT>A<SO>%<HT>Aff`f`n@jjlhd`
+POCSAG1200: Address:  107306  Function: 2  Alpha:   jj
+POCSAG1200: Address: 1933875  Function: 0 
+POCSAG1200: Address: 1511970  Function: 3  Alpha:   <ACK>q
+POCSAG2400: Address: 1022632  Function: 0  Alpha:   14:05-15 Medical Emergency/Adult Crash  BUS STOP OUTSIDE MAIN ENTRANCE<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   14:04-36 4399<NUL>
 POCSAG1200: Address: 1039333  Function: 3  Alpha:   <NAK><BS>
 POCSAG2400: Address:   28894  Function: 0  Alpha:   14:03-54 4167<NUL>
@@ -961,40 +998,3 @@ POCSAG1200: Address:  337964  Function: 0  Alpha:   <EM>h
 POCSAG1200: Address: 1417284  Function: 3 
 POCSAG1200: Address:  624475  Function: 1  Alpha:   np
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:27-54 2180<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>s
-POCSAG1200: Address: 1322009  Function: 2  Alpha:   10:27-47 3992<NUL>
-POCSAG1200: Address:  265302  Function: 3  Alpha:   eP
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   10:27-43 2798<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1812350  Function: 3  Alpha:   Uj
-POCSAG1200: Address: 1879921  Function: 0 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   f<BS>
-POCSAG1200: Address: 2072697  Function: 1 
-POCSAG2400: Address: 1913655  Function: 2  Alpha:   10:24-71 3158<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   10:24-72 3180<NUL>
-POCSAG2400: Address:  552614  Function: 2  Alpha:   10:24-34 0<NUL>
-POCSAG2400: Address:  295505  Function: 0 
-POCSAG1200: Address: 1318076  Function: 2  Alpha:   10:23-39 3077<NUL>
-POCSAG1200: Address: 1998944  Function: 0 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   10:22-54 4379<NUL>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   10:21-80 66483
-POCSAG1200: Address:  679608  Function: 2  Alpha:   10:21-50 66483
-POCSAG1200: Address:   28931  Function: 0  Alpha:   10:21-74 radio workshop test
-POCSAG1200: Address:  437873  Function: 3 
-POCSAG2400: Address:  150086  Function: 0  Alpha:   10:20-48 5906<NUL>
-POCSAG2400: Address: 2014833  Function: 3 
-POCSAG2400: Address: 2014836  Function: 3 
-POCSAG1200: Address: 1352656  Function: 2 
-POCSAG1200: Address: 1318076  Function: 2  Alpha:   10:19-38 7<NUL>
-POCSAG1200: Address:  363869  Function: 2  Alpha:   10:17-56 18/11/2021 10:15
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:17-70 4188<NUL>
-POCSAG1200: Address: 1289851  Function: 3  Alpha:   3 06E01 16 MOUNTBATTEN COURT, CREWE CW2, CW2 7ST Male 69Y MALE DIB GRD 369412 355418<NUL>
-POCSAG1200: Address: 1813345  Function: 1 
-POCSAG2400: Address: 1913643  Function: 2  Alpha:   10:16-56 5201<NUL>
-POCSAG2400: Address: 1323880  Function: 2  Alpha:   10:16-26 2857<NUL>
-POCSAG2400: Address: 1913929  Function: 2  Alpha:   10:15-87 4387<NUL>
-POCSAG1200: Address:  959082  Function: 1 
-POCSAG1200: Address: 2025459  Function: 1 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   10:13-31 4160<NUL>
-POCSAG2400: Address: 1913970  Function: 2  Alpha:   10:13-10 4262<NUL>
-POCSAG2400: Address: 1913712  Function: 2  Alpha:   10:13-07 4269<NUL>
