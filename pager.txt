@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:48-29 5013<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   15:48-75 18/11/2021 15:46:04 INC 24684807 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1548181121+++TIME=1548181121<NUL>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   &b
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:47-27 3130<NUL>
+POCSAG2400: Address:  569909  Function: 1 
+POCSAG2400: Address: 1483442  Function: 1 
+POCSAG2400: Address: 1290851  Function: 0 
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   15:47-11 2581<NUL>
+POCSAG1200: Address: 1058505  Function: 2  Alpha:   15:47-36 2110<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:47-28 2616<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/<SYN><DLE>12 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:46-55 2447<NUL>
+POCSAG2400: Address: 2014839  Function: 3 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:46-34 3164<NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   15:46-79 18/11/2021 15:43:59 INC 24684801 ACROSS THE ROAD, 102 BILLINGE ROAD, PEMBERTON WIGAN, WN5 9JH Male 33Y CAR HIT A CYCLE GRD 356289 404375
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:46-26 4954<NUL>
+POCSAG1200: Address: 1511970  Function: 3  Alpha:   <SYN><EOT>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   15:44-78 18/11/2021 15:42:41 INC 2468479<DEL>!NEAR TO CASTLEWAY 
+POCSAG1200: Address: 1737313  Function: 2 
+POCSAG1200: Address:  849116  Function: 1  Alpha:   3<ETX>"<ETX><DC3>K;K
+POCSAG1200: Address: 2027632  Function: 1 
+POCSAG2400: Address: 1320382  Function: 2  Alpha:   15:44-82 5374<NUL>
 POCSAG2400: Address: 1913827  Function: 2  Alpha:   15:43-56 4554<NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   15:42-54 33803
 POCSAG1200: Address:  420502  Function: 2  Alpha:   <SYN>p
@@ -975,26 +998,3 @@ POCSAG1200: Address: 2017526  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1761349  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:   80076  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  414171  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761498  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1511856  Function: 2  Alpha:   <ACK><DC3>
-POCSAG1200: Address:  619128  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2076296  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  212111  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031726  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1031461  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906580  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031883  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  553925  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  414106  Function: 3  Alpha:   <DC1>4Y&AC<FF>b
-POCSAG1200: Address:  647701  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017532  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039291  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512762  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812409  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906880  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212240  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  269352  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761479  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  600182  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1032053  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906572  Function: 3  Alpha:   !<ACK>
