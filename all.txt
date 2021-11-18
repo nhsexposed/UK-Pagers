@@ -19637,3 +19637,27 @@ POCSAG1200: Address:  679608  Function: 2  Alpha:   11:28-51 69001
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   11:28-81 69001
 POCSAG1200: Address: 1039231  Function: 3  Alpha:   !<ACK>
 POCSAG2400: Address: 2010981  Function: 0 
+POCSAG2400: Address: 1895006  Function: 2 
+POCSAG2400: Address: 1259200  Function: 2 
+POCSAG2400: Address:  632664  Function: 1  Alpha:   rr
+POCSAG2400: Address: 1315697  Function: 2 
+POCSAG2400: Address:  866673  Function: 0 
+POCSAG2400: Address:  150086  Function: 0  Alpha:   11:29-51 2894<NUL>
+POCSAG2400: Address: 2026353  Function: 2 
+POCSAG2400: Address:  926244  Function: 0 
+POCSAG2400: Address: 1859062  Function: 1  Alpha:   eA$KMKeeCYA<CAN>S]K<SOH><NUL>
+POCSAG2400: Address: 1913836  Function: 2  Alpha:   11:30-77 5905<NUL>
+POCSAG1200: Address:  619026  Function: 2  Alpha:   VD
+POCSAG1200: Address: 2012752  Function: 2 
+POCSAG2400: Address:   28902  Function: 0  Alpha:   11:31-87 4379<NUL>
+POCSAG1200: Address:  290108  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1966614  Function: 0 
+POCSAG1200: Address: 2007790  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2075219  Function: 2 
+POCSAG2400: Address: 1140944  Function: 1 
+POCSAG1200: Address:  585254  Function: 2  Alpha:   11:32-81 01173421905
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:32-56 2547<NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   11:34-54 3120<NUL>
+POCSAG1200: Address:  290038  Function: 3  Alpha:   9<BS><SYN>LL
