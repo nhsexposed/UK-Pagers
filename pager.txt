@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1586763  Function: 1  Alpha:   <SYN>Jfj<SOH>
+POCSAG2400: Address: 1814968  Function: 0  Alpha:   20:19-26 8260<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:19-25 4183<NUL>
+POCSAG2400: Address:  947360  Function: 0 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   20:18-36 RECOVERY: Citrix Host Service is OK on host rnyflelcit03mc1, <CR><LF>RECOVERY: Citrix Host Service is OK on host rnyflelcit03mc1<CR><LF>Service: Citrix Host Service<CR><LF>Host: rnyflelcit03mc1<CR><LF>Alias: Citrix 1912 LTSR Server<CR><LF>Address: 10.0.40.216<CR><LF>Host Grou<NUL><NUL>
+POCSAG2400: Address: 2094064  Function: 3 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   20:17-68 PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on host CISCMS-Tier-1-a, <CR><LF>PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on host CISCMS-Tier-1-a<CR><LF>Service: Web Check Site: civicasnowportal.com<CR><LF>Host: CISCMS-Tier-1-a<CR><LF>Al<NUL><NUL>
+POCSAG2400: Address: 1878755  Function: 1 
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:17-06 PROBLEM: Web Che
+POCSAG2400: Address:  660608  Function: 2 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   20:17-67 PROBLEM: Web Check Site: civicasamportal.com is CRITICAL on host CISCMS-Tier-1-a, <CR><LF>PROBLEM: Web Check Site: civicasamportal.com is CRITICAL on host CISCMS-Tier-1-a<CR><LF>Service: Web Check Site: civicasamportal.com<CR><LF>Host: CISCMS-Tier-1-a<CR><LF>Alias<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  230953  Function: 3  Alpha:   Rh
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   vD
+POCSAG2400: Address: 2064096  Function: 2 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   20:15-20 PROBLEM: Web Check Site: escan.britishcouncil.org is CRITICAL on host BCCHOU-Tier-1-a, <CR><LF>PROBLEM: Web Check Site: escan.britishcouncil.org is CRITICAL on host BCCHOU-Tier-1-a<CR><LF>Service: Web Check Site: escan.britishcouncil.org<CR><LF>Host: BCCHOU-<NUL><NUL>
+POCSAG1200: Address: 2074226  Function: 2 
 POCSAG1200: Address:  148693  Function: 2 
 POCSAG1200: Address: 1925683  Function: 2  Alpha:   20:13-79 18/11/2021 20:12:27 INC 24685999 31E01 13 FERMOR ROAD, PRESTON, PR1 4TX Female 52Y NOISY BREATHING - BLEEDING FROM PR GRD 356279 430200<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2013181121+++TIME=2013181121<NUL>
@@ -981,20 +998,3 @@ POCSAG2400: Address:  585333  Function: 2  Alpha:   16
 POCSAG2400: Address: 1942386  Function: 0 
 POCSAG1200: Address: 2056340  Function: 2 
 POCSAG1200: Address:  295505  Function: 0 
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:29-00 3164<NUL>
-POCSAG1200: Address:  557773  Function: 3 
-POCSAG1200: Address:  189076  Function: 2 
-POCSAG1200: Address:  169676  Function: 1 
-POCSAG1200: Address: 1250491  Function: 3  Alpha:   l<EOT>
-POCSAG1200: Address: 1522754  Function: 1 
-POCSAG1200: Address: 1096105  Function: 3  Alpha:   ED
-POCSAG1200: Address:  177161  Function: 1 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>*
-POCSAG2400: Address: 1320362  Function: 2  Alpha:   16:25-67 2233<NUL>
-POCSAG2400: Address:   11796  Function: 0  Alpha:   16:25-49 Boiler lock out ALERT<NUL>
-POCSAG2400: Address:   11796  Function: 0  Alpha:   16:25-49 Boiler lock out ALERT<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   16:25-63 4156<NUL>
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   16:25-95 Leigh Mason 07734 221112<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   16:24-86 18/11/2021 16:19:29 INC 24684963 23D02I OPPOSITE OUTSIDE SHELL GARAGE, KLEEN KUTZ, 6 WHALLEY BANKS, BLACKBURN, BB2 1NU Male 55Y FOUND COLLAPSED ON FLOOR - TAKEN TABLETS GRD 367725 427693<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   16:24-07 2642<NUL>
-POCSAG1200: Address: 1352294  Function: 0 
