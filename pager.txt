@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   15:59-80 18/11/2021 15:57:41 INC 2468
+POCSAG1200: Address: 1761388  Function: 3  Alpha:   E<STX>
+POCSAG2400: Address:   28893  Function: 0  Alpha:   15:58-84 5201<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1558181121+++TIME=1558181121<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:58-29 4283<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:56-08 2561<NUL>
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   15:56-66 2233<NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   15:56-30 61907
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:55-63 4167<NUL>
+POCSAG2400: Address: 1520824  Function: 0 
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   15:55-25 4155<NUL>
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <ACK><ACK>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   15:54-04 18/11/2021 15:47:43 INC 24684812 12D01 48 MANOR ROAD, SHAW OLDHAM, OL2 7JJ Female 61Y HAD A FIT AFTER PASSING OUT GRD 393393 4:y072
 POCSAG2400: Address:  549209  Function: 2  Alpha:   15:53-84 RE: In the Estate of Isaac Neil Deceased<NUL><NUL>
 POCSAG1200: Address:  401693  Function: 2  Alpha:   15:53-14 DR LEVENSON - PLS CALL MRS GROSS, 0161 792 4340 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1512746  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  212249  Function: 3  Alpha:   !<ACK>
 POCSAG2400: Address: 1914019  Function: 2  Alpha:   12:00-87 2581<NUL>
 POCSAG1200: Address: 1512856  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1560398  Function: 3 
-POCSAG1200: Address:  399741  Function: 0  Alpha:   <FF>}
-POCSAG1200: Address: 1912925  Function: 3 
-POCSAG1200: Address: 1288322  Function: 2  Alpha:   d@<NUL><ETX>%<BEL>'<DC3><HT><VT>A")A
-POCSAG1200: Address:  828028  Function: 1 
-POCSAG1200: Address:  695458  Function: 2  Alpha:   11:59-78 8386<NUL>
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   11:59-10 }457<NUL>
-POCSAG1200: Address: 2008954  Function: 0 
-POCSAG1200: Address:  290038  Function: 3  Alpha:   f0
-POCSAG2400: Address: 2008020  Function: 1 
-POCSAG1200: Address: 1039143  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761496  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80103  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906542  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 2017537  Function: 3  Alpha:   !<ACK>
