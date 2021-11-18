@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   19:28-34 2233<NUL>
+POCSAG2400: Address: 1831537  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1928181121+++TIME=1928181121<NUL>
+POCSAG1200: Address: 1156901  Function: 0  Alpha:   pb`bb
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1928181121+++T<HT>31
+POCSAG1200: Address: 1770612  Function: 2  Alpha:   19:27-84 5004<NUL>
+POCSAG1200: Address: 1521002  Function: 3 
+POCSAG1200: Address: 1142280  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1275565  Function: 0 
+POCSAG1200: Address:  150828  Function: 0 
+POCSAG1200: Address:  297003  Function: 0  Alpha:   (J
+POCSAG1200: Address: 1680466  Function: 0  Alpha:   <ACK>R
+POCSAG1200: Address:  288906  Function: 2 
+POCSAG1200: Address:   88577  Function: 0 
+POCSAG1200: Address:  598929  Function: 2 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   19:25-17 4167<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:25-77 44v2<BS>
 POCSAG1200: Address: 1974485  Function: 0 
 POCSAG1200: Address:   42299  Function: 2  Alpha:   19:24-27 PLEASE CALL TRAUMA WARD ON 01295 229 196<NUL><NUL>
 POCSAG1200: Address: 1321700  Function: 2  Alpha:   19:22-95 Destination: D105 SSC In\123, Booking Ref#: 801220, Vehicle: PO67XUP. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address:  478761  Function: 3
 POCSAG1200: Address:  866320  Function: 3  Alpha:   ,.
 POCSAG1200: Address: 1586528  Function: 1 
 POCSAG1200: Address: 1893782  Function: 0  Alpha:   VE<NUL>GR
-POCSAG1200: Address: 1221184  Function: 0 
-POCSAG1200: Address:  433829  Function: 2  Alpha:   15:53-04 4417<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   15:53-91 3414<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   15:53-62 5201<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1553181121+++TIME=1553181121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1553181121+++TIME=1553181121<NUL>
-POCSAG1200: Address: 1877082  Function: 0 
-POCSAG1200: Address:   41432  Function: 2  Alpha:   15:52-90 18/11/2021 15:51:27 INC 24684831 10D04 43 TEMPLE STREET, NELSON, BB9 0TH Male 11Y CHEST PAIN GRD 386769 437677
-POCSAG1200: Address:  269340  Function: 0 
-POCSAG1200: Address:  197367  Function: 0 
-POCSAG1200: Address:  212087  Function: 0 
-POCSAG1200: Address:   80014  Function: 0 
-POCSAG1200: Address:  290208  Function: 0 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   15:52-48 18/11/2021 15:50:42 INC 24684825 10D02 83 WARRINGTON STREET, BLACKBURN, BB1 5PN Male 74Y CHEST PAINS GRD 369291 429560<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   15:52-77 18/11/2021 15:50:42 INC 24684825 10D02 83 WARRINGTON STREET, BLACKBURN, BB1 5PN Male 74Y CHEST PAINS GRD 369291 429560<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   15:52-32 18/11/2021 15:50:42 INC 24684825 10D02 83 WARRINGTON STREET, BLACKBURN, BB1 5PN Male 74Y CHEST PAINS GRD 369291 429560<NUL>
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>#<DC1>(L
