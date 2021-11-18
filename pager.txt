@@ -1,3 +1,24 @@
+POCSAG1200: Address:  585452  Function: 2  Alpha:   15:04-22 6399<NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1320382  Function: 2  Alpha:   15:04-80 5201<NUL>
+POCSAG1200: Address:  535747  Function: 1 
+POCSAG1200: Address: 1676098  Function: 2  Alpha:   b<DC4>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1503181121+++TIME=1503181121<NUL>
+POCSAG2400: Address: 1188724  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1321504  Function: 2  Alpha:   15:02-04 Patient<NUL>
+POCSAG1200: Address: 1220658  Function: 0 
+POCSAG1200: Address: 1761394  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1913655  Function: 2  Alpha:   15:02-75 3266<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1435352  Function: 3 
+POCSAG2400: Address:   28926  Function: 0  Alpha:   15:01-09 5204<NUL>
+POCSAG2400: Address: 1913918  Function: 2  Alpha:   15:01-22 2447<NUL>
+POCSAG1200: Address: 2079356  Function: 1 
+POCSAG2400: Address: 1544819  Function: 2 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   15:00-13 18/11/2021 14:56
+POCSAG1200: Address:  174993  Function: 0 
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   V<NUL>
 POCSAG1200: Address:  174993  Function: 0 
@@ -977,24 +998,3 @@ POCSAG1200: Address:  300681  Function: 1
 POCSAG2400: Address:   28906  Function: 0  Alpha:   11:20-13 4283<NUL>
 POCSAG1200: Address:  420375  Function: 0 
 POCSAG2400: Address:  553378  Function: 2 
-POCSAG2400: Address:  216251  Function: 2  Alpha:   11:19-91 Alert from MANSDPMSFM01B, interconnect 3 - The connection on d
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>C<EOT><ETX>L
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:19-94 5013<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1118181121+++TIME=1118181121<NUL>
-POCSAG1200: Address:  197492  Function: 2  Alpha:   B<BS><NUL>`L
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   11:17-51 Alert from MANSDPMSFM02B, interconnect 6 - The connection on downlink por
-POCSAG2400: Address: 1323900  Function: 2  Alpha:   11:17-09 GREEN - EXERCISE LIVIA COMPLETE WM DS BOW 
-POCSAG2400: Address: 1032518  Function: 3  Alpha:   f`
-POCSAG2400: Address: 1324553  Function: 2  Alpha:   11:17-99 INC ALERT No: 16793746 Cardiac Arrest -, AT: 32 VALE ROAD, BOSCOMBE BOURNEMOUTH, BH1 3SZ, Time of Call: 18/11/2021 11:16:51, Co-ords: 50.725888872 -1.851960047
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   11:17-32 2343<NUL>
-POCSAG1200: Address: 1836571  Function: 3  Alpha:   YY
-POCSAG1200: Address:   96681  Function: 0  Alpha:   T 
-POCSAG1200: Address:  722728  Function: 3  Alpha:   4<DC1>
-POCSAG1200: Address: 1508701  Function: 2 
-POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>CM<NUL>L
-POCSAG2400: Address: 1057096  Function: 2 
-POCSAG2400: Address:  184150  Function: 0 
-POCSAG2400: Address:  216251  Function: 2  Alpha:   11:16-88 Alert from MANSDPMSFM01B, interconnect 3 - The connection on downlink port 8, su..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM01B, interconnect 3<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
-POCSAG2400: Address: 1365218  Function: 1  Alpha:   >F&<BEL><DC2><ETX><VT>3<ETX>B,>g.&'<BEL><STX><CR><RS>^<SO><SYN>'<ACK>*t&/<SYN><BEL><ETB>O<RS>/<ACK>",6/f~<ACK>o.v&<BEL>b<EOT><ENQ>jjrkP<DLE>-<RS><DEL>.<ETB><US>.<ACK>j<FF>t<FS>%<EOT>m<FS>5l<EOT><DC3><DC3>d<STX>Jv&/<SYN><US>~vv.<RS>&<BEL>2kP@&'<BEL><US>W{z<LF>;<DC3>s<DC2>KsBs*{<SUB>z<LF><RS>&O6O&O<DEL><DC2><DEL><DC2>/<RS>'<DEL>Jv&/<SYN><US>~<ACK><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   11:16-88 Alert from MANSDPMSFM02B, interconnect 6 - The connection on downlink port 20, s..., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFM02B, interconnect 6<CR><LF>https://172.29.8.5/#/activity/r/rest/interco<NUL><NUL>
