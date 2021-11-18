@@ -18379,3 +18379,43 @@ POCSAG1200: Address:  695837  Function: 2  Alpha:   08:04-54 OXYGEN ALARM AS ERR
 POCSAG1200: Address: 1925333  Function: 2  Alpha:   08:04-66 OXYGEN ALARM AS ERROR E6.5 PLEASE CALL CHARLENE 07837 942 597 
 POCSAG1200: Address:  549740  Function: 2  Alpha:   08:04-49 ** PROBLEM Service Alert: Maintenance server node 2/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /oxp/cds<CR><LF>Host: Maintenance server node 2<CR><LF>Address: pdcpzmnt002.priv.yospace.net
 POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-71 ** PROBLEM Service Alert: Maintenance server node 1/Check ATT Stream Status is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check ATT Stream Status<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt00
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-72 ** PROBLEM Service Alert: Maintenance server node 2/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 2<CR><LF>Address: pdcpzmnt002.priv.yospace.net
+POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-96 ** PROBLEM Service Alert: Maintenance server node 1/Check ATT Stream Status is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check ATT Stream Status<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt00
+POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-97 ** PROBLEM Service Alert: Maintenance server node 2/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 2<CR><LF>Address: pdcpzmnt002.priv.yospace.net
+POCSAG1200: Address: 1925701  Function: 2  Alpha:   08:04-76 8386<NUL>
+POCSAG1200: Address:  549740  Function: 2  Alpha:   08:04-53 ** PROBLEM Service Alert: Maintenance server node 1/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt001.priv.yospace.net
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   08:04-75 ** PROBLEM Service Alert: Maintenance server node 1/Check /opt/cds is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /opt/cds<CR><LF>Host: Maintenance server node 1<CR><LF>Address: pdcpzmnt001.priv.yospace.net
+POCSAG1200: Address:  549236  Function: 2  Alpha:   08:04-00 ** PROBLEM Service Alert: Maintenance server node 1/Check /mnt/miscreports_priv_yospace_net is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check /mnt/miscreports_priv_yospace_net<CR><LF>Host: Maintenance se
+POCSAG1200: Address: 1816963  Function: 2  Alpha:   08:04-98 Destination: Parking\D78 Ext TP, Booking Ref#: 801482, Vehicle: GN66SYP. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 1744385  Function: 2  Alpha:   <DC1>#
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <FF>`L
+POCSAG2400: Address: 1032259  Function: 0 
+POCSAG1200: Address:  940544  Function: 2  Alpha:   08:05-48 8386<NUL>
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   08:06-91 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address: 1572704  Function: 3  Alpha:   Rl<DLE>aL
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   08:06-92 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   08:06-44 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <FF>`L
+POCSAG1200: Address:  334075  Function: 2  Alpha:   08:06-11 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   08:06-51 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   08:06-14 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:06-02 18/11/2021 08:04:56 INC 24682799 31E01 7 MALHAMDALE AVENUE, RAINHILL L35, L35 4QF Female 45Y F - CANT WAKE UP GRD 349968 390982<NUL>
+POCSAG1200: Address: 1312647  Function: 2  Alpha:   08:06-34 Proceed to: 039192-18112021 RTC PERSONS TRAPPED SMALL VEHICLE  JUNCTION 10 TO 11,WISLEY TO CHERTSEY,M25<NUL><NUL>
+POCSAG1200: Address: 1863810  Function: 1  Alpha:   uX
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <FF>`L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  649969  Function: 2  Alpha:   08:07-56 66483
+POCSAG1200: Address:  679608  Function: 2  Alpha:   08:07-44 66483
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   08:07-74 66483
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   A<EM>
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <FF>`L
+POCSAG1200: Address:  269168  Function: 2  Alpha:   08:07-90 18/11/2021 08:05:43 INC 24682801 02D02 VICARAGE DRIVE - BELFRY HOUSE, HALIFAX ROAD, SMALLBRIDGE ROCHDALE, OL16 2RQ Male 33Y ALLERGIC REACTION - GRD 391353 415222<NUL>
+POCSAG1200: Address:  269100  Function: 2  Alpha:   08:07-67 18/11/2021 08:05:43 INC 24682801 02D02 VICARAGE DRIVE - BELFRY HOUSE, HALIFAX ROAD, SMALLBRIDGE ROCHDALE, OL16 2RQ Male 33Y ALLERGIC REACTION - GRD 391353 415222<NUL>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   08:07-80 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   08:08-46 3105<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808181121+++TIME=0808181121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0808181121+++TIME=0808181121<NUL>
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A@<FF>`L
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   08:08-87 18/11/2021 08:06:23 INC 24682804 31D04 5 LANCASTER STREET, BLACKBURN, BB2 1UA Male 6M 6 M/OLD - FLOPPY GRD 367076 427626<NUL><NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   08:09-47 18/11/2021 08:04:53 INC 24682797 17D05 DEAN BRADLEY COURT, 37 LATHBURY ROAD, HARPURHEY MANCHESTER, M40 8NR Male 89Y FALL GRD 386069 400590<NUL>
+POCSAG1200: Address: 1033006  Function: 2  Alpha:   <DLE>D<FF>$yd0f
