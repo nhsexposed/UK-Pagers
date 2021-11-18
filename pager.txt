@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   14:28-90 2616<NUL>
+POCSAG1200: Address:  963126  Function: 1 
+POCSAG1200: Address:  293234  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1428181121+++TIME=1428181121<NUL>
+POCSAG1200: Address: 1259921  Function: 3  Alpha:   <ENQ>'<ACK>`L
+POCSAG2400: Address: 1031602  Function: 0 
+POCSAG2400: Address: 1321021  Function: 2  Alpha:   14:27-28 4935<NUL>
+POCSAG2400: Address: 1914026  Function: 2  Alpha:   14:27-95 4160<NUL>
+POCSAG1200: Address: 1606072  Function: 1 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:27-96 4310<NUL>
+POCSAG2400: Address:  695193  Function: 1 
+POCSAG2400: Address: 1314680  Function: 0 
+POCSAG2400: Address: 1835894  Function: 0 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   14:<DLE><ACK>)18 2300<NUL>
+POCSAG2400: Address:   28925  Function: 0  Alpha:   14:26-59 5201<NUL>
+POCSAG2400: Address:   28920  Function: 0  Alpha:   14:26-80 2642<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address:  499350  Function: 1 
+POCSAG1200: Address: 1812035  Function: 2  Alpha:   s2
+POCSAG1200: Address:  990906  Function: 0  Alpha:   }}
+POCSAG2400: Address:  908792  Function: 3 
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   14:25-32 2616<NUL>
+POCSAG1200: Address: 2008956  Function: 0 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   14:24-95 4310<NUL>
 POCSAG1200: Address: 1737237  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1423181121+++TIME=1423181121<NUL>
@@ -975,26 +998,3 @@ POCSAG1200: Address:  312448  Function: 1
 POCSAG2400: Address:  549210  Function: 2  Alpha:   10:55-46 71987
 POCSAG1200: Address: 1749683  Function: 2 
 POCSAG1200: Address:  774144  Function: 2 
-POCSAG1200: Address: 1067540  Function: 2  Alpha:   10:54-12 PLS GO TO ADMIN ASAP <NUL>
-POCSAG1200: Address: 1880946  Function: 3 
-POCSAG1200: Address: 1779753  Function: 2 
-POCSAG1200: Address: 1031732  Function: 3  Alpha:   <DC2>@
-POCSAG2400: Address:   28907  Function: 0  Alpha:   10:53-79 4201<NUL>
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   <ACK><VT>
-POCSAG1200: Address: 1511903  Function: 0 
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   F<NUL>
-POCSAG2400: Address: 1544823  Function: 2 
-POCSAG2400: Address:  626981  Function: 3  Alpha:   l@<DLE>_gaSiCYA<SYN><DC3><GS><SI>')<US><GS>A<DLE><US>'!<DC3>)<ETX><EM>A<BS>KaiA<DC2><BEL>+A\@$KOCeIgA<BS>_]_eA$KMKeeCYA<CAN>S]K<SOH>
-POCSAG2400: Address: 1483364  Function: 1 
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   10:53-41 2618<NUL>
-POCSAG1200: Address:  216725  Function: 2  Alpha:   10:53-31 Proceed to: 039209-18112021 SMALL VEHICLE FIRE  DEERLEAP COTTAGE,SUTTON PLACE,ABINGER HAMMER,RH5 6RL<NUL><NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   VD
-POCSAG1200: Address: 1441905  Function: 0 
-POCSAG512: Address: 1441905  Function: 0 
-POCSAG1200: Address: 2069118  Function: 0 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   10:50-93 18/11/202q'
-POCSAG1200: Address:  339540  Function: 0 
-POCSAG1200: Address:  362627  Function: 3  Alpha:   b@<SO><ETX>)
-POCSAG1200: Address:  299617  Function: 3  Alpha:   f<ACK>7F<SYN><ACK><ACK><DC4>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1352288  Function: 0 
