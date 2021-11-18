@@ -17944,3 +17944,38 @@ POCSAG1200: Address:  320857  Function: 3
 POCSAG1200: Address: 1312566  Function: 2  Alpha:   07:02-80 NOTIFY - PLEASE CALL GUILDFORD FIRE STATION - MANY THANKS<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0703181121+++TIME=0703181121<NUL>
+POCSAG1200: Address: 1321715  Function: 2  Alpha:   07:05-60 Destination: D105 SSC In\113, Booking Ref#: 801465, Vehicle: sm17efm. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   11697  Function: 0  Alpha:   07:07-77 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:   28886  Function: 0  Alpha:   07:07-35 (1/3)039185-18112021; DOMESTIC SMOKE ALARM; 5,CHAPEL COURT,CHAPEL LANE,OFF PORTSMOUTH ROAD A3100,MILFORD,GODALMING,GU8 5HU; 494803,142393; BUILDING EVACUATED;<NUL>
+POCSAG1200: Address:   28886  Function: 0  Alpha:   07:07-35 (3/3) Additional_Data Reason for SAWV: ; Additional_Data Contact details of premises: <NUL><NUL>
+POCSAG1200: Address:   28886  Function: 0  Alpha:   07:07-36 (2/3) Assigned S25P1; Map_Book S 152 C1; Roles S25P1:PUMPING; Additional_Data Address Classification Self Contained Flat (Includes Maisonette / Apartment);<NUL>
+POCSAG1200: Address:  269101  Function: 2  Alpha:   07:08-06 18/11/2021 07:06:00 INC 24682649 26C02 WOODEND, GENERAL AREA OF, GARSDALE SEDBERGH, LA10 5PQ Female 44Y VOMITING ALOT, UNSTEADY ON FEET, LACK OF SENSATION IN FEET AND HANDS. GRD 374820 48961
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708181121+++TIME=0708181121<NUL>
+POCSAG1200: Address:  549740  Function: 2  Alpha:   07:08-35 ** PROBLEM Host Alert: 243146296-CanalDigital-PRD-CDGO_TV7_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146296-Can
+POCSAG1200: Address: 2047232  Function: 2  Alpha:   06bts4z0v<SYN>()bV!bcg/*k[/b`)dV'g<ACK>E)z0z2<GS><DLE>bg+g<ACK>E 22yry9<GS><DLE><EM>ZY<CAN><SUB><ESC>Y<FS>[<ACK>E$7s7<GS>P!i$jda &<GS>P7
+POCSAG1200: Address:  549236  Function: 2  Alpha:   07:08-82 ** PROBLEM Host Alert: 243146296-CanalDigital-PRD-CDGO_TV7_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146296-CanalDigital-PRD-CDGO_TV7_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146296<CR><LF>Info: CRITICAL: o
+POCSAG1200: Address:  549740  Function: 2  Alpha:   07:08-36 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL: one o
+POCSAG1200: Address:  481990  Function: 0  Alpha:   anAlDi3<HT>
+POCSAG1200: Address: 2046304  Function: 3 
+POCSAG1200: Address: 1972664  Function: 0  Alpha:   <ENQ>*
+POCSAG1200: Address: 1624507  Function: 3  Alpha:   <DC2><ACK>
+POCSAG1200: Address: 1176533  Function: 3 
+POCSAG1200: Address: 1868373  Function: 2 
+POCSAG1200: Address:  691462  Function: 0  Alpha:   TT
+POCSAG1200: Address: 1221959  Function: 1 
+POCSAG1200: Address:  642111  Function: 3  Alpha:   O%(N~<RS><BEL>R
+POCSAG1200: Address: 1387089  Function: 2 
+POCSAG1200: Address:  699433  Function: 1 
+POCSAG1200: Address:  723482  Function: 3 
+POCSAG1200: Address: 1028850  Function: 0  Alpha:   6N
+POCSAG1200: Address:  462011  Function: 2 
+POCSAG1200: Address:  784108  Function: 2 
+POCSAG1200: Address:   71068  Function: 3  Alpha:   pe: PROBLEM<HT><LF>Host<RS>KP
+POCSAG1200: Address: 1507912  Function: 3 
+POCSAG1200: Address:  373568  Function: 3  Alpha:   hl@npZ<ACK>C]CY
+POCSAG1200: Address:  511957  Function: 1  Alpha:   j<SUB>&vK<CAN>8<LF>Y!1~,B
+POCSAG1200: Address: 1241288  Function: 0  Alpha:   <ETB>k
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   07:08-59 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL:
+POCSAG1200: Address:  549236  Function: 2  Alpha:   07:08-84 ** PROBLEM Host Alert: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243146078-CanalDigital-PRD-CDGO_TV12_DASH-ON<CR><LF>State: DOWN<CR><LF>Address: 243146078<CR><LF>Info: CRITICAL:
+POCSAG1200: Address: 1321717  Function: 2  Alpha:   07:09-88 Destination: D105 SSC In\123, Booking Ref#: 801182, Vehicle: PJ70AOB. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
