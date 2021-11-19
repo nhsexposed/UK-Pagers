@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1913191121+++TIME=1913191121<NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   19:13-57 4114<NUL>
+POCSAG1200: Address:  433586  Function: 0 
+POCSAG1200: Address:  707615  Function: 0  Alpha:   9<BS>IY<EOT>
+POCSAG1200: Address: 1619816  Function: 1 
+POCSAG1200: Address: 1267206  Function: 3 
+POCSAG1200: Address:  413038  Function: 2 
+POCSAG1200: Address:  866685  Function: 1 
+POCSAG1200: Address:  619463  Function: 3 
+POCSAG1200: Address: 1387870  Function: 3  Alpha:   xH
+POCSAG1200: Address: 1060005  Function: 2 
+POCSAG1200: Address: 1188013  Function: 3 
+POCSAG1200: Address: 1604740  Function: 2 
+POCSAG1200: Address:  625978  Function: 0  Alpha:   \L
+POCSAG1200: Address:  334075  Function: 2  Alpha:   19:11-02 19/11/2021 19:10:39 INC 24690737 06E01 20 RIMMERBROOK ROAD, CHILDWALL L25, L25 2YH Female 49Y COPD - STRUGGLING TO BREATHE GRD 342760 389135<NUL><NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX>%
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   33713  Function: 2  Alpha:   19:09-64 PLS CALL UNIF FROM CLINICAL AT GUYS HOSP ON 07889 925 647 RE SAMPLE FOR TISSUE BUT HAVEN'T RECEIVED ANYTHING
+POCSAG2400: Address:  149253  Function: 2  Alpha:   19:09-36 PLEASE CALL BACK 01843 292 323
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   19:09-71 PLEASE CALL BACK 01843 292 323
+POCSAG2400: Address: 2009680  Function: 1 
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   19:09-16 PLEASE CALL BACK 01843 292 323
+POCSAG1200: Address: 1747522  Function: 2 
+POCSAG1200: Address: 1847905  Function: 0 
 POCSAG1200: Address:  858133  Function: 0 
 POCSAG1200: Address: 1942275  Function: 3  Alpha:   br
 POCSAG1200: Address:  216755  Function: 0 
@@ -974,27 +998,3 @@ POCSAG1200: Address:  549856  Function: 2  Alpha:   16:44-86 ~S21 - CLOSED FOR C
 POCSAG1200: Address: 1032699  Function: 3  Alpha:   <ACK><DLE>
 POCSAG2400: Address: 1879924  Function: 0 
 POCSAG2400: Address:  435956  Function: 0 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   16:43-95 5202<NUL>
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:43-22 4769<NUL>
-POCSAG2400: Address: 1913570  Function: 2  Alpha:   16:43-33 4269<NUL>
-POCSAG512: Address:  214607  Function: 3  Alpha:   O%
-POCSAG512: Address: 1652326  Function: 1  Alpha:   WnW<ACK><ETB>
-POCSAG512: Address:  954453  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 si
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   16:42-55 3255<NUL>
-POCSAG1200: Address:  549771  Function: 2  Alpha:   16:42-10 ~S21 STN - CLOSED FOR COVID CLEAN. FOR INFO<NUL><NUL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:41-23 5896<NUL>
-POCSAG1200: Address: 1008206  Function: 2  Alpha:   16:40-16 TEST BLEEP<NUL>
-POCSAG1200: Address: 1032917  Function: 3  Alpha:   <SYN>e
-POCSAG2400: Address:   33736  Function: 2  Alpha:   16:40-40 16:40-39 TEST BLEEP
-POCSAG1200: Address:  549138  Function: 2  Alpha:   16:40-16 TEST BLEEP<NUL>
-POCSAG1200: Address: 1044797  Function: 2  Alpha:   16:40-22 TEST BLEEP<NUL>
-POCSAG1200: Address: 1044798  Function: 2  Alpha:   16:40-14 TEST BLEEP<NUL>
-POCSAG1200: Address: 1044801  Function: 2  Alpha:   16:40-14 TEST BLEEP<NUL>
-POCSAG1200: Address: 1312891  Function: 2  Alpha:   16:40-13 TEST BLEEP<NUL>
-POCSAG1200: Address: 1001159  Function: 2  Alpha:   16:40-27 TEST BLEEP<NUL>
-POCSAG1200: Address: 1015248  Function: 2  Alpha:   16:40-30 TEST BLEEP<NUL>
-POCSAG1200: Address:  549140  Function: 2  Alpha:   16:40-01 TEST BLEEP<NUL>
-POCSAG1200: Address:  851267  Function: 2  Alpha:   16:40-20 TEST BLEEP<NUL>
-POCSAG2400: Address: 1640624  Function: 3 
-POCSAG2400: Address: 1913842  Function: 2  Alpha:   16:40-38 2018<NUL>
