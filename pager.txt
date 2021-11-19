@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1511868  Function: 2  Alpha:   F<DC2>
+POCSAG1200: Address:  236304  Function: 3  Alpha:   d<NUL>
+POCSAG1200: Address:  265355  Function: 3  Alpha:   FR
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   12:17-22 4387<NUL>
+POCSAG1200: Address: 1243597  Function: 0  Alpha:   S 
+POCSAG1200: Address:  853381  Function: 3 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:15-75 5243<NUL>
+POCSAG1200: Address: 1483382  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1213191121+++TIME=1213191121<NUL>
 POCSAG1200: Address: 1321675  Function: 2  Alpha:   12:13-00
 POCSAG2400: Address:   28905  Function: 0  Alpha:   12:13-67 5205<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1002969  Function: 1
 POCSAG1200: Address:  956456  Function: 3 
 POCSAG1200: Address:  622863  Function: 1  Alpha:   ZKgg<DC2>tsa
 POCSAG1200: Address: 1246862  Function: 3 
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   09:07-84 Primary PCI Call, Cath Lab ETA 15 Minutes, Contact BACU on Ext 3246 79
-POCSAG1200: Address:  586468  Function: 1 
-POCSAG1200: Address: 1098179  Function: 0  Alpha:   U on 
-POCSAG2400: Address: 1913695  Function: 2  Alpha:   09:07-85 5201<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1627067  Function: 1 
-POCSAG2400: Address: 1324652  Function: 2  Alpha:   09:05-02 09:05-01 TEST 09.05
-POCSAG1200: Address:  678651  Function: 2  Alpha:   09:05-85  I NEED SOME BLOODS PICKING UP FROM KINGSLEY WARD<NUL><NUL>
