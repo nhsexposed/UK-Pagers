@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:18-31 4462<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0018191121+++TIME=0018191121<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   00:17-03 PLS CALL A&E ON 7234426<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/ "02 CH3B<NUL><NUL>
+POCSAG1200: Address: 2008959  Function: 0 
+POCSAG1200: Address: 1330193  Function: 2 
+POCSAG1200: Address:  100480  Function: 3  Alpha:   h@Dp@
+POCSAG1200: Address:  269168  Function: 2  Alpha:   00:15-73 19/11/2021 00:13:21 INC 24686879 
+POCSAG1200: Address: 1976276  Function: 0 
+POCSAG1200: Address: 1859921  Function: 0  Alpha:   -<DC3><US><EM><ETX><ENQ><EM><VT>A<DC2><CR>A$<VT>#+<DC3>%<VT><HT>]<NUL>
+POCSAG1200: Address: 1969737  Function: 0 
+POCSAG1200: Address:  690576  Function: 0  Alpha:   S 
+POCSAG1200: Address:  406536  Function: 1 
+POCSAG1200: Address: 1864240  Function: 0 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:14-30 3132<NUL>
 POCSAG2400: Address:  962288  Function: 0 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   00:14-80 Nimble Alarm Reminder on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Wed Nov 17 00:12:39 2021<CR><LF><CR><LF>Object: SP.2.575419.1637107519CommVault<CR><LF>Status: Acknowledged<CR><LF>Acknowledged By: g3.<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1323953  Function: 2  Alpha:   19:12-05 Test<NUL>
 POCSAG1200: Address: 1630965  Function: 0 
 POCSAG1200: Address:  200957  Function: 2  Alpha:   19:12-61 PLS CALL 31761 <NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   19:11-48 4160<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:11-75 4183<NUL>
-POCSAG1200: Address:  979248  Function: 1 
-POCSAG1200: Address: 1550321  Function: 0 
-POCSAG1200: Address: 1321742  Function: 2  Alpha:   19:10-77 PPCI test call<NUL><NUL>
-POCSAG1200: Address: 1321729  Function: 2  Alpha:   19:10-zv PPCodtest call<NUL><NUL>
-POCSAG1200: Address: 1321732  Function: 2  Alpha:   19:10-40 PPCI test call<NUL><NUL>
-POCSAG1200: Address: 1321744  Function: 2  Alpha:   19:10-83 PPCI test call<NUL><NUL>
-POCSAG1200: Address: 1321731  Function: 2  Alpha:   19:10-87 PPCI test call<NUL><NUL>
-POCSAG1200: Address: 1947248  Function: 0 
-POCSAG1200: Address: 1321754  Function: 2  Alpha:   19:10-81pPuc<EM>btesf2call<NUL><NUL>
-POCSAG1200: Address: 1321737  Function: 2  Alpha:   19:10-83 PPCI test call<NUL><NUL>
-POCSAG1200: Address: 1321725  Function: 2  Alpha:   19:10-61 PPCI test call<NUL><NUL>
-POCSAG1200: Address: 1321740  Function: 2  Alpha:   19:10-82 PPCI test call<NUL><NUL>
