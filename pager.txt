@@ -1,3 +1,12 @@
+POCSAG2400: Address: 2079606  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1013191121+++TIME=1013191121<NUL>
+POCSAG1200: Address: 1224777  Function: 3 
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   V<DC2>
+POCSAG1200: Address:  618435  Function: 3  Alpha:   eP
+POCSAG1200: Address:  618435  Function: 3  Alpha:   eP
+POCSAG2400: Address:  549497  Function: 2  Alpha:   10:10-04 TEST TEST, No response needed<NUL>
+POCSAG2400: Address:   28925  Function: 0  Alpha:   10:10-62 4189<NUL>
+POCSAG1200: Address: 1511977  Function: 3  Alpha:   V<STX>
 POCSAG2400: Address: 1242697  Function: 2  Alpha:   10:08-91 HM Land Registry - Notification of Direct Debit of Fees<NUL>
 POCSAG1200: Address: 1815065  Function: 0  Alpha:   10:08-75 PIN NUMBER 8765, PLEASE CALL THE DSCC ON THE USUAL NUMBER. 
 POCSAG2400: Address:   28907  Function: 0  Alpha:   10:07-02 5202<NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address:   28906  Function: 0  Alpha:   03:35-29 2427<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333191121+++TIME=0333191121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1404480  Function: 1 
-POCSAG2400: Address:  216264  Function: 2  Alpha:   03:30-41 PROBLEM: Opsera NSClient Windo
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  180997  Function: 2  Alpha:   <CAN>P
-POCSAG1200: Address:  164870  Function: 0 
-POCSAG1200: Address: 2001740  Function: 0  Alpha:   <ESC><VT>{`fdfbrbb
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  549758  Function: 2  Alpha:   03
-POCSAG1200: Address: 2075377  Function: 1 
-POCSAG1200: Address:  930489  Function: 2  Alpha:   03:19-10 19/11/2021 03:17:39 INC 24687287 06E
