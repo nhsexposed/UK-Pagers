@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:29-44 2616<NUL>
+POCSAG1200: Address: 1723336  Function: 1 
+POCSAG1200: Address: 1589825  Function: 3 
+POCSAG1200: Address: 1485641  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1528191121+++TIME=1528191121<NUL>
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   15:28-63 4379<NUL>
+POCSAG2400: Address: 1913700  Function: 2  Alpha:   15:28-97 3111<NUL>
+POCSAG1200: Address:   73181  Function: 1  Alpha:   G517, DOB: 13/10/2002 - KTS: 15:2<NAK>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   15:27-33 PLEASE CALL BACK URGENTLY DR JAMAL AT FIRE WARD EXT 6489 <NUL><NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:27-91 3117<NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   15:27-56 3164<NUL>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN><ACK>
+POCSAG1200: Address:  325898  Function: 3  Alpha:   V<LF>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:25-61 5897<NUL>
+POCSAG1200: Address:   80201  Function: 2  Alpha:   `-
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   15:25-43 2616<NUL>
+POCSAG1200: Address: 1534269  Function: 2  Alpha:   15:24-19 PLEASE CONTACT CONTROL <NUL><NUL>
 POCSAG2400: Address: 1573818  Function: 2  Alpha:   15:24-90 2565<NUL>
 POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:23-63 2581<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523191121+++TIME=1523191121<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address:  230853  Function: 3  Alpha:   V<STX>
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   12:32-94 69002
 POCSAG1200: Address:  679608  Function: 2  Alpha:   12:32-64 69002
 POCSAG1200: Address:  649969  Function: 2  Alpha:   12:32-78 69002
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:32-78 5690<NUL>
-POCSAG1200: Address:  560425  Function: 2  Alpha:   IAAI<SOH><CR>"N<HT><STX><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05
-POCSAG1200: Address:  987049  Function: 2  Alpha:   12:30-67 19/11/2021 12:28:51 INC 24688850 31D02 21 WINDSOR ROAD, LYTHAM ST ANNES, FY8 1ET Female 90Y COLLAPSED- NOT RESPONDING GRD 333165 428282<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   12:30
-POCSAG1200: Address: 2077820  Function: 0 
-POCSAG1200: Address:   40110  Function: 2  Alpha:   12:30
-POCSAG1200: Address: 1484986  Function: 3 
-POCSAG1200: Address:  177164  Function: 3 
-POCSAG1200: Address: 1817705  Function: 2  Alpha:   12:29-70 2201<NUL>
-POCSAG1200: Address:  625813  Function: 2 
-POCSAG1200: Address: 1683020  Function: 0  Alpha:   >:
-POCSAG1200: Address:   33531  Function: 0 
-POCSAG1200: Address: 1150042  Function: 1  Alpha:   <ESC><FS>
-POCSAG1200: Address:  136714  Function: 0 
-POCSAG1200: Address:  297001  Function: 3 
-POCSAG1200: Address: 1446065  Function: 1 
-POCSAG1200: Address:  632664  Function: 1  Alpha:   bb
