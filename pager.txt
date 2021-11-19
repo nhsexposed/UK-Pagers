@@ -1,3 +1,17 @@
+POCSAG1200: Address:  549143  Function: 2  Alpha:   16:23-30 REBECCA COVELL, HAWKHURST HOSPITAL, 01580 753 345 RE: PATIENT TRANSFER
+POCSAG2400: Address:  149113  Function: 2 
+POCSAG2400: Address:   28904  Function: 0  Alpha:   16:23-89 3164<NUL>
+POCSAG1200: Address: 2009360  Function: 0 
+POCSAG1200: Address: 1551474  Function: 2  Alpha:   16:22-81 48030
+POCSAG1200: Address: 1511868  Function: 2  Alpha:   F&
+POCSAG2400: Address:  605434  Function: 0  Alpha:   16:21-71 2183<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1318553  Function: 2  Alpha:   16:21-04 PLEASE CALL THE OFFICE ASAP<NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   16:21-69 PLEASE CALL BACK URGENTLY 0743 660 3274 OR EXT 7253512<NUL><NUL>
+POCSAG1200: Address:  957535  Function: 1 
+POCSAG1200: Address:  623449  Function: 0  Alpha:   dj
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address: 1322068  Function: 2  Alpha:   16:20-98 999<NUL><NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   16:19-26 4179<NUL>
 POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>(
 POCSAG2400: Address: 1320204  Function: 2  Alpha:   16:19-20 2300<NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1534233  Function: 2  Alpha:   13:22-04 (1/2)024959-1911202
 POCSAG1200: Address: 1534233  Function: 2  Alpha:   13:22-04 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
 POCSAG1200: Address: 1263199  Function: 3  Alpha:   3<HT>
 POCSAG1200: Address:  445631  Function: 0 
-POCSAG1200: Address:  858134  Function: 0 
-POCSAG1200: Address:  445627  Function: 0 
-POCSAG1200: Address: 1943665  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:  700017  Function: 0 
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   V 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   cp
-POCSAG2400: Address: 2091641  Function: 0 
-POCSAG1200: Address:  265337  Function: 2  Alpha:   &<ACK>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
-POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
-POCSAG2400: Address: 1323896  Function: 2  Alpha:   13:20-57 4264<NUL>
-POCSAG1200: Address: 1090108  Function: 2 
