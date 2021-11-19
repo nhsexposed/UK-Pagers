@@ -27401,3 +27401,25 @@ POCSAG1200: Address: 1745490  Function: 0
 POCSAG1200: Address: 1321866  Function: 2  Alpha:   <SO><FF>
 POCSAG1200: Address:  106824  Function: 0  Alpha:   D 
 POCSAG1200: Address:  300449  Function: 2  Alpha:   AY<SOH><DC3><SOH>LUeA<SOH><NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   20:09-03 Please call ext 1265<NUL><NUL>
+POCSAG1200: Address:  717080  Function: 2 
+POCSAG1200: Address: 1106984  Function: 1 
+POCSAG2400: Address:  549237  Function: 2  Alpha:   20:10-31 20:10-30 PLEASE CALL BACK 0345 603 4566
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN>4L
+POCSAG1200: Address: 1489618  Function: 0 
+POCSAG1200: Address: 1147188  Function: 1 
+POCSAG1200: Address: 1261181  Function: 0 
+POCSAG1200: Address: 1761418  Function: 3  Alpha:   <ACK><SOH>
+POCSAG1200: Address: 1606197  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  445852  Function: 2 
+POCSAG2400: Address: 1726445  Function: 3 
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   20:12-67 INC ALERT No: 16799598 Traffic/Transportation Accidents - M, JUST BREATHING, COME OFF MOTOR2R
+POCSAG2400: Address: 2064096  Function: 2  Alpha:   f2<SOH>Q&7<ETB><ETX>=<ESC><ETX><CR><ACK>33k<SOH>Ee=EE=<SOH><NUL>
+POCSAG1200: Address: 1745490  Function: 0 
+POCSAG1200: Address:  108101  Function: 0  Alpha:   20:13-30 0249<NUL>
+POCSAG1200: Address:   68298  Function: 2 
+POCSAG1200: Address: 1283403  Function: 1  Alpha:   TX
+POCSAG1200: Address:  988980  Function: 0 
+POCSAG1200: Address: 1816709  Function: 2  Alpha:   20:14-92
+POCSAG1200: Address:  557679  Function: 2  Alpha:   1<DC4>!4<CAN>HIY(<LF><DC4>9<LF>$H<EM>iI<BS><DC4>hI<BS>dH<EM>H<LF>4<ACK>4:<CAN>(ZH<BS>Dz<HT>t<HT>Zh<HT>Dxy):<BEL><DC4>8><RS>}l]L,<BEL>$<EM><ESC>v<ACK>*F<ENQ>$<EM><ESC>v<ACK><SUB>F<ENQ>$<EM><ESC><ACK><BEL><SUB>6<BEL>$zM]<<SO><EOT><EOT><EOT>$<EM><ESC><ACK><BEL><SUB>&W<EM><FS>m<CR><EOT>Z^<CR>><BEL>D<SUB>L=},<SO><SO><EOT>d(X(Zu<HT>:<LF>&<ACK><EOT>5<SYN>'<NAK><ENQ><EOT>Exh<EM><CAN>5
