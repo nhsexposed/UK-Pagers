@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0658191121+++TIME=0658191121<NUL>
+POCSAG1200: Address:  267415  Function: 2  Alpha:   O%h<EOT><STX>
+POCSAG1200: Address:  791351  Function: 2 
+POCSAG1200: Address: 1876142  Function: 3 
+POCSAG1200: Address: 1893829  Function: 0  Alpha:   IO
+POCSAG1200: Address: 1706668  Function: 1  Alpha:   sp
+POCSAG1200: Address:  603500  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2008022  Function: 1 
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   6<DC2><NUL>bL
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   06:50-75 3106<NUL>
 POCSAG1200: Address:  712089  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0648191121+++TIME=0648191121<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2133181121+++TIME=21
 POCSAG1200: Address: 1204426  Function: 0 
 POCSAG1200: Address:  858487  Function: 0  Alpha:   3<HT>*6Viv<ACK>
 POCSAG1200: Address:  189991  Function: 1 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:33-06 18/11
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   21:32-44 18/11/2021 21:30:44 INC 24686323 25B03 92 MOUGH LANE, WHITEGATE CHADDERTON OLDHAM, OL9 9PL Female 50Y SUICIDAL GRD 388873 403390
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:32-14 3508<NUL>
-POCSAG2400: Address:  583136  Function: 2  Alpha:   21:30-51 18/11/2021 21:27:12 INC 24686304 10D05 TARN BANK, GENERAL AREA OF, BRAYSTONES BECKERMET, CA21 2YL Female 68Y CHEST PAIN GRD 300519 506158<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   21:30-68 PROBL
-POCSAG2400: Address:  216251  Function: 2  Alpha:   21:30-73 PROBLEM: Opsera NSClient Window<ETX><ENQ>
-POCSAG2400: Address: 1999462  Function: 1 
-POCSAG2400: Address: 2026354  Function: 2 
-POCSAG2400: Address: 1108267  Function: 2  Alpha:   @(QkA<FS><SOH><NUL>
-POCSAG2400: Address: 1053714  Function: 2  Alpha:   u 
-POCSAG2400: Address: 1812153  Function: 0 
