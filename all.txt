@@ -27485,3 +27485,17 @@ POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:27-85 Please call A/E Maj
 POCSAG1200: Address: 1943401  Function: 0 
 POCSAG1200: Address: 2026353  Function: 2 
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   &p
+POCSAG1200: Address: 2011775  Function: 0 
+POCSAG2400: Address:  925754  Function: 0 
+POCSAG1200: Address: 1587010  Function: 2  Alpha:   <ACK>D<ACK>&<ACK>'<ACK><ACK>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   20:31-00 ON-CALL PHARMACIST PLS CALL JOHN MARLIN WARD ON EXT 25213<NUL><NUL>
+POCSAG1200: Address:  920752  Function: 3 
+POCSAG1200: Address:  200957  Function: 2  Alpha:   20:31-01 PLEASE CALL EXT 21317<NUL>
+POCSAG1200: Address:  596535  Function: 0  Alpha:   <FF>L~3<HT>*6T
+POCSAG1200: Address: 1322225  Function: 1 
+POCSAG1200: Address:  808482  Function: 2 
+POCSAG1200: Address: 2007797  Function: 2 
+POCSAG1200: Address: 2014838  Function: 3 
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   20:31-84 5002<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   20:34-73 PLS CALL DR SHAH 07502 079 032 RE PATIENTS PSYCH MEDS
