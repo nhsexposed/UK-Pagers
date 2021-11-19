@@ -22725,3 +22725,35 @@ POCSAG1200: Address: 1323538  Function: 2  Alpha:   00:07-70 please ring the hub
 POCSAG1200: Address: 1999461  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0008191121+++TIME=0008191121<NUL>
 POCSAG1200: Address: 2094719  Function: 3 
+POCSAG1200: Address:  295506  Function: 0 
+POCSAG2400: Address: 1181528  Function: 3 
+POCSAG2400: Address: 1284465  Function: 3  Alpha:   <SYN>f.<ACK><LF>
+POCSAG1200: Address:  696946  Function: 0 
+POCSAG1200: Address: 2007632  Function: 1 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:13-85 19/11/2021 00:12:25 INC 24686876 09E02 22 GIPSY LANE, ALLERTON L18, L18 3HL Male 2Y LOUD RASPY BREATHING - DIB GRD 341162 388065
+POCSAG1200: Address:  295504  Function: 0 
+POCSAG1200: Address:  548039  Function: 2  Alpha:   00:13-88 19/11/2029300:12:25 INC 24686876 09E02 22 GIPSY LANE, ALLERTON L18, L18 3HL Male 2Y LOUD RASPY BREATHING - DIB GRD 341162 388065
+POCSAG1200: Address: 1769994  Function: 3 
+POCSAG1200: Address: 1288323  Function: 2  Alpha:   d@dd@
+POCSAG1200: Address:  411740  Function: 3 
+POCSAG1200: Address:  734229  Function: 1 
+POCSAG1200: Address: 1671909  Function: 3  Alpha:   "<SYN>
+POCSAG1200: Address: 1068190  Function: 1 
+POCSAG1200: Address: 1714511  Function: 0  Alpha:   >:Bg<DC2>
+POCSAG1200: Address:  576608  Function: 0 
+POCSAG1200: Address: 1861648  Function: 1 
+POCSAG1200: Address: 1674297  Function: 1 
+POCSAG1200: Address:   91665  Function: 1  Alpha:   L 
+POCSAG1200: Address: 1599210  Function: 0 
+POCSAG1200: Address: 1582291  Function: 1  Alpha:   <ENQ>b\,%
+POCSAG1200: Address:  150276  Function: 3  Alpha:   )h,<DLE>!
+POCSAG1200: Address: 1716302  Function: 0  Alpha:   "&:<RS><STX>5<SOH><DC1>~Y<EOT>
+POCSAG1200: Address:  606728  Function: 0  Alpha:   #)<STX>P<EM>ZX<CAN><ESC><EM>P
+POCSAG1200: Address: 1601762  Function: 0 
+POCSAG1200: Address: 1733219  Function: 3 
+POCSAG1200: Address:  801076  Function: 1 
+POCSAG1200: Address:  183356  Function: 0 
+POCSAG1200: Address:  468557  Function: 2 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   00:14-80 Nimble Alarm Reminder on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Wed Nov 17 00:12:39 2021<CR><LF><CR><LF>Object: SP.2.575419.1637107519CommVault<CR><LF>Status: Acknowledged<CR><LF>Acknowledged By: g3.<NUL><NUL>
+POCSAG2400: Address:  962288  Function: 0 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:14-30 3132<NUL>
