@@ -1,3 +1,8 @@
+POCSAG2400: Address: 2028135  Function: 2 
+POCSAG2400: Address:    6273  Function: 1  Alpha:   <SO>G
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0613191121+++TIME=0613191121<NUL>
+POCSAG512: Address: 1703542  Function: 1  Alpha:   Vfv<ACK><ETB>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on bs"side 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   06:08-01 19/11/2021 06:05:24 INC 24687552 11D02U STATION HOUSE NURSING HOME, VICTORIA AVENUE, CREWE CW2, CW2 7SF Female 69Y CHOK GRD 369242 355720<NUL><NUL>
 POCSAG1200: Address: 1881905  Function: 0 
 POCSAG2400: Address:   28908  Function: 0  Alpha:   06:08-09 5204<NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1513694  Function: 1
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   21:20-66 5201<NUL>
 POCSAG1200: Address:  363869  Function: 2  Alpha:   21:20-81 18/11/2021 21:15:49 INC 24686269 04D01A 51 BECHERS, HOUGH GREE
 POCSAG1200: Address: 1831536  Function: 2 
-POCSAG2400: Address:   28870  Function: 0  Alpha:   21:18-56 PLS CALL SHEFFIELD SPARROW FEMALE ON 7253124<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2118181121+++TIME=2118181121<NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   21:17-30 PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on host CISCMS-Tier-1-a, <CR><LF>PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on host CISCMS-Tier-1-a<CR><LF>Service: Web Check Site: civicasnowportal.com<CR><LF>Host: CISCMS-Tier-1-a<CR><LF>Al<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   21:17-62 PROBLEM: Web Check Site: civicasnowportal.com is CRITICAL on h
-POCSAG2400: Address:  216251  Function: 2  Alpha:   21:17-67 PROBLem{ Web Che

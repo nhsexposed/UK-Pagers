@@ -23226,3 +23226,8 @@ POCSAG1200: Address: 1743617  Function: 1  Alpha:   frdbjj<NUL><NUL>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   06:08-09 5204<NUL>
 POCSAG1200: Address: 1881905  Function: 0 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   06:08-01 19/11/2021 06:05:24 INC 24687552 11D02U STATION HOUSE NURSING HOME, VICTORIA AVENUE, CREWE CW2, CW2 7SF Female 69Y CHOK GRD 369242 355720<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on bs"side 
+POCSAG512: Address: 1703542  Function: 1  Alpha:   Vfv<ACK><ETB>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0613191121+++TIME=0613191121<NUL>
+POCSAG2400: Address:    6273  Function: 1  Alpha:   <SO>G
+POCSAG2400: Address: 2028135  Function: 2 
