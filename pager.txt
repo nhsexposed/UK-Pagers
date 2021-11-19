@@ -1,3 +1,56 @@
+POCSAG1200: Address: 1312572  Function: 2  Alpha:   16:44-43 Proceed to: 039443-19112021 RTC PERSONS TRAPPED SMALL VEHICLE  JUNCTION 13 TO 12,THORPE TO CHERTSEY,M25<NUL><NUL>
+POCSAG2400: Address: 1913676  Function: 2  Alpha:   16:44-00 3103<NUL>
+POCSAG1200: Address:  549856  Function: 2  Alpha:   16:44-86 ~S21 - CLOSED FOR COVID CLEAN - ETA FOR CLEANER 18:15
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   <ACK><DLE>
+POCSAG2400: Address: 1879924  Function: 0 
+POCSAG2400: Address:  435956  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:43-95 5202<NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:43-22 4769<NUL>
+POCSAG2400: Address: 1913570  Function: 2  Alpha:   16:43-33 4269<NUL>
+POCSAG512: Address:  214607  Function: 3  Alpha:   O%
+POCSAG512: Address: 1652326  Function: 1  Alpha:   WnW<ACK><ETB>
+POCSAG512: Address:  954453  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 si
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   16:42-55 3255<NUL>
+POCSAG1200: Address:  549771  Function: 2  Alpha:   16:42-10 ~S21 STN - CLOSED FOR COVID CLEAN. FOR INFO<NUL><NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   16:41-23 5896<NUL>
+POCSAG1200: Address: 1008206  Function: 2  Alpha:   16:40-16 TEST BLEEP<NUL>
+POCSAG1200: Address: 1032917  Function: 3  Alpha:   <SYN>e
+POCSAG2400: Address:   33736  Function: 2  Alpha:   16:40-40 16:40-39 TEST BLEEP
+POCSAG1200: Address:  549138  Function: 2  Alpha:   16:40-16 TEST BLEEP<NUL>
+POCSAG1200: Address: 1044797  Function: 2  Alpha:   16:40-22 TEST BLEEP<NUL>
+POCSAG1200: Address: 1044798  Function: 2  Alpha:   16:40-14 TEST BLEEP<NUL>
+POCSAG1200: Address: 1044801  Function: 2  Alpha:   16:40-14 TEST BLEEP<NUL>
+POCSAG1200: Address: 1312891  Function: 2  Alpha:   16:40-13 TEST BLEEP<NUL>
+POCSAG1200: Address: 1001159  Function: 2  Alpha:   16:40-27 TEST BLEEP<NUL>
+POCSAG1200: Address: 1015248  Function: 2  Alpha:   16:40-30 TEST BLEEP<NUL>
+POCSAG1200: Address:  549140  Function: 2  Alpha:   16:40-01 TEST BLEEP<NUL>
+POCSAG1200: Address:  851267  Function: 2  Alpha:   16:40-20 TEST BLEEP<NUL>
+POCSAG2400: Address: 1640624  Function: 3 
+POCSAG2400: Address: 1913842  Function: 2  Alpha:   16:40-38 2018<NUL>
+POCSAG1200: Address:  773424  Function: 3 
+POCSAG1200: Address:  371460  Function: 0  Alpha:   hdRdl
+POCSAG1200: Address: 1115547  Function: 0  Alpha:   ZY
+POCSAG1200: Address:  378154  Function: 0 
+POCSAG1200: Address: 1476882  Function: 1 
+POCSAG1200: Address:  923681  Function: 3 
+POCSAG1200: Address: 2040673  Function: 3 
+POCSAG1200: Address: 1203344  Function: 3 
+POCSAG1200: Address: 1217904  Function: 3 
+POCSAG1200: Address:   78663  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1467094  Function: 0  Alpha:   <ENQ>r|$<ENQ>
+POCSAG1200: Address: 1559443  Function: 1  Alpha:   <ENQ><EOT><LF><SUB><ACK>
+POCSAG1200: Address:  444877  Function: 0  Alpha:   , 9 C
+POCSAG1200: Address:  142085  Function: 2 
+POCSAG1200: Address: 1198636  Function: 0 
+POCSAG1200: Address:  657452  Function: 0 
+POCSAG1200: Address:  791363  Function: 1 
+POCSAG1200: Address: 1069155  Function: 1 
+POCSAG1200: Address:  164449  Function: 3 
+POCSAG1200: Address:  497264  Function: 2 
+POCSAG1200: Address: 1245774  Function: 3 
+POCSAG1200: Address:  396318  Function: 1 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:39-64 4769<NUL>
 POCSAG1200: Address: 1031513  Function: 3  Alpha:   v@
 POCSAG1200: Address: 1594925  Function: 2  Alpha:   16:39-63 call on 69000
 POCSAG2400: Address: 1324676  Function: 2  Alpha:   16:38-74 CALL OUT 13580 KINGS COLLEGE PLEASE CALL THE OFFICE
@@ -945,56 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:   33280  Function: 1 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:     512  Function: 0 
-POCSAG1200: Address:  523841  Function: 3  Alpha:   <FF><DLE>
-POCSAG1200: Address:       0  Function: 0  Alpha:   j<VT>
-POCSAG1200: Address:   47621  Function: 0 
-POCSAG1200: Address:   78835  Function: 0  Alpha:   ab
-POCSAG1200: Address:  307135  Function: 0  Alpha:   <HT>d
-POCSAG1200: Address: 1716066  Function: 3  Alpha:   &:
-POCSAG1200: Address:  288504  Function: 2  Alpha:   8X<DC3>z<ESC>[<SO>H
-POCSAG1200: Address:  338605  Function: 3 
-POCSAG1200: Address:  890016  Function: 1 
-POCSAG1200: Address:  995221  Function: 0  Alpha:   ;<EM>
-POCSAG1200: Address: 1113083  Function: 2  Alpha:   ke
-POCSAG1200: Address:  280201  Function: 1  Alpha:   <DLE>3
-POCSAG1200: Address: 1229102  Function: 3  Alpha:   IO
-POCSAG1200: Address: 1996925  Function: 2  Alpha:   ,<BEL>T<HT>Z
-POCSAG1200: Address: 1667140  Function: 3 
-POCSAG1200: Address: 1324067  Function: 2  Alpha:   13:10-75 AMBER: Location: KENSINGTON PALACE, Incide
-POCSAG1200: Address:  557077  Function: 2 
-POCSAG1200: Address:  181092  Function: 0 
-POCSAG1200: Address: 1989921  Function: 1  Alpha:   =.
-POCSAG1200: Address:  768305  Function: 3 
-POCSAG1200: Address:   80057  Function: 3  Alpha:   RT
-POCSAG1200: Address: 1176253  Function: 0 
-POCSAG1200: Address:  813154  Function: 0 
-POCSAG1200: Address: 1345632  Function: 3 
-POCSAG1200: Address:  712742  Function: 2 
-POCSAG1200: Address:  268337  Function: 3 
-POCSAG1200: Address:  766144  Function: 0  Alpha:   8A<ACK>~n<BS>~X
-POCSAG1200: Address:  881970  Function: 2 
-POCSAG1200: Address: 2061574  Function: 3 
-POCSAG1200: Address: 1254697  Function: 3 
-POCSAG1200: Address:  604899  Function: 0 
-POCSAG1200: Address: 1876294  Function: 1 
-POCSAG1200: Address:  554649  Function: 3  Alpha:   O;]W8
-POCSAG1200: Address:  534945  Function: 0 
-POCSAG1200: Address:  307199  Function: 0  Alpha:   <HT><EOT><STX>4<DLE>3p0<DC1><VT>(R{8<SUB>9Y<ESC><GS><BS>=<RS><Y<SO>h<DC3>4Q4<DLE>5rS<DC3>hpSstS<DC4><NAK><BS>1q<DLE>3<NUL>0i
-POCSAG1200: Address:  842224  Function: 1 
-POCSAG1200: Address: 1675889  Function: 0  Alpha:   f<FF>O@&mpR
-POCSAG1200: Address: 1216561  Function: 0 
