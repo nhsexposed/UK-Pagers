@@ -24398,3 +24398,26 @@ POCSAG1200: Address: 1095785  Function: 3
 POCSAG1200: Address: 1032981  Function: 2  Alpha:   <DLE>2
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   11:18-75 4877<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   11:19-63 4398<NUL>
+POCSAG1200: Address: 1039258  Function: 0 
+POCSAG1200: Address:  270091  Function: 2  Alpha:   11:20-59 2011<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   11:20-25 PLEASE CALL DR PATIENCE EXT 5935<NUL>
+POCSAG1200: Address: 1829795  Function: 3  Alpha:   ooooooooooooooooooooooooooooooooooooooooooooooo<ACK>E<ACK><ENQ>!<NUL><NUL>
+POCSAG1200: Address: 1032645  Function: 3  Alpha:   Ef
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   <DLE>2
+POCSAG1200: Address: 1032024  Function: 0 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   11:21-76 3117<NUL>
+POCSAG2400: Address: 1320382  Function: 2  Alpha:   11:21-85 2150<NUL>
+POCSAG2400: Address:  631647  Function: 0  Alpha:   jr@g<DC2>
+POCSAG2400: Address: 1401048  Function: 3 
+POCSAG2400: Address: 1585152  Function: 0  Alpha:   WHC+da<NAK>rp<LF>98E<FS>\"<SO>.<DC1><BEL>wHS+da<NAK>r X!AEi
+POCSAG2400: Address:  631647  Function: 0  Alpha:   jf@g<DC2>
+POCSAG2400: Address: 1349432  Function: 1 
+POCSAG1200: Address: 1220698  Function: 0 
+POCSAG1200: Address: 1970654  Function: 2  Alpha:   11:22-25 PL
+POCSAG1200: Address:  269354  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 2076211  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1123191121+++TIME=1123191121<NUL>
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 2063616  Function: 2 
+POCSAG2400: Address: 1913802  Function: 2  Alpha:   11:24-06 5072<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   11:24-06 3104<NUL>
