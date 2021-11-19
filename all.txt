@@ -23478,3 +23478,9 @@ POCSAG2400: Address: 1323901  Function: 2  Alpha:   08:12-41 Update: cad 1214 : 
 POCSAG1200: Address: 1999601  Function: 0 
 POCSAG1200: Address: 1155963  Function: 1  Alpha:   d`Db@
 POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK>&
+POCSAG2400: Address:   28899  Function: 0  Alpha:   08:15-59 5201<NUL>
+POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:16-31 2065<NUL>
+POCSAG2400: Address: 1913980  Function: 2  Alpha:   08:17-31 4264<NUL>
+POCSAG1200: Address: 2012787  Function: 1 
+POCSAG1200: Address:  267831  Function: 2  Alpha:   08:19-68 24
+POCSAG1200: Address:  585224  Function: 2  Alpha:   08:19-62 1: 001FPLMR0531052 Pass Lift No 8 Alarm Failed 01<NUL><NUL>
