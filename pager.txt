@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1265425  Function: 1 
+POCSAG1200: Address: 1838808  Function: 3 
+POCSAG1200: Address:  679648  Function: 2  Alpha:   03:17-83 PROCEED TO:  RTC
+POCSAG2400: Address: 2093171  Function: 0 
 POCSAG1200: Address:   35128  Function: 1  Alpha:   `h^d``d@<ACK><DC1>g<EOT><SOH><NUL>
 POCSAG1200: Address: 2073841  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308191121+++TIME=0308191121<NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address:  238612  Function: 3
 POCSAG2400: Address:  583537  Function: 2  Alpha:   20:41-68 80300
 POCSAG512: Address: 1487600  Function: 1 
 POCSAG1200: Address:  623453  Function: 1  Alpha:    JY17P2;
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF><HT>Cpb1f
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:36-43 4660<NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   20:36-98 18/11/2021 20:33

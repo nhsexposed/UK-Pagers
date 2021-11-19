@@ -23045,3 +23045,7 @@ POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308191121+++TIME=0308191121<NUL>
 POCSAG1200: Address: 2073841  Function: 0 
 POCSAG1200: Address:   35128  Function: 1  Alpha:   `h^d``d@<ACK><DC1>g<EOT><SOH><NUL>
+POCSAG2400: Address: 2093171  Function: 0 
+POCSAG1200: Address:  679648  Function: 2  Alpha:   03:17-83 PROCEED TO:  RTC
+POCSAG1200: Address: 1838808  Function: 3 
+POCSAG1200: Address: 1265425  Function: 1 
