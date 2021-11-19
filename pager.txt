@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0858191121+++TIME=0858191121<NUL>
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   08:57-40 2111<NUL>
+POCSAG1200: Address: 1032198  Function: 0 
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   08:56-42 5090<NUL>
+POCSAG1200: Address: 1991288  Function: 0 
+POCSAG1200: Address:  312672  Function: 0  Alpha:   08:55-61 19/11/2021 08:53:31 INC 24687917 29B01Y O/S LOCATION, UNITED NORWEST CO-OPERATIVES LTD FOOD MARKET, 196 DARWEN ROAD, BROMLEY CROSS BOLTON, BL7 9JJ Unknown UnknownY RTC GRD 372398 413266
+POCSAG1200: Address:  230953  Function: 3  Alpha:   <DC2><SO>VaL
+POCSAG1200: Address:  216338  Function: 2  Alpha:   08:55-14 Destination: Par+hlg\D78 Ext
+POCSAG1200: Address: 2015857  Function: 1 
+POCSAG1200: Address: 2023805  Function: 1 
+POCSAG1200: Address: 2091640  Function: 0 
 POCSAG2400: Address: 1974883  Function: 0 
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   08:54-47 4114<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853191121+++TIME=0853191121<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1980518  Function: 1
 POCSAG1200: Address: 1354068  Function: 2  Alpha:   J*
 POCSAG1200: Address: 2046331  Function: 3  Alpha:   <RS><BEL>
 POCSAG1200: Address:   76369  Function: 3 
-POCSAG2400: Address: 1903106  Function: 2 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   23:14-30 21
-POCSAG1200: Address:  652006  Function: 2 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:13-26 18/11/2021 23:12:39 INC 24686689 31Ep<CAN>rY<FS>P
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2313181121+++TIME=2313181121<NUL>
-POCSAG1200: Address:   33724  Function: 2  Alpha:   23:13-56 PLEASE CALL LINDA HOGBEN 01303 254 097 RE: SHEILA HODBEN <NUL><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:12-25 4312<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:13-39 2233<NUL>
-POCSAG1200: Address:   33723  Function: 2  Alpha:   23:13-02 PLEASE CALL LIL@A HOGBEN 01303 254 097 RE: SHEILA HODBEN <NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  369514  Function: 3  Alpha:   bdZlf@Pd^dR@$_YKgA@@@<DC4>3ab ct<SUB>CS]A k[aw@(CYWOeaA@<FF><ENQ><VT>%[<RS>!'ad@PfrTR@P<BS><SI><GS><ETX>S
