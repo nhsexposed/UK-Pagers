@@ -1,3 +1,32 @@
+POCSAG1200: Address:  269168  Function: 2  Alpha:   10:34-32 19/11/2021 10:32:16 INC 24688349 
+POCSAG1200: Address:  108034  Function: 0  Alpha:   10:34-71 19/11/2021 10:13:49 W5AHUS06MinorAlm Status : Minor Alarm<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1033191121+++TIME=1033191121<NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   10:32-77 5013<NUL>
+POCSAG1200: Address:  367408  Function: 2  Alpha:   --
+POCSAG1200: Address:  338192  Function: 0 
+POCSAG1200: Address:  757855  Function: 2  Alpha:   O%
+POCSAG1200: Address:   82246  Function: 0  Alpha:   DO<NUL>PA
+POCSAG1200: Address: 1529896  Function: 3 
+POCSAG1200: Address:  339093  Function: 0  Alpha:   <SUB>hI<EM><EM>
+POCSAG1200: Address: 1155204  Function: 2  Alpha:   f@Dr@
+POCSAG1200: Address: 1769995  Function: 3 
+POCSAG1200: Address:  970139  Function: 0 
+POCSAG1200: Address:  266850  Function: 1  Alpha:   f<ACK>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1671976  Function: 3  Alpha:   db
+POCSAG1200: Address: 1337822  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>EAi
+POCSAG1200: Address: 1676125  Function: 0  Alpha:   j`
+POCSAG1200: Address:   71181  Function: 3 
+POCSAG1200: Address:  953405  Function: 2 
+POCSAG1200: Address:  842292  Function: 3 
+POCSAG1200: Address: 1345580  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913926  Function: 2  Alpha:   10:30-45 2561<NUL>
+POCSAG2400: Address:  433689  Function: 2  Alpha:   10:30-98 6605<NUL>
+POCSAG2400: Address: 1913985  Function: 2  Alpha:   10:30-00 5202<NUL>
+POCSAG2400: Address:  545315  Function: 2  Alpha:   67064
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   10:29-38 62182
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   10:29-41 62182
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1028191121+++TIME=1028191121<NUL>
 POCSAG1200: Address:  108034  Function: 0  Alpha:   10:28-70 19/11/2021 10:13:49 W5AHUS06MinorAlm Status : Minor Alarm<NUL><NUL>
 POCSAG2400: Address: 2011185  Function: 0 
@@ -969,32 +998,3 @@ POCSAG1200: Address:  347104  Function: 1
 POCSAG1200: Address:  950832  Function: 1 
 POCSAG1200: Address:  549740  Function: 2  Alpha:   04:55-71 ** PROBLEM Service Alert: harro-eu-west-1-004-telemetryapi1/Tomcat Heap Memory is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Tomcat Heap Memory<CR><LF>Host: harro-eu-west-1-004-telemetryapi1<CR><LF>Address: harro
 POCSAG1200: Address: 2026354  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453191121+++TIME=0453191121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0453191121+++TIME=0453191121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  420487  Function: 0 
-POCSAG1200: Address: 2023643  Function: 0 
-POCSAG1200: Address: 1594901  Function: 2  Alpha:   04:45-99 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1487760  Function: 2  Alpha:   04:45-79 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  302819  Function: 2  Alpha:   04
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1345025  Function: 0  Alpha:   <DC2>-<FF>-M<DC4>-$t<STX><NUL>
-POCSAG2400: Address: 1322508  Function: 2  Alpha:   04:36-82 PLEASE CALL LINCOLNSHIRE POLICE ON 01522 558 430, DEER IN THE ROAD INCIDENT 34 OF 19/11/21<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0433191121+++TIME=0433191121<NUL>
-POCSAG1200: Address:  857893  Function: 1 
-POCSAG1200: Address:  732828  Function: 1 
-POCSAG1200: Address:  545603  Function: 0 
-POCSAG1200: Address: 1882491  Function: 3 
-POCSAG1200: Address: 1854714  Function: 1 
-POCSAG1200: Address: 1551504  Function: 2  Alpha:   H<LF>$<CAN>h)I<ENQ>
-POCSAG1200: Address: 2044529  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   36944  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423191121+++TIME=0423191121<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   04:22-05 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153021, Donor hospital - SOUTHAMPTON UNIVERSITY, Donor DOB - 07/11/1952.<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   04:19-51 2008<NUL>
-POCSAG1200: Address: 1483356  Function: 0 
-POCSAG1200: Address:  786024  Function: 1 
-POCSAG2400: Address:  549033  Function: 2  Alpha:   04:16-44 Call 8013<NUL><NUL>
