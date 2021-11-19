@@ -23066,3 +23066,7 @@ POCSAG1200: Address: 2001740  Function: 0  Alpha:   <ESC><VT>{`fdfbrbb
 POCSAG1200: Address:  164870  Function: 0 
 POCSAG1200: Address:  180997  Function: 2  Alpha:   <CAN>P
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   03:30-41 PROBLEM: Opsera NSClient Windo
+POCSAG2400: Address: 1404480  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333191121+++TIME=0333191121<NUL>
