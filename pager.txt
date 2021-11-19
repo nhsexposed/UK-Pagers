@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048191121+++TIME=2048191121<NUL>
+POCSAG1200: Address: 1817185  Function: 2  Alpha:   20:48
+POCSAG1200: Address:  793783  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   20:47-h<SI><BS><DC4>3
+POCSAG1200: Address:   41512  Function: 2  Alpha:   20:47-85 Call or Calls waiting at Switchboard
+POCSAG1200: Address: 1304232  Function: 2  Alpha:   4<DC1>
+POCSAG1200: Address:  721549  Function: 3 
+POCSAG1200: Address:  429533  Function: 1 
+POCSAG1200: Address:  266764  Function: 1  Alpha:   f<SYN>
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  369450  Function: 2  Alpha:   dr
+POCSAG1200: Address: 1246810  Function: 3 
+POCSAG1200: Address:  139925  Function: 2 
+POCSAG1200: Address:  825965  Function: 1 
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   20:44-36 19/11/2021 20:41:18 INC 24691172 23B01I NEAR TO, 63 BRADSHAWGATE, BOLTON TOWN CENTRE BOLTON, BL1 1QD Fema8<EM><BS>
 POCSAG1200: Address: 2040374  Function: 2 
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   20:44-59 19/11/2021 20:42:15 INC 24691177 29B01V AT JUNC OF DUKE STREET AND, COWLEY HILL LANE, ST HELENS, WA10 2GA Unknown UnknownY RTC GRD 350569 396075<NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   2$
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1262614  Function: 2
 POCSAG1200: Address: 1315157  Function: 0 
 POCSAG1200: Address: 1548125  Function: 0 
 POCSAG1200: Address: 1935492  Function: 2  Alpha:   f 
-POCSAG1200: Address:  429275  Function: 0  Alpha:   <SUB>P
-POCSAG1200: Address:  266850  Function: 1  Alpha:   f<SYN>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   17:27-76 2304<NUL>
-POCSAG1200: Address: 1267292  Function: 0 
-POCSAG1200: Address:  453820  Function: 0 
-POCSAG1200: Address:  858131  Function: 0 
-POCSAG1200: Address: 1337562  Function: 1  Alpha:   <DC2><ETX>
-POCSAG1200: Address:  624385  Function: 1  Alpha:   br
-POCSAG1200: Address:  165744  Function: 0 
-POCSAG1200: Address: 1289028  Function: 3  Alpha:   <NUL><NUL>P<NAK>r`<LF>90E<FS>X"<SO>,<DC1><BEL>N%(
-POCSAG1200: Address: 1761418  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  353456  Function: 2 
-POCSAG1200: Address:  338343  Function: 2  Alpha:   g<DC2>
-POCSAG1200: Address:  938679  Function: 1 
