@@ -1,3 +1,23 @@
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   16:59-10 19/11/2021 wv:57:<DC3>2"INC 24690103 29D02M AT THE TOP OF THE ON SLIP NEAR ROUND ABOUT, JUNCTION 9 ACCESS WESTBOUND, M62, WA3 6BY Male UnknownY RTC GRD 360178 391878<NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   16:59-32 19/11/2021 16:57:15 INC 24690103 29D02M AT THE TOP OF THE ON SLIP NEAR ROUND ABOUT, JUNCTION 9 ACCESS WESTBOUND, M62, WA3 6BY Male UnknownY RTC GRD 360178 391878<NUL>
+POCSAG1200: Address:  600824  Function: 0  Alpha:   <DLE><DC2>T;<STX><BEL>1f
+POCSAG1200: Address: 1484415  Function: 0 
+POCSAG1200: Address: 1015508  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   16:59-20 19/11/2021 16:57:16 INC 24690104 31D04 38 BURY ROAD, RADCLIFFE EAST MANCHESTER, M26 2UU Female 55Y BRONCHIOSCOPY FEELS FAINT GRD 379020 407849
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1658191121+++TIME=1658191121<NUL>
+POCSAG2400: Address:  772077  Function: 0 
+POCSAG2400: Address:  445852  Function: 2 
+POCSAG2400: Address:  567932  Function: 0 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:58-09 4555<NUL>
+POCSAG2400: Address: 1005634  Function: 1 
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   16:57-89 2141<NUL>
+POCSAG1200: Address: 1594937  Function: 2  Alpha:   16:56-11 Chris senter to speak to you please<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   16:56-25 4660<NUL>
+POCSAG1200: Address: 1770612  Function: 2  Alpha:   16:55-88 5002<NUL>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   16:55-25 5204<NUL>
+POCSAG1200: Address: 1241716  Function: 0 
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   16:54-24 5042<NUL>
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   16:53-03 5073<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653191121+++TIME=1653191121<NUL>
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:53-08 4157<NUL>
@@ -978,23 +998,3 @@ POCSAG2400: Address:   28895  Function: 0  Alpha:   13:46-19 2188<NUL>
 POCSAG1200: Address:  696118  Function: 2  Alpha:   13:46-20 33867
 POCSAG2400: Address: 1913979  Function: 2  Alpha:   13:45-80 2751<NUL>
 POCSAG2400: Address:  451138  Function: 1 
-POCSAG2400: Address: 1322796  Function: 2  Alpha:   13:44-21 01642 854 539 GHEU AT JAMES COOK HOSP <NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:43-79 4183<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   13:43-41 2343<NUL>
-POCSAG1200: Address: 1032180  Function: 3  Alpha:   <NAK><ACK>
-POCSAG512: Address: 2024019  Function: 2 
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   13:42-17 5202<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:42-77 5202<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/p ,2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  265337  Function: 2  Alpha:   6"
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   13:40-39 4157<NUL>
-POCSAG2400: Address: 1978488  Function: 1 
-POCSAG2400: Address: 1008256  Function: 2  Alpha:   13:39-99 Switch - Call Waiting please
-POCSAG1200: Address: 1072484  Function: 0 
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   13:39-87 5202<NUL>
-POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1338191121+++TIME=1338191121<NUL>
-POCSAG1200: Address: 1483360  Function: 0 
-POCSAG1200: Address: 1596024  Function: 2 
-POCSAG1200: Address:   96134  Function: 2  Alpha:   rd  1c3<HT><SUB>W<EM>
