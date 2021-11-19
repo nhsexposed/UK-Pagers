@@ -23043,3 +23043,5 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303191121+++TIME=03
 POCSAG1200: Address: 1424945  Function: 3 
 POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308191121+++TIME=0308191121<NUL>
+POCSAG1200: Address: 2073841  Function: 0 
+POCSAG1200: Address:   35128  Function: 1  Alpha:   `h^d``d@<ACK><DC1>g<EOT><SOH><NUL>
