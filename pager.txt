@@ -1,3 +1,12 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  189077  Function: 0 
+POCSAG1200: Address: 1745490  Function: 0 
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:42-07 X<STX>AASE CALL MARIE CURIE NURSE ANNE HEALEY ON 07773 571 938<NUL>
+POCSAG1200: Address: 1745489  Function: 0 
+POCSAG2400: Address:  719881  Function: 2  Alpha:   03:41-07 2427<NUL>
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   03:40-46 Fri Nov 19 03:40:29 UTC 2021 -- PROBLEM : ospf-status on core3-thw i
+POCSAG1200: Address: 1441907  Function: 0 
+POCSAG1200: Address: 1970705  Function: 2  Alpha:   03:39-63 33813
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
 POCSAG2400: Address: 1274384  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
@@ -988,13 +997,4 @@ POCSAG2400: Address: 1441904  Function: 0
 POCSAG1200: Address: 1411934  Function: 0  Alpha:   pf
 POCSAG1200: Address: 1246813  Function: 3 
 POCSAG2400: Address:  478584  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1246812  Function: 3 
-POCSAG1200: Address: 1098796  Function: 0 
-POCSAG1200: Address: 2028158  Function: 1 
-POCSAG1200: Address: 1551474  Function: 2  Alpha:   20:49-79 48030
-POCSAG1200: Address:  200957  Function: 2  Alpha:   20:49-69 21317 RE: REQUESTING HYPERTONIC SALINE <LF><NUL><NUL>
-POCSAG1200: Address: 1946880  Function: 2  Alpha:   <EOT>Y<CAN>H<LF><HT>$z<EM>HH<ENQ>$X(<CAN>iyHzi<HT>t<SUB>)*<SUB>H<HT>4<BS>i6F<ENQ>4<BS>i6<ACK>t6<SUB><BS>T<EM>L]<FF>t6<SYN><VT>d<FS>LM]l<CR>$<FS>l}\L<FF><EOT>]<FS>L<FF>t(J<BS>466<ACK>6<SYN><BEL>4<ACK>G6<ACK><SYN><ACK><NUL>
-POCSAG2400: Address: 1998964  Function: 2 
-POCSAG2400: Address:  284688  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
