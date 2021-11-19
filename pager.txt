@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   16:13-43 4155<NUL>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:12-79 19/11/2021 16:11:28 INC 24689901 06D02 
+POCSAG2400: Address:   28926  Function: 0  Alpha:   16:12-22 2183<NUL>
+POCSAG1200: Address:  619020  Function: 3  Alpha:   VD\NL
+POCSAG1200: Address:  906514  Function: 3  Alpha:   ("
+POCSAG2400: Address: 2026358  Function: 2 
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   &<ACK>
+POCSAG1200: Address:  981985  Function: 1 
+POCSAG1200: Address:  230853  Function: 3  Alpha:   Fd
+POCSAG2400: Address:   28900  Function: 0  Alpha:   16:10-66 4217<NUL>
+POCSAG1200: Address: 1312748  Function: 2  Alpha:   16:09-97 Lythe Stn FIRE CALL
+POCSAG1200: Address:  203628  Function: 3 
+POCSAG1200: Address: 1409635  Function: 0  Alpha:   IRE CALL
+POCSAG1200: Address: 1312752  Function: 2  Alpha:   16:09-93 Lythe St
 POCSAG1200: Address: 1039333  Function: 3  Alpha:   <DC2>F
 POCSAG1200: Address:  290116  Function: 3  Alpha:   5r
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1608191121+++TIME=1608191121<NUL>
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1913889  Function: 2  Alpha:   13:10-04 5821<NUL>
 POCSAG2400: Address: 1876599  Function: 2 
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   13:10-00 4462<NUL>
 POCSAG1200: Address:  230853  Function: 3  Alpha:   &b
-POCSAG1200: Address: 1474616  Function: 1 
-POCSAG2400: Address: 1913902  Function: 2  Alpha:   13:09-82 2111<NUL>
-POCSAG1200: Address: 2047561  Function: 2 
-POCSAG2400: Address: 1811061  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1308191121+++TIME=1308191121<NUL>
-POCSAG2400: Address: 1913928  Function: 2  Alpha:   13:08-79 2638<NUL>
-POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
-POCSAG1200: Address: 2077691  Function: 2 
-POCSAG1200: Address:  420501  Function: 3  Alpha:   F2
-POCSAG1200: Address: 1999442  Function: 3 
-POCSAG2400: Address: 1465884  Function: 1 
-POCSAG2400: Address:  134425  Function: 0  Alpha:   <FS><SUB>
-POCSAG2400: Address:  478520  Function: 1 
-POCSAG2400: Address: 1185844  Function: 0  Alpha:   d%
