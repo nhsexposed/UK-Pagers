@@ -28246,3 +28246,20 @@ POCSAG1200: Address: 1337821  Function: 3  Alpha:   <LF><VT>_<DC2><ETX><DC3><VT>
 POCSAG1200: Address: 1271391  Function: 2 
 POCSAG1200: Address:  371503  Function: 3  Alpha:   O%(07
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:48-90 4462<NUL>
+POCSAG1200: Address: 1800568  Function: 0 
+POCSAG1200: Address:  957344  Function: 0 
+POCSAG2400: Address:   28869  Function: 0  Alpha:   23:50-31 PLEASE CALL EXT 26005 FOR NEW REFERRAL<NUL>
+POCSAG1200: Address:  585254  Function: 2  Alpha:   23:50-87 01173421916
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:50-91 4462<NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   23:51-83 Confirmed End of Shift Thank you<NUL>
+POCSAG1200: Address:  227361  Function: 0  Alpha:   23:52-77 554780<NUL><NUL>
+POCSAG1200: Address: 1679978  Function: 0 
+POCSAG1200: Address:   90499  Function: 1  Alpha:   2 <ETB>JR
+POCSAG1200: Address: 1415268  Function: 2  Alpha:   .<ACK>:G<ESC>
+POCSAG1200: Address:  267880  Function: 3 
+POCSAG1200: Address:  800945  Function: 0  Alpha:   -<CR><BS>--
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   23:53-17 3116<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:53-86 2097<NUL>
+POCSAG2400: Address: 1237216  Function: 1 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:54-92 4462<NUL>
+POCSAG1200: Address: 1021091  Function: 0 

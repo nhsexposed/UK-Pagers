@@ -1,3 +1,20 @@
+POCSAG1200: Address: 1021091  Function: 0 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:54-92 4462<NUL>
+POCSAG2400: Address: 1237216  Function: 1 
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:53-86 2097<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   23:53-17 3116<NUL>
+POCSAG1200: Address:  800945  Function: 0  Alpha:   -<CR><BS>--
+POCSAG1200: Address:  267880  Function: 3 
+POCSAG1200: Address: 1415268  Function: 2  Alpha:   .<ACK>:G<ESC>
+POCSAG1200: Address:   90499  Function: 1  Alpha:   2 <ETB>JR
+POCSAG1200: Address: 1679978  Function: 0 
+POCSAG1200: Address:  227361  Function: 0  Alpha:   23:52-77 554780<NUL><NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   23:51-83 Confirmed End of Shift Thank you<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:50-91 4462<NUL>
+POCSAG1200: Address:  585254  Function: 2  Alpha:   23:50-87 01173421916
+POCSAG2400: Address:   28869  Function: 0  Alpha:   23:50-31 PLEASE CALL EXT 26005 FOR NEW REFERRAL<NUL>
+POCSAG1200: Address:  957344  Function: 0 
+POCSAG1200: Address: 1800568  Function: 0 
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:48-90 4462<NUL>
 POCSAG1200: Address:  371503  Function: 3  Alpha:   O%(07
 POCSAG1200: Address: 1271391  Function: 2 
@@ -981,20 +998,3 @@ POCSAG2400: Address: 1022570  Function: 0  Alpha:   19:33-28 73674
 POCSAG1200: Address: 1001124  Function: 2  Alpha:   19:31-44 PAEDS CARDIAC ARREST, WARD 7C, RLH<NUL><NUL>
 POCSAG1200: Address: 1978098  Function: 0 
 POCSAG1200: Address: 1001134  Function: 2  Alpha:   19:31-39 PAEDS CARDIAC ARREST, WARD 7C, RLH<NUL><NUL>
-POCSAG1200: Address:   71485  Function: 1  Alpha:   v~>wN<ENQ>j<EOT>j<STX>zt<EOT>2d||<DC4>e<STX>r|$<ENQ><DC2><DC4>-<FF>$ELt<<EOT>:<DC4>%<EOT><SUB><ESC><ESC>+<VT>;<ETX>"<VT>3K#C
-POCSAG1200: Address: 1990772  Function: 0 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><STX>
-POCSAG1200: Address: 1745655  Function: 0 
-POCSAG1200: Address:  402290  Function: 0 
-POCSAG2400: Address:  898817  Function: 1  Alpha:   <VT>~gb1
-POCSAG2400: Address: 2075255  Function: 2 
-POCSAG1200: Address: 1713481  Function: 3 
-POCSAG1200: Address:  329007  Function: 2  Alpha:   1<SYN>sg<DC2>T<BS>4B*Z
-POCSAG1200: Address:  400668  Function: 0  Alpha:   <FS><DLE>
-POCSAG1200: Address:  266851  Function: 1  Alpha:   f<SYN>
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG1200: Address:  633641  Function: 2  Alpha:   jl
-POCSAG1200: Address:  400666  Function: 0  Alpha:   <FS><DLE>
-POCSAG1200: Address:  266849  Function: 1  Alpha:   f<SYN>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:  633647  Function: 2  Alpha:   O%(56
