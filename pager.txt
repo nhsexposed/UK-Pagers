@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   01:49-73 5090<NUL>
+POCSAG1200: Address: 1716843  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   01:47-72 4157<NUL>
+POCSAG1200: Address: 1946323  Function: 2 
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   01:47-42 19/11/2021 01:45:28 INC 24687114 06D02 21A ALDER CLOSE, LEYLAND, PR26 7TT Female 75Y DIB GRD 351875 421492<NUL><NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   01:47-01 19/11/2021 01:45:28 INC 24687114 06D02 21A ALDER CLOSE, LEYLAND, PR26 7TT Female 75Y DIB GRD 351875 421492<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 2067441  Function: 0 
 POCSAG2400: Address: 2026356  Function: 2 
 POCSAG2400: Address:   28927  Function: 0  Alpha:   01:42-45 2042<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1761331  Function: 3  Alpha:   6<DC2><NUL>aL
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG2400: Address:  216251  Function: 2  Alpha:   20:12-37 PR
 POCSAG2400: Address:  705157  Function: 0 
-POCSAG1200: Address:  780208  Function: 0  Alpha:   <HT><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  216470  Function: 2  Alpha:   20:11-63 PLS CALL 0121 371 2006
-POCSAG1200: Address:  961340  Function: 2 
-POCSAG2400: Address:  165659  Function: 2  Alpha:   P!i$jda 
-POCSAG2400: Address:  216268  Function: 2  Alpha:   20:09-26 PROBLEM: Citrix Analytics
-POCSAG2400: Address: 1042311  Function: 3  Alpha:   > Manchester > HSC-MAN > HERHAC-MAN<CR><LF>State: DOWN<CR><LF>Date & Time: Thu No<NUL><NUL>
-POCSAG2400: Address:  734608  Function: 2  Alpha:   <FF><FS>lj<FF>tlP<CAN>%<SI>&/V<ETX>"|<ulP <FF>&/<ACK>2<STX>"Mn.V<ETX>"E.<BEL>r|<ACK><NUL>
