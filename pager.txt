@@ -1,3 +1,13 @@
+POCSAG1200: Address: 2091641  Function: 0 
+POCSAG1200: Address:  435031  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0233191121+++TIME=0233191121<NUL>
+POCSAG1200: Address:  790571  Function: 0  Alpha:   <SYN><SYN><VT>D<CAN>)<BS>t(J<BS>4f<SYN>w<ACK>7<ACK>4VfV<SYN><SYN><ACK>
+POCSAG1200: Address: 2077692  Function: 2 
+POCSAG1200: Address: 2073334  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2008666  Function: 2 
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   02:30-78 PROBLEM: Opsera NSClient Windows Agent is CRITICAL on host borrablcit01mc1, <CR><LF>PROBLEM: Opsera NSClient Windows Agent is CRITICAL on host borrablcit01mc1<CR><LF>Service: Opsera NSClient Windows Agent<CR><LF>Host: borrablcit01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.<NUL><NUL>
+POCSAG1200: Address:  958550  Function: 0 
 POCSAG1200: Address:  334075  Function: 2  Alpha:   02:26-77 19/11/2021 02:24:55 INC 24687174 06E01 HIGH PEAK NURSING HOME, MAIN LANE, CULCHETH WARRINGTON WA3, WA3 4AZ Male 76Y DIB- LOW SATS GRD 362852 395553<NUL>
 POCSAG1200: Address: 1748720  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0223191121+++TIME=0223191121<NUL>
@@ -988,13 +998,3 @@ POCSAG2400: Address:  583556  Function: 2  Alpha:   20:28-73 80300
 POCSAG1200: Address: 2008804  Function: 0 
 POCSAG2400: Address:  584658  Function: 2  Alpha:   20:28-10 80300
 POCSAG2400: Address:   11694  Function: 0  Alpha:   20:27-15 FIRE CALL<NUL><NUL>
-POCSAG2400: Address: 1783368  Function: 2  Alpha:   01
-POCSAG2400: Address: 1767070  Function: 2 
-POCSAG2400: Address:  362462  Function: 3 
-POCSAG2400: Address: 1462645  Function: 0  Alpha:   6&
-POCSAG2400: Address:  629596  Function: 1  Alpha:   `b
-POCSAG2400: Address: 1246811  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1745718  Function: 0 
-POCSAG2400: Address:  681145  Function: 1 
-POCSAG2400: Address: 1107472  Function: 1 
