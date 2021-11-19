@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1483185  Function: 2  Alpha:   15:34-14 19/11/2021 15:30:45 INC 24689707 17D04G SPRINGFIELD CARE
+POCSAG2400: Address:   28895  Function: 0  Alpha:   15:33-22 5128<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:34-05 5202<NUL>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   15:33-91 5002<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1533191121+++TIME=1533191121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1533191121+++TIME=1533191121<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   15:33-12 PLEASE CALL CAMBRIDGE L WARD EXT 7233022<NUL><NUL>
+POCSAG1200: Address: 2008953  Function: 0 
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   15:33-37 4769<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:32-87 4312<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   15:32-51 2339<NUL>
+POCSAG512: Address:  267813  Function: 0 
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   15:30-50 62819
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>@
+POCSAG1200: Address:  312672  Function: 0  Alpha:   15:30-05 Call 24689667 - Warning - Scene Unsafe. Contract Control for further advice.
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:29-44 2616<NUL>
 POCSAG1200: Address: 1723336  Function: 1 
 POCSAG1200: Address: 1589825  Function: 3 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1602774  Function: 3
 POCSAG1200: Address: 1912926  Function: 3 
 POCSAG1200: Address: 1669765  Function: 1  Alpha:   <SUB>C
 POCSAG2400: Address: 1321022  Function: 2  Alpha:   12:35-04 3508<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   12:34-97 5076<NUL>
-POCSAG2400: Address:  726736  Function: 2 
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12:34-32 4769<NUL>
-POCSAG2400: Address:  799264  Function: 0  Alpha:   <STX><NUL>
-POCSAG2400: Address: 1324621  Function: 2  Alpha:   12:33-59 PLS CALL PATRICK SENIOR ON 07557 749 537 STROUD CRISIS TEAM <NUL><NUL>
-POCSAG2400: Address: 1451526  Function: 2 
-POCSAG2400: Address: 1324616  Function: 2  Alpha:   12:33-74 PLS CALL PATRICK SENIOR ON 07557 749 537 STROUD CRISIS TEAM <NUL><NUL>
-POCSAG2400: Address: 1324610  Function: 2  Alpha:   12:33-84 PLS CALL PATRICK SENIOR ON 07557 749 537 STROUD CRISIS TEAM <NUL><NUL>
-POCSAG1200: Address: 1676074  Function: 3  Alpha:   hr
-POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&P<SUB><SYN>l0f
-POCSAG1200: Address:  230853  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   12:32-94 69002
-POCSAG1200: Address:  679608  Function: 2  Alpha:   12:32-64 69002
-POCSAG1200: Address:  649969  Function: 2  Alpha:   12:32-78 69002
