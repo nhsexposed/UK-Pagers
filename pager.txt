@@ -1,3 +1,19 @@
+POCSAG1200: Address: 1032664  Function: 2  Alpha:   B<BS><NUL>`L
+POCSAG1200: Address: 1817414  Function: 2  Alpha:   08
+POCSAG1200: Address:  437405  Function: 2 
+POCSAG1200: Address: 1683492  Function: 3  Alpha:   RF
+POCSAG2400: Address: 1913540  Function: 2  Alpha:   08:48-41 3157<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   08:48-26 19/11/2021 08:45:24 INC 2
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0848191121+++TIME=0848191121<NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   08:48-67 Boiler lock out ALERT<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   08:47-60 5201<NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   08:47-66 Boiler lock out ALERT<NUL>
+POCSAG2400: Address: 2074934  Function: 0 
+POCSAG2400: Address: 1320361  Function: 2  Alpha:   08:45-60 5359<NUL>
+POCSAG1200: Address: 1534287  Function: 2  Alpha:   08:45-70 (2/3) FIRE & POLICE SERVICE HEADQUARTERS          LEIGH ROAD          EASTLEIGH          SO50 9SJ Type     M8 Notifications Map ref  444284.5,119552.24 Details <NUL><NUL>
+POCSAG1200: Address: 1534287  Function: 2  Alpha:   08:45-69 (3/3) OPERATIONAL COVER ALERT 
+POCSAG1200: Address: 1751158  Function: 0 
+POCSAG2400: Address: 1913857  Function: 2  Alpha:   08:44-89 3181<NUL>
 POCSAG2400: Address: 1814983  Function: 2  Alpha:   08:44-09 ian wood 01243937988<NUL><NUL>
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   08:44-46 3254<NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:44-31 19/11/2021 08:42:23 INC 24687884 09E01 167 PARK ROAD, FORMBY L37, L37 6EN Male 92Y QUERY PASSED AWAY GRD 329308 406136<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1441908  Function: 0
 POCSAG1200: Address: 1970705  Function: 2  Alpha:   3s<SUB>11-59 33945
 POCSAG1200: Address:  413130  Function: 2  Alpha:   23:10-61 (2/2) Roles    JY01P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   23:10-53 PROBLEM: Windows Time is UNKNOWN on host BOOPENLVDA02MC1, <CR><LF>PROBLEM: Windows Time is UNKNOWN on host BOOPENLVDA02MC1<CR><LF>Service: Windows Time<CR><LF>Host: BOOPENLVDA02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.100<CR><LF>Host Group Hierarchy: <CR><LF>State: UNKNOWN<CR><LF>Date <NUL><NUL>
-POCSAG2400: Address:  897259  Function: 3 
-POCSAG2400: Address: 1320546  Function: 1 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   23:09-47 18/11/2021 23:07:39 INC 24686671 06E01 FLAT 1, 12 PERCY STREET, TOXTETH L8, L8 7LU Female 4D 4 days old struggling to breathe - GRD 335598 389417
-POCSAG2400: Address: 1559063  Function: 0  Alpha:   YX
-POCSAG2400: Address: 1908539  Function: 2 
-POCSAG2400: Address: 2022786  Function: 1  Alpha:   P_giA
-POCSAG2400: Address: 1414017  Function: 2  Alpha:    &
-POCSAG2400: Address:  169544  Function: 1 
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   23:07-74 please call bennet, LITU X3182
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   11678  Function: 0  Alpha:   23:07-82 RP
-POCSAG1200: Address:  114427  Function: 0  Alpha:   23:06-35 01173421913
-POCSAG2400: Address: 1877586  Function: 0 
-POCSAG1200: Address: 1745491  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:05-38 3157<NUL>
-POCSAG2400: Address: 1323191  Function: 2  Alpha:   23:04-70 NHSBT - DONOR REFERRAL. Please call DR TOM MARTIN on Direct Dial Number 01493 452452 BLEEP 1344 Hospital JAMES PAGET HOSPITAL, GREAT YARMOUTH Dept INTENSIVE CARE . Regards Donor Referral Lin
