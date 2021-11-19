@@ -1,3 +1,35 @@
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN>P
+POCSAG2400: Address:  583520  Function: 2  Alpha:   14:04-76 80161
+POCSAG2400: Address: 1717487  Function: 1  Alpha:   O%
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=<DC1><SUB>X
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403191121+++TIME=1403191121<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   14:03-82 5690<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#<CR><DLE>L
+POCSAG1200: Address:  600572  Function: 0  Alpha:   14:03-83 Please call ext 3406 or BLP 6415, thanks<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1067388  Function: 2 
+POCSAG1200: Address:   70051  Function: 0  Alpha:   AN
+POCSAG1200: Address: 1172291  Function: 1 
+POCSAG1200: Address:  585540  Function: 2  Alpha:   14:02-13 550<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  677264  Function: 1 
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   <ACK>K
+POCSAG2400: Address:   33739  Function: 2  Alpha:   14:01-08 INC ALERT No: 16798325 Traumatic Injuries (Specific) - M - CAUGHT FINGER WITH JIGSAW TOOL - FEELING FAINT, AT: 12 BLACKMORE COURT, EXMOUTH, EX8 4SG, Time of Call: 19/11/2021 13:59:00, Co-ords: 50.6304625 -3.3849795<NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   14:01-79 19/11/2021 13:58:34 INC 24689246 32D01 10 MILLOM CLOSE, BELFIELD ROCHDALE, OL16 2XF Male 33Y LYING ON THE FLOOR GRD 391113 414013<NUL><NUL>
+POCSAG2400: Address: 1022505  Function: 0  Alpha:   14:00-07 PLEASE RING X74444 TO CONFIRM RECEIPT OF THIS MESSAGE
+POCSAG1200: Address: 1969013  Function: 0 
+POCSAG1200: Address: 2011700  Function: 2 
+POCSAG1200: Address:  899844  Function: 1  Alpha:   frDdp
+POCSAG1200: Address: 1115547  Function: 0  Alpha:   \X
+POCSAG1200: Address:  378155  Function: 0 
+POCSAG1200: Address: 1477026  Function: 0 
+POCSAG1200: Address: 1487953  Function: 1  Alpha:   <DC2>>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   14:00-53 19/11/2021 13:59:02 INC 24689248 10D01 4 OAKWOOD CLOSE, DARWEN, BB3 0PG Female 81Y CHEST PAINS AND SLURRING WORDS GRD 368114 424074
+POCSAG1200: Address:  989925  Function: 2  Alpha:   14:00-52 gva here
+POCSAG1200: Address:  906782  Function: 3  Alpha:   FB
+POCSAG1200: Address:  585224  Function: 2  Alpha:   13:59-67 1: 001MPCLA81015 Lift Panel in BCC Lift Alarm 01
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   13:59-12 33907
+POCSAG2400: Address: 1321244  Function: 2  Alpha:   13:59-79 33907
 POCSAG1200: Address:  267831  Function: 2  Alpha:   13:59-75 32
 POCSAG2400: Address: 1322760  Function: 2  Alpha:   13:58-48 NHSBT - DONOR
 POCSAG2400: Address: 1322897  Function: 2  Alpha:   13:58-39 NHSBT - DONOR REFERRAL. Please call DR DANIEL  on Direct Dial Number 07766148994 Hospital Bristol Royal Hospital for Children Dept ICU . Regards Donor Referral Line<NUL>
@@ -966,35 +998,3 @@ POCSAG1200: Address:   68003  Function: 1  Alpha:   LE
 POCSAG1200: Address:  182866  Function: 0 
 POCSAG2400: Address: 2092536  Function: 3 
 POCSAG2400: Address: 1913978  Function: 2  Alpha:   11:05-74 5071<NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   11:04-35 19/11/2021 10:57:49 INC 24688466 20D01C O/S, LIDL GREAT BRITAIN LTD, BACUP ROAD, ROSSENDALE, BB4 7ND Male 53Y COLD E
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   1<DC1>(05-46 2214<NUL>
-POCSAG1200: Address: 1190643  Function: 0 
-POCSAG1200: Address: 1483185  Function: 2  Alpha:   11:04-08 19/11/2021 11:02:43 INC 24688493 29D02M O/S TOWER BLOCK, SANDOWN COURT, AVENHAM PRESTON, PR1 3SE Female 50Y lady hit by taxi GRD 354245 429117
-POCSAG1200: Address:  940540  Function: 2  Alpha:   11:04-49 19/11/2021 
-POCSAG1200: Address: 1522214  Function: 3  Alpha:   K<FF>L,<FF>(,L<SO>LL<SO>m<FF>(Rs<DLE>H<FF>M<CR><SO><SO>-n<FF>hsk<DC4><BS>us5Q<DC4>H<DLE>ssp<DC2><VT>h4P<DC3>qsU<DC3>hp3U<DC4><NAK><VT>(P5Q<DC3>20<DC3><BS>T4q<DC4>uS<DC3><VT><BS>T4<FF>hl4<DC1>H19;<CAN>;<EM>(<CR>,<SYN><BS>;<CAN>9<RS><BS>:<SUB><GS>H8<RS><BS>=<CAN>><SUB>hQ<DC4><DC1>h,<CR>M<FF>-<CR><BS>M,.,l<CR><NUL>
-POCSAG1200: Address:   40100  Function: 2  Alpha:   11:04-63 19
-POCSAG1200: Address:  402019  Function: 0 
-POCSAG1200: Address: 1993313  Function: 0 
-POCSAG1200: Address:  367407  Function: 3 
-POCSAG1200: Address: 1228381  Function: 2 
-POCSAG1200: Address: 1071226  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1103191121+++TIME=1103191121<NUL>
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   Fl
-POCSAG2400: Address: 1254794  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1321854  Function: 2  Alpha:   11:02-23 Dear Craig<LF>Please ring Catherine regarding a patient on Huggett Suite Ext 46169 re RTX0462292 AB.  Thank you.  Andrea<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  325950  Function: 3  Alpha:   2<BS>
-POCSAG1200: Address:  132226  Function: 2  Alpha:   j$&b$
-POCSAG1200: Address:  738673  Function: 0 
-POCSAG1200: Address: 1065120  Function: 3 
-POCSAG1200: Address: 1290895  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1087903  Function: 3 
-POCSAG1200: Address:  918883  Function: 3  Alpha:    g<SOH>db
-POCSAG1200: Address:  285618  Function: 3 
-POCSAG1200: Address:  297698  Function: 0 
-POCSAG1200: Address: 1058849  Function: 3 
-POCSAG1200: Address:  216338  Function: 2  Alpha:   11:01-16 Destination
-POCSAG1200: Address:  977783  Function: 1 
-POCSAG2400: Address: 1500905  Function: 1 
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   11:00-79 19/11/2021 10:58:14 INC 24688471 25A02 134 ABBEY ROAD, MACCLESFIELD SK10, SK10 3PA Female 33Y SUCIDAL DIB GRD 390886 374918<NUL><NUL>
