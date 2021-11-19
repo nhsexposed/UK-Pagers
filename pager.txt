@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   Fj
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>VDL
+POCSAG1200: Address:  269456  Function: 3  Alpha:   %2
+POCSAG2400: Address:   28926  Function: 0  Alpha:   12:38-16 5201<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   12:38-69 2552<NUL>
+POCSAG1200: Address: 1434482  Function: 0 
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
+POCSAG1200: Address: 1602774  Function: 3 
+POCSAG1200: Address: 1912926  Function: 3 
+POCSAG1200: Address: 1669765  Function: 1  Alpha:   <SUB>C
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   12:35-04 3508<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   12:34-97 5076<NUL>
 POCSAG2400: Address:  726736  Function: 2 
 POCSAG2400: Address:   28906  Function: 0  Alpha:   12:34-32 4769<NUL>
 POCSAG2400: Address:  799264  Function: 0  Alpha:   <STX><NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address:  333844  Function: 2
 POCSAG1200: Address:  791331  Function: 3  Alpha:   <EOT>j
 POCSAG1200: Address: 1521331  Function: 1 
 POCSAG1200: Address: 1671730  Function: 3 
-POCSAG1200: Address: 2001525  Function: 2 
-POCSAG2400: Address: 1323476  Function: 2  Alpha:   09:26-56 TEST CALL FOR VICKY MAY <NUL>
-POCSAG2400: Address: 1323482  Function: 2  Alpha:   09:26-37 TEST CALL FOR VICKY MAY <NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   09:26-48 2447<NUL>
-POCSAG2400: Address: 1323487  Function: 2  Alpha:   09:26-60 TEST CALL FOR VICKY MAY <NUL>
-POCSAG2400: Address: 1323488  Function: 2  Alpha:   09:26-50 TEST CALL FOR VICKY MAY <NUL>
-POCSAG1200: Address:  548010  Function: 2  Alpha:   09:26-39 TEST CALL FOR VICKY MAY <NUL>
-POCSAG1200: Address: 1485434  Function: 1 
-POCSAG1200: Address:  664466  Function: 2  Alpha:   09:24-76 1: 001CLCOMBA39040 BR5 Airdale 2 Flt Unit Fault 01<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>VDL
-POCSAG1200: Address: 1485549  Function: 3  Alpha:   U<NUL>
-POCSAG2400: Address:  583543  Function: 2  Alpha:   09:23-86 80300
-POCSAG1200: Address:  635742  Function: 0  Alpha:   bh
