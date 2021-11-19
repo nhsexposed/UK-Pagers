@@ -1,3 +1,36 @@
+POCSAG1200: Address: 1110856  Function: 1 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  610598  Function: 0 
+POCSAG1200: Address: 1072486  Function: 3 
+POCSAG1200: Address: 1868357  Function: 0  Alpha:   AC
+POCSAG1200: Address: 1377572  Function: 2 
+POCSAG1200: Address:  271948  Function: 0 
+POCSAG1200: Address: 1750227  Function: 0 
+POCSAG1200: Address: 1912899  Function: 2 
+POCSAG1200: Address:  543772  Function: 3  Alpha:   :<EM>I9<LF>4Hy9ZH<ENQ><EOT>*Z8J<GS>[<DC2>
+POCSAG1200: Address: 1468452  Function: 0 
+POCSAG1200: Address:  433242  Function: 0 
+POCSAG1200: Address: 1684271  Function: 3  Alpha:   O%(53
+POCSAG1200: Address: 1271391  Function: 2 
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <NAK>3
+POCSAG1200: Address: 1221706  Function: 3 
+POCSAG1200: Address:  365608  Function: 3  Alpha:   S<DC4>U<DC4>(u<DC2><BS>
+POCSAG1200: Address: 1022375  Function: 2  Alpha:   ,<FS>eg<DC2>
+POCSAG2400: Address: 1415184  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2338191121+++TIME=2338191121<NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1022653  Function: 0  Alpha:   23:36-51 PLS CALL 4048
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:36-29 4187<NUL>
+POCSAG2400: Address: 1946226  Function: 1 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 2008629  Function: 3 
+POCSAG2400: Address: 1323655  Function: 2  Alpha:   23:34-78 38001
+POCSAG1200: Address: 1684270  Function: 3  Alpha:   dj
+POCSAG1200: Address: 1271390  Function: 2 
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   23:35-73 19/11/20X<CAN><DLE>
+POCSAG1200: Address: 2007659  Function: 3 
 POCSAG1200: Address: 1071228  Function: 2 
 POCSAG1200: Address: 1058353  Function: 3 
 POCSAG1200: Address: 1257544  Function: 0 
@@ -965,36 +998,3 @@ POCSAG1200: Address: 1089329  Function: 3  Alpha:   d,
 POCSAG1200: Address: 1151104  Function: 2  Alpha:   b(
 POCSAG1200: Address:   30648  Function: 2  Alpha:   19:23-69 19/11/2021 19:20:04 INC 2469078<FS><DLE>yg<DC2>
 POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF>A3l0f
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:23-09 4204<NUL>
-POCSAG512: Address: 1974578  Function: 0 
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   19:22-62 2445<NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   19:22-40 2183<NUL>
-POCSAG1200: Address: 1024124  Function: 2 
-POCSAG1200: Address: 1614688  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  742986  Function: 1  Alpha:   4<DC1>
-POCSAG1200: Address: 1065313  Function: 0 
-POCSAG1200: Address:  173024  Function: 2  Alpha:   )<ETB>
-POCSAG1200: Address:   76301  Function: 1 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   19:20-45 4204<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:20-08 5201<NUL>
-POCSAG1200: Address: 1353768  Function: 3 
-POCSAG1200: Address:  529926  Function: 2  Alpha:   R3Rs1<LF><BS><FF>hS3k0<DLE><DC3><DC3>H<CR>(3<DLE><SYN>(<CR>(3R<DC3><BS><BS><NUL>
-POCSAG1200: Address:  722825  Function: 3 
-POCSAG1200: Address: 2003571  Function: 0 
-POCSAG1200: Address: 2024046  Function: 0 
-POCSAG1200: Address:  101121  Function: 0  Alpha:   h@
-POCSAG1200: Address: 1246897  Function: 0 
-POCSAG1200: Address: 1069149  Function: 0 
-POCSAG1200: Address:   45717  Function: 2 
-POCSAG1200: Address: 1888564  Function: 1 
-POCSAG1200: Address: 1321857  Function: 2  Alpha:   19:19-10 TEST PAGE<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:19-12 2445<NUL>
-POCSAG1200: Address: 2008645  Function: 0 
-POCSAG2400: Address:   25320  Function: 3  Alpha:   g8
-POCSAG2400: Address: 1324560  Function: 2  Alpha:   19:17-55 Confirmed End of Shift Thank you<NUL>
-POCSAG1200: Address: 1505140  Function: 0 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:17-06 4873<NUL>
-POCSAG1200: Address:  838081  Function: 0  Alpha:   E 
-POCSAG1200: Address:  134112  Function: 3 
-POCSAG1200: Address:  216379  Function: 2  Alpha:   19:17-48 (2/2) Assigned: JY02P1; Roles    JY02P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Semi-Detached<NUL><NUL>
