@@ -1,3 +1,7 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   06:24-55 4156<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0623191121+++TIME=0623191121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123456789012345;7890
+POCSAG2400: Address:  149253  Function: 2  Alpha:   06:22-29 03003000044
 POCSAG2400: Address: 2025462  Function: 1 
 POCSAG2400: Address: 1933939  Function: 1 
 POCSAG2400: Address:  216268  Function: 2  Alpha:   06:18-13 RECOVERY: Citrix Profile Management is OK on host borrablcit01mc1, <CR><LF>RECOVERY: Citrix Profile Management is OK on host borrablcit01mc1<CR><LF>Service: Citrix Profile Management<CR><LF>Host: borrablcit01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.13.42<CR><LF>Host Group Hier<NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG2400: Address:  964340  Function: 0
 POCSAG2400: Address:  994931  Function: 0 
 POCSAG2400: Address:  149180  Function: 2  Alpha:   21:22-31 PLEASE CALL ADDENBROOKES HOSPITAL ON 07964 492 856<NUL>
 POCSAG2400: Address: 1323176  Function: 2  Alpha:   21:22-11 PLEASE CALL ADDENBROOKES HOSPITAL ON 07964 492 856<NUL>
-POCSAG2400: Address: 1323175  Function: 2  Alpha:   21:22-02 PLEASE CALL ADDENBROOKES HOSPITAL ON 07964 492 856<NUL>
-POCSAG2400: Address: 1323253  Function: 2  Alpha:   21:22-37 PLEASE CALL ADDENBROOKES HOSPITAL ON 07964 492 856<NUL>
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   21:22-46 PLEASE CALL ADDENBROOKES HOSPITAL ON 07964 492 856<NUL>
-POCSAG2400: Address: 1323229  Function: 2  Alpha:   21:22-53 PLEASE CALL ADDENBROOKES HOSPITAL ON 07964 492 856<NUL>
