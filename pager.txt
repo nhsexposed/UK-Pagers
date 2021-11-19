@@ -1,3 +1,13 @@
+POCSAG1200: Address:  906480  Function: 3  Alpha:   @<EM>
+POCSAG1200: Address: 1485503  Function: 2  Alpha:   Uh <BS>L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0023191121+++TIME=0023191121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB ,est messas2<DLE>77
+POCSAG1200: Address: 2009970  Function: 1 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:22-87 19/11/2021 00:19:17 INC 24686894 07A01 14 GREEN LANE, TUEBROOK L13, L13 7EA Male 1Y BURNT BY COFFEE GRD 338342 392324<NUL><NUL>
+POCSAG1200: Address: 1321308  Function: 2  Alpha:   00:22-41 3991<NUL>
+POCSAG1200: Address: 2025080  Function: 0 
+POCSAG2400: Address:  916594  Function: 0  Alpha:   mlp;;[58<GS><ESC>=Cb<DC4>=<CAN>=}U&(pxZ{{<GS>;<EM>y9<EM>9C"pxZ{{<GS>;<EM>y9<EM><EM>H0^<SO>hyL<VT><NUL><NUL>
+POCSAG2400: Address: 2073315  Function: 2 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:18-31 4462<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0018191121+++TIME=0018191121<NUL>
 POCSAG2400: Address:   11729  Function: 0  Alpha:   00:17-03 PLS CALL A&E ON 7234426<NUL><NUL>
@@ -988,13 +998,3 @@ POCSAG2400: Address: 1023345  Function: 3
 POCSAG2400: Address:  867641  Function: 3 
 POCSAG2400: Address:  266848  Function: 2 
 POCSAG2400: Address: 1582148  Function: 0 
-POCSAG2400: Address: 1593379  Function: 1  Alpha:   w9<LF><GS><DLE>
-POCSAG2400: Address:  276530  Function: 3 
-POCSAG2400: Address: 1477138  Function: 1 
-POCSAG2400: Address: 1761369  Function: 0 
-POCSAG2400: Address:  328727  Function: 3  Alpha:   g<DC2>T[<FS><NAK>h<DLE>6|x
-POCSAG1200: Address: 1708843  Function: 1  Alpha:   .N<SO>],<SO><DC4>Ll<RS>=\l<ENQ>
-POCSAG2400: Address: 1323953  Function: 2  Alpha:   19:12-05 Test<NUL>
-POCSAG1200: Address: 1630965  Function: 0 
-POCSAG1200: Address:  200957  Function: 2  Alpha:   19:12-61 PLS CALL 31761 <NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
