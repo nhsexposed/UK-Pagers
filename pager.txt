@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1321864  Function: 2  Alpha:   16
+POCSAG1200: Address:  801715  Function: 2 
+POCSAG1200: Address:  734442  Function: 0 
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   16:49-01 19/11/2021 16:46:40 INC 24690048 JUNCTION 9 ACCESS WESTBOUND, M62, WA3 6BY Male 40Y HIT BY CAR GRD C<CR>,n<CR><SO>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:49-72 19/11/2021 16:47:33 INC 24690056 29D02L Marker 26/6 West, M62, WA2 0NN Male 35Y HEAVY BREATHING - HEAD INJURY - BIKE GRD 360291 391909<NUL><NUL>
+POCSAG1200: Address: 1870583  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:48-97 5202<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   16:48-14 PLEASE CALL BACK 7236111<NUL>
+POCSAG2400: Address: 2074228  Function: 2 
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:47-50 2161<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2045280  Function: 2  Alpha:   2<STX>5<ACK>2<SYN><STX><GS>J<DC2><STX>MeMaUM<SOH>MeeMeY<SOH>
+POCSAG1200: Address: 1942102  Function: 2 
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:46-58 call still on  69000 <NUL>
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   16:46-64 call still on  69000 <NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:45-23 4769<NUL>
+POCSAG1200: Address: 1832096  Function: 0  Alpha:   3<ETX>BL<D4L,d$<EOT><SUB>%<NAK>-,$e<STX>"<FF><DC4>=-td<STX><DC2><DC4><FS><ETX><DC2>#$<EOT>j<FF>f.<ACK>"3K<ENQ><SUB>D,<FS>%<ENQ><STX><CR>Lt<EOT>:<DC4>%<EOT><SUB>3K3KK<ETX>"<DC3><VT>CK<ESC><ETX>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:45-87 19/11/2021 16:43:40 INC 24690035 10D04 
+POCSAG1200: Address:   33445  Function: 3 
+POCSAG1200: Address: 1817196  Function: 0 
+POCSAG1200: Address: 1099484  Function: 1  Alpha:   <CAN><ESC>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   16:45-87 6269<NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   16:45-39 2850<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:44-49 2161<NUL>
 POCSAG1200: Address: 1312572  Function: 2  Alpha:   16:44-43 Proceed to: 039443-19112021 RTC PERSONS TRAPPED SMALL VEHICLE  JUNCTION 13 TO 12,THORPE TO CHERTSEY,M25<NUL><NUL>
 POCSAG2400: Address: 1913676  Function: 2  Alpha:   16:44-00 3103<NUL>
 POCSAG1200: Address:  549856  Function: 2  Alpha:   16:44-86 ~S21 - CLOSED FOR COVID CLEAN - ETA FOR CLEANER 18:15
@@ -974,27 +998,3 @@ POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
 POCSAG1200: Address: 1534139  Function: 2  Alpha:   13:29-59 (1/3)Incident Information for JHAT9  Incident HH024960-19112021 To       19/11/2021 13:20:33 Address  HMP WINCHESTER COMMUNITY PRISON          HM PRISON (MAIN<NUL>
 POCSAG1200: Address:  963185  Function: 0 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
-POCSAG2400: Address: 1319901  Function: 2  Alpha:   13:28-17 GOLD TEST - PLEASE CALL 0207 281 9000<NUL><NUL>
-POCSAG2400: Address: 1323598  Function: 2  Alpha:   13:28-21 GOLD TEST - PLEASE CALL 0207 281 9000<NUL><NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   13:28-08 5013<NUL>
-POCSAG1200: Address: 1534251  Function: 2  Alpha:   13:28-05 CELL FIRE AT HMP WINCHESTER - DUTY FI TO CONTACT CONTROL <NUL><NUL>
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   13:27-09 2798<NUL>
-POCSAG2400: Address:   28901  Function: 0  Alpha:   13:27-59 4954<NUL>
-POCSAG2400: Address: 1031939  Function: 3  Alpha:   C<NUL>
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   13:27-08 5013<NUL>
-POCSAG2400: Address: 1749040  Function: 0 
-POCSAG1200: Address: 2045440  Function: 0  Alpha:   :<DC4>%<EOT><SUB><ESC><ESC><ESC><ETX><ETX><ETX>"#;C<ESC><VT><ETX><NUL><NUL>
-POCSAG1200: Address:  843024  Function: 1 
-POCSAG1200: Address: 1223020  Function: 1 
-POCSAG1200: Address:  200800  Function: 2  Alpha:   13:27-05 19/11/2021 13:15:50 INC 24689067 12D02 JUNC WITH MILT<SI>'P
-POCSAG2400: Address: 1913950  Function: 2  Alpha:   13:26-19pY<EOT>
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG1200: Address: 1155665  Function: 0 
-POCSAG1200: Address: 1745790  Function: 1 
-POCSAG1200: Address: 1261718  Function: 2 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
