@@ -24021,3 +24021,29 @@ POCSAG2400: Address: 1913804  Function: 2  Alpha:   09:59-18 5078<NUL>
 POCSAG2400: Address: 1876829  Function: 0 
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   09
 POCSAG2400: Address:  672554  Function: 2  Alpha:   YU<SOH>MEEe<SOH>
+POCSAG1200: Address:  290208  Function: 0 
+POCSAG1200: Address:  269340  Function: 0 
+POCSAG1200: Address:   80014  Function: 0 
+POCSAG1200: Address:  212087  Function: 0 
+POCSAG1200: Address:  413198  Function: 2  Alpha:   09:59-50 (2/3) LOCKED IN CAR -; Assigned: JY22P1; Roles    JY22P1:Main Pump;<NUL>
+POCSAG1200: Address: 2091642  Function: 0 
+POCSAG1200: Address:  504690  Function: 0 
+POCSAG2400: Address: 1323337  Function: 2  Alpha:   10:00-32 80300
+POCSAG1200: Address: 2078360  Function: 2  Alpha:   <ACK>f<ENQ><ACK><SYN>X<HT><NUL>
+POCSAG1200: Address: 1593631  Function: 1  Alpha:   O%(n+
+POCSAG1200: Address: 1162528  Function: 3  Alpha:   `dB<SUB><DC4>
+POCSAG1200: Address: 1638403  Function: 0  Alpha:   L<CR>)<FF>L
+POCSAG1200: Address: 2026358  Function: 2 
+POCSAG2400: Address:  583590  Function: 2  Alpha:   10:01-12 80300
+POCSAG1200: Address: 1843792  Function: 1 
+POCSAG1200: Address: 1511977  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  295506  Function: 0 
+POCSAG2400: Address:  583561  Function: 2  Alpha:   10:02-05 80300
+POCSAG2400: Address: 1913570  Function: 2  Alpha:   10:4<US>=30 vr79<NUL>
+POCSAG2400: Address: 2077694  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324229  Function: 2  Alpha:   10:03-76 80300
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:03-65 4379<NUL>
+POCSAG2400: Address: 1323006  Function: 2  Alpha:   10:03-81 80300
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   10:03-74 5400<NUL>
+POCSAG2400: Address: 1324302  Function: 2  Alpha:   10:03-22 80300

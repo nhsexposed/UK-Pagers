@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1324302  Function: 2  Alpha:   10:03-22 80300
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   10:03-74 5400<NUL>
+POCSAG2400: Address: 1323006  Function: 2  Alpha:   10:03-81 80300
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:03-65 4379<NUL>
+POCSAG2400: Address: 1324229  Function: 2  Alpha:   10:03-76 80300
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 2077694  Function: 2 
+POCSAG2400: Address: 1913570  Function: 2  Alpha:   10:4<US>=30 vr79<NUL>
+POCSAG2400: Address:  583561  Function: 2  Alpha:   10:02-05 80300
+POCSAG1200: Address:  295506  Function: 0 
+POCSAG1200: Address: 1511977  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1843792  Function: 1 
+POCSAG2400: Address:  583590  Function: 2  Alpha:   10:01-12 80300
+POCSAG1200: Address: 2026358  Function: 2 
+POCSAG1200: Address: 1638403  Function: 0  Alpha:   L<CR>)<FF>L
+POCSAG1200: Address: 1162528  Function: 3  Alpha:   `dB<SUB><DC4>
+POCSAG1200: Address: 1593631  Function: 1  Alpha:   O%(n+
+POCSAG1200: Address: 2078360  Function: 2  Alpha:   <ACK>f<ENQ><ACK><SYN>X<HT><NUL>
+POCSAG2400: Address: 1323337  Function: 2  Alpha:   10:00-32 80300
+POCSAG1200: Address:  504690  Function: 0 
+POCSAG1200: Address: 2091642  Function: 0 
+POCSAG1200: Address:  413198  Function: 2  Alpha:   09:59-50 (2/3) LOCKED IN CAR -; Assigned: JY22P1; Roles    JY22P1:Main Pump;<NUL>
+POCSAG1200: Address:  212087  Function: 0 
+POCSAG1200: Address:   80014  Function: 0 
+POCSAG1200: Address:  269340  Function: 0 
+POCSAG1200: Address:  290208  Function: 0 
 POCSAG2400: Address:  672554  Function: 2  Alpha:   YU<SOH>MEEe<SOH>
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   09
 POCSAG2400: Address: 1876829  Function: 0 
@@ -972,29 +998,3 @@ POCSAG1200: Address: 1027237  Function: 2
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   03:19
 POCSAG1200: Address: 1265425  Function: 1 
 POCSAG1200: Address: 1838808  Function: 3 
-POCSAG1200: Address:  679648  Function: 2  Alpha:   03:17-83 PROCEED TO:  RTC
-POCSAG2400: Address: 2093171  Function: 0 
-POCSAG1200: Address:   35128  Function: 1  Alpha:   `h^d``d@<ACK><DC1>g<EOT><SOH><NUL>
-POCSAG1200: Address: 2073841  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308191121+++TIME=0308191121<NUL>
-POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
-POCSAG1200: Address: 1424945  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303191121+++TIME=0303191121<NUL>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  585538  Function: 2  Alpha:   02:59-33 3628<NUL>
-POCSAG2400: Address: 1808016  Function: 2 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:58-82 3104<NUL>
-POCSAG1200: Address: 1499700  Function: 0 
-POCSAG2400: Address:   28869  Function: 0  Alpha:   02:t<EOT>)10 PL<ENQ>ACG CALL EXT 26010<NUL>
-POCSAG2400: Address:   28868  Function: 0  Alpha:   02:51-42 PLEASE CALL EXT: 38172
-POCSAG1200: Address: 1125320  Function: 3 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
-POCSAG1200: Address:  427195  Function: 1  Alpha:   XUU<NAK>jdfb<RS><CAN><EM><SUB>\X\X<CAN>Y<CAN><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   <HT>(*TIME=024819
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1815905  Function: 0 
-POCSAG1200: Address: 1680247  Function: 3  Alpha:   O%
-POCSAG1200: Address:  557775  Function: 3 
-POCSAG1200: Address:  189078  Function: 2 
-POCSAG2400: Address:  549110  Function: 2  Alpha:   02:46-74 FULL OFFER OF RIGHT LIVER LOBE: Donor: 153019, Hospital: GLASGOW QUEEN ELIZABETH UNIVERSITY HOSPITAL, HSG517, DOB: 13/10/2002, DBD, Recipient name: PAMELA OSBORNE, DOB: 20/04/1969 : THIS OFFER EXPIRES AT 03:30 - NORS TEAM NOT MOBI
