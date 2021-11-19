@@ -23129,3 +23129,8 @@ POCSAG2400: Address:  549033  Function: 2  Alpha:   04:16-44 Call 8013<NUL><NUL>
 POCSAG1200: Address:  786024  Function: 1 
 POCSAG1200: Address: 1483356  Function: 0 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   04:19-51 2008<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   04:22-05 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153021, Donor hospital - SOUTHAMPTON UNIVERSITY, Donor DOB - 07/11/1952.<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423191121+++TIME=0423191121<NUL>
+POCSAG1200: Address:   36944  Function: 2 
