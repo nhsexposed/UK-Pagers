@@ -25714,3 +25714,31 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1518191121+++TIME=15
 POCSAG1200: Address: 1511970  Function: 3  Alpha:   <SYN>d
 POCSAG2400: Address: 2074225  Function: 2 
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <ACK>"
+POCSAG1200: Address: 1338064  Function: 0 
+POCSAG1200: Address:  267856  Function: 1 
+POCSAG1200: Address:  722217  Function: 1 
+POCSAG1200: Address: 1380873  Function: 0 
+POCSAG1200: Address:  591205  Function: 2  Alpha:    g<SOH>db
+POCSAG1200: Address:  334376  Function: 1 
+POCSAG1200: Address:  411931  Function: 0 
+POCSAG1200: Address:  156691  Function: 2  Alpha:   Q<DC4>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   15:20-68 19/11/2021 15:19:54 INC 24689647 06D01 141 WOODSIDE ROAD, HUNCOAT ACCRINGTON, BB5 6LG Female GRD 377754 430186
+POCSAG1200: Address:  166694  Function: 2 
+POCSAG1200: Address:  835895  Function: 2 
+POCSAG1200: Address:  765073  Function: 0  Alpha:   Y9
+POCSAG1200: Address: 1700818  Function: 2 
+POCSAG1200: Address:   95109  Function: 3 
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   15:20-10 3132<NUL>
+POCSAG1200: Address: 1485641  Function: 3  Alpha:   A<EM>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   15:21-39 4310<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:21-75 Call or Calls waiting at Switchboard
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   15:22-92 Please call 01535 293909. RSVP
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   <SYN>b
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   15:22-28 4179<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address:  273128  Function: 3  Alpha:   +++TIME=1523191121+++TIME=1523191121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523191121+++TIME=1523191121<NUL>
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:23-63 2581<NUL>
+POCSAG2400: Address: 1573818  Function: 2  Alpha:   15:24-90 2565<NUL>
