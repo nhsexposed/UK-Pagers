@@ -1,3 +1,96 @@
+POCSAG1200: Address:  658316  Function: 0  Alpha:   <DC4><DC1>Hl-
+POCSAG1200: Address:  412572  Function: 2 
+POCSAG1200: Address: 1718603  Function: 0  Alpha:   <STX>A
+POCSAG1200: Address: 1795738  Function: 1  Alpha:    C
+POCSAG1200: Address: 1811977  Function: 1 
+POCSAG1200: Address:  353817  Function: 1 
+POCSAG1200: Address: 1874342  Function: 0  Alpha:   Y,<NUL>BBq3<HT><SUB><EM><DLE><CAN>!(
+POCSAG1200: Address:  222229  Function: 1  Alpha:   0U
+POCSAG1200: Address:  411805  Function: 1 
+POCSAG1200: Address: 1071140  Function: 2 
+POCSAG1200: Address: 1189508  Function: 0 
+POCSAG1200: Address: 1071208  Function: 0 
+POCSAG1200: Address:  602727  Function: 0  Alpha:   g8"T<EM>L]<FF>d6<SYN><VT>4<BS>Y8J<LF><EOT><SUB><CAN>i9<LF>t(J<BS>4v<SYN>G&<SYN><BEL>D66<ACK>W<ACK><ACK>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1833191121+++TIME=1833191121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TI
+POCSAG1200: Address:   41512  Function: 2  Alpha:   18:33-82 33954
+POCSAG1200: Address: 1242382  Function: 0 
+POCSAG1200: Address: 1233313  Function: 0  Alpha:   T, LAITOF BLACIPOOL,
+POCSAG1200: Address:  618374  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <DLE>,<BS>0<SOH>O1f
+POCSAG2400: Address: 1847672  Function: 2  Alpha:   <RS>'
+POCSAG2400: Address: 1926054  Function: 2  Alpha:   .c)7Ic3<HT>
+POCSAG2400: Address: 1297998  Function: 2 
+POCSAG2400: Address:  580789  Function: 3  Alpha:   ^l
+POCSAG2400: Address: 1996228  Function: 1 
+POCSAG2400: Address: 1274596  Function: 1 
+POCSAG2400: Address:  749391  Function: 2 
+POCSAG2400: Address: 1837278  Function: 2 
+POCSAG2400: Address:  164157  Function: 3  Alpha:   <RS>'
+POCSAG2400: Address: 1877613  Function: 2 
+POCSAG2400: Address: 1999204  Function: 2 
+POCSAG2400: Address:  689412  Function: 2 
+POCSAG2400: Address:  135763  Function: 2 
+POCSAG2400: Address:  478579  Function: 0 
+POCSAG2400: Address: 1948858  Function: 2 
+POCSAG2400: Address:  416362  Function: 0 
+POCSAG2400: Address: 1545960  Function: 2  Alpha:   3WQ7Wju<ACK>
+POCSAG2400: Address: 1568575  Function: 0  Alpha:   O%
+POCSAG2400: Address: 1881846  Function: 0  Alpha:   <RS><SO>
+POCSAG2400: Address:  904045  Function: 2  Alpha:   e.Ce.
+POCSAG2400: Address:  274396  Function: 2  Alpha:   <FS><GS>
+POCSAG2400: Address:  777139  Function: 0 
+POCSAG2400: Address:  791331  Function: 0 
+POCSAG2400: Address: 1225330  Function: 1 
+POCSAG2400: Address: 1594058  Function: 1 
+POCSAG2400: Address: 1321000  Function: 3  Alpha:   <ENQ>4:J<HT><EOT>=<SO>
+POCSAG2400: Address: 1086119  Function: 3  Alpha:   O%
+POCSAG2400: Address: 1780615  Function: 0 
+POCSAG2400: Address:  173558  Function: 0  Alpha:   BL
+POCSAG2400: Address:  176293  Function: 0 
+POCSAG2400: Address: 1039276  Function: 1  Alpha:   >M
+POCSAG2400: Address: 2045788  Function: 0 
+POCSAG2400: Address: 2005929  Function: 3 
+POCSAG2400: Address: 1201742  Function: 3  Alpha:   0<DLE>
+POCSAG2400: Address:  723549  Function: 1 
+POCSAG2400: Address: 1359077  Function: 0 
+POCSAG2400: Address: 1877572  Function: 1 
+POCSAG2400: Address: 1999204  Function: 2 
+POCSAG2400: Address:  689411  Function: 2 
+POCSAG2400: Address:  135763  Function: 2 
+POCSAG2400: Address: 1684312  Function: 0  Alpha:   df
+POCSAG2400: Address:  432527  Function: 1  Alpha:   O%(<FF>N
+POCSAG2400: Address: 1923029  Function: 3  Alpha:    eXteb<NUL><NUL>
+POCSAG2400: Address: 1503132  Function: 0  Alpha:   kx
+POCSAG2400: Address: 1847675  Function: 2  Alpha:   <RS>'
+POCSAG2400: Address: 1926050  Function: 2  Alpha:   .civi
+POCSAG2400: Address: 1297993  Function: 2 
+POCSAG2400: Address:  580784  Function: 3  Alpha:   ^l
+POCSAG2400: Address: 1996224  Function: 1 
+POCSAG2400: Address: 1274599  Function: 1  Alpha:   O%
+POCSAG2400: Address: 1923030  Function: 3  Alpha:   <CR><LF>
+POCSAG2400: Address: 1503133  Function: 0  Alpha:   kx
+POCSAG2400: Address: 1847676  Function: 2  Alpha:   <RS>'
+POCSAG2400: Address: 1926051  Function: 2  Alpha:   .civi
+POCSAG2400: Address:  749386  Function: 2 
+POCSAG2400: Address: 1837274  Function: 2 
+POCSAG2400: Address:  164153  Function: 3  Alpha:   <RS>'
+POCSAG2400: Address: 1877608  Function: 2 
+POCSAG2400: Address: 1999200  Function: 2 
+POCSAG2400: Address:  216251  Function: 2  Alpha:   18:33-28 PROBLEM: HTTP / SSL is CRITICAL on host live.ce.civmC
+POCSAG1200: Address:  312672  Function: 0  Alpha:   18:33-37 19/11/2021 18:30:08 INC 24690543 17D04G 6 BALMORAL AVENUE, LITTLE LEVER BOLTON, BL3 1EY Female 79Y &0m!Q UTI, ON FLOOR, FALLEN GRD 375334 407117<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1323533  Function: 2  Alpha:   18:32-37 ~PLEASE CONTACT CONTROLS<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   18:32-40 19/11/2021 18:29:53 INC 24690540 12C01E 6A, WEST AVENUE, FARNWORTH Female 77Y FIT GRD 372862 405858
+POCSAG1200: Address: 2078656  Function: 2 
+POCSAG1200: Address: 1816822  Function: 2  Alpha:   18:31-66 BLEEP L WARD<NUL>
+POCSAG1200: Address:  266851  Function: 1  Alpha:   f<SYN>
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address: 1671977  Function: 3  Alpha:   `j
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   18:30-72 4554<NUL>
+POCSAG2400: Address:   28869  Function: 0  Alpha:   18:30-24 PLEASE CALL EXT 27552<NUL>
+POCSAG1200: Address: 1077288  Function: 2 
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   18:29-67 call on  69001<NUL><NUL>
 POCSAG1200: Address:  618374  Function: 3  Alpha:   %2
 POCSAG1200: Address:  696528  Function: 2  Alpha:   18:29-43 Please call AGH switchboard on 01535 652511<NUL><NUL>
 POCSAG1200: Address: 1323838  Function: 2  Alpha:   18:28-09 FOR INFO 2111007625 ADD: CHORLTON GREEN FARM WOORE ROAD BUERTON  INC TYPE:NWOPS02 TG:  FOR INFO ONLY AS:DUTY G
@@ -905,96 +998,3 @@ POCSAG2400: Address:  605434  Function: 0  Alpha:   16:21-71 2183<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 1318553  Function: 2  Alpha:   16:21-04 PLEASE CALL THE OFFICE ASAP<NUL>
 POCSAG2400: Address:   28870  Function: 0  Alpha:   16:21-69 PLEASE CALL BACK URGENTLY 0743 660 3274 OR EXT 7253512<NUL><NUL>
-POCSAG1200: Address:  957535  Function: 1 
-POCSAG1200: Address:  623449  Function: 0  Alpha:   dj
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address: 1322068  Function: 2  Alpha:   16:20-98 999<NUL><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:19-26 4179<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>(
-POCSAG2400: Address: 1320204  Function: 2  Alpha:   16:19-20 2300<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:19-71 2447<NUL>
-POCSAG1200: Address: 2026087  Function: 2 
-POCSAG1200: Address:  842198  Function: 2 
-POCSAG1200: Address: 1684272  Function: 1  Alpha:   jnN@h
-POCSAG2400: Address: 1731328  Function: 0  Alpha:   a6<CR>2<ACK>6B:<SOH>Q"&N<STX>=<SUB><SUB><SYN>J<STX><NAK>bB&J<SYN>N<STX><ENQ>R<STX>E]i
-POCSAG2400: Address: 1322132  Function: 0  Alpha:   <SUB>H
-POCSAG2400: Address:  338456  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:18-92 4183<NUL>
-POCSAG1200: Address:  678475  Function: 2  Alpha:   16:18-65 6532, <CR><LF>: 19/11/2021 16:18:16<CR><LF>: Urgent/Trapping/Breakdown - Test Message, please can you confirm receipt - Thank You, Fiona<NUL>
-POCSAG1200: Address:  420501  Function: 3  Alpha:   &<LF>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   16:18-80 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address: 1323849  Function: 2  Alpha:   16:18-17 FOR INFO 2111007563  ADD: WARRINGTON HOSPITAL LOVELY LANE WARRINGTON INC TYPE: BUILDING FIRE COMMERCIAL  TG: OPS05 FOR INFO ONLY AS: NEAREST SM<NUL><NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:18-89 2343<NUL>
-POCSAG1200: Address: 1039338  Function: 3  Alpha:   b(
-POCSAG1200: Address:  618382  Function: 2  Alpha:   E,
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   16:16-38 2183<NUL>
-POCSAG2400: Address: 1913678  Function: 2  Alpha:   16:15-99 2390<NUL>
-POCSAG1200: Address: 1520718  Function: 3 
-POCSAG1200: Address: 2027638  Function: 1 
-POCSAG1200: Address: 1261757  Function: 2  Alpha:   B<SYN>:<DC2>62J<SYN>
-POCSAG1200: Address: 1717862  Function: 0 
-POCSAG1200: Address:  557772  Function: 3 
-POCSAG1200: Address:  189076  Function: 0 
-POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
-POCSAG1200: Address:  425500  Function: 0  Alpha:   <FS>Y<SUB><DLE>ZY<CAN>Z<CAN><EM><NUL>
-POCSAG1200: Address:   42440  Function: 2  Alpha:   16:14-24 19/11/2021 16:13:10 INC 24689911 10D04 14 BUTE STREET, BURNLEY, BB11 4EX Male 81Y ANGINA PAIN- DIZZY GRD 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   16:13-43 4155<NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:12-79 19/11/2021 16:11:28 INC 24689901 06D02 
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:12-22 2183<NUL>
-POCSAG1200: Address:  619020  Function: 3  Alpha:   VD\NL
-POCSAG1200: Address:  906514  Function: 3  Alpha:   ("
-POCSAG2400: Address: 2026358  Function: 2 
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   &<ACK>
-POCSAG1200: Address:  981985  Function: 1 
-POCSAG1200: Address:  230853  Function: 3  Alpha:   Fd
-POCSAG2400: Address:   28900  Function: 0  Alpha:   16:10-66 4217<NUL>
-POCSAG1200: Address: 1312748  Function: 2  Alpha:   16:09-97 Lythe Stn FIRE CALL
-POCSAG1200: Address:  203628  Function: 3 
-POCSAG1200: Address: 1409635  Function: 0  Alpha:   IRE CALL
-POCSAG1200: Address: 1312752  Function: 2  Alpha:   16:09-93 Lythe St
-POCSAG1200: Address: 1039333  Function: 3  Alpha:   <DC2>F
-POCSAG1200: Address:  290116  Function: 3  Alpha:   5r
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1608191121+++TIME=1608191121<NUL>
-POCSAG1200: Address: 1067597  Function: 2  Alpha:   16:08-99 01173421907
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F0
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   &R
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1141145  Function: 1 
-POCSAG1200: Address:  830145  Function: 3 
-POCSAG1200: Address:  169928  Function: 0 
-POCSAG1200: Address:  315432  Function: 3 
-POCSAG1200: Address: 1522807  Function: 0  Alpha:   &<DC2>vg<DC2>
-POCSAG1200: Address:  576532  Function: 3  Alpha:   Y<BS>dy)
-POCSAG1200: Address:  793892  Function: 1 
-POCSAG1200: Address: 1282179  Function: 3  Alpha:   j@
-POCSAG1200: Address: 1770058  Function: 2 
-POCSAG1200: Address:  925018  Function: 0 
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   16:06-63 19/11/2021 16:02:00 INC 24689857 06E01E 1 THOMPSON STREET, PLANK LANE LEIGH, WN7 4UB Male 75Y DIB GRD 363983 400167<NUL>
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   2$
-POCSAG2400: Address: 1913660  Function: 2  Alpha:   16:05-50 3507<NUL>
-POCSAG1200: Address: 1335864  Function: 0 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   16:04-42 5076<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603191121+++TIME=1603191121<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:03-70 4398<NUL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:02-21 2343<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1913992  Function: 2  Alpha:   16:02-50 5204<NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   16:02-26 19/11/2021 16:00:41 INC 24689849 23C06A 34 DUNNERDALE CLOSE, PRESTON, PR2 6SF Male 2Y DR}<ACK><ETX> BLEACH GRD 356846 431791
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F0
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:02-55 69000
-POCSAG1200: Address:   70299  Function: 0 
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:01-62 4554<NUL>
-POCSAG2400: Address: 1913722  Function: 2  Alpha:   16:01-78 3108<NUL>
-POCSAG2400: Address: 1913723  Function: 2  Alpha:   16:01-37 2182<NUL>
-POCSAG1200: Address:  738956  Function: 3 
-POCSAG1200: Address: 1779835  Function: 0 
-POCSAG1200: Address:  150617  Function: 0 
-POCSAG1200: Address: 1976276  Function: 0 
-POCSAG1200: Address: 1558063  Function: 2 
-POCSAG1200: Address:  777822  Function: 1 
-POCSAG1200: Address:  833582  Function: 2 
-POCSAG1200: Address: 2043989  Function: 1 
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   15:59-81 Switch - Call Waiting please
