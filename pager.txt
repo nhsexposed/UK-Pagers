@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1808016  Function: 2 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:58-82 3104<NUL>
+POCSAG1200: Address: 1499700  Function: 0 
+POCSAG2400: Address:   28869  Function: 0  Alpha:   02:t<EOT>)10 PL<ENQ>ACG CALL EXT 26010<NUL>
 POCSAG2400: Address:   28868  Function: 0  Alpha:   02:51-42 PLEASE CALL EXT: 38172
 POCSAG1200: Address: 1125320  Function: 3 
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1246810  Function: 3
 POCSAG1200: Address: 1494023  Function: 1  Alpha:   WHCg<DC2>t<NAK>rp<LF>98E<FS>\"<SO> M<FS>
 POCSAG1200: Address: 1527435  Function: 1 
 POCSAG1200: Address:  686194  Function: 3  Alpha:   <STX><DC2>
-POCSAG2400: Address: 2008758  Function: 0 
-POCSAG1200: Address: 1546035  Function: 2 
-POCSAG1200: Address: 2023647  Function: 0 
-POCSAG2400: Address:   95280  Function: 2 

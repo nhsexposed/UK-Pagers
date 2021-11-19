@@ -23032,3 +23032,7 @@ POCSAG1200: Address:  427195  Function: 1  Alpha:   XUU<NAK>jdfb<RS><CAN><EM><SU
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
 POCSAG1200: Address: 1125320  Function: 3 
 POCSAG2400: Address:   28868  Function: 0  Alpha:   02:51-42 PLEASE CALL EXT: 38172
+POCSAG2400: Address:   28869  Function: 0  Alpha:   02:t<EOT>)10 PL<ENQ>ACG CALL EXT 26010<NUL>
+POCSAG1200: Address: 1499700  Function: 0 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:58-82 3104<NUL>
+POCSAG2400: Address: 1808016  Function: 2 
