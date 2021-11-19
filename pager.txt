@@ -1,3 +1,40 @@
+POCSAG1200: Address: 1522214  Function: 3  Alpha:   K<FF>L,<FF>(,L<SO>LL<SO>m<FF>(Rs<DLE>H<FF>M<CR><SO><SO>-n<FF>hsk<DC4><BS>us5Q<DC4>H<DLE>ssp<DC2><VT>h4P<DC3>qsU<DC3>hp3U<DC4><NAK><VT>(P5Q<DC3>20<DC3><BS>T4q<DC4>uS<DC3><VT><BS>T4<FF>hl4<DC1>H19;<CAN>;<EM>(<CR>,<SYN><BS>;<CAN>9<RS><BS>:<SUB><GS>H8<RS><BS>=<CAN>><SUB>hQ<DC4><DC1>h,<CR>M<FF>-<CR><BS>M,.,l<CR><NUL>
+POCSAG1200: Address:   40100  Function: 2  Alpha:   11:04-63 19
+POCSAG1200: Address:  402019  Function: 0 
+POCSAG1200: Address: 1993313  Function: 0 
+POCSAG1200: Address:  367407  Function: 3 
+POCSAG1200: Address: 1228381  Function: 2 
+POCSAG1200: Address: 1071226  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1103191121+++TIME=1103191121<NUL>
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   Fl
+POCSAG2400: Address: 1254794  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1321854  Function: 2  Alpha:   11:02-23 Dear Craig<LF>Please ring Catherine regarding a patient on Huggett Suite Ext 46169 re RTX0462292 AB.  Thank you.  Andrea<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  325950  Function: 3  Alpha:   2<BS>
+POCSAG1200: Address:  132226  Function: 2  Alpha:   j$&b$
+POCSAG1200: Address:  738673  Function: 0 
+POCSAG1200: Address: 1065120  Function: 3 
+POCSAG1200: Address: 1290895  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1087903  Function: 3 
+POCSAG1200: Address:  918883  Function: 3  Alpha:    g<SOH>db
+POCSAG1200: Address:  285618  Function: 3 
+POCSAG1200: Address:  297698  Function: 0 
+POCSAG1200: Address: 1058849  Function: 3 
+POCSAG1200: Address:  216338  Function: 2  Alpha:   11:01-16 Destination
+POCSAG1200: Address:  977783  Function: 1 
+POCSAG2400: Address: 1500905  Function: 1 
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   11:00-79 19/11/2021 10:58:14 INC 24688471 25A02 134 ABBEY ROAD, MACCLESFIELD SK10, SK10 3PA Female 33Y SUCIDAL DIB GRD 390886 374918<NUL><NUL>
+POCSAG1200: Address:  114391  Function: 0  Alpha:   11:00-37 Speech: Test: Only: Speech: Test: Only: Please: Dial: Zero: Too: Respond<NUL>
+POCSAG1200: Address:  572607  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address: 1357671  Function: 0 
+POCSAG1200: Address:   39118  Function: 1  Alpha:   YY
+POCSAG1200: Address:  678665  Function: 2  Alpha:   11:00-33 Case ref 1127620
+POCSAG2400: Address:  548053  Function: 2  Alpha:   11:00-63 SBELL
+POCSAG2400: Address:  548053  Function: 2  Alpha:   11:00-63 SBELL
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   11:00-19 4172<NUL>
+POCSAG1200: Address: 2007803  Function: 0 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   10:59-60 4479<NUL>
 POCSAG1200: Address: 1484402  Function: 0 
 POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:58-77 2304<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1058191121+++TIME=1058191121<NUL>
@@ -961,40 +998,3 @@ POCSAG2400: Address: 1324154  Function: 2  Alpha:   07:20-46 2111<NUL>
 POCSAG2400: Address: 2011346  Function: 1 
 POCSAG2400: Address:   33694  Function: 2  Alpha:   07:18-10 SILVER RESPONDING<NUL><NUL>
 POCSAG2400: Address: 2000500  Function: 0 
-POCSAG2400: Address:   33684  Function: 2  Alpha:   07:18-43 S<SOH>HVER RESPONDING<NUL><NUL>
-POCSAG2400: Address:   33692  Function: 2  Alpha:   07:18-47 07:18-46 SILVER RESPONDING<NUL><NUL>
-POCSAG2400: Address:   33685  Function: 2  Alpha:   07:18-43 SILVER RESPONDING<NUL><NUL>
-POCSAG2400: Address:   33680  Function: 2  Alpha:   07:18-56 SILVER RESPONDING<NUL><NUL>
-POCSAG2400: Address:   33672  Function: 2  Alpha:   07:18-83 SILVER RESPONDING<NUL><NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   07:18-58 4555<NUL>
-POCSAG2400: Address:   33688  Function: 2  Alpha:   07:18-45 SILVER RESPONDING<NUL><NUL>
-POCSAG1200: Address:  428347  Function: 2  Alpha:   07:18-26 19/11/2021 07:16:52 INC 24687669 31E01 17 PARKSIDE, WALLASEY CH44, CH44 9AH Female 64Y CLAPPSED IN SHOWER GRD 331524 391443<NUL><NUL>
-POCSAG1200: Address:   95622  Function: 0  Alpha:   LL
-POCSAG1200: Address: 1155693  Function: 1 
-POCSAG1200: Address: 1283661  Function: 1 
-POCSAG1200: Address: 1444444  Function: 3 
-POCSAG1200: Address: 1157251  Function: 3  Alpha:   b@bn@
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG2400: Address:   33669  Function: 2  Alpha:   07:16-81 07511
-POCSAG2400: Address:   33687  Function: 2  Alpha:   07:16-51 07511702459
-POCSAG2400: Address:   33683  Function: 2  Alpha:   07:16-44 07511702459
-POCSAG2400: Address:  595601  Function: 0 
-POCSAG2400: Address:   33674  Function: 2  Alpha:   07:16-83 07511702459
-POCSAG2400: Address: 1323564  Function: 2  Alpha:   07:16-49 07511702459
-POCSAG2400: Address:   33672  Function: 2  Alpha:   07:16-82 07511702459
-POCSAG2400: Address:   33684  Function: 2  Alpha:   07:16-42 07511702459
-POCSAG2400: Address:   33680  Function: 2  Alpha:   07:16-55 07511702459
-POCSAG2400: Address:   33691  Function: 2  Alpha:   07:16-45 07511702459
-POCSAG2400: Address:   33692  Function: 2  Alpha:   07:16-45 07511702459
-POCSAG2400: Address:   33688  Function: 2  Alpha:   07:16-44 07511702459
-POCSAG1200: Address:  334075  Function: 2  Alpha:   07:13-16 19/11/2021 07:11
-POCSAG1200: Address: 1896816  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0713191121+++TIME=0713191121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713191121+++TIME=0713191121<NUL>
-POCSAG1200: Address:  103137  Function: 2 
-POCSAG1200: Address:  330008  Function: 3  Alpha:   <HT><EOT>
-POCSAG1200: Address: 1465636  Function: 3 
-POCSAG1200: Address: 1222275  Function: 0 
-POCSAG1200: Address:  150502  Function: 2  Alpha:    "
-POCSAG1200: Address: 1444245  Function: 1  Alpha:   Y<CAN>
-POCSAG1200: Address: 2032171  Function: 3 
