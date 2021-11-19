@@ -1,3 +1,11 @@
+POCSAG1200: Address:  924212  Function: 0 
+POCSAG1200: Address:  200957  Function: 2  Alpha:   22:09-16 ON-CALL PHARMACIST CALL 21968 PLS <NUL><NUL>
+POCSAG1200: Address:  227379  Function: 0  Alpha:   22:09-63 PIN NO 14265 PLEASE CALL DSCC ON 03457 500 620 DUTY CASE
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2208191121+++TIME=2208191121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2208191121+++TIME=2208191121<NUL>
+POCSAG2400: Address:  890008  Function: 2 
+POCSAG2400: Address:   88752  Function: 3 
+POCSAG2400: Address: 1297188  Function: 3  Alpha:   dt`jtjnX@<ACK>_[^eIgu@j`\hlnhbrp@Zf\jjrn<NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   22:04-90 Call 24691537 - Warning - Scene Unsafe. Contract Control for further advice.
 POCSAG512: Address: 2016426  Function: 3 
 POCSAG1200: Address: 2014802  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1551636  Function: 0  Alpha:   H<HT>
 POCSAG1200: Address: 1022396  Function: 0 
 POCSAG2400: Address: 1456229  Function: 3  Alpha:   f.
 POCSAG2400: Address: 1965035  Function: 2  Alpha:   n but
-POCSAG2400: Address: 1508779  Function: 3 
-POCSAG2400: Address:  323546  Function: 0 
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   18:01-82 call waiting<NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   18:00-40 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address: 1262608  Function: 2  Alpha:   Q<DC4>
-POCSAG1200: Address:  403536  Function: 0 
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:00-43 19/11/2021 17:59:16 INC 24690368 06E01 4 BROCKLEBANK LANE, ALLERTON L19, L19 4TA Male 64Y COPD CANT BREATHE GRD 340786 385601
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:59-04 19/11/2021 17:57:03 INC 24690359 29B01V NR TO, SAINSBURYS SUPERMARKETS LTD, MIDDLEWICH ROAD, NANTWICH CW5, CW5 6PH Unknown UnknownY 2 VEH RTC GRD 3616$4 353545
