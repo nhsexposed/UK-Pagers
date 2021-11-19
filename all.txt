@@ -22874,3 +22874,8 @@ POCSAG1200: Address: 2075379  Function: 1
 POCSAG2400: Address:   11729  Function: 0  Alpha:   00zo<CAN>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0058191121+++TIME=0058191121<NUL>
 POCSAG1200: Address: 1484658  Function: 2 
+POCSAG1200: Address: 1188422  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   01:02-44 5125<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0103191121+++TIME=0103191121<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
