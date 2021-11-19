@@ -1,3 +1,12 @@
+POCSAG1200: Address: 1970705  Function: 2  Alpha:   01:18-62 33835
+POCSAG1200: Address:   11777  Function: 2  Alpha:   01:17-86 PLEASE CALL PEDATRICS  EXT: 4394<NUL>
+POCSAG1200: Address:  306142  Function: 2  Alpha:   01:16-78 28949
+POCSAG1200: Address:   42299  Function: 2  Alpha:   01:16-31 28949
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   01:16-47 28949
+POCSAG2400: Address: 1753112  Function: 2 
+POCSAG2400: Address: 1284232  Function: 3 
+POCSAG2400: Address: 1946231  Function: 1 
+POCSAG1200: Address: 1745648  Function: 0 
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   01:14-35 2427<NUL>
 POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>3
 POCSAG1200: Address: 1092502  Function: 2  Alpha:   01:13-00 2264226<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  546088  Function: 3  Alpha:   UU
 POCSAG1200: Address: 1206486  Function: 3 
 POCSAG1200: Address: 1410909  Function: 0  Alpha:   p*
 POCSAG2400: Address:  216251  Function: 2  Alpha:   19:57-30 PROBLEM: Group Policy Client is CRITICAL on host rnyflelcit03mc1, <CR><LF>PROBLEM: Group Policy Client is CRITICAL on host rnyflelcit03mc1<CR><LF>Service: Group Policy Client<CR><LF>Host: rnyflelcit03mc1<CR><LF>Alias: Citrix 1912 LTSR Server<CR><LF>Address: 10.0.40.216<CR><NUL><NUL>
-POCSAG1200: Address:  629317  Function: 2 
-POCSAG1200: Address:  280204  Function: 0 
-POCSAG1200: Address:  626084  Function: 1 
-POCSAG1200: Address:   78242  Function: 3  Alpha:   male 68Y
-POCSAG1200: Address:  397969  Function: 3 
-POCSAG1200: Address:  874513  Function: 2 
-POCSAG1200: Address: 1718607  Function: 0  Alpha:   O%(<VT>%I@<SUB>
-POCSAG1200: Address:   88454  Function: 0  Alpha:   NC
-POCSAG1200: Address:  117334  Function: 3 
