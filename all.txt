@@ -23135,3 +23135,11 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423191121+++TIME=0423191121<NUL>
 POCSAG1200: Address:   36944  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2044529  Function: 0 
+POCSAG1200: Address: 1551504  Function: 2  Alpha:   H<LF>$<CAN>h)I<ENQ>
+POCSAG1200: Address: 1854714  Function: 1 
+POCSAG1200: Address: 1882491  Function: 3 
+POCSAG1200: Address:  545603  Function: 0 
+POCSAG1200: Address:  732828  Function: 1 
+POCSAG1200: Address:  857893  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0433191121+++TIME=0433191121<NUL>
