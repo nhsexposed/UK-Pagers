@@ -1,3 +1,12 @@
+POCSAG1200: Address: 2094719  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0008191121+++TIME=0008191121<NUL>
+POCSAG1200: Address: 1999461  Function: 1 
+POCSAG1200: Address: 1323538  Function: 2  Alpha:   00:07-70 please ring the hub 01535 293914<NUL>
+POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>S
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1966610  Function: 0 
+POCSAG1200: Address: 2001523  Function: 1 
+POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>S
 POCSAG2400: Address: 2011891  Function: 0 
 POCSAG2400: Address: 2075376  Function: 1 
 POCSAG1200: Address:  557768  Function: 3 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1312632  Function: 2  Alpha:   19:06:29 S03L2 Fire call 144
 POCSAG1200: Address:  149308  Function: 2  Alpha:   19:06:29 S03L2 Fire call 14412<NUL>
 POCSAG1200: Address: 1462495  Function: 1 
 POCSAG1200: Address:  312926  Function: 0  Alpha:   <DC4><EM>H8<CAN><VT><ESC>(tY<EOT>EF<SYN>&<ACK><NUL>/<DC1><BEL>WHC+da<NAK>rp<LF>98E<FS>\"<RS>.<DC1>
-POCSAG1200: Address: 1624677  Function: 0 
-POCSAG1200: Address: 1462493  Function: 1 
-POCSAG1200: Address:  934336  Function: 2  Alpha:   hhbd<NUL>p<NAK>rp<LF>9
-POCSAG1200: Address:  105261  Function: 3  Alpha:   dr
-POCSAG1200: Address: 1312630  Function: 2  Alpha:   19:06:29 S03L2dFhxo0y4>6P<BS><SUB>Z<CAN><EM><NUL>
-POCSAG1200: Address:  149320  Function: 2  Alpha:   19:06:29 S03L2 Fire call 14412<NUL>
-POCSAG1200: Address:  149286  Function: 2  Alpha:   19:06:29 S03L2 Fire call 14412<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:03-40 2182<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1903181121+++TIME=1903181121<NUL>
