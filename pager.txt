@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   09:14-48 3555<NUL>
+POCSAG2400: Address: 1913985  Function: 2  Alpha:   09:13-98 2161<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0913191121+++TIME=0913191121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0913191121+++TIME=0913191121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:12-62 4901<NUL>
+POCSAG1200: Address: 2091645  Function: 0 
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   <ACK>o
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   09:11-12 PLEASE CALL PHILANI NCUBE TEL 07939 770 631 RE TRYING TO BOOK A SHIFT.
+POCSAG1200: Address: 1089611  Function: 2  Alpha:   09:11-44 19/11/2021 09:03:03 IN
+POCSAG1200: Address: 1085494  Function: 1  Alpha:   ,<FF>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   09:11-62 19/11
+POCSAG1200: Address: 1966614  Function: 0 
+POCSAG1200: Address:  592542  Function: 1  Alpha:   XX
+POCSAG1200: Address: 1837870  Function: 1 
+POCSAG1200: Address:  892453  Function: 2 
+POCSAG1200: Address: 1582261  Function: 3 
+POCSAG1200: Address: 1321708  Function: 2  Alpha:   09:<DC1> <NAK>[<EM>
+POCSAG1200: Address: 1008382  Function: 2  Alpha:   09:10-65 This is a test message could the staff member on call please confirm receipt by replying to this message or give Florence ONeill a call/text on 07392 863986.<NUL><NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   09:10-70 Boiler lock out ALERT<NUL>
+POCSAG2400: Address: 1502078  Function: 0 
+POCSAG2400: Address: 1803365  Function: 3  Alpha:   4w
+POCSAG2400: Address: 1128464  Function: 0 
+POCSAG2400: Address: 1080574  Function: 3  Alpha:   <RS>'<DEL>v<ACK>B|<RS><BEL>O&<SI>f<ACK>",<ACK>'<BEL><SUB><FS><EOT>r<STX><DC2>-><SO><SYN>'<RS><BEL>"|v~<SYN><BEL><DC2>-6.<SYN><ETB><SI>f<ACK>bLv.
 POCSAG2400: Address: 1321227  Function: 2  Alpha:   09:09-86 33907
 POCSAG2400: Address:  278665  Function: 1 
 POCSAG2400: Address:  363852  Function: 2  Alpha:   09:09-21 4822<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address: 2007632  Function: 1
 POCSAG1200: Address:  696946  Function: 0 
 POCSAG2400: Address: 1284465  Function: 3  Alpha:   <SYN>f.<ACK><LF>
 POCSAG2400: Address: 1181528  Function: 3 
-POCSAG1200: Address:  295506  Function: 0 
-POCSAG1200: Address: 2094719  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0008191121+++TIME=0008191121<NUL>
-POCSAG1200: Address: 1999461  Function: 1 
-POCSAG1200: Address: 1323538  Function: 2  Alpha:   00:07-70 please ring the hub 01535 293914<NUL>
-POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>S
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1966610  Function: 0 
-POCSAG1200: Address: 2001523  Function: 1 
-POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>S
-POCSAG2400: Address: 2011891  Function: 0 
-POCSAG2400: Address: 2075376  Function: 1 
-POCSAG1200: Address:  557768  Function: 3 
-POCSAG1200: Address:  189072  Function: 2 
-POCSAG1200: Address:  206287  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1314911  Function: 1 
-POCSAG1200: Address:  859302  Function: 3 
-POCSAG1200: Address: 1071174  Function: 3 
-POCSAG1200: Address:  632653  Function: 3 
-POCSAG1200: Address:  905989  Function: 2 
-POCSAG1200: Address: 1292044  Function: 2 
-POCSAG1200: Address:  734099  Function: 3  Alpha:   *$
-POCSAG1200: Address:  156688  Function: 1  Alpha:   <DLE>3Pp<DC2>ds<DC3>
-POCSAG1200: Address: 1222279  Function: 0 
