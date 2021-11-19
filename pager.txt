@@ -1,3 +1,27 @@
+POCSAG2400: Address:   28907  Function: 0  Alpha:   20:04-32 4179<NUL>
+POCSAG2400: Address:  583551  Function: 2  Alpha:   20:04-26 80300
+POCSAG2400: Address: 1322526  Function: 2  Alpha:   20:04-35 80300
+POCSAG2400: Address:  901449  Function: 2  Alpha:   20:04-92 2222<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003191121+++TIME=2003191121<NUL>
+POCSAG2400: Address:  583573  Function: 2  Alpha:   20:03-07 80300
+POCSAG2400: Address:  584658  Function: 2  Alpha:   20:03-14 80300
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   20:02-60 Start Shift Acknowledged Thank you<NUL><NUL>
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   20:02-59 Start Shift Acknowledged Thank you<NUL><NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   20:02-58 Confirmed End of Shift Thank you<NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   20:02-57 Confirmed End of Shift Thank you<NUL>
+POCSAG2400: Address: 1322785  Function: 2  Alpha:   20:02-87 20:02-86 PLEASE CALL EXT 150
+POCSAG2400: Address: 1022276  Function: 0  Alpha:   20:02-54 PLEASE CALL EXT 150
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:01-83 TEST CALL<NUL><NUL>
+POCSAG2400: Address:  583589  Function: 2  Alpha:   20:01-10 80300
+POCSAG2400: Address: 1324369  Function: 2  Alpha:   20:01-57 80300
+POCSAG2400: Address: 1008281  Function: 2  Alpha:   20:00-92 80300
+POCSAG1200: Address: 2074168  Function: 0 
+POCSAG2400: Address:  583537  Function: 2  Alpha:   20:00-70 80300
+POCSAG2400: Address:   11681  Function: 0  Alpha:   test page<NUL><NUL>
+POCSAG1200: Address: 1745495  Function: 0 
+POCSAG1200: Address: 1472640  Function: 2  Alpha:   q5P9tr2:
 POCSAG1200: Address: 1258970  Function: 2  Alpha:   19:58-18 Call or Calls waiting at Switchboard
 POCSAG1200: Address:  350338  Function: 0  Alpha:   19:58-02 19/11
 POCSAG1200: Address:  379152  Function: 2 
@@ -974,27 +998,3 @@ POCSAG2400: Address: 1323268  Function: 2  Alpha:   17:03-13 PLEASE CALL BACK RU
 POCSAG2400: Address: 1913751  Function: 2  Alpha:   17:03-81 4155<NUL>
 POCSAG2400: Address: 1840954  Function: 2  Alpha:   911<NUL><NUL>
 POCSAG1200: Address: 1022142  Function: 2  Alpha:   17:02-74 19/11/2021 17:01:05 INC 24690123 09E02 44 ELM CLOSE, CREWE CW2, CW2 8RU Female 83Y COLLAPSED GRD 368406 354684
-POCSAG2400: Address: 1324001  Function: 2  Alpha:   17:00-30 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323900  Function: 2  Alpha:   17:00-22 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1512688  Function: 2  Alpha:   .t
-POCSAG2400: Address:   99167  Function: 1  Alpha:   `b`g<DC2>
-POCSAG2400: Address: 1326176  Function: 3 
-POCSAG2400: Address:   78767  Function: 2  Alpha:   rtHg<DC2>t29
-POCSAG2400: Address:  790909  Function: 1 
-POCSAG2400: Address: 1850613  Function: 3 
-POCSAG2400: Address:  775115  Function: 2  Alpha:   t. Pl
-POCSAG2400: Address: 1265163  Function: 0 
-POCSAG2400: Address:  723866  Function: 3 
-POCSAG2400: Address: 1849697  Function: 2  Alpha:   N<BEL>
-POCSAG2400: Address:   84936  Function: 3  Alpha:    tHe 
-POCSAG2400: Address:  759711  Function: 2  Alpha:   O%
-POCSAG2400: Address: 1837231  Function: 1 
-POCSAG2400: Address:  957366  Function: 2 
-POCSAG2400: Address: 1512694  Function: 2 
-POCSAG2400: Address:   99165  Function: 1  Alpha:   hd
-POCSAG2400: Address: 1324100  Function: 2  Alpha:   17
-POCSAG2400: Address: 1323902  Function: 2  Alpha:   17:00-46 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   17:02-05 4155<NUL>
-POCSAG1200: Address:  221452  Function: 2  Alpha:   17:01-04 TEST<NUL>
-POCSAG1200: Address:  108093  Function: 0  Alpha:   17:02-08 Test<NUL>
-POCSAG1200: Address:   56209  Function: 2  Alpha:   17:01-46 TEST<NUL>
