@@ -1,3 +1,24 @@
+POCSAG1200: Address: 2078656  Function: 2  Alpha:   M<FF>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2118191121+++TIME=2118191121<NUL>
+POCSAG1200: Address: 1551518  Function: 2  Alpha:   21:18-25 TEST PAGE <NUL>
+POCSAG2400: Address: 1505137  Function: 0 
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   21:18-41 4155<NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:17-54 4187<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:17-95 19/11/2021 21:16:38 INC 24691347 09E01 57 LYNTON CRESCENT, WIDNES WA8, WA8 7NT Unknown UnknownY NOT BREATHING GRD 350219 386808<NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   21:17-17 19/11/2021 21:16:38 INC 24691347 09E01 57 LYNTON CRESCENT, WIDNES WA8, WA8 7NT Unknown UnknownY NOT BREATHING GRD 350219 386808<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   11693  Function: 0  Alpha:   21:16-38 FIRE CALL<NUL><NUL>
+POCSAG2400: Address:  177561  Function: 1 
+POCSAG2400: Address: 1705349  Function: 2  Alpha:   wV<ETB>9r9<GS>P<DC2><CAN>W{,B
+POCSAG2400: Address: 1841845  Function: 1 
+POCSAG2400: Address: 1206476  Function: 1  Alpha:   <ETX>C
+POCSAG2400: Address: 2003715  Function: 2  Alpha:   db
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   21:15-62 ip1 8013
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   21:15-06 4935<NUL>
+POCSAG1200: Address: 1870580  Function: 0 
+POCSAG1200: Address:  413064  Function: 2  Alpha:   21:15-81 plse call x4701<NUL>
+POCSAG1200: Address: 1259991  Function: 2  Alpha:   21:14-71 PLEASE CALL ON 07827 823 535 <NUL>
 POCSAG1200: Address: 1765358  Function: 2  Alpha:   21:14-05 Please ingnore previous message, sent in error<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2113191121+++TIME=2113191121<NUL>
 POCSAG1200: Address: 1317931  Function: 2  Alpha:   21:13-62 19/11/2021 21:12:30 INC 24691328 10D02 24 FLAKEFLEET AVENUE, FLEETWOOD, FY7 7PH Male 65Y CHEST PAIN GRD 332451 446309<NUL><NUL>
@@ -977,24 +998,3 @@ POCSAG2400: Address: 1323792  Function: 2  Alpha:   17:35-02 2638<NUL>
 POCSAG1200: Address: 1261746  Function: 0 
 POCSAG1200: Address:  314647  Function: 0  Alpha:   O%
 POCSAG1200: Address:  624774  Function: 2  Alpha:   d@fh@
-POCSAG1200: Address:  459405  Function: 2 
-POCSAG1200: Address:  412765  Function: 1 
-POCSAG1200: Address:  266852  Function: 1  Alpha:   f<SYN>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address: 1676074  Function: 3  Alpha:   fp
-POCSAG1200: Address: 1337816  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>;S
-POCSAG1200: Address: 1682271  Function: 1  Alpha:   jl`g<DC2>
-POCSAG1200: Address:  428622  Function: 0  Alpha:   X<ESC>
-POCSAG1200: Address: 1071551  Function: 1  Alpha:   O%hhh
-POCSAG1200: Address: 1856151  Function: 1 
-POCSAG1200: Address:  738893  Function: 1  Alpha:   6U<DC4>q<DC4>
-POCSAG1200: Address: 1356900  Function: 1  Alpha:   V<SYN><SUB>R<STX>
-POCSAG1200: Address: 1261875  Function: 1 
-POCSAG1200: Address: 1542177  Function: 2  Alpha:   X\
-POCSAG1200: Address: 1115495  Function: 3  Alpha:   g'Ig<DC2>t<DC4><VT>@P0<CR>(<CR>
-POCSAG1200: Address:  628789  Function: 0  Alpha:   %}t<EOT>b
-POCSAG1200: Address: 1261749  Function: 0 
-POCSAG1200: Address: 1133315  Function: 2 
-POCSAG1200: Address: 1770955  Function: 0 
-POCSAG1200: Address:  314642  Function: 0 
-POCSAG1200: Address:  624769  Function: 2  Alpha:   d@fh@
