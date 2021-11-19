@@ -1,3 +1,34 @@
+POCSAG1200: Address: 1651722  Function: 3 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:34-88 4157<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   14:33-78 5202<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:33-45 5009<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   14:33-14 2018<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   14:33
+POCSAG1200: Address:  852694  Function: 1  Alpha:   IR
+POCSAG1200: Address:  928922  Function: 0  Alpha:   <ESC><DLE>
+POCSAG1200: Address:  266849  Function: 1  Alpha:   f<ACK>
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address: 1680175  Function: 3  Alpha:   O%(54
+POCSAG1200: Address:  269354  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   14:32-13 4316<NUL>
+POCSAG2400: Address: 1993367  Function: 2  Alpha:   O%
+POCSAG2400: Address:  225483  Function: 2  Alpha:   14:32-24 14:32-23 CALL
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   14:32-54 4935<NUL>
+POCSAG2400: Address:  816984  Function: 2  Alpha:   14:32-68 CALL OUT 13579 SOUTHEND PLEASE CALL THE OFFICE <NUL>
+POCSAG1200: Address: 1999487  Function: 2 
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   14:31-12 2638<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   14:31-89 5205<NUL>
+POCSAG2400: Address: 1320388  Function: 2  Alpha:   14:31-55 2441<NUL>
+POCSAG1200: Address: 1322004  Function: 2  Alpha:   14:31-18 TEST CALL<NUL><NUL>
+POCSAG1200: Address: 1322016  Function: 2  Alpha:   14:31-35 TEST CALL<NUL><NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   14:31-80 2300<NUL>
+POCSAG2400: Address: 1573818  Function: 2  Alpha:   14:30-89 3646<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <ACK>"
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   <ACK>K
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:30-16 3129<NUL>
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   14:30-58 2798<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   14:29-88 4157<NUL>
+POCSAG2400: Address: 1483124  Function: 0 
 POCSAG1200: Address: 2008956  Function: 0 
 POCSAG1200: Address: 1059973  Function: 0  Alpha:   <SO>%<HT>Afrde<SUB><SUB>P
 POCSAG1200: Address:  230853  Function: 3  Alpha:   6"
@@ -967,34 +998,3 @@ POCSAG1200: Address:  833582  Function: 2
 POCSAG1200: Address: 2043989  Function: 1 
 POCSAG1200: Address: 1958348  Function: 1  Alpha:   iS
 POCSAG1200: Address:  911108  Function: 3 
-POCSAG1200: Address: 1072215  Function: 0  Alpha:   O%(<HT>A
-POCSAG1200: Address:  292271  Function: 1 
-POCSAG1200: Address:  839942  Function: 3 
-POCSAG1200: Address:  176902  Function: 3 
-POCSAG1200: Address: 1415268  Function: 2  Alpha:   .<ACK>2<DC3>K
-POCSAG1200: Address: 1507850  Function: 1  Alpha:   arkin
-POCSAG2400: Address: 1913722  Function: 2  Alpha:   11:42-74 5089<NUL>
-POCSAG1200: Address: 1032945  Function: 1 
-POCSAG2400: Address: 1323481  Function: 2  Alpha:   11:41-34 PLS CONTACT SARAH WRIGHT ON 07818 538 154<NUL>
-POCSAG2400: Address: 1323484  Function: 2  Alpha:   11:41-91 PLS CONTACT SARAH WRIGHT ON 07818 538 154<NUL>
-POCSAG2400: Address: 1913802  Function: 2  Alpha:   11:41-07 5072<NUL>
-POCSAG2400: Address: 1323488  Function: 2  Alpha:   11:41-51 PLS CONTACT SARAH WRIGHT ON 07818 538 154<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   &<LF>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:41-52 4554<NUL>
-POCSAG2400: Address: 1913953  Function: 2  Alpha:   11:41-05 2150<NUL>
-POCSAG1200: Address: 2080416  Function: 2 
-POCSAG1200: Address: 2073202  Function: 1 
-POCSAG1200: Address:  238388  Function: 2  Alpha:   l@hd`
-POCSAG1200: Address:   91692  Function: 3 
-POCSAG1200: Address: 1258515  Function: 3  Alpha:   Q<DC4>
-POCSAG1200: Address:  938066  Function: 3  Alpha:   ,<GS>
-POCSAG1200: Address: 1188001  Function: 3 
-POCSAG1200: Address:  157889  Function: 1 
-POCSAG1200: Address:   88576  Function: 3 
-POCSAG1200: Address:  533302  Function: 1 
-POCSAG1200: Address:  619457  Function: 3 
-POCSAG1200: Address:  216248  Function: 2 
-POCSAG1200: Address:  173387  Function: 0 
-POCSAG1200: Address: 1127434  Function: 2 
-POCSAG1200: Address:  325898  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:  225841  Function: 2  Alpha:   11:40-33 613481<NUL><NUL>
