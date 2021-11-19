@@ -1,3 +1,11 @@
+POCSAG1200: Address:  269168  Function: 2  Alpha:   22:04-90 Call 24691537 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG512: Address: 2016426  Function: 3 
+POCSAG1200: Address: 2014802  Function: 0 
+POCSAG1200: Address:  852577  Function: 0  Alpha:   KV
+POCSAG1200: Address:   11711  Function: 2  Alpha:   <DLE>D<FF>$<HT>'1f
+POCSAG1200: Address: 2028153  Function: 1 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:00-22 3298<NUL>
+POCSAG1200: Address: 1452114  Function: 3  Alpha:   <EM>iy<BS>$HYZ<BS>T<ENQ>dXHI<HT>tiZ(<LF>t(J<BS>4V&6&&<ACK>4VfVfV<ACK>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2158191121+++TIME=2158191121<NUL>
 POCSAG2400: Address: 2002594  Function: 3  Alpha:   MAIL 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   21:57-21 3157<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1262608  Function: 2  Alpha:   Q<DC4>
 POCSAG1200: Address:  403536  Function: 0 
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:00-43 19/11/2021 17:59:16 INC 24690368 06E01 4 BROCKLEBANK LANE, ALLERTON L19, L19 4TA Male 64Y COPD CANT BREATHE GRD 340786 385601
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:59-04 19/11/2021 17:57:03 INC 24690359 29B01V NR TO, SAINSBURYS SUPERMARKETS LTD, MIDDLEWICH ROAD, NANTWICH CW5, CW5 6PH Unknown UnknownY 2 VEH RTC GRD 3616$4 353545
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#MDL
-POCSAG2400: Address:   28900  Function: 0  Alpha:   17:59-71 4183<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1758191121+++TIME=1758191121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1758191121+++TIME=1758191121<NUL>
-POCSAG1200: Address: 1066080  Function: 3 
-POCSAG1200: Address: 1682255  Function: 3  Alpha:   O%
-POCSAG1200: Address:  905991  Function: 2 
-POCSAG1200: Address:  176910  Function: 3 
