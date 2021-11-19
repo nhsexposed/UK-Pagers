@@ -23243,3 +23243,8 @@ POCSAG2400: Address:  149253  Function: 2  Alpha:   06:22-29 03003000044
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123456789012345;7890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0623191121+++TIME=0623191121<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   06:24-55 4156<NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   06:24-25 RECOVERY: Disk: I is OK on host borrablcit01mc1, <CR><LF>RECOVERY: Disk: I is OK on host borrablcit01mc1<CR><LF>Service: Disk: I<CR><LF>Host: borrablcit01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.13.42<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > O<NUL><NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   06:25-61 PLEASE CALL A E AT QEQM ON 7253024<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0628191121+++TIME=0628191121<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   06:28-82 rdl ward 36817<NUL><NUL>
