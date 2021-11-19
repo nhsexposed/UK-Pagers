@@ -1,3 +1,22 @@
+POCSAG2400: Address: 1446132  Function: 2 
+POCSAG2400: Address:  672323  Function: 0 
+POCSAG2400: Address:  149177  Function: 3  Alpha:   a<US>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1018191121+++TIME=1018191121<NUL>
+POCSAG2400: Address: 1913722  Function: 2  Alpha:   10:18-73 5205<NUL>
+POCSAG1200: Address: 2009708  Function: 0 
+POCSAG1200: Address:  104968  Function: 1 
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  104974  Function: 1 
+POCSAG1200: Address: 1460509  Function: 3  Alpha:   Xx
+POCSAG1200: Address:  937179  Function: 0  Alpha:   <FS><DLE>
+POCSAG1200: Address:  800883  Function: 2  Alpha:   lL-@<DLE><NAK><ACK>&
+POCSAG1200: Address: 1732650  Function: 3 
+POCSAG1200: Address: 1071513  Function: 1  Alpha:   QY
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1483366  Function: 1 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:15-68 3508<NUL>
+POCSAG1200: Address: 1745650  Function: 2 
+POCSAG1200: Address: 1016648  Function: 3 
 POCSAG2400: Address: 2079606  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1013191121+++TIME=1013191121<NUL>
 POCSAG1200: Address: 1224777  Function: 3 
@@ -979,22 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0!08191121+++TIME=0348191121<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   F0
 POCSAG1200: Address:   41512  Function: 2  Alpha:   03:48-61 33867
-POCSAG2400: Address:   28908  Function: 0  Alpha:   03:47-06 3104<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2012131  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  189077  Function: 0 
-POCSAG1200: Address: 1745490  Function: 0 
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:42-07 X<STX>AASE CALL MARIE CURIE NURSE ANNE HEALEY ON 07773 571 938<NUL>
-POCSAG1200: Address: 1745489  Function: 0 
-POCSAG2400: Address:  719881  Function: 2  Alpha:   03:41-07 2427<NUL>
-POCSAG1200: Address: 1482700  Function: 2  Alpha:   03:40-46 Fri Nov 19 03:40:29 UTC 2021 -- PROBLEM : ospf-status on core3-thw i
-POCSAG1200: Address: 1441907  Function: 0 
-POCSAG1200: Address: 1970705  Function: 2  Alpha:   03:39-63 33813
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
-POCSAG2400: Address: 1274384  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   03:35-29 2427<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333191121+++TIME=0333191121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1404480  Function: 1 
