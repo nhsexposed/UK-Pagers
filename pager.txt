@@ -1,3 +1,16 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:43-79 4183<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   13:43-41 2343<NUL>
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <NAK><ACK>
+POCSAG512: Address: 2024019  Function: 2 
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   13:42-17 5202<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:42-77 5202<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/p ,2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  265337  Function: 2  Alpha:   6"
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   13:40-39 4157<NUL>
+POCSAG2400: Address: 1978488  Function: 1 
+POCSAG2400: Address: 1008256  Function: 2  Alpha:   13:39-99 Switch - Call Waiting please
+POCSAG1200: Address: 1072484  Function: 0 
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   13:39-87 5202<NUL>
 POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1338191121+++TIME=1338191121<NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1323798  Function: 2  Alpha:   10:47-01 3504<NUL>
 POCSAG2400: Address:  548053  Function: 2  Alpha:   10:47-59 SBELL
 POCSAG2400: Address:  548053  Function: 2  Alpha:   10:46-58 SBELL
 POCSAG2400: Address:  548053  Function: 2  Alpha:   10:46-56 SBELL
-POCSAG1200: Address: 1512670  Function: 3  Alpha:   F<DC2>
-POCSAG1200: Address:  267682  Function: 1  Alpha:   \J
-POCSAG1200: Address: 1779392  Function: 2 
-POCSAG1200: Address:  764534  Function: 2  Alpha:   ><SOH>
-POCSAG1200: Address:  312013  Function: 1 
-POCSAG1200: Address:  312013  Function: 1 
-POCSAG1200: Address:  312012  Function: 1 
-POCSAG1200: Address:  312012  Function: 1 
-POCSAG1200: Address:  312011  Function: 1 
-POCSAG1200: Address: 2076787  Function: 1 
-POCSAG2400: Address: 1320382  Function: 2  Alpha:   10:44-83 3132<NUL>
-POCSAG2400: Address: 1913745  Function: 2  Alpha:   10:44-75 3104<NUL>
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:44-15 5205<NUL>
