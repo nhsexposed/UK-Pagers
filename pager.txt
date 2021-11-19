@@ -1,3 +1,7 @@
+POCSAG1200: Address:  987069  Function: 2  Alpha:   }}}}}}}}}}}}}mPhP<DLE>|~<ACK><NUL>
+POCSAG1200: Address:  306142  Function: 2  Alpha:   01:57-80 2205#
+POCSAG1200: Address:   42299  Function: 2  Alpha:   01:57-33 22001
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   01:55-73 3106<NUL>
 POCSAG512: Address:  274553  Function: 0 
 POCSAG512: Address: 1150920  Function: 1 
 POCSAG512: Address: 1975925  Function: 1 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1814995  Function: 0  Alpha:   vD
 POCSAG2400: Address: 2064096  Function: 2 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   20:15-20 PROBLEM: Web Check Site: escan.britishcouncil.org is CRITICAL on host BCCHOU-Tier-1-a, <CR><LF>PROBLEM: Web Check Site: escan.britishcouncil.org is CRITICAL on host BCCHOU-Tier-1-a<CR><LF>Service: Web Check Site: escan.britishcouncil.org<CR><LF>Host: BCCHOU-<NUL><NUL>
 POCSAG1200: Address: 2074226  Function: 2 
-POCSAG1200: Address:  148693  Function: 2 
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   20:13-79 18/11/2021 20:12:27 INC 24685999 31E01 13 FERMOR ROAD, PRESTON, PR1 4TX Female 52Y NOISY BREATHING - BLEEDING FROM PR GRD 356279 430200<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2013181121+++TIME=2013181121<NUL>
-POCSAG2400: Address: 2011745  Function: 1 
