@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
+POCSAG2400: Address: 1274384  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   03:35-29 2427<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333191121+++TIME=0333191121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1404480  Function: 1 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1946880  Function: 2  Alpha:   <EOT>Y<CAN>H<LF><HT>$z<EM>HH
 POCSAG2400: Address: 1998964  Function: 2 
 POCSAG2400: Address:  284688  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  108097  Function: 0  Alpha:   20:46-96 PLEASE CALL EX 1007
-POCSAG2400: Address:  216263  Function: 2  Alpha:   20:46-50 PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni, <CR><LF>PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni<CR><LF>Service: Website Check - Host IP - Diffe<NUL><NUL>
-POCSAG2400: Address: 2038984  Function: 2  Alpha:   CAL on host rbgcmslabc02oni<CR><LF>Service: Website
-POCSAG2400: Address:  220603  Function: 3  Alpha:   20:46-54 PR
