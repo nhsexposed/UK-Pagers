@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:48-90 4462<NUL>
+POCSAG1200: Address:  371503  Function: 3  Alpha:   O%(07
+POCSAG1200: Address: 1271391  Function: 2 
+POCSAG1200: Address: 1337821  Function: 3  Alpha:   <LF><VT>_<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address:  362332  Function: 0  Alpha:   pn
+POCSAG1200: Address: 1271387  Function: 2 
+POCSAG1200: Address:  668155  Function: 1 
+POCSAG1200: Address: 1922786  Function: 0  Alpha:   WH
+POCSAG1200: Address: 1115588  Function: 3 
+POCSAG1200: Address:   67969  Function: 1  Alpha:   D 
+POCSAG2400: Address: 1975025  Function: 1 
+POCSAG1200: Address: 1975934  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   23:46-86 19/11/2021 23:44:47 INC 24691984 29D02M JUNC CHAPEL STREET, TRINITY WAY, SALFORD, M3 7BD Unknown UnknownY RTC CAR V PEDESTRIAN GRD 383244 398685<NUL>
+POCSAG2400: Address:   33668  Function: 2  Alpha:   23:45-88 SILVER RESPONDING<NUL><NUL>
+POCSAG2400: Address:   33694  Function: 2  Alpha:   23:45-12 SILVER RESPONDING<NUL><NUL>
+POCSAG2400: Address: 1323564  Function: 2  Alpha:   23:45-52<NUL>P<BS>LVER RESPONDING<NUL><NUL>
+POCSAG2400: Address:   33687  Function: 2  Alpha:   23:45-54 SILVER RESPONDING<NUL><NUL>
+POCSAG2400: Address:   33673  Function: 2  Alpha:   23:45-85 SILVER RESPONDING<NUL><NUL>
+POCSAG2400: Address: 1322506  Function: 2  Alpha:   23:45-15 SILVER RESPONDING<NUL><NUL>
+POCSAG2400: Address:   33684  Function: 2  Alpha:   23:45-45 SILVER RESPONDING<NUL><NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   23:45-80 19/11/2021 23:43:42 INC 246919
 POCSAG2400: Address:   33693  Function: 2  Alpha:   23:43-31 07511702459
 POCSAG2400: Address: 1323564  Function: 2  Alpha:   23:43-51 07511702459
 POCSAG2400: Address:   33669  Function: 2  Alpha:   23:43-83 07511702459
@@ -976,25 +998,3 @@ POCSAG1200: Address:  400666  Function: 0  Alpha:   <FS><DLE>
 POCSAG1200: Address:  266849  Function: 1  Alpha:   f<SYN>
 POCSAG1200: Address: 1349432  Function: 1 
 POCSAG1200: Address:  633647  Function: 2  Alpha:   O%(56
-POCSAG1200: Address: 1337821  Function: 3  Alpha:   <LF><VT>[P<ETX><BEL><VT><ETX><STX>KS
-POCSAG1200: Address: 1188417  Function: 0 
-POCSAG1200: Address:  267886  Function: 0  Alpha:   <ACK><ACK><ETB>&<ACK>4<SYN>gveh
-POCSAG2400: Address:  858416  Function: 2 
-POCSAG2400: Address: 1718182  Function: 0  Alpha:   eIAEeu3<HT>
-POCSAG2400: Address:  353502  Function: 1 
-POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
-POCSAG2400: Address: 1139908  Function: 0  Alpha:   <ESC><ETX>
-POCSAG2400: Address:  624475  Function: 1  Alpha:   nh
-POCSAG2400: Address:   28922  Function: 0  Alpha:   <DC1>9
-POCSAG1200: Address: 1001133  Function: 2  Alpha:   19:28-99 CARDIAC ARREST TEAM, WARD 8C, BED 12, RLH<NUL>
-POCSAG1200: Address:  696118  Function: 2  Alpha:   19:27-29 33835
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   19:27-81 4954<NUL>
-POCSAG2400: Address:   28922  Function: 0  Alpha:   19:27-73 4283<NUL>
-POCSAG2400: Address:   28921  Function: 0  Alpha:   19:27-81 4283<NUL>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   19:26-55 2183<NUL>
-POCSAG1200: Address:  600772  Function: 2  Alpha:   p<SO><SUB><DLE><DC4>12f
-POCSAG2400: Address: 1322949  Function: 2  Alpha:   19:25-96 Ticjet for UFINET INC0689775<LF>Please call NMC on +441908425387<NUL>
-POCSAG1200: Address:   14950  Function: 0  Alpha:   19:25-17 19/11/2021 19:24:17 INC 24690812 31D02 O/S, WHITE LION, 22 ST JAMESS STREET, BURNLEY, BB11 1NQ Male 45Y UNCONCIOUS GRD 384204 432525<NUL>
-POCSAG2400: Address:   28922  Function: 0  Alpha:   19:25-72 2183<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:0w-98 5201<NUL>
-POCSAG2400: Address:   33738  Function: 2  Alpha:   19:25-00 INC ALERT No: 16799430 Diabetic Problems - NOT WITH IT - DIABETIC, AT: COOMBE FARM, LANE TO COOMBE FARM, BUTTERLEIGH CULLOMPTON, EX15 1PW, Time of Call: 19/11/2021 19:21:10, Co-ords: 50.8689577 -3.4686796<NUL>
