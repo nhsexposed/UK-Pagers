@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1354621  Function: 0 
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   08:23-17 4939<NUL>
+POCSAG1200: Address:  880408  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0823191121+++TIME=0823191121<NUL>
+POCSAG1200: Address:  266849  Function: 1  Alpha:   f<ACK>w<ACK><ETB>
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  549690  Function: 2  Alpha:   08:22-26 ~CONTACT LIZ IN CONTROLS PLEAS
+POCSAG2400: Address: 1913695  Function: 2  Alpha:   08:21-83 5201<NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   08:21-11 31071
+POCSAG1200: Address: 1548916  Function: 1 
+POCSAG1200: Address:  267831  Function: 2  Alpha:   08:20-69 12
 POCSAG1200: Address:  585224  Function: 2  Alpha:   08:19-62 1: 001FPLMR0531052 Pass Lift No 8 Alarm Failed 01<NUL><NUL>
 POCSAG1200: Address:  267831  Function: 2  Alpha:   08:19-68 24
 POCSAG1200: Address: 2012787  Function: 1 
@@ -986,15 +998,3 @@ POCSAG1200: Address:  678610  Function: 2  Alpha:   22:45-02 PLS CALL HAIRMYRES 
 POCSAG1200: Address:  352586  Function: 2  Alpha:   22:44-19 3079<NUL>
 POCSAG1200: Address: 2077824  Function: 0  Alpha:   #<ETX><LF>--,t<FS>=<CR>Le<STX><DC2><FF>l<DC4>,<DC4><ENQ><DC2><DC4>M$<,d<STX><STX><NAK>-<ETX>2+%<EOT>j<FF>f.<ACK><DC2>;K<ENQ>BL<D<EOT>"-l<EOT><ENQ>j<STX><LF><DC4>|4-<EOT><SUB>K<ETX>:<DC4>%<EOT><SUB>+3<DC3>CK<ETX>"<DC3>3<ETX><ESC><VT><ETX><NUL>
 POCSAG1200: Address: 1103011  Function: 3  Alpha:   aYE<SOH>AAaQ<SOH>EA<SOH>5&:VR<SYN><STX><NAK>R<ACK>
-POCSAG1200: Address:  549396  Function: 2  Alpha:   22:43-57 Resource comment received for Incident 2111007345;  TO MDT: KH SAM RABY -
-POCSAG1200: Address: 1322052  Function: 2  Alpha:   22:42-86 4901<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   22:42-61 18/11/2021 22:41:26 INC 24686581 31C01 8 WOODLANDS CLOSE, AUDLEY BLACKBURN, BB1 1RA Male 36Y HIGH HR, FEELS FAINT GRD 369843 427625
-POCSAG1200: Address:   40161  Function: 2  Alpha:   22:42-15 please call rfh ext 38047
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  200957  Function: 2  Alpha:   22:41-80 PLS CALL FRANKIE ON 6B ON 2112
-POCSAG2400: Address: 1188422  Function: 0 
-POCSAG1200: Address: 1090560  Function: 2  Alpha:   22:40-90 18/11/2021 22:37:55 INC 24686571 31D04 BARROW GOLF CLUB, RAKESMOOR LANE, BARROW-IN-FURNESS, LA14 4QB Male 95Y COLLAPSED GRD 320409 472393<NUL><NUL>
-POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
-POCSAG1200: Address: 1143308  Function: 1 
-POCSAG1200: Address:  593171  Function: 0  Alpha:   zZ
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   22:39-77 18/11/20<DC2>{!22:32:24 INC 24686538 30D0s"o<DEL>{
