@@ -1,3 +1,56 @@
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   17:54-69 4554<NUL>
+POCSAG2400: Address:  549018  Function: 2  Alpha:   17:54-08 please call 888000<NUL>
+POCSAG1200: Address:   22104  Function: 2  Alpha:   17:54-81 19/11/2021 17:52:14 INC 24690334 23B01I BOSCO LODGE, 153 STANLEY ROAD, BOOTLE L20, L20 3QG Female 18Y OVERDOSE - COCODAMOL X 1 1HR AGO GRD 334365 394825<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1753191121+++TIME=1753191121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  269059  Function: 2  Alpha:   17:52-42 19/11/2021 17:51:03 INC 24690328 29D02M O/S, THE COCK & RABBIT, 69 MANCHESTER ROAD, SOUTHPORT PR9, PR9 9BN Male 45Y CAR V PEDESTRIAN GRD 334481 417500
+POCSAG1200: Address: 1058499  Function: 2  Alpha:   17:52-90 19/11/2021 17:51:03 INC 24690328 29D02M O/S, THE COCK & RABBIT, 69 MANCHESTER ROAD, SOUTHPORT PR9, PR9 9BN Male 45Y CAR V PEDESTRIAN GRD 334481 417500
+POCSAG1200: Address:  453818  Function: 0  Alpha:   Z<CAN>
+POCSAG1200: Address:  858129  Function: 0 
+POCSAG1200: Address: 1337560  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address:  433150  Function: 2  Alpha:   17:52-80p,B<DC2><SYN>w
+POCSAG1200: Address:  533697  Function: 2  Alpha:   Ye
+POCSAG1200: Address:  111360  Function: 1  Alpha:   <DC2><GS>
+POCSAG1200: Address:  453823  Function: 0  Alpha:   Z<CAN>m3<HT>
+POCSAG1200: Address:  858134  Function: 0 
+POCSAG1200: Address: 1337565  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address:  886532  Function: 2  Alpha:   br
+POCSAG1200: Address: 2011379  Function: 1 
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address: 1966612  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   17:52-77 2304<NUL>
+POCSAG2400: Address: 1812208  Function: 2 
+POCSAG1200: Address:  219383  Function: 0 
+POCSAG1200: Address:  619125  Function: 0 
+POCSAG1200: Address: 1039242  Function: 0 
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   17:51-30 Main closed from 18:00 hrs today until midday Sunday, use North Gate - SSM<NUL><NUL>
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   17:51-74 Main closed from 18:00 hrs today until midday Sunday, use North Gate - SSM<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   17:51-57 5202<NUL>
+POCSAG1200: Address: 1770637  Function: 0  Alpha:   <HT><DC2>$<BS>L
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <DC3>D
+POCSAG2400: Address:   28916  Function: 0  Alpha:   17:51-95 4462<NUL>
+POCSAG1200: Address: 1732655  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1449771  Function: 3  Alpha:   <FS><GS>
+POCSAG1200: Address:  164577  Function: 3 
+POCSAG1200: Address:  337353  Function: 0 
+POCSAG1200: Address:  298400  Function: 0 
+POCSAG1200: Address:  758448  Function: 2 
+POCSAG1200: Address: 1466779  Function: 1  Alpha:   KAfd2
+POCSAG1200: Address:  830723  Function: 2 
+POCSAG1200: Address:  353842  Function: 1  Alpha:   <CR><BS>
+POCSAG1200: Address:  338337  Function: 1 
+POCSAG1200: Address:  938673  Function: 3 
+POCSAG1200: Address: 1843816  Function: 0 
+POCSAG1200: Address: 1466552  Function: 0 
+POCSAG1200: Address: 1528117  Function: 1 
+POCSAG1200: Address: 1189509  Function: 0 
+POCSAG1200: Address:  445720  Function: 1  Alpha:   <EM>P
+POCSAG1200: Address:  930489  Function: 2  Alpha:   17:50-41 19/11/2021 17:47:29 INK<STX><EM><SUB>[<FS><US>K
+POCSAG1200: Address:  336140  Function: 2  Alpha:   17:50-12 19/11/2021 17:48:14 INC 24690316 26D01 PRINCES COURT - FLAT 4, BARE LANE, MORECAMBE, LA4 6DE Female 89Y CANT STAND, HOT AND SWEATY, CONFUSED GRD 345251 464949<NUL>
+POCSAG1200: Address: 1245773  Function: 3 
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  375594  Function: 3  Alpha:   dn
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1748191121+++TIME=1748191121<NUL>
 POCSAG2400: Address: 1322351  Function: 2  Alpha:   17:48-22 URGENT Please call PAH ext:01279 827596 John Snow<NUL><NUL>
 POCSAG2400: Address: 1815071  Function: 2  Alpha:   17:48-98 PLEASE CALL BACK 07782 636 014
@@ -945,56 +998,3 @@ POCSAG2400: Address: 1320366  Function: 2  Alpha:   15:28-63 4379<NUL>
 POCSAG2400: Address: 1913700  Function: 2  Alpha:   15:28-97 3111<NUL>
 POCSAG1200: Address:   73181  Function: 1  Alpha:   G517, DOB: 13/10/2002 - KTS: 15:2<NAK>
 POCSAG2400: Address:   11754  Function: 0  Alpha:   15:27-33 PLEASE CALL BACK URGENTLY DR JAMAL AT FIRE WARD EXT 6489 <NUL><NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:27-91 3117<NUL>
-POCSAG2400: Address: 1913707  Function: 2  Alpha:   15:27-56 3164<NUL>
-POCSAG1200: Address: 1031655  Function: 0 
-POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN><ACK>
-POCSAG1200: Address:  325898  Function: 3  Alpha:   V<LF>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:25-61 5897<NUL>
-POCSAG1200: Address:   80201  Function: 2  Alpha:   `-
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   15:25-43 2616<NUL>
-POCSAG1200: Address: 1534269  Function: 2  Alpha:   15:24-19 PLEASE CONTACT CONTROL <NUL><NUL>
-POCSAG2400: Address: 1573818  Function: 2  Alpha:   15:24-90 2565<NUL>
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:23-63 2581<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523191121+++TIME=1523191121<NUL>
-POCSAG1200: Address:  273128  Function: 3  Alpha:   +++TIME=1523191121+++TIME=1523191121<NUL>
-POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   15:22-28 4179<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   <SYN>b
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   15:22-92 Please call 01535 293909. RSVP
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   15:21-75 Call or Calls waiting at Switchboard
-POCSAG2400: Address:   28919  Function: 0  Alpha:   15:21-39 4310<NUL>
-POCSAG1200: Address: 1485641  Function: 3  Alpha:   A<EM>
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   15:20-10 3132<NUL>
-POCSAG1200: Address:   95109  Function: 3 
-POCSAG1200: Address: 1700818  Function: 2 
-POCSAG1200: Address:  765073  Function: 0  Alpha:   Y9
-POCSAG1200: Address:  835895  Function: 2 
-POCSAG1200: Address:  166694  Function: 2 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   15:20-68 19/11/2021 15:19:54 INC 24689647 06D01 141 WOODSIDE ROAD, HUNCOAT ACCRINGTON, BB5 6LG Female GRD 377754 430186
-POCSAG1200: Address:  156691  Function: 2  Alpha:   Q<DC4>
-POCSAG1200: Address:  411931  Function: 0 
-POCSAG1200: Address:  334376  Function: 1 
-POCSAG1200: Address:  591205  Function: 2  Alpha:    g<SOH>db
-POCSAG1200: Address: 1380873  Function: 0 
-POCSAG1200: Address:  722217  Function: 1 
-POCSAG1200: Address:  267856  Function: 1 
-POCSAG1200: Address: 1338064  Function: 0 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <ACK>"
-POCSAG2400: Address: 2074225  Function: 2 
-POCSAG1200: Address: 1511970  Function: 3  Alpha:   <SYN>d
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1518191121+++TIME=1518191121<NUL>
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   15:18-35 6060 Please
-POCSAG2400: Address: 1913945  Function: 2  Alpha:   15:17-43 4935<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1749604  Function: 1 
-POCSAG1200: Address: 2028157  Function: 1 
-POCSAG1200: Address:  874867  Function: 3 
-POCSAG2400: Address:   28906  Function: 0  Alpha:   15:16-37 4960<NUL>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   15:16-96 66742
-POCSAG1200: Address:  679608  Function: 2  Alpha:   15:16-66 66742
-POCSAG1200: Address:  649969  Function: 2  Alpha:   15:16-80 66742
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   Eb
-POCSAG2400: Address:  149113  Function: 2  Alpha:   15:15-18 2415<NUL>
