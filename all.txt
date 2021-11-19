@@ -23584,3 +23584,13 @@ POCSAG1200: Address: 1683492  Function: 3  Alpha:   RF
 POCSAG1200: Address:  437405  Function: 2 
 POCSAG1200: Address: 1817414  Function: 2  Alpha:   08
 POCSAG1200: Address: 1032664  Function: 2  Alpha:   B<BS><NUL>`L
+POCSAG1200: Address: 1652053  Function: 1 
+POCSAG1200: Address:   66477  Function: 0  Alpha:   <SOH><NUL>
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   08:51-58 5<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 2008952  Function: 0 
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   08:52-59 5<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0853191121+++TIME=0853191121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853191121+++TIME=0853191121<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   08:54-47 4114<NUL>
+POCSAG2400: Address: 1974883  Function: 0 

@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1974883  Function: 0 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   08:54-47 4114<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853191121+++TIME=0853191121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0853191121+++TIME=0853191121<NUL>
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   08:52-59 5<NUL>
+POCSAG2400: Address: 2008952  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   08:51-58 5<NUL>
+POCSAG1200: Address:   66477  Function: 0  Alpha:   <SOH><NUL>
+POCSAG1200: Address: 1652053  Function: 1 
 POCSAG1200: Address: 1032664  Function: 2  Alpha:   B<BS><NUL>`L
 POCSAG1200: Address: 1817414  Function: 2  Alpha:   08
 POCSAG1200: Address:  437405  Function: 2 
@@ -988,13 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   23:13-39 2233<NUL>
 POCSAG1200: Address:   33723  Function: 2  Alpha:   23:13-02 PLEASE CALL LIL@A HOGBEN 01303 254 097 RE: SHEILA HODBEN <NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  369514  Function: 3  Alpha:   bdZlf@Pd^dR@$_YKgA@@@<DC4>3ab ct<SUB>CS]A k[aw@(CYWOeaA@<FF><ENQ><VT>%[<RS>!'ad@PfrTR@P<BS><SI><GS><ETX>S
-POCSAG1200: Address:  413130  Function: 2 
-POCSAG1200: Address: 1477216  Function: 0  Alpha:   z-
-POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>s
-POCSAG1200: Address: 1032113  Function: 2  Alpha:   B<BS><NUL>`L
-POCSAG1200: Address: 2025495  Function: 0 
-POCSAG1200: Address: 1999734  Function: 0 
-POCSAG1200: Address: 1441908  Function: 0 
-POCSAG1200: Address: 1970705  Function: 2  Alpha:   3s<SUB>11-59 33945
-POCSAG1200: Address:  413130  Function: 2  Alpha:   23:10-61 (2/2) Roles    JY01P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   23:10-53 PROBLEM: Windows Time is UNKNOWN on host BOOPENLVDA02MC1, <CR><LF>PROBLEM: Windows Time is UNKNOWN on host BOOPENLVDA02MC1<CR><LF>Service: Windows Time<CR><LF>Host: BOOPENLVDA02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.100<CR><LF>Host Group Hierarchy: <CR><LF>State: UNKNOWN<CR><LF>Date <NUL><NUL>
