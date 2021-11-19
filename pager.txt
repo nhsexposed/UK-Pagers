@@ -1,3 +1,9 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0528191121+++TIME=0528191121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0528191121+++TIME=0528191121<NUL>
+POCSAG1200: Address: 1204431  Function: 0 
+POCSAG1200: Address: 1156990  Function: 0  Alpha:   bb
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   05:27-36 4157<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0523191121+++TIME=0523191121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523191121+++TIME=0523191121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1246426  Function: 1
 POCSAG2400: Address: 1324068  Function: 2  Alpha:   21:17-16 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
 POCSAG1200: Address: 1746546  Function: 1 
 POCSAG1200: Address: 1323875  Function: 2  Alpha:   21:17-31 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG1200: Address: 1323878  Function: 2  Alpha:   21:17-11 SEL 111 is in CAS escalation - Level 2 - For info only, 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1188417  Function: 0 
-POCSAG2400: Address: 1198496  Function: 0  Alpha:   1<CR><LF>Service: Group Policy Client<CR><LF>Host: BOOPENLVDA02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.100<CR><LF>Host Group Hierarchy: <NUL><NUL>
-POCSAG2400: Address:  472192  Function: 0 
-POCSAG2400: Address:  216268  Function: 2  Alpha:   21:16-53 PROBLEM:@<DC4>yndows Management 
-POCSAG2400: Address: 1732684  Function: 0  Alpha:   M&/V<ETX>r<ACK>/<RS><US><SO>vv<DC2><SYN>O&O<RS>G<RS>~.w<RS>Nfvz<SYN>?nP@|<RS>'W<ETX><DC2><EOT><NUL>
