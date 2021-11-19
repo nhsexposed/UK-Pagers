@@ -22862,3 +22862,11 @@ POCSAG1200: Address:  980216  Function: 3  Alpha:   <NAK><SYN>v%<ACK>&<SYN><ACK>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   00:40-65 MSG02-BADLY GRD 381795 403387<NUL>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   00:40-32 MSG02-BADLY GRD 381795 403387<NUL>
 POCSAG1200: Address: 1718144  Function: 2  Alpha:   YKAjj2A<ACK><DC1><VT>')A <ETX><DC3><GS>A<SO>%<HT>Afjp`nr@hbr`h`<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:50-44 5090<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   00:51-33 4187<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   00:52-34 4187<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0053191121+++TWME=00531911<DC2>1@
+POCSAG2400: Address:   28924  Function: 0  Alpha:   00:54-34 2183<NUL>
+POCSAG2400: Address:   33704  Function: 2  Alpha:   00:54-56 PLEASE CALL IM AT HUB OPERATIONS ON 0117 975 7580<NUL><NUL>
