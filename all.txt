@@ -27548,3 +27548,22 @@ POCSAG1200: Address:  200957  Function: 2  Alpha:   20:47-h<SI><BS><DC4>3
 POCSAG1200: Address:  793783  Function: 3  Alpha:   g<DC2>
 POCSAG1200: Address: 1817185  Function: 2  Alpha:   20:48
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048191121+++TIME=2048191121<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   20:50-73
+POCSAG1200: Address:  269100  Function: 2  Alpha:   20:50-07 19/11/2021 20:48:35 IN<ETX>,<DC2>6691211 06$22 35 HAMER LANE, WARDLEWORTH ROCHDALE ROCHDALE, OL16 2UL Male 54Y BREATHING DIFFICULTIES GRD 390670 414011<NUL><NUL>
+POCSAG2400: Address:  549010  Function: 2  Alpha:   20:50-11 2<NUL>
+POCSAG1200: Address:  269111  Function: 2  Alpha:   20:50-71 19/11/2021 2`
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:51-02 4387<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&X:<SOH><DC1>1f
+POCSAG512: Address: 1142400  Function: 0  Alpha:   K<ETX>
+POCSAG1200: Address:  858134  Function: 0  Alpha:   <FF>L
+POCSAG1200: Address:  740959  Function: 3  Alpha:   g<DC2>
+POCSAG2400: Address: 1324077  Function: 2  Alpha:   20:53-87 NEL is in DMP 4 Escalation, for more info please call on <02082536951 or 07557565895>
+POCSAG2400: Address: 1450864  Function: 3 
+POCSAG2400: Address: 1750624  Function: 3  Alpha:   <SYN>W
+POCSAG2400: Address:  394729  Function: 2 
+POCSAG2400: Address: 1278473  Function: 2 
+POCSAG2400: Address: 1188418  Function: 0 
+POCSAG2400: Address: 1323948  Function: 2  Alpha:   20:53-25 NEL is in DMP 4 Escalation, for more info please call on <02082536951 or 07557565895>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2053191121+++TIME=2053191121<NUL>
+POCSAG2400: Address:   11773  Function: 0  Alpha:   20:54-00 5201<NUL>|<DEL><DEL>
