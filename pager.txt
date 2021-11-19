@@ -1,3 +1,8 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0523191121+++TIME=0523191121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523191121+++TIME=0523191121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  631640  Function: 0  Alpha:   `j
+POCSAG1200: Address:  218719  Function: 2  Alpha:   O%
 POCSAG2400: Address:  828029  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508191121+++TIME=0508191121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0508191121+++TIME=0508191121<NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1198496  Function: 0  Alpha:   1<CR><LF>Service: Group Poli
 POCSAG2400: Address:  472192  Function: 0 
 POCSAG2400: Address:  216268  Function: 2  Alpha:   21:16-53 PROBLEM:@<DC4>yndows Management 
 POCSAG2400: Address: 1732684  Function: 0  Alpha:   M&/V<ETX>r<ACK>/<RS><US><SO>vv<DC2><SYN>O&O<RS>G<RS>~.w<RS>Nfvz<SYN>?nP@|<RS>'W<ETX><DC2><EOT><NUL>
-POCSAG2400: Address: 1527088  Function: 0 
-POCSAG2400: Address: 1495391  Function: 3  Alpha:   3<HT>
-POCSAG1200: Address: 1476342  Function: 0 
-POCSAG1200: Address: 1001124  Function: 2  Alpha:   21:13-30 CARDIAC ARREST TEAM TO WARD 13F, BED 21 @ RLH.<NUL><NUL>
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   21:13-81 CARDIAC ARREST TEAM TO WARD 13F, BED 21 @ RLH.<NUL><NUL>
