@@ -1,3 +1,59 @@
+POCSAG1200: Address: 1975016  Function: 2 
+POCSAG2400: Address:  583523  Function: 2  Alpha:   09:04-07 80300
+POCSAG2400: Address: 1942099  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0903191121+++TIME=0903191121<NUL>
+POCSAG2400: Address: 1913727  Function: 2  Alpha:   09:03-55 4316<NUL>
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   09:04-41 2111<NUL>
+POCSAG2400: Address: 1323337  Function: 2  Alpha:   09:03-31 80300
+POCSAG1200: Address: 1032928  Function: 0 
+POCSAG1200: Address:   70112  Function: 1  Alpha:   G@<VT> N
+POCSAG1200: Address: 1594915  Function: 2  Alpha:   09:03-22 NOTIFY,  DUTY OFFICERS FOR 19.11.21  AC THOMPSON - DPO GC PARRY-JONES - DGC / NILO SC HARTWELL - DSC  REGARDS,  CONTROL
+POCSAG1200: Address: 1312572  Function: 2  Alpha:   09
+POCSAG1200: Address: 1876963  Function: 0 
+POCSAG1200: Address:  689727  Function: 0 
+POCSAG1200: Address: 1807841  Function: 0  Alpha:   ELL - DSC  REGARDS,  CONTROL
+POCSAG1200: Address: 1312592  Function: 2  Alpha:   09:03-02 NOTIFY,  DUTY OFFICERS FOR 19.11.21  AC THOMPSON - DPO GC PARRY-JONES - DGC / NILO SC HA
+POCSAG1200: Address: 1312591  Function: 2  Alpha:   09:03-44 NOTIFY,  DUTY OFFICERS FOR 19.11.21  AC THOMPSON - DPO GC PARRY-JONES - DGC / NILO SC HARTWELL - DSC  REGARDS,  CONTROL
+POCSAG1200: Address:  930646  Function: 0 
+POCSAG1200: Address: 1312588  Function: 2  Alpha:   09:03-07 NOTIFY,  DUTY OFFICERS FOR 19.11.21  AC THOMPSON - DPO G
+POCSAG1200: Address: 1352290  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   DbRBBB Test message on B3 side 1234567890123456788<DC1>
+POCSAG1200: Address:  825127  Function: 1 
+POCSAG1200: Address: 1065318  Function: 0 
+POCSAG1200: Address:  534067  Function: 2 
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   09:01-60 PLS CONTACT 2505
+POCSAG2400: Address:  107355  Function: 1  Alpha:   nd
+POCSAG2400: Address:  216666  Function: 3 
+POCSAG2400: Address: 1254053  Function: 1 
+POCSAG2400: Address:  429500  Function: 3 
+POCSAG2400: Address:  867156  Function: 3 
+POCSAG1200: Address: 1016433  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   09:00-31 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1323170  Function: 2  Alpha:   09:00-67 Good morning,please join the cc. Lucy<NUL><NUL>
+POCSAG2400: Address: 1323200  Function: 2  Alpha:   09:00-19 Good morning,please join the cc. Lucy<NUL><NUL>
+POCSAG2400: Address: 1323201  Function: 2  Alpha:   09:00-10 Good morning,please join the cc. Lucy<NUL><NUL>
+POCSAG2400: Address:  501365  Function: 2 
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   09:93)37
+POCSAG2400: Address: 1812215  Function: 2 
+POCSAG2400: Address: 1323202  Function: 2  Alpha:   09:00-37 Good morning,please join the cc. Lucy<NUL><NUL>
+POCSAG1200: Address: 1015477  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032060  Function: 3  Alpha:   !<ACK>
+POCSAG2400: Address: 1976420  Function: 0 
+POCSAG1200: Address: 1512856  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290126  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290197  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032608  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290175  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1015478  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:   80117  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1015473  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  153784  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512743  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512838  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031573  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  539543  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1750375  Function: 3 
+POCSAG1200: Address: 1323814  Function: 2  Alpha:   09:00-83 RED: You are 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0858191121+++TIME=0858191121<NUL>
 POCSAG2400: Address: 1913900  Function: 2  Alpha:   08:57-40 2111<NUL>
 POCSAG1200: Address: 1032198  Function: 0 
@@ -942,59 +998,3 @@ POCSAG1200: Address: 2094240  Function: 3  Alpha:   EEII<SOH>QMIeAQ
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:45-27 3116<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   23:45-41 4156<NUL>
 POCSAG1200: Address: 1188528  Function: 2 
-POCSAG1200: Address: 2075383  Function: 1  Alpha:   <DEL><DEL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2343181121+++TIME=2343181121<NUL>
-POCSAG1200: Address: 1516609  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   49263  Function: 2  Alpha:   23:41-06 UHND MEDICAL EMERGENCY TO AMU BED 27
-POCSAG1200: Address: 2077430  Function: 0 
-POCSAG2400: Address:  549033  Function: 2  Alpha:   23:40-42 IP1 8013
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   &D
-POCSAG2400: Address:   28896  Function: 0  Alpha:   23:39-32 2188<NUL>
-POCSAG1200: Address: 1966611  Function: 0 
-POCSAG1200: Address:  695397  Function: 2  Alpha:   23:32-09 18/11/2021 23:27:37 INC 24686740 06E01 405 ROSSENDALE ROAD, BURNLEY, BB11 5HP Male 58Y DIB GRD 382920 430882
-POCSAG1200: Address:  269168  Function: 2  Alpha:   23:32-68 18/11/2021 23:27:37 INC 24686740 06E01 405 ROSSENDALE ROAD, BURNLEY, BB11 5HP Male 58Y DIB GRD 382920 430882
-POCSAG1200: Address: 1925483  Function: 2  Alpha:   6S<SUB>32-12 BN06 PSA <NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 2094208  Function: 0 
-POCSAG2400: Address: 1323593  Function: 2  Alpha:   23:31-83 lease call extn 5448<NUL><NUL>
-POCSAG1200: Address: 1313126  Function: 2  Alpha:   23:31-10 NIGHT NURSES PLS CALL KAREN JOWETT 07872 070 718
-POCSAG1200: Address: 1377748  Function: 3 
-POCSAG1200: Address: 1417283  Function: 2 
-POCSAG1200: Address: 1718602  Function: 2 
-POCSAG1200: Address:  698448  Function: 1 
-POCSAG1200: Address:  857263  Function: 1  Alpha:   3<HT>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:29-72 5082<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   23:29-84 5440<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1722938  Function: 0 
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   23:24-58 RECOVERY: VMWare Tools is OK on host BOOPENLVDA02MC1, <CR><LF>RECOVERY: VMWare Tools is OK on host BOOPENLVDA02MC1<CR><LF>Service: VMWare Tools<CR><LF>Host: BOOPENLVDA02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.100<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & Time: Thu N<NUL><NUL>
-POCSAG2400: Address:  301363  Function: 1 
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   23
-POCSAG2400: Address:   28900  Function: 0  Alpha:   23:23-57 3116<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2323181121+++TIME=2323181121<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   23:23-83 5440<NUL>
-POCSAG2400: Address:  499057  Function: 1 
-POCSAG2400: Address:  318648  Function: 1 
-POCSAG2400: Address: 2073335  Function: 2 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   23:22-67 18/11/2021 23:20:14 INC 24686720 
-POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>S
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   23:21-35 PLEASE CALL PETER POST ON 01304 821 620
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:19-79 5090<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:18-40 3116<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   23:18-31 4157<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   23:18-60 33835
-POCSAG2400: Address:  532596  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2318181121+++TIME=2318181121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2318181121+++TIME=2318181121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   04/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   23:15-81 18/11/2021 23:12:46 INC 24686690 06E01 MANDELA HOUSE, 1A GARMOYLE CLOSE, WAVERTREE L15, L15 0JB Male 65Y STRUGGLING TO BREATHE, COPD, ON NEBS GRD 338075 389075
-POCSAG1200: Address:  549236  Function: 2  Alpha:   23:15-09 ** PROBLEM Service Alert: harro-eu-west-1-004-telemetryapi1/Tomcat Threads is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Tomcat Threads<CR><LF>Host: harro-eu-west-1-004-telemetryapi1<CR><LF>Address: harro-eu-west
-POCSAG1200: Address: 2077824  Function: 2  Alpha:   <>.<BEL><EOT><GS>,.
-POCSAG1200: Address:  771915  Function: 3 
-POCSAG1200: Address: 1258601  Function: 1 
-POCSAG1200: Address: 1507848  Function: 2  Alpha:   RO
-POCSAG1200: Address: 1980518  Function: 1 
-POCSAG1200: Address: 1354068  Function: 2  Alpha:   J*
-POCSAG1200: Address: 2046331  Function: 3  Alpha:   <RS><BEL>
-POCSAG1200: Address:   76369  Function: 3 
