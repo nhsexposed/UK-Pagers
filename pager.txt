@@ -1,3 +1,32 @@
+POCSAG1200: Address: 1502108  Function: 2  Alpha:   10:49-17 2380<NUL>
+POCSAG2400: Address: 1259623  Function: 2  Alpha:   10:49-83 2380<NUL>
+POCSAG1200: Address:  734815  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address: 1337565  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address:  741044  Function: 1 
+POCSAG1200: Address:  937131  Function: 0 
+POCSAG1200: Address: 1713395  Function: 1 
+POCSAG1200: Address: 1441905  Function: 0 
+POCSAG2400: Address: 1487446  Function: 0 
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:48-60 SBELL
+POCSAG1200: Address:  916118  Function: 2  Alpha:   10:48-57 888000<NUL><NUL>
+POCSAG1200: Address: 1480307  Function: 0 
+POCSAG1200: Address: 1553600  Function: 2  Alpha:   9HY.t<ENQ>4xYz<BS><EM>iy<BS>T<LF><LF>$HyyI<BS>t(J<BS>4V&<ACK><ACK>7<ACK>D<SYN><ACK>vVF<ACK>
+POCSAG2400: Address:  575402  Function: 2  Alpha:   EE=IAIE<SOH>EAiQYiIA1<SOH><CR>>7=K<DC3>Ok<SOH>UE9AYMeaAa<SOH>5E9]eMEEaU
+POCSAG2400: Address: 1323798  Function: 2  Alpha:   10:47-01 3504<NUL>
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:47-59 SBELL
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:46-58 SBELL
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:46-56 SBELL
+POCSAG1200: Address: 1512670  Function: 3  Alpha:   F<DC2>
+POCSAG1200: Address:  267682  Function: 1  Alpha:   \J
+POCSAG1200: Address: 1779392  Function: 2 
+POCSAG1200: Address:  764534  Function: 2  Alpha:   ><SOH>
+POCSAG1200: Address:  312013  Function: 1 
+POCSAG1200: Address:  312013  Function: 1 
+POCSAG1200: Address:  312012  Function: 1 
+POCSAG1200: Address:  312012  Function: 1 
+POCSAG1200: Address:  312011  Function: 1 
+POCSAG1200: Address: 2076787  Function: 1 
+POCSAG2400: Address: 1320382  Function: 2  Alpha:   10:44-83 3132<NUL>
 POCSAG2400: Address: 1913745  Function: 2  Alpha:   10:44-75 3104<NUL>
 POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:44-15 5205<NUL>
 POCSAG1200: Address: 1534097  Function: 2  Alpha:   10:44-92 BOSS Mobile: https://bossd.nfcsp.org.uk
@@ -969,32 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  211528  Function: 2 
 POCSAG1200: Address: 1562660  Function: 2  Alpha:   07:00-37 19/11
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0658191121+++TIME=0658191121<NUL>
-POCSAG1200: Address:  267415  Function: 2  Alpha:   O%h<EOT><STX>
-POCSAG1200: Address:  791351  Function: 2 
-POCSAG1200: Address: 1876142  Function: 3 
-POCSAG1200: Address: 1893829  Function: 0  Alpha:   IO
-POCSAG1200: Address: 1706668  Function: 1  Alpha:   sp
-POCSAG1200: Address:  603500  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2008022  Function: 1 
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address: 1761331  Function: 3  Alpha:   6<DC2><NUL>bL
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   06:50-75 3106<NUL>
-POCSAG1200: Address:  712089  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0648191121+++TIME=0648191121<NUL>
-POCSAG2400: Address: 2041460  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0643191121+++TIME=0643191121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1312583  Function: 2  Alpha:   06:41
-POCSAG1200: Address:  666668  Function: 3 
-POCSAG1200: Address: 1620003  Function: 3  Alpha:   vf<ACK>D&<SYN>F<SYN>g<ACK><NUL>
-POCSAG2400: Address:  583600  Function: 2  Alpha:   06:35-56 71157
-POCSAG2400: Address: 1241718  Function: 0 
-POCSAG2400: Address:  660179  Function: 0 
-POCSAG2400: Address:  339769  Function: 0 
-POCSAG1200: Address:  549872  Function: 2  Alpha:   06:32-47 ~PLEASE CONTACT CONTROLS<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   05/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   06:31-62 ring me x<NUL><NUL>
-POCSAG1200: Address: 1817112  Function: 2  Alpha:   06:30-16 Destination: D80 DSC\262, Booking
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   06:28-82 rdl ward 36817<NUL><NUL>
