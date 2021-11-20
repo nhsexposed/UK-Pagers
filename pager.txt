@@ -1,3 +1,41 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903201121+++TIME=0903201121<NUL>
+POCSAG2400: Address:  549964  Function: 2  Alpha:   09:03-97 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address:  149126  Function: 2  Alpha:   09:03-01 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322890  Function: 2  Alpha:   09:03-02 09:03-01 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0903201121+++TIME=0903201121<NUL>
+POCSAG2400: Address:  549203  Function: 2  Alpha:   09:03-14 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address:  549204  Function: 2  Alpha:   09:03-32 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address:  549206  Function: 2  Alpha:   09:03-07 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322772  Function: 2  Alpha:   09:03-34 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322879  Function: 2  Alpha:   09:03-91 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322898  Function: 2  Alpha:   09:03-15 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322897  Function: 2  Alpha:   09:03-46 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1929216  Function: 2  Alpha:   <LF>4<CAN>HI<HT>D<SUB>i<EM><BS><DC4>i<HT>D<LF>Y<BS>d):<BS>ti<HT><EOT><ACK><BEL><ACK><ACK>D6&<ACK><EOT>VV<SYN><BEL>
+POCSAG2400: Address: 1322870  Function: 2  Alpha:   09:03-87 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322871  Function: 2  Alpha:   09:03-43 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1242621  Function: 2  Alpha:   09:03-46 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322880  Function: 2  Alpha:   09:03-84 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322878  Function: 2  Alpha:   09:03-95 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address:  232204  Function: 0  Alpha:   <DLE><DC3><DC3><BS>5
+POCSAG2400: Address: 1322883  Function: 2  Alpha:   09:03-27 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1875973  Function: 0 
+POCSAG2400: Address: 1322886  Function: 2  Alpha:   09:03-21 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address: 1322760  Function: 2  Alpha:   09:03-55 PLS CALL TINA IN THE NRC ON 0800 432 0559<NUL>
+POCSAG2400: Address:  197160  Function: 2 
+POCSAG2400: Address:  792122  Function: 2 
+POCSAG2400: Address:  206512  Function: 3 
+POCSAG2400: Address:  433343  Function: 3  Alpha:   g<DC2>
+POCSAG2400: Address: 1108170  Function: 3 
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   09:02<CR>3<DC3>
+POCSAG1200: Address:  168004  Function: 0  Alpha:   E<SOH>e<SOH><GS>22T<ACK><SYN>NR<SYN>J<STX>I><ACK><DC2>2<SOH>!VfR>:<STX>1NY1<SOH>1NY<SOH>Ee2<STX><EM><SYN>7<BEL>3<ETB><ETX>YEe<STX><DC1>&<LF><STX><GS>J<DC2><STX>MQUMaY<SOH>MeEQUM<SOH>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:02-86 20/11/2021 09:00:27 INC 24693557 
+POCSAG1200: Address: 1031672  Function: 3  Alpha:   <ACK><NUL>
+POCSAG1200: Address: 1700829  Function: 3  Alpha:   V2
+POCSAG1200: Address: 1039074  Function: 3  Alpha:   V2
+POCSAG2400: Address: 1700204  Function: 1  Alpha:   09:01-63 Good Morning. You are now`onuaqll for CCG. You should receive messages via email, SMS and pager bleeps. Kind regards Resilience Team<NUL>
+POCSAG2400: Address: 1877590  Function: 0 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   09:00-08 2445<NUL>
+POCSAG2400: Address: 1320382  Function: 2  Alpha:   08:59-86 2445<NUL>
 POCSAG2400: Address: 1913536  Function: 2  Alpha:   08:59-67 4172<NUL>
 POCSAG1200: Address: 1700829  Function: 3  Alpha:   V2
 POCSAG1200: Address: 1039074  Function: 3  Alpha:   V2
@@ -960,41 +998,3 @@ POCSAG2400: Address: 1188002  Function: 1
 POCSAG2400: Address:  157890  Function: 2 
 POCSAG2400: Address:  185992  Function: 1 
 POCSAG2400: Address: 1314975  Function: 0  Alpha:   O%
-POCSAG2400: Address:  987431  Function: 3 
-POCSAG2400: Address:  557770  Function: 0  Alpha:   TU
-POCSAG2400: Address:  164577  Function: 3 
-POCSAG2400: Address:  189609  Function: 0 
-POCSAG2400: Address:  379160  Function: 1 
-POCSAG2400: Address:  267282  Function: 1  Alpha:   Y(
-POCSAG2400: Address: 1349434  Function: 1 
-POCSAG2400: Address:  206424  Function: 3 
-POCSAG1200: Address: 1581668  Function: 0 
-POCSAG1200: Address:  548039  Function: 2  Alpha:   02
-POCSAG1200: Address:  366351  Function: 0 
-POCSAG1200: Address: 1330454  Function: 0 
-POCSAG1200: Address:  757830  Function: 3 
-POCSAG1200: Address: 1149061  Function: 3  Alpha:   b@
-POCSAG1200: Address:  459468  Function: 3 
-POCSAG1200: Address:  428347  Function: 2  Alpha:   02:17-68 20/11/2021 02:07:51 INC 24692538 31D01 IN THE SCHOOL OPPSOSITE, 36 VAUGHAN ROAD, NEW BRIGHTON WALLASEY CH45, CH45 1LL Male 56Y TEST GRD 331098 393516<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1749230  Function: 0 
-POCSAG1200: Address: 1377732  Function: 3 
-POCSAG1200: Address:  386731  Function: 0 
-POCSAG1200: Address: 1476883  Function: 1 
-POCSAG1200: Address:  334075  Function: 2 
-POCSAG1200: Address: 1155204  Function: 1  Alpha:   fj
-POCSAG1200: Address:  874803  Function: 3 
-POCSAG1200: Address: 1684706  Function: 3 
-POCSAG1200: Address:  524482  Function: 2 
-POCSAG1200: Address: 1157981  Function: 0  Alpha:   r&
-POCSAG1200: Address:  460372  Function: 2 
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:15-86 PLEASE CALL RUSSELL ON 07733 067 858 RE GRANDMOTHER NEEDS STAT DOSE<NUL>
-POCSAG2400: Address: 2026358  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213201121+++TIME=0213201121<NUL>
-POCSAG1200: Address:  219383  Function: 0 
-POCSAG1200: Address:   33723  Function: 2  Alpha:   02:12-54 03003000044
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:12-30 03003000044
-POCSAG1200: Address:  619125  Function: 0 
-POCSAG1200: Address: 1039242  Function: 0 
-POCSAG512: Address: 2045160  Function: 2  Alpha:   fhjlnpr`
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
