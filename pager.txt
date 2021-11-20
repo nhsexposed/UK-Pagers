@@ -1,3 +1,17 @@
+POCSAG2400: Address:   28905  Function: 0  Alpha:   10:19-83 3132<NUL>
+POCSAG1200: Address: 1155202  Function: 2  Alpha:   b@bp@<DLE><ETX><ESC>
+POCSAG1200: Address: 1745528  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1018201121+++TIME=1018201121<NUL>
+POCSAG1200: Address: 1321859  Function: 2  Alpha:   10:18-80  PLEASE CALL PC SKORUPA 078106 26212
+POCSAG1200: Address:  600597  Function: 0  Alpha:   10:18-66 CASE PIN 13570 CALL BACK  03457 500 620
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  695837  Function: 2  Alpha:   10:15-59 PLS CALL 01784 884 976
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   10:15m2<ETB> 88649
+POCSAG2400: Address:  583556  Function: 2  Alpha:   10:15-77 73338
+POCSAG2400: Address:  584658  Function: 2  Alpha:   10:15-16 73338
+POCSAG1200: Address: 1370180  Function: 2 
+POCSAG1200: Address: 1516699  Function: 1  Alpha:   \]
+POCSAG1200: Address: 1896776  Function: 3 
 POCSAG2400: Address: 1785480  Function: 2 
 POCSAG2400: Address: 2044072  Function: 0  Alpha:   :<ESC><ESC><ESC>C
 POCSAG2400: Address:  583590  Function: 2  Alpha:   10:14-13
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1022230  Function: 2  Alpha:   05:36-39 20/11/2021 05:35:12
 POCSAG1200: Address:  285110  Function: 2  Alpha:   l<FF>
 POCSAG1200: Address: 1716454  Function: 0 
 POCSAG1200: Address: 1188021  Function: 1  Alpha:   QQ
-POCSAG1200: Address:  594002  Function: 3  Alpha:   <STX>r\$<ENQ>
-POCSAG1200: Address: 1503199  Function: 2  Alpha:   O%hn<GS>
-POCSAG1200: Address:  699327  Function: 2 
-POCSAG1200: Address: 1686118  Function: 1 
-POCSAG1200: Address: 1070694  Function: 1 
-POCSAG1200: Address:  365205  Function: 1 
-POCSAG1200: Address: 1705060  Function: 2  Alpha:    <SUB>
-POCSAG1200: Address: 1021107  Function: 2 
-POCSAG1200: Address: 1712298  Function: 2 
-POCSAG1200: Address:  234664  Function: 1 
-POCSAG1200: Address:  267544  Function: 0 
-POCSAG1200: Address: 1122455  Function: 0  Alpha:   ><ACK>rg<DC2>
-POCSAG1200: Address:  841749  Function: 2  Alpha:   <DC1>3
-POCSAG1200: Address: 1364012  Function: 0 
