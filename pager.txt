@@ -1,3 +1,33 @@
+POCSAG2400: Address:   11796  Function: 0  Alpha:   16:04-78 Boiler lock out ALERT<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603201121+++TIME=1603201121<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:03-92 4155<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603201121+++TIME=1603201121<NUL>
+POCSAG1200: Address: 2003573  Function: 0 
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<DC4>3L
+POCSAG1200: Address: 1773294  Function: 2 
+POCSAG1200: Address:  169181  Function: 0 
+POCSAG1200: Address:  295498  Function: 1  Alpha:   TC<NUL>GR
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:03-25 20/11/20
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   16:03-16 20/11/2021 16:02:10 INC 24695117 06D04 24 THE BRQMBLES, SQUIRES GATE ST ANNES, FY8 2SF Female 52Y COPD DIB GRD 330985 431617<NUL>
+POCSAG1200: Address: 1477917  Function: 0  Alpha:   <ESC><DLE>
+POCSAG1200: Address:  266852  Function: 1  Alpha:   f<SYN>
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  103210  Function: 2  Alpha:   b`
+POCSAG1200: Address: 1204440  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>3S
+POCSAG1200: Address:  111455  Function: 1  Alpha:   dn`g<DC2>
+POCSAG1200: Address:  549782  Function: 2  Alpha:   16:02-33 ~PLEASE CONTACT GC JOYCE - 07919496429<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:01-24 20/11?r021 16:00:51 INC 24695105 06E01 139 GORSEDALE ROAD, WALLASEY CH44, CH44 4AN Male 10M STRUG TO BREATHE,PALE PURPLE GRD 331117 390725<NUL>
+POCSAG1200: Address: 1679546  Function: 3 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:01-37 20O55/2021 16:00:51 INC 24695105 06E01 139 GORSE<FF>e<DC4>
+POCSAG2400: Address: 1404963  Function: 0 
+POCSAG2400: Address: 1058850  Function: 3 
+POCSAG2400: Address: 1715850  Function: 3 
+POCSAG2400: Address:  949473  Function: 2 
+POCSAG2400: Address: 1377506  Function: 2  Alpha:   7<GS>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-62 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1324565  Function: 2  Alpha:   15:59-04 INC ALERT No: 16803240 - DUP CALL - CALLER GOT THROUGH ON ANOTHER LINE SO CLEARED. DUP OF 16803232, AT: CUTHAYES FARM, LANE TO CUTHAYES FARM, AXMINSTER, EX13 5SE, Time of Call: 20/11/2021 15:53:00, Co-ords: 50.7859982 -2.9639465
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:59-91 2581<NUL>
 POCSAG2400: Address: 1913973  Function: 2  Alpha:   15:59-14 3181<NUL>
 POCSAG1200: Address:  420237  Function: 2  Alpha:   15:59-74 20/11/2021 
@@ -968,33 +998,3 @@ POCSAG1200: Address:  624388  Function: 1  Alpha:   d`
 POCSAG1200: Address: 1076243  Function: 3 
 POCSAG1200: Address: 1345581  Function: 3 
 POCSAG1200: Address: 2045260  Function: 0  Alpha:   <STX><GS>
-POCSAG1200: Address:  749806  Function: 2  Alpha:   'Y@$<ETX><DC3><GS><CR><US>%<HT>A&)A<DLE><VT><EM><VT><GS>'Y@.<ETX>cb@p<STX><CR>A<FF>K[CYKAh`2A$)<BEL>A<ACK><ETX>%A<DLE><DC3>)A$<US>+<GS><HT><VT>%<ENQ><US>+)A<SO>%<HT>Afhnlrn@frrrpp<NUL>
-POCSAG1200: Address:   76749  Function: 2  Alpha:   al
-POCSAG2400: Address:  858416  Function: 2 
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   12:43-16 46<RS>5 
-POCSAG1200: Address:   28883  Function: 3  Alpha:   12:43-44 PLS CALL VICKY - 07854 549 724
-POCSAG1200: Address:  959082  Function: 1 
-POCSAG2400: Address: 1913649  Function: 2  Alpha:   12:42-30 2561<NUL>
-POCSAG1200: Address:  346010  Function: 0  Alpha:   12:41-93 20/11/2021 12:39:52 IN
-POCSAG2400: Address: 2091644  Function: 0 
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   12:41-65 41q4<EOT>
-POCSAG2400: Address:  926245  Function: 0 
-POCSAG2400: Address: 1913953  Function: 2  Alpha:   12:41-07 5002<NUL>
-POCSAG1200: Address:  212165  Function: 2  Alpha:   <ACK>/
-POCSAG1200: Address: 2028152  Function: 1 
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   12:37-71 61334
-POCSAG1200: Address: 1218344  Function: 1 
-POCSAG1200: Address: 1585191  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1335495  Function: 1 
-POCSAG1200: Address: 2040646  Function: 0 
-POCSAG1200: Address: 1737349  Function: 0  Alpha:   PP
-POCSAG1200: Address:  160741  Function: 3 
-POCSAG1200: Address: 1387796  Function: 1  Alpha:   <BS>T
-POCSAG1200: Address:   41512  Function: 2  Alpha:   12:36-11 88649
-POCSAG2400: Address: 1747067  Function: 0 
-POCSAG2400: Address: 1008316  Function: 2  Alpha:   12:35-96 NHSBT - DONOR REFERRAL. Please call ALAN REES on Direct Dial Number 01437773337 Hospital WITHYBUSH  Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1322865  Function: 2  Alpha:   12:35-20 NHSBT - DONOR REFERRAL. Please call ALAN REES on Direct Dial Number 01437773337 Hospital WITHYBUSH  Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1322866  Function: 2  Alpha:   12:35-05 NHSBT - DONOR REFERRAL. Please call ALAN REES on Direct Dial Number 01437773337 Hospital WITHYBUSH  Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1972663  Function: 3 
-POCSAG2400: Address: 1850726  Function: 3 
-POCSAG2400: Address: 1089406  Function: 1 
