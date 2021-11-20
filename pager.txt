@@ -1,3 +1,21 @@
+POCSAG2400: Address:   28895  Function: 0  Alpha:   10:43-30 2183<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   10:43-57 4157<NUL>
+POCSAG1200: Address: 1544821  Function: 2 
+POCSAG2400: Address: 1141209  Function: 3 
+POCSAG2400: Address:  365400  Function: 1  Alpha:   rf
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   10:42-67 61334
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1516612  Function: 0 
+POCSAG1200: Address: 2076816  Function: 3  Alpha:   A<STX>)A.<DC1><DC3>!!'A<ACK>%<US>''A<DLE><US>'!A<STX>)Ab`\ff<STX><ESC><SOH><NUL>
+POCSAG2400: Address: 1823573  Function: 3  Alpha:   6p
+POCSAG1200: Address:  212275  Function: 2  Alpha:   T.
+POCSAG1200: Address:  312672  Function: 0  Alpha:   10:40
+POCSAG2400: Address: 1324614  Function: 2  Alpha:   10:40-32 PLS CALL - 01242 634 144<NUL>
+POCSAG1200: Address:  672784  Function: 3  Alpha:   L-
+POCSAG1200: Address:  268055  Function: 2  Alpha:   M<ETX>
+POCSAG1200: Address:  344358  Function: 1 
+POCSAG1200: Address: 1705349  Function: 2  Alpha:    g
+POCSAG1200: Address: 1993471  Function: 0 
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   &L
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>*
 POCSAG2400: Address: 1485632  Function: 0 
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1067390  Function: 3
 POCSAG1200: Address:  631629  Function: 2 
 POCSAG1200: Address:  905989  Function: 2 
 POCSAG1200: Address: 1292044  Function: 2 
-POCSAG1200: Address: 1353327  Function: 0 
-POCSAG1200: Address:   88566  Function: 0  Alpha:   BB
-POCSAG1200: Address:   74349  Function: 1 
-POCSAG1200: Address:  301005  Function: 2 
-POCSAG1200: Address: 1520971  Function: 1  Alpha:   N<SUB><RS>J<DC2>
-POCSAG1200: Address: 1022689  Function: 0  Alpha:   06:12-76 01173421917
-POCSAG1200: Address: 1741685  Function: 1 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   06:10-88 3507<NUL>
-POCSAG1200: Address:  234377  Function: 2  Alpha:   06:09-01 20/11/2021 06:06:37 INC 24693114 26D01 NEAR TO JUNCTION, SOUTH PARK DRIVE, MARTON BLACKPOOL, FY3 9PX Male 17Y 17YOM LAYING IN SICK GRD 332598 435046
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0608201121+++TIME=0608201121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0608201121+++TIME=0608201121<NUL>
-POCSAG2400: Address:  585013  Function: 2  Alpha:   06:08-49 PIN 11491 PLEASE CALL DSCC ON 03457 500 620 DUTY CASE
-POCSAG1200: Address: 1534190  Function: 2  Alpha:   06:05-83 (2/2)    F4.P Fire Domestic Persons Reported Map ref  448573.02,122125.99 <NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0603201121+++TIME=0603201121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603201121+++TIME=0603201121<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  103260  Function: 1  Alpha:   nl
-POCSAG1200: Address:  210523  Function: 3 
