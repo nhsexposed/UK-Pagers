@@ -1,3 +1,17 @@
+POCSAG1200: Address: 1476336  Function: 0 
+POCSAG1200: Address: 2021940  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1940010  Function: 2  Alpha:   14:42-95 6595<NUL>
+POCSAG1200: Address:  436100  Function: 2  Alpha:   14:42-86 6595<NUL>
+POCSAG1200: Address:  358291  Function: 2  Alpha:   14:42-91 6595<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1001123  Function: 2  Alpha:   14:41-38 NGH-14:40 Adult Cardiac Arrest A/E Resus<NUL><NUL>
+POCSAG1200: Address: 1001125  Function: 2  Alpha:   14:41-00 NGH-14:40 Adult Cardiac Arrest A/E Resus<NUL><NUL>
+POCSAG1200: Address: 1001131  Function: 2  Alpha:   14:41-01 NG
+POCSAG1200: Address: 1001132  Function: 2  Alpha:   14:41-06 NGH-14:40 Adult Cardiac Arrest A/E Resus<NUL><NUL>
+POCSAG1200: Address: 1312439  Function: 2  Alpha:   14:41-12 NGH-14:40 Adult Cardiac Arrest A/E Resus<NUL><NUL>
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   14:41-87 NGH-14:40 Adult Cardiac Arrest A/E Resus<NUL><NUL>
+POCSAG2400: Address:  434738  Function: 0 
 POCSAG2400: Address: 1846688  Function: 2 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   14:39-84 4140<NUL>
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   14:39-37 2018<NUL>
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1322897  Function: 2  Alpha:   11:22-47 NHSBT - DONOR REFER
 POCSAG2400: Address:  235061  Function: 1 
 POCSAG1200: Address:  688743  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   11
-POCSAG1200: Address: 1604762  Function: 0 
-POCSAG1200: Address:  690438  Function: 2 
-POCSAG1200: Address:  330509  Function: 1 
-POCSAG1200: Address:  284621  Function: 0 
-POCSAG1200: Address:  297380  Function: 1 
-POCSAG1200: Address:   66890  Function: 0  Alpha:   IN
-POCSAG1200: Address:  404586  Function: 1 
-POCSAG1200: Address:  152593  Function: 2 
-POCSAG1200: Address:  963187  Function: 0 
-POCSAG2400: Address: 1323991  Function: 2  Alpha:   11:20-54 4163<NUL>
-POCSAG1200: Address:  510544  Function: 1 
-POCSAG1200: Address:  987215  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1094239  Function: 3 
