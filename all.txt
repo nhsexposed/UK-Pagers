@@ -29047,3 +29047,11 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   02:52-27 20/11/2021 02:51:03
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0253201121+++TIME=0253201121<NUL>
 POCSAG1200: Address: 2008683  Function: 0  Alpha:   ?Y
 POCSAG1200: Address:   49263  Function: 2  Alpha:   02:58-27 MEDICAL EMERGENCY TO AMU BED 37 UHND
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   03:00-97 PLS CALL A/E X32410
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1684707  Function: 3 
+POCSAG1200: Address:  907828  Function: 3 
+POCSAG1200: Address:  331292  Function: 1  Alpha:   \"
+POCSAG1200: Address:  842161  Function: 3  Alpha:   ,<CR>H,<SO>
+POCSAG1200: Address: 1218188  Function: 0 
