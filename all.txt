@@ -30711,3 +30711,16 @@ POCSAG1200: Address:  197492  Function: 2  Alpha:   B<BS><NUL>`L
 POCSAG1200: Address: 1364481  Function: 2 
 POCSAG1200: Address:   11771  Function: 0  Alpha:   11:53-07 TEST CALL REPLY TO 2002 OR 299
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1153201121+++TIME=1153201121<NUL>
+POCSAG1200: Address: 1422120  Function: 2  Alpha:   `p
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   11725  Function: 0  Alpha:   11:56-40 11:56-39 TEST PAGE 
+POCSAG1200: Address:  585617  Function: 2  Alpha:   11:57
+POCSAG1200: Address: 2045160  Function: 2 
+POCSAG1200: Address:  200800  Function: 2  Alpha:   11:57-14 20/11/2021 11:56:25 INC 24694204 06D02 10 HEATHFIELD ROAD, FLEETWOOD, FY7 7LY F
+POCSAG1200: Address:  696118  Function: 2  Alpha:   11:58-36`s#<DC4>$ 
+POCSAG1200: Address: 2026487  Function: 0  Alpha:   <DEL><DEL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1158201121+++TIME=1158201121<NUL>
+POCSAG2400: Address: 1322351  Function: 2  Alpha:   11:58-36 Please call PAH ext:7066<NUL>
+POCSAG1200: Address:  619100  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   11:59-07 Call or Calls waiting at Switchboard
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:59-32 Call 24694150 - Warning - Scene Unsafe. Contract Control for further advice.
