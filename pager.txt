@@ -1,3 +1,13 @@
+POCSAG1200: Address:  290101  Function: 3  Alpha:   <ACK><DLE>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1948201121+++TIME=1948201121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1948201121+++TIME=1948201121<NUL>
+POCSAG1200: Address: 1251592  Function: 2 
+POCSAG1200: Address:  926224  Function: 1 
+POCSAG1200: Address: 1321864  Function: 2  Alpha:   19:47-05 20/11/2021 19:43:56 INC F`<RS><ETB>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2024047  Function: 0 
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   19:45-18 64854
+POCSAG1200: Address: 1571968  Function: 3  Alpha:   <GS>=l<ENQ><EOT><SO>}m]<FF>4<FS>LM<CR>$^<FS>^^<N^L<FF>$\l|-^<FF>d<RS>=<RS>M<SO><NUL>
 POCSAG1200: Address:  936982  Function: 2  Alpha:   [<ESC>
 POCSAG1200: Address: 1039414  Function: 2 
 POCSAG1200: Address:   82404  Function: 0  Alpha:   H Swidch
@@ -988,13 +998,3 @@ POCSAG2400: Address: 1512692  Function: 2
 POCSAG2400: Address:   99163  Function: 1  Alpha:   hl
 POCSAG2400: Address: 1837229  Function: 1 
 POCSAG2400: Address:  957364  Function: 2 
-POCSAG2400: Address: 1512692  Function: 2 
-POCSAG2400: Address:   99163  Function: 1  Alpha:   ld
-POCSAG2400: Address: 1323965  Function: 2  Alpha:   17:00-55 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1321087  Function: 2  Alpha:   17:00-39 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323933  Function: 2  Alpha:   17:00-61 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323902  Function: 2  Alpha:   17:00-47 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323915  Function: 2  Alpha:   17:00-05 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323980  Function: 2  Alpha:   17:00-12 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323971  Function: 2  Alpha:   17:00-16 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324057  Function: 2  Alpha:   17:00-62 Green: This is the daily pager test. Please take no further action.<NUL>
