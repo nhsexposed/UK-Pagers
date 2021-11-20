@@ -1,3 +1,31 @@
+POCSAG1200: Address: 2026487  Function: 0 
+POCSAG1200: Address:  577435  Function: 3 
+POCSAG1200: Address:  840514  Function: 0 
+POCSAG1200: Address:  865288  Function: 1 
+POCSAG1200: Address:  625055  Function: 2  Alpha:   O%h<EOT><ENQ>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0943201121+++TIME=0943201121<NUL>
+POCSAG2400: Address: 2073136  Function: 1 
+POCSAG2400: Address:   11678  Function: 0  Alpha:   09:42-98 Ian is responding<NUL><NUL>
+POCSAG1200: Address: 1159943  Function: 2  Alpha:   <DC2><GS>w3<HT>
+POCSAG1200: Address:  738910  Function: 1 
+POCSAG1200: Address:  433342  Function: 3 
+POCSAG1200: Address:  858133  Function: 0 
+POCSAG1200: Address:  363267  Function: 3  Alpha:   d`
+POCSAG1200: Address:  730803  Function: 2 
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   0N
+POCSAG2400: Address: 1322351  Function: 2  Alpha:   09:42-31 Please call theatre holding bay on ext 7314 urgent<NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   09:41-79 80300
+POCSAG2400: Address: 1323006  Function: 2  Alpha:   09:41-82 80300
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <ACK>(
+POCSAG2400: Address:   11678  Function: 0  Alpha:   09:40-97 PLS CALL - 02380 776 946<NUL>
+POCSAG1200: Address: 2026357  Function: 2 
+POCSAG2400: Address: 1008281  Function: 2  Alpha:   09:40-93 80300
+POCSAG2400: Address:  583511  Function: 2  Alpha:   09:40-25 80300
+POCSAG2400: Address:   28906  Function: 0  Alpha:   09:40-41 2427<NUL>
+POCSAG1200: Address: 1323354  Function: 2  Alpha:   09:39-78 TEST PAGE FOR NATIONAL RESILIENCE
+POCSAG2400: Address:  584087  Function: 2  Alpha:   09:39-73 80300
+POCSAG2400: Address: 1993328  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   09:39-97 Call or Calls waiting at Switchboard
 POCSAG1200: Address: 2075253  Function: 2 
 POCSAG2400: Address:  583507  Function: 2  Alpha:   09:38-46 80300
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0938201121+++TIME=0938201121<NUL>
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:07-25 4155<NUL>
 POCSAG1200: Address: 1765523  Function: 2  Alpha:   04:06-51 Stop Message received for In
 POCSAG2400: Address:   28896  Function: 0  Alpha:   04:05-76 5125<NUL>
 POCSAG1200: Address: 1999486  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403201121+++TIME=0403201121<NUL>
-POCSAG1200: Address: 1321700  Function: 2  Alpha:   04:01-05 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: WX17ZDY. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   04:00-89 2447<NUL>
-POCSAG1200: Address: 2008701  Function: 2 
-POCSAG1200: Address: 1746668  Function: 0 
-POCSAG1200: Address:  801397  Function: 0 
-POCSAG1200: Address:  678665  Function: 2  Alpha:   04:00-500k!se ref 11276206 Fill in tick sheet
-POCSAG1200: Address: 1726592  Function: 0  Alpha:   ,<DC1>
-POCSAG1200: Address: 1069861  Function: 1 
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   03:58-62 20/11/2021 03:55:33 INC 24692847 31E01 O/S AT BUS STOP OPPOSITE, PAPA JOHNS, 254 WILMSLOW ROAD, FALLOWFIELD MANCHESTER, M14 6LD Male 20Y LOOKS ASLEEP - VOMITING GRD 385563 394080<NUL>
-POCSAG1200: Address: 2028156  Function: 1 
-POCSAG1200: Address:  168673  Function: 3 
-POCSAG1200: Address:  231048  Function: 0 
-POCSAG1200: Address:  990375  Function: 2  Alpha:   O%(<SOH><EM>
-POCSAG1200: Address: 1258079  Function: 2 
-POCSAG1200: Address:  614606  Function: 0 
-POCSAG1200: Address: 1872134  Function: 2 
-POCSAG1200: Address:   44263  Function: 3  Alpha:   O%(4<ETX>9FH
-POCSAG1200: Address: 1165910  Function: 3  Alpha:   ")
-POCSAG1200: Address: 1846250  Function: 1 
-POCSAG1200: Address: 1839185  Function: 3 
-POCSAG1200: Address: 1182601  Function: 1  Alpha:   <DC4><DC1>Hlm
-POCSAG1200: Address: 1762037  Function: 1 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   03:52-36 20/11/2021 03:50:50 INC 24692831 26D01 9 LE GENDRE STREET, TONGE MOOR BOLTON, BL2 2NS Female 29Y F - BEEN SICK GRD 372968 410494
-POCSAG1200: Address: 1911808  Function: 2  Alpha:   W<ETX><CR>?7C3<ETB>S<ETB>;<HT><STX>5(4(<NUL>5(4(P<ACK>/<ETB><ETX><ENQ><ETX>MVK[<ETB>g7( SSCOk==<DC1>/KG9MO'OWK[<ETB>gO;<CR>?7?AK?+<ETB><SI>SO?MS<BEL>KS<DEL>AO'<DC3>wQ<DC3>WaYgg<SI><DC3>FR%7e'RW<DEL>f!g<SOH><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=034820
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:47-03 2664<NUL>
-POCSAG1200: Address: 2014832  Function: 3 
