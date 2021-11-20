@@ -1,3 +1,22 @@
+POCSAG2400: Address: 2073844  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2308201121+++TIME=23082011<SYN>3<CR>
+POCSAG1200: Address: 1876592  Function: 1 
+POCSAG1200: Address: 2057344  Function: 0 
+POCSAG1200: Address: 1001128  Function: 2  Alpha:   23:08-04 NGH - Cardiac Arrest Labour Ward Room 14 at 2301hrs
+POCSAG1200: Address: 1001131  Function: 2  Alpha:   23:08-06 NGH - Cardiac Arrest Labour Ward Room 14 at 2301hrs
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   23:08-92 NGH - Cardiac Arrest Labour Ward Room 14 at 2301hrs
+POCSAG1200: Address: 1499988  Function: 2 
+POCSAG1200: Address: 1765506  Function: 2  Alpha:   23:07-05 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address:  149169  Function: 2  Alpha:   23:07-98 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address: 1487760  Function: 2  Alpha:   23:07-81 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address: 1001165  Function: 2  Alpha:   23:07-34 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address:  618712  Function: 2  Alpha:   23:07-46 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   23:06-66 PROBLEM: Disk: I is CRITICAL on host whehoulbob01oni, <CR><LF>PROBLEM: Disk: I is CRITICAL on host whehoulbob01oni<CR><LF>Service: Disk: I<CR><LF>Host: whehoulbob01oni<CR><LF>Alias: <CR><LF>Address: 10.32.73.38<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > <NUL><NUL>
+POCSAG1200: Address: 1535868  Function: 1  Alpha:   y)Z<BS>$X*jIY<CAN>K<ENQ>$(<CAN>&<ACK>d&<CAN><VT>T<EM>L]<FF>d<ACK><SYN><VT>Dyy<LF>$<BS>J<ENQ>DZX<HT>J<ENQ>Dy98YH<BS><EOT><EM>Y9ZHi<BS><DC4>i<HT>$zyY<HT>t(J<BS>4<ACK><ETB>v<ACK>'<ACK>D66<SYN><SYN>w
+POCSAG1200: Address:   41432  Function: 2  Alpha:   23:05-94 20/11/2021 23:03:35
+POCSAG1200: Address: 1700741  Function: 2  Alpha:   e""<CAN>4
+POCSAG1200: Address:  682004  Function: 0 
 POCSAG2400: Address:   28896  Function: 0  Alpha:   23:03-86 2188<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2303201121+++TIME=2303201121<NUL>
 POCSAG2400: Address:  197833  Function: 0 
@@ -979,22 +998,3 @@ POCSAG2400: Address:  380496  Function: 1
 POCSAG2400: Address:  595120  Function: 3 
 POCSAG2400: Address: 1126991  Function: 2  Alpha:   O%
 POCSAG2400: Address:  841765  Function: 3 
-POCSAG2400: Address: 2062788  Function: 1  Alpha:   'S
-POCSAG2400: Address:  150348  Function: 2 
-POCSAG2400: Address:  675355  Function: 0  Alpha:   <LF>d
-POCSAG2400: Address:  180641  Function: 0  Alpha:   DI
-POCSAG2400: Address: 1295966  Function: 2 
-POCSAG2400: Address:  856156  Function: 3  Alpha:   v<ACK><STX>L<SYN>
-POCSAG1200: Address:  360216  Function: 2  Alpha:   19:53-28 33954
-POCSAG2400: Address:   28907  Function: 0  Alpha:   19:53-42 4310<NUL>
-POCSAG1200: Address: 1849202  Function: 1  Alpha:   <BEL>"
-POCSAG1200: Address:  548149  Function: 2  Alpha:   19:52-02 Please call 7343<DC3><CAN>P
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   19:52-11 4954<NUL>
-POCSAG1200: Address: 1551474  Function: 2  Alpha:   19:52-86 PLEASE CALL 41524<NUL><NUL>
-POCSAG1200: Address: 2076212  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  901529  Function: 1 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   19:51-41 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address:   22104  Function: 2  Alpha:   19:51-18 20/11/2021 19:46:06 INC 24696004 23C07A 2 KELSO PLACE, HULME MANCHESTER, M15 4GQ Female 28Y Q SPIKED - NOT WELL GRD 382638 397380<NUL><NUL>
-POCSAG1200: Address:  278727  Function: 0  Alpha:   B<DC2>{<DC2>K<STX><DC2>/6<ACK><STX>"#C3<DC3>3s*3c<LF><VT>K+K<ETX>s*<DC3><ETX>
