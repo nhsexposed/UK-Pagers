@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1807333  Function: 3  Alpha:   #<DLE>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   04:46-41 PLEASE CALL MICHAEL ON 01865 235 112 TRANSPLANT WARD CHURCHILL NOT ABLE TO OPEN THE POWER CHART 
+POCSAG1200: Address: 2007856  Function: 1 
+POCSAG1200: Address: 1777791  Function: 0 
+POCSAG1200: Address: 1975297  Function: 0  Alpha:   J<SYN><ACK>R"<STX><GS>J<DC2><STX>MUAa]]<SOH>QeEEea<SOH><NUL>
+POCSAG1200: Address:  722199  Function: 3  Alpha:    iei$b"Pk f%<SYN>Pkb)*<DLE>b")a,<DLE>f<CAN><EM><SYN><DLE>f<CAN><EM>PZ"*Pf0v2<DLE><ESC>[,<DLE>c &f"'<DLE>bg+g)j`$i)P#)"PYY<FS>ZZ<FS>PY\Y[<ESC><EM>
 POCSAG2400: Address: 1323655  Function: 2  Alpha:   04:44-80 38001
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443201121+++TIME=0443201121<NUL>
 POCSAG2400: Address:  424816  Function: 1  Alpha:   B4
@@ -992,9 +998,3 @@ POCSAG2400: Address:  843061  Function: 2
 POCSAG2400: Address: 1821635  Function: 3  Alpha:   e: Nedsc
 POCSAG2400: Address: 1259609  Function: 2 
 POCSAG2400: Address: 2041931  Function: 2 
-POCSAG2400: Address:  656034  Function: 3 
-POCSAG2400: Address:  216264  Function: 2  Alpha:   00:04-58 PROBLEM: Netscaler vServer: internal-dns-coopen.private is CRITICAL on host COOPENLCNS01MC14<DLE>
-POCSAG1200: Address:  549802  Function: 2  Alpha:   00:03-92 ~PLEASE CONTACT 
-POCSAG1200: Address: 1684707  Function: 3 
-POCSAG1200: Address:  697539  Function: 2 
-POCSAG2400: Address:  222901  Function: 2 
