@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   08:59-67 4172<NUL>
+POCSAG1200: Address: 1700829  Function: 3  Alpha:   V2
+POCSAG1200: Address: 1039074  Function: 3  Alpha:   V2
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0858201121+++TIME=0858201121<NUL>
+POCSAG1200: Address:  549849  Function: 2  Alpha:   08:58-11 ~PLEASE CONTACT CONTROLS<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   08:58-40 4954<NUL>
+POCSAG1200: Address: 1052862  Function: 2  Alpha:   08:57-36 2268386<NUL>
+POCSAG1200: Address:  957961  Function: 2  Alpha:   p<DC2>
+POCSAG1200: Address: 1353761  Function: 0 
+POCSAG1200: Address: 1319054  Function: 2  Alpha:   08:56-96 FA
+POCSAG1200: Address: 2007661  Function: 3 
+POCSAG1200: Address:  326441  Function: 2  Alpha:   08:56-95 PLS CALL 3622 <NUL><NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   08:54-74 4297<NUL>
 POCSAG2400: Address: 1323593  Function: 2  Alpha:   08:54-89 please call switchboard,call waiting
 POCSAG2400: Address: 2043246  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0853201121+++TIME=0853201121<NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address:  619125  Function: 0
 POCSAG1200: Address: 1039242  Function: 0 
 POCSAG512: Address: 2045160  Function: 2  Alpha:   fhjlnpr`
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
-POCSAG2400: Address:  149253  Function: 2  Alpha:   02:12-50 03003000044
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:12-85 03003000044
-POCSAG1200: Address: 1313126  Function: 2  Alpha:   02:12-35 03003000044
-POCSAG1200: Address: 2074229  Function: 2 
-POCSAG1200: Address: 1483265  Function: 2  Alpha:   02:09-07 Alarm#31968 02:09 Error=1 Late=0, <CR><LF>FTPSpooler-Requests [Error]<CR><LF>----------------<CR><LF>FTPSpooler-Requests: Failed to load dynamic request<NUL><NUL>
-POCSAG1200: Address: 1718901  Function: 1 
-POCSAG1200: Address: 1488072  Function: 2  Alpha:   <STX><VT><VT>;<ESC>#<DC3><VT>K<VT>3
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208201121+++TIME=0208201121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   02:04-92 20/11/2021 02:02:56 INC 24692522 26C02 7B MAPLE CLOSE, SEAFORTH L21, L21 4PD Male 47Y SWOLLEN LEGS - DVT HISTORY GRD 333240 396668<NUL>
-POCSAG1200: Address:   44291  Function: 0  Alpha:   <ACK><US>-<VT><GS>
-POCSAG1200: Address: 1507882  Function: 2 
-POCSAG1200: Address:  366361  Function: 2  Alpha:   [<
