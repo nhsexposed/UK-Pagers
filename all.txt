@@ -29124,3 +29124,22 @@ POCSAG1200: Address: 1999486  Function: 2
 POCSAG1200: Address:  559039  Function: 0  Alpha:   (3<CAN>;<EM><BS>N,<SYN><BS>5Q43R3<DLE><DC3><BS>3Us<DC1>h0Ps0Q<DC4>h0P<DC3><NAK>HP41<DLE><NAK>2<DC1>hQ<DC4><DC1>hl<CR>.-n<CR><BS><CR>,Lm<CR><SO><NUL>
 POCSAG1200: Address: 1925683  Function: 2  Alpha:   03:28-07 20/11/2021 03:26:27 INC 24692782 24D05 10 ALSTON STREET, RIBBLETON PRESTON, PR1 5RR Female 33Y PREGNANT GRD 355530 430270<NUL>
 POCSAG1200: Address: 1958526  Function: 0 
+POCSAG1200: Address: 1245771  Function: 3 
+POCSAG1200: Address: 1280132  Function: 2  Alpha:   f@
+POCSAG1200: Address: 1027237  Function: 2  Alpha:   <STX>"
+POCSAG1200: Address:  361998  Function: 1  Alpha:   t<DC3>3R3<DC1>h<DC4>uY<EOT>
+POCSAG1200: Address: 1356904  Function: 1 
+POCSAG1200: Address:  611136  Function: 0 
+POCSAG1200: Address:  674385  Function: 0  Alpha:   <EM>X
+POCSAG1200: Address:  176898  Function: 3 
+POCSAG1200: Address: 1892626  Function: 1  Alpha:   ES
+POCSAG1200: Address: 1714507  Function: 3 
+POCSAG1200: Address: 1059620  Function: 3 
+POCSAG1200: Address: 1617956  Function: 3  Alpha:   <SYN>h
+POCSAG1200: Address:  176909  Function: 3 
+POCSAG1200: Address: 1843369  Function: 0 
+POCSAG2400: Address:  584009  Function: 2  Alpha:   03:32-21 3119<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333201121+++TIME=0333201121<NUL>
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   03:34-85 CARDIAC ARREST TEAM TO WARD 3A WEST BED 19 SBH<NUL><NUL>
+POCSAG1200: Address: 1001131  Function: 2  Alpha:   03:34-99 CARDIAC ARREST TEAM TO WARD 3A WEST BED 19 SBH<NUL><NUL>
