@@ -1,3 +1,12 @@
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   05:33-31 20/11/2021 05:32:30 INC 2
+POCSAG1200: Address:   69967  Function: 1  Alpha:   IVeg<DC2>
+POCSAG1200: Address:   76326  Function: 2 
+POCSAG1200: Address:  721419  Function: 3 
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1676072  Function: 3  Alpha:   dj
+POCSAG1200: Address: 1981042  Function: 2 
+POCSAG1200: Address:  455281  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  500329  Function: 0 
 POCSAG2400: Address:  893491  Function: 0 
 POCSAG2400: Address: 1441906  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address:  825136  Function: 1  Alpha:   L$N<EOT>R<CR>+k
 POCSAG1200: Address: 1757361  Function: 3  Alpha:   UE<VT> b
 POCSAG1200: Address:  722032  Function: 1  Alpha:   <DC2>H
 POCSAG1200: Address:  667744  Function: 1 
-POCSAG1200: Address: 1328119  Function: 1  Alpha:   @<RS><STX>>M
-POCSAG1200: Address:   67566  Function: 0 
-POCSAG1200: Address:  433588  Function: 1 
-POCSAG1200: Address:  602480  Function: 3  Alpha:   <SYN>g
-POCSAG1200: Address:  761185  Function: 1 
-POCSAG1200: Address:  628531  Function: 0  Alpha:   ` 
-POCSAG1200: Address:  208622  Function: 0 
-POCSAG1200: Address:  394469  Function: 0 
-POCSAG1200: Address:  428347  Function: 2  Alpha:   00:13-60 20/11/2021 00:12:00 INC 24692099 09E02 O/S, 1 PARK AVENUE, RAINHILL L35,@

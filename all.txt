@@ -29336,3 +29336,12 @@ POCSAG2400: Address: 1323041  Function: 2  Alpha:   05:20-68 Call 8013<NUL><NUL>
 POCSAG2400: Address: 1441906  Function: 0 
 POCSAG2400: Address:  893491  Function: 0 
 POCSAG1200: Address:  500329  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  455281  Function: 0 
+POCSAG1200: Address: 1981042  Function: 2 
+POCSAG1200: Address: 1676072  Function: 3  Alpha:   dj
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address:  721419  Function: 3 
+POCSAG1200: Address:   76326  Function: 2 
+POCSAG1200: Address:   69967  Function: 1  Alpha:   IVeg<DC2>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   05:33-31 20/11/2021 05:32:30 INC 2
