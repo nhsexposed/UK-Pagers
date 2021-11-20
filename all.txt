@@ -33142,3 +33142,36 @@ POCSAG2400: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL><DL
 POCSAG2400: Address: 1320204  Function: 2  Alpha:   18:38-60 4660<NUL>
 POCSAG2400: Address: 1322518  Function: 2  Alpha:   18:38-63 Test<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1838201121+++TIME=1838201121<NUL>
+POCSAG2400: Address: 1222632  Function: 0 
+POCSAG1200: Address: 1312591  Function: 2  Alpha:   18:40-50 NOTIFY - DATE: 20.11.21    TIME: 18:39 WT AV IMMEDIATE - 11 WT AV RECALL (TRAINING) - 0 ON-CALL - 5 MAX 3 MIN 
+POCSAG1200: Address: 1880465  Function: 2  Alpha:   CALL - 5 MAX 3 MIN <NUL>
+POCSAG1200: Address: 1049284  Function: 0  Alpha:   <BS><FF>hS3k0<DLE><DC3><DC3>(<VT>(<CR>(3<DLE><SYN>h<FF>(3R<DC3><BS>
+POCSAG1200: Address: 2009850  Function: 2 
+POCSAG1200: Address: 1032620  Function: 3  Alpha:   <DLE>D
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1367706  Function: 1 
+POCSAG1200: Address:  419658  Function: 1 
+POCSAG1200: Address:  312672  Function: 0  Alpha:   18:43-28 Call 24695696 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  940678  Function: 2  Alpha:   18:43-00 Call 24695696 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1405454  Function: 1  Alpha:   a'k$"`3<HT>j<DLE>3
+POCSAG1200: Address:  792352  Function: 1 
+POCSAG1200: Address: 1099711  Function: 1  Alpha:   <CAN><FS>]g<DC2>
+POCSAG1200: Address:  373592  Function: 1  Alpha:   lp
+POCSAG1200: Address:  549771  Function: 2  Alpha:   18:43-22 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
+POCSAG1200: Address:  418168  Function: 0 
+POCSAG1200: Address:  549854  Function: 2  Alpha:   18:43-40 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
+POCSAG1200: Address:  549855  Function: 2 
+POCSAG1200: Address: 1155119  Function: 2  Alpha:   hfZlr@|'ib@Z@&)<GS>A<ACK><US>-<DC3><HT>A<ACK><EM><VT><ETX><GS>A<FS><US>/A<ACK><US><ESC>!<EM><VT>)<VT>AZ@<FF><US>%A<DC2><GS><CR><US><SOH><NUL>
+POCSAG1200: Address:  549857  Function: 2  Alpha:   18:43-36 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
+POCSAG1200: Address:  549858  Function: 2  Alpha:   18:43-32 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
+POCSAG1200: Address:  549859  Function: 2  Alpha:   18:43-13 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
+POCSAG1200: Address: 2061560  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843201121+++TIME=1843201121<NUL>
+POCSAG1200: Address:  363353  Function: 0  Alpha:   jd
+POCSAG1200: Address: 1137210  Function: 1 
+POCSAG1200: Address: 1353770  Function: 0  Alpha:   Y8:<SUB>xX<BS>d zY
+POCSAG1200: Address: 1071229  Function: 2 
+POCSAG1200: Address:  758445  Function: 0 
+POCSAG1200: Address:  716105  Function: 0 
+POCSAG2400: Address: 2000625  Function: 1 
+POCSAG2400: Address:   11699  Function: 0  Alpha:   18:44-37 FIRE CALL<NUL><NUL>
