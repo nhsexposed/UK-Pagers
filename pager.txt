@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:44-05 3106<NUL>
+POCSAG2400: Address: 1022280  Function: 0  Alpha:   23:43-19 NHSBT - DONOR REFERRAL. Please call PAUL CROS-V!on Direct Dial Number 01737 768511 EXT 2745 OR BLEEP 830 Hospital EAST SURREY Dept ITU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address:  747187  Function: 3 
+POCSAG2400: Address: 1098514  Function: 2  Alpha:   lL
+POCSAG2400: Address:  997411  Function: 0  Alpha:   xm}-<SO>
+POCSAG2400: Address: 1848546  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2343201121+++TIME=2343201121<NUL>
+POCSAG2400: Address: 1925441  Function: 2 
+POCSAG2400: Address:  211693  Function: 3 
+POCSAG2400: Address:  396525  Function: 2 
+POCSAG2400: Address:  964628  Function: 2 
+POCSAG2400: Address: 2006652  Function: 1 
+POCSAG2400: Address:  602731  Function: 2 
+POCSAG2400: Address: 1593601  Function: 3 
+POCSAG2400: Address:  275560  Function: 0  Alpha:   9<CAN>
+POCSAG2400: Address:  741936  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1322052  Function: 2  Alpha:   23:42-99 4906<NUL>
+POCSAG2400: Address:  426736  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1663608  Function: 1 
+POCSAG1200: Address: 2010867  Function: 3 
+POCSAG1200: Address:  367221  Function: 1 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:40-04 3164<NUL>
 POCSAG1200: Address: 1089335  Function: 3 
 POCSAG1200: Address: 1974854  Function: 1 
 POCSAG1200: Address:  628771  Function: 2 
@@ -974,27 +998,3 @@ POCSAG1200: Address: 1315491  Function: 3
 POCSAG1200: Address: 1648706  Function: 0 
 POCSAG1200: Address:  288946  Function: 0 
 POCSAG1200: Address: 1953025  Function: 3 
-POCSAG1200: Address:  921689  Function: 2 
-POCSAG1200: Address: 1223529  Function: 2 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CACL
-POCSAG2400: Address:   28899  Function: 0  Alpha:   20:14-16 4935<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2013201121+++TIME=2013201121<NUL>
-POCSAG1200: Address: 1223527  Function: 1  Alpha:   g<DC2>
-POCSAG1200: Address:  419583  Function: 2 
-POCSAG1200: Address:  725259  Function: 2 
-POCSAG1200: Address:  918554  Function: 0 
-POCSAG1200: Address: 1684705  Function: 3  Alpha:   <SYN><ACK>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   20:12-94 20/11/202<FF><BS><GS>l
-POCSAG1200: Address: 1503122  Function: 3  Alpha:   <HT>D<EM>hYH<ENQ>4xIJzi<HT>THXYjI8J<ENQ>4<BS>9<ACK>t<ACK>*<VT>dX\<GS>L]<FF>4F<SYN><VT>T<HT><HT>T<ENQ>dyI<LF>dXXH<EM>iy<BS><DC4>8H<SUB>iZH<EM><VT>4Z<SUB>9<CAN>I<CAN>H<HT>t(J<BS>4FfFF<SYN><ACK>4ff<SYN><ACK>'<ACK><NUL><NUL>
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   20:12-11 20/11/2021 20:09:17 INC 24696105 25A01 COTTON HALL FARM, CO
-POCSAG2400: Address:   28899  Function: 0  Alpha:   20:12-15 4114<NUL>
-POCSAG1200: Address: 1599209  Function: 2 
-POCSAG1200: Address:   91776  Function: 1  Alpha:   G 
-POCSAG1200: Address: 1551474  Function: 2  Alpha:   20:11-87 2ND REQUEST PLEASE CALL  48792
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   20:11-83 20/11/2021 20:07:53 INC 24696099 04D02A INSID
-POCSAG1200: Address:  834812  Function: 2  Alpha:   ,<EOT>2L<D$<ENQ>zt<|Lt<<EOT>j<STX><SUB>-4-<DC4><CR>d<EOT>JtT,<NAK>M,<FS><ENQ>:<DC4>%<EOT><SUB>C#<VT><DC3><ETX><ETX><SUB>KC;##<ETX><NUL>
-POCSAG1200: Address: 2091640  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   20:10-27 3508<NUL>
-POCSAG1200: Address: 1779392  Function: 2  Alpha:   5<DLE>s2Pp3<NAK><NAK><BS><NAK>2<DC1><BS>T4R<DC3>uuStr<DC4><VT>Hl<CR>h5<DC2><NAK>2<SYN>hQtS5<DC1><VT>h0<DC2>5<SYN>(3Ps<DLE>2q<DC4>5Q<DC4><VT>(<DC3><CR>HLp<DC4>(3<CAN>;<EM><BS><CR>,<SYN>(UspSst0r3u<DC4>(pt40<NAK><DC3><NAK>hQ<DC4><DC1>h<FF><SO>-LL<FF>h,<SO>n<CR><CR><CR><NUL><NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   20:10-81 20/11/2021 20:08:38 INC 24696103 04D02A O/S, 
-POCSAG1200: Address: 1254725  Function: 1 
