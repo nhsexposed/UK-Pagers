@@ -1,3 +1,9 @@
+POCSAG2400: Address: 2016118  Function: 0 
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:53-55 5082<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0453201121+++TIME=0453201121<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:53-26 4376<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   11678  Function: 0  Alpha:   04:50-92 PLEASE CALL 02380 770 929 SITE 445A HAVE A NEUTRON ALARM <NUL><NUL>
 POCSAG1200: Address: 1807333  Function: 3  Alpha:   #<DLE>
 POCSAG1200: Address:   42299  Function: 2  Alpha:   04:46-41 PLEASE CALL MICHAEL ON 01865 235 112 TRANSPLANT WARD CHURCHILL NOT ABLE TO OPEN THE POWER CHART 
 POCSAG1200: Address: 2007856  Function: 1 
@@ -992,9 +998,3 @@ POCSAG1200: Address:  334075  Function: 2  Alpha:   00:05-92 20/11/2021 00:02:30
 POCSAG2400: Address:  216263  Function: 2 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:05-70 3116<NUL>
 POCSAG2400: Address:  437273  Function: 2 
-POCSAG2400: Address:  994739  Function: 2 
-POCSAG2400: Address: 1781856  Function: 2 
-POCSAG2400: Address:  843061  Function: 2 
-POCSAG2400: Address: 1821635  Function: 3  Alpha:   e: Nedsc
-POCSAG2400: Address: 1259609  Function: 2 
-POCSAG2400: Address: 2041931  Function: 2 
