@@ -1,3 +1,35 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   00:59-23 2445<NUL>
+POCSAG2400: Address:  585013  Function: 2  Alpha:   00:58-46 PIN 11491 PLEASE CALL DSCC ON 03457 500 620 DUTY CASE <NUL><NUL>
+POCSAG1200: Address:  182868  Function: 0 
+POCSAG1200: Address:  366899  Function: 1 
+POCSAG1200: Address:  297379  Function: 1 
+POCSAG1200: Address:  136626  Function: 1 
+POCSAG1200: Address: 1713474  Function: 2 
+POCSAG1200: Address: 1147169  Function: 0 
+POCSAG1200: Address:  635047  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address: 1577318  Function: 1 
+POCSAG1200: Address:  296458  Function: 2  Alpha:   p<DC2>
+POCSAG1200: Address: 1602770  Function: 0 
+POCSAG1200: Address: 1912913  Function: 3 
+POCSAG1200: Address:  612480  Function: 0  Alpha:   <SUB>C
+POCSAG1200: Address:  459400  Function: 2 
+POCSAG1200: Address:  156471  Function: 3  Alpha:   O%
+POCSAG1200: Address:  379806  Function: 0  Alpha:   8J
+POCSAG1200: Address:   72092  Function: 0  Alpha:   TH
+POCSAG1200: Address:  382603  Function: 3  Alpha:   <DC4><NAK>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   00:58-64 20/11/2021 00:55:18 INC 24692272 26D01 BET FRED, 32 ST ANNES ROAD
+POCSAG1200: Address: 1745488  Function: 0 
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   00:58-53 4376<NUL>
+POCSAG2400: Address: 1070724  Function: 0 
+POCSAG2400: Address:  712971  Function: 1  Alpha:    O
+POCSAG2400: Address: 1812152  Function: 0 
+POCSAG2400: Address:  284248  Function: 3 
+POCSAG2400: Address:  791335  Function: 0  Alpha:   O%
+POCSAG2400: Address:  799479  Function: 2 
+POCSAG2400: Address: 1772046  Function: 1 
+POCSAG2400: Address:   43654  Function: 2 
+POCSAG2400: Address:  775005  Function: 3 
+POCSAG1200: Address:  895108  Function: 2  Alpha:   b@
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0053201121+++TIME=0053201121<NUL>
 POCSAG1200: Address: 1250688  Function: 2 
 POCSAG1200: Address: 2028155  Function: 1 
@@ -966,35 +998,3 @@ POCSAG2400: Address: 1841845  Function: 1
 POCSAG2400: Address: 1206476  Function: 1  Alpha:   <ETX>C
 POCSAG2400: Address: 2003715  Function: 2  Alpha:   db
 POCSAG2400: Address: 1323041  Function: 2  Alpha:   21:15-62 ip1 8013
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   21:15-06 4935<NUL>
-POCSAG1200: Address: 1870580  Function: 0 
-POCSAG1200: Address:  413064  Function: 2  Alpha:   21:15-81 plse call x4701<NUL>
-POCSAG1200: Address: 1259991  Function: 2  Alpha:   21:14-71 PLEASE CALL ON 07827 823 535 <NUL>
-POCSAG1200: Address: 1765358  Function: 2  Alpha:   21:14-05 Please ingnore previous message, sent in error<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2113191121+++TIME=2113191121<NUL>
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   21:13-62 19/11/2021 21:12:30 INC 24691328 10D02 24 FLAKEFLEET AVENUE, FLEETWOOD, FY7 7PH Male 65Y CHEST PAIN GRD 332451 446309<NUL><NUL>
-POCSAG1200: Address: 2025461  Function: 1 
-POCSAG1200: Address: 1032949  Function: 3  Alpha:   X@EaL
-POCSAG1200: Address: 1765358  Function: 2  Alpha:   21:12-04 Please call 734546, thank you<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   21:12-77 19/11/2021 21:10:38 INC 24691317 12C01 101A CHURCH STREET, LITTLEBOROUGH, OL15 8AA Male 56Y HAD A SEIZURE GRD 393552 416275<NUL><NUL>
-POCSAG1200: Address:  678610  Function: 2  Alpha:   21:12-07 PLEASE CALL HAIRMYRES HELP DESK <NUL>
-POCSAG1200: Address:  413039  Function: 2 
-POCSAG1200: Address:  858486  Function: 0 
-POCSAG1200: Address: 1937606  Function: 1 
-POCSAG512: Address: 1857752  Function: 2 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   21:12-05 2182<NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   21:09-08 19/11/2021 21:03:51 INC 24691282 12D02E OUTSIDE, AMINS CONVENIENCE STORE, 226 CHURCH STREET, BLACKPOOL, FY1 3PX Female 21Y FIT GRD 331327 436314<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2108191121+++TIME=2108191121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108191121+++TIME=2108191121<NUL>
-POCSAG1200: Address:  296197  Function: 3  Alpha:   <ESC>Y
-POCSAG2400: Address:   28905  Function: 0  Alpha:   21:08-79 4114<NUL>
-POCSAG1200: Address:  585254  Function: 2  Alpha:   21:06-86 01173421912
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   21:06-60 19/11/2021 21
-POCSAG1200: Address:  987049  Function: 2  Alpha:   21:06-91 19/11/2021 21:03:51 INC 24691282 12D02E OUTSIDE, AMINS CONVENIENCE STORE, 226 CHURCH STREET, BLACKPOOL, FY1 3PX Female 21Y FIT GRD 331327 436314<NUL>
-POCSAG1200: Address:  533732  Function: 3 
-POCSAG1200: Address: 1417987  Function: 2  Alpha:   <DC2><GS>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   21:06-80 19/11/2021 21:03:55 INC 24691284 17D03 ROOM 3 BEESTON SUITE, PECKFORTON CASTLE, STONE HOUSE LANE, PECKFORTON, CW6 9TN Female 34Y HAD A FALL GRD 353323 358084<NUL><NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   21:06-03 4660<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   21:05-48 4155<NUL>
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   21:05-61 ip1 6113
