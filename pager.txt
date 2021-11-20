@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1323655  Function: 2  Alpha:   04:44-80 38001
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443201121+++TIME=0443201121<NUL>
+POCSAG2400: Address:  424816  Function: 1  Alpha:   B4
+POCSAG2400: Address:  149253  Function: 2  Alpha:   04:43-53 PLEASE CALL LEE GALVIN ON 01304 239 840, THINKS HIS MUM HAS PASSED<NUL><NUL>
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   04:43-88 PLEASE CALL LEE GALVIN ON 01304 239 840, THINKS HIS MUM HAS PASSED<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1500226  Function: 0  Alpha:   MMeQUe<SOH>MeM]]I<SOH>
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  950832  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0438201121+++TIME=0438201121<NUL>
 POCSAG1200: Address:   41432  Function: 2  Alpha:   04:37-56 20/11/2021 04:33:45 INC 24692938 06D01 36 COULTATE STREET, BURNLEY, BB12 6RF Female 30Y CANT BREATHE PROPERLY BACK IS KILLING GRD 382296 432887<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  549802  Function: 2  Alpha:   00:03-92 ~PLEASE CONTACT
 POCSAG1200: Address: 1684707  Function: 3 
 POCSAG1200: Address:  697539  Function: 2 
 POCSAG2400: Address:  222901  Function: 2 
-POCSAG2400: Address:  396477  Function: 3 
-POCSAG2400: Address:  295510  Function: 0 
-POCSAG2400: Address: 1037572  Function: 0  Alpha:   blp``h`l@<FF>CYYgAZ@<SUB>[@&<EM><DC3>!!<VT><HT>A<RS>-<VT>%Y@<EOT><ETX><GS><SI>A(<US>A<DLE><VT><ETX><HT>Y@<EOT><EM><VT><VT><HT><DC3><GS><SI>Y@<STX>)u@hr@<DLE><VT>%<ETX><EM><HT>%3A.<ETX>3Y@<LF>1<VT>)<VT>%Y@<LF>1e@n"<SI>Y@(S[KA^MA<ACK>CYYu@br^bb^d`db@dftjhthbX@<ACK>_[^eIgu@j`\nbjhjfb@Zf\hnnpbh<NUL><NUL>
-POCSAG2400: Address: 1324560  Function: 2  Alpha:   00:02-87 INC ALERT N
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   00:01-87 3106<NUL>
-POCSAG2400: Address:   28897  Function: 0  Alpha:   00:01-93 5204<NUL>
-POCSAG1200: Address: 2028153  Function: 1 
-POCSAG1200: Address: 1289888  Function: 3 
-POCSAG1200: Address:  678665  Function: 2  Alpha:   00:00-46
