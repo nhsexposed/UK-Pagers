@@ -33375,3 +33375,40 @@ POCSAG2400: Address: 1324560  Function: 2  Alpha:   19:38-44 INC ALERT No: 16803
 POCSAG2400: Address:  353049  Function: 0  Alpha:   19:38-78 99
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1938201121+++TIME=1938201121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1938201121+++TIME=1938201121<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:40-45 5201<NUL>
+POCSAG1200: Address:  156449  Function: 2 
+POCSAG1200: Address: 1233153  Function: 3 
+POCSAG1200: Address: 1072274  Function: 1 
+POCSAG1200: Address: 1067370  Function: 1 
+POCSAG1200: Address:  941107  Function: 2 
+POCSAG1200: Address: 1476651  Function: 2 
+POCSAG1200: Address:  738604  Function: 0  Alpha:   5r<DLE><DC1>K1R4
+POCSAG1200: Address:  290101  Function: 3  Alpha:   <ACK><DLE>
+POCSAG1200: Address: 2062193  Function: 1  Alpha:   <ENQ><STX>]dL<FS>,<EOT>"<ENQ>%<FF>$-
+POCSAG1200: Address: 1070724  Function: 0 
+POCSAG1200: Address: 1251364  Function: 2  Alpha:   d,t<EOT>z$<EOT>*
+POCSAG1200: Address:  840134  Function: 1  Alpha:   TR
+POCSAG1200: Address: 1843383  Function: 1  Alpha:   O%(<BEL><US><US>)<VT>
+POCSAG1200: Address:  658129  Function: 1 
+POCSAG1200: Address:  168673  Function: 3 
+POCSAG1200: Address:   82290  Function: 1  Alpha:   D)
+POCSAG1200: Address: 1746243  Function: 0 
+POCSAG1200: Address: 1288038  Function: 3  Alpha:   <NUL><NUL> +X<ACK><SYN>'<DEL>Y<EOT>
+POCSAG1200: Address:  369496  Function: 1  Alpha:   nf
+POCSAG1200: Address: 2025456  Function: 1 
+POCSAG1200: Address:   77279  Function: 2  Alpha:   19:41-32 Whitby FIRE CALL
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  149135  Function: 2  Alpha:   19:41-21 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   19:42-39 107205<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:42-12 2304<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1260287  Function: 2  Alpha:   19:43-12 CHESTERVIEW TO CALL 20534 TRAUMA WARD NINA OTHMEN RE: PATIENT ASPERATED <NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   19:43-00 4163<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1943201121+++TIME=1943201121<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>VDL
+POCSAG1200: Address: 1069938  Function: 3  Alpha:   ,^<SI><ACK><SUB>
+POCSAG1200: Address:  210539  Function: 2 
+POCSAG1200: Address:   82404  Function: 0  Alpha:   H Swidch
+POCSAG1200: Address: 1039414  Function: 2 
+POCSAG1200: Address:  936982  Function: 2  Alpha:   [<ESC>
