@@ -31938,3 +31938,13 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG512: Address:  677760  Function: 0 
 POCSAG1200: Address:  227361  Function: 0  Alpha:   15:53-79 55767
 POCSAG2400: Address: 1320204  Function: 2  Alpha:   15:54-57 4180<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   15:55-43 4179<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:56-31 33813
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  585063  Function: 2  Alpha:   15:57-50 20/11/2021 15:55:55 INC 24695084 25D03 34 ESSEX ROAD, BIRKDALE SOUTHPORT PR8, PR8 4LZ Male 75Y CONFUSED GRD 333358 413929<NUL>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   15:57-32 107204<NUL><NUL>
+POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1558201121+++TIME=1558201121<NUL>
+POCSAG1200: Address:  420237  Function: 2  Alpha:   15:59-74 20/11/2021 
+POCSAG2400: Address: 1913973  Function: 2  Alpha:   15:59-14 3181<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:59-91 2581<NUL>
