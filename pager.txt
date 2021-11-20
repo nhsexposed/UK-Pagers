@@ -1,3 +1,24 @@
+POCSAG1200: Address:   64622  Function: 0  Alpha:   <ENQ> 
+POCSAG1200: Address: 2009220  Function: 2  Alpha:   21:48-98 6595<NUL>
+POCSAG1200: Address: 1940010  Function: 2  Alpha:   21:48-97 6595<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2148201121+++TIME=2148201121<NUL>
+POCSAG1200: Address:   16050  Function: 2  Alpha:   21:48-90 6595<NUL>
+POCSAG1200: Address: 2025462  Function: 1 
+POCSAG1200: Address: 1203587  Function: 1  Alpha:   "<STX><EM><SYN>7<BEL>3<ETB><ETX>]Ye<STX><EM><STX>!&<RS>"<STX><HT>B<STX><GS>J<DC2><STX>MQIaaA<SOH>Ma]YeQ<SOH><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   21:47-24 20/11/2021 21:45:01 INC 24696513 26A01 3 MADELEINE MCKENNA COURT, CAXTON CLOSE, UPTON WIDNES WA8, WA8 4DY Female 78Y UNABLE TO BE CATHETERISED,UTI GRD 349058 387313<NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   21:46-32 20/11/2021 21:44:49 INC 24696510 21D05M FLAT 1, 18 BOND STREET, BLACKPOOL, FY4 1BQ Male 18Y CANT SWALLOW THROWING UP BLOOD DIZZINESS GRD 330673 434055
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:46-99 4935<NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   21:46-53 Confirmed End of Shift Thank you<NUL>
+POCSAG1200: Address: 1313140  Function: 2  Alpha:   21:45-21 (2/3) Assigned: JY10P1; Roles    JY10P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Golf Facility;<NUL>
+POCSAG1200: Address: 1313140  Function: 2  Alpha:   21:45-21 (1/3)029890-20112021; A2.0.0.P ALARM - RETAIL / PUBLIC ASSEMBLY; DOWNSHIRE GOLF COURSE,DOWNSHIRE GOLF COURSE,WEST ROAD,WOKINGHAM,RG40 3DH; 484690,166629;
+POCSAG2400: Address: 1323655  Function: 2  Alpha:   21:44-81 435502<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2143201121+++TIME=2143201121<NUL>
+POCSAG1200: Address: 1428066  Function: 3 
+POCSAG1200: Address: 1263050  Function: 2 
+POCSAG1200: Address:  411729  Function: 2 
+POCSAG1200: Address:  345303  Function: 1 
+POCSAG1200: Address: 1757446  Function: 2 
+POCSAG1200: Address:  135942  Function: 3 
 POCSAG1200: Address: 1837493  Function: 1 
 POCSAG1200: Address: 1465468  Function: 2  Alpha:   <SYN>/
 POCSAG1200: Address: 1466771  Function: 2  Alpha:   GQ
@@ -977,24 +998,3 @@ POCSAG1200: Address:  483657  Function: 3
 POCSAG1200: Address: 1975935  Function: 2 
 POCSAG1200: Address:  842167  Function: 0 
 POCSAG1200: Address: 1584246  Function: 0 
-POCSAG1200: Address:  118229  Function: 1  Alpha:   Cg
-POCSAG1200: Address: 1502620  Function: 1  Alpha:   <ESC><SYN>
-POCSAG1200: Address:  202136  Function: 0  Alpha:   <CAN>N
-POCSAG1200: Address:  235547  Function: 2 
-POCSAG2400: Address:   11699  Function: 0  Alpha:   18:44-37 FIRE CALL<NUL><NUL>
-POCSAG2400: Address: 2000625  Function: 1 
-POCSAG1200: Address:  716105  Function: 0 
-POCSAG1200: Address:  758445  Function: 0 
-POCSAG1200: Address: 1071229  Function: 2 
-POCSAG1200: Address: 1353770  Function: 0  Alpha:   Y8:<SUB>xX<BS>d zY
-POCSAG1200: Address: 1137210  Function: 1 
-POCSAG1200: Address:  363353  Function: 0  Alpha:   jd
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843201121+++TIME=1843201121<NUL>
-POCSAG1200: Address: 2061560  Function: 2 
-POCSAG1200: Address:  549859  Function: 2  Alpha:   18:43-13 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
-POCSAG1200: Address:  549858  Function: 2  Alpha:   18:43-32 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
-POCSAG1200: Address:  549857  Function: 2  Alpha:   18:43-36 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
-POCSAG1200: Address: 1155119  Function: 2  Alpha:   hfZlr@|'ib@Z@&)<GS>A<ACK><US>-<DC3><HT>A<ACK><EM><VT><ETX><GS>A<FS><US>/A<ACK><US><ESC>!<EM><VT>)<VT>AZ@<FF><US>%A<DC2><GS><CR><US><SOH><NUL>
-POCSAG1200: Address:  549855  Function: 2 
-POCSAG1200: Address:  549854  Function: 2  Alpha:   18:43-40 ~S41 - STN COVID CLEAN NOW COMPLETE - FOR INFO<NUL><NUL>
-POCSAG1200: Address:  418168  Function: 0 
