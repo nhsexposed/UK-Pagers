@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   15:19-54 2581<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:19-39 4187<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   15:19-26 5013<NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   15:19-34 call 33460<NUL>
+POCSAG1200: Address: 1312586  Function: 2  Alpha:   15:18-77 (3/3) POL. POSSI<STX><EOT>M CARER ALSO IN PROPERTY.  POL EN ROUTE <NUL>
+POCSAG1200: Address: 1594913  Function: 2  Alpha:   15:18-14 Proceed to: 039631-20112021 DOMESTIC DWELLING FIRE  28 REGENCY DRIVE,OFF MADEIRA ROAD,WEST BYFLEET,KT14 6EN<NUL>
+POCSAG1200: Address:  930489  Function: 2  Alpha:   15:18-86 20/11/2021 15:15:23 INC 24694940 32D01 BUS STOP NEAR TO, 190-196 OLDHAM ROAD, MILES PLATTING MANCHESTER, M4 6BQ Male 35Y M - ON THE FLOOR GRD 385147 399001<NUL>
+POCSAG1200: Address: 1723628  Function: 3 
+POCSAG1200: Address:  874867  Function: 3 
+POCSAG1200: Address: 1716258  Function: 0 
+POCSAG1200: Address: 1204426  Function: 0 
+POCSAG1200: Address:  400736  Function: 3  Alpha:   [<ESC>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:18-52 3108<NUL>
+POCSAG1200: Address:  722459  Function: 3 
+POCSAG1200: Address:  267874  Function: 0  Alpha:   <SYN>f&<ACK><ACK>
+POCSAG1200: Address:  175455  Function: 1  Alpha:   O%(<SYN>H!<DLE><DC3>
+POCSAG1200: Address:  421535  Function: 1 
+POCSAG2400: Address:   11754  Function: 0  Alpha:   15:17-41 PLS CALL - 5929<NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   15:17-16 Clear From INC: 16803077 Acknowledged.<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#<DC1>(L
+POCSAG2400: Address: 1322351  Function: 2  Alpha:   15:16-45 Please call PAH ext:01279 973569 Winter Ward<NUL>
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   6$
+POCSAG1200: Address: 1594913  Function: 2  Alpha:   15:15-12 Proceed to: 039631-20112021 DOMESTIC DWELLING FIRE  20 REGENCY DRIVE,OFF MADEIRA ROAD,WEST BYFLEET,KT14 6EN<NUL>
+POCSAG1200: Address:  679608  Function: 2  Alpha:   15:15-82 62872
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   15:15-33 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address: 1450868  Function: 3 
 POCSAG2400: Address:  181423  Function: 3  Alpha:   O%
 POCSAG2400: Address: 1134902  Function: 0  Alpha:   <FS><ENQ>
 POCSAG2400: Address: 2042182  Function: 0 
@@ -972,29 +998,3 @@ POCSAG1200: Address:   41197  Function: 3
 POCSAG1200: Address: 2075376  Function: 1 
 POCSAG1200: Address: 2064933  Function: 0 
 POCSAG2400: Address:   28900  Function: 0  Alpha:   12:06-76 4144<NUL>
-POCSAG2400: Address: 1766257  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1324072  Function: 2  Alpha:   12:06-98 AMBER: SEL IUEC is in Front End Escalation DMP 4. For Info Only. Contact 02082536951/07557565895. SEL OPs Initials F.F.
-POCSAG2400: Address:  560534  Function: 0 
-POCSAG2400: Address: 2078566  Function: 1 
-POCSAG2400: Address: 1144396  Function: 2 
-POCSAG2400: Address: 1501514  Function: 1  Alpha:   Z[<SUB>[<SUB>\\<SUB><ETB>Pi"&P'h9P$w4zt0v9<DLE>#<ETB>#<ETB>
-POCSAG2400: Address: 1585504  Function: 0 
-POCSAG2400: Address:  395480  Function: 1 
-POCSAG2400: Address:   33736  Function: 2  Alpha:   12
-POCSAG1200: Address: 1044797  Function: 2  Alpha:   12:04-26 PLS CALL - 07792 523 881<NUL>
-POCSAG1200: Address: 1008206  Function: 2  Alpha:   12:04-20 PLS CALL - 07792 523 881<NUL>
-POCSAG1200: Address: 1015248  Function: 2  Alpha:   12:04-34 PLS CALL - 07792 523 881<NUL>
-POCSAG1200: Address: 1044801  Function: 2  Alpha:   12:04-18 PLS CALL - 07792 523 881<NUL>
-POCSAG1200: Address:  549140  Function: 2  Alpha:   12:04-05 PLS CALL - 07792 523 881<NUL>
-POCSAG1200: Address:  851268  Function: 2  Alpha:   12:04-89 PLS CALL - 07792 523 881<NUL>
-POCSAG2400: Address: 1324027  Function: 2  Alpha:   12:04-61 AMBER: NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS S.J<NUL>
-POCSAG1200: Address: 1056784  Function: 0 
-POCSAG2400: Address:  183019  Function: 0 
-POCSAG2400: Address:  157483  Function: 0 
-POCSAG2400: Address: 1349426  Function: 1  Alpha:   ,m
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:03-73 20/11/2021 12:02:12 IN
-POCSAG2400: Address:  299182  Function: 3  Alpha:   )z0z2<GS>P*h<ACK><ENQ>b0z2<DLE><DC3><DLE>jtv2<GS>Pi0:<DLE>g7;<DLE><EM><CAN>P<CAN><EM><GS><CAN><EM>]Y<ESC>P*j!<DLE><EM><CAN>YX $
-POCSAG2400: Address: 2011890  Function: 0 
-POCSAG1200: Address: 1090340  Function: 2  Alpha:   12:01-19 2201<NUL>
-POCSAG1200: Address: 2008658  Function: 0 
