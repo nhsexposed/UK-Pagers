@@ -29482,3 +29482,7 @@ POCSAG2400: Address: 2073140  Function: 1
 POCSAG1200: Address: 2094240  Function: 3 
 POCSAG1200: Address: 1265328  Function: 3 
 POCSAG1200: Address: 1678080  Function: 1  Alpha:   d`
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0633201121+++TIME=0633201121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0633201121++<LF>9<NUL>31
