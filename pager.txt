@@ -1,3 +1,52 @@
+POCSAG2400: Address: 1324541  Function: 2  Alpha:   18:14-45 INC ALERT No: 16803709 Cardiac Arrest -, AT: 8 ORCHARD WAY, KENTON EXETER, EX6 8JU, Time of Call: 20/11/2021 18:12:49, Co-ords: 50.640703894 -3.473218576
+POCSAG2400: Address:  864484  Function: 2 
+POCSAG2400: Address: 1405730  Function: 3 
+POCSAG2400: Address: 1781869  Function: 3  Alpha:   <ACK><EOT>y=<SO><RS>M<RS>L<CR>4z,B
+POCSAG2400: Address:  562564  Function: 1  Alpha:   aQ
+POCSAG2400: Address: 1168203  Function: 2  Alpha:    0
+POCSAG2400: Address: 1476641  Function: 2  Alpha:   <ENQ>$
+POCSAG2400: Address: 1447976  Function: 1 
+POCSAG2400: Address: 1487936  Function: 0 
+POCSAG2400: Address: 1242621  Function: 2  Alpha:   18:14-50 NHSBT - DONOR REFERRAL. Please call DR JESSICA LYNCH on Direct Dial Number 07950846307 Hospital SOUTHAMPTON UNIVERSITY Dept NEURO INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1323225  Function: 2  Alpha:   18:14-99 NHSBT - DONOR REFERRAL. Please call DR JESSICA LYNCH on Direct Dial Number 07950846307 Hospital SOUTHAMPTON UNIVERSITY Dept NEURO INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1322819  Function: 2  Alpha:   18:13-86 NHSBT - DONOR REFERRAL. Please call DR JESSICA LYNCH on Direct Dial Number 07950846307 Hospital SOUTHAMPTON UNIVERSITY Dept NEURO INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1813201121+++TIME=1813201121<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:13-39 4187<NUL>
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   18:13-87 pleas bleep 1437
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   18:12-74 PLEASE CALL NEW SCIENCE WARD  01865 227 986 <NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1045032  Function: 2  Alpha:   <US>zz<RS>S
+POCSAG1200: Address:  432776  Function: 2  Alpha:   18:11-65 20/11/2021 18:09:25 INC 24695610 29D02M O/S, THE BARLOW RC HIGH SCHOOL, PARRS WOOD ROAD, DIDSBURY MANCHESTER, M20 6BX Female 29Y PAT HIT BY CAR GRD 385462 390907<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:11-53 20/11/2021 18:09:25 INC 24695610 29D02M O/S, THE BARLOW RC HIGH SCHOOL, PARRS WOOD ROAD, DIDSBURY MANCHESTER, M20 6BX Female 29Y PAT HIT BY CAR GRD 385462 390907<NUL>
+POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF>A3l0f
+POCSAG1200: Address:  585254  Function: 2  Alpha:   18:11-94 01173421909
+POCSAG1200: Address: 1259991  Function: 2  Alpha:   18:10-78 1994943<NUL>
+POCSAG1200: Address:  880226  Function: 2  Alpha:   18:10-69 1994943<NUL>
+POCSAG2400: Address:  426342  Function: 0 
+POCSAG2400: Address: 1651812  Function: 0 
+POCSAG2400: Address:   37635  Function: 2  Alpha:   ^bb^d
+POCSAG2400: Address:  891738  Function: 2 
+POCSAG2400: Address:  181002  Function: 2 
+POCSAG2400: Address:  388505  Function: 0 
+POCSAG2400: Address: 1593006  Function: 2 
+POCSAG2400: Address:  791093  Function: 2  Alpha:   <STX>*
+POCSAG2400: Address: 1067388  Function: 3 
+POCSAG2400: Address:   94784  Function: 3 
+POCSAG2400: Address:  772959  Function: 1  Alpha:   O%(<DC4><ENQ>
+POCSAG2400: Address:  857895  Function: 1 
+POCSAG2400: Address: 1582670  Function: 2 
+POCSAG2400: Address:  177165  Function: 1  Alpha:   f f"<DLE>
+POCSAG2400: Address:  625716  Function: 1  Alpha:   M=
+POCSAG2400: Address: 1153802  Function: 3  Alpha:   `flr`
+POCSAG2400: Address: 1377505  Function: 2  Alpha:   7<GS>
+POCSAG2400: Address:  267280  Function: 1  Alpha:   Y(
+POCSAG2400: Address: 1349432  Function: 1 
+POCSAG1200: Address:  548183  Function: 2  Alpha:   18:10-50 PLEASE CONTACT CONTROL AGAIN <NUL>
+POCSAG1200: Address:  585963  Function: 2  Alpha:   18:10-18 PLEASE CONTACT CONTROL AGAIN <NUL>
+POCSAG1200: Address: 1321450  Function: 2  Alpha:   18:10-07 PLEASE CONTACT CONTROL AGAIN <NUL>
+POCSAG1200: Address: 1505726  Function: 2  Alpha:   18:10-96 The following resources/officers have been assigned to incident DNDN011569-20112021: DN92P1 as RP from SEL(Selby)
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   18:09-77 20/11/2021 18:06:05 INC 24695593 26O01 AUGHTON PARK CARE HOME, AUGHTON PARK DRIVE, AUGHTON ORMSKIRK, L39 5QE Female 83Y SWOLLEN LEGS AND LUMPS. DVT GRD 340892 406849
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   18:09-76 20/11/2021 18:07:28 INC 24695599 17B01 13 GENEVA ROAD, FAIRFIELD L6, L6 3AS Female 54Y SLIPPED OVER - FELL BACKWARDS- HEAD BLEEDING GRD 337383 391303<NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   18:09-35 Please Call Switchboard<NUL><NUL>
 POCSAG1200: Address: 2011511  Function: 0 
@@ -949,52 +998,3 @@ POCSAG2400: Address: 2008956  Function: 0
 POCSAG1200: Address:  269100  Function: 2 
 POCSAG1200: Address: 1762299  Function: 0 
 POCSAG1200: Address:  413079  Function: 2  Alpha:   16:06-50 (3/3) Additional_Data Address Classification Shop / Showroom<NUL><NUL>
-POCSAG1200: Address: 1816712  Function: 2  Alpha:   16:06-49 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
-POCSAG2400: Address: 1322351  Function: 2  Alpha:   16:05-49 Please call PAH ext:01279 827345 Henry Moore<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:05-92 4187<NUL>
-POCSAG1200: Address:  825139  Function: 0 
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   16:05-76 68177
-POCSAG1200: Address:  413130  Function: 2  Alpha:   16:04-85 (1/2)029861-20112021; F1.0.0.P FIRE - INDUSTRIAL / COMMERCIAL; IKEA,IKEA STORE,PINCENTS KILN,CALCOT,READING,RG31 7SD; 464895,171846; CAR PARK;
-POCSAG2400: Address:   11796  Function: 0  Alpha:   16:04-78 Boiler lock out ALERT<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603201121+++TIME=1603201121<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:03-92 4155<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603201121+++TIME=1603201121<NUL>
-POCSAG1200: Address: 2003573  Function: 0 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<DC4>3L
-POCSAG1200: Address: 1773294  Function: 2 
-POCSAG1200: Address:  169181  Function: 0 
-POCSAG1200: Address:  295498  Function: 1  Alpha:   TC<NUL>GR
-POCSAG1200: Address:  334075  Function: 2  Alpha:   16:03-25 20/11/20
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   16:03-16 20/11/2021 16:02:10 INC 24695117 06D04 24 THE BRQMBLES, SQUIRES GATE ST ANNES, FY8 2SF Female 52Y COPD DIB GRD 330985 431617<NUL>
-POCSAG1200: Address: 1477917  Function: 0  Alpha:   <ESC><DLE>
-POCSAG1200: Address:  266852  Function: 1  Alpha:   f<SYN>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  103210  Function: 2  Alpha:   b`
-POCSAG1200: Address: 1204440  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>3S
-POCSAG1200: Address:  111455  Function: 1  Alpha:   dn`g<DC2>
-POCSAG1200: Address:  549782  Function: 2  Alpha:   16:02-33 ~PLEASE CONTACT GC JOYCE - 07919496429<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   16:01-24 20/11?r021 16:00:51 INC 24695105 06E01 139 GORSEDALE ROAD, WALLASEY CH44, CH44 4AN Male 10M STRUG TO BREATHE,PALE PURPLE GRD 331117 390725<NUL>
-POCSAG1200: Address: 1679546  Function: 3 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:01-37 20O55/2021 16:00:51 INC 24695105 06E01 139 GORSE<FF>e<DC4>
-POCSAG2400: Address: 1404963  Function: 0 
-POCSAG2400: Address: 1058850  Function: 3 
-POCSAG2400: Address: 1715850  Function: 3 
-POCSAG2400: Address:  949473  Function: 2 
-POCSAG2400: Address: 1377506  Function: 2  Alpha:   7<GS>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-62 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address: 1324565  Function: 2  Alpha:   15:59-04 INC ALERT No: 16803240 - DUP CALL - CALLER GOT THROUGH ON ANOTHER LINE SO CLEARED. DUP OF 16803232, AT: CUTHAYES FARM, LANE TO CUTHAYES FARM, AXMINSTER, EX13 5SE, Time of Call: 20/11/2021 15:53:00, Co-ords: 50.7859982 -2.9639465
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:59-91 2581<NUL>
-POCSAG2400: Address: 1913973  Function: 2  Alpha:   15:59-14 3181<NUL>
-POCSAG1200: Address:  420237  Function: 2  Alpha:   15:59-74 20/11/2021 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1558201121+++TIME=1558201121<NUL>
-POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
-POCSAG2400: Address:  225851  Function: 2  Alpha:   15:57-32 107204<NUL><NUL>
-POCSAG1200: Address:  585063  Function: 2  Alpha:   15:57-50 20/11/2021 15:55:55 INC 24695084 25D03 34 ESSEX ROAD, BIRKDALE SOUTHPORT PR8, PR8 4LZ Male 75Y CONFUSED GRD 333358 413929<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   15:56-31 33813
-POCSAG2400: Address:   28906  Function: 0  Alpha:   15:55-43 4179<NUL>
-POCSAG2400: Address: 1320204  Function: 2  Alpha:   15:54-57 4180<NUL>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   15:53-79 55767
-POCSAG512: Address:  677760  Function: 0 
