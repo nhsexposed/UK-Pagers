@@ -1,3 +1,17 @@
+POCSAG2400: Address: 2026358  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213201121+++TIME=0213201121<NUL>
+POCSAG1200: Address:  219383  Function: 0 
+POCSAG1200: Address:   33723  Function: 2  Alpha:   02:12-54 03003000044
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:12-30 03003000044
+POCSAG1200: Address:  619125  Function: 0 
+POCSAG1200: Address: 1039242  Function: 0 
+POCSAG512: Address: 2045160  Function: 2  Alpha:   fhjlnpr`
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
+POCSAG2400: Address:  149253  Function: 2  Alpha:   02:12-50 03003000044
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:12-85 03003000044
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   02:12-35 03003000044
+POCSAG1200: Address: 2074229  Function: 2 
+POCSAG1200: Address: 1483265  Function: 2  Alpha:   02:09-07 Alarm#31968 02:09 Error=1 Late=0, <CR><LF>FTPSpooler-Requests [Error]<CR><LF>----------------<CR><LF>FTPSpooler-Requests: Failed to load dynamic request<NUL><NUL>
 POCSAG1200: Address: 1718901  Function: 1 
 POCSAG1200: Address: 1488072  Function: 2  Alpha:   <STX><VT><VT>;<ESC>#<DC3><VT>K<VT>3
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208201121+++TIME=0208201121<NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1462952  Function: 0
 POCSAG1200: Address: 1974848  Function: 1 
 POCSAG1200: Address:   33999  Function: 1  Alpha:   O%
 POCSAG1200: Address:  167991  Function: 2 
-POCSAG1200: Address:  652118  Function: 2 
-POCSAG1200: Address: 1578261  Function: 1  Alpha:   Y<HT>
-POCSAG1200: Address: 1673000  Function: 2  Alpha:   f`
-POCSAG1200: Address: 1255000  Function: 3 
-POCSAG1200: Address:  361309  Function: 1  Alpha:   lf
-POCSAG1200: Address: 1255004  Function: 3 
-POCSAG1200: Address: 1534145  Function: 2  Alpha:   22:39-25 025014-19112021; F4 Fire Domestic; FLAT 5,16 THOROLD ROAD,SOUTHAMPTON,SO18 1JB; 444145,114039; BOSS Mobile: https://bossd.fvcsp.org.uk<NUL><NUL>
-POCSAG1200: Address:  216478  Function: 2  Alpha:   22:39-77 Got time for a survey?B <NUL>
-POCSAG1200: Address:  664466  Function: 2  Alpha:   22:39-81 TEST<NUL>
-POCSAG1200: Address: 1741681  Function: 1 
-POCSAG1200: Address:  585004  Function: 2  Alpha:   22:38-36 TEST<NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   22:37-86 4660<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   22:37-17 PLEASE CALL WILLIAM HARVEY ON EXT 723 4426 <NUL><NUL>
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   22:37-34 CARDIAC ARREST To WARD 8C BED 12 RLH

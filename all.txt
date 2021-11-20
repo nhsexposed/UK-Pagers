@@ -28903,3 +28903,17 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208201121+++TIME=0208201121<NUL>
 POCSAG1200: Address: 1488072  Function: 2  Alpha:   <STX><VT><VT>;<ESC>#<DC3><VT>K<VT>3
 POCSAG1200: Address: 1718901  Function: 1 
+POCSAG1200: Address: 1483265  Function: 2  Alpha:   02:09-07 Alarm#31968 02:09 Error=1 Late=0, <CR><LF>FTPSpooler-Requests [Error]<CR><LF>----------------<CR><LF>FTPSpooler-Requests: Failed to load dynamic request<NUL><NUL>
+POCSAG1200: Address: 2074229  Function: 2 
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   02:12-35 03003000044
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:12-85 03003000044
+POCSAG2400: Address:  149253  Function: 2  Alpha:   02:12-50 03003000044
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
+POCSAG512: Address: 2045160  Function: 2  Alpha:   fhjlnpr`
+POCSAG1200: Address: 1039242  Function: 0 
+POCSAG1200: Address:  619125  Function: 0 
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:12-30 03003000044
+POCSAG1200: Address:   33723  Function: 2  Alpha:   02:12-54 03003000044
+POCSAG1200: Address:  219383  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213201121+++TIME=0213201121<NUL>
+POCSAG2400: Address: 2026358  Function: 2 
