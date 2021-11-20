@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1089335  Function: 3 
+POCSAG1200: Address: 1974854  Function: 1 
+POCSAG1200: Address:  628771  Function: 2 
+POCSAG1200: Address: 1159298  Function: 2  Alpha:   f@
+POCSAG1200: Address:  197130  Function: 2 
+POCSAG1200: Address: 1155670  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2338201121+++TIME=2338201121<NUL>
+POCSAG1200: Address:  269365  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1674897  Function: 0  Alpha:   <LF><CR><LF>CRITIC<NUL><NUL>
+POCSAG1200: Address:  785328  Function: 3  Alpha:   dN<DC3>O!
+POCSAG1200: Address:  200957  Function: 2  Alpha:   23:37-52 31789l_<DEL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  549108  Function: 2  Alpha:   23:36-85 Please call Hub Operations on 0117 975 7580 regarding KI
+POCSAG2400: Address:  549112  Function: 2  Alpha:   23:36-44 Please call Hub Operations on 0117 975 7580 regarding KIDNEYS: Donor: 153038, Hospital: addenbrookes, cambridge, HD0101, DOB: 16/01/1958
+POCSAG2400: Address:  549116  Function: 2  Alpha:   23:36-98 Please call Hub Operations on 0117 975 7580 regarding KIDNEYS: Donor: 153038, Hospital: addenbrookes, cambridge, HD0101, DOB: 16/01/1958
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2333201121+++TIME=2333201121<NUL>
 POCSAG1200: Address:  749288  Function: 1 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1320347  Function: 2  Alpha:   20:10-27 3508<NUL>
 POCSAG1200: Address: 1779392  Function: 2  Alpha:   5<DLE>s2Pp3<NAK><NAK><BS><NAK>2<DC1><BS>T4R<DC3>uuStr<DC4><VT>Hl<CR>h5<DC2><NAK>2<SYN>hQtS5<DC1><VT>h0<DC2>5<SYN>(3Ps<DLE>2q<DC4>5Q<DC4><VT>(<DC3><CR>HLp<DC4>(3<CAN>;<EM><BS><CR>,<SYN>(UspSst0r3u<DC4>(pt40<NAK><DC3><NAK>hQ<DC4><DC1>h<FF><SO>-LL<FF>h,<SO>n<CR><CR><CR><NUL><NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   20:10-81 20/11/2021 20:08:38 INC 24696103 04D02A O/S, 
 POCSAG1200: Address: 1254725  Function: 1 
-POCSAG2400: Address: 1815068  Function: 0  Alpha:   20:10-25  PAEDIATRIC EMERGENCY PAEDS A&E EPSOM 20:08PM <NUL><NUL>
-POCSAG2400: Address: 1879920  Function: 0 
-POCSAG2400: Address:  996752  Function: 1 
-POCSAG2400: Address:  860504  Function: 2 
-POCSAG2400: Address: 1658039  Function: 0 
-POCSAG2400: Address: 1324027  Function: 2  Alpha:   20:09-70 AMBER: NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS J.N<NUL>
-POCSAG2400: Address: 1323941  Function: 2  Alpha:   20:09-22 AMBER: NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS J.N<NUL>
-POCSAG2400: Address: 1673989  Function: 2  Alpha:   <SUB><SI>
-POCSAG2400: Address:  216757  Function: 0 
-POCSAG2400: Address: 1101972  Function: 1  Alpha:   <FF>L
-POCSAG2400: Address: 1284643  Function: 1  Alpha:   <EOT>J
-POCSAG2400: Address:  919601  Function: 2 
-POCSAG2400: Address:   97142  Function: 2  Alpha:    0
-POCSAG2400: Address:  210541  Function: 1 
-POCSAG2400: Address: 1078132  Function: 2 
