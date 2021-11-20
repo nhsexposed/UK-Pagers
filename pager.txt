@@ -1,3 +1,30 @@
+POCSAG1200: Address: 1511326  Function: 2 
+POCSAG1200: Address:  721548  Function: 3 
+POCSAG1200: Address: 1494044  Function: 0 
+POCSAG1200: Address:  266851  Function: 1  Alpha:   f<SYN>
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address:  600890  Function: 0  Alpha:   12:23
+POCSAG1200: Address: 1321829  Function: 2  Alpha:   12:23-93 Test Test Test<NUL><NUL>
+POCSAG1200: Address: 1351861  Function: 0 
+POCSAG1200: Address: 1389580  Function: 0  Alpha:   !db)j
+POCSAG1200: Address:  738955  Function: 0 
+POCSAG1200: Address:  731475  Function: 2 
+POCSAG1200: Address:  760354  Function: 1 
+POCSAG1200: Address: 1069146  Function: 3 
+POCSAG1200: Address:   45713  Function: 2 
+POCSAG1200: Address:  191768  Function: 1  Alpha:   V[
+POCSAG1200: Address:  365776  Function: 0 
+POCSAG1200: Address:  266519  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1314903  Function: 2 
+POCSAG1200: Address: 1675398  Function: 3  Alpha:   b<DC2>
+POCSAG1200: Address: 1461565  Function: 1  Alpha:   <SUB><DLE>
+POCSAG1200: Address: 1156906  Function: 3  Alpha:   `p
+POCSAG2400: Address:   28924  Function: 0  Alpha:   12:22-42 2188<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:22-70 4156<NUL>
+POCSAG1200: Address: 1869974  Function: 0 
+POCSAG512: Address: 1947255  Function: 0 
+POCSAG1200: Address:  290049  Function: 3  Alpha:   9<BS><SYN><FS>L
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   12:19-27 2233<NUL>
 POCSAG1200: Address:       5  Function: 1  Alpha:   WHC+da<NAK>rp<LF>98E<FS>|<DEL><DEL>
 POCSAG1200: Address: 1271340  Function: 2 
 POCSAG1200: Address: 1733867  Function: 0 
@@ -971,30 +998,3 @@ POCSAG2400: Address: 1057926  Function: 1  Alpha:   <SUB>H<HT><EOT>DX<FF>N<SO><E
 POCSAG2400: Address: 1964878  Function: 2  Alpha:    REfeb3<HT>:y06<DLE>f
 POCSAG2400: Address:  140270  Function: 2 
 POCSAG2400: Address:  937789  Function: 1 
-POCSAG2400: Address: 1023029  Function: 3 
-POCSAG2400: Address: 1057972  Function: 2 
-POCSAG2400: Address: 1745052  Function: 3 
-POCSAG2400: Address:   42131  Function: 2 
-POCSAG2400: Address:  264330  Function: 3 
-POCSAG2400: Address: 1465886  Function: 1 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   08:46-81 4155<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   08:46-07 4312<NUL>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   08:46-64 64810
-POCSAG1200: Address: 1044800  Function: 2  Alpha:   08:45-12 THERE IS SICKNESS AT STROUD MINOR INJURIES THIS MORNING TO DISCUSS PLS RING ALISON AT CIRENCESTER EXT 6356<NUL><NUL>
-POCSAG1200: Address:  567453  Function: 0 
-POCSAG1200: Address:  859301  Function: 0 
-POCSAG1200: Address: 1747300  Function: 3 
-POCSAG1200: Address:  851267  Function: 2  Alpha:   08:45-21 THERE IS SICKNESS AT STROUD MINOR INJURIES THIS MORNING TO DISCUSS PLS RING ALISON AT CIRENCESTER EXT 6356<NUL><NUL>
-POCSAG1200: Address:   11707  Function: 0  Alpha:   pN<HT>9y*2f
-POCSAG1200: Address: 1039074  Function: 3  Alpha:   F<DLE>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   08:43-34 3111<NUL>
-POCSAG1200: Address:   11707  Function: 0  Alpha:   @<EM>
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   08:43-69 01616229870
-POCSAG1200: Address: 1761428  Function: 2  Alpha:   F0
-POCSAG1200: Address:  365406  Function: 1  Alpha:   `p
-POCSAG2400: Address:  225851  Function: 2  Alpha:   08:42-18 107205<NUL><NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   08:41-64 2307<NUL>
-POCSAG2400: Address:  225448  Function: 2  Alpha:   08:40-37 44421
-POCSAG1200: Address: 1186362  Function: 1 
-POCSAG1200: Address:  156488  Function: 3  Alpha:   v0v2P<VT>Z,
-POCSAG1200: Address: 1732655  Function: 0  Alpha:   <SYN>ZHg<DC2>
