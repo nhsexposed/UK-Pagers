@@ -1,3 +1,15 @@
+POCSAG2400: Address:  333408  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  165071  Function: 3 
+POCSAG1200: Address:  699294  Function: 1 
+POCSAG1200: Address: 1466781  Function: 1  Alpha:   KAJj2
+POCSAG1200: Address: 1222916  Function: 3 
+POCSAG1200: Address:  312939  Function: 2  Alpha:   <CR><BS>
+POCSAG1200: Address:   39065  Function: 1 
+POCSAG1200: Address: 1217841  Function: 2 
+POCSAG1200: Address:   40089  Function: 2  Alpha:   07:20-28 20/11
+POCSAG2400: Address:  584009  Function: 2  Alpha:   07:20-26 3507<NUL>
 POCSAG1200: Address: 1216775  Function: 2  Alpha:   O%
 POCSAG1200: Address:  470494  Function: 2  Alpha:   <FS>h
 POCSAG1200: Address: 1071301  Function: 3 
@@ -986,15 +998,3 @@ POCSAG1200: Address:  297379  Function: 1
 POCSAG1200: Address:  136626  Function: 1 
 POCSAG1200: Address: 1713474  Function: 2 
 POCSAG1200: Address: 1147169  Function: 0 
-POCSAG1200: Address:  635047  Function: 2  Alpha:   g<DC2>
-POCSAG1200: Address: 1577318  Function: 1 
-POCSAG1200: Address:  296458  Function: 2  Alpha:   p<DC2>
-POCSAG1200: Address: 1602770  Function: 0 
-POCSAG1200: Address: 1912913  Function: 3 
-POCSAG1200: Address:  612480  Function: 0  Alpha:   <SUB>C
-POCSAG1200: Address:  459400  Function: 2 
-POCSAG1200: Address:  156471  Function: 3  Alpha:   O%
-POCSAG1200: Address:  379806  Function: 0  Alpha:   8J
-POCSAG1200: Address:   72092  Function: 0  Alpha:   TH
-POCSAG1200: Address:  382603  Function: 3  Alpha:   <DC4><NAK>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   00:58-64 20/11/2021 00:55:18 INC 24692272 26D01 BET FRED, 32 ST ANNES ROAD
