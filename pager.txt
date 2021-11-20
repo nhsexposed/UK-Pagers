@@ -1,3 +1,46 @@
+POCSAG2400: Address:  583534  Function: 2  Alpha:   10:09-04 80300
+POCSAG1200: Address: 1933163  Function: 2  Alpha:   10:09-11 4005<NUL>
+POCSAG1200: Address:  629288  Function: 3  Alpha:   <EOT>:
+POCSAG1200: Address: 1287815  Function: 0  Alpha:   <FF><ETX>I3<HT>
+POCSAG1200: Address:  280940  Function: 2 
+POCSAG1200: Address:  630876  Function: 0 
+POCSAG1200: Address: 1716299  Function: 0 
+POCSAG1200: Address: 1876579  Function: 0 
+POCSAG1200: Address: 2057856  Function: 3 
+POCSAG1200: Address: 1337560  Function: 1  Alpha:   <DC2><ETX>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:08-22 4114<NUL>
+POCSAG1200: Address:  549859  Function: 2  Alpha:   10:08-06 ~FYI WHITE WATCH RCC WILL BE ON 6 TONIGHT<NUL>
+POCSAG1200: Address:  549858  Function: 2  Alpha:   10:08-25 ~FYI WHITE WATCH RCC WILL BE ON 6 TONIGHT<NUL>
+POCSAG1200: Address:  549857  Function: 2  Alpha:   10:08-28 ~FYI WHITE WATCH RCC WILL BE ON 6 TONIGHT<NUL>
+POCSAG1200: Address:  549855  Function: 2  Alpha:   10:08-58 ~FYI WHITE WATCH RCC WILL BE ON 6 TONIGHT<NUL>
+POCSAG2400: Address:   11694  Function: 0  Alpha:   10:07-18 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  546053  Function: 1  Alpha:   <SOH><NUL>
+POCSAG2400: Address: 1615427  Function: 1  Alpha:   E=:&<STX>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   10:07-46 PROBLEM: MS SQL Server hourly job check: LSAlert_KBRCMSSSQL01ONI is CRITICAL on host kbrcmsssql01oni, <CR><LF>PROBLEM: MS SQL Server hourly job check: LSAlert_KBRCMSSSQL01ONI is CRITICAL on host kbrcmsssql01oni<CR><LF>Service: MS SQL Server hourly job <NUL><NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   10:07-12 2233<NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   pN!+(d0f
+POCSAG2400: Address: 1323305  Function: 2  Alpha:   10:06-46 80300
+POCSAG1200: Address: 1826931  Function: 0 
+POCSAG1200: Address: 1599215  Function: 0 
+POCSAG1200: Address:   85606  Function: 0  Alpha:   W 
+POCSAG1200: Address:  617885  Function: 1 
+POCSAG1200: Address:  535588  Function: 0  Alpha:   4<ESC>C<STX><SUB>
+POCSAG1200: Address: 1355851  Function: 3 
+POCSAG1200: Address: 1926307  Function: 3 
+POCSAG1200: Address:   94543  Function: 0  Alpha:   OVEg<DC2>
+POCSAG1200: Address:  631766  Function: 3 
+POCSAG1200: Address: 1238446  Function: 2 
+POCSAG1200: Address: 1155204  Function: 2  Alpha:   f@j@<BS><DC3><ENQ><ENQ>
+POCSAG1200: Address:  721419  Function: 3 
+POCSAG2400: Address: 1322510  Function: 2  Alpha:   10:05-62 80300
+POCSAG2400: Address: 1913727  Function: 2  Alpha:   10:05-59 4379<NUL>
+POCSAG2400: Address:  583524  Function: 2  Alpha:   10:05-35 80300
+POCSAG2400: Address: 1913681  Function: 2  Alpha:   10:05-25 2233<NUL>
+POCSAG1200: Address:  584656  Function: 2  Alpha:   O<FS>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   10:05-69 20/11/2021 10:02:25 INC 24693751 JCT BROWN STREET, RICHMOND AVENUE, ACCRINGTON, BB5 0SX Male 50Y RTC TRUCK VS CAR GRD 375601 428316
+POCSAG2400: Address:  583534  Function: 2  Alpha:   10:05-03 80300
+POCSAG2400: Address:   33736  Function: 2  Alpha:   10:04-44 10:04-43 PLEASE CONTACT THE CONTACT CENTRE ON 08000 151 499
+POCSAG1200: Address: 1001159  Function: 2  Alpha:   10:04-29 PLEASE CONTACT THE CONTACT CENTRE ON 08000 151 499<NUL>
 POCSAG2400: Address:  583553  Function: 2  Alpha:   10:04-07 80300
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1003201121+++TIME=1003201121<NUL>
 POCSAG2400: Address: 1022653  Function: 0  Alpha:   10:03-52 PLS CONTACT ACORN WARD, BRIDGET ON 2018, RE: 3 MONTH OLD BABY<NUL>
@@ -955,46 +998,3 @@ POCSAG1200: Address: 1712506  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   05:06-44 2664<NUL>
 POCSAG1200: Address:  836217  Function: 0 
-POCSAG1200: Address:  880862  Function: 2  Alpha:   05:01-02 PLEASE CALL HUB OPERATIONS RE 
-POCSAG1200: Address:  234186  Function: 2  Alpha:   05:01-12 PLEASE CALL HUB OPERATIONS RE DONOR 153037
-POCSAG1200: Address:  433784  Function: 2  Alpha:   05:01-84 PLEASE CALL HUB OPERATIONS RE DONOR 153037
-POCSAG1200: Address: 1319054  Function: 2  Alpha:   05:01-95 PLEASE CALL HUB OPERATIONS RE DONOR 153037
-POCSAG1200: Address:  640455  Function: 2  Alpha:   05:01-93 PLEASE CALL HUB OPERATIONS RE DONOR 153037
-POCSAG1200: Address:  963536  Function: 3 
-POCSAG1200: Address: 1320886  Function: 1  Alpha:   ff<ACK>Jv<ACK>"O<RS>^<ACK><SUB>G..&<BEL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   05:00-51 Case ref 11276r2
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0458201121+++TIME=0458201121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  793383  Function: 0 
-POCSAG2400: Address: 1066350  Function: 2 
-POCSAG2400: Address: 2042230  Function: 1 
-POCSAG2400: Address: 1474877  Function: 0 
-POCSAG2400: Address:  722437  Function: 2 
-POCSAG2400: Address:  437436  Function: 1 
-POCSAG2400: Address:  152596  Function: 1 
-POCSAG2400: Address:  469035  Function: 1 
-POCSAG2400: Address:  549106  Function: 2  Alpha:   04
-POCSAG2400: Address: 2016118  Function: 0 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:53-55 5082<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0453201121+++TIME=0453201121<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:53-26 4376<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:   11678  Function: 0  Alpha:   04:50-92 PLEASE CALL 02380 770 929 SITE 445A HAVE A NEUTRON ALARM <NUL><NUL>
-POCSAG1200: Address: 1807333  Function: 3  Alpha:   #<DLE>
-POCSAG1200: Address:   42299  Function: 2  Alpha:   04:46-41 PLEASE CALL MICHAEL ON 01865 235 112 TRANSPLANT WARD CHURCHILL NOT ABLE TO OPEN THE POWER CHART 
-POCSAG1200: Address: 2007856  Function: 1 
-POCSAG1200: Address: 1777791  Function: 0 
-POCSAG1200: Address: 1975297  Function: 0  Alpha:   J<SYN><ACK>R"<STX><GS>J<DC2><STX>MUAa]]<SOH>QeEEea<SOH><NUL>
-POCSAG1200: Address:  722199  Function: 3  Alpha:    iei$b"Pk f%<SYN>Pkb)*<DLE>b")a,<DLE>f<CAN><EM><SYN><DLE>f<CAN><EM>PZ"*Pf0v2<DLE><ESC>[,<DLE>c &f"'<DLE>bg+g)j`$i)P#)"PYY<FS>ZZ<FS>PY\Y[<ESC><EM>
-POCSAG2400: Address: 1323655  Function: 2  Alpha:   04:44-80 38001
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443201121+++TIME=0443201121<NUL>
-POCSAG2400: Address:  424816  Function: 1  Alpha:   B4
-POCSAG2400: Address:  149253  Function: 2  Alpha:   04:43-53 PLEASE CALL LEE GALVIN ON 01304 239 840, THINKS HIS MUM HAS PASSED<NUL><NUL>
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   04:43-88 PLEASE CALL LEE GALVIN ON 01304 239 840, THINKS HIS MUM HAS PASSED<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1500226  Function: 0  Alpha:   MMeQUe<SOH>MeM]]I<SOH>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  950832  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0438201121+++TIME=0438201121<NUL>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   04:37-56 20/11/2021 04:33:45 INC 24692938 06D01 36 COULTATE STREET, BURNLEY, BB12 6RF Female 30Y CANT BREATHE PROPERLY BACK IS KILLING GRD 382296 432887<NUL><NUL>
