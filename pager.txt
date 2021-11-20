@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0603201121+++TIME=0603201121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603201121+++TIME=0603201121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  103260  Function: 1  Alpha:   nl
+POCSAG1200: Address:  210523  Function: 3 
+POCSAG1200: Address:  856699  Function: 0 
+POCSAG1200: Address: 1745493  Function: 0 
+POCSAG1200: Address: 1322052  Function: 2  Alpha:   05:59-89 4901-
 POCSAG2400: Address: 1455744  Function: 0  Alpha:   ,L,ljj<LF>5231<SI>,-<CR>N<FF>,,L,<FF>
 POCSAG1200: Address: 2027639  Function: 1 
 POCSAG1200: Address: 1446450  Function: 0 
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1320207  Function: 2  Alpha:   00:22-88 4183<NUL>
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   00:22-07 RECOVERY: COOPENLCNS01MC1 is UP, <CR><LF>RECOVERY: COOPENLCNS01MC1 is UP<CR><LF><CR><LF>Host: COOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.74.82<CR><LF>Host Group Hierarchy: <CR><LF>State: UP<CR><LF>Date & Time: Sat Nov 20 00:22:10 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>SSH OK - O<NUL><NUL>
 POCSAG2400: Address: 2008627  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address: 1550235  Function: 3 
-POCSAG512: Address:  330771  Function: 0 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<EOT>
-POCSAG1200: Address:  434742  Function: 0 
-POCSAG1200: Address:  958549  Function: 0 
-POCSAG2400: Address:  584009  Function: 2  Alpha:   00:18-15 4376<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   08717-71 3164<NUL>
-POCSAG2400: Address: 2026356  Function: 2 

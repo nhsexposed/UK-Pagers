@@ -29412,3 +29412,11 @@ POCSAG1200: Address: 1112323  Function: 0
 POCSAG1200: Address: 1446450  Function: 0 
 POCSAG1200: Address: 2027639  Function: 1 
 POCSAG2400: Address: 1455744  Function: 0  Alpha:   ,L,ljj<LF>5231<SI>,-<CR>N<FF>,,L,<FF>
+POCSAG1200: Address: 1322052  Function: 2  Alpha:   05:59-89 4901-
+POCSAG1200: Address: 1745493  Function: 0 
+POCSAG1200: Address:  856699  Function: 0 
+POCSAG1200: Address:  210523  Function: 3 
+POCSAG1200: Address:  103260  Function: 1  Alpha:   nl
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603201121+++TIME=0603201121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0603201121+++TIME=0603201121<NUL>
