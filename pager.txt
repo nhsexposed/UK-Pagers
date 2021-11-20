@@ -1,3 +1,6 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0413201121+++TIME=0413201121<NUL>
+POCSAG512: Address: 2077693  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408201121+++TIME=0408201121<NUL>
 POCSAG1200: Address: 1483265  Function: 2  Alpha:   04:08-09 Alarm#31970 04:07 Error=1 Late=0, <CR><LF>Report Delivery Monitoring (reporting) [Error]<CR><LF>----------------<CR><LF>Report Delivery Monitoring (reporting): Overdue UBS Index Service<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2343191121+++TIME=23
 POCSAG2400: Address:   33691  Function: 2  Alpha:   23:43-47 07511702459
 POCSAG1200: Address: 1745588  Function: 0 
 POCSAG1200: Address:  433499  Function: 1  Alpha:   <ESC><DLE>E*g
-POCSAG1200: Address:   40100  Function: 2  Alpha:   23:42-73 19/11/2021 23:39:11 INC 2469
-POCSAG1200: Address:  791347  Function: 1 
-POCSAG1200: Address: 1712303  Function: 2 
