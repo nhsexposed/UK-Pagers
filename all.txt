@@ -28418,3 +28418,13 @@ POCSAG2400: Address:  584009  Function: 2  Alpha:   00:18-15 4376<NUL>
 POCSAG1200: Address:  958549  Function: 0 
 POCSAG1200: Address:  434742  Function: 0 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<EOT>
+POCSAG512: Address:  330771  Function: 0 
+POCSAG512: Address: 1550235  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 2008627  Function: 3 
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   00:22-07 RECOVERY: COOPENLCNS01MC1 is UP, <CR><LF>RECOVERY: COOPENLCNS01MC1 is UP<CR><LF><CR><LF>Host: COOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.74.82<CR><LF>Host Group Hierarchy: <CR><LF>State: UP<CR><LF>Date & Time: Sat Nov 20 00:22:10 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>SSH OK - O<NUL><NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   00:22-88 4183<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:22-33 5204<NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   00:22-89 INC ALERT N
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0023201121+++TIME=0023201121<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:24-87 20/11/2021 00:20:50 INC 24692132 17D03P O/S, 17 PARK LANE, BOOTLE L20, L20 6DJ Male 65Y FALLEN GRD 335303 397252<NUL>

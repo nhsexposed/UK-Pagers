@@ -1,3 +1,13 @@
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:24-87 20/11/2021 00:20:50 INC 24692132 17D03P O/S, 17 PARK LANE, BOOTLE L20, L20 6DJ Male 65Y FALLEN GRD 335303 397252<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0023201121+++TIME=0023201121<NUL>
+POCSAG2400: Address: 1324560  Function: 2  Alpha:   00:22-89 INC ALERT N
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:22-33 5204<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   00:22-88 4183<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   00:22-07 RECOVERY: COOPENLCNS01MC1 is UP, <CR><LF>RECOVERY: COOPENLCNS01MC1 is UP<CR><LF><CR><LF>Host: COOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.74.82<CR><LF>Host Group Hierarchy: <CR><LF>State: UP<CR><LF>Date & Time: Sat Nov 20 00:22:10 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>SSH OK - O<NUL><NUL>
+POCSAG2400: Address: 2008627  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
+POCSAG512: Address: 1550235  Function: 3 
+POCSAG512: Address:  330771  Function: 0 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<EOT>
 POCSAG1200: Address:  434742  Function: 0 
 POCSAG1200: Address:  958549  Function: 0 
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1115399  Function: 2
 POCSAG1200: Address:  537058  Function: 0  Alpha:   <BEL><DC4>{i<BS>d<CAN>HIYh<HT>T<ENQ><EOT><EM>I<LF><EOT>Y<CAN>H<BS><DC4>p
 POCSAG2400: Address:  583573  Function: 2  Alpha:   20:17-08 80300|<DEL><DEL>
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:  583520  Function: 2  Alpha:   20:16-78 80300
-POCSAG2400: Address:  583589  Function: 2 
-POCSAG2400: Address: 1324369  Function: 2  Alpha:   20:16-58 80300
-POCSAG1200: Address:  906480  Function: 3  Alpha:   8N<NAK>bL
-POCSAG2400: Address: 1299593  Function: 3 
-POCSAG1200: Address:  557679  Function: 2  Alpha:   1<DC4>!4<CAN>HIY(<LF><DC4>9<LF>$H<EM>iI<BS><DC4>hI<BS>dH<EM>H<LF>4<ACK>4:<CAN>(ZH<BS>Dz<HT>t<HT>Zh<HT>Dxy):<BEL><DC4>8><RS>}l]L,<BEL>$<EM><ESC>v<ACK>*F<ENQ>$<EM><ESC>v<ACK><SUB>F<ENQ>$<EM><ESC><ACK><BEL><SUB>6<BEL>$zM]<<SO><EOT><EOT><EOT>$<EM><ESC><ACK><BEL><SUB>&W<EM><FS>m<CR><EOT>Z^<CR>><BEL>D<SUB>L=},<SO><SO><EOT>d(X(Zu<HT>:<LF>&<ACK><EOT>5<SYN>'<NAK><ENQ><EOT>Exh<EM><CAN>5
-POCSAG1200: Address: 1816709  Function: 2  Alpha:   20:14-92
-POCSAG1200: Address:  988980  Function: 0 
-POCSAG1200: Address: 1283403  Function: 1  Alpha:   TX
-POCSAG1200: Address:   68298  Function: 2 
