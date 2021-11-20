@@ -1,3 +1,17 @@
+POCSAG1200: Address: 1718901  Function: 1 
+POCSAG1200: Address: 1488072  Function: 2  Alpha:   <STX><VT><VT>;<ESC>#<DC3><VT>K<VT>3
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208201121+++TIME=0208201121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   02:04-92 20/11/2021 02:02:56 INC 24692522 26C02 7B MAPLE CLOSE, SEAFORTH L21, L21 4PD Male 47Y SWOLLEN LEGS - DVT HISTORY GRD 333240 396668<NUL>
+POCSAG1200: Address:   44291  Function: 0  Alpha:   <ACK><US>-<VT><GS>
+POCSAG1200: Address: 1507882  Function: 2 
+POCSAG1200: Address:  366361  Function: 2  Alpha:   [<
+POCSAG1200: Address: 2037937  Function: 1 
+POCSAG1200: Address:  429166  Function: 1 
+POCSAG1200: Address: 1837366  Function: 2 
+POCSAG1200: Address: 2037941  Function: 2 
+POCSAG1200: Address: 1948420  Function: 1  Alpha:   <SUB>SG[C
+POCSAG1200: Address:  386441  Function: 0 
 POCSAG1200: Address:  775088  Function: 2  Alpha:    DE3gbip
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  678665  Function: 2  Alpha:   02:00-48 Case ref 11276206 Fill in tick sheet
@@ -984,17 +998,3 @@ POCSAG1200: Address:  585004  Function: 2  Alpha:   22:38-36 TEST<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   22:37-86 4660<NUL>
 POCSAG2400: Address:   11729  Function: 0  Alpha:   22:37-17 PLEASE CALL WILLIAM HARVEY ON EXT 723 4426 <NUL><NUL>
 POCSAG1200: Address: 1001123  Function: 2  Alpha:   22:37-34 CARDIAC ARREST To WARD 8C BED 12 RLH
-POCSAG1200: Address: 1001124  Function: 2  Alpha:   22:37-45 CARDIAC ARREST To WARD 8C BED 12 RLH
-POCSAG1200: Address:  108097  Function: 0  Alpha:   22:37-05 1080<NUL>
-POCSAG1200: Address: 1001130  Function: 2  Alpha:   22:37-97 CARDIAC ARREST To WARD 8C BED 12 RLH
-POCSAG1200: Address: 1109027  Function: 1 
-POCSAG1200: Address: 1352770  Function: 3 
-POCSAG1200: Address:  230416  Function: 3 
-POCSAG1200: Address: 1346719  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1447983  Function: 1 
-POCSAG1200: Address: 1686366  Function: 1  Alpha:   ``
-POCSAG1200: Address: 1255005  Function: 3 
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   22:37-08 CARDIAC ARREST To WARD 8C BED 12 RLH
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   22:37-40 CARDIAC ARREST To WARD 8C BED 12 RLH
-POCSAG1200: Address: 1312440  Function: 2  Alpha:   22:37-83 CARDIAC ARREST To WARD 8C BED 12 RLH
-POCSAG1200: Address: 1067846  Function: 2  Alpha:   22:36-80 Destination: D82 SSC O
