@@ -29143,3 +29143,18 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333201121+++TIME=0333201121<NUL>
 POCSAG1200: Address: 1312440  Function: 2  Alpha:   03:34-85 CARDIAC ARREST TEAM TO WARD 3A WEST BED 19 SBH<NUL><NUL>
 POCSAG1200: Address: 1001131  Function: 2  Alpha:   03:34-99 CARDIAC ARREST TEAM TO WARD 3A WEST BED 19 SBH<NUL><NUL>
+POCSAG1200: Address: 1001124  Function: 2  Alpha:   03:34-47 CARDIAC ARREST TEAM TO WARD 3A WEST BED 19 SBH<NUL><NUL>
+POCSAG1200: Address:  594610  Function: 1  Alpha:   <CR><NUL>
+POCSAG1200: Address: 1059112  Function: 2 
+POCSAG1200: Address:   95105  Function: 0 
+POCSAG1200: Address:  315850  Function: 0  Alpha:   TE
+POCSAG1200: Address: 1261739  Function: 2 
+POCSAG1200: Address:  853137  Function: 0 
+POCSAG1200: Address:  712962  Function: 1 
+POCSAG1200: Address: 1856146  Function: 1 
+POCSAG1200: Address:  867124  Function: 0  Alpha:   -n
+POCSAG1200: Address:  445627  Function: 1  Alpha:   <EM>[
+POCSAG1200: Address:  894724  Function: 2  Alpha:   d`
+POCSAG1200: Address: 1337565  Function: 1  Alpha:   <ETX>#
+POCSAG1200: Address: 1815065  Function: 0  Alpha:   03:37-79 PIN 9506 PLEASE CALL 03457 500 620 FOR OWN CLIENT CASE<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0338201121+++TIME=0338201121<NUL>
