@@ -1,3 +1,28 @@
+POCSAG2400: Address: 2074226  Function: 2 
+POCSAG2400: Address:  225851  Function: 2  Alpha:   16:28-33 107205<NUL><NUL>
+POCSAG1200: Address:  404535  Function: 3 
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   16:29-59 20/11<DC3><ETX><DC3><VT><ETX><STX>
+POCSAG1200: Address: 1817225  Function: 2  Alpha:   16:29-58 4240<NUL>
+POCSAG2400: Address: 1356413  Function: 1 
+POCSAG2400: Address: 1212948  Function: 0  Alpha:   EM
+POCSAG2400: Address:   87011  Function: 2 
+POCSAG2400: Address: 1837771  Function: 2 
+POCSAG2400: Address:  601362  Function: 2 
+POCSAG2400: Address: 1815068  Function: 0  Alpha:   16:28-23 EPSON HOSPITAL, A&E RESUS
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1628201121+++TIME=1628201121<NUL>
+POCSAG1200: Address: 1128467  Function: 0 
+POCSAG1200: Address: 1128467  Function: 0 
+POCSAG1200: Address:  300288  Function: 3 
+POCSAG2400: Address: 1815153  Function: 1 
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   16:28-79 PLEASE CALL ROWENA ON 38698<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:27-95 2097<NUL>
+POCSAG1200: Address:  353069  Function: 2 
+POCSAG1200: Address:  214093  Function: 2  Alpha:   16:27-91 20/11/2021 16:24:25 INC 24695190 06D01 THE LODGE BUCKSHAW RETIREMENT VILLAGE, OAKBRIDGE DRIVE, BUCKSHAW VILLAGE CHORLEY, PR7 7EP Male 74Y BRAIN UNJURY, CHESTY, DITERIORATING GRD 356172 42049
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1520315  Function: 3  Alpha:   <SYN><DC2>
+POCSAG2400: Address: 1323090  Function: 2  Alpha:   16:26-60 Please call Anju in CCC on 599
+POCSAG1200: Address:  696118  Function: 2  Alpha:   16:25-38 31079
+POCSAG2400: Address:   74163  Function: 3  Alpha:   -ords: 50.7222381 -3.53253<NUL><NUL>
 POCSAG2400: Address: 1324566  Function: 2  Alpha:   16:24-23 INC ALERT No: 16803339 Assault/ Sexual Assault - MASSIVE FIGHT SEVERAL PUNCHES TO THE HEAD, AT: OUTSIDE, CITY BARBERS, 101 SOUTH STREET, EXETER, EX1 1EN, Time of Call: 20/11/2021 16:21:38, Co-ords: 50.7222381 -3.53253<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1623201121+++TIME=1623201121<NUL>
 POCSAG1200: Address:   71370  Function: 3 
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1935492  Function: 2  Alpha:   j@
 POCSAG1200: Address:  459403  Function: 2 
 POCSAG1200: Address: 1453115  Function: 1 
 POCSAG1200: Address: 1147688  Function: 2  Alpha:   jp
-POCSAG1200: Address:  600938  Function: 0 
-POCSAG2400: Address: 1778007  Function: 0 
-POCSAG2400: Address: 1330701  Function: 2 
-POCSAG2400: Address: 1330700  Function: 2 
-POCSAG2400: Address: 1330700  Function: 2 
-POCSAG2400: Address: 1330699  Function: 2 
-POCSAG2400: Address: 1330698  Function: 2 
-POCSAG2400: Address: 1330697  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1313201121+++TIME=1313201121<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   13:12-17 2182<NUL>
-POCSAG1200: Address:   28883  Function: 3  Alpha:   13:12-45 PLEASE CALL SUSAN SMITH ON 07852 217 153<NUL><NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><ETX><EM><LF>L
-POCSAG2400: Address: 1022550  Function: 0  Alpha:   13:11-47 74231
-POCSAG1200: Address: 1807302  Function: 2  Alpha:   13:10-85 3087<NUL>
-POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX>p
-POCSAG1200: Address: 1719696  Function: 3  Alpha:   @<BS><VT>)<VT>%<DC3><ETX>)<DC3><GS><SI>A<ACK><ETX><GS>)A<SUB><US>-<VT>A<SO>%<HT>Afhjbfl@fpl`dd<NUL><NUL>
-POCSAG1200: Address:  696118  Function: 2  Alpha:   13:10-37 33460
-POCSAG2400: Address: 1323378  Function: 2  Alpha:   13:09-74 234234<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1308201121+++TIME=1308201121<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:08-76 3132<NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   13:07-69 2446<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   13:06-68 4373<NUL>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   13:06-10 INC ALERT No: 16802616 Cardiac Arrest -, AT: 11 CHERRY GARDENS, EXETER, EX2 5DJ, Time of Call: 20/11/2021 13:06:19, Co-ords: 50.7180338 -3.500377
