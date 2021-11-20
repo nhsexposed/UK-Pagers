@@ -1,3 +1,19 @@
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   10:49-12 4660<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1048201121+++TIME=1048201121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1048201121+++TIME=1048201121<NUL>
+POCSAG1200: Address: 1512731  Function: 3  Alpha:   U$
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  959220  Function: 1 
+POCSAG1200: Address: 1256933  Function: 2  Alpha:   10:46-04 8<NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   10:46-75 PLS CALL WENDY ON 3945
+POCSAG2400: Address:   28899  Function: 0  Alpha:   10:46-61 4163<NUL>
+POCSAG1200: Address: 2096120  Function: 3 
+POCSAG1200: Address:  108061  Function: 0  Alpha:   10:46-55 PLEASE CONTACT WEM STATION RE STORING OF APPLIANCE THANKS<NUL><NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:45-50 3108<NUL>
+POCSAG1200: Address:   35061  Function: 0 
+POCSAG1200: Address: 1873252  Function: 3 
+POCSAG1200: Address: 1032915  Function: 2  Alpha:   V<STX>
+POCSAG1200: Address: 1884768  Function: 1 
 POCSAG2400: Address:   28895  Function: 0  Alpha:   10:43-30 2183<NUL>
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   10:43-57 4157<NUL>
 POCSAG1200: Address: 1544821  Function: 2 
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1313125  Function: 2  Alpha:   06:14-35 03003000044
 POCSAG2400: Address:  149253  Function: 2  Alpha:   06:14-55 03003000044
 POCSAG2400: Address: 1812080  Function: 1 
 POCSAG1200: Address: 1313126  Function: 2  Alpha:   06:14-40 03<DLE>23000044
-POCSAG1200: Address: 2009842  Function: 0 
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   06:14-44 03003000044
-POCSAG1200: Address:   33723  Function: 2  Alpha:   06:14-63 03003000044
-POCSAG1200: Address: 1790220  Function: 0 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   06:14-54 20/11/2021 05:55:46 INC 246930)<FF><BS>
-POCSAG1200: Address: 1974483  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   06:13-08 2664<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  180992  Function: 2 
-POCSAG1200: Address: 1262895  Function: 1  Alpha:   O%
-POCSAG1200: Address:  296999  Function: 0 
-POCSAG1200: Address:  627510  Function: 2 
-POCSAG1200: Address: 1067390  Function: 3 
-POCSAG1200: Address:  631629  Function: 2 
-POCSAG1200: Address:  905989  Function: 2 
-POCSAG1200: Address: 1292044  Function: 2 
