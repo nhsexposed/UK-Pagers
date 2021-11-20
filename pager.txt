@@ -1,3 +1,10 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403201121+++TIME=0403201121<NUL>
+POCSAG1200: Address: 1321700  Function: 2  Alpha:   04:01-05 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: WX17ZDY. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   04:00-89 2447<NUL>
+POCSAG1200: Address: 2008701  Function: 2 
+POCSAG1200: Address: 1746668  Function: 0 
+POCSAG1200: Address:  801397  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   04:00-500k!se ref 11276206 Fill in tick sheet
 POCSAG1200: Address: 1726592  Function: 0  Alpha:   ,<DC1>
 POCSAG1200: Address: 1069861  Function: 1 
 POCSAG1200: Address: 1321863  Function: 2  Alpha:   03:58-62 20/11/2021 03:55:33 INC 24692847 31E01 O/S AT BUS STOP OPPOSITE, PAPA JOHNS, 254 WILMSLOW ROAD, FALLOWFIELD MANCHESTER, M14 6LD Male 20Y LOOKS ASLEEP - VOMITING GRD 385563 394080<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address:  958833  Function: 0
 POCSAG2400: Address:   28927  Function: 0  Alpha:   23:41-60 2642<NUL>
 POCSAG1200: Address: 1562660  Function: 2  Alpha:   23:40-81 19/11/2021 23:25:16 INC 24691911 01D01 10 BEAUVALE AVENUE, OFFERTON STOCKPORT, SK2 5SJ Male 72Y ABDO PAIN - SWOLLEN - HARD GRD 391288 389103<NUL><NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   23:40-83 19/11/2021 23:37:41 INC 24691954 29D02M JUNC 22A, CHAPEL STREET, SALFORD, M3 5PH Female 26Y BEEN HIT BY A CAR GRD 382991 398547<NUL>
-POCSAG1200: Address: 1110856  Function: 1 
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address:  610598  Function: 0 
-POCSAG1200: Address: 1072486  Function: 3 
-POCSAG1200: Address: 1868357  Function: 0  Alpha:   AC
-POCSAG1200: Address: 1377572  Function: 2 
-POCSAG1200: Address:  271948  Function: 0 
