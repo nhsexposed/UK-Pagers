@@ -31104,3 +31104,13 @@ POCSAG2400: Address:  150086  Function: 0  Alpha:   13:07-69 2446<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   13:08-76 3132<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1308201121+++TIME=1308201121<NUL>
 POCSAG2400: Address: 1323378  Function: 2  Alpha:   13:09-74 234234<NUL><NUL>
+POCSAG1200: Address:  696118  Function: 2  Alpha:   13:10-37 33460
+POCSAG1200: Address: 1719696  Function: 3  Alpha:   @<BS><VT>)<VT>%<DC3><ETX>)<DC3><GS><SI>A<ACK><ETX><GS>)A<SUB><US>-<VT>A<SO>%<HT>Afhjbfl@fpl`dd<NUL><NUL>
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX>p
+POCSAG1200: Address: 1807302  Function: 2  Alpha:   13:10-85 3087<NUL>
+POCSAG2400: Address: 1022550  Function: 0  Alpha:   13:11-47 74231
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><ETX><EM><LF>L
+POCSAG1200: Address:   28883  Function: 3  Alpha:   13:12-45 PLEASE CALL SUSAN SMITH ON 07852 217 153<NUL><NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   13:12-17 2182<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1313201121+++TIME=1313201121<NUL>
