@@ -1,3 +1,40 @@
+POCSAG2400: Address: 1785480  Function: 2 
+POCSAG2400: Address: 2044072  Function: 0  Alpha:   :<ESC><ESC><ESC>C
+POCSAG2400: Address:  583590  Function: 2  Alpha:   10:14-13
+POCSAG2400: Address: 1811056  Function: 0 
+POCSAG2400: Address:  610381  Function: 1 
+POCSAG2400: Address: 1224829  Function: 1 
+POCSAG2400: Address: 1604796  Function: 3 
+POCSAG2400: Address:  320772  Function: 3 
+POCSAG2400: Address: 1147689  Function: 2  Alpha:   bf
+POCSAG2400: Address:  445800  Function: 1  Alpha:   <FS><SUB>
+POCSAG2400: Address:  828025  Function: 1 
+POCSAG2400: Address: 1339819  Function: 2  Alpha:   10:13-64 NHSBT - DONOR REFERRAL. Please call CONS SAM HUTCHINGS on Direct Dial Number 02032999000 EXT 37749 Hospital KINGS COLLEGE HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1013201121+++TIME=1013201121<NUL>
+POCSAG2400: Address:  549979  Function: 2  Alpha:   10:13-71 73338
+POCSAG1200: Address:  649969  Function: 2  Alpha:   10:12-90 69000
+POCSAG1200: Address:  631398  Function: 3 
+POCSAG1200: Address:  690461  Function: 0  Alpha:   hi
+POCSAG1200: Address: 1837322  Function: 0 
+POCSAG1200: Address: 1027233  Function: 2  Alpha:   <STX>*
+POCSAG1200: Address: 1282176  Function: 3  Alpha:   f@
+POCSAG1200: Address:  459343  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  100140  Function: 3  Alpha:   j`
+POCSAG1200: Address:  312672  Function: 0  Alpha:   10:11-53 20/11/ XY<CAN><DLE><CAN><CAN>
+POCSAG1200: Address:  678610  Function: 2  Alpha:   10:11-11 PLEASE PHONE HAIRMYERES HOSPITAL HELPDESK<NUL>
+POCSAG1200: Address: 2094713  Function: 3 
+POCSAG1200: Address: 1330700  Function: 2 
+POCSAG1200: Address: 1330699  Function: 2 
+POCSAG2400: Address:  583528  Function: 2  Alpha:   10:10-87 80300
+POCSAG1200: Address: 1352294  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1163556  Function: 3  Alpha:   b`Zfl@p`f``
+POCSAG2400: Address:  583524  Function: 2 
+POCSAG2400: Address: 1323305  Function: 2  Alpha:   10:10-47 80300
+POCSAG2400: Address:  583556  Function: 2  Alpha:   10:09-76 80300
+POCSAG1200: Address:  600638  Function: 0  Alpha:   10:09-09 PLEASE CALL JASMINE WARD ON 0203 513 5314 
+POCSAG1200: Address: 1500778  Function: 0 
 POCSAG2400: Address:  583534  Function: 2  Alpha:   10:09-04 80300
 POCSAG1200: Address: 1933163  Function: 2  Alpha:   10:09-11 4005<NUL>
 POCSAG1200: Address:  629288  Function: 3  Alpha:   <EOT>:
@@ -961,40 +998,3 @@ POCSAG1200: Address:  267544  Function: 0
 POCSAG1200: Address: 1122455  Function: 0  Alpha:   ><ACK>rg<DC2>
 POCSAG1200: Address:  841749  Function: 2  Alpha:   <DC1>3
 POCSAG1200: Address: 1364012  Function: 0 
-POCSAG1200: Address: 1548124  Function: 0 
-POCSAG1200: Address:  362627  Function: 3  Alpha:   b<STX>
-POCSAG1200: Address:  459274  Function: 2 
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1674031  Function: 2  Alpha:   O%(15
-POCSAG1200: Address:  218719  Function: 2 
-POCSAG1200: Address: 1204445  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
-POCSAG1200: Address: 1682268  Function: 1  Alpha:   bf
-POCSAG1200: Address: 1591446  Function: 0 
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   05:33-31 20/11/2021 05:32:30 INC 2
-POCSAG1200: Address:   69967  Function: 1  Alpha:   IVeg<DC2>
-POCSAG1200: Address:   76326  Function: 2 
-POCSAG1200: Address:  721419  Function: 3 
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1676072  Function: 3  Alpha:   dj
-POCSAG1200: Address: 1981042  Function: 2 
-POCSAG1200: Address:  455281  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  500329  Function: 0 
-POCSAG2400: Address:  893491  Function: 0 
-POCSAG2400: Address: 1441906  Function: 0 
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   05:20-68 Call 8013<NUL><NUL>
-POCSAG1200: Address: 1156904  Function: 3  Alpha:   dj
-POCSAG1200: Address:  218712  Function: 2 
-POCSAG1200: Address:  860600  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:18-45 4156<NUL>
-POCSAG512: Address: 1812081  Function: 1 
-POCSAG1200: Address: 1151788  Function: 2  Alpha:   hp
-POCSAG1200: Address:  858660  Function: 0 
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   05
-POCSAG2400: Address: 1143176  Function: 0 
-POCSAG1200: Address: 2011748  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0508201121+++TIME=0508201121<NUL>
-POCSAG1200: Address: 1712506  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:06-44 2664<NUL>
-POCSAG1200: Address:  836217  Function: 0 
