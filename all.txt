@@ -34269,3 +34269,18 @@ POCSAG1200: Address: 1410909  Function: 0  Alpha:   f`
 POCSAG1200: Address: 1263192  Function: 2 
 POCSAG1200: Address: 1424168  Function: 3  Alpha:   dd
 POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   22:00-68 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  679709  Function: 2  Alpha:   22:01-44 PROCEED 
+POCSAG1200: Address:  515095  Function: 2  Alpha:   <VT>hp<DC3><DC3>3<DLE>t4<DC1><DC1><VT>hQ<DC4><DC1>h<FF>ml-<FF><SO>h,.,-.<CR><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1761872  Function: 0 
+POCSAG1200: Address: 2011828  Function: 1 
+POCSAG1200: Address:  679709  Function: 2  Alpha:   22:03-$5#FOR INFO, TRU FROM G39 HAS BEEN REQUESTED FOR PRIVACY SCREENS POST YOUR MOBILISATION<NUL>
+POCSAG1200: Address: 1127539  Function: 0  Alpha:   R<SYN>
+POCSAG1200: Address: 1364012  Function: 0  Alpha:   )<ACK>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2203201121+++TIME=2203201121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2203201121+++TIME=2203201121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:04-29 2415<NUL>
+POCSAG2400: Address: 1620712  Function: 1 
+POCSAG2400: Address: 2046321  Function: 1 
+POCSAG2400: Address:  309265  Function: 1  Alpha:   P<
