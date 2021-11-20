@@ -29202,3 +29202,10 @@ POCSAG1200: Address: 2008701  Function: 2
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   04:00-89 2447<NUL>
 POCSAG1200: Address: 1321700  Function: 2  Alpha:   04:01-05 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: WX17ZDY. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403201121+++TIME=0403201121<NUL>
+POCSAG1200: Address: 1999486  Function: 2 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   04:05-76 5125<NUL>
+POCSAG1200: Address: 1765523  Function: 2  Alpha:   04:06-51 Stop Message received for In
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:07-25 4155<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1483265  Function: 2  Alpha:   04:08-09 Alarm#31970 04:07 Error=1 Late=0, <CR><LF>Report Delivery Monitoring (reporting) [Error]<CR><LF>----------------<CR><LF>Report Delivery Monitoring (reporting): Overdue UBS Index Service<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408201121+++TIME=0408201121<NUL>
