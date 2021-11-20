@@ -29259,3 +29259,9 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   04:29-60 20/11/2021 04:25:09
 POCSAG1200: Address: 1485727  Function: 3 
 POCSAG1200: Address:  140943  Function: 0  Alpha:   O%
 POCSAG1200: Address:  535762  Function: 3 
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   04:29-67 Call 8013<NUL><NUL>
+POCSAG1200: Address:  333335  Function: 3  Alpha:   O%
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message nn<FF>B3 side 12345678901234567890
+POCSAG1200: Address:  181230  Function: 3 
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   04:33-80 4155<NUL>
+POCSAG1200: Address: 1851554  Function: 2 

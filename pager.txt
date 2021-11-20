@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1851554  Function: 2 
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   04:33-80 4155<NUL>
+POCSAG1200: Address:  181230  Function: 3 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message nn<FF>B3 side 12345678901234567890
+POCSAG1200: Address:  333335  Function: 3  Alpha:   O%
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   04:29-67 Call 8013<NUL><NUL>
 POCSAG1200: Address:  535762  Function: 3 
 POCSAG1200: Address:  140943  Function: 0  Alpha:   O%
 POCSAG1200: Address: 1485727  Function: 3 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1987316  Function: 2
 POCSAG2400: Address:   28899  Function: 0  Alpha:   23:56-32 4187<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   23:56-72 4167<NUL>
 POCSAG1200: Address:  594753  Function: 2 
-POCSAG1200: Address: 1257553  Function: 3 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:55-31 5072<NUL>
-POCSAG1200: Address: 1021091  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:54-92 4462<NUL>
-POCSAG2400: Address: 1237216  Function: 1 
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:53-86 2097<NUL>
