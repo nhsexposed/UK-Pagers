@@ -1,3 +1,37 @@
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#<DC1>(L
+POCSAG1200: Address: 1141573  Function: 3 
+POCSAG1200: Address:  361676  Function: 2 
+POCSAG1200: Address: 1559444  Function: 1 
+POCSAG1200: Address:  677667  Function: 2 
+POCSAG1200: Address:   95650  Function: 0  Alpha:   ST TH
+POCSAG1200: Address:  133417  Function: 3  Alpha:   3<DLE>
+POCSAG1200: Address: 1068391  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1424231  Function: 1 
+POCSAG1200: Address: 1238278  Function: 2 
+POCSAG1200: Address: 1315485  Function: 1 
+POCSAG1200: Address:  823484  Function: 1 
+POCSAG1200: Address: 1648204  Function: 2 
+POCSAG1200: Address:   33419  Function: 0 
+POCSAG1200: Address:  136714  Function: 0 
+POCSAG1200: Address:  297001  Function: 3 
+POCSAG1200: Address: 1446065  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1408201121+++TIME=1408201121<NUL>
+POCSAG1200: Address:   40110  Function: 2  Alpha:   14:08-96 CPAD CPAD2851  PHILLIPS JEWELLERS 57C VICTORIA ROAD WEST THORNTON CLEVELEYS LANCASHIRE FY5 1AJ Allocated to Call 24694694, please call Ambulance Control<NUL>
+POCSAG1200: Address:  801481  Function: 0 
+POCSAG1200: Address:  200371  Function: 1 
+POCSAG1200: Address:  404666  Function: 2 
+POCSAG1200: Address:  665336  Function: 3  Alpha:   [<NAK><HT>P9
+POCSAG1200: Address: 1565343  Function: 2  Alpha:   14:07-10 20/11/2021 14:05:49 INC 24694698 06E01 4 THORNLEY MEWS, HALLIWELL BOLTON, BL1 6BS Female 77Y COPD PATIENT, DIB GRD 370123 410656
+POCSAG1200: Address: 1705427  Function: 2 
+POCSAG1200: Address:  758803  Function: 2 
+POCSAG1200: Address:  791202  Function: 1  Alpha:   d,
+POCSAG1200: Address:  239233  Function: 0  Alpha:   <EOT>%
+POCSAG1200: Address:  312991  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1648727  Function: 1 
+POCSAG1200: Address:  811094  Function: 2 
+POCSAG1200: Address:  360216  Function: 2  Alpha:   14:05-15 33844
+POCSAG1200: Address: 1732928  Function: 1 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:05-43 20/11/2021 14:03:23 INC 24694684 26O01 34 UPTON BRIDLE PATH, UPTON ROCKS WIDNES WA8, WA8 9HB Female 89Y SUFFERS FROM COLITIS WITH V & D GRD 350944 387709
 POCSAG1200: Address: 1817289  Function: 2  Alpha:   14:04-82 3991<NUL>
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   14:04-18 4312<NUL>
 POCSAG1200: Address: 1816881  Function: 2  Alpha:   14:03-39 x0389
@@ -964,37 +998,3 @@ POCSAG512: Address: 1745655  Function: 0
 POCSAG1200: Address: 1032690  Function: 0 
 POCSAG2400: Address: 2074225  Function: 2 
 POCSAG1200: Address: 2025456  Function: 1 
-POCSAG1200: Address: 1379538  Function: 1 
-POCSAG1200: Address: 1147200  Function: 2  Alpha:   h@><VT>'
-POCSAG1200: Address:  266854  Function: 1  Alpha:   f<SYN><ETB><SYN>'
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address:   72073  Function: 2 
-POCSAG1200: Address:  563718  Function: 3 
-POCSAG1200: Address:  895107  Function: 2  Alpha:   b@Dr@
-POCSAG1200: Address:  370479  Function: 3  Alpha:   O%(00
-POCSAG1200: Address:  964336  Function: 0 
-POCSAG1200: Address: 1259427  Function: 2 
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   10:49-12 4660<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1048201121+++TIME=1048201121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1048201121+++TIME=1048201121<NUL>
-POCSAG1200: Address: 1512731  Function: 3  Alpha:   U$
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  959220  Function: 1 
-POCSAG1200: Address: 1256933  Function: 2  Alpha:   10:46-04 8<NUL>
-POCSAG2400: Address:   28870  Function: 0  Alpha:   10:46-75 PLS CALL WENDY ON 3945
-POCSAG2400: Address:   28899  Function: 0  Alpha:   10:46-61 4163<NUL>
-POCSAG1200: Address: 2096120  Function: 3 
-POCSAG1200: Address:  108061  Function: 0  Alpha:   10:46-55 PLEASE CONTACT WEM STATION RE STORING OF APPLIANCE THANKS<NUL><NUL>
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:45-50 3108<NUL>
-POCSAG1200: Address:   35061  Function: 0 
-POCSAG1200: Address: 1873252  Function: 3 
-POCSAG1200: Address: 1032915  Function: 2  Alpha:   V<STX>
-POCSAG1200: Address: 1884768  Function: 1 
-POCSAG2400: Address:   28895  Function: 0  Alpha:   10:43-30 2183<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   10:43-57 4157<NUL>
-POCSAG1200: Address: 1544821  Function: 2 
-POCSAG2400: Address: 1141209  Function: 3 
-POCSAG2400: Address:  365400  Function: 1  Alpha:   rf
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   10:42-67 61334
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1516612  Function: 0 
