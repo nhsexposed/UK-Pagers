@@ -1,3 +1,15 @@
+POCSAG1200: Address: 2075253  Function: 2 
+POCSAG2400: Address:  583507  Function: 2  Alpha:   09:38-46 80300
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0938201121+++TIME=0938201121<NUL>
+POCSAG2400: Address:   28920  Function: 0  Alpha:   09:38-83 2183<NUL>
+POCSAG2400: Address:  583934  Function: 2  Alpha:   09:37-50 80300
+POCSAG2400: Address:  583523  Function: 2  Alpha:   09:37-09 80300
+POCSAG2400: Address:  583541  Function: 2  Alpha:   09:36-73 80300l<DEL>_
+POCSAG1200: Address:  649969  Function: 2  Alpha:   09:35-86 9000<NUL>
+POCSAG1200: Address:  679608  Function: 2  Alpha:   09:35-72 9000<NUL>
+POCSAG1200: Address:  387072  Function: 1 
+POCSAG1200: Address: 1966064  Function: 3 
+POCSAG1200: Address: 1031655  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0933201121+++TIME=0933201121<NUL>
 POCSAG1200: Address: 2075380  Function: 1 
 POCSAG1200: Address: 1603088  Function: 0 
@@ -986,15 +998,3 @@ POCSAG1200: Address: 1911808  Function: 2  Alpha:   W<ETX><CR>?7C3<ETB>S<ETB>;<H
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=034820
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:47-03 2664<NUL>
 POCSAG1200: Address: 2014832  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1532059  Function: 3  Alpha:   03:44-66 DUTY FI PLEASE!<STX>JNTACT CONTROL, THANKS 
-POCSAG1200: Address: 1534179  Function: 2  Alpha:   03:44-47 DUTY FI PLEASE CONTACT CONTROL, THANKS 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:44-85 2445<NUL>
-POCSAG1200: Address: 1489776  Function: 1 
-POCSAG1200: Address:  266849  Function: 1  Alpha:   Ye
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:  369455  Function: 2  Alpha:   O%(20
-POCSAG1200: Address:  222815  Function: 2 
-POCSAG1200: Address:  234377  Function: 2  Alpha:   03:43-00 20/11/2021 03:41:20 INC 24692814 21D05M BOTTOM FLOOR FLAT, 7 HILL STREET, SOUTH SHORE BLACKPOOL, FY4 1DG Female 43Y PASSING BLACK STOOLS - CANT BREATHE PROPERLY GRD 330842 434074<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 si
-POCSAG1200: Address: 1502778  Function: 1  Alpha:   <ESC><NUL>
