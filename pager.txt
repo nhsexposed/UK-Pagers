@@ -1,3 +1,15 @@
+POCSAG1200: Address:  710069  Function: 1  Alpha:   <ENQ>:
+POCSAG1200: Address: 1066084  Function: 3 
+POCSAG1200: Address:   78243  Function: 0  Alpha:   EL
+POCSAG1200: Address: 1201738  Function: 0  Alpha:   s<DC1>
+POCSAG1200: Address: 1559962  Function: 1 
+POCSAG1200: Address: 1204425  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=22y7201121+++TIME=2213201121<NUL>
+POCSAG2400: Address: 2026359  Function: 2 
+POCSAG1200: Address: 1058476  Function: 2  Alpha:   22:11-30 20/11/2021 22:11:30 INC 24696625 DX0121 50 HAWTHORN DRIV
+POCSAG1200: Address:   70755  Function: 0  Alpha:   $Xj9Y(:<LF><EOT><EM>II<HT>4Hy9ZH<ENQ>D<EM>iZ8Z<CAN><VT>$H<EM>88)X*jI<ENQ>$((<ACK>D&z<BS>T<EM>L]<FF>TV<SYN><VT>D<CAN>)<BS>t(J<BS>4ffv<ACK>6<ACK>D&Vf<SYN><SYN><ACK><NUL>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   22:11-63 20/11/2021 22:09:34 INC 24696618 06E01E
+POCSAG1200: Address: 1534189  Function: 2  Alpha:   22:09-03 CONTACT CONTROL 
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   22:09-02 4155<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2208201121+++TIME=2208201121<NUL>
@@ -986,15 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   19:28-09 3298<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  216513  Function: 2  Alpha:   19:29:12 S10P1 Fire call 14499<NUL>
 POCSAG1200: Address:  216512  Function: 2  Alpha:   19:29:12 S10P1 Fire call 14499<NUL>
-POCSAG1200: Address:  216511  Function: 2  Alpha:   19:29:12 S10P1 Fire call 14499<NUL>
-POCSAG1200: Address:  216510  Function: 2  Alpha:   19:29:12 S10P1 Fire call 14499<NUL>
-POCSAG1200: Address:  216509  Function: 2  Alpha:   19:29:12 S10P1 Fire call 14499<NUL>
-POCSAG1200: Address:  216505  Function: 2  Alpha:   19:29:12 S10P1 Fire call 14499<NUL>
-POCSAG1200: Address:  592167  Function: 1  Alpha:   fjfhbf@hfbbrh<NUL>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address: 1744993  Function: 0 
-POCSAG1200: Address: 1795594  Function: 2 
-POCSAG1200: Address:  167130  Function: 1 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   19:24-20 20/11/2021 19:21:16 INC 24695894 26D01 <CAN><SYN> <ENQ><ENQ><SOH>RTON ROAD, BLACKPOOL, FY1 2NN Female 49Y VOMITING GRD 374:9345s7233<NUL>
-POCSAG1200: Address:  216512  Function: 2  Alpha:   19:26:28 S10P1 Fire call 14499<NUL>
-POCSAG1200: Address: 1464513  Function: 1 
