@@ -1,3 +1,13 @@
+POCSAG1200: Address: 2029301  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728201121+++TIME=0728201121<NUL>
+POCSAG1200: Address: 1868336  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   07:27-89 33813
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   07:27-92 4935<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1066362  Function: 3 
+POCSAG1200: Address:   82209  Function: 1  Alpha:   DE
+POCSAG1200: Address: 1880950  Function: 3 
+POCSAG1200: Address: 2008955  Function: 0 
 POCSAG2400: Address:  333408  Function: 0 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
@@ -988,13 +998,3 @@ POCSAG2400: Address:   68592  Function: 3  Alpha:   st<NUL>BO
 POCSAG2400: Address:  194280  Function: 3 
 POCSAG2400: Address:  386895  Function: 0  Alpha:   O%
 POCSAG2400: Address: 2060992  Function: 2  Alpha:   Ok<SOH><SOH><NUL>
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   00:59-58 PLEASE CALL JASON AT MEADOWVIEW ON 01227 207 117 RE CANNULA
-POCSAG2400: Address:  584009  Function: 2  Alpha:   01:00-16 4588<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   00:59-23 2445<NUL>
-POCSAG2400: Address:  585013  Function: 2  Alpha:   00:58-46 PIN 11491 PLEASE CALL DSCC ON 03457 500 620 DUTY CASE <NUL><NUL>
-POCSAG1200: Address:  182868  Function: 0 
-POCSAG1200: Address:  366899  Function: 1 
-POCSAG1200: Address:  297379  Function: 1 
-POCSAG1200: Address:  136626  Function: 1 
-POCSAG1200: Address: 1713474  Function: 2 
-POCSAG1200: Address: 1147169  Function: 0 
