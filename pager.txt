@@ -1,3 +1,11 @@
+POCSAG1200: Address:  915464  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0358211121+++TIME=0358211121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358211121+++TIME=0358211121<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   03:58-52 5400<NUL>
+POCSAG1200: Address:  334771  Function: 2 
+POCSAG1200: Address: 1745050  Function: 0 
+POCSAG1200: Address:   43777  Function: 3 
+POCSAG1200: Address:  300617  Function: 3 
 POCSAG2400: Address: 1717347  Function: 2 
 POCSAG2400: Address:  447912  Function: 1  Alpha:   <NAK>jDfb<RS>XYR<EM>Y
 POCSAG2400: Address:  858416  Function: 2 
@@ -990,11 +998,3 @@ POCSAG2400: Address:  759470  Function: 1
 POCSAG2400: Address:  790613  Function: 3  Alpha:   <STX><LF>
 POCSAG2400: Address: 1586540  Function: 2 
 POCSAG1200: Address: 1032620  Function: 3  Alpha:   A<EM>
-POCSAG1200: Address: 1550972  Function: 0 
-POCSAG1200: Address: 2049651  Function: 0 
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><ACK>"*<DC2>C1f
-POCSAG1200: Address:   40161  Function: 2  Alpha:   21:28-32 please call rfh BLP 1032<NUL>
-POCSAG1200: Address:  858134  Function: 0  Alpha:   ,L
-POCSAG1200: Address: 1534231  Function: 2  Alpha:   21:28-27 (2/2)  487030,153831 <NUL>
-POCSAG1200: Address: 2074227  Function: 2 
-POCSAG1200: Address: 1322125  Function: 2  Alpha:   21:28-90 please call rfh BLP 1032<NUL>
