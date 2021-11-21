@@ -1,3 +1,35 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:13-17 3105<NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   21:13-75 PLS CONTACT 7A EXT 40453<NUL>
+POCSAG1200: Address: 1573739  Function: 2  Alpha:   21:13-21 4226<NUL>
+POCSAG1200: Address:  238491  Function: 2  Alpha:   11256
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:12-16 2616<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   21:12-98 21/11/2021 20:34:24 INC 24701177 04D03A 127B ALDERWOOD AVENUE, SPEKE L24, L24 7RB Male 38Y LEG BROKE GRD 345195 383237<NUL>
+POCSAG1200: Address:  600522  Function: 2  Alpha:   21:10-76 PLS CALL 20303<NUL><NUL>
+POCSAG2400: Address:   28868  Function: 0  Alpha:   21:10-61 NICK MEDICAL SHO IN ED - BLEEP 1018<NUL>
+POCSAG1200: Address: 1743105  Function: 1 
+POCSAG1200: Address:  153224  Function: 0  Alpha:   <DC4>h
+POCSAG1200: Address:  268127  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address:  825151  Function: 0 
+POCSAG1200: Address: 1650294  Function: 1 
+POCSAG1200: Address:  708941  Function: 0  Alpha:    D
+POCSAG1200: Address: 1068139  Function: 1 
+POCSAG1200: Address: 1155914  Function: 3 
+POCSAG1200: Address:  905986  Function: 2 
+POCSAG1200: Address:  383304  Function: 2  Alpha:   <DC4>H<DC1>9<ESC>
+POCSAG1200: Address: 1225815  Function: 1  Alpha:   2<SOH>ug<DC2><DC4>ch
+POCSAG1200: Address:   65829  Function: 2  Alpha:    g<SOH>db
+POCSAG1200: Address: 1417020  Function: 0 
+POCSAG1200: Address: 1133314  Function: 2 
+POCSAG1200: Address: 1770953  Function: 0 
+POCSAG1200: Address:  314641  Function: 0 
+POCSAG1200: Address:  895111  Function: 2  Alpha:   O%(1 "2 
+POCSAG1200: Address:  197135  Function: 2 
+POCSAG1200: Address:  445470  Function: 0 
+POCSAG1200: Address:  266853  Function: 1  Alpha:   v<ACK>
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  101164  Function: 3  Alpha:   `h
+POCSAG1200: Address: 1263195  Function: 2 
+POCSAG1200: Address: 1925527  Function: 2 
 POCSAG2400: Address:   28870  Function: 0  Alpha:   21:09-88 QEQM A&E - PLS RING DR TABAKKAH - EXT 725 3347 <NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   21:08-19 2447<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108211121+++TIME=2108211121<NUL>
@@ -966,35 +998,3 @@ POCSAG2400: Address:  682002  Function: 3
 POCSAG2400: Address: 1461530  Function: 2 
 POCSAG2400: Address: 1652841  Function: 0  Alpha:   R2
 POCSAG2400: Address:  177164  Function: 1 
-POCSAG2400: Address:  625715  Function: 1  Alpha:   M=
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   18:24-64 21/11/2021 18:22:09 INC 24700628 06E01 121 WORSLEY ROAD NORTH, WALKDEN MANCHESTER, M28 3GF Female 68Y TIRED- FINDING IT HARD TO BREATHE GRD 373546 404394
-POCSAG1200: Address:  216339  Function: 2  Alpha:   18:23-96 PLS CALL CONTROL
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1823211121+++TIME=1823211121<NUL>
-POCSAG2400: Address: 2066043  Function: 0 
-POCSAG2400: Address:   28869  Function: 0  Alpha:   18:21-40 PLS CALL 26040<NUL><NUL>
-POCSAG2400: Address: 1320379  Function: 2  Alpha:   18:21-32 2616<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   18:21-05 4167<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:21-20 21/11/2021 18:18:11 INC 24700613 29D02M OPPOSITE THE CEMETRY, MARSLAND ROAD, SALE, M33 7UJ Female 32Y CAR-HIT GRD 378257 391302<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   18:21-31 21/11/2021 18:18:11 INC 24700613 29D02M OPPOSITE THE CEMETRY, MARSLAND ROAD, SALE, M33 7UJ Female 32Y CAR-HIT GRD 378257 391302<NUL>
-POCSAG1200: Address:  563715  Function: 3 
-POCSAG1200: Address: 1362961  Function: 0  Alpha:   I<BS><DC4>z<EM>
-POCSAG1200: Address:  791737  Function: 3 
-POCSAG1200: Address: 1261736  Function: 2 
-POCSAG1200: Address:  842291  Function: 2  Alpha:   <FF>H<<SO><DC1>
-POCSAG1200: Address: 1814626  Function: 3 
-POCSAG1200: Address:  697538  Function: 2 
-POCSAG1200: Address: 1155841  Function: 1  Alpha:   <DC2><GS>
-POCSAG1200: Address:  400568  Function: 1  Alpha:   <CAN><FS>
-POCSAG1200: Address:  858135  Function: 0  Alpha:   g<DC2>
-POCSAG1200: Address: 1263285  Function: 1 
-POCSAG1200: Address:  842294  Function: 2 
-POCSAG1200: Address: 1814629  Function: 3 
-POCSAG2400: Address:   28870  Function: 0  Alpha:   18:20-85 DR LACRA QEQM MARGATE - 725 3347 
-POCSAG1200: Address: 1817128  Function: 0 
-POCSAG1200: Address: 1323351  Function: 2  Alpha:   18:18-30 18:18-29 LISA FROM THIRDPARK NOTIFY ON CALL THAT WERE PURPLE 4 ON PEIRAGE <NUL><NUL>
-POCSAG1200: Address: 1511994  Function: 3  Alpha:   Uj
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1818211121+++TIME=1818211121<NUL>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   18:18-75 INC ALERT No: 16808104 Ineffective breathing - PASSED OUT AT WORK, VOMITING, BARELY BREATHE, AT: 124 LANCELOT ROAD, EXETER, EX4 9BX, Time of Call: 21/11/2021 18:16:57, Co-ords: 50.7419023 -3.5003745<NUL>
-POCSAG1200: Address: 1630829  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   18:16-61 Frank stansil Ext: 37720<NUL>
