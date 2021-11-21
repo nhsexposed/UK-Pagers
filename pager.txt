@@ -1,3 +1,11 @@
+POCSAG1200: Address:   94505  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0533211121+++TIME=0533211121<NUL>
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   05:33-40 21/11/2021 05:30:02 INC 24698132 31D02 OS, BLITZ, CHURCH ROW, PRESTON, PR1 3BX Male 25Y NOT RESPONDING
+POCSAG512: Address: 2038130  Function: 2  Alpha:   T]<><RS>|\<FF>tm<CR>$8<ACK>4<RS>M\<FF><DC4>&6FVfv<ACK><ETB><BEL><SYN>&6FVfv<ACK><ETB><BEL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB T
+POCSAG2400: Address:  216263  Function: 2  Alpha:   05:31-06
+POCSAG2400: Address: 1975920  Function: 1 
+POCSAG2400: Address: 2026358  Function: 2 
 POCSAG1200: Address:  585538  Function: 2  Alpha:   05:28-54 3622<NUL>
 POCSAG2400: Address:  858667  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address:   70755  Function: 0  Alpha:   $Xj9Y(:<LF><EOT><EM>II<HT>4H
 POCSAG1200: Address: 1565498  Function: 2  Alpha:   22:11-63 20/11/2021 22:09:34 INC 24696618 06E01E
 POCSAG1200: Address: 1534189  Function: 2  Alpha:   22:09-03 CONTACT CONTROL 
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   22:09-02 4155<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2208201121+++TIME=2208201121<NUL>
-POCSAG1200: Address:  959220  Function: 0 
-POCSAG2400: Address:  754409  Function: 2  Alpha:   hehou
-POCSAG2400: Address: 1356367  Function: 1  Alpha:   &<SO>fg<DC2>
-POCSAG2400: Address: 1255000  Function: 3 
-POCSAG2400: Address:  440463  Function: 1  Alpha:   O%
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
