@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2046056  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1416029  Function: 0  Alpha:   `p
+POCSAG1200: Address:  202332  Function: 3 
+POCSAG1200: Address: 2024041  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0453211121+++TIME=0453211121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453211121+++TIME=0453211121<NUL>
 POCSAG2400: Address: 1257600  Function: 2  Alpha:   2<SOH><HT><ACK>R"2<SOH><HT><ACK>F<SOH>I<NAK><SYN>2<SOH>Q&7<ETB><ETX>=<ESC><ETX><CR><ACK>33k<SOH>IE=EE=IAIE<SOH>AQiQUiUA1<SOH><CR>>7=K<DC3>Ok<SOH>UE9MaUEAMU<SOH>5I9MYIAE]E
@@ -993,8 +998,3 @@ POCSAG2400: Address: 2011894  Function: 0
 POCSAG2400: Address:  883765  Function: 3  Alpha:   ><FF><GS>/<BEL>T!1J<RS>L^,<BEL>t9Y!A<CAN>L^<FF>d<EOT>D<SUB>]],<BEL>4<SUB>L<SO>dy<CR><NUL>
 POCSAG1200: Address: 1420127  Function: 0  Alpha:   fl@g<DC2>
 POCSAG1200: Address: 1263198  Function: 2 
-POCSAG1200: Address: 2044462  Function: 1 
-POCSAG1200: Address: 2073077  Function: 0 
-POCSAG1200: Address:  433853  Function: 2  Alpha:   21:54-02 UNSPEC KIDNEY OFFER: Donor: 153040, DCD, Hospital: DERRIFORD, PLY
-POCSAG1200: Address: 1176198  Function: 3 
-POCSAG1200: Address: 1264941  Function: 3  Alpha:   K<ENQ>
