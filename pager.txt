@@ -1,3 +1,17 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2358201121+++TIME=2358201121<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   23:58-54 20/11/2021 23:57:13 INC 24697065 13C01 5 WHALLEY ROAD, HALE ALTRINCHAM, WA15 9DF Male 50Y DIABETIC - LOW BLOOD SUGARS GRD 378178 386775<NUL>
+POCSAG1200: Address: 1042034  Function: 0 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   2 :56-51 20
+POCSAG1200: Address: 1058499  Function: 2  Alpha:   23:56-08 20/11/2021 23:54:17 INC 24697056 09E02 1 THE STABLES, HESKETH BANK PRESTON, PR4 6EF Female 74Y Q STROKE GRD 344629 422693<NUL>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   23:56-76 20/11/2021 23:54:17 INC 24697056 09E02 1 THE STABLES, HESKETH BANK PRESTON, PR4 6EF Female 74Y Q STROKE GRD 344629 422693<NUL>
+POCSAG1200: Address: 1477815  Function: 2  Alpha:   3<HT>
+POCSAG1200: Address:  891255  Function: 3 
+POCSAG1200: Address: 2043008  Function: 2  Alpha:   <ETX><VT>C<ETX><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:55-07 20/11/2021 23:51:07 INC 24697043 29B01 O/S, 472 QUEENS DRIVE, STONEYCROFT L13, L13 0AS Male#<DEL>5Y LOST CONTROL OF VEHICLE - ?MI GRD 339456 392018<NUL><NUL>
+POCSAG1200: Address: 2009220  Function: 2  Alpha:   23:55-00 6595<NUL>
+POCSAG1200: Address:  358291  Function: 2  Alpha:   23:55-95 6595<NUL>
+POCSAG1200: Address:   16050  Function: 2  Alpha:   23:55-92 6595<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:55-05 4156<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1349437  Function: 1
 POCSAG1200: Address: 1162028  Function: 3  Alpha:   hf
 POCSAG1200: Address: 1246812  Function: 3 
 POCSAG1200: Address: 1148761  Function: 0  Alpha:   ``
-POCSAG1200: Address: 1246808  Function: 3 
-POCSAG1200: Address:  266208  Function: 0 
-POCSAG1200: Address:  290101  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1106139  Function: 0 
-POCSAG2400: Address: 1148762  Function: 0  Alpha:   np
-POCSAG2400: Address: 1246809  Function: 3 
-POCSAG2400: Address:  584089  Function: 2 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   20:17-13 Call 24696131 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address: 1534235  Function: 2  Alpha:   20:17-91 DUTY FI TO CONTACT CONTROL <NUL>
-POCSAG1200: Address: 1534139  Function: 2  Alpha:   20:17-67 DUTY FI TO CONTACT CONTROL <NUL>
-POCSAG1200: Address:  393842  Function: 1 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   20:16-14 4954<NUL>
-POCSAG2400: Address:  583520  Function: 2  Alpha:   20:17-80 80300
