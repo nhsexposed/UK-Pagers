@@ -1,3 +1,24 @@
+POCSAG1200: Address: 1093585  Function: 1  Alpha:   <STX><STX>
+POCSAG1200: Address: 1892736  Function: 0 
+POCSAG1200: Address:  133903  Function: 2  Alpha:   s2yg<DC2><DC4><BS>5
+POCSAG1200: Address:  832373  Function: 0  Alpha:   >.V&<SI>
+POCSAG1200: Address:  861643  Function: 1 
+POCSAG1200: Address:  536682  Function: 1 
+POCSAG1200: Address: 1336770  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0738211121+++TIME=0738211121<NUL>
+POCSAG2400: Address: 2075379  Function: 1 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   07:38-21 4157<NUL>
+POCSAG2400: Address: 2077693  Function: 2 
+POCSAG1200: Address:  334176  Function: 2  Alpha:   07:36-81 8386<NUL>
+POCSAG1200: Address:  639681  Function: 3 
+POCSAG1200: Address: 1263401  Function: 0 
+POCSAG1200: Address: 1330200  Function: 2 
+POCSAG1200: Address: 1245902  Function: 3 
+POCSAG1200: Address:  969790  Function: 1 
+POCSAG1200: Address:  266853  Function: 1  Alpha:   f<SYN>
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address: 1684267  Function: 3  Alpha:   fj
+POCSAG1200: Address:  226395  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0733211121+++TIME=0733211121<NUL>
 POCSAG2400: Address: 1320204  Function: 2  Alpha:   07:32-64 3294<NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   07:31-10 PROBLEM: vSphere - vCenter - Datastore Status: All Datastores is CRITICAL on host mansdpmvcs01a.hosting.civica.com, <CR><LF>PROBLEM: vSphere - vCenter - Datastore Status: All Datastores is CRITICAL on host mansdpmvcs01a.hosting.civica.com<CR><LF>Servic<NUL><NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1565498  Function: 2  Alpha:   23:56-76 20/11/2021 23:54:17
 POCSAG1200: Address: 1477815  Function: 2  Alpha:   3<HT>
 POCSAG1200: Address:  891255  Function: 3 
 POCSAG1200: Address: 2043008  Function: 2  Alpha:   <ETX><VT>C<ETX><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:55-07 20/11/2021 23:51:07 INC 24697043 29B01 O/S, 472 QUEENS DRIVE, STONEYCROFT L13, L13 0AS Male#<DEL>5Y LOST CONTROL OF VEHICLE - ?MI GRD 339456 392018<NUL><NUL>
-POCSAG1200: Address: 2009220  Function: 2  Alpha:   23:55-00 6595<NUL>
-POCSAG1200: Address:  358291  Function: 2  Alpha:   23:55-95 6595<NUL>
-POCSAG1200: Address:   16050  Function: 2  Alpha:   23:55-92 6595<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:55-05 4156<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1745655  Function: 0 
-POCSAG1200: Address: 1322125  Function: 2  Alpha:   23:50-93 please call rfh ext 36629
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2348201121+++TIME=2348201121<NUL>
-POCSAG1200: Address:  734811  Function: 3 
-POCSAG1200: Address:  413164  Function: 2  Alpha:   23:47-53 DR PLEASE BLEEP DR HUSSEINI AT BRI ON BLEEP 1112 <NUL><NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   23:47-52 20/11/2021 23:40:30 INC 24697000 06E01 SURREY LODGE - FLAT 20, 2-4 BIRCH LANE, RUSHOLME MANCHESTER, M13 0NN Male 4Y DIB - RUNNY NOISE GRD 386488 39587
-POCSAG2400: Address:   28922  Function: 0  Alpha:   23:47-75 5400<NUL>
-POCSAG2400: Address:   11694  Function: 0  Alpha:   23:47-23 FIRE CALL<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   23:47-89 5125<NUL>
-POCSAG1200: Address: 1746664  Function: 0 
-POCSAG2400: Address: 1031481  Function: 0 
-POCSAG1200: Address: 1138899  Function: 3 
-POCSAG1200: Address:  895778  Function: 2  Alpha:   nr
