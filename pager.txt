@@ -1,3 +1,22 @@
+POCSAG1200: Address:   41432  Function: 2  Alpha:   06:19-05 21/11/2021 06:17:39 INC 24698218 13C03 47 OLYMPIA STREET, FULLEDGE BURNLEY, BB10 4ER Female 83Y DIABETIC - HYPER GRD 385314 432259<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0618211121+++TIME=0618211121<NUL>
+POCSAG2400: Address:  193220  Function: 3 
+POCSAG2400: Address: 1255212  Function: 0 
+POCSAG2400: Address:  856619  Function: 1  Alpha:   <STX>"
+POCSAG2400: Address: 1894657  Function: 2 
+POCSAG2400: Address:  144161  Function: 1 
+POCSAG2400: Address:  189576  Function: 2 
+POCSAG2400: Address:   67573  Function: 3  Alpha:   inT g::<GS>
+POCSAG2400: Address: 1685410  Function: 0 
+POCSAG2400: Address:  659529  Function: 3 
+POCSAG2400: Address: 1153816  Function: 2  Alpha:   @<BS>
+POCSAG2400: Address: 1704999  Function: 1  Alpha:   g<DC2><DC4><DLE>l
+POCSAG2400: Address:  339870  Function: 2  Alpha:   z<BS>
+POCSAG2400: Address:  859310  Function: 0 
+POCSAG2400: Address: 1188941  Function: 1 
+POCSAG2400: Address: 1994994  Function: 0  Alpha:   &<SI>f<ACK>R
+POCSAG2400: Address:  371481  Function: 1  Alpha:   @<DLE>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  225334  Function: 2  Alpha:   06:13-75 PLEASE CALL 01452 894 591
 POCSAG2400: Address: 1324620  Function: 2  Alpha:   06:13-70 PLEASE CALL 01452 894 591
 POCSAG2400: Address:  225057  Function: 2  Alpha:   06:13-76 PLEASE CALL 01452 894 591
@@ -979,22 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  216272  Function: 2  Alpha:   23:06-66 PROBLEM: Disk: I is CRITICAL on host whehoulbob01oni, <CR><LF>PROBLEM: Disk: I is CRITICAL on host whehoulbob01oni<CR><LF>Service: Disk: I<CR><LF>Host: whehoulbob01oni<CR><LF>Alias: <CR><LF>Address: 10.32.73.38<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > <NUL><NUL>
 POCSAG1200: Address: 1535868  Function: 1  Alpha:   y)Z<BS>$X*jIY<CAN>K<ENQ>$(<CAN>&<ACK>d&<CAN><VT>T<EM>L]<FF>d<ACK><SYN><VT>Dyy<LF>$<BS>J<ENQ>DZX<HT>J<ENQ>Dy98YH<BS><EOT><EM>Y9ZHi<BS><DC4>i<HT>$zyY<HT>t(J<BS>4<ACK><ETB>v<ACK>'<ACK>D66<SYN><SYN>w
 POCSAG1200: Address:   41432  Function: 2  Alpha:   23:05-94 20/11/2021 23:03:35
-POCSAG1200: Address: 1700741  Function: 2  Alpha:   e""<CAN>4
-POCSAG1200: Address:  682004  Function: 0 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   23:03-86 2188<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2303201121+++TIME=2303201121<NUL>
-POCSAG2400: Address:  197833  Function: 0 
-POCSAG2400: Address: 1476648  Function: 2 
-POCSAG1200: Address: 1786906  Function: 3 
-POCSAG2400: Address:   28895  Function: 0  Alpha:   23:02-38 2183<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  960094  Function: 1 
-POCSAG1200: Address: 1253552  Function: 1 
-POCSAG1200: Address: 1089317  Function: 2  Alpha:   L<ENQ>2<FF>l
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2258201121+++TIME=2258201121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2258201121+++TIME=2258201121<NUL>
-POCSAG1200: Address: 1469043  Function: 1 
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   22:57-68 20/11/2021 22:53:16 INC 24696798 06E01 SNAKE TATTOO SHOP, 29 NEW HALL LANE, PRESTON, PR1 5NX Male 41Y SOB, FEELS LIKE HAVING HEART ATTACK GRD 354900 429612<NUL>
-POCSAG1200: Address: 1356915  Function: 0  Alpha:   R><SUB>2<SOH>
-POCSAG1200: Address:  502304  Function: 2 
-POCSAG1200: Address: 1481757  Function: 3 
