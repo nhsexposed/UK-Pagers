@@ -38957,3 +38957,6 @@ POCSAG1200: Address: 1560771  Function: 3  Alpha:   <ACK>+
 POCSAG2400: Address:   11678  Function: 0  Alpha:   19:13-10 Ian is responding<NUL><NUL>
 POCSAG1200: Address:  649969  Function: 2  Alpha:   19:14-08 69001
 POCSAG2400: Address: 1322351  Function: 2  Alpha:   19:14-73 Please call PAH ext:973874<NUL><NUL>
+POCSAG2400: Address:  901449  Function: 2  Alpha:   19:14-94 2222<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1918211121++)\IME=1918211121<NUL>
