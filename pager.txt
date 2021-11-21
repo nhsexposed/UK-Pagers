@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0033211121+++TIME=0033211121<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   00:33-56 RECOVERY: saupenlovc02a is UP, <CR><LF>RECOVERY: saupenlovc02a is UP<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: UP<CR><LF>Date & Time: Sun Nov 21 00:33:37 UTC 2021<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   00:33-88 RECOVERY: saupenlovc02a is UP, <CR><LF>RECOVERY: saupenlovc02a is UP<CR><LF><CR><LF>Host: s
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   00:33-97 4157<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1095090  Function: 0 
 POCSAG1200: Address: 1770016  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 2026353  Function: 2 
@@ -992,9 +998,3 @@ POCSAG1200: Address:  856888  Function: 1
 POCSAG1200: Address:  148118  Function: 2  Alpha:   b <LF>d"<SYN><DLE>czY<EOT>
 POCSAG1200: Address:  284621  Function: 0 
 POCSAG1200: Address:   97507  Function: 2 
-POCSAG1200: Address:  865298  Function: 3  Alpha:   pS<NAK><DC2><DC1>
-POCSAG1200: Address:  799601  Function: 3  Alpha:   <SO>*
-POCSAG1200: Address: 1625455  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1127439  Function: 0 
-POCSAG1200: Address: 1729678  Function: 2 
-POCSAG1200: Address: 1444442  Function: 3 
