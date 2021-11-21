@@ -1,3 +1,8 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   ++
+POCSAG1200: Address:  283465  Function: 2 
+POCSAG1200: Address: 1761330  Function: 0 
+POCSAG1200: Address:  618274  Function: 0 
+POCSAG1200: Address:  227444  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0143211121+++TIME=0143211121<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
@@ -969,11 +974,6 @@ POCSAG1200: Address: 2075248  Function: 2
 POCSAG1200: Address: 1761330  Function: 0 
 POCSAG1200: Address:  618274  Function: 0 
 POCSAG1200: Address:   10272  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
