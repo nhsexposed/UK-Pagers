@@ -1,3 +1,17 @@
+POCSAG2400: Address:   28907  Function: 0  Alpha:   19:34-55 2343<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1933211121+++TIME=1933211121<NUL>
+POCSAG1200: Address: 1363224  Function: 0 
+POCSAG1200: Address:  266853  Function: 1  Alpha:   v<ACK>
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address: 1680171  Function: 3  Alpha:   jb
+POCSAG1200: Address:  696118  Function: 2  Alpha:   19:33-61 call 33867<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1261918  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:31-79 3157<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   19:30-68 Anni Zunz x37907
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   19:30-42 21/11/2021 19:27:13 IN
+POCSAG2400: Address: 1850288  Function: 0 
 POCSAG1200: Address:  350338  Function: 0  Alpha:   19:29-69 21/11/2021 19:28:29 INC 24700918 13C01 16 GRAHAM STREET, PRESTON, PR1 6QP Female 53Y VOMITING - DIABETIC GRD 354655 430203
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   C0YcL
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1928211121+++TIME=1928211121<NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1992561  Function: 0
 POCSAG1200: Address: 1686114  Function: 1 
 POCSAG1200: Address: 1070690  Function: 1 
 POCSAG1200: Address:  370849  Function: 3 
-POCSAG1200: Address: 1705056  Function: 2  Alpha:    <SUB>
-POCSAG1200: Address:  779789  Function: 3 
-POCSAG1200: Address:  874296  Function: 1 
-POCSAG1200: Address: 2025080  Function: 0 
-POCSAG1200: Address: 1578344  Function: 1 
-POCSAG1200: Address:  779727  Function: 1 
-POCSAG1200: Address:  721548  Function: 3 
-POCSAG1200: Address:  429404  Function: 1 
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 2074226  Function: 2 
-POCSAG2400: Address: 1323263  Function: 2  Alpha:   16:20-02 NHSBT - DONOR REFERRAL. Please call NURSE MELANIE BOSCO on Direct Dial Number 01214242207 Hospital BIRMINGHAM HEARTLANDS Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1979104  Function: 3 
-POCSAG2400: Address: 1665519  Function: 1  Alpha:   g<DC2>
