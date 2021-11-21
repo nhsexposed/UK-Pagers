@@ -1,3 +1,22 @@
+POCSAG2400: Address: 1323120  Function: 2  Alpha:   09:13-04
+POCSAG2400: Address:  497162  Function: 3  Alpha:   4<DC1>
+POCSAG2400: Address:  761017  Function: 1  Alpha:   4-
+POCSAG2400: Address: 1516896  Function: 3 
+POCSAG2400: Address: 1075463  Function: 0  Alpha:   3<HT>*:P
+POCSAG2400: Address: 1263182  Function: 3  Alpha:   <DC1><DC2><DC3>1<SYN>
+POCSAG2400: Address:  677925  Function: 0  Alpha:   d<STX>
+POCSAG2400: Address: 1465882  Function: 1 
+POCSAG2400: Address:  632608  Function: 2  Alpha:   dlb@<DLE>Oga
+POCSAG2400: Address: 1667277  Function: 3 
+POCSAG2400: Address:  388571  Function: 1 
+POCSAG2400: Address: 1559442  Function: 1 
+POCSAG2400: Address: 1866481  Function: 2 
+POCSAG1200: Address:  585254  Function: 2  Alpha:   09:13-02 01173421904
+POCSAG2400: Address: 1022623  Function: 2  Alpha:   09:13-44 01603711132
+POCSAG2400: Address:  225851  Function: 2  Alpha:   09:13-43 107204<NUL><NUL>
+POCSAG2400: Address: 1942389  Function: 0 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   09:11-47 4312<NUL>
+POCSAG1200: Address:  696118  Function: 2  Alpha:   09:11-41 33835
 POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
 POCSAG1200: Address: 1246731  Function: 2 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:08-46 21/11/2021 09:07:08 INC 24698569 06E01 3 BASLOW DRIVE, HEALD GREEN CHEADLE, SK8 3HW Female 74Y CANT GET BREATH GRD 385257 385366
@@ -979,22 +998,3 @@ POCSAG2400: Address: 1880672  Function: 1
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313211121+++TIME=0313211121<NUL>
 POCSAG2400: Address:  893490  Function: 0 
 POCSAG2400: Address: 1978494  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  930489  Function: 2  Alpha:   03:03-28 21/11/2021 03:01:09
-POCSAG1200: Address: 1144681  Function: 1 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   03:03-73 21/11/2021 
-POCSAG1200: Address: 1330699  Function: 2 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 2013036  Function: 2  Alpha:   >w
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   03:02-00 21/11/2021 02:59:56 INC 24697764 29D02M JOHN RYLANDS LIBARY, DEANSGATE, CITY MANCHEST
-POCSAG1200: Address: 1766256  Function: 0 
-POCSAG1200: Address: 1147432  Function: 1  Alpha:   b0
-POCSAG1200: Address: 2028158  Function: 1 
-POCSAG2400: Address: 1748512  Function: 0 
-POCSAG2400: Address:  484866  Function: 2 
-POCSAG2400: Address: 2024023  Function: 2 
-POCSAG2400: Address:  549083  Function: 2  Alpha:   02:57-14 PLEASE CALL HANNAH CHUNG ON 07983 150 055<NUL>
-POCSAG2400: Address: 1022273  Function: 0  Alpha:   02:57-82 PLEASE CALL(b@NNAH CHUNG ON 07983 150 055<NUL>
-POCSAG1200: Address: 1263529  Function: 3 
-POCSAG1200: Address: 1489776  Function: 1 
-POCSAG1200: Address: 2008670  Function: 2 
