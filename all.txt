@@ -40617,3 +40617,16 @@ POCSAG2400: Address:  216268  Function: 2  Alpha:   23:49-63 PROBLEM: Netscaler 
 POCSAG2400: Address:   78345  Function: 0  Alpha:   77
 POCSAG2400: Address:  196066  Function: 2  Alpha:   iA
 POCSAG2400: Address:  216268  Function: 2  Alpha:   23:49-64 PROBLEM: Netscaler vServer: ldaps.bootsmv|m.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
+POCSAG1200: Address: 2045360  Function: 2  Alpha:   2<SYN><DC2><STX><GS>J<DC2><STX>MaeY]E<SOH>Mae]]a<SOH>
+POCSAG1200: Address:   41967  Function: 2  Alpha:   23:49-17 PLEASE CONTACT CONTROL- AGAIN<NUL>
+POCSAG2400: Address: 1324567  Function: 2  Alpha:   23:49-65 INC ALERT No: 16809129 Cardiac Arrest -, AT: FLAT 2, 20 HIGH STREET, BIDEFORD, EX39 2AA, Time of Call: 21/11/2021 23:48:08, Co-ords: 51.0177457 -4.2068494<NUL><NUL>
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   23:50-10 21/11/2021 23:46:51 INC 24701815 23B01I FORSHAWS HOTELljIBIS HOTEL, TALBOT SQUARE, BLACKPOOL, FY1 1ND Male 35Y SPIKED GRD 330606 436319<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2353211121+++TIME=2353211121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=235321
+POCSAG1200: Address:  427675  Function: 1  Alpha:   XUU<NAK>jdfb<RS>YYZ<EM>YXX<CAN>Y<CAN><NUL>
+POCSAG1200: Address:  401917  Function: 0 
+POCSAG1200: Address: 1271389  Function: 2 
+POCSAG1200: Address: 1411934  Function: 0  Alpha:   rd
+POCSAG1200: Address: 1404631  Function: 1  Alpha:   <DC3><ETX>cg<DC2>
