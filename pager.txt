@@ -1,3 +1,33 @@
+POCSAG1200: Address: 1856144  Function: 1 
+POCSAG1200: Address: 1900032  Function: 3 
+POCSAG1200: Address: 1414119  Function: 3  Alpha:   O%
+POCSAG1200: Address:  674710  Function: 3  Alpha:   X8
+POCSAG1200: Address:  938662  Function: 1 
+POCSAG1200: Address:  177164  Function: 1 
+POCSAG1200: Address: 1193154  Function: 1 
+POCSAG1200: Address:  165680  Function: 0 
+POCSAG1200: Address:  325941  Function: 1  Alpha:   ES DABWEN, ~,B
+POCSAG1200: Address:  134246  Function: 2  Alpha:   ,<DLE>Crv`3<HT><SUB>;<EM>
+POCSAG1200: Address:  165686  Function: 0 
+POCSAG1200: Address:  275427  Function: 3  Alpha:   f<SYN>
+POCSAG2400: Address: 1128470  Function: 0 
+POCSAG1200: Address: 1948968  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1043211121+++TIME=1043211121<NUL>
+POCSAG1200: Address: 1028735  Function: 0 
+POCSAG1200: Address: 2012022  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   10:42-88 LOGGING ISSUE ANALYST 01865 221875 PEDIATRIC HDU <NUL><NUL>
+POCSAG1200: Address:  629956  Function: 1 
+POCSAG1200: Address: 1261715  Function: 0 
+POCSAG1200: Address: 1112370  Function: 1  Alpha:   TO
+POCSAG1200: Address: 1133066  Function: 0 
+POCSAG1200: Address:  610976  Function: 3  Alpha:   ,<EOT>b,4
+POCSAG1200: Address: 1757559  Function: 1  Alpha:   UELg<DC2><DC4><DLE>f
+POCSAG1200: Address:  677518  Function: 0  Alpha:   <DC4>(
+POCSAG1200: Address:  281885  Function: 3 
+POCSAG1200: Address: 1288324  Function: 2  Alpha:   d@Jr@
+POCSAG1200: Address:  697190  Function: 0 
+POCSAG1200: Address: 1484410  Function: 0 
 POCSAG2400: Address:   28927  Function: 0  Alpha:   10:39-72 2180<NUL>
 POCSAG1200: Address:  585540  Function: 2  Alpha:   10:39-21 6695<NUL>
 POCSAG1200: Address: 2028154  Function: 1 
@@ -968,33 +998,3 @@ POCSAG1200: Address:  114427  Function: 0  Alpha:   07:18-38 01173421914
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0718211121+++TIME=0718211121<NUL>
 POCSAG2400: Address: 1064625  Function: 0 
 POCSAG2400: Address:   26369  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0718211121+++TIME=0718211121<NUL>
-POCSAG1200: Address: 1022677  Function: 2  Alpha:   07:17-02 MANCHESTER AIRPORT CHAN 5-*SA09,CH02,TT1,#
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1896710  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   07:12-49 4140<NUL>
-POCSAG1200: Address: 1765556  Function: 2  Alpha:   07:12-04 PLEASE CONTACT CREW MANAGER AT G59 - BROUGHTON - ON STATION PHONE. THANK YOU,  CONTROL<NUL><NUL>
-POCSAG2400: Address: 2073843  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708211121+++TIME=0708211121<NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   07:08-16 21/11/2021 07:04:07 INC 24698308 25B03 76 GOODIERS DRIVE, ORDSALL SALFORD, M5 3AH Male 30Y SUICIDAL GRD 381453 397782<NUL><NUL>
-POCSAG1200: Address:   40568  Function: 1 
-POCSAG2400: Address:  765447  Function: 3  Alpha:   O%
-POCSAG2400: Address:  653215  Function: 2 
-POCSAG2400: Address: 1139014  Function: 0 
-POCSAG2400: Address: 1379622  Function: 2 
-POCSAG2400: Address: 1122109  Function: 3 
-POCSAG2400: Address:  631172  Function: 1  Alpha:   Rg
-POCSAG2400: Address: 1827596  Function: 3 
-POCSAG2400: Address:   80938  Function: 0  Alpha:   <SO>^lM}
-POCSAG2400: Address:  890306  Function: 1 
-POCSAG2400: Address: 1320553  Function: 0 
-POCSAG2400: Address:   86777  Function: 1 
-POCSAG2400: Address: 1995493  Function: 0 
-POCSAG2400: Address:  423611  Function: 1 
-POCSAG2400: Address: 1849658  Function: 1 
-POCSAG2400: Address: 1912914  Function: 3 
-POCSAG2400: Address:  236448  Function: 2  Alpha:   asE s
-POCSAG2400: Address: 2077942  Function: 3 
-POCSAG2400: Address: 1584372  Function: 3 
-POCSAG2400: Address:   85459  Function: 1  Alpha:   Cg
