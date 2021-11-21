@@ -35552,3 +35552,15 @@ POCSAG1200: Address: 2077693  Function: 2
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   07:28-49 Call 24698339 - Warning - Scene Unsafe. Contract Control for further advice.
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728211121+++TIME=0728211121<NUL>
 POCSAG1200: Address: 1814700  Function: 2  Alpha:   07:29-54 21/11
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   07:30-63 4140<NUL>
+POCSAG2400: Address: 1030762  Function: 1 
+POCSAG2400: Address:  226906  Function: 2 
+POCSAG1200: Address: 1867782  Function: 3  Alpha:   <ESC>;y<FS><BS><BS><BS>H26<FF>
+POCSAG1200: Address: 1050632  Function: 1  Alpha:   k<FF>Nv<ACK><STX>-o
+POCSAG1200: Address:  515082  Function: 1 
+POCSAG1200: Address:  705331  Function: 2  Alpha:   kehp 
+POCSAG1200: Address: 1250356  Function: 3 
+POCSAG2400: Address:  440176  Function: 2 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   07:31-10 PROBLEM: vSphere - vCenter - Datastore Status: All Datastores is CRITICAL on host mansdpmvcs01a.hosting.civica.com, <CR><LF>PROBLEM: vSphere - vCenter - Datastore Status: All Datastores is CRITICAL on host mansdpmvcs01a.hosting.civica.com<CR><LF>Servic<NUL><NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   07:32-64 3294<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0733211121+++TIME=0733211121<NUL>
