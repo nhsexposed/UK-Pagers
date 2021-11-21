@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1479481  Function: 1  Alpha:   pjbph
+POCSAG2400: Address: 1996231  Function: 0 
+POCSAG2400: Address: 1605086  Function: 3  Alpha:   ^e
+POCSAG2400: Address:  465413  Function: 2 
+POCSAG2400: Address:  941213  Function: 3 
+POCSAG2400: Address: 1585771  Function: 0 
+POCSAG2400: Address: 1465784  Function: 1  Alpha:   <FF>tm<FF>4<CAN>LM%<BEL>$<SYN>v<NAK><DC4>v%
+POCSAG2400: Address: 1679431  Function: 2  Alpha:   O%
+POCSAG2400: Address:   90422  Function: 3  Alpha:   evedo
+POCSAG2400: Address:  658012  Function: 1  Alpha:   <CAN><BS>tiH
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   15:37-45 INC ALERT No: 16807581 Traffic/Transportation Accidents - RTC. 2 CARS, AT: GENEf &
+POCSAG2400: Address: 2014049  Function: 0 
+POCSAG2400: Address:  959473  Function: 2 
+POCSAG1200: Address:   22104  Function: 2  Alpha:   15:36-58 21/11/2021 15:34:48 INC 24699984 23C02A 79 ELWICK DRIVE, CROXTETH L11, L11 4UW Male 37Y OVERDOSE GRD 340251 394868<NUL><NUL>
+POCSAG2400: Address: 1734518  Function: 2 
+POCSAG1200: Address:  585224  Function: 2  Alpha:   15:36-78 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
+POCSAG1200: Address: 1657599  Function: 1  Alpha:   Oe
+POCSAG1200: Address:  563719  Function: 3 
+POCSAG1200: Address:  266850  Function: 1  Alpha:   f<SYN>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1321566  Function: 2  Alpha:   15:34-77 TO CONTACT DCH SWITCHBOARD <NUL>
 POCSAG1200: Address: 2089509  Function: 1 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN>f
 POCSAG1200: Address:  191712  Function: 1 
@@ -977,24 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  230976  Function: 3  Alpha:   p<LF>@<DLE>&<DC2>0f
 POCSAG2400: Address: 1320203  Function: 2  Alpha:   11:56-59 2182<NUL>
 POCSAG2400: Address: 1135856  Function: 0 
-POCSAG2400: Address:  105335  Function: 0  Alpha:   dnP3<HT>
-POCSAG2400: Address: 1153795  Function: 0  Alpha:   <DC2><GS>
-POCSAG2400: Address:  429242  Function: 1  Alpha:   <SUB>[
-POCSAG1200: Address: 1312566  Function: 2  Alpha:   11:56-98
-POCSAG1200: Address: 2096272  Function: 2 
-POCSAG1200: Address:  328419  Function: 0  Alpha:   <VT>)Y@<SUB><US><US>%A$<US>/Y@<ACK><ETX>eh@f<DC4><DC1>A<SUB>CYKAdh2A.<ETX>'A<FF><DC3>1<DC3><GS><SI>A<ACK><ETX>%Y@<ACK><ETX>%A<DLE><ETX>'A<FF><VT><EM><EM>A<RS><GS>A(<US>!A
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   Xf
-POCSAG1200: Address:  269059  Function: 2  Alpha:   11:55-41 21/11/2021 11:53
-POCSAG2400: Address: 1966614  Function: 0 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   11:54-61 3105<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   11:54-02 2343<NUL>
-POCSAG2400: Address:  353049  Function: 0  Alpha:   11:54-90 99
-POCSAG2400: Address:   31609  Function: 3 
-POCSAG2400: Address: 1906129  Function: 1 
-POCSAG2400: Address: 1467816  Function: 1 
-POCSAG2400: Address: 1300136  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   g#*TIME=1153211121+++TIME=1153211121<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><ETX>Y(L
-POCSAG1200: Address: 2009200  Function: 0 
-POCSAG1200: Address: 1115550  Function: 0  Alpha:   YX
-POCSAG1200: Address: 1712300  Function: 1 
