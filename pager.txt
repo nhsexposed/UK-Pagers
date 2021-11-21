@@ -1,3 +1,35 @@
+POCSAG1200: Address:  290049  Function: 3  Alpha:   <DC2>CMcL
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1218211121+++TIME=1218211121<NUL>
+POCSAG2400: Address: 1168171  Function: 2  Alpha:   bpZn`@j``d<NUL>
+POCSAG2400: Address: 1913715  Function: 2 
+POCSAG1200: Address:  995953  Function: 3 
+POCSAG1200: Address:   41432  Function: 2  Alpha:   12:18-12 21/11/2021 12:16:35 INC 24699269 06E01 13 REGENT PLACE, NELSON, BB9 7RL Female 64Y DIB GRD 386365 438498<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   12:18-18 21/11/2021 12:16:35 INC 24699269 06E01 13 REGENT PLACE, NELSON, BB9 7RL Female 64Y DIB GRD 386365 438498<NUL>
+POCSAG1200: Address:  290049  Function: 3  Alpha:   <DC2><ETX>
+POCSAG1200: Address:   21301  Function: 0  Alpha:   (<DLE><NAK><BS>1<DC3>R<VT><BS><NUL><NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   12:17-41 MEDICAL EMERGENCY WARD
+POCSAG1200: Address:  679608  Function: 2  Alpha:   12:17-89 69000
+POCSAG1200: Address:  649969  Function: 2  Alpha:   12:17-04 69000
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/200~`CH3B<NUL><NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   12:16-75 4180<NUL>
+POCSAG1200: Address:  680640  Function: 0 
+POCSAG1200: Address: 2014839  Function: 3 
+POCSAG1200: Address: 1177357  Function: 0 
+POCSAG1200: Address: 1942099  Function: 2 
+POCSAG1200: Address:  801459  Function: 1 
+POCSAG1200: Address:  734570  Function: 0 
+POCSAG1200: Address:  676386  Function: 1 
+POCSAG1200: Address: 1712313  Function: 0 
+POCSAG1200: Address:  550121  Function: 1 
+POCSAG1200: Address: 1618176  Function: 2 
+POCSAG1200: Address:  625687  Function: 1  Alpha:   IYhg<DC2>t<EOT>z
+POCSAG1200: Address:  535735  Function: 1  Alpha:   O%
+POCSAG1200: Address:  100483  Function: 3  Alpha:   d@.g.u@$+<GS><GS>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:15-04 21/11/2021 12:12:47 INC 24699251 30D02 W3W: RUNNERS WORKROOM SAMPLES, MOULDSWORTH, CHESHIRE Female 50Y FALLEN OFF BIKE GRD 351854 371436
+POCSAG1200: Address: 1817414  Function: 2  Alpha:   12:15-80 21/11/2021 12:13:50 INC 24699256 09E01 22 WHITESTOCKS, OLD SKELMERSDALE, WN8 8AG Male 75Y on floor GRD 347305 405897
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   12:15-94 21/11/2021 12:13:50 INC 24699256 09E01 22 WHITESTOCKS, OLD SKELMERSDALE, WN8 8AG Male 75Y on floor GRD 347305 405897
+POCSAG1200: Address: 1321864  Function: 2  Alpha:   12:15-26 21/11/20
+POCSAG1200: Address:  269168  Function: 2  Alpha:   12:15-17 21/11/2021 12:10:54 INC 24699245 01C03 2 PURLBROOK COTTAGES, GORTON FOLD, HORWICH BOLTON, BL6 7FL Male 69Y MALE CANT PASS URINE GRD 364061 411460
 POCSAG1200: Address:   40074  Function: 2  Alpha:   12:14-08 21/11/2021 11:08:52 INC 246990
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:13-02 21/11/2021 12:08:49
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
@@ -966,35 +998,3 @@ POCSAG1200: Address:  585254  Function: 2  Alpha:   09:13-02 01173421904
 POCSAG2400: Address: 1022623  Function: 2  Alpha:   09:13-44 01603711132
 POCSAG2400: Address:  225851  Function: 2  Alpha:   09:13-43 107204<NUL><NUL>
 POCSAG2400: Address: 1942389  Function: 0 
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   09:11-47 4312<NUL>
-POCSAG1200: Address:  696118  Function: 2  Alpha:   09:11-41 33835
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
-POCSAG1200: Address: 1246731  Function: 2 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:08-46 21/11/2021 09:07:08 INC 24698569 06E01 3 BASLOW DRIVE, HEALD GREEN CHEADLE, SK8 3HW Female 74Y CANT GET BREATH GRD 385257 385366
-POCSAG1200: Address: 1894130  Function: 0 
-POCSAG1200: Address: 1321531  Function: 2  Alpha:   09:08-50 020<NUL><NUL>
-POCSAG2400: Address:  216741  Function: 2  Alpha:   09:07-35 PLEASE CONTACT STAFFORDSHIRE POLICE ON 999INCIDENT 220 21/11/2021
-POCSAG2400: Address:  585333  Function: 2  Alpha:   09:07-11 please call 37702<NUL><NUL>
-POCSAG1200: Address: 1534097  Function: 2  Alpha:   09:07-13 (3/3) IOW AVAILABLE PUMPS - 5 
-POCSAG1200: Address: 1534180  Function: 2  Alpha:   09:07-06 (3/3) IOW AVAILABLE PUMPS - 5 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323652  Function: 2  Alpha:   09:06-59 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG2400: Address:  724568  Function: 3 
-POCSAG2400: Address:  210542  Function: 2 
-POCSAG2400: Address: 1841077  Function: 3  Alpha:   <CR>4
-POCSAG2400: Address: 1671020  Function: 0 
-POCSAG1200: Address:  580919  Function: 2  Alpha:   O%(&g
-POCSAG1200: Address: 1815271  Function: 1 
-POCSAG1200: Address:  906213  Function: 3  Alpha:    -<NUL>fr
-POCSAG1200: Address: 1519117  Function: 1 
-POCSAG1200: Address:  396060  Function: 3 
-POCSAG1200: Address:  550000  Function: 2  Alpha:   09:06-96 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG1200: Address:  549919  Function: 2  Alpha:   09:06-81 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG1200: Address:   40996  Function: 2  Alpha:   09:06-72 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG2400: Address: 1322922  Function: 2  Alpha:   09:06-87 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG1200: Address: 1770639  Function: 0  Alpha:   9<BS>V4L
-POCSAG2400: Address:  891755  Function: 2 
-POCSAG2400: Address: 1323479  Function: 2  Alpha:   09:04-70 PLEASE CALL 01227 209 550 OR 07841 529 477 STEVEN WILLSHEER  CANTERBURY LOCALITY RE: ADVISE  PATIENT IN HERNE BAY
-POCSAG2400: Address: 1323484  Function: 2  Alpha:   09:04-98 PLEASE CALL 01227 209 550 OR 07841 529 477 STEVEN WILLSHEER  CANTERBURY LOCALITY RE: ADVISE  PATIENT IN HERNE BAY
-POCSAG2400: Address: 1323483  Function: 2  Alpha:   09:04-47 PLEASE CALL 01227 209 550 OR 07841 529 477 STEVEN WILLSHEER  CANTERBURY LOCALITY RE: ADVISE  PATIENT IN HERNE BAY
-POCSAG2400: Address: 1323485  Function: 2  Alpha:   09:04-52 PLEASE CALL 01227 209 550 OR 07841 529 477 STEVEN WILLSHEER  CANTERBURY LOCALITY RE: ADVISE  PATIENT IN HERNE BAY
