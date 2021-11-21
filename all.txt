@@ -39765,3 +39765,10 @@ POCSAG1200: Address:   40074  Function: 2  Alpha:   21:24-50 21/11/2021 20:01:23
 POCSAG1200: Address: 1433938  Function: 1  Alpha:   ;+;|<DC4><NAK>Mt<D<FF>l<EOT><DC2>U<FF>2
 POCSAG1200: Address: 1261710  Function: 2 
 POCSAG1200: Address: 1266895  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1322179  Function: 2  Alpha:   21:25-18 21:21-17 PLEASE CALL 07913 439 859<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   21:25-72 33945
+POCSAG1200: Address:   40161  Function: 2  Alpha:   21:26-42 please call rfh BLP 2523 
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   21:26-00 please call rfh BLP 2523 
+POCSAG1200: Address:  551954  Function: 3  Alpha:   <ACK>P
+POCSAG1200: Address:  549811  Function: 2  Alpha:   21:28-76 ~PLEASE CONv<DC3>CT CONTROLS<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2128211121+++TIME=2128211121<NUL>
