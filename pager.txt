@@ -1,3 +1,18 @@
+POCSAG1200: Address:  417136  Function: 3 
+POCSAG1200: Address: 1103483  Function: 1 
+POCSAG1200: Address:  756306  Function: 0  Alpha:   <BS>4&FV
+POCSAG1200: Address: 1880169  Function: 2  Alpha:   2R
+POCSAG1200: Address: 2013054  Function: 3  Alpha:   >w
+POCSAG1200: Address: 1070429  Function: 3 
+POCSAG1200: Address:  885453  Function: 0 
+POCSAG2400: Address:   28927  Function: 0  Alpha:   00:56-65 5125<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:56-35 3104<NUL>
+POCSAG1200: Address:  504692  Function: 0 
+POCSAG1200: Address: 1477910  Function: 3  Alpha:   <HT>4
+POCSAG1200: Address:  721524  Function: 0  Alpha:   EA
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address: 1413929  Function: 2  Alpha:   jh
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 2025083  Function: 0 
 POCSAG1200: Address: 1544390  Function: 0  Alpha:   c<DC2>
 POCSAG1200: Address: 1901429  Function: 0 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1145395  Function: 3  Alpha:   2<CR>hX.
 POCSAG1200: Address:   95849  Function: 1 
 POCSAG1200: Address:  319801  Function: 0  Alpha:   <EM>/AH%
 POCSAG1200: Address:  586146  Function: 1 
-POCSAG1200: Address:   28825  Function: 1  Alpha:   ,<HT><LF>VY
-POCSAG1200: Address: 1191526  Function: 2  Alpha:   @<BEL>
-POCSAG1200: Address: 1978520  Function: 0 
-POCSAG1200: Address:  571833  Function: 1  Alpha:   Sl<BEL>Wq) G`<SO><HT>A<SUB>CYKAh2A<SO>%+<GS>)<DC3><GS><SI>Y@<BS><DC3><CR><CR>A<EOT>%<VT><ETX>)<DC1><DC3><GS><SI>Y@<ACK><US>+<SI><DC1>AZ@
-POCSAG1200: Address:  191412  Function: 1 
-POCSAG1200: Address:  214383  Function: 2 
-POCSAG1200: Address: 1363296  Function: 0 
-POCSAG1200: Address:  938277  Function: 2 
-POCSAG1200: Address: 1873137  Function: 2  Alpha:   EL<BEL>O<DC1>
-POCSAG1200: Address:  180914  Function: 2 
-POCSAG1200: Address:  169646  Function: 0 
-POCSAG1200: Address:  627304  Function: 1  Alpha:   <EOT><SUB>
-POCSAG1200: Address: 1843245  Function: 0  Alpha:   <DLE><VT>
-POCSAG1200: Address:  160756  Function: 2  Alpha:   +j
-POCSAG1200: Address:  315323  Function: 0  Alpha:   )j
