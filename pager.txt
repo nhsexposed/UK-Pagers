@@ -1,3 +1,36 @@
+POCSAG1200: Address:  328800  Function: 2 
+POCSAG2400: Address:  396442  Function: 1  Alpha:   <SUB><FS>
+POCSAG2400: Address:  846770  Function: 3 
+POCSAG2400: Address:   45304  Function: 1  Alpha:   [^uIge@j
+POCSAG2400: Address:  218679  Function: 2  Alpha:   g<DC2>
+POCSAG2400: Address: 1477823  Function: 3 
+POCSAG2400: Address:  866678  Function: 2 
+POCSAG2400: Address: 1716270  Function: 3 
+POCSAG2400: Address: 1204429  Function: 0 
+POCSAG2400: Address:  631676  Function: 3  Alpha:   bb
+POCSAG2400: Address:  896516  Function: 1 
+POCSAG2400: Address:   42769  Function: 1 
+POCSAG2400: Address:  594758  Function: 3  Alpha:   zD<GS>$-dY<EOT>E2<SOH><DC3>bJ
+POCSAG2400: Address: 1216933  Function: 1  Alpha:   RY<NUL>RO
+POCSAG2400: Address:  787603  Function: 0 
+POCSAG2400: Address:  625847  Function: 1  Alpha:   O%('Ov><ACK>b<STX>2<NUL>j<STX>0L$(m6<d
+POCSAG2400: Address: 1932519  Function: 0 
+POCSAG2400: Address:  472909  Function: 3  Alpha:   Wa77z$wz
+POCSAG2400: Address:  707956  Function: 1  Alpha:   M<RS>
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   19:43-79 INC ALERT No: 16<CAN><CAN><FS><DC2><CAN><CAN>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1943211121+++TIME=1943211121<NUL>
+POCSAG2400: Address: 1718182  Function: 0  Alpha:   eQ
+POCSAG2400: Address:  353502  Function: 1 
+POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:   71368  Function: 1 
+POCSAG1200: Address:  400543  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address:  875319  Function: 1 
+POCSAG1200: Address: 1345582  Function: 2 
+POCSAG1200: Address:  350338  Function: 0  Alpha:   19:42-70 21/11/2021 19:40:28 INC 24700970 23C07I 65 WILDMAN STREET, PRESTON, PR1 7QJ Male 49Y STRUGGLING WITH MH#C
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   19:41-43 PHSYC LIASON TEAM PLS BLEEP 7238826<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   19:39-48 PLS CALL CDU IN ED - 6810
 POCSAG2400: Address:   28899  Function: 0  Alpha:   1*:39-04 3509<NUL>
 POCSAG2400: Address:   28904  Function: 0  Alpha:   19:39-03 4156<NUL>
 POCSAG1200: Address:  733547  Function: 1 
@@ -965,36 +998,3 @@ POCSAG1200: Address: 2008696  Function: 2
 POCSAG1200: Address: 1067866  Function: 2  Alpha:   16:38-75 21/11/2021 16:36:12 INC 24700219 06E01 7 CAWLEY STREET, RUNCORN WA7, WA7 5PG Female 49Y COVID POSS- 7 WEEKS OLD - WHEEZING GRD 351227 382216<NUL><NUL>
 POCSAG1200: Address:  958551  Function: 0 
 POCSAG1200: Address:  227361  Function: 0  Alpha:   16:37-87 53429
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   16:37-72 INC ALERT No: 16807797 Breathing Problems - F - ?MENINGITIS SYMPTOMS, AT: O/S, STOCKER ROAD, EXETER, EX4 4PX, Time of Call: 21/11/2021 16:33:59, Co-ords: 50.7353735 -3.5322926<NUL>
-POCSAG2400: Address: 1357169  Function: 1 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   16:37-75 2427<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   16:36-47 21/11/2021 16:33:41 INC 24700211 18O01 16 THE MAPLES, ASHFIELD CRESCENT, NORTHWOOD KIRKBY KNOWSLEY, L33 0YN Female 71Y PAIN IN BACK OF HEAD AND BACK GRD 341837 398759<NUL><NUL>
-POCSAG2400: Address: 1321380  Function: 2  Alpha:   16:35-44 Please call Jack  Steinberg ward x39839
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   16:35-07 4166<NUL>
-POCSAG2400: Address: 2091642  Function: 0 
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:35-52 RECOVERY: Disk: C is OK on host borrablmsg01mc1, <CR><LF>RECOVERY: Disk: C is OK on host borrablmsg01mc1<CR><LF>Service: Disk: C<CR><LF>Host: borrablmsg01mc1<CR><LF>Alias: Barnet emil server<CR><LF>Address: 10.0.13.15<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manch<NUL><NUL>
-POCSAG2400: Address: 1253021  Function: 3 
-POCSAG2400: Address:  809076  Function: 3  Alpha:   <CR>(
-POCSAG2400: Address:  852673  Function: 0  Alpha:   o-ords: 
-POCSAG2400: Address: 1940272  Function: 0  Alpha:   <SO>,
-POCSAG2400: Address:  668512  Function: 3 
-POCSAG1200: Address: 1322179  Function: 2  Alpha:   16:35-15 TEST MSG PLEASE RESPOND <NUL>
-POCSAG1200: Address:  866615  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1071542  Function: 1  Alpha:   ]eAM<SOH>
-POCSAG1200: Address: 1856149  Function: 1 
-POCSAG1200: Address: 1872133  Function: 2 
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:33-21 69000
-POCSAG1200: Address:  679608  Function: 2  Alpha:   16:33-91 69000
-POCSAG1200: Address:  649969  Function: 2  Alpha:   16:33-06 69000
-POCSAG1200: Address:  695952  Function: 2  Alpha:   16:32-52 21/11/2021 16:31:12 INC 24700200 09E01 THE LAKES CARE CENTRE, LAKES ROAD, DUKINFIELD, SK16 4TX Male 90Y PASSED AWAY GRD 394187 397341
-POCSAG1200: Address: 1324160  Function: 2  Alpha:   41
-POCSAG2400: Address: 1032628  Function: 3  Alpha:   <STX>M cL
-POCSAG1200: Address: 1312580  Function: 2  Alpha:   16:32-15 (2/2) SAFETY EVENT Map ref  534460,156591 Map book S 084 D8 Details  None <NUL><NUL>
-POCSAG1200: Address: 1672810  Function: 2  Alpha:   2P
-POCSAG1200: Address:  975423  Function: 0 
-POCSAG1200: Address:  987049  Function: 2  Alpha:   16:31-22 21/11/2021 16:30:15 INC 24700197 06D02 1 MARTIN AVENUE, LYTHAM ST ANNES, FY8 2SJ Female 53Y DIB GRD 331015 431623
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address: 1998963  Function: 2 
-POCSAG1200: Address: 2072816  Function: 1 
-POCSAG1200: Address:   40074  Function: 2  Alpha:   16:29-22 21/11/2021 16:26:05 INC 24700180 26A07 55 ORCHARD ROAD WEST, NORTHENDEN MANCHESTER, M22 4FD Female 83Y PAIN IN HIP - UNABLE TO MOBILISE GRD 382791 390536
