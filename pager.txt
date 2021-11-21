@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1141480  Function: 3 
+POCSAG1200: Address:   28883  Function: 3  Alpha:   20:54-52 PLS CALL 07578831404 <NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   20:54-71 PLS CALL CHARLOTTE 21996<NUL>
+POCSAG2400: Address:  549033  Function: 2  Alpha:   20:54-45 8013 IP1 please<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2053211121+++TIME=2053211121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2053211121+++TIME=2053211121<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   20:53-44 REFERRAL PLS CALL EXT 738711
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:52-69 4387<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1534145  Function: 2  Alpha:   20:51-34 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:50-73 Byron ward x36166<NUL><NUL>
+POCSAG1200: Address:  445560  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2048211121+++TIME=2048211121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048211121+++TIME=2048211121<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1415788  Function: 1
 POCSAG1200: Address:  432776  Function: 2  Alpha:   17:59-11 21/11/2021 17:45:46 INC 24700506 09D01 11 POPLAR STRE<ENQ>e<STX>
 POCSAG1200: Address:  874546  Function: 3  Alpha:   <CR><BS><FS><SO><DC1>
 POCSAG1200: Address: 1814625  Function: 3 
-POCSAG1200: Address:  266849  Function: 1 
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:  371503  Function: 3  Alpha:   O%(46
-POCSAG1200: Address: 1419100  Function: 0  Alpha:   dj
-POCSAG1200: Address:  668155  Function: 1  Alpha:   X<ESC>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   17:58-38 2415<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1758211121+++TIME=1758211121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1758211121+++TIME=1758211121<NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   17:58-37 <NUL><NUL>
-POCSAG2400: Address: 2011867  Function: 1 
-POCSAG1200: Address: 1511994  Function: 3  Alpha:   Uj
-POCSAG2400: Address: 1015239  Function: 2  Alpha:   17:57-23 724824<NUL><NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   17:58-53 5202<NUL>
