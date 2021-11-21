@@ -37248,3 +37248,21 @@ POCSAG2400: Address:  722185  Function: 1  Alpha:   *Z
 POCSAG2400: Address: 1115218  Function: 3 
 POCSAG2400: Address:  602726  Function: 0 
 POCSAG2400: Address: 1318048  Function: 0 
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   13:20-60 4876<NUL>
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   13:20-72 3132<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:21-70 3106<NUL>
+POCSAG2400: Address:  732696  Function: 3 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1562655  Function: 2  Alpha:   13
+POCSAG1200: Address:  334075  Function: 2  Alpha:   13:22-52 21/11/2021 13:19:33 INC 24699497 29D02L CHESTER ROAD, ALDFORD, CH3 6HJ Male 40Y CAR VS BIKE, PUSHBIKE GRD 342162 359376
+POCSAG1200: Address:  269059  Function: 2  Alpha:   13:22-59 21/11/2021 13:19:33 INC 24699497 29D02L CHESTER ROAD, ALDFORD, CH3 6
+POCSAG1200: Address: 1447979  Function: 1 
+POCSAG1200: Address: 1315675  Function: 2 
+POCSAG1200: Address:  666892  Function: 2 
+POCSAG1200: Address:  643908  Function: 3 
+POCSAG1200: Address:  852493  Function: 1  Alpha:   |+<DLE>ad
+POCSAG1200: Address:  733543  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address:  549856  Function: 2  Alpha:   13:23-02 ~FYI BALLLYMONEY STATION OFF THE RUN FOR A DEEP CLEAN
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1<ETB>23211121+++TIME=1323211121<NUL>
