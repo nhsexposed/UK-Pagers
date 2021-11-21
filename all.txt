@@ -38810,3 +38810,24 @@ POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
 POCSAG2400: Address:  353502  Function: 1 
 POCSAG2400: Address:  994128  Function: 3  Alpha:   <LF>5<STX>31
 POCSAG2400: Address: 1140947  Function: 2 
+POCSAG1200: Address: 1255214  Function: 2 
+POCSAG1200: Address:  657712  Function: 0  Alpha:   ,^<><SO>$H<GS><><RS>i<FS>=
+POCSAG1200: Address: 1848051  Function: 1  Alpha:   ~v
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  549878  Function: 2  Alpha:   18:41-78 ~PLEASE CONTACT CONTROLS REFERENCE PRESS ENQU}.W$i,
+POCSAG1200: Address:  420375  Function: 0 
+POCSAG1200: Address: 1092709  Function: 2  Alpha:   18:42-33 21/11/2021 18:40:28 INC 24700712 06E01 7 TUNLEY HOLME, CLAYTON BROOK NR LEYLAND, PR5 8EP Male 77Y ABDO AND BACK PAIN, CHEST INFECTION GRD 358078 42406
+POCSAG1200: Address:  152320  Function: 2 
+POCSAG1200: Address:  600638  Function: 0  Alpha:   18:42-11 CONTACT LOTUS WARD 6371<NUL><NUL>
+POCSAG1200: Address: 1873929  Function: 3 
+POCSAG1200: Address: 1059036  Function: 3 
+POCSAG1200: Address: 1577749  Function: 2 
+POCSAG1200: Address:  722381  Function: 3  Alpha:   0r
+POCSAG1200: Address:   90390  Function: 0  Alpha:   IC
+POCSAG1200: Address:   66050  Function: 3 
+POCSAG1200: Address:  600665  Function: 0  Alpha:   18:43-52 696955 <NUL>
+POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843211121+++TIME=1843211121<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   18:43-63 Mary Ray ward x34846<NUL><NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   18:44-64 Oliver ward x34843<NUL>
