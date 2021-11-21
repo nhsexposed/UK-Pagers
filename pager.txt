@@ -1,3 +1,25 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   1*:39-04 3509<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   19:39-03 4156<NUL>
+POCSAG1200: Address:  733547  Function: 1 
+POCSAG1200: Address:  157890  Function: 1 
+POCSAG1200: Address:   95169  Function: 2  Alpha:   ""
+POCSAG1200: Address:  378920  Function: 1  Alpha:   <ENQ>$
+POCSAG1200: Address:  627511  Function: 2  Alpha:   O%
+POCSAG1200: Address:  803166  Function: 0  Alpha:   @<FF>
+POCSAG1200: Address: 1246525  Function: 1  Alpha:   Z,
+POCSAG1200: Address:  625980  Function: 0  Alpha:   <GS>L
+POCSAG1200: Address: 1335549  Function: 3 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:36-03 2304<NUL>
+POCSAG1200: Address: 2047567  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1087878  Function: 1  Alpha:   CK
+POCSAG1200: Address:  865294  Function: 1 
+POCSAG1200: Address:  382477  Function: 3 
+POCSAG1200: Address: 1559445  Function: 1 
+POCSAG1200: Address:  758994  Function: 0 
+POCSAG1200: Address: 1355025  Function: 2 
+POCSAG1200: Address:  234377  Function: 2  Alpha:   19:35-19 21/11/2021 19:34:05 INC 24700945 10D04 CUSTODY SUITE, WEST DIVISION POLICE HEADQUARTERS, GERRY RICHARDSON WAY, BLACKPOOL, FY4 4FG Male 39Y CHEST PAINS GRD 334483 433821
+POCSAG2400: Address: 2011842  Function: 2 
+POCSAG2400: Address:  225851  Function: 2  Alpha:   19:35-64 107205<NUL><NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   19:34-55 2343<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1933211121+++TIME=1933211121<NUL>
 POCSAG1200: Address: 1363224  Function: 0 
@@ -976,25 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message
 POCSAG1200: Address: 1998963  Function: 2 
 POCSAG1200: Address: 2072816  Function: 1 
 POCSAG1200: Address:   40074  Function: 2  Alpha:   16:29-22 21/11/2021 16:26:05 INC 24700180 26A07 55 ORCHARD ROAD WEST, NORTHENDEN MANCHESTER, M22 4FD Female 83Y PAIN IN HIP - UNABLE TO MOBILISE GRD 382791 390536
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:29-88 4099<NUL>
-POCSAG2400: Address: 2014049  Function: 0 
-POCSAG1200: Address:  695952  Function: 2  Alpha:   16:29-51 21/11/2021 16:21:18 INC 24700163 29D
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1628211121+++TIME=1628211121<NUL>
-POCSAG1200: Address:  696118  Function: 2  Alpha:   16:28-57 call 33844<NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   16:27-34 5400<NUL>
-POCSAG1200: Address:  549811  Function: 2  Alpha:   16:26-72 ~CAN YOU PLEASE CONTACT RCC<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  358291  Function: 2  Alpha:   16:24-97 6595<NUL>
-POCSAG1200: Address: 1940010  Function: 2  Alpha:   16:24-01 6595<NUL>
-POCSAG1200: Address:  601374  Function: 2  Alpha:   16:24-95 6595<NUL>
-POCSAG1200: Address:   16050  Function: 2  Alpha:   16:24-94 6595<NUL>
-POCSAG2400: Address: 1849924  Function: 1 
-POCSAG2400: Address:   71155  Function: 1  Alpha:    N
-POCSAG2400: Address: 1163074  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1623211121+++TIME=1623211121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1623211121+++TIME=162321116p$
-POCSAG1200: Address: 2026353  Function: 2 
-POCSAG1200: Address: 1992561  Function: 0 
-POCSAG1200: Address: 1686114  Function: 1 
-POCSAG1200: Address: 1070690  Function: 1 
-POCSAG1200: Address:  370849  Function: 3 
