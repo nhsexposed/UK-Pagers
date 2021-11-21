@@ -1,3 +1,20 @@
+POCSAG1200: Address: 1880636  Function: 0 
+POCSAG1200: Address:   67278  Function: 3 
+POCSAG1200: Address:  828024  Function: 1 
+POCSAG1200: Address:  615982  Function: 1 
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   R<DLE>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   08:33-84 4114<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  420568  Function: 2  Alpha:   <DC4>%
+POCSAG1200: Address: 1039333  Function: 3  Alpha:   R<DLE>
+POCSAG1200: Address:  960639  Function: 0 
+POCSAG1200: Address:  549854  Function: 2  Alpha:   08:32-41 ~FYI - S14 STATION IS BEING CLEANED. BOTH APPLIANCES STILL ON THE RUN STAYING IN THE YARD.<NUL>
+POCSAG2400: Address: 1322089  Function: 2 
+POCSAG2400: Address:   33687  Function: 2  Alpha:   08:29-55 PLEASE CALL THE COMMUNITY ON CALL  07919 527 771
+POCSAG2400: Address:   33683  Function: 2  Alpha:   08:29-48 PLEASE CALL THE COMMUNITY ON CALL  07919 527 771
+POCSAG2400: Address: 1946193  Function: 0 
+POCSAG2400: Address:   33691  Function: 2  Alpha:   08:29-49 PLEASE CALL THE COMMUNITY ON CALL  07919 527 771
+POCSAG1200: Address: 1551474  Function: 2  Alpha:   08:29-90 41958
 POCSAG2400: Address:   33680  Function: 2  Alpha:   08:29-59 PLEASE CALL THE COMMUNITY ON CALL  07919 527 771
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0828211121+++TIME=0828211121<NUL>
 POCSAG1200: Address:  472192  Function: 0  Alpha:   Ee<SOH>%:<SO><STX>IQYeaQY
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1138467  Function: 0
 POCSAG1200: Address: 1586754  Function: 1 
 POCSAG1200: Address:   84625  Function: 2  Alpha:   b)*<DLE>j
 POCSAG1200: Address:  230416  Function: 3 
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   01:19-51 CARDIAC ARREST TEAM TO A/E  ZONF(% A @RLH<NUL>
-POCSAG1200: Address:  230420  Function: 3 
-POCSAG1200: Address: 1346715  Function: 0 
-POCSAG1200: Address: 1447979  Function: 1 
-POCSAG1200: Address: 1156954  Function: 0  Alpha:   nb
-POCSAG1200: Address:   83705  Function: 2 
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>!
-POCSAG1200: Address:  611609  Function: 1  Alpha:   PE
-POCSAG1200: Address:   78433  Function: 2 
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   01:17-61 PLEASE CALL 07890 251 939 KINGS COLLEGE HOSPITAL FOR VIROLOGY RESULTS 
-POCSAG1200: Address: 1258512  Function: 2  Alpha:   01:15:42 INC 24697420 25O01 98 HOLT ROAD, LIVERPOOL, L7 2PR Female 47Y MH GRD 337055 390688
-POCSAG2400: Address: 1324319  Function: 2  Alpha:   01:17-50 PLEASE CALL 07890 251 939 KINGS COLLEGE HOSPITAL FOR VIROLOGY RESULTS 
-POCSAG2400: Address: 1089339  Function: 0 
-POCSAG2400: Address: 1979458  Function: 1 
-POCSAG2400: Address:  267805  Function: 0 
-POCSAG2400: Address:  793780  Function: 3 
-POCSAG2400: Address:  429242  Function: 0  Alpha:   X[
