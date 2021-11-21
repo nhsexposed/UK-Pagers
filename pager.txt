@@ -1,3 +1,9 @@
+POCSAG1200: Address:  618883  Function: 2  Alpha:   00:19-56 Daily Test Message<NUL>
+POCSAG2400: Address: 2077692  Function: 2 
+POCSAG2400: Address: 1475190  Function: 1 
+POCSAG1200: Address:   22104  Function: 2  Alpha:   00:16-30 21/11/2021 00:09:36 INC 246971
+POCSAG1200: Address: 1505488  Function: 0 
+POCSAG1200: Address: 1015256  Function: 2  Alpha:   00
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0013211121+++TIME=0013211121<NUL>
 POCSAG1200: Address: 1032714  Function: 3  Alpha:   <NAK><ACK>
 POCSAG1200: Address:  198239  Function: 3 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1349435  Function: 1
 POCSAG1200: Address:  625450  Function: 2  Alpha:   bh
 POCSAG1200: Address: 1246810  Function: 3 
 POCSAG1200: Address: 1422447  Function: 1  Alpha:   <STX><GS>J<DC2><STX>MMUAYM<SOH>QMe]YI<SOH><NUL>
-POCSAG2400: Address: 1105539  Function: 0 
-POCSAG2400: Address:  355850  Function: 3  Alpha:   <SUB>1
-POCSAG2400: Address: 1322351  Function: 2  Alpha:   20:25-58 Please call PAH ext:01279
-POCSAG2400: Address:  584222  Function: 2  Alpha:   20:25-28 80300
-POCSAG2400: Address: 2073846  Function: 0 
-POCSAG2400: Address:  583528  Function: 2  Alpha:   20:24-88 80300

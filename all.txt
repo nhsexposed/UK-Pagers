@@ -34626,3 +34626,9 @@ POCSAG1200: Address: 1876854  Function: 1
 POCSAG1200: Address:  198239  Function: 3 
 POCSAG1200: Address: 1032714  Function: 3  Alpha:   <NAK><ACK>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0013211121+++TIME=0013211121<NUL>
+POCSAG1200: Address: 1015256  Function: 2  Alpha:   00
+POCSAG1200: Address: 1505488  Function: 0 
+POCSAG1200: Address:   22104  Function: 2  Alpha:   00:16-30 21/11/2021 00:09:36 INC 246971
+POCSAG2400: Address: 1475190  Function: 1 
+POCSAG2400: Address: 2077692  Function: 2 
+POCSAG1200: Address:  618883  Function: 2  Alpha:   00:19-56 Daily Test Message<NUL>
