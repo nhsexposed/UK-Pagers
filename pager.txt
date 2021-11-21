@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1535233  Function: 1  Alpha:   <RS><RS><SO>-Y
+POCSAG2400: Address: 1993316  Function: 0 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE>NLAdl1f
+POCSAG2400: Address:  433950  Function: 1 
+POCSAG2400: Address: 1837767  Function: 1  Alpha:   "<DLE>yg<DC2>
+POCSAG2400: Address:  267126  Function: 1  Alpha:   <SO><RS>
+POCSAG2400: Address: 1627669  Function: 3 
+POCSAG2400: Address: 1097597  Function: 1 
+POCSAG2400: Address: 1995908  Function: 1  Alpha:   ^]
+POCSAG2400: Address:  216263  Function: 2  Alpha:   03:27-01 RECOVERY: Windows NIC: Production is OK on host BOOPENLVDA01MC1, <CR><LF>RECOVERY: Windows NIC: Production is OK on host BOOPENLVDA01MC1<CR><LF>Service: Windows NIC: Production<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.99<CR><LF>Host Group Hierarchy:<NUL><NUL>
+POCSAG2400: Address:    1065  Function: 1  Alpha:   ,<RS>,><FF><GS>/<BEL>T!1J<RS>L^,<BEL>t9Y!A<CAN>L^<FF>d<EOT>D<SUB>]],<BEL>4Zn<CR><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   03:25-28 RECOVERY: Opsview NSClient Windows Agent x64 is OK on host BOOPENLVDA01MC1, <CR><LF>RECOVERY: Opsview NSClient Windows Agent x64 is OK on host BOOPENLVDA01MC1<CR><LF>Service: Opsview NSClient Windows Agent x64<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: <NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   03:24-03 RECOVERY: Windows - Drive: C is OK on host BOOPENLVDA01MC1, <CR><LF>RECOVERY: Windows - Drive: C is OK on host BOOPENLVDA01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.99<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>D<NUL><NUL>
 POCSAG2400: Address: 1134346  Function: 2 
 POCSAG1200: Address: 1542771  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323211121+++TIME=0323211121<NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1421667  Function: 3  Alpha:   <NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1321866  Function: 2  Alpha:   21:17-69 20/11/2021 21:14:07 INC 24696397 THE ALBION, 226 RED BANK ROAD, BISPHAM BLACKPOOL, FY2 0HJ Male 40Y had a fight - pool cue to head GRD 331734 440023
 POCSAG1200: Address:  108097  Function: 0  Alpha:   21:17-19 Please call 1972
-POCSAG1200: Address: 1892465  Function: 1 
-POCSAG2400: Address:  690554  Function: 0  Alpha:   L<CR>4<ACK>4<CAN>8<LF>T<><FS>L<GS>L<RS>}mm<ENQ><EOT>dx-<SO>d\.N<SO>],<SO><DC4>mm|-^<GS>L<RS>}m<CR><EOT>N]<FS><^<FF>4<FS>LM<CR><EOT>&<ACK>vv<ACK>7f<SYN>W6<ACK>t-<SO><EOT>v<SYN><BEL><SYN><SYN><ETB><BEL><ETB><SYN>w<ACK><NUL>
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   21:15-08 NEL 111/ IUC is in level 3 CAS escalation.  For further information please call 02077836953 or 07901998197<NUL><NUL>
-POCSAG2400: Address:  127445  Function: 0  Alpha:   AFCYYA`d`nnpflrjf@^eA`nr`brrpbrn<NUL><NUL>
-POCSAG2400: Address: 1641999  Function: 0  Alpha:   s:9:t29P47s7yv0zt77<DLE>8vrpy2Pq066<DLE><CAN><EM>X[<ESC>\<EM>[\Z<EM>P79<DLE>X[<FS>XX\<FS>\X\<ESC><NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   21:15-18 20/11/2021 21:09:27 INC 24696379 30D03 7 COLEMORE AVENUE, DIDSBURY MANCHESTER, M20 6JR Female 72Y Q DISLOCATED HIP GRD 385562 391286<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2113201121+++TIME=2113201121<NUL>
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   21:12-73 NHSBT - DONOR REFERRAL. Please call S/N MARIE-CHRIS on Direct Dial Number 01274 364126 Hospital BRADFORD ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   21:10-72 ip1 8013
-POCSAG1200: Address:  164487  Function: 2  Alpha:   g*jg<DC2><DC4>HP
-POCSAG1200: Address: 1403349  Function: 0  Alpha:   <ENQ>R,<GS>%
-POCSAG1200: Address:  167187  Function: 3  Alpha:    <DLE>crv v2
-POCSAG1200: Address:  202803  Function: 0 
-POCSAG1200: Address:  811202  Function: 3  Alpha:   <STX>:
