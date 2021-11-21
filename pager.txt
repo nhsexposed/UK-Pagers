@@ -1,3 +1,37 @@
+POCSAG1200: Address: 2089509  Function: 1 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN>f
+POCSAG1200: Address:  191712  Function: 1 
+POCSAG1200: Address:  354103  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address:  378156  Function: 1 
+POCSAG1200: Address: 1220738  Function: 1  Alpha:   A]<SOH><SOH>I
+POCSAG1200: Address: 1790222  Function: 0 
+POCSAG1200: Address: 1915829  Function: 1  Alpha:   <CR><BS>
+POCSAG1200: Address: 1684716  Function: 0 
+POCSAG1200: Address:  437434  Function: 1  Alpha:   <EM><EM>
+POCSAG1200: Address:  858129  Function: 0 
+POCSAG1200: Address: 1337560  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address:  437438  Function: 1  Alpha:   <EM>Z
+POCSAG1200: Address: 1480010  Function: 1 
+POCSAG1200: Address: 1599212  Function: 0 
+POCSAG1200: Address: 1511994  Function: 3  Alpha:   U2
+POCSAG2400: Address: 1913902  Function: 2  Alpha:   15:33-88 2111<NUL>
+POCSAG1200: Address:  337096  Function: 0  Alpha:   <BS><NAK>2<DC1>h<DC3>4Qs<SO>hL<CR>hPtS<DC1>uS<DC3>h<DLE>ss4<DC1>KP4ppR3<DC1><DC3><DC3>Kt1L<FF><BS>,Ut<SO><BS><CR><SO><SO>-<FF><SO>+Lm-mLl<SO>HpSS1R4<DC1><BS>2p<DC4>h00u<DC1><DC2><NAK><BS>U41q<DC4>(<DLE>3r<DC1><DC2>u<SO>(p|<zY;<EM>Y<SO>H26L<CR>4l<SO><NUL>
+POCSAG1200: Address: 2011749  Function: 1 
+POCSAG1200: Address: 1844984  Function: 0 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>A
+POCSAG2400: Address: 1290851  Function: 0 
+POCSAG1200: Address:  732284  Function: 2 
+POCSAG1200: Address: 1974105  Function: 0  Alpha:   X<SUB>
+POCSAG1200: Address: 2089570  Function: 0 
+POCSAG1200: Address: 2074224  Function: 2 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   15:31-73 5202<NUL>
+POCSAG2400: Address:   11691  Function: 0  Alpha:   15:30-55 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  858144  Function: 1  Alpha:   <SI>|
+POCSAG1200: Address: 1968670  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:30-82 4188<NUL>
+POCSAG512: Address:  114360  Function: 2  Alpha:   15:30-09 Please Respond to Station
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:29-58 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address: 1512731  Function: 3  Alpha:   E@
 POCSAG1200: Address: 1022677  Function: 2  Alpha:   15:29-04 MANCHESTER AIRPORT CHAN 5-*SA09,CH02,TT1,#
 POCSAG1200: Address: 1022677  Function: 2  Alpha:   15:29-03 MANCHESTER AIRPORT CHAN 2-*SA09,CH01,TT1,#
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1528211121+++TIME=1528211121<NUL>
@@ -964,37 +998,3 @@ POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><ETX>Y(L
 POCSAG1200: Address: 2009200  Function: 0 
 POCSAG1200: Address: 1115550  Function: 0  Alpha:   YX
 POCSAG1200: Address: 1712300  Function: 1 
-POCSAG1200: Address: 1925356  Function: 0 
-POCSAG1200: Address:  719107  Function: 3 
-POCSAG1200: Address: 1679883  Function: 1 
-POCSAG1200: Address: 1451636  Function: 0 
-POCSAG2400: Address:  225851  Function: 2  Alpha:   11:49-50 107204<NUL><NUL>
-POCSAG1200: Address: 1534097  Function: 2  Alpha:   11:49-17 PLEASE CONTACT CONTROL
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1148211121+++TIME=1148211121<NUL>
-POCSAG1200: Address:  721423  Function: 3  Alpha:   O%
-POCSAG1200: Address:  953439  Function: 1 
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address: 1942387  Function: 0 
-POCSAG2400: Address:  225851  Function: 2  Alpha:   11:48-49 107205<NUL><NUL>
-POCSAG1200: Address:  183638  Function: 1 
-POCSAG1200: Address: 1215525  Function: 1  Alpha:   (J
-POCSAG1200: Address:  557770  Function: 3 
-POCSAG1200: Address:  189073  Function: 2 
-POCSAG1200: Address: 1330456  Function: 0  Alpha:   (<ESC>
-POCSAG1200: Address:  853126  Function: 2 
-POCSAG1200: Address:  350837  Function: 3 
-POCSAG1200: Address:  380433  Function: 0 
-POCSAG1200: Address:  535345  Function: 0 
-POCSAG1200: Address: 1588328  Function: 1 
-POCSAG1200: Address:  740502  Function: 2  Alpha:   y8z<SUB><CAN>
-POCSAG1200: Address:  895108  Function: 2  Alpha:   b@Dv2
-POCSAG1200: Address:  953435  Function: 1  Alpha:   <SUB><EM>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   11:47-48 4157<NUL>
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   11:47-71 4269<NUL>
-POCSAG2400: Address: 1022560  Function: 0  Alpha:   11:46-18 Reminder fleet call at 12:00hrs. SSM
-POCSAG2400: Address: 1022564  Function: 0  Alpha:   11:46-97 Reminder fleet call at 12:00hrs. SSM
-POCSAG2400: Address: 1022565  Function: 0  Alpha:   11:46-04 Reminder fleet call at 12:00hrs. SSM
-POCSAG2400: Address:  741273  Function: 2 
-POCSAG1200: Address:  330240  Function: 2 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>l
-POCSAG1200: Address:  674980  Function: 2  Alpha:   <SOH>MeUUAe<SOH>
