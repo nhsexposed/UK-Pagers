@@ -1,3 +1,8 @@
+POCSAG1200: Address:  108097  Function: 0  Alpha:   22:39-37 1006<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2238211121+++TIME=2238211121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:36-26 5440<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:34-23 3164<NUL>
 POCSAG1200: Address: 1277746  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2233211121+++TIME=2233071121<NUL>
 POCSAG1200: Address: 1716331  Function: 3 
@@ -993,8 +998,3 @@ POCSAG1200: Address:  300684  Function: 2  Alpha:   0<DLE>
 POCSAG1200: Address:  658260  Function: 0 
 POCSAG1200: Address: 1528483  Function: 0 
 POCSAG1200: Address: 1123105  Function: 2  Alpha:    j"P<SYN>@<CAN><EM>
-POCSAG1200: Address: 1271497  Function: 3 
-POCSAG1200: Address:  370728  Function: 0 
-POCSAG1200: Address: 2011894  Function: 0 
-POCSAG1200: Address: 1594916  Function: 2  Alpha:   19:49-53 NOTIFY - DATE: 21.11.11    TIME: 19:47 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 7 MAX 1 MIN 
-POCSAG1200: Address:  761396  Function: 1  Alpha:   <STX>j
