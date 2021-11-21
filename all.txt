@@ -35003,3 +35003,19 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318211121+++TIME=03
 POCSAG1200: Address:  591252  Function: 2 
 POCSAG1200: Address: 1153217  Function: 2  Alpha:   <STX>b
 POCSAG1200: Address:  789298  Function: 3 
+POCSAG2400: Address: 2066023  Function: 3 
+POCSAG2400: Address:  260800  Function: 1 
+POCSAG1200: Address: 1998948  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   03:22-41 4156<NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   03:22-88 RECOVERY: BOOPEN
+POCSAG2400: Address:   18562  Function: 2  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   03:23
+POCSAG2400: Address: 1509819  Function: 1 
+POCSAG2400: Address: 1396091  Function: 0 
+POCSAG2400: Address: 1617959  Function: 3 
+POCSAG2400: Address:  781631  Function: 1  Alpha:   g<DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323211121+++TIME=0323211121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323211121+++TIME=0323211121<NUL>
+POCSAG1200: Address: 1542771  Function: 0 
+POCSAG2400: Address: 1134346  Function: 2 
