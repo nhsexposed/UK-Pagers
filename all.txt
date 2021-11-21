@@ -37037,3 +37037,15 @@ POCSAG1200: Address:  363866  Function: 2  Alpha:   12:43-62 21/11/2021 12:42:48
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   12:43-78 21/11/2021 12:42:13 INC 24699364 26C02 
 POCSAG2400: Address: 1320018  Function: 2  Alpha:   12:43-97 01603711132
 POCSAG1200: Address: 1975161  Function: 0 
+POCSAG1200: Address:   11817  Function: 0  Alpha:   0<NUL><NUL><SOH><DLE><SI>2f
+POCSAG1200: Address:  499673  Function: 0 
+POCSAG1200: Address: 1364009  Function: 3  Alpha:   <LF><EM>
+POCSAG1200: Address: 2011756  Function: 2 
+POCSAG1200: Address:  563253  Function: 3 
+POCSAG1200: Address: 1174422  Function: 3 
+POCSAG1200: Address:   88583  Function: 3 
+POCSAG1200: Address: 1020343  Function: 1  Alpha:   $,DY<EOT>
+POCSAG1200: Address:  230831  Function: 0 
+POCSAG1200: Address:  548159  Function: 2  Alpha:   12:48-97 2011<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1248211121+++TIME=1248211121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1248211121+++TIME=1248211121<NUL>
