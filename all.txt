@@ -40482,3 +40482,12 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2308211121+++TIME=23
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2308211121+++TIME=2308211121<NUL>
 POCSAG2400: Address:  256913  Function: 2 
 POCSAG2400: Address: 1428889  Function: 0 
+POCSAG2400: Address: 1242697  Function: 2  Alpha:   23:10-02 We got your order.<NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   23:10-88 EXT 20625 AICU<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  995472  Function: 3 
+POCSAG1200: Address: 2009652  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2313211121+++TIME=2313211121<NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   23:14-78 2188<NUL>
+POCSAG1200: Address:  420375  Function: 0 

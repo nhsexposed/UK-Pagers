@@ -1,3 +1,12 @@
+POCSAG1200: Address:  420375  Function: 0 
+POCSAG2400: Address:   28927  Function: 0  Alpha:   23:14-78 2188<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2313211121+++TIME=2313211121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2009652  Function: 2 
+POCSAG1200: Address:  995472  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   23:10-88 EXT 20625 AICU<NUL><NUL>
+POCSAG2400: Address: 1242697  Function: 2  Alpha:   23:10-02 We got your order.<NUL>
 POCSAG2400: Address: 1428889  Function: 0 
 POCSAG2400: Address:  256913  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2308211121+++TIME=2308211121<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address: 2072823  Function: 1
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1323059  Function: 2  Alpha:   20:30-38 80300
 POCSAG2400: Address:  583459  Function: 2  Alpha:   20:29-42 80300
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2028211121+++TIME=2028211121<NUL>
-POCSAG2400: Address:  302141  Function: 1  Alpha:   5W<ETX>$Z<BS>z)J:<LF><DC4>(Z<BS><DC4>h<SUB><CAN>I<EM>(HY<BS><DC4>i<BS>$Z<CAN>Z<SUB>)ZHh<ENQ><NUL>
-POCSAG2400: Address:  549098  Function: 2  Alpha:   20:28-93 FAST TRACK OFFER OF LEFT KIDNEY : Donor: 153040,DCD  Hospital: PLYMOUTH DERRIFORD, HL3395, DOB: 04/02/2002 ,, Organ location: MANCHESTER , Asystole:21/11/2021 12:04, Offer made with HLA, Fast track trigger point met: 6+ HRS COLD I
-POCSAG1200: Address:   40074  Function: 2  Alpha:   20:29-47 21/11/2021 20:27:10 INC 24701156 30A02 42 NETTLEBARN ROAD, BENCHILL MANCHESTER, M22 8HQ Female 60Y LEG INJURY, SKIN TEAR, CAN SEE BONE GRD 382341 388177<NUL>
-POCSAG1200: Address:  614926  Function: 0 
-POCSAG1200: Address: 1069148  Function: 0  Alpha:   <ACK>&2<ACK><LF>2<SYN><STX>
-POCSAG1200: Address: 1069780  Function: 1 
-POCSAG1200: Address:  713987  Function: 3 
-POCSAG1200: Address:  389779  Function: 3 
