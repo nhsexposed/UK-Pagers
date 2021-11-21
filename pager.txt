@@ -1,3 +1,13 @@
+POCSAG1200: Address:  980563  Function: 0 
+POCSAG2400: Address: 2074224  Function: 2 
+POCSAG1200: Address: 1292706  Function: 0 
+POCSAG2400: Address:   28868  Function: 0  Alpha:   00:37-58 PLEASE CALL TUNBRIDGE WELLS EXT 35360<NUL><NUL>
+POCSAG2400: Address: 1133781  Function: 2 
+POCSAG2400: Address:  198235  Function: 3 
+POCSAG2400: Address:   57795  Function: 1 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:36-06 2616<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   00:35-67
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0033211121+++TIME=0033211121<NUL>
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   00:33-56 RECOVERY: saupenlovc02a is UP, <CR><LF>RECOVERY: saupenlovc02a is UP<CR><LF><CR><LF>Host: saupenlovc02a<CR><LF>Alias: <CR><LF>Address: saupenlovc02a.saulupm.private<CR><LF>Host Group Hierarchy: Opsview > Monitoring Servers<CR><LF>State: UP<CR><LF>Date & Time: Sun Nov 21 00:33:37 UTC 2021<NUL><NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   00:33-88 RECOVERY: saupenlovc02a is UP, <CR><LF>RECOVERY: saupenlovc02a is UP<CR><LF><CR><LF>Host: s
@@ -988,13 +998,3 @@ POCSAG1200: Address: 2007120  Function: 1
 POCSAG1200: Address: 1811080  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3A<NUL><NUL>
 POCSAG2400: Address:  583459  Function: 2  Alpha:   20:25-40 80300
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:26-93 5201<NUL>
-POCSAG1200: Address:  142749  Function: 0  Alpha:   \<ESC>
-POCSAG1200: Address:  842548  Function: 1 
-POCSAG1200: Address: 1783140  Function: 0 
-POCSAG1200: Address:  467401  Function: 1 
-POCSAG1200: Address: 1315608  Function: 0 
-POCSAG1200: Address:  856888  Function: 1 
-POCSAG1200: Address:  148118  Function: 2  Alpha:   b <LF>d"<SYN><DLE>czY<EOT>
-POCSAG1200: Address:  284621  Function: 0 
-POCSAG1200: Address:   97507  Function: 2 
