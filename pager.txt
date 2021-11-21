@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1645865  Function: 3 
+POCSAG2400: Address: 1016528  Function: 1 
+POCSAG2400: Address: 1774752  Function: 0 
+POCSAG2400: Address: 1913957  Function: 2  Alpha:   10:04-48 2188<NUL>l<DEL><DEL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 2008959  Function: 0 
+POCSAG1200: Address:  585965  Function: 2  Alpha:   10:02-74 PLS CALL MARIE FLANAGAN 07881 731 094 <NUL>
+POCSAG1200: Address: 1557776  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   10:01-47 33886
+POCSAG1200: Address: 1940608  Function: 3  Alpha:   7829 391038
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   10:00-04 4163<NUL>
+POCSAG1200: Address:   41947  Function: 2  Alpha:   10:00-51 Trauma Team Test Call<CR><LF>South West Acute Hospital<CR><LF>21.11.21<CR><LF>10am<NUL>
+POCSAG1200: Address:   28872  Function: 0  Alpha:   09:59-59 please call ex 1007
 POCSAG2400: Address:   28899  Function: 0  Alpha:   09:59-57 2168<NUL>
 POCSAG1200: Address:  940431  Function: 2  Alpha:   09:59-70 21/11/2021 09:57:28 INC 24698709 12D02 HILLCROFT NURSING HOME, WESTBOURNE ROAD, LANCASTER, LA1 5DX Male 69Y HAVING A FIT GRD 347047 461572<NUL>
 POCSAG1200: Address:  765210  Function: 2 
@@ -984,17 +998,3 @@ POCSAG1200: Address:  722433  Function: 1  Alpha:   V@
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:49-11 5082<NUL>
 POCSAG1200: Address: 2062062  Function: 0 
 POCSAG2400: Address:   11729  Function: 0  Alpha:   04:47-28 PLEASE CALL WILLIAM HARVEY EXT 7238197<NUL>
-POCSAG1200: Address:  202333  Function: 3 
-POCSAG1200: Address: 1202216  Function: 3 
-POCSAG1200: Address:   95181  Function: 2 
-POCSAG1200: Address: 1706764  Function: 2 
-POCSAG1200: Address:  554220  Function: 0 
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   04:44-46 21/11
-POCSAG1200: Address:  969333  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0438211121+++TIME=0438211121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0438211121+++TIME=0438211121<NUL>
-POCSAG2400: Address:  313570  Function: 0  Alpha:   04:36-77 21/11/2021 04:35:25 INC 24698021 21D03M 7 DERWENT DRIVE, LONGRIDGE, PR3 3FU Male 57Y VOMITTING BLOOD GRD 359874 436382<NUL>
-POCSAG1200: Address: 1204428  Function: 0 
-POCSAG1200: Address:  619266  Function: 2 
-POCSAG1200: Address:  739209  Function: 2 
