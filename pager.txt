@@ -1,3 +1,27 @@
+POCSAG512: Address: 1114760  Function: 1 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   13:58-49 4379<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1358211121+++TIME=1358211121<NUL>
+POCSAG1200: Address: 1481721  Function: 0 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:58-68 5202<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:58-52 33943
+POCSAG1200: Address: 1032949  Function: 3  Alpha:   X@EaL
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:  142080  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   13:55-76 4908<NUL>
+POCSAG1200: Address:  859686  Function: 1 
+POCSAG2400: Address: 1150424  Function: 1 
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:54-87 21/11/2021 13:53:14 INC 24699631 06D02 97 MARLBOROUGH STREET, BURNLEY, BB11 2HW Female 38Y DIB GRD 384222 431865<NUL>
+POCSAG1200: Address:   14950  Function: 0  Alpha:   13:54-71 21/11/2021 13:53:14 INC 24699631 06D02 97 MARLBOROUGH STREET, BURNLEY, BB11 2HW Female 38Y DIB GRD 384222 431865<NUL>
+POCSAG1200: Address: 1717326  Function: 1  Alpha:   2<SOH>
+POCSAG1200: Address: 1657509  Function: 2 
+POCSAG1200: Address:  886914  Function: 2  Alpha:   d@rn@<LF><ETX>%<DC1><ENQ><US>!<US>+<SI><DC1>A
+POCSAG1200: Address:  945561  Function: 0  Alpha:   <CAN><DLE>
+POCSAG1200: Address: 1947393  Function: 1 
+POCSAG1200: Address: 1627061  Function: 2  Alpha:   pLq"3-Y 
+POCSAG1200: Address:  649748  Function: 2 
+POCSAG1200: Address:  809396  Function: 1 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:54-35 21/11/2021 13:52:56 INC 24699629 30D03 J M O SPORTS PARK, LIVERPOOL ROAD, SKELMERSDALE, WN8 8BX Male 17Y FOOTBALL INJURY SHOULDER DISLOCATED GRD 346443 406069<NUL>
 POCSAG2400: Address:  225851  Function: 2  Alpha:   13:54-53 107205<NUL><NUL>
 POCSAG2400: Address:  399802  Function: 3  Alpha:   -<BEL><ENQ><ACK>v<SO><ACK>7
 POCSAG1200: Address: 1782912  Function: 2  Alpha:   <DC2><GS><NAK>+%3A&<DC1><US>+<EM><HT><VT>%A<BS><DC3>'<EM><US><BEL><ETX>)<VT><HT>A<SO>%<HT>Afhlhhf@h`l`lr<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1033211121+++TIME=10
 POCSAG1200: Address: 2012018  Function: 1 
 POCSAG2400: Address: 1322878  Function: 2  Alpha:   10:32-99 NHSBT - DONOR REFERRAL. Please call JODIE PARKER - SISTER IN CHARGE on Direct Dial Number 01922 603 000 / 3015 Hospital WALSALL MANOR HOSPITAL Dept INTENSIVE CARE . Regards Donor Referral Line<NUL>
 POCSAG2400: Address: 1073347  Function: 1 
-POCSAG2400: Address:  535588  Function: 0  Alpha:   <FF><DC4>=,<EOT>jv<ACK>
-POCSAG2400: Address: 1069660  Function: 2 
-POCSAG2400: Address:  843059  Function: 1 
-POCSAG2400: Address: 1581747  Function: 3 
-POCSAG2400: Address:  226889  Function: 3  Alpha:   9{<DC2>z9Wqw
-POCSAG2400: Address:  568220  Function: 0 
-POCSAG2400: Address: 1815268  Function: 1 
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <SYN><BS>
-POCSAG1200: Address:  721418  Function: 3 
-POCSAG1200: Address:  925082  Function: 1 
-POCSAG1200: Address: 1680175  Function: 3  Alpha:   O%(36
-POCSAG2400: Address:  420885  Function: 0 
-POCSAG2400: Address:  866941  Function: 0 
-POCSAG2400: Address:  216650  Function: 2  Alpha:   9<DLE>b7w79<DLE>i2s
-POCSAG2400: Address:  478682  Function: 2 
-POCSAG2400: Address:  177165  Function: 1  Alpha:   id<HT>j"
-POCSAG2400: Address: 1262893  Function: 1 
-POCSAG2400: Address: 1444444  Function: 3 
-POCSAG2400: Address:  856132  Function: 1 
-POCSAG2400: Address: 2040931  Function: 2 
-POCSAG2400: Address:  616631  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1176294  Function: 3  Alpha:   ')
-POCSAG2400: Address:  354326  Function: 0 
-POCSAG2400: Address: 1378645  Function: 1 
