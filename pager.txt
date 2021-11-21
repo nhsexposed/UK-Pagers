@@ -1,3 +1,19 @@
+POCSAG2400: Address:  216268  Function: 2  Alpha:   23:49-64 PROBLEM: Netscaler vServer: ldaps.bootsmv|m.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
+POCSAG2400: Address:  196066  Function: 2  Alpha:   iA
+POCSAG2400: Address:   78345  Function: 0  Alpha:   77
+POCSAG2400: Address:  216268  Function: 2  Alpha:   23:49-63 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2348211121+++TIME=2348211121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2348211121+++TIME=2348211121<NUL>
+POCSAG1200: Address:  216379  Function: 2  Alpha:   23:48-64 (3/3) Additional_Data Address Classification Terraced
+POCSAG1200: Address:  216379  Function: 2  Alpha:   23:48-63 (1/3)030017-21112021; S6.0.0.P SPEc)EL SERVICE - INTERNAL FLOODING; 32 GRANGE AVENUE,READING,RG6 1DJ; 474031,172815;
+POCSAG1200: Address:  200957  Function: 2  Alpha:   23:47-91 PLEASE CALL 01865 331 764 <NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   23:47-69 PROBLEM: Netscaler vServer: director-lb is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: director-lb is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: director-lb<CR><LF>Host: BOOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10<NUL><NUL>
+POCSAG2400: Address:  865021  Function: 2 
+POCSAG2400: Address: 2045288  Function: 1 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   23:47-62 PROBLEM: Ne
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:45-29 4187<NUL>
+POCSAG2400: Address: 1323655  Function: 2  Alpha:   23:45-85 38001
 POCSAG1200: Address: 1814681  Function: 2  Alpha:   23:44-55 21/11/2021 23:42:40 INC 24701803 10D05 28 LEVENS GROVE, CENTRAL BLACKPOOL, FY1 5PP Female 50Y CHEST PAINS GRD 331530 435073<NUL><NUL>
 POCSAG1200: Address: 1259126  Function: 2  Alpha:   23:44-07 21/11/2021 23:42:40 INC 24701803 10D05 28 LEVENS GROVE, CENTRAL BLACKPOOL, FY1 5PP Female 50Y CHEST PAINS GRD 331530 435073<NUL><NUL>
 POCSAG1200: Address: 1092646  Function: 2  Alpha:   23:44-35 21/11/2021 23:42:40 INC 24701803 10D05 28 LEVENS GROVE, CENTRAL BLACKPOOL, FY1 5PP Female 50Y CHEST PAINS GRD 331530 435073<NUL><NUL>
@@ -982,19 +998,3 @@ POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:55-70 4316<NUL>
 POCSAG1200: Address: 1022027  Function: 2  Alpha:   20:55-94 21/11/2021 20:53:16 INC 24701256 24D05 1 RAISELANDS CROFT, PENRITH, CA11 9JQ Female 40Y GONE INTO LABOUR - 36 WEEKS GRD 351054 531036
 POCSAG1200: Address:  271532  Function: 2  Alpha:   20:55-94 21/11/2021 20:53:16 INC 24701256 24D05 1 RAISELANDS CROFT, PENRITH, CA11 9JQ Female 40Y GONE INTO LABOUR - 36 WEEKS GRD 351054 531036
 POCSAG1200: Address:   40161  Function: 2  Alpha:   20:55-41 please call rfh ext 36086
-POCSAG2400: Address: 1141480  Function: 3 
-POCSAG1200: Address:   28883  Function: 3  Alpha:   20:54-52 PLS CALL 07578831404 <NUL>
-POCSAG1200: Address:  200957  Function: 2  Alpha:   20:54-71 PLS CALL CHARLOTTE 21996<NUL>
-POCSAG2400: Address:  549033  Function: 2  Alpha:   20:54-45 8013 IP1 please<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2053211121+++TIME=2053211121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2053211121+++TIME=2053211121<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   20:53-44 REFERRAL PLS CALL EXT 738711
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:52-69 4387<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1534145  Function: 2  Alpha:   20:51-34 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:50-73 Byron ward x36166<NUL><NUL>
-POCSAG1200: Address:  445560  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2048211121+++TIME=2048211121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048211121+++TIME=2048211121<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
