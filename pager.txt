@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603211121+++TIME=0603211121<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   06:03-49 lasa 37035<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  969330  Function: 0 
+POCSAG1200: Address:   91677  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0558211121+++TIME=0558211121<NUL>
 POCSAG1200: Address: 1206494  Function: 3  Alpha:   <LF><VT>[<DC2><ETX>s3<HT>JE<SOH>
 POCSAG1200: Address: 1410909  Function: 0  Alpha:   hp
@@ -993,8 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   06/04/2002 CH3B<NUL><NUL>\2<
 POCSAG1200: Address: 1770637  Function: 0  Alpha:   <DLE>,$H<DLE>!0f
 POCSAG1200: Address:   28872  Function: 0  Alpha:   22:26-58 please call 3221
 POCSAG2400: Address: 1247025  Function: 1 
-POCSAG2400: Address: 1323090  Function: 2  Alpha:   22:25-68 PLS RNG EX 6579<NUL>
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   22:24-47 4935<NUL>
-POCSAG2400: Address: 1323090  Function: 2  Alpha:   22:22-67 PLS RNG EX 5206<NUL>
-POCSAG1200: Address: 1745489  Function: 0 
-POCSAG1200: Address: 1323816  Function: 2  Alpha:   22:21-66 PLEASE CALL SWITCHBOARD ON 0203 228 6000<NUL><NUL>
