@@ -39772,3 +39772,18 @@ POCSAG1200: Address: 1322125  Function: 2  Alpha:   21:26-00 please call rfh BLP
 POCSAG1200: Address:  551954  Function: 3  Alpha:   <ACK>P
 POCSAG1200: Address:  549811  Function: 2  Alpha:   21:28-76 ~PLEASE CONv<DC3>CT CONTROLS<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2128211121+++TIME=2128211121<NUL>
+POCSAG1200: Address:  622855  Function: 1  Alpha:   3<HT>
+POCSAG2400: Address: 1324565  Function: 2  Alpha:   21:30-27 INC ALER
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:30-19 3507<NUL>
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   21:31-08 INC ALERT No: 16808710 Cardiac Arrest -, AT: 4 BARN CLOSE, CHIPPENHAM, SN14 0LG, Time of Call: 21/11/2021 21:30:54, Co-ords: 51.4634311 -2.1391565<NUL><NUL>
+POCSAG1200: Address: 1321566  Function: 2  Alpha:   21:31-79 PLS CALL DVH SWITCHBAPRD 
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   21:32-86 21/11/2021 21:29:02 INC 24701386 09D01 12 HORSA STREET, TONGE MOOR BOLTON, BL2 2DW Male 55Y CANT BREATHE GRD 372615 410123
+POCSAG1200: Address: 1770612  Function: 2  Alpha:   21:32-19 8504<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022273  Function: 0  Alpha:   21:33-88 NHSBT - DONOR REFERRAL. Please call DR SARAH  on Direct Dial Number 07879365484 Hospital Bristol Royal Hospital for Children Dept ICU  . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1322778  Function: 2  Alpha:   21:33-19 NHSBT - DONOR REFERRAL. Please call DR SARAH  on Direct Dial Number 07879365484 Hospital Bristol Royal Hospital for Children Dept ICU  . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1008316  Function: 2  Alpha:   21:33-09 NHSBT - DONOR REFERRAL. Please call DR SARAH  on Direct Dial Number 07879365484 Hospital Bristol Royal Hospital for Children Dept ICU  . Regards Donor Referral Line<NUL>
+POCSAG2400: Address:  724780  Function: 0  Alpha:   z06<DLE>s79P!t462y27<DLE>b28:Pda*<DLE><DLE><ETB><DLE>irs09r9<DLE>b7w79<DLE>i2s29y06<DLE>f4w2<NUL>
+POCSAG2400: Address:  549213  Function: 2  Alpha:   21:33-01 NHSBT - DONOR REFERRAL. Please call DR SARAH  on Direct Dial Numbuv217879365484 Hospital Bristol Royal Hospital for Children Dept ICU  . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1942028  Function: 1 
+POCSAG2400: Address: 1233764  Function: 3  Alpha:   erral
