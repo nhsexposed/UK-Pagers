@@ -1,3 +1,31 @@
+POCSAG1200: Address: 1097584  Function: 0 
+POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF>A3l0f
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1928221121+++TIME=1928221121<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:28-33 PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   19:28-26 PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   19:28-16 PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:28-32 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   19:28-37 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   19:28-62 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   19:28-15 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   19:28-36 22/11/2021 19:24:47 INC 24706019 23C01V CHRISTMAS MARKETS OUTSIDE, ST GEORGES HALL, LIME STREET, LIVERPOOL CITY CENTRE L1, L1 1JJ Male 26Y MALE TAKEN DRUGS GRD 334931 390655
+POCSAG1200: Address: 1770637  Function: 0  Alpha:   <HT><DC2>$<BS>L
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   19:27-41 22/11/2021 19:25:02 INC 24706021 31C01 THE WILLOWBANK, 329 SMITHDOWN ROAD, WAVERTREE L15, L15 3JA Female 42Y SITTING THEN COLLAPSED GRD 337990 388871<NUL>
+POCSAG1200: Address: 1761390  Function: 2  Alpha:   %2
+POCSAG1200: Address:   40074  Function: 2  Alpha:   19:26-69 22/11/2021 19:25:09 INC 24706022 01C05 29 ARMITAGE AVENUE, LONGSIGHT MANCHESTER, M12 5GN Male 38Y ABDO PAIN GRD 387540 395206
+POCSAG2400: Address:   28895  Function: 0  Alpha:   19:26-54 2339<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:26-89 4183<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   19:26-38 22/11/2021 19:23:59 INC 24706015 04B02A 46 FLORENCE ROAD, SEACOMBE WALLASEY CH44, CH44 6LF Female 44Y DOMESTIC - HIT IN FACE BLEEDING GRD 332028 39108
+POCSAG1200: Address:  469343  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address: 1022775  Function: 3 
+POCSAG1200: Address:  889904  Function: 0 
+POCSAG1200: Address: 1587327  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address:   45783  Function: 3 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   19:26-88 22/11/2021 19:23:59 INC 24706015 04B02A 46 FLORENCE ROAD, SEACOMBE WALLASEY CH44, CH44 6LF Female 44Y DOMESTIC - HIT IN FACE BLEEDING GRD 332028 39108
+POCSAG2400: Address:  216268  Function: 2  Alpha:   19:26-24 PROBLEM: Netscaler vServer: director-lb is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Net
+POCSAG2400: Address:  216272  Function: 2  Alpha:   19:26-14 PROBLEM: Netscaler vServer: director-lb is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: director-lb is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: director-lb<CR><LF>Host: BOOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10<NUL><NUL>
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   19:25-34 22/11/2021 19:23:43 INC 24706013 26D01 16A RUTHVEN ROAD, OLD SWAN L13, L13 4BD Male 45Y SUB CALL - CLAMMY, VOMMITTING GRD 339848 390367<NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   19:24-19 5000<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1923221121+++TIME=1923221121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1923221121+++TIME=1923221121<NUL>
 POCSAG1200: Address:   11760  Function: 0  Alpha:   19:23-17 19:23-16 ~LEVEL 2 RESPONSE<NUL><NUL>
@@ -970,31 +998,3 @@ POCSAG1200: Address: 1876103  Function: 3
 POCSAG1200: Address:  156877  Function: 1 
 POCSAG1200: Address: 1316380  Function: 0 
 POCSAG1200: Address: 1069884  Function: 1 
-POCSAG1200: Address: 1489781  Function: 1 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:19-69 4102<NUL>
-POCSAG2400: Address: 1483632  Function: 0 
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:19-87 3164<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1718221121+++TIME=1718221121<NUL>
-POCSAG1200: Address: 1146354  Function: 2  Alpha:   <ESC><ETX><SUB>CKC<ESC><ESC>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   17:17-83 4156<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:17-86 5531<NUL>
-POCSAG1200: Address: 1323862  Function: 2  Alpha:   17:17-28 PROCEED TO:  BUILDING FIRE/COMMERCIAL/INDUSTRIAL; SK94HR,  HM PRISON
-POCSAG1200: Address: 1319333  Function: 2  Alpha:   17:17-14 ugviytv<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1485130  Function: 1 
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   17:16-18 4114<NUL>
-POCSAG1200: Address: 1321272  Function: 2  Alpha:   17:16-85 Stop Message received for Incident 2111008585;  [STOP] 22/11/21 17:16:27 STOP MESSAGE RECEIVED FROM L51P1 (OIC 40583 IN L51P1)<NUL><NUL>
-POCSAG1200: Address: 1509880  Function: 2  Alpha:   17:16-23 22/11/2021 17:13:57 INC 24705414 17D02 40 STONELEIGH DRIVE, STONECLOUGH MANCHES
-POCSAG1200: Address: 1560636  Function: 0 
-POCSAG2400: Address: 1322722  Function: 2  Alpha:   17:16-65 PLS CONTACT CONTROL...EOM
-POCSAG2400: Address:   28896  Function: 0  Alpha:   17:16-35 5204<NUL>
-POCSAG1200: Address:   22104  Function: 2  Alpha:   17:15-99 22/11/2021 17:12:45 INC 2tut5409 23B01I HESKETH MANOR - FLAT 13, BULLOUGH STREET, ATHERTON MANCHESTER, M46 0DL Male 87Y OVERDOSE GRD 367166 403062<NUL><NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   17:15-36 22/11/2021 17:12:45 INC 24705409 23B01I HESKETH MANOR - FLAT 13, BULLOUGH STREET, ATHERTON MANCHESTER, M46 0DL Male 87Y OVERDOSE GRD 367166 403062<NUL><NUL>
-POCSAG1200: Address:  600772  Function: 2  Alpha:   pp%"<CAN>00f
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   17:15-22 AMBER: NEL 111 is in CAS Queue Level 2 Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS S.J<NUL><NUL>
-POCSAG1200: Address: 1917119  Function: 2  Alpha:   17:15-25 AMBER: NEL 111 is in CAS Queue Level 2 Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS S.J<NUL><NUL>
-POCSAG1200: Address:  325892  Function: 2  Alpha:   9<BS>V<DC4>L
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1713221121+++TIME=1713221121<NUL>
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   17:13-92 CGF exercise at B111 complete - SSM<NUL>
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   17:13-50 CGF exercise at B111 complete - SSM<NUL>
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   17:13-69 CGF exercise at B111 complete - SSM<NUL>
