@@ -1,3 +1,42 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0453221121+++TIME=0453221121<NUL>
+POCSAG2400: Address: 1322506  Function: 2  Alpha:   04:53-20 SILVER RESPONDING <NUL>
+POCSAG2400: Address:   33685  Function: 2  Alpha:   04:53-50 SILVER RESPONDING <NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453221121+++TIME=0453221121<NUL>
+POCSAG2400: Address:  751203  Function: 2  Alpha:   <EM><DC1>
+POCSAG2400: Address:  929970  Function: 3 
+POCSAG2400: Address:  657706  Function: 2 
+POCSAG2400: Address:   33683  Function: 2  Alpha:   04:53-52 SILVER RESPONDING <NUL>
+POCSAG2400: Address: 1581073  Function: 1 
+POCSAG2400: Address:   33680  Function: 2  Alpha:   04:53-64 04:53-63 SILVER RESPONDING <NUL>
+POCSAG2400: Address:   28939  Function: 0  Alpha:   04:53-42 SILVER RESPONDING <NUL>
+POCSAG2400: Address:   33684  Function: 2  Alpha:   04:53-50 SILVER RESPONDING <NUL>
+POCSAG1200: Address:  269100  Function: 2  Alpha:   04:53-71 22/11/2021 04:52:10 INC 24702495 13C02 38 BELFIELD ROAD, BELFIELD ROCHDALE, OL16 2UY Female 66Y HYPER GRD 390969 413997
+POCSAG2400: Address:   33688  Function: 2  Alpha:   04:53-52 SILVER RESPONDING <NUL>
+POCSAG2400: Address:   33681  Function: 2  Alpha:   04:53-76 SILVER RESPONDING <NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28924  Function: 0  Alpha:   04:52-50 2183<NUL>
+POCSAG2400: Address:   33683  Function: 2  Alpha:   04:52-51 07971646039
+POCSAG2400: Address: 1322506  Function: 2  Alpha:   04:52-19 07971646039
+POCSAG2400: Address:   33685  Function: 2  Alpha:   04:52-49 07971646039
+POCSAG2400: Address:   33687  Function: 2  Alpha:   04:52-58 07971646039
+POCSAG2400: Address:   28939  Function: 0  Alpha:   04:52-41 07971646039
+POCSAG2400: Address:   33691  Function: 2  Alpha:   04:52-52 07971646039
+POCSAG2400: Address:   33688  Function: 2  Alpha:   04:52-51 07971646039
+POCSAG2400: Address: 1323564  Function: 2  Alpha:   04:52-56 07971646039
+POCSAG2400: Address:   33680  Function: 2  Alpha:   04:52-62 07971646039
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   33681  Function: 2  Alpha:   04:52-75 07971646039
+POCSAG2400: Address:   28896  Function: 0  Alpha:   04:51-16 2183<NUL>
+POCSAG1200: Address: 1067985  Function: 2  Alpha:   04:51-88 Destination: Parking\D78 Ext TP, Booking Ref#: 801880, Vehicle: BP66KHR. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG2400: Address: 1286044  Function: 2  Alpha:   r9<DLE>b7w79<DLE>i2s29y06<DLE>f4w2
+POCSAG2400: Address: 1323140  Function: 2  Alpha:   04:50-87 NHSBT - DONOR REFERRAL. Please call RAJ on Direct Dial Number 0161 276 4713 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address: 1323145  Function: 2  Alpha:   04:50-12 NHSBT - DONOR REFERRAL. Please call RAJ on Direct Dial Number 0161 276 4713 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   04:49-34 22/11/2021 04:48:20 INC 24702489 31E01 36 MOOR LANE, NORTHERN MOOR MANCHESTER, M23 0LX Female 66Y COPD, DIB, LOW SATS, IN AND OUT OF CONSCIOUSNESS GRD 381186 390698<NUL>
+POCSAG1200: Address:  891720  Function: 3 
+POCSAG1200: Address:  905984  Function: 2 
+POCSAG1200: Address: 1706383  Function: 2 
+POCSAG1200: Address:  536982  Function: 0 
+POCSAG1200: Address:  683206  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0448221121+++TIME=0448221121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0448221121+++TIME=0448221121<NUL>
 POCSAG1200: Address:  142618  Function: 1  Alpha:   <ESC><EM>
@@ -959,42 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG1200: Address:  438784  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   00:42-46 22/11/2021 00:36:32 INC 24701968 26O01 FLAT 5, 21 BUCKINGHAM ROAD, TUEBROOK L13, L13 8AY Male 71Y CANT STAND UP GRD 337983 392508<NUL><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:41-31 5072<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   00:41-45 22/11/2021 00:38:27 INC 24701975 17B01G 125 UTTING AVENUE EAST, NORRIS GREEN L11, L11 5AB Male 61Y SUB CALL - FELL DUE TO LOWER SPINE INJURY GRD 338641 394600<NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   00:41-41 4155<NUL>
-POCSAG1200: Address:  930489  Function: 2  Alpha:   00:40-70 22/11/2021 00:37:43 INC 24701973 09E02 14 TRENANT ROAD, IRLAM O TH HEIGHTS SALFORD, M6 7FS Male 80Y TEMP - COLLAPSED IN BATHROOM GRD 379818 400035<NUL><NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   00:40-42 22/11/2021 00:37:43 INC 24701973 09E02 14 TRENANT ROAD, IRLAM O TH HEIGHTS SALFORD, M6 7FS Male 80Y TEMP - COLLAPSED IN BATHROOM GRD 379818 400035<NUL><NUL>
-POCSAG1200: Address:  557772  Function: 3 
-POCSAG1200: Address:  189075  Function: 2 
-POCSAG1200: Address: 1329754  Function: 3  Alpha:   yY
-POCSAG1200: Address: 1185826  Function: 2 
-POCSAG1200: Address:  676387  Function: 2  Alpha:   <STX>j<DC4><ETX>:#<FS><ENQ>b<FF>f.<ACK>B<SOH>K<ENQ>
-POCSAG1200: Address: 1151937  Function: 3 
-POCSAG1200: Address: 1181768  Function: 3 
-POCSAG1200: Address:  888927  Function: 3  Alpha:   O%(<STX>Q
-POCSAG1200: Address: 1353319  Function: 0 
-POCSAG1200: Address: 1377293  Function: 2  Alpha:   g <STX><SYN>P
-POCSAG1200: Address:  433626  Function: 1  Alpha:   <EM><DLE>
-POCSAG1200: Address:  266849  Function: 1  Alpha:   v<ACK>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   00:39-44 22/11/2021 00:36:57 INC 24701970 06E01 19 ROSE AVENUE, BOOTLE L20, L20 6LN Female 54Y DIB GRD 334364 397024<NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:39-56 22/11/2021 00:36:57 INC 24701970 06E01 19 ROSE AVENUE, BOOTLE L20, L20 6LN Female 54Y DIB GRD 334364 397024<NUL>
-POCSAG1200: Address: 1835014  Function: 0  Alpha:   WHC5<CAN>
-POCSAG1200: Address: 1602149  Function: 1 
-POCSAG1200: Address: 1468877  Function: 0 
-POCSAG1200: Address:  240500  Function: 2  Alpha:   hr
-POCSAG1200: Address:  557771  Function: 3 
-POCSAG1200: Address:  189075  Function: 2 
-POCSAG1200: Address: 1717825  Function: 0  Alpha:   <STX>%
-POCSAG1200: Address: 1577318  Function: 3 
-POCSAG1200: Address: 1414342  Function: 1 
-POCSAG1200: Address: 1353349  Function: 1 
-POCSAG1200: Address:  469407  Function: 1  Alpha:   O%(l,<DC4>-<EOT>
-POCSAG1200: Address:  433373  Function: 0  Alpha:   <EM>P
-POCSAG1200: Address:  266852  Function: 1  Alpha:   v<ACK>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address: 1682218  Function: 2  Alpha:   b`
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:39-43 22/11/2021 00:35:10 INC 24701963 31D01 8+ICSLEMERE ROAD, WITHINGTON MANCHESTER, M20 4RD Male 6M TEMP IS 39.5 GRD 385749 392828<NUL><NUL>
-POCSAG1200: Address: 1015256  Function: 2  Alpha:   00:39-16 Stop Message received for Incident 2111008372;  [STOP] 22/11/21 00:39:03 STOP MESSAGE RECEIVED FROM G55P1 (OIC 30908 IN G57P1)<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0038221121+++TIME=0038221121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0038221121+++TIME=0038221121<NUL>
