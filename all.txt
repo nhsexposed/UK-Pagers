@@ -42173,3 +42173,14 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   06:07-95 22/11/2021 06:06:12 INC 24702611 06E01 29 WEAVER ROAD, FRODSHAM WA6, WA6 7HR Female 71Y SEVERE ASTHMA AND COPD - CANT BREATHE GRD 352808 378400<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0608221121+++TIME=0608221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0608221121+++TIME=0608221121<NUL>
+POCSAG2400: Address:  189080  Function: 2  Alpha:   w:8<DLE>dt2y
+POCSAG2400: Address: 1735810  Function: 3 
+POCSAG2400: Address: 1897922  Function: 3 
+POCSAG2400: Address:  772219  Function: 3 
+POCSAG2400: Address:  982091  Function: 1 
+POCSAG2400: Address: 1306124  Function: 3 
+POCSAG2400: Address:  763800  Function: 0 
+POCSAG2400: Address:  216251  Function: 2  Alpha:   06:10-03 PROBLEM: shacpplads02mc1 is DOWN, <CR><LF>PROBLEM: shacpplads02mc1 is DOWN<CR><LF><CR><LF>Host: shacpplads02mc1<CR><LF>Alias: CPP Domain Controller<CR><LF>Address: 10.0.3.6<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN ><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0613221121+++TIME=0613221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0613221121+++TIME=0613221121<NUL>
