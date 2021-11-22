@@ -42140,3 +42140,31 @@ POCSAG1200: Address: 1912920  Function: 3
 POCSAG1200: Address:  399737  Function: 0  Alpha:   <FF>}
 POCSAG1200: Address:  930489  Function: 2  Alpha:   05:58-82 22/11/2021 05:56:59 INC 24702594 29D02M ROOM 704, STAYCITY APARTMENTS, 8B PICCADILLY SOUTH, CITY MANCHESTER, M1 2GH Male 45Y HIT BY CAR GRD 384717 397986
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0558221121+++TIME=0558221121<NUL>
+POCSAG2400: Address:   11631  Function: 0  Alpha:   <SYN><RS><ACK><BEL>g<RS><BEL><DEL><ACK><DC3>k<RS><SO>kP<BS>dN<SO><RS>W<ETX><SUB><FF><DC4><EOT><SUB><ENQ><DEL>~f
+POCSAG2400: Address:  266855  Function: 2 
+POCSAG2400: Address:  867647  Function: 3  Alpha:   O%
+POCSAG2400: Address: 1902193  Function: 3 
+POCSAG2400: Address: 1678657  Function: 3  Alpha:   `j
+POCSAG2400: Address:  164154  Function: 3  Alpha:   <RS>'
+POCSAG2400: Address:  378171  Function: 2  Alpha:   ;<GS>
+POCSAG2400: Address: 1544446  Function: 1 
+POCSAG1200: Address: 1312568  Function: 2  Alpha:   06:00-02 PLEASE CONTACT CONTROL
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   06:00-63
+POCSAG2400: Address: 1849785  Function: 2 
+POCSAG2400: Address:  925658  Function: 1 
+POCSAG2400: Address:  413034  Function: 2  Alpha:   qX
+POCSAG2400: Address:  731261  Function: 1  Alpha:   }M
+POCSAG2400: Address:  184142  Function: 1 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   06:00-00 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address: 1843368  Function: 0 
+POCSAG1200: Address: 1059889  Function: 3 
+POCSAG1200: Address:  413198  Function: 2  Alpha:   06:00-73 (2/3) ASSIST REMOVING MALE FROM PROPERTY - SCAS ON SCENE; Assigned: JY22P1; Roles    JY22P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA);
+POCSAG1200: Address:  413198  Function: 2  Alpha:   06:00-74 (3/3) Additional_Data Address Classification Semi-Detached<NUL>
+POCSAG1200: Address: 2053008  Function: 0 
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   06:00-47 4187<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   06:01-77 22/11/2021 05:59:29 INC 24702599 31C01 47 HAWARDEN STREET, ASTLEY BRIDGE BOLTON, BL1 7HY Male 34Y FEELS FAINT GRD 371434 412068<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   06:01-48 4187<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0603221121+++TIME=0603221121<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   06:03-03 22/11/2021 06:02:25 INC 24702603 06D02 61 COLUMBIA WAY, BLACKBURN, BB2 7DT Female 10Y BREATHING DIFF - GRD 366554 429945<NUL><NUL>
