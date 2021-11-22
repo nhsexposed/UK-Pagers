@@ -44001,3 +44001,44 @@ POCSAG1200: Address:  678481  Function: 2  Alpha:   09:14-92 22/11/2021 09:11:39
 POCSAG1200: Address: 1500150  Function: 2  Alpha:   09:14-48 22/11/2021 09:11:39 INC 24703076 10D04 38 CECIL ROAD, ECCLES MANCHESTER, M30 0FZ Male 37Y LEFT HAND SIDE INFLAMMED - CHEST TIGHT - UNABLE TO MOVE KNEE GRD 377113 398166
 POCSAG1200: Address:  549754  Function: 2  Alpha:   09:14-14 >XLEASE CONTACT CONTROLS RE ON OR OFF DUTY
 POCSAG2400: Address:   28907  Function: 0  Alpha:   09:14-57 4297<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1312578  Function: 2  Alpha:   09:14-38 (3/4) Additional_Data Are you injured:  ; Additional_Data What is the type of building:  ; Additional_Data Where in the building are you: ;
+POCSAG1200: Address: 1312578  Function: 2  Alpha:   09:14-39 (4/4) Additional_Data Are you in the same room as the fire: <NUL><NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   09:14-83 5056<NUL>
+POCSAG2400: Address: 1913542  Function: 2  Alpha:   09:14-98 5499<NUL>
+POCSAG2400: Address:  267282  Function: 1  Alpha:   Y(
+POCSAG2400: Address: 1377507  Function: 2  Alpha:   7<GS>
+POCSAG2400: Address: 1153804  Function: 3  Alpha:   b`dbb
+POCSAG2400: Address:  354326  Function: 2 
+POCSAG2400: Address: 1639791  Function: 2 
+POCSAG2400: Address:  873121  Function: 0 
+POCSAG2400: Address:  772881  Function: 1 
+POCSAG1200: Address: 1031705  Function: 2 
+POCSAG1200: Address:  216321  Function: 2  Alpha:   09:15-75 (2/2) Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Terraced<NUL>
+POCSAG1200: Address: 1534114  Function: 2  Alpha:   09:15-76 GOOD MORNING FROM CONTROL
+POCSAG1200: Address:  269168  Function: 2  Alpha:   09:15-08 22/11/2021 09:11:41 INC 24703077 10C03 66 LAWNSWOOD, CASTLETON ROCHDALE, OL11 3HB Male 73Y CHEST PAIN GRD 388354 411461
+POCSAG1200: Address:  234377  Function: 2  Alpha:   09:16-45 22/11/2021 09:13:08 INC 24703081 12D02E SIMON NICHOLAS (JEWELLERY) LTD, 64A BOND STREET, BLACKPOOL, FY4 1BW Male 51Y FITTING GRD 330696 433930
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   09:16-71 22/11/2021 09:13:08 INC 24703081 12D02E SIMON NICHOLAS (JEWELLERY) LTD, 64A BOND STREET, BLACKPOOL, FY4 1BW Male 51Y FITTING GRD 330696 433930
+POCSAG1200: Address: 1912920  Function: 3 
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   09:16-63 SECC team test<NUL><NUL>
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   09:16-63 2427<NUL>
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-14 0913 Area Controllers Test pag
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   09:16-86 Contractors SE Supervisors Test - 0956<NUL>
+POCSAG2400: Address: 1022473  Function: 0  Alpha:   09:16-73 SECC team test<NUL><NUL>
+POCSAG1200: Address:  549757  Function: 2  Alpha:   09:16-94 ~PLEASE CONTACT CONTROLS RE ON OR OFF DUTY
+POCSAG1200: Address: 1817185  Function: 2  Alpha:   09:16-81 22/11/2021 09:15:51 INC 24703090 09E01 30 CLIFTON DRIVE, BLACKPOOL, FY4 1NX Male 77Y M NOT BREATHING GRD 330484 432703<NUL>
+POCSAG1200: Address:  543938  Function: 0 
+POCSAG1200: Address: 1849922  Function: 0  Alpha:   >><STX>2<SOH><EM>fR
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   09:16-24 22/11/2021 09:15:51 INC 24703090 09E01 30 CLIFTON DRIVE, BLACKPOOL, FY4 1NX Male 77Y M NOT BREATHING GRD 330484 432703<NUL>
+POCSAG2400: Address: 1322739  Function: 2  Alpha:   09:16-50 (1/2)For Information FSS015 Incident FSFS014957-22112021 Address  (STREET RECORD)          HIGHAM LANE          NUNEATON Type     RTC PERSONS TRAPPED SMALL<NUL>
+POCSAG2400: Address: 1322739  Function: 2  Alpha:   09:16-51 (2/2) VEHICLE Map ref  436999,292354 <NUL><NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   09:17-84 3510<NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   09:17-60 Please call Audrey Davidson 07891 115 446<NUL>
+POCSAG1200: Address:  420175  Function: 2  Alpha:   09:18-36 3941<NUL>
+POCSAG2400: Address: 1913788  Function: 2  Alpha:   09:18-57 4139<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0918221121+++TIME=0918221121<NUL>
+POCSAG1200: Address:  414156  Function: 2  Alpha:   <ETX>B
+POCSAG2400: Address: 1323562  Function: 2  Alpha:   09:18-24 80300
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0918221121+++TIME=0918221121<NUL>
+POCSAG1200: Address: 1321703  Function: 2  Alpha:   09:19-92 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: FL63KUY. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
