@@ -1,3 +1,20 @@
+POCSAG1200: Address: 1332804  Function: 1 
+POCSAG1200: Address: 1413993  Function: 2  Alpha:   v<RS>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   74
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0348221121+++TIME=0348221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:45-42 4188<NUL>
+POCSAG2400: Address: 1101714  Function: 1 
+POCSAG2400: Address:  533292  Function: 3  Alpha:   <SUB>}<FF>%E
+POCSAG2400: Address:  159875  Function: 1  Alpha:   <LF><US>
+POCSAG2400: Address:   88578  Function: 3 
+POCSAG2400: Address:  779465  Function: 0  Alpha:   5Q
+POCSAG2400: Address: 1419014  Function: 0  Alpha:   <STX><ESC>
+POCSAG2400: Address:  644790  Function: 0 
+POCSAG2400: Address:  159875  Function: 1  Alpha:   <LF><US>
+POCSAG2400: Address: 1323932  Function: 2  Alpha:   03:45-98 AMBER: TOTAL AIRWAVE FAILURE NATIONWIDE, MDT'S STILL WORKING, NO COMMS VIA R/T - UNKNOWN TIMEFRAME FOR RESOLVE. - HC EOC L.SOUTH <NUL><NUL>
+POCSAG2400: Address: 1324117  Function: 2  Alpha:   03:45-94 AMBER: TOTAL AIRWAVE FAILURE NATIONWIDE, MDT'S STILL WORKING, NO COMMS VIA R/T - UNKNOWN TIMEFRAME FOR RESOLVE. - HC EOC L.SOUTH <NUL><NUL>
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   03:44-75 22/11/2021 03:43:27 INC 24702378 28C02L WILTON COURT - FLAT 23, MANCHESTER ROAD, AUDENSHew!MANCHESTER, M34 2WA Female 78Y CAN'T TALK PROPERLY GRD 390201 395689
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0343221121+++TIME=0343221121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0343221121+++TIME=0343221121<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1411934  Function: 0  Alpha:   rd
 POCSAG1200: Address: 1271389  Function: 2 
 POCSAG1200: Address:  401917  Function: 0 
 POCSAG1200: Address:  427675  Function: 1  Alpha:   XUU<NAK>jdfb<RS>YYZ<EM>YXX<CAN>Y<CAN><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=235321
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2353211121+++TIME=2353211121<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   23:50-10 21/11/2021 23:46:51 INC 24701815 23B01I FORSHAWS HOTELljIBIS HOTEL, TALBOT SQUARE, BLACKPOOL, FY1 1ND Male 35Y SPIKED GRD 330606 436319<NUL>
-POCSAG2400: Address: 1324567  Function: 2  Alpha:   23:49-65 INC ALERT No: 16809129 Cardiac Arrest -, AT: FLAT 2, 20 HIGH STREET, BIDEFORD, EX39 2AA, Time of Call: 21/11/2021 23:48:08, Co-ords: 51.0177457 -4.2068494<NUL><NUL>
-POCSAG1200: Address:   41967  Function: 2  Alpha:   23:49-17 PLEASE CONTACT CONTROL- AGAIN<NUL>
-POCSAG1200: Address: 2045360  Function: 2  Alpha:   2<SYN><DC2><STX><GS>J<DC2><STX>MaeY]E<SOH>Mae]]a<SOH>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   23:49-64 PROBLEM: Netscaler vServer: ldaps.bootsmv|m.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
-POCSAG2400: Address:  196066  Function: 2  Alpha:   iA
-POCSAG2400: Address:   78345  Function: 0  Alpha:   77
-POCSAG2400: Address:  216268  Function: 2  Alpha:   23:49-63 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2348211121+++TIME=2348211121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2348211121+++TIME=2348211121<NUL>
-POCSAG1200: Address:  216379  Function: 2  Alpha:   23:48-64 (3/3) Additional_Data Address Classification Terraced
-POCSAG1200: Address:  216379  Function: 2  Alpha:   23:48-63 (1/3)030017-21112021; S6.0.0.P SPEc)EL SERVICE - INTERNAL FLOODING; 32 GRANGE AVENUE,READING,RG6 1DJ; 474031,172815;
-POCSAG1200: Address:  200957  Function: 2  Alpha:   23:47-91 PLEASE CALL 01865 331 764 <NUL><NUL>
