@@ -42952,3 +42952,30 @@ POCSAG1200: Address: 1261741  Function: 1
 POCSAG1200: Address:  924709  Function: 2  Alpha:   ,<FS>
 POCSAG1200: Address: 1814700  Function: 2  Alpha:   08:03-76 22/11/2021 08:01:33 INC 24702849 10D05 20 WESTBOURNE ROAD, ECCLES MANCHESTER, M30 8DE Male 49Y CHEST PAIN GRD 375773 399531<NUL><NUL>
 POCSAG1200: Address: 1500150  Function: 2  Alpha:   08:03-46 22/11/2021 08:01:33 INC 24702849 10D05 20 WESTBOURNE ROAD, ECCLES MANCHESTER, M30 8DE Male 49Y CHEST PAIN GRD 375773 399531<NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   08:05-37 2180<NUL>
+POCSAG1200: Address: 1816963  Function: 2  Alpha:   08:05-27 Destination: D105 SSC In\116, Booking Ref#: 801294, Vehicle: DG68BVK. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  548153  Function: 2  Alpha:   08:05-80 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: PJ65CHV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>__________________________
+POCSAG1200: Address: 2080633  Function: 2  Alpha:   ~~^~^h~~~~6
+POCSAG1200: Address: 1333331  Function: 1 
+POCSAG1200: Address:  556540  Function: 0  Alpha:   ig
+POCSAG2400: Address:  216268  Function: 2  Alpha:   08:05-15 PROBLEM: cabcpplsql02mc1 is DOWN, <CR><LF>PROBLEM: cabcpplsql02mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplsql02mc1<CR><LF>Alias: <CR><LF>Address: 10.0.3.77<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > CitizensAdvice-MAN<CR><NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   08:05-22 PROBLEM: cabcpplsql02mc1 is DOWN, <CR><LF>PROBLEM: cabcpplsql02mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplsql02mc1<CR><LF>Alias: <CR><LF>Address: 10.0.3.77<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > CitizensAdvice-MAN<CR><NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   08:05-91 PROBLEM: cabcpplsql02mc1 is DOWN, <CR><LF>PROBLEM: cabcpplsql02mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplsql02mc1<CR><LF>Alias: <CR><LF>Address: 10.0.3.77<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > CitizensAdvice-MAN<CR><NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:06-91 22/11/2021 08:03:10 INC 24702853 06C01O 31 DURBAN ROAD, LISCARD WALLASEY CH45, CH45 7NR Female 78Y SAYS DIFF BREATHING, PASSING LOTS OF URINE GRD 331055 392673
+POCSAG1200: Address: 1637809  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   33738  Function: 2  Alpha:   08:08-22 INC ALERT No: 16810027 Falls - FEMALE HAS HIT HER HEAD ON THE FLOOR AND VOMITTING, AT: 9 COLEBROOKE LANE, CULLOMPTON, EX15 1EB, Time of Call: 22/11/2021 08:06:45, Co-ords: 50.8520258 -3.3952102
+POCSAG2400: Address:  327840  Function: 1 
+POCSAG2400: Address: 1252064  Function: 2 
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   08:08-49 22/11/2021 08:06:59 INC 24702863 06D02 17 WIDGEON CLOSE, THORNTON THORNTON CLEVELEYS, FY5 2HN Female 85Y EOB, GRD 332970 443588<NUL>
+POCSAG1200: Address:   40089  Function: 2  Alpha:   08:08-96 22/11/2021 08:06:59 INC 24702863 06D02 17 WIDGEON CLOSE, THORNTON THORNTON CLEVELEYS, FY5 2HN Female 85Y EOB, GRD 332970 443588<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0808221121+++TIME=0808221121<NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   08:08-50 22/11/2021 08:06:59 INC 24702863 06D02 17 WIDGEON CLOSE, THORNTON THORNTON CLEVELEYS, FY5 2HN Female 85Y EOB, GRD 332970 443588<NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   08:08-21 22/11/2021 08:06:59 INC 24702863 06D02 17 WIDGEON CLOSE, THORNTON THORNTON CLEVELEYS, FY5 2HN Female 85Y EOB, GRD 332970 443588<NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   08:08-53 22/11/2021 08:06:59 INC 24702863 06D02 17 WIDGEON CLOSE, THORNTON THORNTON CLEVELEYS, FY5 2HN Female 85Y EOB, GRD 332970 443588<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808221121+++TIME=0808221121<NUL>
+POCSAG2400: Address: 1022429  Function: 0  Alpha:   08:09-33 Keith J has taken over
+POCSAG2400: Address:  756792  Function: 0 
+POCSAG2400: Address:  612130  Function: 2 
+POCSAG2400: Address:  584813  Function: 0 
+POCSAG1200: Address:  363828  Function: 2  Alpha:   08:09-55 CINC0096730 - Hammersmith Fire Station- P3 - Equipment rack door open alert keep showing on the network service manager
