@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>VIL
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1033221121+++TIME=1033221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1033221121+++TIME=1033221121<NUL>
+POCSAG2400: Address:  254753  Function: 1 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:33-90 3239<NUL>
+POCSAG2400: Address: 1913953  Function: 2  Alpha:   10:33-09 2150<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   10:32-86 5205<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN>,L
+POCSAG1200: Address:  135328  Function: 2  Alpha:   10:32-64 22/11/2021 10:31:05 INC 24703374 30B02 CLEARVIEW HOME IMPROVEMENTS LTD, 5 PEREGRINE PLACE, LEYLAND, PR25 3EY Male 50Y HEAD INJURY GRD 352598 422876<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  585538  Function: 2  Alpha:   10:31-67 6813<NUL>
+POCSAG1200: Address: 1323878  Function: 2  Alpha:   10:31-27 GREEN: PLEASE CALL LAS GOLD ON 07956397480 FOR AN AIRWAVES UPDATE. MANY THANKS AW EOC NORTH
+POCSAG1200: Address: 1323874  Function: 2  Alpha:   10:31-31 GREEN: PLEASE CALL LAS GOLD ON 07956397480 FOR AN AIRWAVES UPDATE. MANY THANKS AW EOC NORTH
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   10:31-56 5013<NUL>
+POCSAG1200: Address:  548159  Function: 2  Alpha:   10:31-01 PLS BLEEP SABIN 5031<NUL><NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DLE>,H<FF>r<LF>1f
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   b<FF>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:30-20 2184<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   10:29-58 22/11/2021 10:28:21 INC 24703351 06D02 2 ROSE LANE, PRESTON, PR1 6HJ Male 73Y DIB GRD 354984 431200
+POCSAG1200: Address:  350338  Function: 0  Alpha:   10:29-78 22/11/2021 10:28:21 INC 24703351 06D02 2 ROSE LANE, PRESTON, PR1 6HJ Male 73Y DIB GRD 354984 431200
 POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
 POCSAG2400: Address:   28907  Function: 0  Alpha:   10:29-63 5201<NUL>
 POCSAG2400: Address: 1321021  Function: 2  Alpha:   10:29-40 4316<NUL>
@@ -976,25 +998,3 @@ POCSAG1200: Address: 1906736  Function: 2
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address: 1330700  Function: 2 
-POCSAG2400: Address: 1330699  Function: 2 
-POCSAG2400: Address: 1330698  Function: 2 
-POCSAG2400: Address: 1330697  Function: 2 
-POCSAG2400: Address: 1330697  Function: 2 
-POCSAG2400: Address:       0  Function: 0  Alpha:   +dA<NAK>r`<LF>90E<FS>X"<SO>,<DC1><BEL>VH<ETX>+dA<NAK>r`<LF>90E<FS>X"<SO>,<DC1><BEL>VH<ETX>'<DC2>
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address: 2000226  Function: 0  Alpha:   WHC+da<NAK>rp<LF>98E<FS>\"<SO>.<DC1><BEL>WHC+da<NAK>rp<LF>9x,B
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:     512  Function: 0 
