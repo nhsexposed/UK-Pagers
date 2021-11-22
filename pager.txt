@@ -1,3 +1,38 @@
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   14:09-44 2111<NUL>
+POCSAG1200: Address: 1032155  Function: 2  Alpha:   R&
+POCSAG2400: Address: 1913798  Function: 2  Alpha:   14:09-61 5440<NUL>
+POCSAG1200: Address:  585004  Function: 2  Alpha:   14:09-55 1: 001MPCLA81015 Lift Panel in BCC Lift Alarm 01
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1408221121+++TIME=1408221121<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   V"
+POCSAG1200: Address:  269456  Function: 3  Alpha:   EH
+POCSAG2400: Address: 1630830  Function: 0 
+POCSAG2400: Address:  149113  Function: 2  Alpha:   14:08-27 2289<NUL>
+POCSAG1200: Address:  216725  Function: 2  Alpha:   14:08-49 Proceed to: 039958-22112021 RTC PERSONS TRAPPED SMALL VEHICLE  JUNCTION 9 TO 10,LEATHERHEAD TO WISLEY,M25
+POCSAG2400: Address: 1643592  Function: 3  Alpha:   t<EOT>2d||<DC4>e<STX><LF>$U<ETX><SUB>D<FF>d<FS><DC4>}4$<ENQ>B|,<GS>-<EOT>j<STX>2d<FF>$<ENQ><SUB>;c<STX>b|<-<DC4><ENQ><SUB>M$t,L<ENQ><SUB>%<NAK>-,$e<STX><SUB>},%E4Mdd,<EOT><DC2><DC4>M<FS>%}dd<STX><DC2><FS><GS><ETX><LF><ESC><NAK>e<STX>"Mn.<ACK>z6<ACK><SUB><FF>ffV<ETX><DC2><DC3>{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF>#S<ETX>3S<ETX>+c<STX><SUB>|nz<SYN>'<RS>W<ETX>*<VT>s"##<ESC>;K<ETX>KC<ETX>j<DC2>s2<VT>#<DC3><ETX>3+<VT>C
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   14:08-17 INC ALERT No: 16811201 Traffic/Transportation Accidents - HIT BY VAN., KNOCK
+POCSAG1200: Address:  483624  Function: 0 
+POCSAG1200: Address: 1511979  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1008302  Function: 2  Alpha:   14:07-71 80300
+POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2><ETX>]<DC1>L
+POCSAG2400: Address:  809340  Function: 0 
+POCSAG2400: Address:  480484  Function: 2 
+POCSAG2400: Address: 1487748  Function: 0  Alpha:   2.
+POCSAG1200: Address:  216379  Function: 2  Alpha:   14:07-72 (2/3) 474815,174260; Assigned: JY02P1; Roles    JY02P1:WRL; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Office / Work Studio;<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   14:06-68 4089<NUL>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   14:06-53 7238638 , SAMA. 
+POCSAG2400: Address:  549723  Function: 2  Alpha:   14:06-43 80300
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   14:06-91 22/11/2021 14:03:37 INC 24704361 23B01V APARTMENT 4, 35 SCARISBRICK NEW ROAD, SOUTHPORT PR8, PR8 6QF Male 15Y OVERDOSE GRD 334322 416471
+POCSAG2400: Address:  149113  Function: 2  Alpha:   14:06-26 5201<NUL>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   14:06-05 5073<NUL>
+POCSAG1200: Address:  809334  Function: 0 
+POCSAG1200: Address: 1030835  Function: 0 
+POCSAG1200: Address:  216379  Function: 2  Alpha:   14:05-71 (2/2) 474815,174260; Assigned: JY02P1; Roles    JY02P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Office / Work Studio
+POCSAG2400: Address:  584017  Function: 2  Alpha:   14:05-73 80300
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>B
+POCSAG2400: Address:  549158  Function: 2  Alpha:   14:04-92 80300
+POCSAG2400: Address: 1913722  Function: 2  Alpha:   14:04-82 5357<NUL>
 POCSAG1200: Address:  358419  Function: 2  Alpha:   14:04-95 2932<NUL>
 POCSAG1200: Address:  696528  Function: 2  Alpha:   14:04-65 Please call AGH switchboard on 01535 652511<NUL><NUL>
 POCSAG2400: Address: 1913971  Function: 2  Alpha:   14:04-13 5076<NUL>
@@ -963,38 +998,3 @@ POCSAG1200: Address: 1494622  Function: 1  Alpha:   +d
 POCSAG1200: Address:  361741  Function: 2  Alpha:   |&
 POCSAG1200: Address: 1521172  Function: 1 
 POCSAG1200: Address:  548153  Function: 2  Alpha:   11:57-85 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: WX17WSD. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   11:57-33 22/11/2021 11:50:38 INC 24703703 12D02 57 FRASER STREET, BURNLEY, BB10 1UL Female 34Y FIT GRD 384895 434482<NUL>
-POCSAG2400: Address: 1913848  Function: 2  Alpha:   11:57-86 2616<NUL>
-POCSAG2400: Address: 1913798  Function: 2  Alpha:   11:56-60 4187<NUL>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   11:56-37 4387<NUL>
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   VF
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   11:56-54 22/11/2021 11:52:57 INC 24703715 11D01M HIGHGROVE HOUSE, HIGHFIELD ROAD NORTH, CHORLEY, PR7 1PH Female 90Y CHEST INFECTION - COUGHING GRD 358276 41882
-POCSAG1200: Address:  346010  Function: 0  Alpha:   11:56-41 22/11/2021 11:52:57 INC 24703715 11D01M HIGHGROVE HOUSE, HIGHFIELD ROAD NORTH, CHORLEY, PR7 1PH Female 90Y CHEST INFECTION - COUGHING GRD 358276 41882
-POCSAG1200: Address:  678651  Function: 2  Alpha:   11:55-93  BLOODS AND SWABS TO GO FROM KINGSLEY WARD <NUL><NUL>
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   11:55-34 22/11/2021 11:51:27 INC 24703709 06D04 6, RUTLAND COURT, ANSDELL LYTHAM ST ANNES, FY8 4ED Female 23Y PINS AND NEEDLES GRD 334641 428047<NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   11:55-65 22/11/2021 11:51:27 INC 24703709 06D04 6, RUTLAND COURT, ANSDELL LYTHAM ST ANNES, FY8 4ED Female 23Y PINS AND NEEDLES GRD 334641 428047<NUL>
-POCSAG1200: Address:  265248  Function: 3  Alpha:   <DLE>,H<FF><DC3><NUL>1f
-POCSAG2400: Address:   28898  Function: 0  Alpha:   11:55-35 2694<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   11:55-89 5203<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:55-76 22/11/2021 11:53:35 INC 24703719 06E01 BEDFORD CARE HOME, BATTERSBY STREET, LEIGH, WN7 2AH Male 78Y HIGHT HEART RATE, GASPING FOR BREATH GRD 366766 400007<NUL><NUL>
-POCSAG1200: Address: 1511979  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   11:54-80 22/11/2021 11:51:13 INC 24703706 10C01 4 HORROCKS AVENUE, SQUIRES GATE BLACKPOOL ST ANNES, FY8 2FH Female 47Y CHEST PAINS AND SOB GRD 330813 431520<NUL>
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   11:54-72 INC ALERT No: 16810752 Cardiac Arrest -, AT: WOODLANDS MANOR NURSING HOME, RUFFET ROAD, KENDLESHIRE WINTERBOURNE BRISTOL, BS36 1AN, Time of Call: 22/11/2021 11:52:35, Co-ords: 51.512637 -2.48553<NUL><NUL>
-POCSAG1200: Address:  234377  Function: 2  Alpha:   11:54-54 22/11/2021 11:51:13 INC 24703706 10C01 4 HORROCKS AVENUE, SQUIRES GATE BLACKPOOL ST ANNES, FY8 2FH Female 47Y CHEST PAINS AND SOB GRD 330813 431520<NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   11:54-64 22/11/2021 11:51:13 INC 24703706 10C01 4 HORROCKS AVENUE, SQUIRES GATE BLACKPOOL ST ANNES, FY8 2FH Female 47Y CHEST PAINS AND SOB GRD 330813 431520<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   11:54-32 22/11/2021 11:51:13 INC 24703706 10C01 4 HORROCKS AVENUE, SQUIRES GATE BLACKPOOL ST ANNES, FY8 2FH Female 47Y CHEST PAINS AND SOB GRD 330813 431520<NUL>
-POCSAG2400: Address: 1321178  Function: 2  Alpha:   11:54-66 Exercise Exercise Exercise. This is a communications Exercise. Please respond by text within 15 minutes to 07568 431597, confirming modes message received (SMS, Pager, email). John Dodds (EPRR)
-POCSAG2400: Address: 1321149  Function: 2  Alpha:   11:53-14 Exercise Exercise Exercise. This is a communications Exercise. Please respond by text within 15 minutes to 07568 431597, confirming modes message received (SMS, Pager, email). John Dodds (EPRR)
-POCSAG2400: Address:  918619  Function: 1  Alpha:   YX
-POCSAG2400: Address: 1635046  Function: 3 
-POCSAG2400: Address:  925307  Function: 0  Alpha:   <FF>$
-POCSAG2400: Address: 1069939  Function: 2 
-POCSAG2400: Address:  512841  Function: 0  Alpha:   ciCe.
-POCSAG2400: Address:  453848  Function: 1  Alpha:   <FS>(
-POCSAG2400: Address:  924024  Function: 0 
-POCSAG2400: Address: 1102422  Function: 1 
-POCSAG1200: Address:  585224  Function: 2  Alpha:   11:54-85 1: 001MTAHU0513027 Supply Fan ST    CF5 Fan off 01<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   11:53-32 22/11/2021 11:51:51 INC 24703711 26C01 24 RED SPAR ROAD, LANEHEAD BURNLEY, BB10 2EE Female 96Y DEHYDRATED - NOT EATING GRD 385807 434943
-POCSAG1200: Address:  214093  Function: 2  Alpha:   11:53-20 22/11/2021 11:51:51 INC 24703711 26C01 24 RED SPAR ROAD, LANEHEAD BURNLEY, BB10 2EE Female 96Y DEHYDRATED - NOT EATING GRD 385807 434943
-POCSAG1200: Address:  269282  Function: 3  Alpha:   V<LF>
