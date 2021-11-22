@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   12:03-63 22/11/2021 12:02:24 INC 24703762 25B03 ALBION TOWERS - FLAT 166, CROSS LANE, SALFORD 6 SALFORD, M5 4AF Male 51Y SUICIDAL GRD 381657 398625<NUL>
+POCSAG1200: Address: 1032918  Function: 3  Alpha:   VB
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   &<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1203221121+++TIME=1203221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1203221121+++TIME=1203221121<NUL>
+POCSAG1200: Address:  230940  Function: 2  Alpha:   %R
+POCSAG1200: Address: 1511979  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1701120  Function: 3 
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:02-86 2427<NUL>
+POCSAG1200: Address:  269354  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1817185  Function: 2  Alpha:   12:02-86 22/11/2021 11:59:13 INC 24703743 17D05 ALEXANDRA NURSING HOME, MOORLAND ROAD, POULTON LE FYLDE, FY6 7EU Male 87Y UNSTEADY HAD A FALL, HIT HIS HEAD GRD 335457 439895<NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   12:02-38 22/11/2021 11:59:13 INC 24703743 17D05 ALEXANDRA NURSING HOME, MOORLAND ROAD, POULTON LE FYLDE, FY6 7EU Male 87Y UNSTEADY HAD A FALL, HIT HIS HEAD GRD 335457 439895<NUL>
+POCSAG1200: Address:  290113  Function: 3  Alpha:   d<DC2>
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN>R
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   12:01-31 3508<NUL>
+POCSAG1200: Address: 1032650  Function: 3  Alpha:   U*
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <NAK><BS>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   12:00-06 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:Austria's Return to Lockdown Met With Anger, Resignation
+POCSAG1200: Address:  621280  Function: 3  Alpha:   B.
+POCSAG1200: Address:  585568  Function: 2  Alpha:   11:59-76 PLS CALL OPERATIONS ROOM ON 020 8216 4457<NUL>
 POCSAG1200: Address:  585617  Function: 2  Alpha:   11:59-63 PLS CALL OPERATIONS ROOM ON 020 8216 4457<NUL>
 POCSAG2400: Address: 1913767  Function: 2  Alpha:   11:58-07 2616<NUL>
 POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:58-50 4316<NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address:   67214  Function: 2
 POCSAG2400: Address: 1120628  Function: 1 
 POCSAG2400: Address:  625937  Function: 3  Alpha:   Izi<HT>t
 POCSAG2400: Address:  856865  Function: 0 
-POCSAG2400: Address: 1587264  Function: 3 
-POCSAG2400: Address:  616628  Function: 1 
-POCSAG2400: Address: 1378642  Function: 1 
-POCSAG2400: Address:  833396  Function: 2 
-POCSAG2400: Address:  754326  Function: 1  Alpha:   CU . b3<HT>jrs
-POCSAG2400: Address: 1465004  Function: 2 
-POCSAG2400: Address: 1877316  Function: 1 
-POCSAG2400: Address:  770867  Function: 2  Alpha:    W
-POCSAG2400: Address:  272346  Function: 3  Alpha:   <FS><
-POCSAG2400: Address: 1781857  Function: 0 
-POCSAG2400: Address:  624400  Function: 3  Alpha:   @nbf@
-POCSAG2400: Address:   67215  Function: 2  Alpha:   O%
-POCSAG2400: Address:  841766  Function: 3  Alpha:   Y^<CR>\,
-POCSAG2400: Address:  919691  Function: 3  Alpha:   [{
-POCSAG2400: Address: 1323229  Function: 2  Alpha:   09:55-95 NHSBT - DONOR REFERRAL. Please call RACHEL FENTON on Direct Dial Number 01284 713 !0  Hospital WEST SUFFOLK Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323193  Function: 2  Alpha:   09:55-74 NHSBT - DONOR REFERRAL. Please call RACHEL FENTON on Direct Dial Number 01284 713 130 Hospital WEST SUFFOLK Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1512910  Function: 2  Alpha:   09:55-80 80300
-POCSAG1200: Address:  312672  Function: 0  Alpha:   09:55-30 22/11/2021 09:51:12 INC 24703210 12C03 HAYDOCK PARK RACECOURSE CO LTD, WARRINGTON ROAD, NEWTON LE WILLOWS WA12, WA12 0HQ Male 45Y FIT GRD 358500 39819
-POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
-POCSAG2400: Address:  583459  Function: 2  Alpha:   09:54-43 80300
-POCSAG2400: Address: 1008365  Function: 2  Alpha:   09:54-12 80300
-POCSAG2400: Address: 1913545  Function: 2  Alpha:   09:54-79 2326<NUL>
