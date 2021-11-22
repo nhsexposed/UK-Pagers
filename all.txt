@@ -41087,3 +41087,14 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208221121+++TIME=02
 POCSAG1200: Address:  334075  Function: 2  Alpha:   02:08-54 22/11/2021 02:05:51 INC 24702180 12D01 18 HILLCREST ROAD, OFFERTON STOCKPORT, SK2 5QL Female 17Y FIT GRD 391588 389128<NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   02:08-49 22/11/2021 02:05:51 INC 24702180 12D01 18 HILLCREST ROAD, OFFERTON STOCKPORT, SK2 5QL Female 17Y FIT GRD 391588 389128<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:09-39 4314<NUL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   02:10-02 21/11/2021 22:46:09 INC 24701645 24C03 25 BEARDSHAW AVENUE, MARTON BLACKPOOL, FY1 6QA Female 21Y ProQA Overridden - Call Escalated - PREGANANT - ABDO PAIN GRD 331872 434618<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1668700  Function: 1 
+POCSAG1200: Address:  630869  Function: 0 
+POCSAG1200: Address:  511325  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1321709  Function: 2  Alpha:   02:13-34 Destination: D105 SSC In\120, Booking Ref#: 801935, Vehicle: kx18kbf. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1534102  Function: 2  Alpha:   02:13-37 025212-22112021; F1 Fire Commercial/Industrial BC3; GRAND PARADE,STATION ROAD,HOOK,RG27 9HF; 472434,154172; BOSS Mobile: https://bossd.nfcsp.org.uk<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   02:13-61 22/11/2021 02:05:51 INC 24702180 12D01 18 HILLCREST ROAD, OFFERTON STOCKPORT, SK2 5QL Female 17Y FIT GRD 3-q588 389128<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213221121+++TIME=0213221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0213221121+++TIME=0213221121<NUL>
