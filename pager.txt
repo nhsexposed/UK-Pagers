@@ -1,3 +1,31 @@
+POCSAG1200: Address: 1713796  Function: 1 
+POCSAG1200: Address:  708939  Function: 0  Alpha:   RA
+POCSAG1200: Address:  738762  Function: 2  Alpha:   0<DC1>
+POCSAG1200: Address:  314386  Function: 2 
+POCSAG1200: Address: 1400921  Function: 0 
+POCSAG1200: Address: 1675392  Function: 3  Alpha:   b.
+POCSAG1200: Address:  266854  Function: 1  Alpha:   v<ACK>&6Fv3<HT><SUB><ETX><DC2>
+POCSAG1200: Address: 1349438  Function: 1 
+POCSAG1200: Address:  633645  Function: 2  Alpha:   hp
+POCSAG1200: Address:  222812  Function: 2 
+POCSAG1200: Address:  624473  Function: 1  Alpha:   nl
+POCSAG1200: Address:  222809  Function: 2 
+POCSAG1200: Address:   44216  Function: 1 
+POCSAG1200: Address:  858672  Function: 1 
+POCSAG1200: Address: 1603175  Function: 3  Alpha:   O%
+POCSAG1200: Address:  535603  Function: 2 
+POCSAG1200: Address: 2046315  Function: 0 
+POCSAG1200: Address:   96618  Function: 1  Alpha:   ER
+POCSAG1200: Address:  973872  Function: 1  Alpha:   ]<FF><EOT><SYN><ETB>
+POCSAG1200: Address:  852718  Function: 0  Alpha:   A7 1Dp3<HT>*<DLE>c
+POCSAG1200: Address: 1713796  Function: 1 
+POCSAG1200: Address:  738762  Function: 2  Alpha:   0<DC1>
+POCSAG1200: Address:  314385  Function: 2 
+POCSAG1200: Address:  266854  Function: 1  Alpha:   v<ACK>&6F6<ACK>$~Y<EOT>
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  633644  Function: 2  Alpha:   hp
+POCSAG1200: Address:  273040  Function: 3  Alpha:   ++
+POCSAG2400: Address:   28899  Function: 0  Alpha:   03:28-40 4379<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323221121+++TIME=0323221121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323221121+++TIME=0323221121<NUL>
 POCSAG1200: Address:  940852  Function: 2  Alpha:   03:23-75 PROCEED TO:  PERSONS REPORTED FIRE/PERSONS REPORTED FIRE; BB51LN, 33 GLADSTONE HEIGHTS 17 EAGLE STREET   ACCRINGTON , EAGLE STREET/BIRCH STREET; FNWR-OPS06; ROLE:[BL] IIO ; SMOKE FROM WINDOW - AT FLAT 3t.03ST FLOOR. AUTO ALARM ALSO SOUNDING<NUL><NUL>
@@ -970,31 +998,3 @@ POCSAG2400: Address:  216264  Function: 2
 POCSAG2400: Address:  712613  Function: 3  Alpha:   e: Sun No<NUL><NUL>
 POCSAG2400: Address:  216251  Function: 2  Alpha:   22:59-64 RECOVERY: Windows Time is OK on host BOOPENLVDA01MC1, <CR><LF>RECOVERY: Windows Time is OK on host BOOPENLVDA01MC1<CR><LF>Service: Windows Time<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.99<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   22:59-43 RECOVERY: DNS Client is OK on host BOOPENLVDA01MC1, <CR><LF>RECOVERY: DNS Client is OK on host BOOPENLVDA01MC1<CR><LF>Service: DNS Client<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.99<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & Time: Sun Nov 21 2<NUL><NUL>
-POCSAG2400: Address: 1731037  Function: 0  Alpha:   '<SI>
-POCSAG2400: Address:  773108  Function: 2  Alpha:   n 
-POCSAG2400: Address: 1346579  Function: 0 
-POCSAG2400: Address:  758570  Function: 2 
-POCSAG2400: Address: 1583487  Function: 0 
-POCSAG2400: Address: 1934029  Function: 0  Alpha:   erVic
-POCSAG1200: Address: 1487681  Function: 2  Alpha:   22:59-34 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1487751  Function: 2  Alpha:   22:59-97 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1765506  Function: 2  Alpha:   22:59-1w%TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1487769  Function: 2  Alpha:   22:59-88 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1765468  Function: 2  Alpha:   22:59-85 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  618757  Function: 2  Alpha:   22:59-70 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1594899  Function: 2  Alpha:   22:59-0)!TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1487760  Function: 2  Alpha:   22:59-82 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  302819  Function: 2  Alpha:   22:59-03 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  679703  Function: 2  Alpha:   22:59-29 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address: 1765498  Function: 2  Alpha:   22:59-36 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  618712  Function: 2  Alpha:   22:59-47 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  200957  Function: 2  Alpha:   22:59-86 PLEASE CALL 5A 34044<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2258211121+++TIME=2258211121<NUL>
-POCSAG1200: Address:  695397  Function: 2  Alpha:   22:58-89 21/11/2021 22:56:13 INC 24701683 24D05 13 LION STREET, CHURCH NR ACCRINGTON, BB5 4JB Female 27Y ECTOPIC PREGNANCY-DIB GRD 374403 428868<NUL>
-POCSAG1200: Address:  312909  Function: 2 
-POCSAG1200: Address: 1477012  Function: 1 
-POCSAG1200: Address:  563236  Function: 1 
-POCSAG1200: Address: 1935491  Function: 2  Alpha:   f@
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1415983  Function: 3  Alpha:   O%(04
-POCSAG1200: Address: 1255007  Function: 3 

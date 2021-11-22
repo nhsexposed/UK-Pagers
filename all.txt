@@ -41300,3 +41300,31 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  940852  Function: 2  Alpha:   03:23-75 PROCEED TO:  PERSONS REPORTED FIRE/PERSONS REPORTED FIRE; BB51LN, 33 GLADSTONE HEIGHTS 17 EAGLE STREET   ACCRINGTON , EAGLE STREET/BIRCH STREET; FNWR-OPS06; ROLE:[BL] IIO ; SMOKE FROM WINDOW - AT FLAT 3t.03ST FLOOR. AUTO ALARM ALSO SOUNDING<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323221121+++TIME=0323221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323221121+++TIME=0323221121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   03:28-40 4379<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   ++
+POCSAG1200: Address:  633644  Function: 2  Alpha:   hp
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  266854  Function: 1  Alpha:   v<ACK>&6F6<ACK>$~Y<EOT>
+POCSAG1200: Address:  314385  Function: 2 
+POCSAG1200: Address:  738762  Function: 2  Alpha:   0<DC1>
+POCSAG1200: Address: 1713796  Function: 1 
+POCSAG1200: Address:  852718  Function: 0  Alpha:   A7 1Dp3<HT>*<DLE>c
+POCSAG1200: Address:  973872  Function: 1  Alpha:   ]<FF><EOT><SYN><ETB>
+POCSAG1200: Address:   96618  Function: 1  Alpha:   ER
+POCSAG1200: Address: 2046315  Function: 0 
+POCSAG1200: Address:  535603  Function: 2 
+POCSAG1200: Address: 1603175  Function: 3  Alpha:   O%
+POCSAG1200: Address:  858672  Function: 1 
+POCSAG1200: Address:   44216  Function: 1 
+POCSAG1200: Address:  222809  Function: 2 
+POCSAG1200: Address:  624473  Function: 1  Alpha:   nl
+POCSAG1200: Address:  222812  Function: 2 
+POCSAG1200: Address:  633645  Function: 2  Alpha:   hp
+POCSAG1200: Address: 1349438  Function: 1 
+POCSAG1200: Address:  266854  Function: 1  Alpha:   v<ACK>&6Fv3<HT><SUB><ETX><DC2>
+POCSAG1200: Address: 1675392  Function: 3  Alpha:   b.
+POCSAG1200: Address: 1400921  Function: 0 
+POCSAG1200: Address:  314386  Function: 2 
+POCSAG1200: Address:  738762  Function: 2  Alpha:   0<DC1>
+POCSAG1200: Address:  708939  Function: 0  Alpha:   RA
+POCSAG1200: Address: 1713796  Function: 1 
