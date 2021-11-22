@@ -1,3 +1,19 @@
+POCSAG1200: Address: 1511979  Function: 3  Alpha:   v*
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253221121+++TIME=1253221121<NUL>
+POCSAG2400: Address: 2009687  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253221121+++TIME=1253221121<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:53-67 4163<NUL>
+POCSAG1200: Address:  930489  Function: 2  Alpha:   12:53-93 22/11/2021 12:51:36 INC 24703984 30D03 501 BURY OLD ROAD, PRESTWICH EAST MANCHESTER, M25 3DE Female 96Y 96YOF - ON FLOOR - BEEN ON FLOOR FOR 2 HOURS GRD 381614 404627<NUL><NUL>
+POCSAG1200: Address:  420460  Function: 3  Alpha:   F<DLE>
+POCSAG1200: Address:  230940  Function: 2  Alpha:   U<DC2>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  108014  Function: 0  Alpha:   12:52-00 TEST CALL NO RESPONSE NEEDED
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  340147  Function: 0  Alpha:   12:51-36 4226<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   12:50-76 22/11/2021 12:48:32 INC 24703971 23C01I ROSE BRAE, 100 BRIDGE STREET, BIRKENHEAD CH41, CH41 1AN Male 52Y VOMITING - CANT MOVE - Q OVERDOSE GRD 332559 389287
+POCSAG1200: Address: 1534266  Function: 2  Alpha:   12:50-75 (2/2) 444284,119552; BOSS Mobile: https://bossd.nfcsp.org.uk<NUL><NUL>
+POCSAG2400: Address:   28909  Function: 0  Alpha:   12:50-22 8<NUL>
+POCSAG2400: Address: 1913878  Function: 2  Alpha:   12:49-52 4269<NUL>
 POCSAG2400: Address: 1913767  Function: 2  Alpha:   12:49-10 2616<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1248221121+++TIME=1248221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1248221121+++TIME=1248221121<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1322003  Function: 2  Alpha:   10:53-29 Testing/Testing Pri
 POCSAG1200: Address: 1978974  Function: 0 
 POCSAG1200: Address: 1258680  Function: 2  Alpha:   10:53-16 Testing/Tes|Iog Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
 POCSAG1200: Address:   41045  Function: 2  Alpha:   10:53-13 Testing/Testing Primary PCI Bleeps, Please respond 
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:53-35 5205<NUL>
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   10:53-21 PLEASE CALL THE HUB 01535 293908 THANKS
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  326368  Function: 2  Alpha:   10:52-93 3661<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:52-83 5808<NUL>
-POCSAG1200: Address: 1312637  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address: 1312629  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  149285  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  216567  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  216569  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  216566  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address: 1323849  Function: 2  Alpha:   10:52-19 FOR INFO 2111008491 ADD: 27-29 BOLD STREET WARRINGTON BEWSEY AND WHITECROSS WARRINGTON WA11HQ INC TYPE: BUILDING FIRE - DOMESTIC TG: FNWR-OPS10   FOR INFO ONLY AS: NEAREST SM (& TAC-AD)
-POCSAG1200: Address: 1312627  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  216562  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  216563  Function: 2  Alpha:   10:54:32 S19P2 Fire call 14574<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
