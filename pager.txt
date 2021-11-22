@@ -1,3 +1,44 @@
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   07:19-85 pls call HOWARD ward 35372<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0718221121+++TIME=0718221121<NUL>
+POCSAG1200: Address: 1812483  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0718221121+++TIME=0718221121<NUL>
+POCSAG1200: Address: 1323840  Function: 2  Alpha:   07:18-80 Stop Message received for Incident 2111008439;  [STOP] 22/11/21 07:18:12 STOP MESSAGE RECEIVED FROM E08P1 (OIC 20194 IN E08P1)<NUL><NUL>
+POCSAG1200: Address: 1039240  Function: 0 
+POCSAG2400: Address:  592477  Function: 0 
+POCSAG2400: Address: 1715820  Function: 1  Alpha:   <SYN>2
+POCSAG2400: Address:  835915  Function: 1  Alpha:    A
+POCSAG2400: Address:  365154  Function: 2 
+POCSAG2400: Address:  825362  Function: 0 
+POCSAG2400: Address: 1404969  Function: 3 
+POCSAG2400: Address: 1058849  Function: 3 
+POCSAG2400: Address: 1324552  Function: 2  Alpha:   07:17-13 INC ALERT No: 16809924 Cardiac  9Yg<DC2>4y<FS><NAK>(<VT>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1149736  Function: 3  Alpha:   jj
+POCSAG1200: Address:  226911  Function: 2  Alpha:   O%
+POCSAG1200: Address:  226908  Function: 2 
+POCSAG1200: Address:  668155  Function: 1 
+POCSAG1200: Address: 1933586  Function: 3  Alpha:   bbfhf
+POCSAG1200: Address:  734873  Function: 3 
+POCSAG1200: Address:  183769  Function: 0 
+POCSAG1200: Address:  297000  Function: 3  Alpha:   (J
+POCSAG1200: Address: 1120823  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1516615  Function: 0 
+POCSAG1200: Address:  818390  Function: 2 
+POCSAG1200: Address: 1246269  Function: 0  Alpha:   [,
+POCSAG1200: Address:  646500  Function: 2  Alpha:   07:16-28 22/11/2021 07:13:48 INC 24702743 10C01 17A MILLHOLME AVENUE, CURROCK CARLISLE, CA2 4DP Male 30Y PAINS IN CHEST GRD 340550 554148
+POCSAG1200: Address: 1815035  Function: 2  Alpha:   07:15-41 26117
+POCSAG2400: Address:  216268  Function: 2  Alpha:   07:15-07 PROBLEM: shacpplads01mc1 is DOWN, <CR><LF>PROBLEM: shacpplads01mc1 is DOWN<CR><LF><CR><LF>Host: shacpplads01mc1<CR><LF>Alias: CPP Domain Controller<CR><LF>Address: 10.0.3.5<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN ><NUL><NUL>
+POCSAG1200: Address:   91673  Function: 2 
+POCSAG1200: Address: 1345576  Function: 3 
+POCSAG1200: Address:  536111  Function: 1  Alpha:   O%
+POCSAG1200: Address: 2046319  Function: 0 
+POCSAG1200: Address:   96622  Function: 1  Alpha:   ER
+POCSAG1200: Address:  707636  Function: 1  Alpha:   ]<FF>4&<SYN>
+POCSAG1200: Address: 1925315  Function: 3  Alpha:   h@F<LF><DC1>
+POCSAG1200: Address:  313681  Function: 3 
+POCSAG1200: Address: 1683588  Function: 3  Alpha:   b<DC2>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1151784  Function: 2  Alpha:   df
 POCSAG1200: Address:  334075  Function: 2  Alpha:   07:14-93 22/11/2021 07:13:09 INC 24702742 23D01I 114 RADCLIFFE ROAD, REDVALES BURY, BL9 9LZ Male 33Y NOT BREATHING GRD 379776 409266<NUL><NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   07:14-05 22/11/2021 07:13:09 INC 24702742 23D01I 114 RADCLIFFE ROAD, REDVALES BURY, BL9 9LZ Male 33Y NOT BREATHING GRD 379776 409266<NUL><NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   07:14-88 22/11/2021 07:13:09 INC 24702742 23D01I 114 RADCLIFFE ROAD, REDVALES BURY, BL9 9LZ Male 33Y NOT BREATHING GRD 379776 409266<NUL><NUL>
@@ -957,44 +998,3 @@ POCSAG1200: Address:  269059  Function: 2  Alpha:   03:59-84 22/11/2021 03:58:31
 POCSAG1200: Address:  428347  Function: 2  Alpha:   03:59-68 22/11/2021 03:58:31 INC 24702410 09E01 627 KNOWSLEY LANE, KNOWSLEY L34, L34 9EA Female 18Y NOT BREATHING GRD 343330 395587
 POCSAG1200: Address:  334075  Function: 2  Alpha:   03:59-62 22/11/2021 03:58:31 INC 24702410 09E01 627 KNOWSLEY LANE, KNOWSLEY L34, L34 9EA Female 18Y NOT BREATHING GRD 343330 395587
 POCSAG1200: Address: 1817185  Function: 2  Alpha:   03:59<CR>[<ESC>
-POCSAG1200: Address: 1251954  Function: 3  Alpha:   <SO>f<SO><ACK><LF>
-POCSAG1200: Address:   72136  Function: 3 
-POCSAG1200: Address:  996496  Function: 3  Alpha:   <FF><CR>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   03:59-64 22/11/2021 03:58:31 INC 24702410 09E01 627 KNOWSLEY LANE, KNOWSLEY L
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0358221121+++TIME=0358221121<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:57-43 3157<NUL>
-POCSAG2400: Address:  585013  Function: 2  Alpha:   03:56-54 PIN 9524 PLEASE CALL DSCC ON 03457 500 620 OWN CLIENT CASE<NUL>
-POCSAG1200: Address:  353109  Function: 2  Alpha:   <DLE>$<DC1>1S*1f
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353221121+++TIME=0353221121<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   03:53-82 22/11/2021 03:51:05 INC 24702399 25O02 O/S, 20 FAIRBOURNE ROAD, LEVENSHULME MANCHESTER, M19 3HU Male 28Y HISTORY OF MH SELF HARMER WALKING UP AND DOWN STREET FOR 3 HOURS GRD 388214 394284<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353221121+++TIME=0353221121<NUL>
-POCSAG1200: Address: 1330701  Function: 2 
-POCSAG1200: Address: 1330700  Function: 2 
-POCSAG1200: Address: 1717610  Function: 0 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   03:53-71 22/11/2021 03:51:02 INC 24702398 25O01 239 HAWTHORNE ROAD, BOOTLE L20, L20 3AW Female 25Y HEARING VOICES GRD 334757 395220
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   03:53-23 22/11/2021 03:49:34 INC 24702394 17D02 O/S, BAR POP, 10 CANAL STREET, CITY MANCHESTER, M1 3EZ Male 55Y IN AND OUT CONS, FELL UNWITNESSED O/S, FACE INJ GRD 384392 397875
-POCSAG1200: Address:  859302  Function: 3 
-POCSAG1200: Address: 1521733  Function: 3 
-POCSAG1200: Address: 1705348  Function: 2  Alpha:   $j<FF>Pf
-POCSAG1200: Address: 1354331  Function: 1  Alpha:   XH
-POCSAG1200: Address:  626778  Function: 0 
-POCSAG1200: Address: 1584738  Function: 0 
-POCSAG1200: Address:   98657  Function: 1 
-POCSAG1200: Address:  919689  Function: 2 
-POCSAG1200: Address:  389648  Function: 3 
-POCSAG1200: Address:   91672  Function: 1 
-POCSAG1200: Address:  267414  Function: 2  Alpha:   )<HT>D(JpY<EOT>
-POCSAG1200: Address: 1998181  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1332804  Function: 1 
-POCSAG1200: Address: 1413993  Function: 2  Alpha:   v<RS>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   74
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0348221121+++TIME=0348221121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:45-42 4188<NUL>
-POCSAG2400: Address: 1101714  Function: 1 
-POCSAG2400: Address:  533292  Function: 3  Alpha:   <SUB>}<FF>%E
-POCSAG2400: Address:  159875  Function: 1  Alpha:   <LF><US>
-POCSAG2400: Address:   88578  Function: 3 
-POCSAG2400: Address:  779465  Function: 0  Alpha:   5Q
-POCSAG2400: Address: 1419014  Function: 0  Alpha:   <STX><ESC>
