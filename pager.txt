@@ -1,3 +1,24 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   01:04-35 5204<NUL>
+POCSAG1200: Address: 1892980  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0103221121+++TIME=0103221121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  420375  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   01:02-34 2304<NUL>
+POCSAG1200: Address: 1975933  Function: 2 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:02-49 22/11/2021 00:58:51 INC 24702035 17A04G 117 CAMPBELL DRIVE, SWANSIDE L14, L14 7QF Male 76Y FALLEN ON FLOOR - COPD GRD 341157 391148
+POCSAG2400: Address:  214619  Function: 2 
+POCSAG2400: Address:  432507  Function: 1 
+POCSAG2400: Address: 1912925  Function: 0 
+POCSAG2400: Address:  754339  Function: 0  Alpha:   xcHan
+POCSAG2400: Address:  434138  Function: 3  Alpha:   |[
+POCSAG2400: Address: 1665440  Function: 2  Alpha:   mS
+POCSAG2400: Address:  440207  Function: 2  Alpha:   O%(,C
+POCSAG2400: Address:  194284  Function: 3 
+POCSAG2400: Address:   90443  Function: 0  Alpha:   IT
+POCSAG2400: Address:  169882  Function: 3 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   01:01-70 PROBLEM: Microsoft Exchange Service Host Service is CRITICAL on host ftxitoleet01mc1, <CR><LF>PROBLEM: Microsoft Exchange Service Host Service is CRITICAL on host ftxitoleet01mc1<CR><LF>Service: Microsoft Exchange Service Host Service<CR><LF>Host: ftxitoleet<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:01-33 2304<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   01:00-95 Case ref 11276206 Fill in tick sheet
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0058622121+++TIME=0058221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  420375  Function: 0 
@@ -977,24 +998,3 @@ POCSAG2400: Address: 1581957  Function: 0
 POCSAG2400: Address:  222931  Function: 2  Alpha:   S3K41<NUL><VT><BS>
 POCSAG2400: Address: 1427610  Function: 0 
 POCSAG2400: Address:  165192  Function: 1  Alpha:   OA
-POCSAG2400: Address:  147980  Function: 0  Alpha:    '"P&<ACK>P'
-POCSAG2400: Address:  749595  Function: 1  Alpha:   y5
-POCSAG2400: Address: 1714500  Function: 0 
-POCSAG2400: Address:   78227  Function: 1  Alpha:   GH
-POCSAG2400: Address:  436570  Function: 0 
-POCSAG1200: Address: 1573739  Function: 2  Alpha:   22:01-24 4226<NUL>
-POCSAG1200: Address: 1631656  Function: 0 
-POCSAG1200: Address:  234377  Function: 2  Alpha:   21:59-22 21/11/2021 21:57:52 INC 24701481 10D04 98 ELIZABETH STREET, CENTRAL BLACKPOOL, FY1 3NB Female 29Y CHEST PAIN - MOVING INTO LEFT ARM GRD 331452 436475<NUL>
-POCSAG1200: Address:  354323  Function: 2 
-POCSAG1200: Address:  412562  Function: 3 
-POCSAG1200: Address: 1718601  Function: 2  Alpha:   <STX>A
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   21:59-00 21/11/2021 21:57:52 INC 24701481 10D04 98 ELIZABETH STREET, CENTRAL BLACKPOOL, FY1 3NB Female ".<US>h<DLE>
-POCSAG1200: Address: 1321566  Function: 2  Alpha:   21:58-80 PLS CALL DVH SWITCHBOARD 
-POCSAG1200: Address:  200957  Function: 2  Alpha:   21:58-78 20625 <NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2158211121+++TIME=2158211121<NUL>
-POCSAG2400: Address: 1926588  Function: 3  Alpha:   I__gA<FS><DC3><BEL>
-POCSAG2400: Address: 1626153  Function: 1  Alpha:   !!
-POCSAG2400: Address: 1581472  Function: 1  Alpha:   5<SO>
-POCSAG2400: Address:  184695  Function: 0  Alpha:   O%(&+
-POCSAG2400: Address:  548798  Function: 3 
-POCSAG2400: Address: 1554277  Function: 0 
