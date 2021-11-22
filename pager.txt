@@ -1,3 +1,33 @@
+POCSAG1200: Address: 2024042  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2053221121+++TIME=2053221121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2053221121+++TIME=2053221121<NUL>
+POCSAG2400: Address:  584009  Function: 2  Alpha:   20:53-42 4179<NUL>
+POCSAG2400: Address:   33736  Function: 2  Alpha:   20:53-60 20:53-59 STROUD MINOR INJURIES STILL HERE WITH A PATIENT NO ETA ON AMBULANCE PLEASE CALL 0300 421 8889
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   20:53-08 2233<NUL>
+POCSAG1200: Address: 1461524  Function: 2  Alpha:   I<LF>dy<HT>DH<SUB><NUL>ti
+POCSAG1200: Address: 1044797  Function: 2  Alpha:   20:53-32 STROUD MINOR INJURIES STILL HERE WITH A PATIENT NO ETA ON AMBULANCE PLEASE CALL 0300 421 8889
+POCSAG1200: Address: 1044801  Function: 2  Alpha:   20:53-24 STROUD MINOR INJURIES STILL HERE WITH A PATIENT NO ETA ON AMBULANCE PLEASE CALL 0300 421 8889
+POCSAG1200: Address:  851268  Function: 2  Alpha:   20:53-95 STROUD MINOR INJURIES STILL HERE WITH A PATIENT NO ETA ON AMBULANCE PLEASE CALL 0300 421 8889
+POCSAG1200: Address:  358106  Function: 2  Alpha:   20:53-83 07800767490
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   20:52-25 5181<NUL>
+POCSAG1200: Address:  549755  Function: 2  Alpha:   20:52-07 ~COLIN BECK - 07715428788
+POCSAG2400: Address:   28907  Function: 0  Alpha:   20:52-79 4179<NUL>
+POCSAG1200: Address: 1389577  Function: 1 
+POCSAG1200: Address:  738952  Function: 3 
+POCSAG1200: Address:  724304  Function: 0 
+POCSAG1200: Address:  938279  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address: 1147206  Function: 2  Alpha:   l@
+POCSAG1200: Address: 1790222  Function: 0 
+POCSAG1200: Address: 1814628  Function: 3  Alpha:   6<SYN>7<ACK><EOT>
+POCSAG1200: Address: 1337560  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address:  891655  Function: 1  Alpha:   g<DC2><DC4>22
+POCSAG1200: Address: 1032620  Function: 3  Alpha:   T<DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   20:51-49 5204<NUL>
+POCSAG1200: Address:  360296  Function: 2  Alpha:   20:51-72 NS2404 Cardex Application Failure,  20:50 22NOV21 001,01,240 L12P FAILURE : CM5473O - Send Site Details to EXTRANET <CR><LF>Action required from Cardex App Support<NUL><NUL>
+POCSAG512: Address:  267813  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   20:50-08 22/11/2021 20:44:50 INC 24706404 06E01O 22 PRESTBURY AVENUE, TIMPERLEY ALTRINCHAM, WA15 8HY Female 92Y BREATHLESS GRD 377228 388554
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048221121+++TIME=2048221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2048221121+++TIME=2048221121<NUL>
 POCSAG1200: Address:  238773  Function: 2  Alpha:   20:48-46 GREEN: PLEASE CALL LAS TACTICAL COMMANDER REGARDING WHIPPS CROSS HOSP - 02077832329. THANKS. PJC - ODM<LF><NUL><NUL>
@@ -968,33 +998,3 @@ POCSAG2400: Address:  549432  Function: 2  Alpha:   18:28-36 x1 male feeling unw
 POCSAG2400: Address:  549441  Function: 2  Alpha:   18:28-33 x1 male feeling unwell and dizzy. FRS and Hinkley Health deployed. Non-work related<NUL><NUL>
 POCSAG2400: Address:  549434  Function: 2  Alpha:   18:28-50 x1 male feeling unwell and dizzy. FRS and Hinkley Health deployed. Non-work related<NUL><NUL>
 POCSAG2400: Address:  549433  Function: 2  Alpha:   18:28-50 x1 male feeling unwell and dizzy. FRS and Hinkley Health deployed. Non-work related<NUL><NUL>
-POCSAG2400: Address:  549436  Function: 2  Alpha:   18:28-46 x1 male feeling unwell and dizzy. FRS and Hinkley Health deployed. Non-work related<NUL><NUL>
-POCSAG2400: Address:  549438  Function: 2  Alpha:   18:28-51 x1 male feeling unwell and dizzy. FRS and Hinkley Health deployed. Non-work related<NUL><NUL>
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   18:28-76 INC ALERT No: 16812088 Traffic/Transportation Accidents - RTC- IN PAIN ALL DOWN SIDE - ANKLE - CANT MOVE, AT: FOX   GOOSE INN, BRISTOL ROAD, BRENT KNOLL HIGHBRIDGE, TA9 4HH, Time of Call: 22/11/2021 18:23:15, Co-ords: 51.2433664 -2.9457864
-POCSAG2400: Address: 1324565  Function: 2  Alpha:   18:28-35 INC ALERT No: 16812088 Traffic/Transportation Accidents - RTC- IN PAIN ALL DOWN SIDE - ANKLE - CANT MOVE, AT: FOX & GOOSE INN, BRISTOL ROAD, BRENT KNOLL HIGHBRIDGE, TA9 4HH, Time of Call: 22/11/2021 18:23:15, Co-ords: 51.2433664 -2.9457864
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   18:28-97 PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   18:28-28 PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   18:28-33 PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: ldaps.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: ldaps.boots-upm.private<CR><LF>Host: B<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   18:28-32 PROBLEM: Netscaler vServer: storefront.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: storefront.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: storefront.boots-upm.p<NUL><NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   18:28-04 22/11/2021 18:25:00 INC 24705753 02D02 109 OAKBANK AVENUE, NORTH CHADDERTON OLDHAM, OL9 9RS Male 3Y Q REACTION TO PEANUT GRD 389414 405902<NUL>
-POCSAG2400: Address: 1323948  Function: 2  Alpha:   18:28-50 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   18:28-10 PROBLEM: Netscaler vServer: storefront.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: storefront.boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: storefront.boots-upm.p<NUL><NUL>
-POCSAG2400: Address: 1324021  Function: 2  Alpha:   18:28-69 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address: 1324027  Function: 2  Alpha:   18:28-87 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828221121+++TIME=1828221121<NUL>
-POCSAG2400: Address: 1324026  Function: 2  Alpha:   18:28-70 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:28-23 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address: 1323926  Function: 2  Alpha:   18:28-76 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   18:28-50 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   18:28-31 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
-POCSAG2400: Address: 1324071  Function: 2  Alpha:   18:28-31 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   18:28-56 PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1, <CR><LF>PROBLEM: Netscaler vServer: internal-dns-boots-upm.private is CRITICAL on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: internal-dns-boots<NUL><NUL>
-POCSAG2400: Address: 1324023  Function: 2  Alpha:   18:28-14 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG2400: Address: 1322999  Function: 2  Alpha:   18:28-05 743000<NUL><NUL>
-POCSAG2400: Address:  216596  Function: 2  Alpha:   18:28-53 07732044942 - Mr Neil Barrett : Ponds FarmEveringham York East Riding of Yorkshire YO42 4JD Cow Calving phone call requested before visit<NUL><NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   18:28-23 4187<NUL>
-POCSAG2400: Address: 1323593  Function: 2  Alpha:   18:28-00 3717<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CACL
-POCSAG1200: Address:  354249  Function: 2  Alpha:   AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS E.C<HT><LF><HT><HT><HT><HT>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   18:28-45 22/11/2021 18:24:23 INC 24705749 10D01 1 NORFOLK CLOSE, CLAYTON LE MOORS, BB5 5RE Female 17Y VOMITING - HEAD PAIN - LEFT SHOULDER GRD 374857 431358<NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   18:28-94 22/11/2021 18:24:58 INC 24705752 10D05 FLAT 2, 3 WARBRECK HILL ROAD, BLACKPOOL, FY2 9SP Male 77Y PAIN IN LEFT LUNG BEHIND BEDROOM DOOR GRD 330912 438011<NUL>
