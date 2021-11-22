@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:04-38 4314<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203221121+++TIME=0203221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203221121+++TIME=0203221121<NUL>
+POCSAG1200: Address:  268424  Function: 3 
+POCSAG1200: Address: 1066912  Function: 0 
+POCSAG1200: Address: 1323828  Function: 2  Alpha:   02:03-52 E09P2 CONTACT NUMBER 07776297885<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1978100  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158221121+++TIME=0158221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158221121+++TIME=0158221121<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address:   90306  Function: 2
 POCSAG1200: Address: 1898754  Function: 0 
 POCSAG1200: Address: 1133065  Function: 3 
 POCSAG1200: Address: 1313125  Function: 2  Alpha:   22:25-46 BLOCKED CATHT
-POCSAG1200: Address: 2009452  Function: 2  Alpha:   22:25-55 BLOCKED CATHETER NO PAIN, PLEASE RING IC24 <NUL><NUL>
-POCSAG1200: Address:  200957  Function: 2  Alpha:   22:25-81 PLEASE CALL 7F ON 31756 <NUL>
-POCSAG1200: Address:  437467  Function: 0  Alpha:   <SUB><DLE>
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<ACK>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2223211121+++TIME=2223211121<NUL>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   22:23-88 52294
-POCSAG2400: Address:   28904  Function: 0  Alpha:   22:23-04 2415<NUL>
