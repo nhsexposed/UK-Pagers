@@ -1,3 +1,30 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:09-39 4314<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   02:08-49 22/11/2021 02:05:51 INC 24702180 12D01 18 HILLCREST ROAD, OFFERTON STOCKPORT, SK2 5QL Female 17Y FIT GRD 391588 389128<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   02:08-54 22/11/2021 02:05:51 INC 24702180 12D01 18 HILLCREST ROAD, OFFERTON STOCKPORT, SK2 5QL Female 17Y FIT GRD 391588 389128<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208221121+++TIME=0208221121<NUL>
+POCSAG2400: Address:  974431  Function: 2 
+POCSAG2400: Address:  772222  Function: 2 
+POCSAG2400: Address: 1897926  Function: 0 
+POCSAG2400: Address:  164154  Function: 3  Alpha:   <RS>'
+POCSAG2400: Address: 1409849  Function: 0  Alpha:   lh
+POCSAG2400: Address:  334768  Function: 1  Alpha:   L+LMK
+POCSAG2400: Address: 2046695  Function: 0  Alpha:   O%
+POCSAG2400: Address: 1735295  Function: 0 
+POCSAG2400: Address:  533710  Function: 0 
+POCSAG2400: Address:   44078  Function: 1 
+POCSAG2400: Address:   79661  Function: 3  Alpha:   p9
+POCSAG2400: Address: 1532228  Function: 2 
+POCSAG2400: Address: 1599699  Function: 3  Alpha:   zv
+POCSAG2400: Address:  724352  Function: 3 
+POCSAG2400: Address: 1821638  Function: 3  Alpha:   e: Dis3<HT>Z<NAK><GS>
+POCSAG2400: Address:   72619  Function: 3  Alpha:   t-Lad
+POCSAG2400: Address:  197839  Function: 0  Alpha:   O%
+POCSAG2400: Address: 1447094  Function: 0  Alpha:   $M
+POCSAG2400: Address:   45189  Function: 1  Alpha:   Rg
+POCSAG2400: Address:  136441  Function: 1  Alpha:   giYNdAka
+POCSAG2400: Address: 1775280  Function: 2 
+POCSAG2400: Address: 1445088  Function: 1 
+POCSAG2400: Address: 1087776  Function: 3  Alpha:   j`\lh<SUB><DC4><DLE>_giA<SO>e_kaA<DLE>SKeCeGQsu@<RS>agmSKoA|@<BS>CiCGK]ieKgA|@<CAN>ki_][<RS><GS><DC3>A|@<SUB><SOH><NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:04-38 4314<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203221121+++TIME=0203221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203221121+++TIME=0203221121<NUL>
@@ -971,30 +998,3 @@ POCSAG1200: Address:  732568  Function: 1
 POCSAG1200: Address: 2042191  Function: 0  Alpha:   O%(AZ
 POCSAG1200: Address:  697734  Function: 1  Alpha:   NS
 POCSAG1200: Address:  845877  Function: 1  Alpha:   <VT><DC4>
-POCSAG1200: Address: 1471405  Function: 1 
-POCSAG1200: Address: 1155875  Function: 2  Alpha:   `dBv@
-POCSAG1200: Address:  429146  Function: 0  Alpha:   <SYN>Y
-POCSAG1200: Address:  890930  Function: 0 
-POCSAG1200: Address: 1255007  Function: 3  Alpha:   O%
-POCSAG1200: Address:  826159  Function: 0 
-POCSAG1200: Address:  413079  Function: 2  Alpha:   22:26-55 (2/2) Roles    JY20P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)
-POCSAG1200: Address:  697604  Function: 1  Alpha:   P<BS>
-POCSAG1200: Address:  413079  Function: 2  Alpha:   22:26-54 (1/2)030014-21112021; T9.1.0.P TRANSPORT - SMALL VEHICLE ON FIRE; (MRD) M4 (W) J12 THEALE - J13 CHIEVELEY; 455306,173729; Assigned: JY22P1, JY01P1, JY20P1;<NUL>
-POCSAG1200: Address:  969332  Function: 0 
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   22:26-37 21/11/2021 22:21:42 INC 24701559 20D01C 9 YATES STREET, CHORLEY, PR7 2JS Female 60Y REALLY COLD, GRD 357857 416504<NUL><NUL>
-POCSAG1200: Address: 1717092  Function: 0  Alpha:   <ACK>F
-POCSAG1200: Address:  255177  Function: 2 
-POCSAG1200: Address:  885583  Function: 1 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   22:26-40 21/11/2021 22:21:42 INC 24701559 20D01C 9 YATES STREET, CHORLEY, PR7 2JS Female
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   22:26-13 21/11/2021 22:21:42 INC 24701559 20D01C 9 YATES STREET, CHORLEY, PR7 2J[tVemale 60Y REALLY COLD, GRD 357857 416504<NUL><NUL>
-POCSAG1200: Address:   33723  Function: 2  Alpha:   22:25-84 22:25-83 BLOCKED CATHETER NO PAIN, PLEASE RING IC24 <NUL>
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   22:25-77 BLOCKED CATHETER NO PAIN, PLEASE RING IC24 <NUL><NUL>
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   22:25-01 BLOCKED CATHETER NO PAIN, PLEASE RING IC24 <NUL><NUL>
-POCSAG1200: Address:  619469  Function: 3 
-POCSAG1200: Address:  396892  Function: 2  Alpha:   <BS>$
-POCSAG1200: Address: 1069875  Function: 0 
-POCSAG1200: Address: 1517187  Function: 1 
-POCSAG1200: Address:   90306  Function: 2 
-POCSAG1200: Address: 1898754  Function: 0 
-POCSAG1200: Address: 1133065  Function: 3 
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   22:25-46 BLOCKED CATHT
