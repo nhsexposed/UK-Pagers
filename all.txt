@@ -42787,3 +42787,66 @@ POCSAG1200: Address:  159520  Function: 2
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0748221121+++TIME=0748221121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0748221121+++TIME=0748221121<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   07:49-13 2343<NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   07:50-45 PROBLEM: cabcpplweb01mc1 is DOWN, <CR><LF>PROBLEM: cabcpplweb01mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplweb01mc1<CR><LF>Alias: CAB Web Server<CR><LF>Address: 10.0.3.106<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > Citi<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   07:50-15 PROBLEM: cabcpplweb01mc1 is DOWN, <CR><LF>PROBLEM: cabcpplweb01mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplweb01mc1<CR><LF>Alias: CAB Web Server<CR><LF>Address: 10.0.3.106<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > Citi<NUL><NUL>
+POCSAG2400: Address:  660275  Function: 0 
+POCSAG2400: Address:  445156  Function: 3 
+POCSAG2400: Address: 1994831  Function: 1  Alpha:   3<HT>
+POCSAG2400: Address: 2006578  Function: 1  Alpha:   <RS>}m]U<EM>h<HT>
+POCSAG2400: Address: 1020012  Function: 1 
+POCSAG2400: Address: 1664484  Function: 3 
+POCSAG2400: Address: 1572869  Function: 0  Alpha:   B<SO>
+POCSAG2400: Address: 1790942  Function: 2 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   07:50-99 PROBLEM: cabcppltra02mc1 is DOWN, <CR><LF>PROBLEM: cabcppltra02mc1 is DOWN<CR><LF><CR><LF>Host: cabcppltra02mc1<CR><LF>Alias: CAB DR Transaction Server<CR><LF>Address: 10.0.3.53<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-<NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   07:50-21 PROBLEM: cabcppltra02mc1 is DOWN, <CR><LF>PROBLEM: cabcppltra02mc1 is DOWN<CR><LF><CR><LF>Host: cabcppltra02mc1<CR><LF>Alias: CAB DR Transaction Server<CR><LF>Address: 10.0.3.53<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   07:50-16 PROBLEM: cabcppltra02mc1 is DOWN, <CR><LF>PROBLEM: cabcppltra02mc1 is DOWN<CR><LF><CR><LF>Host: cabcppltra02mc1<CR><LF>Alias: CAB DR Transaction Server<CR><LF>Address: 10.0.3.53<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-<NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   07:50-86 4156<NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   07:50-10 PROBLEM: cabcppltra01mc1 is DOWN, <CR><LF>PROBLEM: cabcppltra01mc1 is DOWN<CR><LF><CR><LF>Host: cabcppltra01mc1<CR><LF>Alias: CAB Transaction Server<CR><LF>Address: 10.0.3.52<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   07:50-47 PROBLEM: cabcppltra01mc1 is DOWN, <CR><LF>PROBLEM: cabcppltra01mc1 is DOWN<CR><LF><CR><LF>Host: cabcppltra01mc1<CR><LF>Alias: CAB Transaction Server<CR><LF>Address: 10.0.3.52<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN<NUL><NUL>
+POCSAG2400: Address:  335676  Function: 2  Alpha:   <ESC>=y<CAN>=j[;+3P
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   07:50-86 PROBLEM: cabcppltra01mc1 is DOWN, <CR><LF>PROBLEM: cabcppltra01mc1 is DOWN<CR><LF><CR><LF>Host: cabcppltra01mc1<CR><LF>Alias: CAB Transaction Server<CR><LF>Address: 10.0.3.52<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN<NUL><NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   07:51-42 2343<NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   07:51-01 PROBLEM: cabcpplspo01mc1 is DOWN, <CR><LF>PROBLEM: cabcpplspo01mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplspo01mc1<CR><LF>Alias: CAB Spool server<CR><LF>Address: 10.0.3.104<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > Ci<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   07:51-11 PROBLEM: cabcpplspo01mc1 is DOWN, <CR><LF>PROBLEM: cabcpplspo01mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplspo01mc1<CR><LF>Alias: CAB Spool server<CR><LF>Address: 10.0.3.104<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > Ci<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   07:51-48 PROBLEM: cabcpplspo01mc1 is DOWN, <CR><LF>PROBLEM: cabcpplspo01mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplspo01mc1<CR><LF>Alias: CAB Spool server<CR><LF>Address: 10.0.3.104<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > Ci<NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   07:51-36 4954<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   07:51-87 PROBLEM: cabcpplspo01mc1 is DOWN, <CR><LF>PROBLEM: cabcpplspo01mc1 is DOWN<CR><LF><CR><LF>Host: cabcpplspo01mc1<CR><LF>Alias: CAB Spool server<CR><LF>Address: 10.0.3.104<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-MAN > Ci<NUL><NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   07:52-34 22/11/2021 07:48:36 INC 24702821 17D03 1 MILL LANE, WESTVALE KIRKBY L32, L32 2AU Female 70Y FALLEN FROM TOP TO BOTTOM OF STAIRS GRD 340312 399506
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   07:52-10 22/11/2021 07:48:36 INC 24702821 17D03 1 MILL LANE, WESTVALE KIRKBY L32, L32 2AU Female 70Y FALLEN FROM TOP TO BOTTOM OF STAIRS GRD 340312 399506
+POCSAG1200: Address:  334075  Function: 2  Alpha:   07:52-97 22/11/2021 07:48:36 INC 24702821 17D03 1 MILL LANE, WESTVALE KIRKBY L32, L32 2AU Female 70Y FALLEN FROM TOP TO BOTTOM OF STAIRS GRD 340312 399506
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   07:52-72 22/11/2021 07:48:36 INC 24702821 17D03 1 M
+POCSAG1200: Address: 1413979  Function: 1  Alpha:   nf
+POCSAG1200: Address:  362286  Function: 3  Alpha:   fl
+POCSAG1200: Address: 1349439  Function: 1  Alpha:   O%
+POCSAG1200: Address:  288268  Function: 0  Alpha:   3<DC1>
+POCSAG1200: Address:   95653  Function: 0  Alpha:   ST
+POCSAG1200: Address: 1582702  Function: 1 
+POCSAG1200: Address:  535862  Function: 0  Alpha:   <DC4>]
+POCSAG1200: Address:  209943  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1690776  Function: 0 
+POCSAG1200: Address: 1902192  Function: 1  Alpha:   32<NUL>2AU F
+POCSAG1200: Address: 1438223  Function: 1 
+POCSAG1200: Address: 1112367  Function: 0  Alpha:   O%(jg
+POCSAG1200: Address: 1072728  Function: 1 
+POCSAG1200: Address:  535713  Function: 3 
+POCSAG1200: Address: 1445009  Function: 2 
+POCSAG1200: Address:  758802  Function: 2  Alpha:   Q<DC4>
+POCSAG1200: Address:   91691  Function: 3 
+POCSAG1200: Address:  111427  Function: 3  Alpha:   d@frr
+POCSAG2400: Address:   28919  Function: 0  Alpha:   07:52-44 4301<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  929838  Function: 1 
+POCSAG2400: Address: 1547286  Function: 1 
+POCSAG2400: Address: 1176535  Function: 3 
+POCSAG2400: Address: 1874439  Function: 3  Alpha:   O%
+POCSAG2400: Address: 1258601  Function: 1 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   07:53-12 PROBLEM: cpocpplsrs01mc1 is DOWN, <CR><LF>PROBLEM: cpocpplsrs01mc1 is DOWN<CR><LF><CR><LF>Host: cpocpplsrs01mc1<CR><LF>Alias: CAB SQL Reporting Server<CR><LF>Address: 10.0.3.103<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   07:53-88 PROBLEM: cpocpplsrs01mc1 is DOWN, <CR><LF>PROBLEM: cpocpplsrs01mc1 is DOWN<CR><LF><CR><LF>Host: cpocpplsrs01mc1<CR><LF>Alias: CAB SQL Reporting Server<CR><LF>Address: 10.0.3.103<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > VI-MAN > CivicaPublicProtection-<NUL><NUL>
+POCSAG1200: Address:  906914  Function: 2  Alpha:   07:53-05 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: fp19aet. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0753221121+++TIME=0753221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0753221121+++TIME=0753221121<NUL>
+POCSAG1200: Address:  269100  Function: 2  Alpha:   07:53-76 22/11/2021 07:52:08 INC 24702830 31D04 3 QUEENS DRIVE, KIRKHOLT ROCHDALE, OL11 2NP Female 74Y IN AND OUT DIB GRD 389379 411323<NUL><NUL>
+POCSAG1200: Address:  930510  Function: 2  Alpha:   07:54-34 22/11/2021 07:52:08 INC 24702830 31E01 3 QUEENS DRIVE, KIRKHOLT ROCHDALE, OL11 2NP Female 74Y IN AND OUT DIB GRD 389379 411323<NUL><NUL>
+POCSAG1200: Address:  269101  Function: 2  Alpha:   07:54-72 22/11/2021 07:52:39 INC 24702832 06D01 2 JENKINS CRAG COURT, KENDAL, LA9 6LH Male 74Y BREATHLESS - ASTHMA GRD 352752 493416<NUL><NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   07:54-85 22/11/2021 07:52:08 INC 24702830 31E01 3 QUEENS DRIVE, KIRKHOLT ROCHDALE, OL11 2NP Female 74Y IN AND OUT DIB GRD 389379 411323<NUL><NUL>
