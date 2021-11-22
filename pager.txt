@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1749088  Function: 2 
+POCSAG2400: Address:   11696  Function: 0  Alpha:   04:44-89 FIRE CALL<NUL><NUL>
+POCSAG512: Address: 1978741  Function: 0 
+POCSAG512: Address:  289496  Function: 0  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1330455  Function: 0  Alpha:   O%
+POCSAG1200: Address:  757831  Function: 3 
+POCSAG1200: Address: 1413254  Function: 2  Alpha:   f@
+POCSAG2400: Address:   28900  Function: 0  Alpha:   04:42-81 4183<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  413079  Function: 2  Alpha:   04:41-59 (2/2) Roles    JY20P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
+POCSAG1200: Address:  413079  Function: 2  Alpha:   04:41-58 (2/2) Roles    JY20P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
+POCSAG2400: Address:  549033  Function: 2  Alpha:   04:40-49 please call 8259
+POCSAG1200: Address:  548039  Function: 2  Alpha:   04:39-30 22/29.2021 04:38:06 INC 24702471 06E01 25 ST LUKES COURT, WALTON L4, L4 6XW Male 59Y M - DIB GRD 336038 394669
 POCSAG2400: Address:   28916  Function: 0  Alpha:   04:39-03 5400<NUL>
 POCSAG1200: Address:  600635  Function: 2  Alpha:   04:37-23 PLEASE CALL CUSTODIAN QUOTING 710332 ON 0844 179 1703
 POCSAG1200: Address:  622954  Function: 0 
@@ -985,16 +998,3 @@ POCSAG1200: Address:   33724  Function: 2  Alpha:   00:29-04 03003000044
 POCSAG1200: Address: 1313126  Function: 2  Alpha:   00:29-56 03003000044
 POCSAG2400: Address:  149253  Function: 2  Alpha:   00:29-71 03003000044
 POCSAG2400: Address: 1008210  Function: 2  Alpha:   00:29-82 03003000044
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   00:29-06 03003000044
-POCSAG1200: Address:   33723  Function: 2  Alpha:   00:29-93 03003000044
-POCSAG1200: Address: 1860208  Function: 0 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:29-42 22/11/2021 00:26:08 INC 24701937 06E01 74 WARWICK ROAD SOUTH, OLD TRAFFORD MANCHESTER, M16 0HU Male 87Y M - DIB GRD 381419 395071<NUL><NUL>
-POCSAG1200: Address: 1250649  Function: 3  Alpha:   <CAN>K
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0028221121+++TIME=0028221121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  212272  Function: 3  Alpha:   E<NUL><NUL>`L
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   00:25-44 Alert from MANSDPMSFS01A, bay 5 - iSCSI link is down., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFS01A, bay 5<CR><LF>https://172.28.8.5/#/activity/r/rest/server-hardware/39313738-3034-5A43-4A39-333030<NUL><NUL>
-POCSAG2400: Address: 1706406  Function: 1 
-POCSAG2400: Address:  938197  Function: 0 
-POCSAG2400: Address: 1831245  Function: 1 
-POCSAG2400: Address:  866674  Function: 0 
