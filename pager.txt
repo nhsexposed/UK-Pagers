@@ -1,3 +1,27 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:29-93 33960
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   15:29-01 22/11/2021 15:27:19 INC 24704809 23C01I 84 SANDY LANE, ORFORD WARRINGTON WA2, WA2 9DZ Female 42Y OVERDOSE GRD 360987 390820<NUL><NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   F<EM>
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   15:28-52 4264<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1528221121+++TIME=1528221121<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1528221121+++TIME=1528221121<NUL>
+POCSAG2400: Address:   33738  Function: 2  Alpha:   15:28-26 INC ALERT No: 16811485 Chest Pain (Non Traumatic) - CHEST PAINS, BLOOD IN PHLEM, AT: 2 LARKS RISE, CULLOMPTON, EX15 1UT, Time of Call: 22/11/2021 15:27:26, Co-ords: 50.853728579 -3.403202849
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   15:28-89 ** PROBLEM Service Alert: harro-us-east-1-003-tds2/HTTP Check is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: HTTP Check<CR><LF>Host: harro-us-east-1-003-tds2<CR><LF>Address: harro-us-east-1-003-tds2<CR><LF>State: CRITI
+POCSAG1200: Address:  549740  Function: 2  Alpha:   15:28-68 ** PROBLEM Service Alert: harro-us-east-1-003-tds1/HTTP Check is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: HTTP Check<CR><LF>Host: harro-us-east-1-003-tds1<CR><LF>Address: harro-us-east-1-003-tds1<CR><LF>State: CRITI
+POCSAG1200: Address: 1092176  Function: 2  Alpha:   15:28-34 2540<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:27-66 4316<NUL>
+POCSAG512: Address:  114442  Function: 2  Alpha:   15:26-17 <NULL><NUL><NUL>
+POCSAG2400: Address:  549248  Function: 2  Alpha:   15:26-11 Pageone test message please ignore 255<NUL>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   15:25-50 4687<NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   15:25-28 (2/2) Roles    JY16P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Terraced<NUL><NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   15:25-27 (2/2) Roles    JY16P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Terraced<NUL><NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   15:25-27 (1/2)030107-22112021; S4.1.0.P SPECIAL SERVICE - PERSON(S) locKED IN; 61 OLLERTON,BRACKNELL,RG12 7RA; 486216,166356; Assigned: JY16P1;<NUL><NUL>
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   15:25-15 5076<NUL>
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   15:24-01 4871<NUL>
+POCSAG2400: Address: 1913774  Function: 2  Alpha:   15:24-19 4906<NUL>
+POCSAG2400: Address: 1913953  Function: 2  Alpha:   15:24-12 2300<NUL>
 POCSAG1200: Address:  930489  Function: 2  Alpha:   15:24-00 22/11/2021 15:22:50 INC 24704796 06E01 10 WEST PARK STREET, ORDSALL SALFORD, M5 3WW Male 76Y GONE FUNNY GRD 381931 397404<NUL>
 POCSAG1200: Address: 1321863  Function: 2  Alpha:   15:24-98 22/11/2021 15:22:50 INC 24704796 06E01 10 WEST PARK STREET, ORDSALL SALFORD, M5 3WW Male 76Y GONE FUNNY GRD 381931 397404<NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   15:24-23 22/11/2021 15:22:50 INC 24704796 06E01 10 WEST PARK STREET, ORDSALL SALFORD, M5 3WW Male 76Y GONE FUNNY GRD 381931 397404<NUL>
@@ -974,27 +998,3 @@ POCSAG2400: Address: 1141198  Function: 1
 POCSAG2400: Address:  416819  Function: 0  Alpha:   <CR>d
 POCSAG2400: Address: 1667138  Function: 3 
 POCSAG2400: Address:   97137  Function: 2  Alpha:    Dire
-POCSAG2400: Address: 1651504  Function: 2 
-POCSAG2400: Address:  189960  Function: 1 
-POCSAG2400: Address:  267679  Function: 3  Alpha:   O%
-POCSAG2400: Address: 1585750  Function: 1  Alpha:   <SYN><ACK>
-POCSAG2400: Address:  616626  Function: 1 
-POCSAG2400: Address: 1378640  Function: 1 
-POCSAG2400: Address: 1282360  Function: 0 
-POCSAG2400: Address: 1323174  Function: 2  Alpha:   13:11-0<DLE>xY<EOT>
-POCSAG2400: Address: 1323229  Function: 2  Alpha:   13:11-02 NHSBT - DONOR REFERRAL. Please call MAIREAD MCNALLY on Direct Dial Number 01536 492000 EXT 3265 Hospital KETTERING GENERAL HOSPITAL, KETTERING Dept ICU ANNEXE . Regards Donor Referral Line
-POCSAG2400: Address: 1323192  Function: 2  Alpha:   13:11-24 NHSBT - DONOR REFERRAL. Please call MAIREAD MCNALLY on Direct Dial Number 01536 492000 EXT 3265 Hospital KETTERING GENERAL HOSPITAL, KETTERING Dept ICU ANNEXE . Regards Donor Referral Line
-POCSAG2400: Address: 1323193  Function: 2  Alpha:   13:11-78 NHSBT - DONOR REFERRAL. Please call MAIREAD MCNALLY on Direct Dial Number 01536 492000 EXT 3265 Hospital KETTERING GENERAL HOSPITAL, KETTERING Dept ICU ANNEXE . Regards Donor Referral Line
-POCSAG2400: Address: 1846248  Function: 1 
-POCSAG2400: Address: 1913870  Function: 2  Alpha:   13:11-53 4379<NUL>
-POCSAG2400: Address: 1324077  Function: 2  Alpha:   13:10-00 AMBER: PLEASE ATTEND A CLINICAL SAFETY REVIEW CALL AT 13:30. MS TEAMS INVITE TO FOLLOW. MANY THANKS, AW EOC NORTH.<NUL><NUL>
-POCSAG2400: Address:  963060  Function: 0 
-POCSAG2400: Address: 1323936  Function: 2  Alpha:   13:10-35 AMBER: PLEASE ATTEND A CLINICAL SAFETY REVIEW CALL AT 13:30. MS TEAMS INVITE TO FOLLOW. MANY THANKS, AW EOC NORTH.<NUL><NUL>
-POCSAG1200: Address: 1323826  Function: 2  Alpha:   13:10-10 Resource comment received for Incident 2111008521;  TO MDT KEY SAFE 6357 - NO LOCATION<NUL><NUL>
-POCSAG1200: Address: 1594976  Function: 2  Alpha:   13:10-37 Location OS WEST CALDER LIBRARY, WEST LOTHIAN COUNCIL LIBRARY BUILDING, 13 LIMEFIELD ROAD, WEST CALDER, EH55 8BQ Inc No: 8074649 Code: 29D02L Con: YES What is the Problem: BIKE VS BUS - MALE Name: Age: UnknownY<NUL>
-POCSAG1200: Address: 2016819  Function: 2 
-POCSAG2400: Address: 1913978  Function: 2  Alpha:   13:09-82 5073<NUL>
-POCSAG2400: Address:   28904  Function: 0  Alpha:   13:09-07 4312<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1308221121+++TIME=1308221121<NUL>
-POCSAG2400: Address: 1913679  Function: 2  Alpha:   13:08-51 4244<NUL>
-POCSAG2400: Address: 1321108  Function: 2  Alpha:   13:08-35 Exercise Exercise Exercise 4. Test Test Test please confirm receipt to 07568 431597 John <NUL><NUL>
