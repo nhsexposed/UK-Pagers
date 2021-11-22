@@ -1,3 +1,30 @@
+POCSAG2400: Address:  134094  Function: 3 
+POCSAG2400: Address: 1960907  Function: 1  Alpha:    -<NUL>PJ
+POCSAG2400: Address:  900542  Function: 0 
+POCSAG2400: Address:  636620  Function: 1 
+POCSAG2400: Address: 1683530  Function: 2  Alpha:   |<e<STX><STX><VT><ETX><ESC>
+POCSAG2400: Address:  182248  Function: 2 
+POCSAG2400: Address:  377983  Function: 1  Alpha:   O%
+POCSAG2400: Address: 1038967  Function: 0 
+POCSAG2400: Address: 1814606  Function: 3 
+POCSAG2400: Address: 1630621  Function: 1  Alpha:   YA
+POCSAG2400: Address: 1812236  Function: 3  Alpha:   y2
+POCSAG2400: Address: 1837100  Function: 1 
+POCSAG2400: Address:  428627  Function: 3 
+POCSAG2400: Address: 1317675  Function: 0 
+POCSAG2400: Address:  218713  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0523221121+++TIME=0523221121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523221121+++TIME=0523221121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28899  Function: 0  Alpha:   05:22-45 3164<NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   05:22-22 RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1, <CR><LF>RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1<CR><LF>Service: System Event Notification Service<CR><LF>Host: EORRABLXEN02MC1<CR><LF>Alias: <CR><LF>Address: 10.<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   05:22-75 RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1, <CR><LF>RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1<CR><LF>Service: System Event Notification Service<CR><LF>Host: EORRABLXEN02MC1<CR><LF>Alias: <CR><LF>Address: 10.<NUL><NUL>
+POCSAG1200: Address: 1507853  Function: 1  Alpha:   arkin
+POCSAG1200: Address: 1120891  Function: 1 
+POCSAG1200: Address:  218713  Function: 2 
+POCSAG1200: Address: 1758032  Function: 1 
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   05:20-38 22/11/2021 05:18:38 INC 24702534 25B03 24 PRINCESS AVENUE, PADDINGTON WARRINGTON WA1, WA1 3TS Male 66Y MH ISSUES GRD 363303 389674<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   05:19-44 4156<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518221121+++TIME=8558221121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0518221121+++TIME=0518221121<NUL>
@@ -971,30 +998,3 @@ POCSAG1200: Address: 1978100  Function: 0
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158221121+++TIME=0158221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158221121+++TIME=0158221121<NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:58-58 22/11/2021 01:55:00 INC 24702162 13C01 ALT BANK HOUSE, FIELD LANE, FAZAKERLEY L10, L10 4XQ Female 36Y WEAK - DIABETES TYPE 1 - VOMITING GRD 339555 396989
-POCSAG2400: Address:  549705  Function: 2  Alpha:   01:58-62 01:58-61 PLEASE CALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG2400: Address:  549697  Function: 2  Alpha:   01:58-54 PLEASE CALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG2400: Address:  549701  Function: 2  Alpha:   01:58-56 PLEASE CALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG2400: Address:  549699  Function: 2  Alpha:   01:58-55 PLEASE CALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG2400: Address:  549702  Function: 2  Alpha:   01:58-56 PLEASE CALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG2400: Address:  549703  Function: 2  Alpha:   01:58-59 PLEASEaIALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG1200: Address:  600628  Function: 0  Alpha:   01:58-44 PLEASE CALL 01732 470 232 MARK BROWN <NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:57-57 22/11/2021 01:52:54 INC 24702155 06C01 12 ETON HOUSE, MARWOOD ROAD, ROBY KNOWSLEY, L14 7AY Female 37Y STRUGG TO BREATHE GRD 341016 390434<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   01:57-12 2183<NUL>
-POCSAG1200: Address:  343317  Function: 0  Alpha:   01:57-66 CH4 Level Low, Gas_Analyser_CH
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1619577  Function: 0 
-POCSAG1200: Address:  560272  Function: 3 
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   01:53-54 03003000044
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   01:53-09 03003000044
-POCSAG2400: Address:  149253  Function: 2  Alpha:   01:53-74 03003000044
-POCSAG1200: Address: 1313126  Function: 2  Alpha:   01:53-59 03003000044
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   01:53-63 03003000044
-POCSAG1200: Address:   33723  Function: 2  Alpha:   01:53-98 03003000044
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153221121+++TIME=0153221121<NUL>
-POCSAG512: Address:  567893  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  347480  Function: 1 
-POCSAG1200: Address:  740959  Function: 3  Alpha:   g<DC2>
-POCSAG1200: Address: 1337565  Function: 1  Alpha:   <DC2><ETX>
-POCSAG1200: Address:  940431  Function: 2  Alpha:   01:51-91 22/11/2021 01:49:16 INC 24702148 06E01 MILLENNIUM BSCTGE, WATERSIDE, LANCASTER, LA1 1AY Female 18Y DIB - CHEST PAIN GRD 347628 462024
-POCSAG2400: Address:   28899  Function: 0  Alpha:   01:51-37 4187<NUL>

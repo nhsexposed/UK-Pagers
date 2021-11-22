@@ -42021,3 +42021,30 @@ POCSAG1200: Address: 1032980  Function: 2  Alpha:   6f
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0518221121+++TIME=0518221121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518221121+++TIME=8558221121<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   05:19-44 4156<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   05:20-38 22/11/2021 05:18:38 INC 24702534 25B03 24 PRINCESS AVENUE, PADDINGTON WARRINGTON WA1, WA1 3TS Male 66Y MH ISSUES GRD 363303 389674<NUL>
+POCSAG1200: Address: 1758032  Function: 1 
+POCSAG1200: Address:  218713  Function: 2 
+POCSAG1200: Address: 1120891  Function: 1 
+POCSAG1200: Address: 1507853  Function: 1  Alpha:   arkin
+POCSAG2400: Address:  216272  Function: 2  Alpha:   05:22-75 RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1, <CR><LF>RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1<CR><LF>Service: System Event Notification Service<CR><LF>Host: EORRABLXEN02MC1<CR><LF>Alias: <CR><LF>Address: 10.<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   05:22-22 RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1, <CR><LF>RECOVERY: System Event Notification Service is OK on host EORRABLXEN02MC1<CR><LF>Service: System Event Notification Service<CR><LF>Host: EORRABLXEN02MC1<CR><LF>Alias: <CR><LF>Address: 10.<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   05:22-45 3164<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523221121+++TIME=0523221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0523221121+++TIME=0523221121<NUL>
+POCSAG2400: Address:  218713  Function: 2 
+POCSAG2400: Address: 1317675  Function: 0 
+POCSAG2400: Address:  428627  Function: 3 
+POCSAG2400: Address: 1837100  Function: 1 
+POCSAG2400: Address: 1812236  Function: 3  Alpha:   y2
+POCSAG2400: Address: 1630621  Function: 1  Alpha:   YA
+POCSAG2400: Address: 1814606  Function: 3 
+POCSAG2400: Address: 1038967  Function: 0 
+POCSAG2400: Address:  377983  Function: 1  Alpha:   O%
+POCSAG2400: Address:  182248  Function: 2 
+POCSAG2400: Address: 1683530  Function: 2  Alpha:   |<e<STX><STX><VT><ETX><ESC>
+POCSAG2400: Address:  636620  Function: 1 
+POCSAG2400: Address:  900542  Function: 0 
+POCSAG2400: Address: 1960907  Function: 1  Alpha:    -<NUL>PJ
+POCSAG2400: Address:  134094  Function: 3 
