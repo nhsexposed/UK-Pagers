@@ -1,3 +1,18 @@
+POCSAG2400: Address:  216264  Function: 2  Alpha:   00:04-01 RECOVERY: Netscaler vServer: director-lb is OK on host BOOPENLCNS01MC1, <CR><LF>RECOVERY: Netscaler vServer: director-lb is OK on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: director-lb<CR><LF>Host: BOOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.82<CR><LF><NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   00:04-64 RECOVERY: Netscaler vServer: director-lb is OK on host BOOPENLCNS01MC1, <CR><LF>RECOVERY: Netscaler vServer: director-lb is OK on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: director-lb<CR><LF>Host: BOOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.82<CR><LF><NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   00:04-54 RECOVERY: Netscaler vServer: director-lb is OK on host BOOPENLCNS01MC1, <CR><LF>RECOVERY: Netscaler vServer: director-lb is OK on host BOOPENLCNS01MC1<CR><LF>Service: Netscaler vServer: director-lb<CR><LF>Host: BOOPENLCNS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.82<CR><LF><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0003221121+++TIME=0003221121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0003221121+++TIME=0003221121<NUL>
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   00:00-94 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1245189  Function: 0 
+POCSAG2400: Address:  499357  Function: 0 
+POCSAG2400: Address:  312210  Function: 2  Alpha:   ti<NUL>Ar
+POCSAG2400: Address:  751114  Function: 0 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   00:00-66 21/11/2021 23:56:03 INC 24701845 09D01 8 RATH WALK, NEWTON HEATH MANCHESTER, M40 1LA Unknown UnknownY COLLAPSED, SHIVERING GRD 388155 400145<NUL><NUL>
+POCSAG1200: Address: 1573775  Function: 2  Alpha:   23:59-95 21/11/2021 23:57:57 INC 24701849 NEAR THE WHITE CRAFT HOTEL, DE NIROS RESTAURANT, HASLINGDEN OLD ROAD, OSWALDTWISTLE ACCRINGTON, BB5 3SN Unknown UnknownY RTC - SINGLE VEHICLE GRD 375298 425259<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   23:59-93 21/11/2021 23:57:57 IN
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   23:59-84 4155<NUL>
 POCSAG1200: Address: 2026096  Function: 0 
 POCSAG1200: Address: 1317931  Function: 2  Alpha:   23:58-10 21/11/2021 23:57:52 INC 24701848 06D01 9 HERIOT CLOSE, STONE_<BEL>ETE THORNTON CLEVELEYS, FY5 3TR Male 61Y M - DIB GRD 332684 442037
@@ -983,18 +998,3 @@ POCSAG1200: Address:   65829  Function: 2  Alpha:    g<SOH>db
 POCSAG1200: Address: 1417020  Function: 0 
 POCSAG1200: Address: 1133314  Function: 2 
 POCSAG1200: Address: 1770953  Function: 0 
-POCSAG1200: Address:  314641  Function: 0 
-POCSAG1200: Address:  895111  Function: 2  Alpha:   O%(1 "2 
-POCSAG1200: Address:  197135  Function: 2 
-POCSAG1200: Address:  445470  Function: 0 
-POCSAG1200: Address:  266853  Function: 1  Alpha:   v<ACK>
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address:  101164  Function: 3  Alpha:   `h
-POCSAG1200: Address: 1263195  Function: 2 
-POCSAG1200: Address: 1925527  Function: 2 
-POCSAG2400: Address:   28870  Function: 0  Alpha:   21:09-88 QEQM A&E - PLS RING DR TABAKKAH - EXT 725 3347 <NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   21:08-19 2447<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108211121+++TIME=2108211121<NUL>
-POCSAG2400: Address: 1976689  Function: 2 
-POCSAG1200: Address:  200957  Function: 2  Alpha:   21:08-74 PLS CALL 34684 <NUL>
-POCSAG1200: Address:   41619  Function: 2  Alpha:   "PYY\[<SUB><CAN>PY\<FS><CAN>Z<CAN><NUL><NUL>
