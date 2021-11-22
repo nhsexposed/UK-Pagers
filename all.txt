@@ -42048,3 +42048,35 @@ POCSAG2400: Address:  636620  Function: 1
 POCSAG2400: Address:  900542  Function: 0 
 POCSAG2400: Address: 1960907  Function: 1  Alpha:    -<NUL>PJ
 POCSAG2400: Address:  134094  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2078562  Function: 1 
+POCSAG1200: Address:  662450  Function: 1  Alpha:   <FF><EOT><SO>~=\\L<EOT>D~<HT>D<SO>
+POCSAG1200: Address: 1912925  Function: 3 
+POCSAG1200: Address:  399742  Function: 0  Alpha:   <FF>}
+POCSAG1200: Address: 1560399  Function: 3 
+POCSAG1200: Address: 2080636  Function: 2  Alpha:   ~~^~~n~~
+POCSAG2400: Address:   28899  Function: 0  Alpha:   05:27-46 2182<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0528221121+++TIME=0528221121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0528221121+++TIME=0528221121<NUL>
+POCSAG1200: Address: 1884028  Function: 0 
+POCSAG1200: Address: 1839780  Function: 2 
+POCSAG1200: Address:  284280  Function: 0 
+POCSAG1200: Address:  501433  Function: 1 
+POCSAG1200: Address:  164155  Function: 3  Alpha:   <SYN>g
+POCSAG1200: Address: 1837364  Function: 2 
+POCSAG1200: Address: 1324655  Function: 2  Alpha:   05:28-77 ** PROBLEM Host Alert: 299390726-SonyLiv-SETHD-HLS-Primary is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 299390726-SonyLiv-SETHD-HLS-Primary<CR><LF>State: DOWN<CR><LF>Address: 299390726<CR><LF>Info: CRITICAL: one or more level
+POCSAG1200: Address:  549236  Function: 2  Alpha:   05:28-02 ** PROBLEM Host Alert: 299390726-SonyLiv-SETHD-HLS-Primary is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 299390726-SonyLiv-SETHD-HLS-Primary<CR><LF>State: DOWN<CR><LF>Address: 299390726<CR><LF>Info: CRITICAL: one or more level
+POCSAG2400: Address:  216272  Function: 2  Alpha:   05:29-76 RECOVERY: Citrix Services is OK on host EORRABLXEN01MC1, <CR><LF>RECOVERY: Citrix Services is OK on host EORRABLXEN01MC1<CR><LF>Service: Citrix Services<CR><LF>Host: EORRABLXEN01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.12.162<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & Ti<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   05:29-23 RECOVERY: Citrix Services is OK on host EORRABLXEN01MC1, <CR><LF>RECOVERY: Citrix Services is OK on host EORRABLXEN01MC1<CR><LF>Service: Citrix Services<CR><LF>Host: EORRABLXEN01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.12.162<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & Ti<NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   05:29-98 RECOVERY: Citrix Services is OK on host EORRABLXEN01MC1, <CR><LF>RECOVERY: Citrix Services is OK on host EORRABLXEN01MC1<CR><LF>Service: Citrix Services<CR><LF>Host: EORRABLXEN01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.12.162<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & Ti<NUL><NUL>
+POCSAG2400: Address: 1176213  Function: 3 
+POCSAG2400: Address: 1229125  Function: 1  Alpha:   LX
+POCSAG2400: Address: 1515942  Function: 1  Alpha:   5<SO>
+POCSAG2400: Address: 1753743  Function: 1  Alpha:   O%
+POCSAG2400: Address:  159320  Function: 3 
+POCSAG2400: Address:  249528  Function: 1 
+POCSAG2400: Address:   88145  Function: 1 
+POCSAG2400: Address: 1067409  Function: 1  Alpha:   eKggu
+POCSAG2400: Address:  667747  Function: 3  Alpha:   <ENQ>f
+POCSAG2400: Address:  412908  Function: 0  Alpha:   <CAN><ESC>
+POCSAG2400: Address:  574251  Function: 2  Alpha:   e <ACK> T
