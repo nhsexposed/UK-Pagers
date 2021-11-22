@@ -1,3 +1,27 @@
+POCSAG2400: Address:  984912  Function: 3 
+POCSAG2400: Address: 1913773  Function: 2  Alpha:   10:19-78 2150<NUL>|~?
+POCSAG2400: Address:   28905  Function: 0  Alpha:   10:19-13 4157<NUL>
+POCSAG2400: Address: 1324541  Function: 2  Alpha:   10:19-59 INC ALERT No: 16810415 Falls - FALLEN HIT HEAD, AT: MAIDENCOMBE HOUSE - FLAT 14, TEIGNMOUTH ROAD, TORQUAY, TQ1 4SB, Time of Call: 22/11/2021 10:15:09, Co-ords: 50.5002826 -3.5240888<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1018221121+++TIME=1018221121<NUL>
+POCSAG2400: Address: 1320204  Function: 2  Alpha:   10:18-99 2351<NUL>
+POCSAG1200: Address:  212309  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   <HT>/;TIME=1018221121+++TIME=1018221121<NUL>
+POCSAG2400: Address: 1242634  Function: 2  Alpha:   10:18-98 80383
+POCSAG2400: Address:  549126  Function: 2  Alpha:   10:18-48 84884
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:18-60 5203<NUL>
+POCSAG2400: Address: 1022624  Function: 0  Alpha:   10:18-52 Fire Alarm 5-8 Avon House Accommodation
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   Fj
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN><DC2>
+POCSAG1200: Address:  433293  Function: 2  Alpha:   10:17-77 82633482
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   10:16-38 2183<NUL>
+POCSAG2400: Address: 1913664  Function: 2  Alpha:   10:16-83 2150<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   10:16-53 2445<NUL>
+POCSAG2400: Address:  583468  Function: 2  Alpha:   10:15-24 80300
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:14-89 4283<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   10:15-46 PLEASE CALL 7233022
+POCSAG2400: Address:  548053  Function: 2  Alpha:   10:14-90 SBELL
+POCSAG1200: Address: 1812336  Function: 2  Alpha:   U<DLE>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:14-16 22/11/2021 10:11:31 INC 24703300 25A01 ST MICHAELS SUPPORTED LIVING ACCOMMODATION, 93 ST MICHAELS CHURCH ROAD, AIGBURTH L17, L17 7BD Male 63Y PARANOID SCHIZOPHRENIC - NOT TAKING MEDS GRD 337100 386711<NUL><NUL>
 POCSAG1200: Address:  231180  Function: 3  Alpha:   33c<DC3>1<DLE>5r
 POCSAG1200: Address:  743723  Function: 3  Alpha:   <<EOT>
@@ -974,27 +998,3 @@ POCSAG2400: Address:  385408  Function: 3  Alpha:   ~U
 POCSAG2400: Address: 1684288  Function: 3 
 POCSAG2400: Address:   92467  Function: 1  Alpha:   ^+l^K
 POCSAG2400: Address:  319876  Function: 3  Alpha:   <RS>U<NAK>KE
-POCSAG2400: Address: 1360920  Function: 1 
-POCSAG2400: Address: 1100818  Function: 0  Alpha:   A<ACK><ETX>%A<SO>%<HT>Affldhn@fprrlf
-POCSAG2400: Address:  601059  Function: 0 
-POCSAG2400: Address:  429490  Function: 0  Alpha:   <HT>d
-POCSAG2400: Address: 1475369  Function: 1  Alpha:   a,_ R'YX
-POCSAG2400: Address:  183588  Function: 3 
-POCSAG2400: Address:  288504  Function: 1 
-POCSAG2400: Address: 1717409  Function: 2  Alpha:   2A<DC2>^a
-POCSAG2400: Address: 1657449  Function: 1 
-POCSAG2400: Address:  914753  Function: 1  Alpha:   <STX><SOH><STX>(<LF><DEL>ja
-POCSAG2400: Address: 1305100  Function: 0 
-POCSAG2400: Address:  112209  Function: 1  Alpha:   2[
-POCSAG2400: Address:  358484  Function: 1  Alpha:   S_
-POCSAG2400: Address:  736432  Function: 0 
-POCSAG2400: Address:  602529  Function: 1 
-POCSAG2400: Address: 1239957  Function: 3 
-POCSAG2400: Address:  176745  Function: 1  Alpha:   `u
-POCSAG2400: Address:  818560  Function: 0  Alpha:   ,e
-POCSAG2400: Address: 1733376  Function: 3 
-POCSAG2400: Address: 1092762  Function: 2  Alpha:   08:55-78 22/11/2021 08:53:58 IN<ETX><BS>A<EOT>ln
-POCSAG2400: Address: 1671195  Function: 0 
-POCSAG2400: Address:  183588  Function: 1  Alpha:   \<
-POCSAG2400: Address:  429554  Function: 0  Alpha:   <HT><EOT><DC4>2<DC2><NAK>H0<SYN>h0P<DC4>hQ<DC4><DC1>hlLM<FF>
-POCSAG2400: Address: 1475433  Function: 1  Alpha:   al^ 2'Yx
