@@ -44412,3 +44412,33 @@ POCSAG2400: Address: 1323953  Function: 2  Alpha:   09:59-14 Test<NUL>
 POCSAG1200: Address: 1511849  Function: 3  Alpha:   F<EM>
 POCSAG2400: Address: 1913668  Function: 2  Alpha:   09:59-46 4935<NUL>
 POCSAG1200: Address: 1322009  Function: 2  Alpha:   09:59-50 38282
+POCSAG1200: Address: 1322009  Function: 2  Alpha:   10:00-51 2283<NUL>
+POCSAG1200: Address:  618362  Function: 3  Alpha:   !<ACK>
+POCSAG2400: Address:  216417  Function: 2  Alpha:   10:01-90 34665
+POCSAG2400: Address: 1878984  Function: 3 
+POCSAG1200: Address:  600484  Function: 3  Alpha:   <ACK><BEL>
+POCSAG2400: Address: 1022497  Function: 0  Alpha:   10:01-10 811: Exercise: Please attend B800 ICC.<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1245711  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1115394  Function: 2 
+POCSAG1200: Address: 1757555  Function: 1  Alpha:   UE<FF> C
+POCSAG1200: Address:  792996  Function: 3 
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   10:03-56 22/11/2021 09:58:13 INC 24703242 06D02 5 FORDSIDE AVENUE, CLAYTON LE MOORS, BB5 5TH Female 81Y UNWELL 1WK, SHAKING, HEAVY FLU GRD 374546 431575<NUL><NUL>
+POCSAG1200: Address:  214310  Function: 2  Alpha:   10:03-63 22/11/2021 09:58:13 INC 24703242 06D02 5 FORDSIDE AVENUE, CLAYTON LE MOORS, BB5 5TH Female 81Y UNWELL 1WK, SHAKING, HEAVY FLU GRD 374546 431575<NUL><NUL>
+POCSAG1200: Address:  548159  Function: 2  Alpha:   10:03-00 6970<NUL>
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:03-11 4906<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1003221121+++TIME=1003221121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1003221121+++TIME=1003221121<NUL>
+POCSAG2400: Address:  584222  Function: 2  Alpha:   10:03-32 80300
+POCSAG1200: Address: 2009030  Function: 2  Alpha:   10:04-39 22/11/2021 10:02:06 INC 24703259 06E01 ST MARGARET SCHOOL, HIVE STREET, HOLLINS OLDHAM OLDHAM, OL8 4QS Male 6Y M ASTHMA INHALER - DIB GRD 390953 40290
+POCSAG1200: Address: 1817185  Function: 2  Alpha:   10:04-84 22/11/2021 09:56:41 INC 24703233 09D01 43 ST MICHAELS ROAD, KIRKHAM, PR4 2TQ Male 72Y FAINTED Q FITTING GRD 343296 432069<NUL>
+POCSAG1200: Address:  940678  Function: 2  Alpha:   10:04-21 22/11/2021 09:56:41 INC 24703233 09D01 43 ST MICHAELS ROAD, KIRKHAM, PR4 2TQ Male 72Y FAINTED Q FITTING GRD 343296 432069<NUL>
+POCSAG1200: Address:  585617  Function: 2  Alpha:   10:04-60 SEL 111 Is In Front End Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OP'S M.S<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:04-31 5201<NUL>
+POCSAG2400: Address: 1324071  Function: 2  Alpha:   10:04-24 SEL 111 Is In Front End Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OP'S M.S<NUL>
+POCSAG1200: Address:  782145  Function: 1  Alpha:   <VT>v
+POCSAG2400: Address: 1323923  Function: 2  Alpha:   10:04-31 SEL 111 Is In Front End Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OP'S M.S<NUL>
+POCSAG2400: Address: 1324056  Function: 2  Alpha:   10:04-17 SEL 111 Is In Front End Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OP'S M.S<NUL>
+POCSAG2400: Address: 1324028  Function: 2  Alpha:   10:04-70 SEL 111 Is In Front End Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OP'S M.S<NUL>
+POCSAG2400: Address: 1324078  Function: 2  Alpha:   10:04-89 SEL 111 Is In Front End Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OP'S M.S<NUL>
