@@ -42119,3 +42119,8 @@ POCSAG1200: Address:  370526  Function: 0  Alpha:   df
 POCSAG1200: Address: 1120895  Function: 1 
 POCSAG1200: Address:  784104  Function: 2 
 POCSAG1200: Address:  455343  Function: 0  Alpha:   A<SOH>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   05:51-52 PLEASE CALL 6810 <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  499432  Function: 2 
+POCSAG1200: Address: 1032948  Function: 2  Alpha:   "<DLE>a<BS>L
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0553221121+++TIME=0553221121<NUL>
