@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323231121+++TIME=0323231121<NUL>
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   03:23-02 PLEASE CALL 01580 493 292 ASAP
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:22-84 5082<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   03:21-25 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: lo<NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   03:21-61 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: lo<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   03:21-49 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: lo<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   03:21-53 4157<NUL>
+POCSAG1200: Address:  269054  Function: 2  Alpha:   03:19-26 23/11/2021 03:17:24 INC 24707566 10D04 24 ASH AVENUE, CADISHEAD MANCHESTER, M44 5AT Male 36Y CHEST PAINS ? ANGINA GRD 370863 392333
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   03:19-05 23/11/2021 03:17:24 INC 24707566 10D04 24 ASH AVENUE, CADISHEAD MANCHESTER, M44 5AT Male 36Y CHEST PAINS ? ANGINA GRD 370863 392333
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:18-79 4387<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0318231121+++TIME=0318231121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318231121+++TIME=0318231121<NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1092762  Function: 2  Alpha:   22:44-57 22/11/2021 22:42:13
 POCSAG2400: Address: 1324561  Function: 2  Alpha:   22:44-57 INC ALERT No: 16812941 Cardiac Arrest -, AT: WEST LODGE, SUMMER LANE, AVISHAYS CHARD, TA20 4AF, Time of Call: 22/11/2021 22:43:41, Co-ords: 50.877969 -2.926143
 POCSAG1200: Address:  549856  Function: 2  Alpha:   22:44-19 ~S35 IS GETTING A STATION CLEAN AND S3501 & S3502 ARE BOTH OFF THE RUN
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2243221121+++TIME=2243221121<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   22:42-31 3298<NUL>
-POCSAG1200: Address:  600824  Function: 0  Alpha:   <DLE><DC2>T,<CAN>l0f
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1553321  Function: 2  Alpha:   22:42-53 FOR INFO 2111008713 ADD: A595 BOOTLE MILLOM INC TYPE: VEHICLE FIRE SMALL TG: NWR OPS04 FOR INFO ONLY AS: INFORMED AS NEAREST SM<NUL>
-POCSAG2400: Address:  820877  Function: 2  Alpha:   22:42-91 [[2021 041266]] INCIDENT: ATTENDANCE REQUEST, Attendance Request<CR><LF><CR><LF>Team: HILCRT<CR><LF>Type: ASSIST GOSPORT LB BRINGING YACHT ALONGSIDE<CR><LF>When: Mon, 22 Nov 2021 22:40 UTC<CR><LF>RV: HASLAR MARINA, RV WITH GOSPORT LB SZ 620 994<CR><LF>Map reference: Rendezvou<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<EOT>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   22:41-78 22/11/2021 22:38:15 INC 24706857 26D01 O/S, AUTOCENTRE LTD, FRIDAY STREET, CHORLEY, PR6 0AA Male 56Y NOT ALERT GRD 358680 417628
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   22:41-26 22/11/2021 22:38:15 INC 24706857 26D01 O/S, AUTOCENTRE LTD, FRIDAY STREET, CHORLEY, PR6 0AA Male 56Y NOT ALERT GRD 358680 417628
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   22:41-44 22/11/2021 22:38:15 INC 24706857 26D01 O/S, AUTOCENTRE LTD, FRIDAY STREET, CHORLEY, PR6 0AA Male 56Y NOT ALERT GRD 358680 417628
