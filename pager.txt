@@ -1,3 +1,40 @@
+POCSAG1200: Address:  856699  Function: 0 
+POCSAG1200: Address:       1  Function: 1  Alpha:   WHC+da<NAK>r
+POCSAG1200: Address:  792599  Function: 3  Alpha:   O%(<SYN>7<ACK>&F
+POCSAG1200: Address: 1586535  Function: 2 
+POCSAG1200: Address:  144153  Function: 1 
+POCSAG1200: Address:  938663  Function: 1  Alpha:   O%
+POCSAG1200: Address:   72070  Function: 1  Alpha:   NE<FF> W
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   22:24-45 23/11/2021 22:20:59 INC 24711593 31D01 88 DEYSBROOK LANE, WEST DERBY L12, L12 8RQ Male 58Y UNCON GRD 340520 393124<NUL><NUL>
+POCSAG1200: Address:  974289  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2223231121+++TIME=2223231121<NUL>
+POCSAG2400: Address: 1322506  Function: 2  Alpha:   22:23-21 PLEASE CALL JENNY CHAPMAN SITE MATRON COLCHESTER HOSPITAL ON 07788 410 298 <NUL>
+POCSAG2400: Address:   33685  Function: 2  Alpha:   22:23-51 PLEASE CALL JENNY CHAPMAN SITE MATRON COLCHESTER HOSPITAL ON 07788 410 298 <NUL>
+POCSAG2400: Address:   33680  Function: 2  Alpha:   22:23-66 22:23-65 PLEASE CALL JENNY CHAPMAN SITE MATRON COLCHESTER HOSPITAL ON 07788 410 298 <NUL>
+POCSAG2400: Address: 1323564  Function: 2  Alpha:   22:23-58 PLEASE CALL JENNY CHAPMAN SITE MATRON COLCHESTER HOSPITAL ON 07788 410 298 <NUL>
+POCSAG2400: Address:   33688  Function: 2  Alpha:   22:23-53 PLEASE CALL JENNY CHAPMAN SITE MATRON COLCHESTER HOSPITAL ON 07788 410 298 <NUL>
+POCSAG2400: Address:   33691  Function: 2  Alpha:   22:23-54 PLEASE CALL JENNY CHAPMAN SITE MATRON COLCHESTER HOSPITAL ON 07788 410 298 <NUL>
+POCSAG1200: Address: 2009046  Function: 2  Alpha:   22:23-65 2264226<NUL>
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   22:23-11 please call rfh ext 34329
+POCSAG1200: Address: 1686712  Function: 0 
+POCSAG512: Address: 1912917  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3Ey4
+POCSAG1200: Address: 1318372  Function: 2  Alpha:   e,L<ENQ><DC2><DC4>M$<,<EOT><DC2>|d$}td<STX><DC2>d<FF><ETX>B<DC3>%<EOT>2,n<SO>f.<ACK>J<DC3>K<ENQ>B,<FF><DC4>%<ENQ><DC2><CR><FS>Lt<<EOT>:<DC4>%<EOT><SUB>;<VT>3<ESC>#<ETX>"<VT><DC3><ETX>;;
+POCSAG1200: Address:  889605  Function: 3 
+POCSAG1200: Address:  733227  Function: 2  Alpha:   ^\<<CR>t
+POCSAG1200: Address: 1466778  Function: 1  Alpha:   KABp<BS>
+POCSAG1200: Address: 1092865  Function: 3 
+POCSAG1200: Address: 1443161  Function: 0 
+POCSAG1200: Address: 1850959  Function: 0  Alpha:   <STX>1ng<DC2>
+POCSAG1200: Address:  852494  Function: 1  Alpha:   RE
+POCSAG1200: Address:   95045  Function: 2 
+POCSAG1200: Address: 1330204  Function: 2  Alpha:   <LF>D
+POCSAG1200: Address:  895107  Function: 2  Alpha:   b@jd@
+POCSAG1200: Address:  437306  Function: 1  Alpha:   <FS><DLE>
+POCSAG1200: Address:  915577  Function: 1 
+POCSAG1200: Address: 1161368  Function: 0  Alpha:   k&
+POCSAG1200: Address: 1322052  Function: 2  Alpha:   22:20-05 4902<NUL>
+POCSAG512: Address:  640251  Function: 2  Alpha:   22:20-68 33460
 POCSAG2400: Address: 1022559  Function: 0  Alpha:   22:19-75 77835
 POCSAG1200: Address: 1937694  Function: 2  Alpha:   22:19-03 6634 1<NUL><NUL>
 POCSAG1200: Address: 1483389  Function: 2 
@@ -961,40 +998,3 @@ POCSAG2400: Address:  833396  Function: 2
 POCSAG2400: Address: 1647972  Function: 1 
 POCSAG2400: Address: 1102966  Function: 2 
 POCSAG2400: Address: 1666796  Function: 0 
-POCSAG2400: Address: 1839385  Function: 3  Alpha:   m}-<SO>$Zl\,.<RS>H<CR>D
-POCSAG2400: Address: 1733240  Function: 1 
-POCSAG2400: Address: 1735904  Function: 1 
-POCSAG2400: Address:  950567  Function: 3  Alpha:   O%
-POCSAG2400: Address:  709895  Function: 3 
-POCSAG2400: Address: 1377574  Function: 2 
-POCSAG2400: Address:  432245  Function: 1  Alpha:   <SO>4
-POCSAG2400: Address:  626757  Function: 2 
-POCSAG2400: Address: 1647972  Function: 1 
-POCSAG2400: Address: 1868307  Function: 0  Alpha:   OS
-POCSAG2400: Address: 1378640  Function: 1 
-POCSAG2400: Address:  750459  Function: 1 
-POCSAG2400: Address: 1735907  Function: 1 
-POCSAG2400: Address:  950562  Function: 3 
-POCSAG2400: Address:  709890  Function: 3 
-POCSAG2400: Address: 1377569  Function: 2 
-POCSAG1200: Address: 1001124  Function: 2  Alpha:   19:47-76 PAEDIATRIC RESUS TEAM TO A&E RESUS 1944 WITCH CROSS HOSPITAL.<NUL>
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   19:47-27 PAEDIATRIC RESUS TEAM TO A&E RESUS 1944 WITCH CROSS HOSPITAL.<NUL>
-POCSAG1200: Address: 1001130  Function: 2  Alpha:   19:47-28 PAEDIATRIC RESUS TEAM TO A&E RESUS 1944 WITCH CROSS HOSPITAL.<NUL>
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   19:47-33 PAEDIATRIC RESUS TEAM TO A&E RESUS 1944 WITCH CROSS HOSPITAL.<NUL>
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   19:47-39 PAEDIATRIC RESUS TEAM TO A&E RESUS 1944 WITCH CROSS HOSPITAL.<NUL>
-POCSAG1200: Address: 1312440  Function: 2  Alpha:   19:47-14 PAEDIATRIC RESUS TEAM TO A&E RESUS 1944 WITCH CROSS HOSPITAL.<NUL>
-POCSAG2400: Address: 1323187  Function: 2  Alpha:   19:47-28 NHSBT - DONOR REFERRAL. Please call SNR SISTER KELLY FARRELL on Direct Dial Number 01268394272 Hospital BASILDON HOSPITAL Dept CT ITU . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1581617  Function: 0  Alpha:   <SYN>/
-POCSAG2400: Address:  658374  Function: 2  Alpha:   HI
-POCSAG2400: Address: 1355029  Function: 2 
-POCSAG2400: Address: 1464637  Function: 0 
-POCSAG2400: Address: 1517892  Function: 1 
-POCSAG2400: Address:  432245  Function: 1  Alpha:   <SO>4
-POCSAG2400: Address:  626757  Function: 2 
-POCSAG2400: Address: 1647972  Function: 1 
-POCSAG2400: Address:  313744  Function: 1 
-POCSAG2400: Address: 1225815  Function: 1  Alpha:   3<HT>j<SOH><SYN>
-POCSAG2400: Address: 1664231  Function: 1 
-POCSAG2400: Address: 1323174  Function: 2  Alpha:   19:47-16 NHSBT - DONOR REFERRAL. Please call SNR
-POCSAG1200: Address:  314571  Function: 2  Alpha:   19:47-31 RLH 02035 942 882<NUL><NUL>
-POCSAG1200: Address:  314571  Function: 2  Alpha:   19:47-30 RLH 02035942882<NUL>
