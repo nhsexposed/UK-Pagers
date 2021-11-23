@@ -1,3 +1,41 @@
+POCSAG1200: Address: 1312984  Function: 2  Alpha:   17:19-20 (2/2) Roles    JY21P1:Main Pump; Talkgrp  FBER-OPS05 (42*) (DGNA)
+POCSAG2400: Address: 2075377  Function: 1 
+POCSAG1200: Address: 2065850  Function: 2 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   17:18-66 5128<NUL>
+POCSAG1200: Address: 1321675  Function: 2  Alpha:   17:18-23 Destination: D105 SSC In\117, Booking Ref#: 802217, Vehicle: DG68BKZ. If no more Booking Ref to unload, ignore destination and$rroceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1718231121+++TIME=1718231121<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:18-04 5013<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1718231121+++TIME=1718231121<NUL>
+POCSAG2400: Address: 1086519  Function: 2 
+POCSAG2400: Address: 1205973  Function: 1 
+POCSAG2400: Address: 1148764  Function: 0  Alpha:   fn
+POCSAG2400: Address:   28907  Function: 0  Alpha:   17:18-13 4179<NUL>
+POCSAG1200: Address:  350338  Function: 0  Alpha:   17:17-20 23/11/2021 17:15:15 INC 24710306 19D04 ENTERANCE, T J HUGHES LTD, FISHERGATE CENTRE, PRESTON, PR1 8HJ Male 31Y SUB CALL - ICD HAS FIRED GRD 353599 429087
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   17:17-02 23/11/2021 17:15:15 INC 24710306 19D04 ENTERANCE, T J HUGHES LTD, FISHERGATE CENTRE, PRESTON, PR1 8HJ Male 31Y SUB CALL - ICD HAS FIRED GRD 353599 429087
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   17:17-86 23/11/2021 17:15:15 INC 24710306 19D04 ENTERANCE, T J HUGHES LTD, FISHERGATE CENTRE, PRESTON, PR1 8HJ Male 31Y SUB CALL - ICD HAS FIRED GRD 353599 429087
+POCSAG1200: Address:  445623  Function: 0  Alpha:   3<HT>
+POCSAG1200: Address:  907639  Function: 0 
+POCSAG1200: Address:  635877  Function: 1  Alpha:   bb
+POCSAG1200: Address:  453819  Function: 0  Alpha:   X[&N<FF>
+POCSAG1200: Address: 1732275  Function: 1 
+POCSAG1200: Address: 1199434  Function: 2 
+POCSAG1200: Address: 1303898  Function: 0 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:17-36 2415<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1560771  Function: 3  Alpha:   <ACK>F
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   F<EM>
+POCSAG1200: Address:  901457  Function: 0 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   17:15-12 4167<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   17:15-21 4908<NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   17:15-94 2180<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   17:15-11 5321<NUL>
+POCSAG1200: Address: 1039167  Function: 0 
+POCSAG1200: Address:  218838  Function: 0  Alpha:   J<EM>
+POCSAG1200: Address: 1039156  Function: 0 
+POCSAG1200: Address: 1039266  Function: 0  Alpha:   J<EM>
+POCSAG1200: Address:  553706  Function: 0 
+POCSAG1200: Address:  906687  Function: 0 
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   17:14-59 23/11/2021 17:11:56 INC 24710293 12C05E 126 LAWSONS ROAD, THORNTON CLEVELEYS, FY5 4PW Female 13Y 13YOF, GRD 334174 442865<NUL>
 POCSAG1200: Address: 1259126  Function: 2  Alpha:   17:14-13 23/11/2021 17:11:56 INC 24710293 12C05E 126 LAWSONS ROAD, THORNTON CLEVELEYS, FY5 4PW Female 13Y 13YOF, GRD 334174 442865<NUL>
 POCSAG1200: Address: 1092646  Function: 2  Alpha:   17:14-51 23/11/2021 17:11:56 INC 24710293 12C05E 126 LAWSONS ROAD, THORNTON CLEVELEYS, FY5 4PW Female 13Y 13YOF, GRD 334174 442865<NUL>
 POCSAG1200: Address:  200800  Function: 2  Alpha:   17:14-48 23/11/2021 17:11:56 INC 24710293 12C05E 126 LAWSONS ROAD, THORNTON CLEVELEYS, FY5 4PW Female 13Y 13YOF, GRD 334174 442865<NUL>
@@ -960,41 +998,3 @@ POCSAG1200: Address: 1349434  Function: 1
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:10-32 5203<NUL>
 POCSAG2400: Address:   28894  Function: 0  Alpha:   16:10-71 5202<NUL>
 POCSAG1200: Address: 1517206  Function: 1  Alpha:   <SYN><ACK>
-POCSAG1200: Address:   90613  Function: 1  Alpha:   MM
-POCSAG1200: Address:  791075  Function: 2  Alpha:   <STX><CR>$<}<DC4>%E
-POCSAG1200: Address: 1067387  Function: 3 
-POCSAG1200: Address:  345282  Function: 0 
-POCSAG1200: Address: 1887490  Function: 3 
-POCSAG1200: Address:  176897  Function: 3 
-POCSAG1200: Address: 1594976  Function: 2  Alpha:   16:09-61 Location 18 AUCHENDOON CRESCENT, AYR, KA7 4AS Inc No: 8077633 Code: 30D03 Con: YES What is the Problem: MALE FELL ON STONE SLABS - HEAD INJURY - VERY DROUSY - Name: Age: 91Y
-POCSAG1200: Address: 1257025  Function: 2  Alpha:   16:09-38 PIN 7994 CALL DSCC ON 03457 500 620<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   16:08-63 4399<NUL>
-POCSAG1200: Address: 1779818  Function: 1 
-POCSAG1200: Address: 1231139  Function: 1  Alpha:   GE<NUL>RO
-POCSAG1200: Address: 1395331  Function: 3 
-POCSAG1200: Address:  677834  Function: 3 
-POCSAG1200: Address:  315434  Function: 3 
-POCSAG1200: Address: 1066065  Function: 1  Alpha:   &Z
-POCSAG1200: Address:  100189  Function: 0  Alpha:   fj
-POCSAG1200: Address:  304476  Function: 0  Alpha:   <CAN><ESC>
-POCSAG1200: Address: 1511973  Function: 3  Alpha:   <ACK>F
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   16:08-40 23/11/2021 16:06:46 INC 24710011 17D03 W BIBBY LTD UNIT 4 RIVERVIEW BUSINESS PARK, SHORE WOOD ROAD, WIRRAL, CH62 3RQ Male 51Y PASSED OUT GRD 335681 382885<NUL><NUL>
-POCSAG1200: Address: 2073329  Function: 2 
-POCSAG2400: Address:   28902  Function: 0  Alpha:   16:08-09 5896<NUL>
-POCSAG1200: Address: 1989766  Function: 3  Alpha:   <DLE><VT>
-POCSAG1200: Address:   78437  Function: 1  Alpha:   "'
-POCSAG1200: Address: 1771555  Function: 3  Alpha:   d<EOT>j<STX>2
-POCSAG1200: Address: 1713219  Function: 2 
-POCSAG1200: Address: 1405905  Function: 0  Alpha:   $*gch
-POCSAG1200: Address: 1668294  Function: 2  Alpha:   f@L<DC4>/q3<HT>
-POCSAG1200: Address:  170502  Function: 3 
-POCSAG1200: Address:  315436  Function: 3  Alpha:   Hy<EM>:z
-POCSAG1200: Address: 2041939  Function: 0  Alpha:   >f
-POCSAG1200: Address:  697762  Function: 1  Alpha:   , 
-POCSAG1200: Address:  760352  Function: 1 
-POCSAG1200: Address: 1437037  Function: 2  Alpha:   v1Q<DC3>(<SO><FF><BS>3<DC2>t<DC4>hq3Rs<DC1>H<DLE>35<DC1>(P<DC3><DC1><BS>1R<DLE>hQ<DC4><DC1>h<FF>.<CR>LL<FF>h,n<FF>L<CR><SO><NUL><NUL>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:08-42 64880
-POCSAG1200: Address:  679608  Function: 2  Alpha:   16:08-12 64880
-POCSAG1200: Address:  649969  Function: 2  Alpha:   16:08-27 64880
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:07-39 4769<NUL>
