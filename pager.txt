@@ -1,3 +1,14 @@
+POCSAG2400: Address:   28897  Function: 0  Alpha:   02:09-03 4156<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   02:09-17 23/11/2021 02:07:33 INC 24707452 26C02 33 HAWORTH AVENUE, RAWTENSTALL, BB4 8SS Female 92Y RIGHT LEG HURTING- SWOLLEN ANKLE GRD 380644 422860<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0208231121+++TIME=0208231121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208231121+++TIME=0208231121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:05-75 4387<NUL>
+POCSAG1200: Address:  234377  Function: 2  Alpha:   02:05-97 23/11/2021 02:03:35 INC 24707448 06D02 51 ELIZABETH STREET, CENTRAL BLACKPOOL, FY1 3JF Male 21Y CHEST INFECTION - COUGHING STRUGGLING TO BREATH GRD 331331 436588<NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   02:05-07 23/11/2021 02:03:35 INC 24707448 06D02 51 ELIZABETH STREET, CENTRAL BLACKPOOL, FY1 3JF Male 21Y CHEST INFECTION - COUGHING STRUGGLING TO BREATH GRD 331331 436588<NUL>
+POCSAG1200: Address: 1817195  Function: 2  Alpha:   02:05-81 Destination: D105 SSC In\103, Booking Ref#: 802058, Vehicle: wx17zfe. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1321675  Function: 2  Alpha:   02:05-18 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: HX66OZV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  585566  Function: 2  Alpha:   02:05-87 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: MK64MTX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203231121+++TIME=0203231121<NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   02:03-88 23/11/2021 02:01:27 INC 24707446 07C01F H M STYAL PRISON, STYAL ROAD, STYAL WILMSLOW SK9, SK9 4HR Female UnknownY FIRE IN CELL - PERSON INSIDE GRD 384087 382787<NUL><NUL>
 POCSAG1200: Address:  851302  Function: 2  Alpha:   02:02-24 Stop Message received for Incident 2111008744;  [STOP] 23/11/21 02:02:33 STOP MESSAGE RECEIVED FROM C45P1 (OIC 10145 IN C70P1)<NUL><NUL>
@@ -987,14 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2153221121+++TIME=21
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:53-53 3106<NUL>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:53-92 Please call Brunel Ward 32063<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:   28904  Function: 0  Alpha:   21:52-14 5002<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  360296  Function: 2  Alpha:   21:51-89 Cardex Application Failure (NS2404). 21:51 22NOV21 001,03,244 N12P ERROR     : EOD NOT Completed - Please Investigate - Action required by Cardex App Support<NUL><NUL>
-POCSAG1200: Address:  931320  Function: 2  Alpha:   21:51-62 Cardex Application Failure (NS2404). 21:51 22NOV21 001,03,244 N12P ERROR     : EOD NOT Completed - Please Investigate - Action required by Cardex App Support<NUL><NUL>
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   21:51-16 22/11/2021 21:49:20 INC 24706656 31E01 CORNER OF SINGLETON ROAD, BURY OLD ROAD, SEDGLEY PARK MANCHESTER, M25 0FW Male 55Y COLLASPED GRD 382969 402420<NUL>
-POCSAG512: Address:  270784  Function: 2  Alpha:   21:51-43 PLEASE CALL MR HAYES 01803 845 045 AGAIN RE: MARLEY
-POCSAG1200: Address:  334075  Function: 2  Alpha:   21:51-31 22/11/2021 21:49:20 INC 24706656 31E01 CORNER OF SINGLETON ROAD, BURY OLD ROAD, SEDGLEY PARK MANCHESTER, M25 0FW Male 55Y COLLASPED GRD 382969 402420<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:51-97 22/11/2021 21:49:20 INC 24706656 31E01 CORNER OF SINGLETON ROAD, BURY OLD ROAD, SEDGLEY PARK MANCHESTER, M25 0FW Male 55Y COLLASPED GRD 382969 402420<NUL>
-POCSAG1200: Address:  360296  Function: 2  Alpha:   21:51-88 NS2404 Cardex Application Failure,  21:51 22NOV21 001,03,230 D12P ERROR : EOD NOT Completed - Please Investigate <CR><LF>Action required from Cardex App Support<NUL><NUL>
-POCSAG512: Address:  640251  Function: 2  Alpha:   21:51-57 33945
-POCSAG1200: Address:  360296  Function: 2  Alpha:   21:51-87 Cardex Application Failure (NS2404). 21:51 22NOV21 001,03,230 D12P ERROR     : EOD NOT Completed - Please Investigate - Action required by Cardex App Support<NUL><NUL>
