@@ -1,3 +1,12 @@
+POCSAG1200: Address:   40074  Function: 2  Alpha:   01:59-06 23/11/2021 01:57:45 INC 24707437 25B02W FABRICK - APARTMENT 53, 8 WARREN ROAD, CHEADLE HULME, SK8 5BU Female 18Y SELF HARM HAS KNIFE GRD 387590 386740
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158231121+++TIME=0158231121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158231121+++TIME=0158231121<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   01:57-51 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   01:57-50 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   01:56-29 (1/2)030168-23112021; F8.0.0.P FIRE - FIRE IN THE OPEN; JUBILEE GARDENS,THE RING,BRACKNELL,RG12 1HA; 487035,169106; BONFIRE SET IN PUBLIC PLACE;<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  885821  Function: 1 
+POCSAG1200: Address: 1577572  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153231121+++TIME=0153231121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153231121+++TIME=0153231121<NUL>
 POCSAG2400: Address:  149253  Function: 2  Alpha:   01:52-88 PLEASE CALL 6 ACORN ROAD ON 01580 493 292, HUSBAND IS IN GREAT PAIN, BLOCKED CATHATER <NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  360296  Function: 2  Alpha:   21:51-85 Cardex Application 
 POCSAG1200: Address: 1572500  Function: 2  Alpha:   21:51-39 Cardex Application Failure (NS2404). 21:50 22NOV21 001,01,101 L12P ERROR     : EOD NOT Completed - Please Investigate - Action required by Cardex App Support<NUL><NUL>
 POCSAG2400: Address: 1815043  Function: 0  Alpha:   21:50-61 01825713358 - Sharon Scott : 53B Nevill Road Uckfield East Sussex TN22 1NZ Puppy 3 weeks old struggling to breath. Puppy at her daughters at address above. phone call requested
 POCSAG1200: Address:  216470  Function: 2  Alpha:   21:89=78 PLEASE CALL EXT 12607<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2148221121+++TIME=2148221121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2148221121+++TIME=2148221121<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   21:47-90 5204<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1914023  Function: 2  Alpha:   21:46-35 5204<NUL>
-POCSAG1200: Address:   80070  Function: 3  Alpha:   <ACK>"
-POCSAG2400: Address:  798219  Function: 1  Alpha:   03sr1:<DLE>:
-POCSAG2400: Address:  769970  Function: 3  Alpha:   -<FF>
-POCSAG2400: Address: 1916129  Function: 1 
