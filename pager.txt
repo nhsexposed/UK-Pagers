@@ -1,3 +1,22 @@
+POCSAG1200: Address: 1321712  Function: 2  Alpha:   02:59-07 Destination: D105 SSC In\120, Booking Ref#: 802057, Vehicle: PF68JWG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0258231121+++TIME=0258231121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0258231121+++TIME=0258231121<NUL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   02:57-49 23/11/2021 02:55:31 INC 24707536 17D05 30 BEAUFORT AVENUE, BISPHAM BLACKPOOL, FY2 9HG Female 83Y SUB CALL - FALL GRD 331031 439964<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   02:57-55 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   02:57-60 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   02:57-85 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   02:57-38 PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host shakeylsql01mc1<CR><LF>Service: Disk: I<CR><LF>Host: shakeylsql01mc1<CR><LF>Alias: <CR><LF>Address: 10.0.60.165<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester ><NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   02:56-23 23/11/2021 02:55:17 INC 24707535 26C01 28 MARLAND HILL ROAD, SUDDEN ROCHDALE, OL11 4PQ Male 82Y CATHETER HAS COME OUT GRD 388282 412037<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1817195  Function: 2  Alpha:   02:56-82 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: wx17zfe. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   02:56-22 PLEASE RING CMU D ON 21975 <NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   02:55-22 23/11/2021 02:54:08 INC 24707533 06D02 6 VINE PLACE, DEEPLISH ROCHDALE ROCHDALE, OL11 1QZ Female 75Y DIB, CHEST PAIN, NAILS GOING BLUE GRD 389806 412480<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   02:55-09 23/11/2021 02:52:24 INC 24707531 17B01 THE GARDEN INN HOTEL NEXT TO, LANCASHIRE COUNTY CRICKET CLUB, BRIAN STATHAM WAY, STRETFORD MANCHESTER, M16 0PX Male 50Y CUT HEAD - BANGED HEAD - FALLEN GRD 381017 395649
+POCSAG1200: Address: 1411880  Function: 3  Alpha:   bb
+POCSAG1200: Address:  206424  Function: 3 
+POCSAG1200: Address: 1207518  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>
+POCSAG1200: Address: 1420125  Function: 0  Alpha:   jd
+POCSAG1200: Address:  730700  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0253231121+++TIME=0253231121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0253231121+++TIME=0253231121<NUL>
 POCSAG1200: Address: 1032690  Function: 0 
@@ -979,22 +998,3 @@ POCSAG1200: Address: 2009046  Function: 2  Alpha:   22:37-60 4226<NUL>
 POCSAG1200: Address: 1925683  Function: 2  Alpha:   22:36-41 22/11/2021 22:35:24 INC 24706847 29D05V OUTSIDE, 238 FLEETWOOD ROAD NORTH, THORNTON CLEVELEYS, FY5 4LD Female UnknownY RTC GRD 333667 443355<NUL><NUL>
 POCSAG1200: Address:  269055  Function: 2  Alpha:   22:36-19 22/11/2021 22:35:24 INC 24706847 OUTSIDE, 238 FLEETWOOD ROAD NORTH, THORNTON CLEVELEYS, FY5 4LD Female UnknownY RTC GRD 333667 443355
 POCSAG1200: Address: 1511868  Function: 2  Alpha:   <ACK><CR>
-POCSAG1200: Address:  640109  Function: 2  Alpha:   22:34-39 22/11/2021 22:32:32 INC 24706835 26D01 35 WINNINGTON LANE, NORTHWICH CW8, CW8 4DE Female 86Y 86YOF DISTRESSED DIZZY AND SHAKING AND CONFUSED GRD 364830 374150<NUL>
-POCSAG1200: Address:  549841  Function: 2  Alpha:   22:34-54 ~PLEASE CONTACT KYLE AT CONTROLS<NUL>
-POCSAG1200: Address:  565248  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2233221121+++TIME=2233221121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2233221121+++TIME=2233221121<NUL>
-POCSAG1200: Address: 1761275  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   22:32-30 5090<NUL>
-POCSAG1200: Address: 1032065  Function: 0 
-POCSAG1200: Address:   82293  Function: 1 
-POCSAG1200: Address:  652004  Function: 2 
-POCSAG1200: Address:  722092  Function: 3 
-POCSAG1200: Address: 1120803  Function: 1  Alpha:   L%
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   22:32-16 INC ALERT No: 16812901 Falls - CL - PT M FALLEN FORM TOILET, AT: 50 JOHN LEVERS WAY, EXETER, EX4 1DZ, Time of Call: 22/11/2021 22:29:17, Co-ords: 50.7214258 -3.5470531<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   22:31-29 4379<NUL>
-POCSAG1200: Address:  549769  Function: 2  Alpha:   22:31-63 ~PLEASE CONTACT RCC.   JORDAN<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   22:30-24 5013<NUL>
-POCSAG1200: Address:  336053  Function: 2  Alpha:   22:29-48 22/11/2021 22:29:47 INC 24706826 DX0112 281 HORNBY STREET, WALMERSLEY SOUTH BURY, BL9 5DR Female 59 111 NWAS/Vomitting GRD 380621 411963
