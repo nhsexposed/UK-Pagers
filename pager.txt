@@ -1,3 +1,40 @@
+POCSAG2400: Address:  583520  Function: 2  Alpha:   08:34-88 80300
+POCSAG2400: Address:  549432  Function: 2  Alpha:   08:34-38 Hinkley Health called Ambulance to site - Not work related 
+POCSAG2400: Address:  549442  Function: 2  Alpha:   08:34-33 Hinkley Health called Ambulance to site - Not work related 
+POCSAG2400: Address:  549433  Function: 2  Alpha:   08:34-52 Hinkley Health called Ambulance to site - Not work related 
+POCSAG2400: Address:  549436  Function: 2  Alpha:   08:34-48 Hinkley Health called Ambulance to site - Not work related 
+POCSAG2400: Address:  549438  Function: 2  Alpha:   08:34-53 Hinkley Health called Ambulance to site - Not work related 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   08:34-18 5207<NUL>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   08:34-33 please call the hub 01535 293909 Thanks
+POCSAG2400: Address: 1324305  Function: 2  Alpha:   08:33-48 80300
+POCSAG2400: Address: 1903635  Function: 0 
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   08:33-60 20
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0833231121+++TIME=0833231121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0833231121+++TIME=0833231121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913533  Function: 2  Alpha:   FIRE ALERT -FIRE GRND FLR CORRIDOR BY IT    102 - CANCER CENTRE 35-2-12/0 FIRE ALERT<NUL>
+POCSAG2400: Address: 1323006  Function: 2  Alpha:   08:32-85 80300
+POCSAG2400: Address:  583580  Function: 2  Alpha:   08:32-22 80300
+POCSAG1200: Address:  571376  Function: 0 
+POCSAG1200: Address:  549841  Function: 2  Alpha:   08:32-58 ~FOR INFO; N4178 CSU IS OFF THE RUN, DEFECTIVE GENERATOR. WORKSHOPS INFORMED <NUL><NUL>
+POCSAG1200: Address:  420237  Function: 2  Alpha:   08:32-38 23/11/2021 08:31:15 INC 24708115 06D01 104 QUEEN STREET, WHITEHAVEN, CA28 7QD Female 84Y F - DELERIOUS, DIB, EXHAUSTED GRD 297552 518263
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   08:32-84 23/11/2021 08:31:13 INC 24708114 09E01 6 BEECHWOOD DRIVE, MOSSLEY ASHTON UNDER LYNE, OL5 0QJ Male 66Y SEIZURE GRD 397147 402880<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   08:32-22 23/11/2021 08:31:13 INC 24708114 09E01 6 BEECHWOOD DRIVE, MOSSLEY ASHTON UNDER LYNE, OL5 0QJ Male 66Y SEIZURE GRD 397147 402880<NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   08:32-00 23/11/2021 08:31:13 INC 24708114 09E01 6 BEECHWOOD DRIVE, MOSSLEY ASHTON UNDER LYNE, OL5 0QJ Male 66Y SEIZURE GRD 397147 402880<NUL>
+POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:32-40 2065<NUL>
+POCSAG2400: Address:  585013  Function: 2  Alpha:   08:32-58 RODA - 07724 827 184<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324310  Function: 2  Alpha:   08:31-63 80300
+POCSAG2400: Address: 1323696  Function: 2  Alpha:   08:31-17 80300
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   08:31-26 5090<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   08:31-17 5205<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   08:31-43 4399<NUL>
+POCSAG2400: Address:  583543  Function: 2  Alpha:   08:31-89 80300
+POCSAG2400: Address:  583561  Function: 2  Alpha:   08:31-13 80300
+POCSAG2400: Address:  583583  Function: 2  Alpha:   08:30-07 80300
+POCSAG1200: Address:  548156  Function: 2  Alpha:   08:30-30 Destination: D105 SSC In\123, Booking Ref#: 801870, Vehicle: KN64VZX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1321718  Function: 2  Alpha:   08:30-77 Destination: D105 SSC In\103, Booking Ref#: 801408, Vehicle: sv21mku. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address: 1913851  Function: 2  Alpha:   08:30-69 2427<NUL>
 POCSAG2400: Address:  583537  Function: 2  Alpha:   08:29-79 73338
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0828231121+++TIME=0828231121<NUL>
 POCSAG1200: Address:   14950  Function: 0  Alpha:   08:28-09 23/11/2021 08:23:37 INC 24708098 10C04 31 WHITEHALL STREET, NELSON, BB9 9JB Female 62Y HEADACHE-CHEST GRD 386802 438016
@@ -961,40 +998,3 @@ POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:35-72 03003000044
 POCSAG1200: Address: 1313124  Function: 2  Alpha:   03:35-81 03003000044
 POCSAG1200: Address:   33723  Function: 2  Alpha:   03:35-30 03003000044
 POCSAG1200: Address:  346010  Function: 0  Alpha:   03:35-65 23/11/2021 03:32:48 INC 24707592 09D01 ROOK WOOD B, CHORLEY & DISTRICT GENERAL HOSPITAL, PRESTON ROAD, CHORLEY, PR7 1PP Male 69Y CARDIAC ARREST AT HOSPITAL GRD 358033 418996
-POCSAG1200: Address: 1710193  Function: 2  Alpha:   03:34-53 65729
-POCSAG2400: Address:   28899  Function: 0  Alpha:   03:34-07 2233<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0333231121+++TIME=0333231121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333231121+++TIME=0333231121<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:   28896  Function: 0  Alpha:   03:32-46 2183<NUL>
-POCSAG1200: Address:  585224  Function: 2  Alpha:   03:32-89 1: 001CLCOMBA39040 BR5 Airdale 2 Flt Unit Fault 01<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   03:30-45 2343<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328231121+++TIME=0328231121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   03:26-26 PROBLEM: Opsview - Application Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Application Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Application Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: localhost<CR><LF><NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   03:26-62 PROBLEM: Opsview - Application Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Application Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Application Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: localhost<CR><LF><NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   03:26-40 PROBLEM: Opsview - Application Status is CRITICAL oo%zost opsview, <CR><LF>PROBLEM: Opsview - Application Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Application Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: localhost<CR><LF><NUL><NUL>
-POCSAG1200: Address:  549367  Function: 2  Alpha:   03:26-95 PROCEED TO:  BUILDING FIRE/DOMESTIC; BL23PB,   6 CHURCH MEADOWS   BOLTON ,; FNWR-OPS01; ROLE:SMB ; GARAGE ON FIRE  ; G50P1 G50P2 G51P1 GS087<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323231121+++TIME=0323231121<NUL>
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   03:23-02 PLEASE CALL 01580 493 292 ASAP
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:22-84 5082<NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   03:21-25 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: lo<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   03:21-61 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: lo<NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   03:21-49 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host opsview<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: opsview<CR><LF>Alias: Opsview Master Server<CR><LF>Address: lo<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   03:21-53 4157<NUL>
-POCSAG1200: Address:  269054  Function: 2  Alpha:   03:19-26 23/11/2021 03:17:24 INC 24707566 10D04 24 ASH AVENUE, CADISHEAD MANCHESTER, M44 5AT Male 36Y CHEST PAINS ? ANGINA GRD 370863 392333
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   03:19-05 23/11/2021 03:17:24 INC 24707566 10D04 24 ASH AVENUE, CADISHEAD MANCHESTER, M44 5AT Male 36Y CHEST PAINS ? ANGINA GRD 370863 392333
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:18-79 4387<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0318231121+++TIME=0318231121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318231121+++TIME=0318231121<NUL>
-POCSAG1200: Address:  585538  Function: 2  Alpha:   03:16-73 2110<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   03:16-95 4155<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   03:13-18 2343<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0313231121+++TIME=0313231121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313231121+++TIME=0313231121<NUL>
-POCSAG1200: Address:  549367  Function: 2  Alpha:   03:13-94 FOR INFO 2111008759  ADD: 6 CHURCH MEADOWS BOLTON BL23PB INC TYPE: BUILDING FIRE DOMESTIC  TG: FNWR OPS 01 FOR INFO ONLY AS: MENTORING OFFICER
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:12-78 3157<NUL>
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   03:12-84 23/11/2021 03:10:32 INC 24707558 30B01 32A, SIDDOW COMMON, PENNINGTON LEIGH, WN7 3EN Male 35Y BROKEN NOSE FOR MONTHS GRD 366235 399647<NUL><NUL>
