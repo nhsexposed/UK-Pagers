@@ -1,3 +1,29 @@
+POCSAG2400: Address:  280158  Function: 0  Alpha:   <y
+POCSAG2400: Address:  777142  Function: 0 
+POCSAG2400: Address: 1875568  Function: 1 
+POCSAG2400: Address: 2046056  Function: 1 
+POCSAG2400: Address: 1248862  Function: 2 
+POCSAG2400: Address:  657549  Function: 3 
+POCSAG2400: Address: 1355029  Function: 2 
+POCSAG2400: Address:  563772  Function: 1 
+POCSAG2400: Address: 1450164  Function: 1 
+POCSAG2400: Address:  709067  Function: 0  Alpha:   S 
+POCSAG2400: Address: 1994993  Function: 0  Alpha:   &<SI>f<ACK><SUB>l,u
+POCSAG2400: Address:  858422  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1958231121+++TIME=1958231121<NUL>
+POCSAG2400: Address: 1322785  Function: 2  Alpha:   19:58-33 NHSBT - DONOR REFERRAL. Please call HAYLEY on Direct Dial Number 01244 363072 Hospital COUNTESS OF CHESTER Dept ICU . Regards Donor Referral Line
+POCSAG2400: Address:  549995  Function: 0  Alpha:   v<ACK>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   19:57-61
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1031691  Function: 3  Alpha:   #<SO>
+POCSAG2400: Address: 1265423  Function: 2  Alpha:   O%
+POCSAG2400: Address:  271967  Function: 2 
+POCSAG2400: Address: 1512702  Function: 2  Alpha:   .<BEL>
+POCSAG2400: Address:  656637  Function: 0  Alpha:   gi
+POCSAG2400: Address: 1400500  Function: 1 
+POCSAG2400: Address: 1892539  Function: 1  Alpha:   <VT>-
+POCSAG2400: Address:  216263  Function: 2  Alpha:   19:56-73 PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1, <CR><LF>PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1<CR><LF>Service: SQL Services<CR><LF>Host: CISCMSLSQL04MC1<CR><LF>Alias: <CR><LF>Address: 10.0.41.9<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Date<NUL><NUL>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   19:55-84 107204<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953231121+++TIME=1953231121<NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   19:53-17 23/11/2021 19:49:32 INC 24710995 06E01 26 HELSBY GARDENS, ASTLEY BRIDGE BOLTON, BL1 8SG Female 79Y UNWELL DEHYDRATED? GRD 372012 411939<NUL>
 POCSAG1200: Address:  930510  Function: 2  Alpha:   19:53-95 23/11/2021 19:49:32 INC 24710995 06E01 26 HELSBY GARDENS, ASTLEY BRIDGE BOLTON, BL1 8SG Female 79Y UNWELL DEHYDRATED? GRD 372012 411939<NUL>
@@ -972,29 +998,3 @@ POCSAG1200: Address: 1207515  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT>
 POCSAG1200: Address:  367450  Function: 0  Alpha:   lh
 POCSAG1200: Address:  672787  Function: 3  Alpha:   l,,M<FF>
 POCSAG1200: Address:  268050  Function: 2 
-POCSAG1200: Address: 1232272  Function: 1  Alpha:   NG STBoI
-POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
-POCSAG2400: Address:   28869  Function: 0  Alpha:   17:46-55 PLS CALL A&E 26040<NUL>
-POCSAG2400: Address: 1044842  Function: 2  Alpha:   17:46-39 4441<NUL>
-POCSAG1200: Address: 1765451  Function: 2  Alpha:   17:46-54 PLS CALL 0800 328 4432
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:46-00 3508<NUL>
-POCSAG2400: Address: 1323090  Function: 2  Alpha:   17:44-75 PLEASE CALL 2251
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:44-06 4462<NUL>
-POCSAG2400: Address: 1329666  Function: 2  Alpha:   <ESC><DC3><ESC><VT><VT><DC3><VT><ETX>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1743231121+++TIME
-POCSAG2400: Address:  772072  Function: 0 
-POCSAG2400: Address:  445855  Function: 2  Alpha:   O%
-POCSAG2400: Address:  567935  Function: 0 
-POCSAG2400: Address: 1377508  Function: 2  Alpha:   7<GS>
-POCSAG2400: Address: 1349435  Function: 1 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   17:42-91 23/11/2021 17:40:29 INC 24710416 29D02L JUNCTION OF RAINOW ROAD, CLIFF HOUSE, CLIFF LANE, HIGHER HURDSFIELD MACCLESFIELD SK10, SK10 2PE Male 45Y KNOCKED OFF BICYCLE (PUSH BIKE) GRD 393387 374664<NUL><NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   17:41-31 5204<NUL>
-POCSAG1200: Address:  850414  Function: 0  Alpha:   IN
-POCSAG1200: Address: 1815268  Function: 1 
-POCSAG1200: Address:  495450  Function: 0 
-POCSAG1200: Address:  572025  Function: 0 
-POCSAG1200: Address:  678432  Function: 3 
-POCSAG1200: Address: 1619303  Function: 0  Alpha:   g<DC2>
-POCSAG1200: Address:   84326  Function: 2  Alpha:    R
-POCSAG1200: Address: 1205773  Function: 3  Alpha:   <DLE>3
-POCSAG1200: Address:  371741  Function: 1 
