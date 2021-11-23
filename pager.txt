@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1881156  Function: 0 
+POCSAG1200: Address: 1901067  Function: 1  Alpha:   LE
+POCSAG1200: Address:  333938  Function: 0  Alpha:   N,
+POCSAG1200: Address:  657746  Function: 1 
+POCSAG1200: Address: 1094225  Function: 0  Alpha:   <SYN>N
+POCSAG1200: Address: 1626440  Function: 1  Alpha:    E
+POCSAG1200: Address: 1255215  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1738231121+++TIME=1738231121<NUL>
+POCSAG1200: Address: 1682183  Function: 1  Alpha:   ljDg<DC2>451
+POCSAG1200: Address:  214702  Function: 2 
+POCSAG1200: Address:  936981  Function: 2  Alpha:   [<ESC>
+POCSAG1200: Address: 1039413  Function: 2 
+POCSAG1200: Address: 1058854  Function: 3  Alpha:   <FF><DC4>M<EOT>:lLt<iB<VT>A<RS>
+POCSAG1200: Address: 2043501  Function: 2 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:37-99 2182<NUL>
+POCSAG1200: Address:  549200  Function: 2  Alpha:   17:37-24 FOR INFO 2111009038  ADD: REAT CLIFTON WASTE WATER TREATMENT WORKS RIVERSIDE GREAT CLIFTON CA141TF  INC TYPE: VEHICLE FIRE  TG: OPS05  FOR INFO ONLY AS: NEAREST SM<NUL><NUL>
+POCSAG1200: Address:  696528  Function: 2  Alpha:   17:37-85 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address: 1365696  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   17:35-88 4179<NUL>
+POCSAG1200: Address:  350426  Function: 0  Alpha:   17:35-12 TEST TEST<NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:34-38 4155<NUL>
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   17:34-53 INC ALERT No: 16815955 - 111 ASKING FOR ETA, AT: 16 BAZLEY SQUARE, EXETER, EX1 3QP, Time of Call: 23/11/2021 17:32:52, Co-ords: 50.7349477 -3.4709451<NUL>
+POCSAG2400: Address: 1594968  Function: 2  Alpha:   17:34-98 INC ALERT No: 16815955 - 111 ASKING FOR ETA, AT: 16 BAZLEY SQUARE, EXETER, EX1 3QP, Time of Call: 23/11/2021 17:32:52, Co-ords: 50.7349477 -3.4709451<NUL>
 POCSAG1200: Address:  618261  Function: 3  Alpha:   eB
 POCSAG1200: Address:  906480  Function: 3  Alpha:   s,
 POCSAG1200: Address: 1092762  Function: 2  Alpha:   17:33-19 23/11/2021 17:31
@@ -974,27 +998,3 @@ POCSAG1200: Address:  362443  Function: 1
 POCSAG1200: Address:  428370  Function: 0 
 POCSAG1200: Address:  534066  Function: 2 
 POCSAG1200: Address:  311664  Function: 1  Alpha:   DS AN
-POCSAG1200: Address: 1389576  Function: 0 
-POCSAG1200: Address:  198095  Function: 1  Alpha:   O%
-POCSAG1200: Address:  633887  Function: 2 
-POCSAG1200: Address: 1880670  Function: 1  Alpha:   <SYN>2
-POCSAG1200: Address: 1233357  Function: 1  Alpha:   PO
-POCSAG1200: Address:  174820  Function: 2 
-POCSAG1200: Address: 1874540  Function: 1 
-POCSAG1200: Address: 1068138  Function: 1 
-POCSAG1200: Address:  630914  Function: 3 
-POCSAG1200: Address:  193121  Function: 2  Alpha:   <CAN><CAN>
-POCSAG1200: Address: 1088055  Function: 0  Alpha:   O%h^>.<DC2>2
-POCSAG1200: Address: 2040903  Function: 1 
-POCSAG1200: Address:   68086  Function: 1  Alpha:   PW
-POCSAG1200: Address:   74349  Function: 1 
-POCSAG1200: Address:  301005  Function: 2 
-POCSAG1200: Address: 1477204  Function: 0 
-POCSAG1200: Address:  859300  Function: 3 
-POCSAG1200: Address: 1521731  Function: 3 
-POCSAG1200: Address: 1304233  Function: 2  Alpha:   4<DC1>
-POCSAG1200: Address:  280609  Function: 1 
-POCSAG1200: Address:  858680  Function: 1 
-POCSAG1200: Address: 1280135  Function: 2  Alpha:   O%(1 
-POCSAG1200: Address: 1245711  Function: 2 
-POCSAG1200: Address:  429342  Function: 0 
