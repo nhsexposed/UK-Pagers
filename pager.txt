@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:44-18 3298<NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   19:43-50 Please call ext 2408<NUL><NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:43-17 3298<NUL>
+POCSAG1200: Address:  209391  Function: 0 
+POCSAG1200: Address:  432776  Function: 2  Alpha:   19:42-22 23/11/2021 19:40:01 INC 24710951 29D02L ON CORNER OF CAVENDISH AVE AND, CAVENDISH ROAD, WITHINGTON MANCHESTER, M20 1Q%0Male 29Y COLLISION BIKE V MOTORBIKE GRD 383906 392576<NUL>
+POCSAG2400: Address: 1425567  Function: 2  Alpha:   3<HT>
+POCSAG2400: Address:   85661  Function: 0  Alpha:   r9<LF>P<SYN><SO>P 
+POCSAG2400: Address:  494613  Function: 3 
+POCSAG2400: Address: 1875132  Function: 0 
+POCSAG2400: Address: 1448044  Function: 2 
+POCSAG2400: Address: 1153891  Function: 2  Alpha:   lb
+POCSAG2400: Address:  267280  Function: 1  Alpha:   Y(
+POCSAG2400: Address: 1349432  Function: 1 
+POCSAG2400: Address:  369503  Function: 1  Alpha:   h`@g<DC2>
+POCSAG2400: Address:  801140  Function: 3 
+POCSAG2400: Address: 1204972  Function: 2 
+POCSAG2400: Address: 1155962  Function: 1  Alpha:   d`db@
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  367538  Function: 2  Alpha:   -N,<SO>h
+POCSAG1200: Address:  338193  Function: 0 
+POCSAG1200: Address: 1454160  Function: 0  Alpha:   <SYN><STX>
 POCSAG1200: Address: 1522021  Function: 2 
 POCSAG1200: Address:  669279  Function: 1 
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   19:39-29 23/11/2021 19:37:49 INC 24710947 23D01I TH
@@ -977,24 +998,3 @@ POCSAG2400: Address: 1323899  Function: 2  Alpha:   17:34-67 4167<NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   17:34-14 4179<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1733231121+++TIME=1733231121<NUL>
 POCSAG1200: Address:  779784  Function: 0 
-POCSAG1200: Address: 1329191  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   17:33-50 23/11/2021 17:31:35 INC 24710396 29D02L JUNCTION OF HOWARD ST STOTT ST AND WHITWOR
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   17:33-87 23/11/2021 17:31:35 INC 24710396 29D02L JUNCTION OF HOWARD ST STOTT ST AND WHITWORTH ROAD, HOWARD STREET, ROCHDALE, OL12 0PP Male 19Y RTC VEHICLE V MOTORBIKE GRD 389468 413902<NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   17:33-61 23/11/2021 17:31:35 INC 24710396 JUNCTION OF HOWARD ST STOTT ST AND WHITWORTH ROAD, HOWARD STREET, ROCHDALE, OL12 0PP Male 19Y RTC VEHICLE V MOTORBIKE GRD 389468 413902
-POCSAG2400: Address: 1323090  Function: 2  Alpha:   17:33-74 TEST<NUL>
-POCSAG1200: Address: 1032750  Function: 3  Alpha:   !<STX>
-POCSAG1200: Address:  105859  Function: 2  Alpha:   17:33-83 23/11/2021 17:31:20 INC 24710395 29D03 B6221 B6219 PARSONAGE STREET, FREE TOWN BURY, BL9 7BP Female 22Y rtc - pregnant female in pain lay on floor GRD 381395 410960<NUL>
-POCSAG1200: Address: 1014680  Function: 2  Alpha:   <BS>$Fv<SYN><ACK>6<SYN>W<ACK>$<SYN>G<BS>6<ACK>$h&&<SYN><ACK>$h&<SYN><SYN><BEL><EOT><SUB>(:zi<EM>xX<BS>4J*ZXHJ<ENQ>d(ZX<BS>Dzyj<HT>$X*<SUB>K<ENQ>$H<EM><BEL>t&<BS><LF>dX\<GS>L]<FF>$&<SYN><VT>$N><FF>T<ENQ><EOT>.^|l<GS>lM<SO>d\\<GS>L]<FF><DC4>m<CR><EOT><RS><FS>m<CR>D<GS><FS><SI>tm<CR>dL}}-<SO>t(J<BS>4<ACK><ETB>6<SYN>W<ACK>D<SYN><ACK><SYN>g<ACK><ACK>
-POCSAG1200: Address:  367537  Function: 0 
-POCSAG1200: Address:  338192  Function: 3 
-POCSAG1200: Address:  856152  Function: 0 
-POCSAG1200: Address: 1652815  Function: 2  Alpha:   g<DC2>
-POCSAG1200: Address:  878735  Function: 3 
-POCSAG1200: Address: 1762566  Function: 1 
-POCSAG1200: Address: 1377666  Function: 3  Alpha:    g
-POCSAG1200: Address: 1147330  Function: 2 
-POCSAG1200: Address:  727352  Function: 0 
-POCSAG1200: Address: 1355864  Function: 1 
-POCSAG1200: Address: 1243527  Function: 1  Alpha:   D tg<DC2>
-POCSAG1200: Address: 1481230  Function: 0 
-POCSAG1200: Address: 1463156  Function: 2  Alpha:   @p<LF><VT>A<SUB>CYKAh
