@@ -1,3 +1,14 @@
+POCSAG1200: Address:  837419  Function: 0  Alpha:   <SI>f
+POCSAG2400: Address:  825907  Function: 1 
+POCSAG2400: Address: 1823330  Function: 0 
+POCSAG2400: Address: 1226472  Function: 3 
+POCSAG2400: Address: 1535647  Function: 1  Alpha:   O%
+POCSAG2400: Address: 1752230  Function: 2  Alpha:   <STX>"
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2203231121+++TIME=2203231121<NUL>
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   22:02-89 23/11/2021 22:00:41 INC 24711517 23B01I PETERS COURT - FLAT 3, 66 PETER STREET, BLACKT_OM, FY1 3NL Female 23Y TAKEN 32 IBUPROFEN TABLETS 500MG EACH GRD 331495 436490
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  678665  Function: 2  Alpha:   22:01-42 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:  160078  Function: 0  Alpha:   21:59-78 4155<NUL>
 POCSAG1200: Address:  268472  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2158231121+++TIME=2158231121<NUL>
 POCSAG2400: Address: 1594968  Function: 2  Alpha:   21:58-00 INC ALERT No: 16816820 Burns (Scalds)/Explosion - BOILING WATER OVER LEG - SKIN CAME AWAY, AT: 1 OKEFIELD AVENUE, CREDITON, EX17 2DJ, Time of Call: 23/11/2021 21:53:28, Co-ords: 50.7946711 -3.6606177
@@ -987,14 +998,3 @@ POCSAG2400: Address:     296  Function: 1  Alpha:   <ENQ><NUL>E'(
 POCSAG2400: Address:  918821  Function: 3  Alpha:   6<ETX>
 POCSAG2400: Address: 1585634  Function: 1  Alpha:   <ACK>g
 POCSAG2400: Address:  945017  Function: 2  Alpha:   EkZA0
-POCSAG2400: Address:  140086  Function: 1  Alpha:   06
-POCSAG2400: Address:  416481  Function: 3  Alpha:   <,
-POCSAG2400: Address: 1814759  Function: 2 
-POCSAG2400: Address: 1351848  Function: 1 
-POCSAG2400: Address:  150130  Function: 2  Alpha:   c<EOT><US>*)
-POCSAG2400: Address: 1279534  Function: 1 
-POCSAG2400: Address:  692711  Function: 2  Alpha:   <STX><STX>
-POCSAG2400: Address: 1800995  Function: 3 
-POCSAG2400: Address: 1192979  Function: 3 
-POCSAG2400: Address: 1586792  Function: 1 
-POCSAG2400: Address: 1477104  Function: 2  Alpha:   (z
