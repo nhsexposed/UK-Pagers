@@ -1,3 +1,12 @@
+POCSAG2400: Address:  583600  Function: 2  Alpha:   06:29-60 71157
+POCSAG1200: Address:  618883  Function: 2  Alpha:   06:29-61 Daily Test Message<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0628231121+++TIME=0628231121<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   06:28-89 2304<NUL>
+POCSAG1200: Address: 1323869  Function: 2  Alpha:   06:27-85 Resource"nomment received for Incident 2111008777;  TO MDT - POL ARE ON SCENE<NUL><NUL>
+POCSAG1200: Address: 1323823  Function: 2  Alpha:   06:27-91 Resource comment received for Incident 2111008777;  TO MDT - POL ARE ON SCENE<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   06:25-86 2304<NUL>
+POCSAG2400: Address: 1022653  Function: 0  Alpha:   06:24-58 PLEASE CALL EXT 4443 <NUL>
 POCSAG1200: Address: 1568216  Function: 1  Alpha:   <SO><BS>4X|:Z{<DC1><ETB>q<HT><SO>(
 POCSAG1200: Address:  111366  Function: 1  Alpha:   <BS>KwiSuY<EOT>eat
 POCSAG1200: Address: 1058581  Function: 2 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1520714  Function: 3
 POCSAG1200: Address: 1140935  Function: 0 
 POCSAG1200: Address: 1675398  Function: 3  Alpha:   b<DC2>
 POCSAG1200: Address:  197197  Function: 3 
-POCSAG1200: Address:  266852  Function: 1  Alpha:   v<ACK>V<SYN>F
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  622597  Function: 0 
-POCSAG1200: Address: 1779277  Function: 3 
-POCSAG1200: Address:  183612  Function: 1 
-POCSAG1200: Address: 1749099  Function: 0  Alpha:   <SYN>W
-POCSAG1200: Address: 1072210  Function: 0  Alpha:   <DC2><STX>
-POCSAG1200: Address:  193233  Function: 3  Alpha:   ")Bgi
-POCSAG1200: Address:  907880  Function: 0 
