@@ -1,3 +1,12 @@
+POCSAG1200: Address:   40074  Function: 2  Alpha:   03:59-15 23/11/2021 03:49:17 INC 24707616 06E01A 21 VERNON CLOSE, CHEADLE HULME CHEADLE, SK8 6AN Female 62Y DIB GRD 386386 386119<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   03:59-01 23/11/2021 03:49:17 INC 24707616 06E01A 21 VERNON CLOSE, CHEADLE HULME CHEADLE, SK8 6AN Female 62Y DIB GRD 386386 386119<NUL><NUL>
+POCSAG1200: Address: 1032926  Function: 3  Alpha:   6<DLE>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358231121+++TIME=0358231121<NUL>
+POCSAG1200: Address:  209785  Function: 2  Alpha:   03:58-02 23/11/2021 03:55:45 INC 24707630 12C05E 20 NOBLE STREET, GREAT HARWOOD, BB6 7DT Male 35Y PT HAD A SEIZURE GRD 373243 431934<NUL><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   03:57-63 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   03:57-41 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   03:55-21 2343<NUL>
 POCSAG1200: Address: 1817112  Function: 2  Alpha:   03:54-25 Destination: D105 SSC In\105, Booking Ref#: 802046, Vehicle: WU67WZR. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG1200: Address:  345722  Function: 0  Alpha:   03:54-87 PLEASE  CALL 82281<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:53-80 3105<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  646500  Function: 2  Alpha:   zz:59-44 22/11/2021 22:58:01
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2258221121+++TIME=2258221121<NUL>
 POCSAG1200: Address: 1565272  Function: 2  Alpha:   22:58-56 22/11/2021 22:55:40 INC 24706917 23B01I 29 TILLAGE CLOSE, WALMER BRIDGE PRESTON, PR4 5BZ Male 44Y TAKEN OVERDOSE OF PROPANALOL GRD 347821 423836<NUL>
 POCSAG1200: Address:  209785  Function: 2  Alpha:   22:57-95 22/11/2021 22:54:29 INC 24706913 12D02 117 PASTURELANDS DRIVE, BILLINGTON NR WHALLEY, BB7 9LJ Male 88Y 88M, WONT RELAX, FITS GRD 372002 435350
-POCSAG1200: Address: 1039270  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:57-01 4935<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:57-97 please call jintu, twining ward x36393<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/04/2002 CH3B<NUL><NUL>
-POCSAG512: Address:  267813  Function: 0 
-POCSAG2400: Address:  216272  Function: 2  Alpha:   22:57-32 RECOVERY: NxLog Service is OK on host NITPENLVDA01MC1, <CR><LF>RECOVERY: NxLog Service is OK on host NITPENLVDA01MC1<CR><LF>Service: NxLog Service<CR><LF>Host: NITPENLVDA01MC1<CR><LF>Alias:h-<HT>Address: 10.0.72.99<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>Date & Time: Mon<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   22:56-40 2183<NUL>
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   22:55-53 33723
-POCSAG2400: Address:   28895  Function: 0  Alpha:   22:54-57 2183<NUL>
