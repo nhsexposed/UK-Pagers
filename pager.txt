@@ -1,3 +1,23 @@
+POCSAG2400: Address: 1321328  Function: 2  Alpha:   18:14-83 Please call Cardiac Lab 37980<NUL>
+POCSAG2400: Address:   11693  Function: 0  Alpha:   18:14-42 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  585270  Function: 2  Alpha:   18:13-90 TEST MESSAGE<NUL>
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX>*
+POCSAG2400: Address:  295505  Function: 0 
+POCSAG1200: Address:  585270  Function: 2  Alpha:   18:13-89 TEST<NUL>
+POCSAG1200: Address: 1686274  Function: 1  Alpha:   jd\@h
+POCSAG1200: Address: 1216769  Function: 1 
+POCSAG1200: Address:  853441  Function: 1 
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   18:12-68 2343<NUL>
+POCSAG2400: Address: 1781855  Function: 1 
+POCSAG2400: Address: 1103889  Function: 0 
+POCSAG2400: Address: 1914507  Function: 3 
+POCSAG2400: Address: 1351826  Function: 0  Alpha:   ><ACK>
+POCSAG1200: Address:   80184  Function: 2  Alpha:   8&
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   11696  Function: 0  Alpha:   18:11-91 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  197476  Function: 3  Alpha:   <DLE>N<FF><EM>& 0f
+POCSAG1200: Address:  659498  Function: 2 
+POCSAG1200: Address: 1560771  Function: 3  Alpha:   eF
 POCSAG2400: Address:   28894  Function: 0  Alpha:   18:09-72 4167<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1808231121+++TIME=1808231121<NUL>
 POCSAG2400: Address:   28895  Function: 0  Alpha:   18:08-68 5128<NUL>
@@ -978,23 +998,3 @@ POCSAG1200: Address:  382476  Function: 0
 POCSAG1200: Address:  182865  Function: 2 
 POCSAG1200: Address:  210377  Function: 1 
 POCSAG1200: Address:  510544  Function: 2 
-POCSAG1200: Address:  895111  Function: 2  Alpha:   b@bg<DC2>40 
-POCSAG1200: Address:  412702  Function: 0  Alpha:   <SUB><DLE>
-POCSAG1200: Address:  266853  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349436  Function: 1 
-POCSAG1200: Address:  370475  Function: 3  Alpha:   dh
-POCSAG1200: Address:  548039  Function: 2  Alpha:   16:51-48 23/11/2021 16
-POCSAG1200: Address:  334075  Function: 2  Alpha:   16:50-67 23/11/2021 16:49:24 INC 24710205 06E01 10 CORBYN STREET, SEACOMBE WALLASEY CH44, CH44 7BS Male 29Y SEVERE BREATHLESSNESS, GASPING FOR AIR GRD 332281 390480<NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   16:50-14 23/11/2021 16:49:24 INC 24710205 06E01 10 CORBYN STREET, SEACOMBE WALLASEY CH44, CH44 7BS Male 29Y SEVERE BREATHLESSNESS, GASPING FOR AIR GRD 332281 390480<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F<LF>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   16:50-71 23/11/2021 16:48:39 INC 24710203 06E01 7 LANGDALE GARDENS, BLACKPOOL, FY4 4RY Female 2Y TEMP GRD 333782 434189
-POCSAG1200: Address:  433829  Function: 2  Alpha:   16:50-32 4578<NUL>
-POCSAG2400: Address: 1913961  Function: 2  Alpha:   16:50-22 3139<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:50-56 3198<NUL>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   16:50-31 23/11/2021 16:41:40 INC 24710174 23D02I O/S, CASH CONVERTERS LTD, 84-86 CHURCH STREET, ECCLES MANCHESTER, M30 0DA Female 50Y FALLEN AN HIT HEAD GRD 377788 398552<NUL>
-POCSAG1200: Address:  198447  Function: 1 
-POCSAG1200: Address: 1364014  Function: 3 
-POCSAG1200: Address:  429532  Function: 1 
-POCSAG2400: Address: 1913707  Function: 2  Alpha:   16:49-65 3508<NUL>
-POCSAG1200: Address: 1911034  Function: 1  Alpha:   __
-POCSAG1200: Address: 1560394  Function: 3 
