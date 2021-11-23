@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1568216  Function: 1  Alpha:   <SO><BS>4X|:Z{<DC1><ETB>q<HT><SO>(
+POCSAG1200: Address:  111366  Function: 1  Alpha:   <BS>KwiSuY<EOT>eat
+POCSAG1200: Address: 1058581  Function: 2 
+POCSAG1200: Address: 1380619  Function: 2  Alpha:   <SYN><SUB>R<STX>=:<STX>Q"<SYN><STX><DC1>><SO>.N&<DC2><SYN>2<SOH>9><STX>Y&NV<ACK>2<STX>=:<STX>5<ACK>2<SYN><STX>
+POCSAG1200: Address: 1323869  Function: 2  Alpha:   06:24-84 Resource comment received for Incident 2111008777; 06W MDTS - MALE IS APPROXIMATELY 25 YEARS OLD, CLOTHES HAVE BE
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0623231121+++TIME=0623231121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0623231121+++TIME=0623231121<NUL>
+POCSAG1200: Address:  548014  Function: 2  Alpha:   06:23-78 Destination: D105 SSC In\116, Booking Ref#: 801437, Vehicle: DD58DXD. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1528616  Function: 2 
+POCSAG1200: Address: 1210232  Function: 3 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   06:21-13 23/11/2021 06:20:05 INC 24707828 31E01 12 LINDEN ROAD, BOOTHSTOWN MANCHESTER, M28 1NW Female 78Y COLLAPSED - FAINTED GRD 371734 400824<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   06:21-88 23/11/2021 06:20:05 INC 24707828 31E01 12 LINDEN ROAD, BOOTHSTOWN MANCHESTER, M28 1NW Female 78Y COLLAPSED - FAINTED GRD 371734 400824<NUL><NUL>
+POCSAG2400: Address:  149253  Function: 2  Alpha:   06:20-98 PLEASE CALL 01227 750 505 RE PAIN RELIEF FOR MUM <NUL><NUL>
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   06:20-34 PLEASE CALL 01227 750 505 RE PAIN RELIEF FOR MUM <NUL><NUL>
+POCSAG1200: Address:   33723  Function: 2  Alpha:   06:20-40 06:20-39 PLEASE CALL 01227 750 505 RE PAIN RELIEF FOR MUM <NUL>
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   06:20-78 PLEASE CALL 01227 750 505 RE PAIN RELIEF FOR MUM <NUL><NUL>
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   06:20-83 PLEASE CALL 01227 750 505 RE PAIN RELIEF FOR MUM <NUL><NUL>
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   06:19-08 01227 761 813 PILGRIMS HOSPICE
+POCSAG1200: Address:   33723  Function: 2  Alpha:   06:19-38 06:19-37 01227 761 813 PILGRIMS HOSPICE
+POCSAG2400: Address:  149253  Function: 2  Alpha:   06:19-97 01227 761 813 PILGRIMS HOSPICE
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   06:19-77 01227 761 813 PILGRIMS HOSPICE
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   06:19-82 01227 761 813 PILGRIMS HOSPICE
+POCSAG1200: Address: 1313124  Function: 2  Alpha:   06:19-86 01227 761 813 PILGRIMS HOSPICE
 POCSAG2400: Address:   28869  Function: 0  Alpha:   06:17-48 REFERRING A PATIENT ON EXT 27552 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   06:16-37 4157<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address: 1749099  Function: 0  Alpha:   <SYN>W
 POCSAG1200: Address: 1072210  Function: 0  Alpha:   <DC2><STX>
 POCSAG1200: Address:  193233  Function: 3  Alpha:   ")Bgi
 POCSAG1200: Address:  907880  Function: 0 
-POCSAG1200: Address: 1947751  Function: 3  Alpha:   O%(<ETB><ETX>
-POCSAG1200: Address: 1068143  Function: 1 
-POCSAG1200: Address:  792789  Function: 1 
-POCSAG1200: Address:  764956  Function: 0 
-POCSAG1200: Address:  760996  Function: 1 
-POCSAG1200: Address: 1713771  Function: 0 
-POCSAG1200: Address:  362121  Function: 1  Alpha:   <DC3>U<DC4><DC1>h<EOT><NAK><BS>
-POCSAG1200: Address: 1057464  Function: 2  Alpha:   <u
-POCSAG1200: Address: 1520712  Function: 3 
-POCSAG1200: Address:  853030  Function: 2  Alpha:   $&<ACK><DLE>f`3<HT>
-POCSAG1200: Address:  724893  Function: 3  Alpha:   JY
-POCSAG1200: Address: 1140933  Function: 0 
-POCSAG1200: Address: 1675396  Function: 3  Alpha:   b<DC2>
-POCSAG1200: Address:  197195  Function: 3 
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<ACK>V<SYN>F
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address:  198232  Function: 3 
-POCSAG1200: Address: 1207518  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>
-POCSAG1200: Address: 1155933  Function: 1  Alpha:   `h
-POCSAG1200: Address:  657455  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1521774  Function: 0 
-POCSAG1200: Address: 1270843  Function: 1 
-POCSAG1200: Address: 1522050  Function: 0 
-POCSAG1200: Address:  191265  Function: 3  Alpha:   c <BEL><SYN>P
