@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1818231121+++TIME=1818231121<NUL>
+POCSAG1200: Address:  679608  Function: 2  Alpha:   18:18-18 69001
+POCSAG1200: Address:  649969  Function: 2  Alpha:   18:18-33 69001
+POCSAG2400: Address: 1008256  Function: 2  Alpha:   18:17-29 8013 IP1 please<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:17-70 5128<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:17-64 5201<NUL>
+POCSAG1200: Address: 1323869  Function: 2  Alpha:   18:17-90 Stop Message received for Incident 2111009061;  [STOP] 23/11/21 18:17:18 STOP MESSAGE RECEIVED FROM E09P1 (OIC 20343 IN E09P2)<NUL><NUL>
+POCSAG1200: Address: 1133458  Function: 3 
+POCSAG1200: Address:  733081  Function: 0  Alpha:   z<BS>
+POCSAG1200: Address:  312989  Function: 2 
+POCSAG1200: Address: 1559121  Function: 1  Alpha:   <LF>4
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG2400: Address:  585583  Function: 2  Alpha:   18:16-61 please call Stella Bowcock on 07778878830<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:  313744  Function: 3 
+POCSAG2400: Address:  695686  Function: 0  Alpha:    <EM>7A<ACK>cY<EOT>
+POCSAG2400: Address: 1157982  Function: 0 
+POCSAG2400: Address:   57733  Function: 0  Alpha:   <CAN><FS>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:15-63 3157<NUL>
+POCSAG2400: Address:  232459  Function: 0 
+POCSAG2400: Address:  988721  Function: 0  Alpha:   %<ESC>
+POCSAG2400: Address:  929307  Function: 2  Alpha:   <CAN><FS>
+POCSAG2400: Address:  629298  Function: 2  Alpha:   T<ETX>
 POCSAG2400: Address: 1321328  Function: 2  Alpha:   18:14-83 Please call Cardiac Lab 37980<NUL>
 POCSAG2400: Address:   11693  Function: 0  Alpha:   18:14-42 FIRE CALL<NUL><NUL>
 POCSAG1200: Address:  585270  Function: 2  Alpha:   18:13-90 TEST MESSAGE<NUL>
@@ -975,26 +998,3 @@ POCSAG1200: Address: 1311902  Function: 0  Alpha:   H,C"<DLE><EM>Y<y|\<SO><BS><F
 POCSAG1200: Address:  901672  Function: 3 
 POCSAG1200: Address: 1817107  Function: 2  Alpha:   16:54-75 (2/3) MOBILISING AS HOST L2; Assigned: JY17P2, JY17P1, JY18P1, JCS086, JYG143, JYG006, JYG115; Talkgrp  FBER-OPS05 (42*) (DGNA);
 POCSAG1200: Address: 1092709  Function: 2  Alpha:   16:53-20 23/11/2021 16:51:57 INC 24710215 06D02 6 HALE GROVE, CHORLEY, PR7 3SD Male 54Y COVID POSITIVE - SEVERE ASTHMA - STRUGG BREATHING- O2 82% GRD 357621 415121<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653231121+++TIME=1653231121<NUL>
-POCSAG1200: Address:  221452  Function: 2  Alpha:   16:53-08 test<NUL>
-POCSAG1200: Address:  880453  Function: 2  Alpha:   16:53-35 test<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653231121+++TIME=1653231121<NUL>
-POCSAG1200: Address: 2007856  Function: 1 
-POCSAG1200: Address:  216379  Function: 2  Alpha:   16:53-76 (1/2)030240-23112021; M3.0.0.P MOBILISING - STANDBY; JY19 Maidenhead,BRIDGE ROAD; 489266,181507; Please standby at JY19 - Maidenhead; Assigned: JY02P1
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   16:52-97 4183<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:    6644  Function: 3  Alpha:   a4E6EA$<SOH>GnQ
-POCSAG1200: Address: 1562667  Function: 2  Alpha:   16:51-39 33458
-POCSAG2400: Address:   28902  Function: 0  Alpha:   16:51-13 3117<NUL>
-POCSAG1200: Address:  166132  Function: 1 
-POCSAG1200: Address:  196612  Function: 2 
-POCSAG1200: Address:  404539  Function: 0 
-POCSAG1200: Address:  367219  Function: 3 
-POCSAG1200: Address:  793766  Function: 2 
-POCSAG1200: Address: 1261758  Function: 3 
-POCSAG1200: Address: 1059879  Function: 1  Alpha:   $#cg<DC2>
-POCSAG1200: Address: 1230222  Function: 2 
-POCSAG1200: Address:  382476  Function: 0 
-POCSAG1200: Address:  182865  Function: 2 
-POCSAG1200: Address:  210377  Function: 1 
-POCSAG1200: Address:  510544  Function: 2 
