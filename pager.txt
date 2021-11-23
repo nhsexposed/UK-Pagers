@@ -1,3 +1,17 @@
+POCSAG1200: Address: 1817112  Function: 2  Alpha:   03:54-25 Destination: D105 SSC In\105, Booking Ref#: 802046, Vehicle: WU67WZR. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  345722  Function: 0  Alpha:   03:54-87 PLEASE  CALL 82281<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:53-80 3105<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353231121+++TIME=0353231121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353231121+++TIME=0353231121<NUL>
+POCSAG1200: Address:  549367  Function: 2  Alpha:   03:53-96 Stop Message received for Incident 2111008759;  [STOP] 23/11/21 03:53:17 STOP MESSAGE RECEIVED FROM G51P1 (OIC 31218 IN G51P1)<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913974  Function: 2  Alpha:   03:52-21 4316<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG512: Address:  640251  Function: 2  Alpha:   03:52-63 33936
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   03:51-20 1249<NUL>
+POCSAG1200: Address: 2009046  Function: 2  Alpha:   03:51-61 2264226<NUL>
+POCSAG1200: Address: 1032926  Function: 3  Alpha:   6<DLE>
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   03:49-53 23/11/2021 03:48:28 INC 24707614 10D02 37 OLD WORDEN AVENUE, BUCKSHAW VILLAGE CHORLEY, PR7 7DG Female 71Y CHEST PAIN GRD 356969 420856<NUL><NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   03:49-26 23/11/2021 03:46:40 INC 24707609 04A02A 20 KIRKBY ROW, WESTVALE KIRKBY L32, L32 0SW Female 41Y F ASSAULTED BY PARTNER GRD 340288 399107<NUL>
 POCSAG1200: Address:  674014  Function: 2  Alpha:   9;<CAN>;<EM><BS>-,<SYN>H<DC1>(pt40<NAK><DC3>5<DC1><DC1>H0<SYN><BS>4P<DC4>U3Q<DC4>hQ<DC4><DC1>h<FF><CR>L<FF><SO><SO>h,..<FF>l<CR><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0348231121+++TIME=0348231121<NUL>
@@ -984,17 +998,3 @@ POCSAG2400: Address:  216272  Function: 2  Alpha:   22:57-32 RECOVERY: NxLog Ser
 POCSAG2400: Address:   28896  Function: 0  Alpha:   22:56-40 2183<NUL>
 POCSAG1200: Address: 1258970  Function: 2  Alpha:   22:55-53 33723
 POCSAG2400: Address:   28895  Function: 0  Alpha:   22:54-57 2183<NUL>
-POCSAG2400: Address:   11705  Function: 0  Alpha:   22:55-92 PLEASE CALL 8152 <NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   22:55-50 22/11/2021 22:53:39 INC 24706911 09E01 80 PRINCES ROAD, TOXTETH L8, L8 8AD Male 35Y MALE NOT BREATHING GRD 336173 388852<NUL><NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   22:55-07 22/11/2021 22:53:39 INC 24706911 09E01 80 PRINCES ROAD, TOXTETH L8, L8 8AD Male 35Y MALE NOT BREATHING GRD 336173 388852<NUL><NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   22:55-57 22/11/2021 22:53:39 INC 24706911 09E01 80 PRINCES ROAD, TOXTETH L8, L8 8AD Male 35Y MALE NOT BREATHING GRD 336173 388852<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   22:54-48 RECOVERY: Opsview NSClient Windows Agent x64 Port is OK on host NITPENLVDA03MC1, <CR><LF>RECOVERY: Opsview NSClient Windows Agent x64 Port is OK on host NITPENLVDA03MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: NITPENLVDA03MC1<CR><LF>Ali<NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   22:54-78 RECOVERY: Opsview NSClient Windows Agent x64 Port is OK on host NITPENLVDA03MC1, <CR><LF>RECOVERY: Opsview NSClient Windows Agent x64 Port is OK on host NITPENLVDA03MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: NITPENLVDA03MC1<CR><LF>Ali<NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   22:54-31 RECOVERY: Opsview NSClient Windows Agent x64 Port is OK on host NITPENLVDA03MC1, <CR><LF>RECOVERY: Opsview NSClient Windows Agent x64 Port is OK on host NITPENLVDA03MC1<CR><LF>Service: Opsview NSClient Windows Agent x64 Port<CR><LF>Host: NITPENLVDA03MC1<CR><LF>Ali<NUL><NUL>
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   22:54-45 22/11/2021 22:52:24 INC 24706907 31D03 LINDSAY HOUSE REST HOME, PARBOLD HILL, PARBOLD WIGAN, WN8 7TG Female 85Y UNRESPONSIVE,VOMITED,FACIAL DROOP GRD 350115 410754<NUL><NUL>
-POCSAG1200: Address:  238773  Function: 2  Alpha:   22:54-47 MENTAL HEALTH 12HR BREACH ESCALATION PLEASE CALL 07919 114 008 BILL HUDSON <NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   22:54-12 PLS CALL EAU HORTON ON 29812
-POCSAG2400: Address:  216251  Function: 2  Alpha:   22:54-52 RECOVERY: Windows - Drive: C is OK on host NITPENLVDA01MC1, <CR><LF>RECOVERY: Windows - Drive: C is OK on host NITPENLVDA01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: NITPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.72.99<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>D<NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   22:54-30 RECOVERY: Windows - Drive: C is OK on host NITPENLVDA01MC1, <CR><LF>RECOVERY: Windows - Drive: C is OK on host NITPENLVDA01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: NITPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.72.99<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF>D<NUL><NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   22:53-14 4157<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2253221121+++TIME=2253221121<NUL>
