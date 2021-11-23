@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   18:23-08 INC ALERT No: 16816106 Falls - PT F FALLEN HIT HEAD, AT: LINDSAY MANOR - FLAT 5, 47 LINDSAY ROAD, BRANKSOME POOLE, BH13 6BE, Time of Call: 23/11/2021 18:20:22, Co-ords: 50.7239755 -1.909568<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1823231121+++TIME=1823231121<NUL>
+POCSAG2400: Address:  445158  Function: 3 
+POCSAG2400: Address:  660277  Function: 0 
+POCSAG2400: Address: 1271476  Function: 1 
+POCSAG2400: Address:  400571  Function: 1 
+POCSAG2400: Address:  865011  Function: 3 
+POCSAG2400: Address: 1474830  Function: 2 
+POCSAG2400: Address:  386108  Function: 1  Alpha:   \=<SUB>y<GS>
+POCSAG2400: Address:  957156  Function: 1 
+POCSAG2400: Address: 1554272  Function: 1 
+POCSAG2400: Address: 1582663  Function: 0  Alpha:   g<DC2>
+POCSAG2400: Address:  708532  Function: 2  Alpha:   }IZ-<SO><DC4>=<STX><SUB><DC4>M"M<FS>
+POCSAG2400: Address: 1818212  Function: 1 
+POCSAG2400: Address: 1704994  Function: 3  Alpha:   wzYrub2x
+POCSAG2400: Address: 1474829  Function: 2 
+POCSAG2400: Address:  193052  Function: 2  Alpha:   9<DEL><ESC>y<GS>
+POCSAG1200: Address:  428496  Function: 2  Alpha:   18:23-79 33886
+POCSAG1200: Address:  272183  Function: 3  Alpha:   <SO><BS>-<DLE><DC2>(3<CAN>;<EM>H<FF>,<SYN>h4Q5Q<DC4>3<SYN>(R<DC3>u<DC3>6r0<DLE>5<DC1><DC1>h<DC4>2p2Rs<DC1>(P<DC3><DC1>Hu33<DC2>5Rs<DC1>hQ<DC4><DC1>h<FF>Mll,<SO><BS><CR>l<CR><CR>n<CR><NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
+POCSAG2400: Address: 1795579  Function: 2  Alpha:   CE5<ETX><NUL>
+POCSAG2400: Address: 1647970  Function: 1 
+POCSAG2400: Address:  656084  Function: 0  Alpha:   <BS>r;}<9]\<FF><RS>m}<FF>4
+POCSAG1200: Address:  976840  Function: 2 
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   18:22-49 CALLER WAITING ON 69001<NUL><NUL>
+POCSAG512: Address:  295510  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1818231121+++TIME=1818231121<NUL>
 POCSAG1200: Address:  679608  Function: 2  Alpha:   18:18-18 69001
 POCSAG1200: Address:  649969  Function: 2  Alpha:   18:18-33 69001
@@ -972,29 +998,3 @@ POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:57-42 23/11/2021 16:56:04
 POCSAG2400: Address: 1913798  Function: 2  Alpha:   16:57-68 5056<NUL>
 POCSAG2400: Address: 1320373  Function: 2  Alpha:   16:57-78 4314<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  200808  Function: 2  Alpha:   16:57-57 CATHOLIC PRIEST ON CALL QEUH COME TO WARD 64 ROOM 5B FOR A ROUTINE BLESSING.
-POCSAG1200: Address: 1761383  Function: 3  Alpha:   <DC2>Cd1L
-POCSAG1200: Address: 1511970  Function: 3  Alpha:   F<SO>
-POCSAG1200: Address: 1484408  Function: 0 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:56-70 23/11/2021 16:53:44 INC 24710222 27D04S 1 SUNNERS GREEN CLOSE, ST HELENS, WA9 2RF Male UnknownY STABBED IN THE HEAD GRD 353530 394876
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:56-41 5066<NUL>
-POCSAG1200: Address: 1245742  Function: 2 
-POCSAG1200: Address:  367029  Function: 0  Alpha:   <FF>n
-POCSAG1200: Address:  338197  Function: 0 
-POCSAG1200: Address:  987228  Function: 2 
-POCSAG1200: Address: 1225308  Function: 2 
-POCSAG1200: Address:  557675  Function: 0  Alpha:   OM
-POCSAG1200: Address:  164578  Function: 3 
-POCSAG1200: Address:  511833  Function: 1  Alpha:   H9
-POCSAG1200: Address: 2047600  Function: 0  Alpha:   <SYN><STX>
-POCSAG1200: Address: 1143383  Function: 2  Alpha:    iLg<DC2><DC4><VT><BS>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   16:55-63 4411<NUL>
-POCSAG1200: Address: 1257014  Function: 2  Alpha:   16:55-55 Please call ext 0966<NUL><NUL>
-POCSAG1200: Address: 1303755  Function: 0  Alpha:   hQ<DC4><DC1>h,N<FF>n,<FF>h,<SO><FF><SO>m<CR><NUL><NUL>
-POCSAG1200: Address:  600697  Function: 0  Alpha:   16:55-66 STAFF ON SHIFT AT 83 WELLINGTON ROAD <NUL><NUL>
-POCSAG2400: Address: 1913798  Function: 2  Alpha:   16:55-67 5056<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   16:54-86 2441<NUL>
-POCSAG1200: Address: 1311902  Function: 0  Alpha:   H,C"<DLE><EM>Y<y|\<SO><BS><FS>y<CAN>\>[<ESC><GS><FF>LL<VT>\<Z]+~{<FS><x8YK;<EM>=Cb<DC4>=
-POCSAG1200: Address:  901672  Function: 3 
-POCSAG1200: Address: 1817107  Function: 2  Alpha:   16:54-75 (2/3) MOBILISING AS HOST L2; Assigned: JY17P2, JY17P1, JY18P1, JCS086, JYG143, JYG006, JYG115; Talkgrp  FBER-OPS05 (42*) (DGNA);
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   16:53-20 23/11/2021 16:51:57 INC 24710215 06D02 6 HALE GROVE, CHORLEY, PR7 3SD Male 54Y COVID POSITIVE - SEVERE ASTHMA - STRUGG BREATHING- O2 82% GRD 357621 415121<NUL><NUL>
