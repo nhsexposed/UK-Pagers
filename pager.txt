@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   14:53-77 5069<NUL>
+POCSAG2400: Address: 1913745  Function: 2  Alpha:   14:53-76 3507<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1453231121+++TIME=1453231121<NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   14:53-81 2168<NUL>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   14:53-10 6914<NUL>
+POCSAG2400: Address: 1913959  Function: 2  Alpha:   14:53-56 2018<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890x_9
+POCSAG2400: Address: 1323880  Function: 2  Alpha:   14:52-35 5460<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <DC1>-
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:50-79 3298<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:50-26 23/11/2021 14:48:18 INC 24709691 17B01G 8 WARBRECK ROAD, ORRELL PARK L9, L9 8EG Male 74Y FALL GRD 336187 39665
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   V0
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   14:49-95 5056<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   14:49-41 4179<NUL>
 POCSAG2400: Address: 1913958  Function: 2  Alpha:   14:49-15 2447<NUL>
 POCSAG2400: Address: 1913729  Function: 2  Alpha:   14:49-65 3255<NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address:  401693  Function: 2  Alpha:   12:45-37 PLS CALL EZRIEL PRU
 POCSAG1200: Address:  269168  Function: 2  Alpha:   12:45-98 23/11/2021 12:40:40 INC 24709112 02C02 O/S THE BEEHIVE, PREMIER INN, CHORLEY NEW ROAD, HORWICH BOLTON, BL6 4BA Male 23Y NUT ALLERGY, EATEN PEANUTS, GOING RED GRD 365520 409900<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:45-99 23/11/2021 12:39:53 INC 24709109 17D03P IN THE FIELD IN THE OVERGROWTH, DELAHAYS ROAD, ALTRINCHAM, WA15 8DS Male 65Y FALLEN GRD 378483 386804<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:45-98 23/11/2021 12:39:53 INC 24709109 17D03P IN THE FIELD IN THE OVERGROWTH, DELAHAYS ROAD, ALTRINCHAM, WA15 8DS Male 65Y FALLEN GRD 378483 386804<NUL>
-POCSAG2400: Address: 1320283  Function: 2  Alpha:   12:45-95 4157<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   12:45-63 5204<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   12:45-71 4660<NUL>
-POCSAG1200: Address:  549740  Function: 2  Alpha:   12:45-70 ** PROBLEM Service Alert: CDS Cupertino Stream Manager 1/Check Media Farm [CSM] is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check Media Farm [CSM]<CR><LF>Host: CDS Cupertino Stream Manager 1<CR><LF>Address: cs
-POCSAG1200: Address: 1324655  Function: 2  Alpha:   12:44-91 ** PROBLEM Service Alert: CDS Cupertino Stream Manager 1/CDS App Server Tomcat Heap Memory is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: CDS App Server Tomcat Heap Memory<CR><LF>Host: CDS Cupertino Stream 
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   12:44-58 Drone flights over Sub 99, Site 1, St 120, BEPPs2 & Site 5 are complete. SSM
-POCSAG1200: Address:  269456  Function: 3  Alpha:   U*
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   12:44-99 Drone flights over Sub 99, Site 1, St 120, BEPPs2 & Site 5 are complete. SSM
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   12:44-76 Drone flights over Sub 99, Site 1, St 120, BEPPs2 & Site 5 are complete. SSM
-POCSAG2400: Address: 1022475  Function: 0  Alpha:   12:44-12 Drone flights over Sub 99, Site 1, St 120, BEPPs2 & Site 5 are complete. SSM
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:44-57 3510<NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   12:44-38 5531<NUL>
-POCSAG1200: Address:   80184  Function: 2  Alpha:   8<STX>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   12:44-75 2044<NUL>
