@@ -1,3 +1,59 @@
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   v<NUL>
+POCSAG2400: Address: 1069242  Function: 1 
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   15:54-66 5330<NUL>
+POCSAG2400: Address: 1913842  Function: 2  Alpha:   15:54-40 2233<NUL>
+POCSAG2400: Address: 1022624  Function: 0  Alpha:   15:54-53 Test call.Please press responding
+POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>CACL
+POCSAG2400: Address: 1866216  Function: 2 
+POCSAG2400: Address:   28868  Function: 0  Alpha:   15:53-80 PLEASE RING A&E 35457<NUL>
+POCSAG2400: Address: 1913785  Function: 2  Alpha:   15:53-45 2304<NUL>
+POCSAG1200: Address:  433973  Function: 2  Alpha:   15:53-27 PLEASE CALL HUB OPERATIONS FOR KIDNEY ANATOMY - Donor number - 153060, Donor hospital - QMC, NOTTINGHAM, Donor DOB - 23/01/1968.
+POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>C
+POCSAG1200: Address:   78439  Function: 2  Alpha:   O%
+POCSAG1200: Address:  396894  Function: 1  Alpha:   <BS>4
+POCSAG1200: Address: 1069878  Function: 2 
+POCSAG1200: Address: 1422173  Function: 1  Alpha:   fl
+POCSAG1200: Address:  271340  Function: 2  Alpha:   15
+POCSAG1200: Address: 1318707  Function: 2  Alpha:   15:53-43 PLEASE CALL HUB OPERATIONS FOR KIDNEY ANATOMY - Donor number - 153060, Donor hospital - QMC, NOTTINGHAM, Donor DOB - 23/01/1968.
+POCSAG1200: Address:  265248  Function: 3  Alpha:   <DC2>C
+POCSAG512: Address:  273040  Function: 3  Alpha:   <STX>&BBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  123624  Function: 3 
+POCSAG2400: Address: 1913767  Function: 2  Alpha:   15:52-14 5013<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   15:51-07 4312<NUL>
+POCSAG1200: Address:  290101  Function: 3  Alpha:   F 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:50-84 3164<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   15:50-44 23/11/2021 15:48:43 INC 24709946 30D03 JUNCT WATER LANE, HALL ROAD, WILMSLOW SK9, SK9 5BN Female 25Y HEAD BLEEDING GRD 384304 381212<NUL>
+POCSAG1200: Address: 1031707  Function: 3  Alpha:   e 
+POCSAG2400: Address: 1242634  Function: 2  Alpha:   15:50-99 75013
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:50-71 2304<NUL>
+POCSAG2400: Address: 1914026  Function: 2  Alpha:   15:49-05 4312<NUL>
+POCSAG1200: Address: 1650302  Function: 1 
+POCSAG1200: Address:   79349  Function: 1  Alpha:   MI
+POCSAG1200: Address:  957748  Function: 2 
+POCSAG1200: Address:  707635  Function: 1  Alpha:   ]<FF>
+POCSAG1200: Address:   36034  Function: 3  Alpha:   r@`"<EM>
+POCSAG1200: Address: 1115233  Function: 2  Alpha:   X<FS>
+POCSAG1200: Address:   75254  Function: 1  Alpha:   AD<FF> GBAS{Y<EOT>
+POCSAG1200: Address:  141229  Function: 2  Alpha:   s<DC3>
+POCSAG1200: Address:  429340  Function: 3 
+POCSAG1200: Address:  630860  Function: 1 
+POCSAG1200: Address: 1653827  Function: 2 
+POCSAG1200: Address:  325938  Function: 1  Alpha:   ML
+POCSAG1200: Address: 1679882  Function: 1 
+POCSAG1200: Address:  272329  Function: 2 
+POCSAG1200: Address: 1438438  Function: 3 
+POCSAG1200: Address: 1238926  Function: 0 
+POCSAG1200: Address:  470621  Function: 1 
+POCSAG1200: Address: 1447093  Function: 3 
+POCSAG1200: Address: 1149060  Function: 3  Alpha:   d<SUB>
+POCSAG1200: Address: 1245771  Function: 3 
+POCSAG1200: Address:  957531  Function: 1 
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v<ACK>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address:  375592  Function: 3  Alpha:   hf
+POCSAG1200: Address:  370525  Function: 0  Alpha:   hf
+POCSAG2400: Address: 1913870  Function: 2  Alpha:   15:49-65 4379<NUL>
+POCSAG1200: Address:  413064  Function: 2  Alpha:   15:49-87 PLEASE CALL EX<NUL><DEL>074
 POCSAG2400: Address: 1913961  Function: 2  Alpha:   15:49-20 2616<NUL>
 POCSAG2400: Address: 1324550  Function: 2  Alpha:   15:49-20 INC ALERT No: 16815616 Traffic/Transportation Accidents - CHILD RUN OVER OUTSIDE SCHOOL, AT: WESTOVER GREEN COMMUNITY PRIMARY SCHOOL, WESTOVER GREEN, BRIDGWATER, TA6 7HB, Time of Call: 23/11/2021 15:45:41, Co-ords: 51.1262298 -3.0127133
 POCSAG1200: Address: 1484954  Function: 0 
@@ -942,59 +998,3 @@ POCSAG1200: Address:  135429  Function: 2  Alpha:   13:22-33 6<NUL>
 POCSAG1200: Address: 1089611  Function: 2  Alpha:   13:22-21 23/11/2021 13:19:24 INC 24709286 19 HOLT STREET, WEST LEIGH, WN7 5RT Male 87Y NOISY BREATHING GRD 365235 40121
 POCSAG2400: Address: 1913959  Function: 2  Alpha:   13:22-55 4312<NUL>
 POCSAG2400: Address: 1022472  Function: 0  Alpha:   13:21-78 Drone flights around Calder Hall are complete. SSM<NUL>
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   13:21-01 Drone flights around Calder Hall are complete. SSM<NUL>
-POCSAG2400: Address: 1022475  Function: 0  Alpha:   13:21-14 Drone flights around Calder Hall are complete. SSM<NUL>
-POCSAG2400: Address: 1022474  Function: 0  Alpha:   13:21-29 Drone flights around Calder Hall are complete. SSM<NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   13:20-59 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323201  Function: 2  Alpha:   13:20-29 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1282875  Function: 3 
-POCSAG2400: Address:  623450  Function: 0  Alpha:   ln
-POCSAG2400: Address:   33713  Function: 2  Alpha:   13:20-16 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323183  Function: 2  Alpha:   13:20-61 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   13:20-00 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323237  Function: 2  Alpha:   13:20-63 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323229  Function: 2  Alpha:   13:20-20 NHSBT - DONOR REFERRAL. Please call  SHARON on Direct Dial Number  020 8887 2668 Hospital  NORTH MIDDX Dept  ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   13:21-95 5202<NUL>
-POCSAG1200: Address:  451137  Function: 1 
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   13:19-83 2343<NUL>
-POCSAG1200: Address:  623457  Function: 0 
-POCSAG1200: Address: 1677905  Function: 3 
-POCSAG1200: Address:  379800  Function: 0  Alpha:   8<LF>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   13:19-29 23/11/2021 13:18:01 INC 24709279 01D01 12 GLEN ELDON ROAD, ST ANNES LYTHAM ST ANNES, FY8 2AU Female 54Y VOMITING, SHARP PAIN IN STOMACH GRD 332258 429090
-POCSAG1200: Address:  433829  Function: 2  Alpha:   13:19-28 3<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   13:19-99 23/11/2021 13:18:01 INC 24709279 01D01 12 GLEN ELDON ROAD, ST ANNES LYTHAM ST ANNES, FY8 2AU Female 54Y VOMITING, SHARP PAIN IN STOMACH GRD 332258 429090
-POCSAG1200: Address: 1816960  Function: 2  Alpha:   13:19-54 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1318231121+++TIME=1318231121<NUL>
-POCSAG1200: Address:  197476  Function: 3  Alpha:   5<LF>
-POCSAG1200: Address: 1032676  Function: 2  Alpha:   <DC2>C<BS><L
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   13:18-59 CIDAS testing in B80 complete. Please treat all further alarms as genuine. SSM<NUL>
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   13:18-77 CIDAS testing in B80 complete. Please treat all further alarms as genuine. SSM<NUL>
-POCSAG2400: Address: 1022474  Function: 0  Alpha:   13:18-28 CIDAS testing in B80 complete. Please treat all further alarms as genuine. SSM<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1318231121+++TIME=1318231121<NUL>
-POCSAG1200: Address: 1816960  Function: 2  Alpha:   13:18-53 (3/3) PATIENT UP ON THE ROOF INJURED 5 STORIES UP  INFORMING AS IMO<NUL>
-POCSAG1200: Address: 1594976  Function: 2  Alpha:   13:18-52 Location OS, 42 ARGYLE ROAD, SALTCOATS, KA21 5NF Inc No: 8077249 Code: 27D03S Con: YES What is the Problem: MALE STABBED Name: Age: 35Y<NUL>
-POCSAG2400: Address: 1914025  Function: 2  Alpha:   13:18-49 4034<NUL>
-POCSAG1200: Address: 1866144  Function: 1 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:18-11 23/11/2021 13:02:10 INC 24709211 09D01 39 TILDSLEY STREET, GREAT LEVER BOLTON, BL3 6PN Male 65Y HAVING A SEIZURE GRD 371412 407631<NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   13:18-18 23/11/2021 13:02:10 INC 24709211 09D01 39 TILDSLEY STREET, GREAT LEVER BOLTON, BL3 6PN Male 65Y HAVING A SEIZURE GRD 371412 407631<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   13:18-56 23/11/2021 13:02:10 INC 24709211 09D01 39 TILDSLEY STREET, GREAT LEVER BOLTON, BL3 6PN Male 65Y HAVING A SEIZURE GRD 371412 407631<NUL>
-POCSAG1200: Address:  394266  Function: 0  Alpha:   <FS>"
-POCSAG1200: Address: 1874482  Function: 0 
-POCSAG1200: Address: 1814633  Function: 0 
-POCSAG1200: Address:  858134  Function: 0 
-POCSAG1200: Address: 1337565  Function: 1  Alpha:   <DC2><ETX>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   13:18-57 33
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:18-30 4157<NUL>
-POCSAG2400: Address: 1324542  Function: 2  Alpha:   13:17-41 INC ALERT No: 16815078 Falls - FELL DOWN STAIRS STUGGLING TO BREATHE, AT: SUBWAY STEPS NEAR HALFORDS, FURNISS ISLAND, MORLAIX AVENUE, TRURO, TR1 1SE, Time of Call: 23/11/2021 13:14:32, Co-ords: 50.2631586 -5.0475675<NUL>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   13:17-58 3509<NUL>
-POCSAG1200: Address:  269100  Function: 2  Alpha:   13:18-21 23/11/2021 13:14:33 INC 24709269 06D04 16 CHURCH ROAD, NEWBOLD ROCHDALE ROCHDALE, OL16 5PU Female 55Y COVID POSITIVE STRUGGLING TO BREATHE GRD 390658 412897
-POCSAG1200: Address: 1032980  Function: 2  Alpha:   F<EOT>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:17-06 23/11/2021 13:14:22 INC 24709267 13O01 23 CHATSWORTH ROAD, RAINHILL L35, L35 8LE Male 18Y DIABETIC, KEYTONE 6.6 GRD 348602 391709<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269101  Function: 2  Alpha:   13:16-94 23/11/2021 13:14:57 INC 24709271 10D02 KENDAL CARE HOME, BURTON ROAD, KENDAL, LA9 7JA Male 80Y CHEST PAIN GRD 352281 490585<NUL><NUL>
-POCSAG1200: Address: 1092740  Function: 2  Alpha:   13:16-03 2130<NUL>
-POCSAG1200: Address:  548168  Function: 2  Alpha:   13:16-13 3738<NUL>
-POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>c<DC4>JL
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   13:15-71 23/11/2021 13:12:52 INC 24709263 12C03 LAUREL BANK RH 21, KNOTT LANE, GEE CROSS HYDE, SK14 5HZ Female 79Y F - FITTING GRD 395227 393455<NUL>
-POCSAG1200: Address:  585532  Function: 2  Alpha:   13:15-41 6707<NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
