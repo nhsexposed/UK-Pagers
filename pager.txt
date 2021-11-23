@@ -1,3 +1,39 @@
+POCSAG1200: Address:  585450  Function: 2  Alpha:   10:24-51 2513<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:23-56 3164<NUL>
+POCSAG1200: Address: 1693768  Function: 1 
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   10:23-45 23/11/2021 10:21:14 INC 24708497 10D04 59 STEINER STREET, ACCRINGTON, BB5 1RQ Male 53Y NECK SHOULDER AND ARM PAIN IN BACK GRD 375394 428748
+POCSAG2400: Address: 1323896  Function: 2  Alpha:   10:23-58 4954<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1023231121+++TIME=1023231121<NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   10:23-99 3104<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   10:23-86 23/11/2021 10:21:14 INC 24708497 10D04 59 STEINER STREET, ACCRINGTON, BB5 1RQ Male 53Y NECK SHOULDER AND ARM PAIN IN BACK GRD 375394 428748
+POCSAG1200: Address:  906914  Function: 2  Alpha:   10:23-19 Destination: Parking\D78 Ext TP, Booking Ref#: 802145, Vehicle: VX19YGF. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   10:23-23 4954<NUL>
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   10:23-29 INC ALERT No: 16814493 Falls - FALL AND HURT BACK HIT HEAD, AT: FLAT 6, THE MALTINGS, CHURCH STREET, HEAVITREE EXETER, EX2 5EJ, Time of Call: 23/11/2021 10:20:32, Co-ords: 50.720614919 -3.505956207<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1511982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:22-60 23/11/2021 10:18:34 INC 24708492 01A03 13 SHELLEY STREET, BOOTLE L20, L20 4LG Male 3Y STOMACH PAIN GRD 333571 395935
+POCSAG1200: Address:  269168  Function: 2  Alpha:   10:22-65 23/11/2021 10:19:57 INC 24708495 26C01 10 MALVERN AVENUE, OSWALDTWISTLE NR ACCRINGTON, BB5 3AQ Male 94Y 24 HRS - FATHER SAYS HES FROZEN GRD 374455 427473
+POCSAG1200: Address: 1505826  Function: 2  Alpha:   10:22-78 PLEASE CALL FIRE CONTROL<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   10:22-85 23/11/2021 10:19:57 INC 24708495 26C01 10 MALVERN AVENUE, OSWALDTWISTLE NR ACCRINGTON, BB5 3AQ Male 94Y 24 HRS - FATHER SAYS HES FROZEN GRD 374455 427473
+POCSAG1200: Address:  399736  Function: 0  Alpha:   <FF>}
+POCSAG1200: Address: 1912927  Function: 3  Alpha:   O%
+POCSAG1200: Address:  662452  Function: 1  Alpha:   <FF><EOT><SO>~=\\L<EOT>D~<HT>D<SO>
+POCSAG1200: Address: 2078564  Function: 1 
+POCSAG1200: Address:  644042  Function: 3  Alpha:   tinat
+POCSAG1200: Address: 1847904  Function: 3  Alpha:   <STX>J>v~<SYN>/<ACK>
+POCSAG1200: Address: 1671727  Function: 2  Alpha:   o Ug<DC2>47v
+POCSAG1200: Address:  150350  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:21-53 5897<NUL>
+POCSAG1200: Address: 1321707  Function: 2  Alpha:   10:21-43 Destination: Parking\D78 Ext TP, Booking Ref#: 802017, Vehicle: FM65JDO. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address:  585224  Function: 2  Alpha:   10:20-92 1: 001MPCLA81015 Lift Panel in BCC Lift Alarm 01
+POCSAG2400: Address: 1913570  Function: 2  Alpha:   10:20-36 4262<NUL>
+POCSAG2400: Address: 1032515  Function: 3  Alpha:   Fl
+POCSAG2400: Address: 1913643  Function: 2  Alpha:   10:20-66 4758<NUL>
+POCSAG1200: Address: 1511868  Function: 2  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   10:20-43 2182<NUL>
+POCSAG1200: Address: 1511876  Function: 2  Alpha:   <DC1>"
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   10:19-45 23/11/2021 10:17:51 INC 24708488 26C02 52 BAGOT STREET, WAVERTREE L15, L15 0HT Female 76Y DIARRHOEA AND VOMITING - AWAITING GALL BLADDER REMOVAL GRD 338011 389364
 POCSAG1200: Address:  664466  Function: 2  Alpha:   10:19-05 1: 001MPCLA81015 Lift Panel in BCC Lift Alarm 01
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   10:19-13 23/11/2021 10:17:24 INC 24708483 25B06B 129 RUSKIN STREET, WALTON L4, L4 3SJ Female 47Y KNIFE - F - SELF HARMING GRD 335216 394190<NUL>
 POCSAG2400: Address:   28926  Function: 0  Alpha:   10:18-44 4399<NUL>
@@ -962,39 +998,3 @@ POCSAG1200: Address: 1312651  Function: 2  Alpha:   08:56-62 PROCEED TO:  ADMIN 
 POCSAG1200: Address:  336140  Function: 2  Alpha:   08:56-35 23/11/2021 08:49:43 INC 24708171 28C03L CHURCH COURT - FLAT 51, MAINWAY, SKERTON LANCASTER, LA1 2AX Male 72Y FALLEN GRD 347910 462551
 POCSAG1200: Address: 1482700  Function: 2  Alpha:   08:56-58 Tue Nov 23 08:56:32 UTC 2021 -- RECOVERY : mgmt1-stj is UP (OK - 10.0.199.60: rta 104.853ms, lost 0%)<NUL>
 POCSAG1200: Address:  678759  Function: 2  Alpha:   08:56-79 Destination: Parking\D78 Ext TP, Booking Ref#: X112319, Vehicle: PJ70AMO. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><NUL><NUL>
-POCSAG2400: Address:   28870  Function: 0  Alpha:   08:56-97 PLS CALL CEDRIC AT A&E QEQM ON EXT 725 3024 OR 725 3347 
-POCSAG1200: Address:  664466  Function: 2  Alpha:   08:56-04 1: 001MPCLA81015 Lift Panel in BCC Lift Alarm 01
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   08:55-64 5013<NUL>
-POCSAG1200: Address: 1765514  Function: 2  Alpha:   08:56-86 Morning,   Unable to ssh into rs1-stj-jed1, and there is 6 other ssh checks for JEDIX  Please see teams.   thanks   fabiano<NUL><NUL>
-POCSAG1200: Address: 1321715  Function: 2  Alpha:   08:55-88 Destination: D105 SSC In\120, Booking Ref#: 801922, Vehicle: WGM23161. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Bo<NUL><NUL>
-POCSAG1200: Address:  234377  Function: 2  Alpha:   08:55-08 23/11/2021 08:54:08 INC 24708187 12D02 O/S, CENTRAL PROPERTY MANAGEMENT, 143 CENTRAL DRIVE, BLACKPOOL, FY1 5EE Female 35Y FITTING NOW GRD 331107 43540
-POCSAG1200: Address:  987049  Function: 2  Alpha:   08:55-18 23/11/2021 08:54:08 INC 24708187 12D02 O/S, CENTRAL PROPERTY MANAGEMENT, 143 CENTRAL DRIVE, BLACKPOOL, FY1 5EE Female 35Y FITTING NOW GRD 331107 43540
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   08:55-87 23/11/2021 08:54:08 INC 24708187 12D02 O/S, CENTRAL PROPERTY MANAGEMENT, 143 CENTRAL DRIVE, BLACKPOOL, FY1 5EE Female 35Y FITTING NOW GRD 331107 43540
-POCSAG1200: Address:  230940  Function: 2  Alpha:   E<STX>
-POCSAG2400: Address: 1913937  Function: 2  Alpha:   08:54-24 4973<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   08:54-26 23/11/2021 08:52:30 INC 24708177 29D02L OUTSIDE OF, 111 LONGFORD ROAD WEST, REDDISH STOCKPORT, SK5 6JL Male 49Y RTA - BICYCLE V CAR GRD 389014 394288<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   08:54-05 23/11/2021 08:52:30 INC 24708177 29D02L OUTSIDE OF, 111 LONGFORD ROAD WEST, REDDISH STOCKPORT, SK5 6JL Male 49Y RTA - BICYCLE V CAR GRD 389014 394288<NUL>
-POCSAG1200: Address:  549769  Function: 2  Alpha:   08:54-68 ~PLEASE CONTACT CONTROLS AT YOUR CONVIENCE
-POCSAG1200: Address:  269101  Function: 2  Alpha:   08:54-86 23/11/2021 08:52:08 INC 24708175 06D02 38, BOROUGHGATE, APPLEBY IN WESTMORLAND, CA16 6XG Male 78Y COPD LOW O2 SATS, BREATHLESS, FAST HEART GRD 368377 520236
-POCSAG1200: Address:   28729  Function: 2  Alpha:   08:54-38 23/11/2021 08:52:08 INC 24708175 06D02 38, BOROUGHGATE, APPLEBY IN WESTMORLAND, CA16 6XG Male 78Y COPD LOW O2 SATS, BREATHLESS, FAST HEART GRD 368377 520236
-POCSAG2400: Address: 1448680  Function: 0 
-POCSAG2400: Address:   28916  Function: 0  Alpha:   08:53-11 4399<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853231121+++TIME=0853231121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0853231121+++TIME=0853231121<NUL>
-POCSAG1200: Address:  549793  Function: 2  Alpha:   08:53-33 ~PLEASE CONTACT CONTROLS - MANY THANKS<NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   08:53-81 23/11/2021 08:50:37 INC 24708172 31C01 6 ASH TREE GROVE, NELSON, BB9 0WA Female 88Y FALLEN - SLURRED SPEECH GRD 387239 437468
-POCSAG1200: Address:  269168  Function: 2  Alpha:   08:53-54 23/11/2021 08:50:37 INC 24708172 31C01 6 ASH TREE GROVE, NELSON, BB9 0WA Female 88Y FALLEN - SLURRED SPEECH GRD 387239 437468
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1022478  Function: 0  Alpha:   08:52-64 888 - Sellafield Pager Test<NUL>
-POCSAG2400: Address:   11745  Function: 0  Alpha:   08:52-19 FIRE ALERT -FIRE ACORNS              THERAPIES CORRIDOR Zone 001 503-1-135/0 FIRE ALERT<NUL>
-POCSAG2400: Address: 1913533  Function: 2  Alpha:   FIRE ALERT -FIRE ACORNS              THERAPIES CORRIDOR Zone 001 503-1-135/0 FIRE ALERT<NUL>
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   08:52-59 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1032727  Function: 0 
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   08:52-21 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   08:52-20 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1001129  Function: 2  Alpha:   08:52-21 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1001131  Function: 2  Alpha:   08:52-22 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1312437  Function: 2  Alpha:   08:52-25 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   08:52-27 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   08:52-26 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   08:52-65 adult cardiac arrest  WXH   Bracken ward 08.50hrs<NUL><NUL>
