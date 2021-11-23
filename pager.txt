@@ -1,3 +1,21 @@
+POCSAG1200: Address:  913933  Function: 3 
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   15:43-03 2616<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1543231121+++TIME=1543231121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1543231121+++TIME=1543231121<NUL>
+POCSAG1200: Address:  343317  Function: 0  Alpha:   15:43-81 Engine 3 Shutdown, Engine_3_OnLoa
+POCSAG2400: Address:   28901  Function: 0  Alpha:   15:43-95 5420<NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   <ETX><ETX>
+POCSAG1200: Address: 1511970  Function: 3  Alpha:   F<SO>
+POCSAG1200: Address:  548156  Function: 2 
+POCSAG2400: Address: 1913928  Function: 2  Alpha:   15:42-80 4158<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:41-28 4387<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:40-83 2182<NUL>
+POCSAG2400: Address: 1321504  Function: 2  Alpha:   15:40-06 Please call Dr English on 07929249132<NUL><NUL>
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   15:40-55 2616<NUL>
+POCSAG1200: Address: 1762303  Function: 0 
+POCSAG1200: Address: 1031732  Function: 3  Alpha:   <STX>!
 POCSAG1200: Address: 1511970  Function: 3  Alpha:   F<SO>
 POCSAG2400: Address: 1321021  Function: 2  Alpha:   15:39-65 4289<NUL>|<DEL><DEL>
 POCSAG1200: Address:  679438  Function: 3  Alpha:   <DC2>C!#D
@@ -980,21 +998,3 @@ POCSAG1200: Address:  420271  Function: 2  Alpha:   13:13-56 5<NUL>
 POCSAG1200: Address: 1565272  Function: 2  Alpha:   13:12-76 23/11/2021 13:10:59 INC 24709254 23B01I 186 TALBOT ROAD, NEWTON HYDE, SK14 4HJ Female 17Y OVERDOSE GRD 396006 396387
 POCSAG512: Address:  267813  Function: 0 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  585532  Function: 2  Alpha:   13:12-40 6707<NUL>
-POCSAG2400: Address:   28902  Function: 0  Alpha:   13:12-08 4411<NUL>
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:12-50 3105<NUL>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   13:11-49 23/11/2021 13:10:06 INC 24709252 06D02 7 GRANGE MEWS, GATEACRE L25, L25 5QB Female 73Y DIFFICULTY BREATHING GRD 342644 387836
-POCSAG2400: Address: 1913668  Function: 2  Alpha:   13:11-56 4268<NUL>
-POCSAG1200: Address: 1321669  Function: 2  Alpha:   13:11-41 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: cn17jfo. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   13:11-95 4910<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:10-32 4554<NUL>
-POCSAG1200: Address:  585532  Function: 2  Alpha:   13:11-39 6707<NUL>
-POCSAG1200: Address:  206053  Function: 2  Alpha:   13:10-05 23/11/2021 13:08:49 INC 24709244 12D02E MONICA COURT - FLAT 2, HALF EDGE LANE, ECCLES MANCHESTER, M30 9AR Male 78Y FITTING Q CHOKING GRD 377722 399068
-POCSAG1200: Address:  548168  Function: 2  Alpha:   13:10-12 3738<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   13:10-65 PLEASE CALL 7234426
-POCSAG1200: Address: 1511864  Function: 3  Alpha:   v 
-POCSAG1200: Address: 1512707  Function: 3  Alpha:   Fj
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   13:09-89 please call ms sheila fields 0143 607987 for the attention of matila or kelly<NUL><NUL>
-POCSAG1200: Address:  149135  Function: 2  Alpha:   13:09-42 PLEASE CALL THE HUB 01535 293909<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1308231121+++TIME=1308231121<NUL>
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:08-49 3104<NUL>
