@@ -1,3 +1,30 @@
+POCSAG1200: Address: 1942097  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1043231121+++TIME=1043231121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1043231121+++TIME=1043231121<NUL>
+POCSAG1200: Address:  585538  Function: 2  Alpha:   10:43-77 3518<NUL>
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   10:43-47 2111<NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   10:43-23 23/11/2021 10:41:03 INC 24708584 17D04G 4 PENNINGTON CLOSE, LITTLE HULTON MANCHESTER, M38 0EG Female 77Y F - FALL, VOMITTED GRD 371222 403757<NUL>
+POCSAG512: Address: 1379912  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1511868  Function: 2  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   10:42-20 2857<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   10:41-89 2184<NUL>
+POCSAG2400: Address: 1032526  Function: 3  Alpha:   F 
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   10:41-58 3510<NUL>
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   10:41-10 INC ALERT No: 16814554 Cardiac Arrest -, AT: 24 KNIGHTSTONE CLOSE, AXBRIDGE, BS26 2DJ, Time of Call: 23/11/2021 10:39:51, Co-ords: 51.2855196 -2.8140736<NUL>
+POCSAG2400: Address:  149113  Function: 2  Alpha:   10:41-34 4155<NUL>
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   10:41-87 INC ALERt#No: 16814554 Cardiac Arrest -, AT: 24 KNIGHTSTONE CLOSE, AXBRIDGE, BS26 2DJ, Time of Call: 23/11/2021 10:39:51, Co-ords: 51.2855196 -2.8140736<NUL>
+POCSAG2400: Address:   28869  Function: 0  Alpha:   10:40-50 PLS CALL AAU ON 28681 RE PSYCH REVIEW FOR PATIENT<NUL><NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   10:41-49 23/11/2021 10:38:15 INC 24708573 31C01 TESCO EXPRESS, 1 MILL HILL, OSWALDTWISTLE ACCRINGTON, BB5 3LQ Female 80Y FAINTING GRD 373981 427578<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   10:41-73 23/11/2021 10:38:15 INC 24708573 31C01 TESCO EXPRESS, 1 MILL HILL, OSWALDTWISTLE ACCRINGTON, BB5 3LQ Female 80Y FAINTING GRD 373981 427578<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   10:41-90 23/11/2021 10:38:15 INC 24708573 31C01 TESCO EXPRESS, 1 MILL HILL, OSWALDTWISTLE ACCRINGTON, BB5 3LQ Female 80Y FAINTING GRD 373981 427578<NUL>
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   10:40-49 3509<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:40-46 3164<NUL>
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   10:40-24 4268<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   10:40-35 2182<NUL>
+POCSAG2400: Address: 1320203  Function: 2  Alpha:   10:40-45 3510<NUL>
 POCSAG2400: Address:   28894  Function: 0  Alpha:   10:39-59 4165<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1038231121+++TIME=1038231121<NUL>
 POCSAG1200: Address: 1321851  Function: 2  Alpha:   10:38-29 2287<NUL>
@@ -971,30 +998,3 @@ POCSAG2400: Address: 1324541  Function: 2  Alpha:   09:10-68 log 4263 - CAT 1 ca
 POCSAG2400: Address: 1324552  Function: 2  Alpha:   09:10-30 log 4263 - CAT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
 POCSAG1200: Address:  381882  Function: 2  Alpha:   09:10-31 6528<NUL>
 POCSAG1200: Address: 1483228  Function: 2  Alpha:   09:10-61 23/11/2021 09:04:05 INC 24708226 10D05 58 COBBS BROW LANE, NEWBURGH PARBOLD, WN8 7NB Male 90Y CHEST PAIN AND BACK PAIN GRD 348199 409927
-POCSAG2400: Address: 1324561  Function: 2  Alpha:   09:10-61 log 4263 - CAT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
-POCSAG2400: Address: 1324565  Function: 2  Alpha:   09:10-41 log 4263 - CAT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
-POCSAG2400: Address: 1594968  Function: 2  Alpha:   09:10-85 log 4263 - CAT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
-POCSAG2400: Address: 1324567  Function: 2  Alpha:   09:10-83 log 4263 - CAT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
-POCSAG2400: Address: 1324555  Function: 2  Alpha:   09:10-47 log 4263 - CAT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
-POCSAG2400: Address:   33739  Function: 2  Alpha:   09:10-72 09:10-71 log 4263 - <ETX>MT 1 car v female, unconscious. SIDMOUTH. If anyone can assist please call control<NUL><NUL>
-POCSAG1200: Address: 1485588  Function: 3  Alpha:   <ACK>F
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   09:10-40 23/11/2021 09:05:44 INC 24708231 06E01A 31 EAST GROVE, LONGSIGHT MANCHESTER, M13 0AX Female 23Y DIB - ASTHMA, SHIVERING GRD 385574 396138<NUL><NUL>
-POCSAG1200: Address:  930489  Function: 2  Alpha:   09:10-33 23/11/2021 09:05:44 INC 24708231 06E01A 31 EAST GROVE, LONGSIGHT MANCHESTER, M13 0AX Female 23Y DIB - ASTHMA, SHIVERING GRD 385574 396138<NUL><NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   09:10-91 23/11/2021 09:05:44 INC 24708231 06E01A 31 EAST GROVE, LONGSIGHT MANCHESTER, M13 0AX Female 23Y DIB - ASTHMA, SHIVERING GRD 385574 396138<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   09:09-40 23/11/2021 09:05:44 INC 24708231 06E01A 31 EAST GROVE, LONGSIGHT MANCHESTER, M13 0AX Female 23Y DIB - ASTHMA, SHIVERING GRD 385574 396138<NUL><NUL>
-POCSAG1200: Address:   80184  Function: 2  Alpha:   Hn
-POCSAG1200: Address:  413064  Function: 2  Alpha:   09:09-84 plse call x3295<NUL>
-POCSAG2400: Address:  359505  Function: 0 
-POCSAG2400: Address:   33739  Function: 2  Alpha:   09:08-70 INC ALERT No: 16814263 Traffic/Transportation Accidents - CAR CRUSHED FEMALE, AT: 11 BELVEDERE COURT, HILLSIDE ROAD, SIDMOUTH, EX10 8FD, Time of Call: 23/11/2021 09:07:22, Co-ords: 50.6828201 -3.2339516
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v`
-POCSAG2400: Address: 1324561  Function: 2  Alpha:   09:08-60 INC ALERT No: 16814263 Traffic/Transportation Accidents - CAR CRUSHED FEMALE, AT: 11 BELVEDERE COURT, HILLSIDE ROAD, SIDMOUTH, EX10 8FD, Time of Call: 23/11/2021 09:07:22, Co-ords: 50.6828201 -3.2339516
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   09:08-23 INC ALERT No: 16814263 Traffic/Transportation Accidents - CAR CRUSHED FEMALE, AT: 11 BELVEDERE COURT, HILLSIDE ROAD, SIDMOUTH, EX10 8FD, Time of Call: 23/11/2021 09:07:22, Co-ords: 50.6828201 -3.2339516
-POCSAG2400: Address: 1324541  Function: 2  Alpha:   09:08-67 INC ALERT No: 16814263 Traffic/Transportation Accidents - CAR CRUSHED FEMALE, AT: 11 BELVEDERE COURT, HILLSIDE ROAD, SIDMOUTH, EX10 8FD, Time of Call: 23/11/2021 09:07:22, Co-ords: 50.6828201 -3.2339516
-POCSAG2400: Address: 1320203  Function: 2  Alpha:   09:08-31 3157<NUL>
-POCSAG2400: Address:   28900  Function: 0  Alpha:   09:08-96 2168<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   09:08-18 2304<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0908231121+++TIME=0908231121<NUL>
-POCSAG1200: Address: 1058536  Function: 2  Alpha:   09:08-07 Good morning Angela, you are no longer on-call for CLCHNWS01. Please provide a handover by email to Fleur Beeson . Thank you<NUL>
-POCSAG1200: Address: 1320217  Function: 2  Alpha:   09:08-13 RED: Michelle, Wendy, Jo, Liz - Please note that you are now on-call as ADMIN01 for NHS England and NHS Improvement - London Region.<NUL>
-POCSAG1200: Address: 1320211  Function: 2  Alpha:   09:08-15 RED: Michelle, Wendy, Jo, Liz - Please note that you are now on-call as ADMIN01 for NHS England and NHS Improvement - London Region.<NUL>
-POCSAG1200: Address:  105859  Function: 2  Alpha:   09:08-65 23/11/2021 09:06:35 INC 24708233 09E01 72 HIGH STREET, LOWERCROFT BURY, BL8 3AJ Male 69Y DECEASED GRD 377590 411422<NUL>
