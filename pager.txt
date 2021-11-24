@@ -1,3 +1,21 @@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   23:14-13 4155<NUL>
+POCSAG1200: Address: 1770637  Function: 0  Alpha:   <DLE>!B`L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2313241121+++TIME=2313241121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2313241121+++TIME=2313241121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   40081  Function: 2  Alpha:   23:12-87 24/11/2021 23:09:03 INC 24716696 31D04 1384 ASHTON OLD ROAD, ABBEY HEY MANCHESTER, M11 1JU Male 49Y DIABETIC - COLLAPSED GRD 389496 397327<NUL>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   23:11-09 EAU HORTON HOSPITAL, LOCKED OUT OF COMPUTER, PLEASE CALL 01295 229 021
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   23:11-25 EAU HORTON HOSPITAL, LOCKED OUT OF COMPUTER, PLEASE CALL 01295 229 021
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:11-91 URGENT PLEASE GO TO SPIRE WARD STRIGHT AWAY<NUL><NUL>
+POCSAG1200: Address:  425016  Function: 1 
+POCSAG1200: Address:  756311  Function: 1  Alpha:   <BS>4Fg<DC2>
+POCSAG1200: Address: 1023526  Function: 0 
+POCSAG1200: Address: 1679502  Function: 0 
+POCSAG1200: Address: 1387268  Function: 3  Alpha:   ae<STX>"<DLE>
+POCSAG1200: Address:  657932  Function: 1 
+POCSAG1200: Address:  875691  Function: 2  Alpha:   ,<FS>
+POCSAG1200: Address: 1847930  Function: 2 
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   23:09-08 24/11/2021 23:06:22 INC 24716684 29B01 NEAR THE WAR MEMORIAL JUNC, WARRINGTON ROAD, MERE KNUTSFORD WA16, WA16 0WY Male 43Y RTC GRD 372403 381591<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:09-62 24/11/2021 23:06:22 INC 24716684 29B01 NEAR THE WAR MEMORIAL JUNC, WARRINGTON ROAD, MERE KNUTSFORD WA16, WA16 0WY Male 43Y RTC GRD 372403 381591<NUL>
 POCSAG1200: Address: 1817414  Function: 2  Alpha:   23:08-28 24/11/2021 23:07:17 INC 24716690 29D02M 14 ST MARTINS ROAD, PRESTON, PR1 6LU Male UnknownY RTA - PT RUN OVER GRD 354428 430604<NUL><NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1261135  Function: 0
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:39-49 2188<NUL>
 POCSAG2400: Address:  583555  Function: 2  Alpha:   20:39-55 80300
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:39-48 2188<NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   20:38-25 RECOVERY: Secure Website Check: railway-mail.civicahosting.co.uk is OK on host railway-mail.civicahosting.co.uk, <CR><LF>RECOVERY: Secure Website Check: railway-mail.civicahosting.co.uk is OK on host railway-mail.civicahosting.co.uk<CR><LF>Service: Sec<NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   20:38-50 RECOVERY: Secure Website Check: railway-mail.civicahosting.co.uk is OK on host railway-mail.civicahosting.co.uk, <CR><LF>RECOVERY: Secure Website Check: railway-mail.civicahosting.co.uk is OK on host railway-mail.civicahosting.co.uk<CR><LF>Service: Sec<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2038241121+++TIME=2038241121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2038241121+++TIME=2038241121<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:37-34 3298<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   20:37-93 24/11/2021 20:34:23 INC 24716132 11D02U 40 DALL STREET, BURNLEY WOOD BURNLEY, BB11 3LB Male 2Y CALLER CLEARED LINE GRD 384399 431906<NUL>
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   20:37-11 24/11/2021 20:34:23 INC 24716132 11D02U 40 DALL STREET, BURNLEY WOOD BURNLEY, BB11 3LB Male 2Y CALLER CLEARED LINE GRD 384399 431906<NUL>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   20:37-47 24/11/2021 20:34:23 INC 24716132 06D01 40 DALL STREET, BURNLEY WOOD BURNLEY, BB11 3LB Male 2Y CALLER CLEARED LINE GRD 384399 431906
-POCSAG1200: Address: 1584731  Function: 0  Alpha:   ?S<ETX>5?[<ETB><ETX><GS>J<DC2><STX>MaUEA]<SOH>MeYME]
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   20:37-39 24/11/2021 20:34:23 INC 24716132 06D01 40 DALL STREET, BURNLEY WOOD BURNLEY, BB11 3LB Male 2Y CALLER CLEARED LINE GRD 384399 431906
-POCSAG1200: Address:  334075  Function: 2  Alpha:   20:37-50 24/11/2021 20:36:01 INC 24716142 29D02M Manchester Royal Infirmary Greater Manchester - CAS, LORNE STREET, LONGSIGHT MANCHESTER, M13 0FX Male UnknownY car v pedestrain - pt cannot move GRD 385107 396317
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   20:37-32 24/11/2021 20:36:01 INC 24716142 29D02M Manchester Royal Infirmary Greater Manchester - CAS, LORNE STREET, LONGSIGHT MANCHESTER, M13 0FX Male UnknownY car v pedestrain - pt cannot move GRD 385107 396317
-POCSAG2400: Address: 1322541  Function: 2  Alpha:   20:36-18 New Voicemail from 01823344989 - 01823344989, <CR><LF>You have received a new voice mail from "01823344989 -"01823344989"<CR><LF><HT><HT><HT><CR><LF>From:01823344989 <CR><LF>To: 2159" - "On Call Engineer 2" "(IT)CVB"<CR><LF>Received:"2021-11-24 20:35:54"<CR><LF>Duration:"00:
-POCSAG2400: Address: 1098976  Function: 1  Alpha:   i)
-POCSAG2400: Address: 1320017  Function: 2  Alpha:   20:36-63 711147<NUL><NUL>
-POCSAG1200: Address: 1323352  Function: 2  Alpha:   20:36-81 RED: INCIDENT TEAM: report to scene - tune radios to emergency planning channel, details: FIRE ALARM ACTIVATION location: SIDNEY WILLIAMS HOUSE UNIT 19 RM 74<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   20:36-67 33879
-POCSAG2400: Address:   11678  Function: 0  Alpha:   20:35-35 Marcia is responding<NUL><NUL>
