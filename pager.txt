@@ -1,3 +1,40 @@
+POCSAG1200: Address:  216321  Function: 2  Alpha:   18:39-17 (3/3) Talkgrp  FBER-OPS01 (38*) (DGNA)<NUL>
+POCSAG1200: Address:  216321  Function: 2  Alpha:   18:39-16 (1/3)030413-24112021; T12.0.0.P TRANSPORT - RTC SCENE SAFETY; (STREET RECORD),MAIDENHEAD ROAD,DEDWORTH,WINDSOR; 494904,177103;<NUL><NUL>
+POCSAG1200: Address:  600665  Function: 0  Alpha:   18:39-60  PLS CALL 0127 369 6955<NUL><NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   18:39-58 64854
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   18:39-69 64854
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1838241121+++TIME=1838241121<NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   18:38-05 4312<NUL>
+POCSAG1200: Address: 1321535  Function: 2  Alpha:   18:38-38 24/11/2021 18:33:51 INC 24715636 07D01F MOUNT STREET NEAR THE CHURCH AND, WINCKLEY SQUARE, PRESTON, PR1 3AH Unknown UnknownY PERSONS REPORTED GRD 353729 429152
+POCSAG1200: Address:  269059  Function: 2  Alpha:   18:38-73 24/11/2021 18:33:51 INC 24715636 07D01F MOUNT STREET NEAR THE CHURCH AND, WINCKLEY SQUARE, PRESTON, PR1 3AH Unknown UnknownY PERSONS REPORTED GRD 353729 429152
+POCSAG1200: Address: 1058499  Function: 2  Alpha:   18:38-43 24/11/2021 18:33:51 INC 24715636 07D01F MOUNT STREET NEAR THE CHURCH AND, WINCKLEY SQUARE, PRESTON, PR1 3AH Unknown UnknownY PERSONS REPORTED GRD 353729 429152
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   18:38-05 24/11/2021 18:33:51 INC 24715636 07D01F MOUNT STREET NEAR THE CHURCH AND, WINCKLEY SQUARE, PRESTON, PR1 3AH Unknown UnknownY PERSONS REPORTED GRD 353729 429152
+POCSAG1200: Address:  338195  Function: 0 
+POCSAG1200: Address:  594010  Function: 3 
+POCSAG1200: Address: 1353066  Function: 0 
+POCSAG1200: Address: 2080495  Function: 2  Alpha:   N<ENQ>bg<DC2>
+POCSAG1200: Address:  858131  Function: 0 
+POCSAG1200: Address: 1337562  Function: 1  Alpha:   <STX><ETX>
+POCSAG1200: Address:  400568  Function: 1  Alpha:   <EM>U
+POCSAG1200: Address:  367283  Function: 3  Alpha:   l-
+POCSAG1200: Address:  338195  Function: 0 
+POCSAG1200: Address: 2080495  Function: 2  Alpha:   N<ENQ>bg<DC2>
+POCSAG1200: Address: 1538782  Function: 2 
+POCSAG1200: Address: 1965037  Function: 2  Alpha:   n 
+POCSAG1200: Address: 1406893  Function: 2 
+POCSAG1200: Address:  140308  Function: 3 
+POCSAG1200: Address: 1578604  Function: 1 
+POCSAG1200: Address: 1070259  Function: 0 
+POCSAG1200: Address: 1517187  Function: 0 
+POCSAG1200: Address:  173474  Function: 0  Alpha:   ST
+POCSAG1200: Address: 1127433  Function: 0 
+POCSAG1200: Address:  312672  Function: 0  Alpha:   18:38-85 24/11/2021 18:33:51 INC 24715636 07D01F MOUNT STREET NEAR THE CHURCH AND, WINCKLEY SQi i
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   18:38-57 01612060844
+POCSAG2400: Address:  216264  Function: 2  Alpha:   18:37-40 PROBLEM: Disk: C is CRITICAL on host ctstratsrp01oni, <CR><LF>PROBLEM: Disk: C is CRITICAL on host ctstratsrp01oni<CR><LF>Service: Disk: C<CR><LF>Host: ctstratsrp01oni<CR><LF>Alias: Sharepoint Server<CR><LF>Address: 10.32.58.23<CR><LF>Host Group Hierarchy: Opsview > Datacentr<NUL><NUL>
+POCSAG1200: Address: 1204957  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>CS
+POCSAG1200: Address: 1686364  Function: 1  Alpha:   pp
+POCSAG1200: Address:  315438  Function: 0  Alpha:   <EM><CAN>i<HT>D
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  696118  Function: 2  Alpha:   18:34-74 Please Call Switchboard<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1833241121+++TIME=1833241121<NUL>
 POCSAG1200: Address: 1022685  Function: 0  Alpha:   18:33-71 01173421905
@@ -961,40 +998,3 @@ POCSAG2400: Address: 1324032  Function: 2  Alpha:   17:03-59 Green: This is the 
 POCSAG2400: Address: 1323928  Function: 2  Alpha:   17:03-80 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1324060  Function: 2  Alpha:   17:03-06 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1323927  Function: 2  Alpha:   17:03-95 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323909  Function: 2  Alpha:   17:03-22 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG1200: Address:  931658  Function: 2  Alpha:   17:04-31 33445
-POCSAG2400: Address: 1324034  Function: 2  Alpha:   17:03-25 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324012  Function: 2  Alpha:   17:03-48 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324069  Function: 2  Alpha:   17:03-90 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 2000511  Function: 1 
-POCSAG2400: Address: 1324016  Function: 2  Alpha:   17:03-49 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address:  222896  Function: 2 
-POCSAG2400: Address:  453823  Function: 0  Alpha:   g<DC2>
-POCSAG2400: Address: 1101463  Function: 0 
-POCSAG2400: Address: 1990579  Function: 2  Alpha:   m<ENQ>@+da<SO>;0E<FS>X"<SO>,<DC1><BEL>VH<ETX>
-POCSAG2400: Address: 1326178  Function: 3 
-POCSAG2400: Address:  161768  Function: 2 
-POCSAG2400: Address:  503448  Function: 0 
-POCSAG2400: Address:  790911  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1265165  Function: 0 
-POCSAG2400: Address:  987036  Function: 3 
-POCSAG2400: Address: 1512689  Function: 2 
-POCSAG2400: Address:  111448  Function: 1  Alpha:   jp
-POCSAG2400: Address:  222902  Function: 2 
-POCSAG2400: Address: 1550232  Function: 1 
-POCSAG2400: Address: 1896519  Function: 3 
-POCSAG2400: Address:  177053  Function: 2 
-POCSAG2400: Address:  635650  Function: 0  Alpha:   <SO>e
-POCSAG2400: Address:  222898  Function: 2 
-POCSAG2400: Address:  453817  Function: 0 
-POCSAG2400: Address: 1101521  Function: 1 
-POCSAG2400: Address:  161771  Function: 2 
-POCSAG2400: Address:  503451  Function: 0 
-POCSAG2400: Address:  790906  Function: 1 
-POCSAG2400: Address: 1850610  Function: 3 
-POCSAG2400: Address:  775112  Function: 2  Alpha:   t. Pl
-POCSAG2400: Address:  957362  Function: 2 
-POCSAG2400: Address: 1323989  Function: 2  Alpha:   17:03-30 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324021  Function: 2  Alpha:   17:03-83 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323951  Function: 2  Alpha:   17:03-62 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324027  Function: 2  Alpha:   17:03-99 Green: This is the daily pager test. Please take no further action.<NUL>
