@@ -1,3 +1,37 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0733241121+++TIME=0733241121<NUL>
+POCSAG512: Address:  815232  Function: 0  Alpha:   <ENQ><ENQ><ENQ>A(KgiAZKggCOKA^]A<EOT>g@fSIKAbdfhjlnpr`bdfhjlnpr`
+POCSAG512: Address:  273040  Function: 3 
+POCSAG1200: Address:   40088  Function: 2  Alpha:   07:32-57 PLEASE CALL 23238 SEU TRIAGE <NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   07:31-94 PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLADS02MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLADS02MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: COOPENLADS02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.74.67<CR><LF>Host Group Hierarchy: <CR><LF>St<NUL><NUL>
+POCSAG1200: Address:   74574  Function: 3  Alpha:   u!<FS>lm
+POCSAG1200: Address: 1547285  Function: 3  Alpha:   {<ESC>
+POCSAG1200: Address:  853394  Function: 2  Alpha:   :1
+POCSAG1200: Address:  277425  Function: 0 
+POCSAG2400: Address:  549126  Function: 2  Alpha:   07:31-51 72943
+POCSAG1200: Address: 1288321  Function: 2  Alpha:   b@Rd<STX>
+POCSAG1200: Address: 1216768  Function: 2 
+POCSAG1200: Address:  837508  Function: 0  Alpha:   EeQ<SOH>MeQQEA<SOH>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   07:30-04 PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLPTC01MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLPTC01MC1<CR><LF>Service: Windows - Dr
+POCSAG2400: Address:  749388  Function: 2 
+POCSAG2400: Address:  279868  Function: 2 
+POCSAG2400: Address: 1840547  Function: 0 
+POCSAG2400: Address: 2080507  Function: 0 
+POCSAG2400: Address: 1666762  Function: 1 
+POCSAG2400: Address:  840113  Function: 1  Alpha:   : 
+POCSAG2400: Address: 1626152  Function: 1  Alpha:   !<SOH>*z)
+POCSAG2400: Address: 1843623  Function: 1  Alpha:   5<SO>Fg<DC2>
+POCSAG2400: Address: 1102249  Function: 2 
+POCSAG2400: Address:  686445  Function: 2  Alpha:   <ETB>k
+POCSAG2400: Address:  380767  Function: 3 
+POCSAG2400: Address: 1839261  Function: 1 
+POCSAG2400: Address: 2074853  Function: 0 
+POCSAG2400: Address: 1471963  Function: 1  Alpha:   <ACK><ENQ>Dw9*P#
+POCSAG2400: Address:  846770  Function: 1 
+POCSAG2400: Address: 1586082  Function: 0 
+POCSAG2400: Address: 2026352  Function: 2 
+POCSAG2400: Address: 1521568  Function: 3 
+POCSAG2400: Address: 2028156  Function: 1 
+POCSAG2400: Address:   24210  Function: 0  Alpha:   LR<BEL><ETX><NUL>
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   07:28-50 4131<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0728241121+++TIME=072<~41121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
@@ -964,37 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0118241121+++TIME=01
 POCSAG1200: Address:  108093  Function: 0  Alpha:   01:18-21 pLSE CALL sgh EXTN 2020<NUL><NUL>
 POCSAG2400: Address:  585266  Function: 2  Alpha:   01:18-67 PLEASE CALL 07678 464 060 2ND REQUEST <NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  286868  Function: 1 
-POCSAG1200: Address:  353963  Function: 3 
-POCSAG1200: Address:   94402  Function: 3  Alpha:   L<FS>
-POCSAG1200: Address: 1021750  Function: 2 
-POCSAG1200: Address: 1876158  Function: 1 
-POCSAG1200: Address: 1876157  Function: 1 
-POCSAG1200: Address: 1141539  Function: 2  Alpha:   i"<STX><DLE>d
-POCSAG1200: Address: 1815649  Function: 1 
-POCSAG2400: Address: 1356799  Function: 2  Alpha:   01:14-15 4283<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0113241121+++TIME=0113241121<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   01:13-96 4554<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   01:11-31 24/11/2021 01:10:13 INC 24712147 06D01 107 WELSBY ROAD, LEYLAND, PR25 1JD Male 94Y UNWELL SINCE YESTERDAY - PAIN ALL OVER - DIB - EXHAUSTED GRD 353027 421775<NUL><NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   01:11-87 24/11/2021 01:10:12 INC 24712146 06D02 FLAT 2, 28 CLIFFORD ROAD, BLACKPOOL, FY1 2PU Male 50Y DIB - COPD GRD 331604 438325<NUL>
-POCSAG1200: Address:  234377  Function: 2  Alpha:   01:11-61 24/11/2021 01:10:12 INC 24712146 06D02 FLAT 2, 28 CLIFFORD ROAD, BLACKPOOL, FY1 2PU Male 50Y DIB - COPD GRD 331604 438325<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   01:11-09 4163<NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   01:09-96 24/11/2021 01:08:51 INC 24712139 25B03 5 LYNE VIEW, NEWTON HYDE, SK14 4ND Male 28Y SUICIDAL GRD 395938 396543<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   01:09-26 24/11/2021 01:08:51 INC 24712139 25B03 5 LYNE VIEW, NEWTON HYDE, SK14 4ND Male 28Y SUICIDAL GRD 395938 396543<NUL>
-POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
-POCSAG2400: Address: 1141186  Function: 1  Alpha:   C<DC3>#<VT><VT><DC3><VT><ETX>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0108241121+++TIME
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1691885  Function: 0  Alpha:   !<SOH>
-POCSAG2400: Address: 1070265  Function: 3  Alpha:   <DC4>d<FF>lT
-POCSAG2400: Address:  109400  Function: 0  Alpha:   pj
-POCSAG2400: Address:  214616  Function: 2 
-POCSAG2400: Address: 1523060  Function: 1 
-POCSAG2400: Address:  867892  Function: 0 
-POCSAG2400: Address: 1914099  Function: 1 
-POCSAG2400: Address:   94538  Function: 3  Alpha:   ouP H
-POCSAG2400: Address: 1691880  Function: 0  Alpha:   !<SOH>y=N
-POCSAG2400: Address:   11729  Function: 0  Alpha:   01:05-74 A&E TRIAGE ON 723 8046 <NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0103241121+++TIME=0103241121<NUL>
-POCSAG1200: Address:  214620  Function: 2 
