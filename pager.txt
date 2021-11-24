@@ -1,3 +1,42 @@
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:14-73 3240<NUL>
+POCSAG1200: Address:  600697  Function: 0  Alpha:   15:14-68 JANETTE IS ON DUTY AT WELLINGTON ROAD<NUL><NUL>
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   15:14-59 3508<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:13-32 3298<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   15:13-87 PLEASE CALL JULIE EXT: 6810<NUL>
+POCSAG1200: Address: 1067597  Function: 2  Alpha:   15:13-02 01173421905
+POCSAG2400: Address: 1913540  Function: 2  Alpha:   15:12-49 3164<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1876028  Function: 2 
+POCSAG1200: Address: 1377760  Function: 3 
+POCSAG1200: Address:  386728  Function: 0 
+POCSAG1200: Address: 1022775  Function: 1  Alpha:   l<Dg<DC2>
+POCSAG1200: Address: 1712310  Function: 0 
+POCSAG1200: Address:   91270  Function: 2 
+POCSAG1200: Address:   88581  Function: 3 
+POCSAG1200: Address: 1238036  Function: 1  Alpha:   5<DC1>
+POCSAG1200: Address:  305196  Function: 0 
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
+POCSAG2400: Address: 1913934  Function: 2  Alpha:   15:10-94 3298<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   15:10-43 2798<NUL>
+POCSAG2400: Address: 1321021  Function: 2  Alpha:   15:10-80 4187<NUL>
+POCSAG1200: Address:  366080  Function: 0 
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:10-72 5010<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:10-32 4183<NUL>
+POCSAG1200: Address:  734563  Function: 0  Alpha:   &<SYN>
+POCSAG1200: Address:  676387  Function: 1 
+POCSAG1200: Address: 1188026  Function: 1 
+POCSAG1200: Address:  312840  Function: 3  Alpha:   0<DC1>
+POCSAG1200: Address:  379152  Function: 1 
+POCSAG1200: Address:  954455  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1502556  Function: 0  Alpha:   <FS><DLE>
+POCSAG1200: Address:  266851  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   15:10-63 24/11/2021 15:08:48 INC 24714787 31E01 44 KINGFISHER WAY, UPTON WIRRAL CH49, CH49 4PR Female 80Y UNCONSCIOUS - GRD 325689 388708
+POCSAG1200: Address:  585540  Function: 2  Alpha:   15:10-33 3997<NUL>
+POCSAG1200: Address: 1837169  Function: 1 
+POCSAG1200: Address:  892448  Function: 2 
+POCSAG1200: Address: 1582256  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1508241121+++TIME=1508241121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1508241121+++TIME=1508241121<NUL>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   15
@@ -959,42 +998,3 @@ POCSAG1200: Address:  269047  Function: 2  Alpha:   13:06-32 24/11/20
 POCSAG1200: Address:  886915  Function: 2  Alpha:   h@F@<SUB><SI><GS>)
 POCSAG1200: Address: 1461274  Function: 0  Alpha:   <ESC><DLE>
 POCSAG1200: Address:  266849  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1204957  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
-POCSAG1200: Address:  105308  Function: 0  Alpha:   nl
-POCSAG1200: Address:  216466  Function: 2  Alpha:   13:06-00 8193<NUL>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <ACK>k
-POCSAG1200: Address: 1067597  Function: 2  Alpha:   13:05-01 01173426117
-POCSAG1200: Address: 1089611  Function: 2  Alpha:   13:04-37 24/11/2021 13:01:35 INC 24714193 O/S DAVID LLOYD, 102 CHORLEY STREET, HEATON BOLTON, BL1 4AL Female 45Y RTC GRD 371046 409526
-POCSAG2400: Address: 1323893  Function: 2  Alpha:   13:04-53 4396<NUL>|<DEL><DEL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:04-68 4910<NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   13:03-05 4839<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1303241121+++TIME=1303241121<NUL>
-POCSAG1200: Address: 1476880  Function: 1 
-POCSAG1200: Address:  873640  Function: 0 
-POCSAG1200: Address:   83662  Function: 1  Alpha:   T - Sl3<HT>
-POCSAG1200: Address:  961846  Function: 2 
-POCSAG1200: Address:  534068  Function: 2 
-POCSAG1200: Address: 1153938  Function: 2 
-POCSAG1200: Address:  314641  Function: 3  Alpha:   ZH
-POCSAG1200: Address:  757849  Function: 1 
-POCSAG1200: Address: 1516920  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1303241121+++TIME=1303241121<NUL>
-POCSAG1200: Address:   40089  Function: 2  Alpha:   13:03-57 24/11/2021 12:54:43 INC 24714175 28C01J 5 BROOKDALE AVENUE, ANCHORSHOLME THORNTON CLEVELEYS, FY5 3RH Female 85Y 1ST - SLURRED SPEECH GRD 332199 441877
-POCSAG2400: Address: 1022276  Function: 0  Alpha:   13:02-86 NHSBT - DONOR REFERRAL. Please call SIMONE PATTERSON - SISTER on Direct Dial Number 0161 627 8925 Hospital ROYAL OLDHAM HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323140  Function: 2  Alpha:   13:02-25 NHSBT - DONOR REFERRAL. Please call SIMONE PATTERSON - SISTER on Direct Dial Number 0161 627 8925 Hospital ROYAL OLDHAM HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:02-09 4188<NUL>
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   13:02-12 NHSBT - DONOR REFERRAL. Please call SIMONE PATTERSON - SISTER on Direct Dial Number 0161 627 8925 Hospital ROYAL OLDHAM HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323145  Function: 2  Alpha:   13:02-50 NHSBT - DONOR REFERRAL. Please call SIMONE PATTERSON - SISTER on Direct Dial Number 0161 627 8925 Hospital ROYAL OLDHAM HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1320373  Function: 2  Alpha:   13:02-85 4312<NUL>|<DEL><DEL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:02-19 4387<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   13:02-75 INC ALERT No: 16819073 Cardiac or Respirat'y Arrest/Death - COLLAPSED BREATHING SHALLOW LIPS BLUE, AT: 54B SEVERN ROAD, WESTON-SUPER-MARE, BS23 1DT, Time of Call: 24/11/2021 12:59:17, Co-ords: 51.3381849 -2.9759034<NUL><NUL>
-POCSAG2400: Address:   28919  Function: 0  Alpha:   13:01-62 2054<NUL>
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   13:00-64 5090<NUL>
-POCSAG1200: Address: 1067597  Function: 2  Alpha:   13:00-00 01173421908
-POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
-POCSAG2400: Address:  433689  Function: 2  Alpha:   13:00-03 6630<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:00-18 4312<NUL>
-POCSAG2400: Address: 1913641  Function: 2  Alpha:   12:59-15 5342<NUL>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   12:59-52 69002
