@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1913815  Function: 2  Alpha:   15:49-01 5076<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   15:48-88 2317<NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   15:47-52 62178
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   @<EM>
+POCSAG2400: Address: 1487605  Function: 1 
+POCSAG1200: Address: 1321271  Function: 2  Alpha:   15:46-83 2372<NUL>
+POCSAG2400: Address: 1913802  Function: 2  Alpha:   15:45-15 5072<NUL>
+POCSAG1200: Address: 1485549  Function: 3  Alpha:   E`
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   p<SO>^<DLE>Gh1f
 POCSAG1200: Address: 1817112  Function: 2  Alpha:   15:44-43 Destination: D105 SSC In\123, Booking Ref#: 802246, Vehicle: pj19ffw. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG1200: Address:  135429  Function: 2  Alpha:   15:44-46 6914<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1543241121+++TIME=1543241121<NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:30-42 66831
 POCSAG1200: Address: 1224795  Function: 3 
 POCSAG1200: Address:  360802  Function: 1 
 POCSAG1200: Address: 1443225  Function: 0  Alpha:   0"
-POCSAG1200: Address: 1815648  Function: 1  Alpha:   6<ACK>
-POCSAG1200: Address: 1267294  Function: 0 
-POCSAG1200: Address:  445630  Function: 0 
-POCSAG1200: Address: 1090314  Function: 2  Alpha:   13:30-52 3t
-POCSAG1200: Address: 1892977  Function: 0 
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:29-81 4901<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1328241121+++TIME=1328241121<NUL>
-POCSAG1200: Address: 1461148  Function: 2  Alpha:   <BS>dYy<LF>t(J<NUL>4v2&<ACK><SYN><BEL>D
-POCSAG1200: Address:  823971  Function: 2 
