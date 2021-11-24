@@ -1,3 +1,56 @@
+POCSAG1200: Address: 1912918  Function: 3 
+POCSAG1200: Address: 1657868  Function: 1  Alpha:   <ESC>*'<DLE>cbv0
+POCSAG1200: Address:  627234  Function: 1  Alpha:   <FF>lD<STX>z
+POCSAG1200: Address: 2007226  Function: 3 
+POCSAG1200: Address: 1656001  Function: 1 
+POCSAG1200: Address:  563713  Function: 3 
+POCSAG1200: Address:  136232  Function: 3 
+POCSAG1200: Address:  567903  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address:  856903  Function: 1 
+POCSAG1200: Address: 1652814  Function: 2 
+POCSAG1200: Address:  878734  Function: 3 
+POCSAG1200: Address: 1254471  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address: 1127438  Function: 2  Alpha:   )dP+P
+POCSAG1200: Address:  779789  Function: 3 
+POCSAG1200: Address:  758972  Function: 2  Alpha:   <<ENQ>
+POCSAG1200: Address: 1419907  Function: 2  Alpha:   <SUB><DC3>
+POCSAG1200: Address:  918682  Function: 3  Alpha:   <FS>"
+POCSAG1200: Address: 1424175  Function: 3  Alpha:   O%(16
+POCSAG1200: Address: 1246815  Function: 3 
+POCSAG1200: Address: 1204957  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address: 1419100  Function: 0  Alpha:   rl
+POCSAG1200: Address: 1246811  Function: 3 
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   20:58-24 24/11/2021 20:57:16 INC 24716208 MILNROW ROAD, SHAW OLDHAM, OL2 7TN Female UnknownY RTC 2 VEHICLE, TRAPPED GRD 394056 409435<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2058241121+++TIME=2058241121<NUL>
+POCSAG1200: Address: 2090744  Function: 3 
+POCSAG1200: Address:  549077  Function: 2  Alpha:   20:58-52 666<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2058241121+++TIME=2058241121<NUL>
+POCSAG1200: Address: 1500150  Function: 2  Alpha:   20:58-31 Call 24716188 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG2400: Address: 1323378  Function: 2  Alpha:   20:57-88 01633234234
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   20:57-79 INC ALERT No: 16820672 Ineffective breathing - F - UNSETTLED - BREATHING RAPID - TAKES BREATHES AND THEN STOPS - HIGH TEMP AND A COLD, AT: Mobile Mobile Phone Coordinates, Closest Area Detected.., GREENHILL CORSHAM, Time of Call: 24/11/2021 20:56:27, Co-ords: 51.421292502 -2.203012003
+POCSAG1200: Address:  585254  Function: 2  Alpha:   20:57-17 01173421904
+POCSAG1200: Address: 1518719  Function: 3  Alpha:   O%
+POCSAG1200: Address:   78326  Function: 0  Alpha:   R 
+POCSAG1200: Address:  675413  Function: 1 
+POCSAG1200: Address: 1485044  Function: 1  Alpha:   ZB
+POCSAG1200: Address:   71139  Function: 0  Alpha:    F
+POCSAG1200: Address:  337354  Function: 3  Alpha:   <DLE>(
+POCSAG1200: Address: 1898759  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1213073  Function: 0  Alpha:   NN, K
+POCSAG1200: Address: 1676097  Function: 2 
+POCSAG1200: Address:  693896  Function: 2 
+POCSAG1200: Address:  356384  Function: 0 
+POCSAG1200: Address: 1416030  Function: 0 
+POCSAG1200: Address: 1246814  Function: 3 
+POCSAG1200: Address: 1359261  Function: 0 
+POCSAG1200: Address:   98580  Function: 2  Alpha:   dlNjd
+POCSAG1200: Address:  183515  Function: 1  Alpha:   <FS><FS>
+POCSAG1200: Address:  629297  Function: 2  Alpha:   <FS><ENQ><SUB><DC4>%
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   20:56-83 33347
+POCSAG1200: Address: 2042808  Function: 0 
+POCSAG1200: Address:  216321  Function: 2  Alpha:   20:55-18 (2/2) Talkgrp  FBUK-OPS01 (55*) (DGNA); Additional_Data Address Classification Terraced<NUL>
+POCSAG1200: Address:  216321  Function: 2  Alpha:   20:55-18 (1/2)030431-24112021; F4.3.0.P FIRE - CHIMNEY; 18 JONES WAY,HEDGERLEY,SL2 3YG; 496906,186844; Assigned: JY17P2; Roles    JY17P2:Main Pump;<NUL>
 POCSAG1200: Address: 1246808  Function: 3 
 POCSAG1200: Address: 1246813  Function: 3 
 POCSAG1200: Address: 1770612  Function: 2  Alpha:   20:54-33 8925<NUL>
@@ -945,56 +998,3 @@ POCSAG1200: Address:  702539  Function: 2
 POCSAG1200: Address: 1321859  Function: 2  Alpha:   19:17-93 DSCC. PIN: 13689. CALL BACK ON USUAL NUMBER. 
 POCSAG2400: Address: 1022477  Function: 0  Alpha:   19:17-82 x87932 For Exercise Info<NUL>
 POCSAG2400: Address: 1022472  Function: 0  Alpha:   19:17-98 x87932 For Exercise Info<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   19:17-31 24/11
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   19:16-83 24/11/2021 19:15:09 INC 24715812 09E02 ACORN LODGE NURSING HOME, (1) GUIDO STREET, FAILSWORTH MANCHESTER, M35 0AL Female 87Y FEMALE NOT BREATHING GRD 389194 401186<NUL><NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   19:16-12 24/11/2021 19:15:09 INC 24715812 09E02 ACORN LODGE NURSING HOME, (1) GUIDO STREET, FAILSWORTH MANCHESTER, M35 0AL Female 87Y FEMALE NOT BREATHING,WRD 389194 401186<NUL><NUL>
-POCSAG1200: Address: 1622169  Function: 3  Alpha:   A<SYN>
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   19:16-90 24/11/2021 19:14:33 INC 24715810 21D01T O/S, 12 ASHBURTON ROAD, NORTH BLACKPOOL, FY1 2PE Male 28Y BLEEDING FROM HEAD - VOMITED GRD 330966 437146<NUL>
-POCSAG1200: Address: 1336482  Function: 0  Alpha:   z|<SUB>e<STX><LF><DC3><ETX><LF><FS>E<DC4>,<NAK>%}t<EOT><DC2>}<FF>$d<STX>r|<DC4>%E<EOT><DC2>d<FF><FS>\<EOT>}|dd<STX>2L<CR><ETX><DC2><ETX>-<EOT>j<FF>f.<ACK><DC2>CK<ENQ><DC2>d,,$Lt<<EOT>2<DC4>}l<EOT>B,<FF>$<EOT>j<STX>2}lL$-$<EOT>:<DC4>%<EOT><SUB><ESC><ETX>K33<ETX>"<ESC>;<VT>#3<ETX>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   19:16-03 24/11/2021 19:14:29 INC 24715809 06C01 1 FIRSWOOD MOUNT, GATLEY CHEADLE, SK8 4JY Male 90Y MALE HAS A COUGH - DIB GRD 384346 387631<NUL>
-POCSAG1200: Address:   49263  Function: 2  Alpha:   19:15-82 UHND MEDICAL EMERGENCY WARD 5 BED 11B <NUL>
-POCSAG2400: Address: 1323893  Function: 2  Alpha:   19:15-54 4954<NUL>
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   19:15-20 161 - Man Area/Building Control Points -  COMMS Exercise
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   19:15-81 161 - Man Area/Building Control Points -  COMMS Exercise
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   19:15-97 161 - Man Area/Building Control Points -  COMMS Exercise
-POCSAG2400: Address:  134122  Function: 1  Alpha:   47J9P<ACK><DLE>P
-POCSAG2400: Address: 1043674  Function: 3 
-POCSAG2400: Address: 1584185  Function: 0  Alpha:   v&
-POCSAG2400: Address: 1578405  Function: 0 
-POCSAG2400: Address: 1337045  Function: 0 
-POCSAG2400: Address: 1157980  Function: 0  Alpha:   fd
-POCSAG2400: Address: 2044947  Function: 0  Alpha:   X<FS>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   19:15-26 24/11/2021 19:ss+02 INC 24715803 30D03 20 DALEBROOK CLOSE, CHILDWALL L25, L25 2YW Female 85Y F HEAD INJURY GRD 342712 389269<NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   19:15-34 24/11/2021 19:13:02 INC 24715803 30D03 20 DALEBROOK CLOSE, CHILDWALL L25, L25 2YW Female 85Y F HEAD INJURY GRD 342712 389269<NUL>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   19:15-61 62877
-POCSAG1200: Address: 1312531  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address: 1779333  Function: 1 
-POCSAG1200: Address:   44245  Function: 2 
-POCSAG1200: Address: 1233244  Function: 3 
-POCSAG1200: Address:  401693  Function: 2  Alpha:   19:14-51 *URGENT* PLS CALL SARA Pc%)b&'
-POCSAG1200: Address: 1312627  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216569  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address: 1312636  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216566  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216562  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216559  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216558  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216557  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216658  Function: 2  Alpha:   19:14-43 19:17:11 S19P2 Fire call 14709
-POCSAG1200: Address:  216554  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216564  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address: 1000014  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  216568  Function: 2  Alpha:   19:17:11 S19P2 Fire call 14709<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX><ENQ>
-POCSAG1200: Address: 1139920  Function: 0 
-POCSAG1200: Address: 1068668  Function: 2 
-POCSAG1200: Address:  744103  Function: 3  Alpha:   3<HT>
-POCSAG1200: Address:  483597  Function: 2 
-POCSAG1200: Address:  433337  Function: 2  Alpha:   X<CAN>
-POCSAG1200: Address:  858129  Function: 0 
-POCSAG1200: Address: 1337560  Function: 1  Alpha:   <DC2><ETX>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   19:14-45 24/11/2021 19:12:37 INC 24715799 06D01 29 ANNE CLOSE, TURF MOOR BURNLEY, BB10 4AX Male 71Y ANGINA - DIB GRD 384898 432455<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   19:14-30 24/11/2021 19:12:37 INC 24715799 06D01 29 ANNE CLOSE, TURF MOOR BURNLEY, BB10 4AX Male 71Y ANGINA - DIB GRD 384898 432455<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   I<EM>
-POCSAG2400: Address: 1814981  Function: 0  Alpha:   19:13-91 PLS CALL SIMON FROM KIMLOSS ON 07835 796 611 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1913241121+++TIME=1913241121<NUL>
