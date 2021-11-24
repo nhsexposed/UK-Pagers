@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523241121+++TIME=0523241121<NUL>
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   05:23-04 24/11/2021 05:20:57 INC 24712672 23B01I 281A WARRINGTON ROAD, WIDNES WA8, WA8 0AU Female 29Y F - OVERDOSE 16 PARACEOTOMOL GRD 352745 386461
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   05:22-06 please call ext. 5400<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518241121+++TIME=0518241121<NUL>
 POCSAG2400: Address: 2088952  Function: 3 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:18-28 3106<NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address:  535718  Function: 3
 POCSAG1200: Address: 2047326  Function: 3 
 POCSAG1200: Address:  825765  Function: 0  Alpha:   N 
 POCSAG1200: Address:  156420  Function: 2 
-POCSAG1200: Address: 1068138  Function: 1  Alpha:   3<ETX>3<ETB><ETX>]Me
-POCSAG1200: Address: 1149090  Function: 3 
-POCSAG1200: Address: 1705057  Function: 2  Alpha:   X<EM>
-POCSAG1200: Address:  378912  Function: 1  Alpha:   <EM>6
