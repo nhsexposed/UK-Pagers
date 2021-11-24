@@ -1,3 +1,60 @@
+POCSAG2400: Address:   45249  Function: 0 
+POCSAG2400: Address:  698244  Function: 3  Alpha:   nsportation
+POCSAG2400: Address:  772076  Function: 0 
+POCSAG2400: Address:  445851  Function: 2 
+POCSAG2400: Address: 1349439  Function: 1 
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   15:34-35 4954<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1533241121+++TIME=1533241121<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   15:33-71 24/11/2021 15:31:44 INC 24714891 09E02 6 THURLBY AVENUE, HIGHER BLACKLEY MANCHESTER, M9 6FS Female 6D 6 DAYS OLD - VOMITING - DIB GRD 386190 404169<NUL>
+POCSAG1200: Address:  549759  Function: 2  Alpha:   15:33-88 ATTEND:<LF>RTA PERSON TRAPPED<LF>65 GARRYDUFF ROAD,.,BALLYMONEY,.<LF>0P 2T<LF>33374211<LF>C 97328 23917<LF>N2171 N2401 NO21<LF>END<NUL>
+POCSAG2400: Address: 1251058  Function: 2 
+POCSAG2400: Address: 1793033  Function: 1 
+POCSAG2400: Address:  199897  Function: 3 
+POCSAG2400: Address: 1912920  Function: 3  Alpha:   6<ACK>
+POCSAG2400: Address:   71214  Function: 0  Alpha:   S, TimY<EOT>
+POCSAG2400: Address: 1651725  Function: 1  Alpha:   <DC4><DC4>
+POCSAG2400: Address:  824100  Function: 3  Alpha:   Lt<FS>D<FF>
+POCSAG2400: Address: 1261755  Function: 0 
+POCSAG2400: Address:   90610  Function: 1  Alpha:   UR
+POCSAG2400: Address:  788777  Function: 3  Alpha:   s4
+POCSAG2400: Address: 1349439  Function: 1 
+POCSAG2400: Address: 1684318  Function: 0  Alpha:   nr
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   cp
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:33-73 5002<NUL>
+POCSAG2400: Address: 1001191  Function: 2  Alpha:   15:32-87 test test <NUL>
+POCSAG2400: Address: 1259410  Function: 2  Alpha:   15:33-42 2636<NUL>
+POCSAG1200: Address: 1611009  Function: 3 
+POCSAG1200: Address:  396887  Function: 1  Alpha:   O%(e,<FS><DC4>}
+POCSAG1200: Address:  886918  Function: 2  Alpha:   b@hr@
+POCSAG1200: Address: 1449021  Function: 1  Alpha:   <ESC><DLE>
+POCSAG1200: Address: 1671978  Function: 3  Alpha:   hb
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1141208  Function: 0 
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   15:7!<HT><ESC><EM>xY<EOT>
+POCSAG2400: Address:  583537  Function: 2  Alpha:   15:31-82 87095
+POCSAG1200: Address:  108014  Function: 0  Alpha:   15:31-03 TEST PAGE - NO RESPONSE NEEDED
+POCSAG2400: Address: 1022524  Function: 0  Alpha:   15:31-53 Steve North Gate pedes|vi`n is down, can you please go and investigate
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:31-85 4155<NUL>
+POCSAG1200: Address: 1289474  Function: 1  Alpha:   <FF><ETX>
+POCSAG1200: Address:  853345  Function: 2  Alpha:   <SYN>P
+POCSAG1200: Address:  342641  Function: 2 
+POCSAG1200: Address:  843056  Function: 1 
+POCSAG1200: Address:  535344  Function: 0 
+POCSAG1200: Address:  852550  Function: 0  Alpha:   L6<NUL>5E|3<HT>
+POCSAG1200: Address:  324582  Function: 3 
+POCSAG1200: Address:  255181  Function: 1 
+POCSAG1200: Address:  955580  Function: 2  Alpha:   $<EOT>
+POCSAG1200: Address:  576529  Function: 0  Alpha:   <LF><EM>
+POCSAG1200: Address: 1335489  Function: 1 
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   15:31-76 141<NUL><NUL>
+POCSAG1200: Address:  152361  Function: 2 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:30-55 33960
+POCSAG1200: Address:  958551  Function: 0 
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   A<EM>
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   15:29-74 North Group and North Gate Turnstiles are in fault, please use main gate turnstiles - SSM<NUL><NUL>
+POCSAG1200: Address:  159688  Function: 1 
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   15:29-26 24/11/2021 15:25:44 INC 24714863 12C01 19 WEST END AVENUE, COPPULL, PR7 5DB Male 78Y TALKING TO HIMSELF, NOT MAKING SENSE, NOT EATING GRD 355779 41408
 POCSAG1200: Address: 1001127  Function: 2  Alpha:   15:29-32 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
 POCSAG1200: Address: 1312437  Function: 2  Alpha:   15:29-36 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
 POCSAG1200: Address: 1032925  Function: 3  Alpha:   F<DLE>
@@ -941,60 +998,3 @@ POCSAG1200: Address: 1522781  Function: 3
 POCSAG1200: Address: 1127435  Function: 0  Alpha:   agJ#d
 POCSAG1200: Address: 1468450  Function: 3  Alpha:   y9
 POCSAG1200: Address:   45754  Function: 2 
-POCSAG1200: Address: 1460568  Function: 3 
-POCSAG1200: Address: 1072952  Function: 0 
-POCSAG1200: Address: 1450029  Function: 1  Alpha:   <ENQ>tziI<LF>4xYY<BS>$zYjI<BS>t(J<BS>4v<ACK>Gv6<ACK>D&&v6<SYN><BEL><NUL><NUL>
-POCSAG1200: Address:  930510  Function: 2  Alpha:   13:23-24 24/11/2021 13:21:16 INC 24714275 31D01 25 RAWSTHORNE AVENUE, HASLINGDEN ROSSENDALE, BB4 4BN Male 63Y LOSING CONSCIOUSNE
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:22-65 4554<NUL>
-POCSAG1200: Address:  621776  Function: 2 
-POCSAG1200: Address:  181223  Function: 3  Alpha:   O%(3<DC1>
-POCSAG1200: Address:  153616  Function: 1 
-POCSAG1200: Address:  629287  Function: 3  Alpha:   <STX><DC2>tg<DC2>
-POCSAG1200: Address: 1516646  Function: 0 
-POCSAG1200: Address: 1155813  Function: 2 
-POCSAG1200: Address: 1238924  Function: 0 
-POCSAG1200: Address: 1750091  Function: 2 
-POCSAG1200: Address:  631595  Function: 3  Alpha:   bl
-POCSAG1200: Address:  153617  Function: 1 
-POCSAG1200: Address:  469405  Function: 1 
-POCSAG1200: Address: 1057076  Function: 1 
-POCSAG1200: Address: 1750092  Function: 2 
-POCSAG1200: Address:  676938  Function: 3  Alpha:   ST3<DC1>(P5Q
-POCSAG1200: Address: 1445721  Function: 3 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   13:22-65 24/11/2021 13:21:16 INC 24714275 31D02 R<SUB><DLE>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269100  Function: 2  Alpha:   13:22-57 24/11/2021 13:20:55 INC 24714274 12C01 57 GROUSE STREET, FALINGE ROCHDALE, OL12 0RG Male 53Y Q FIT CATATONIC GRD 389671 414362<NUL><NUL>
-POCSAG1200: Address:  428069  Function: 2 
-POCSAG1200: Address:  825148  Function: 3 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   13:22-64 24/11/2021 13:20:55 INC 24714274 12C01 57 GROUSE STREET,<NUL>c 
-POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
-POCSAG2400: Address: 1242697  Function: 2  Alpha:   13:21-29 p<US><DC3>& Order delivered: Millet Sprays 1KG | Premium |b<NUL>&<NUL><NUL>
-POCSAG2400: Address: 1913682  Function: 2  Alpha:   13:21-26 5204<NUL>
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:20-80 5530<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   13:20-24 24/11/2021 13:17:26 INC 24714258 02E01 4 RIDGMONT AVENUE, NORRIS GREEN L11, L11 3BT Female 56Y NOT AWAKE COPD/ASTHMA Q ALERGIC REACTION GRD 338658 394941
-POCSAG1200: Address:  428347  Function: 2  Alpha:   13:20-66 24/11/2021 13:17:26 INC 24714258 02E01 4 RIDGMONT AVENUE, NORRIS GREEN L11, L11 3BT Female 56Y NOT AWAKE COPD/ASTHMA Q ALERGIC REACTION GRD 338658 394941
-POCSAG1200: Address: 2073209  Function: 0 
-POCSAG1200: Address: 2043466  Function: 1  Alpha:   <STX><ENQ>
-POCSAG1200: Address:   75153  Function: 0  Alpha:   DG
-POCSAG1200: Address:  394329  Function: 1 
-POCSAG1200: Address:  803888  Function: 2 
-POCSAG1200: Address: 1908927  Function: 2  Alpha:   O%
-POCSAG2400: Address:  549209  Function: 2  Alpha:   13:19-41 Last chance: B#4.99 for unmissable shows, Ends Friday. Stream brand new Dexter: New Blood, Suits, Succession and more with your exclusive 3 month offer.<CR><LF><CR><LF>Last chance: B#4.99 a month for Entertainment<CR><LF><CR><LF>Dexter: New Blood<CR><LF>Sky Atlan
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   13:19-87 8261 please
-POCSAG1200: Address:  549768  Function: 2  Alpha:   13:19-62 ~S44 ANIMAL RESC MOBILISED TO PIG FARM FIRE S31  - MANY THANKS
-POCSAG1200: Address:  553838  Function: 3  Alpha:   Fd
-POCSAG2400: Address: 1542773  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1318241121+++TIME=1318241121<NUL>
-POCSAG2400: Address: 1913751  Function: 2  Alpha:   13:18-85 4188<NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   13:18-06 4316<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   13:18-31 24/11/2021 13:17:32 INC 24714259 11D02U 40 FAIRMEAD ROAD, NORRIS GREEN L11, L11 5AT Male 7M 7 MONTHS OLD BABY -LETHARGIC AND VOMITING GRD 338533 39482
-POCSAG1200: Address: 2017494  Function: 2  Alpha:   UJ
-POCSAG1200: Address: 2074228  Function: 2 
-POCSAG1200: Address:  600597  Function: 0  Alpha:   13:17-83 DSCC OWN CASE PIN NUMBER: 12493 PLEASE CALL 03457 500 620<NUL><NUL>
-POCSAG1200: Address: 2014336  Function: 2  Alpha:   M?m<CR><NUL>
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:17-79 3106<NUL>
-POCSAG2400: Address: 1913814  Function: 2  Alpha:   13:17-66 4002<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   13:17-70 24/11/2021 13:08:02 INC 24714223 01A03 MEREDITH COURT - 
-POCSAG2400: Address: 1913816  Function: 2  Alpha:   13:17-38 5202<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:17-78 4316<NUL>
