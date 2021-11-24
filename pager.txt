@@ -1,3 +1,20 @@
+POCSAG1200: Address:  722604  Function: 2 
+POCSAG1200: Address: 1444955  Function: 0 
+POCSAG1200: Address: 1857555  Function: 1 
+POCSAG1200: Address:  535746  Function: 1  Alpha:   +#
+POCSAG1200: Address:  721418  Function: 3 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v<SYN><ACK>6<ACK>
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address: 1157935  Function: 3  Alpha:   O%(13
+POCSAG1200: Address:  206431  Function: 3 
+POCSAG1200: Address: 1204957  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address:  625500  Function: 1  Alpha:   rr
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0223241121+++TIME=0223241121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:23-91 4183<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   02:20-02 8013 IP1
+POCSAG2400: Address:  623452  Function: 0  Alpha:   r`
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <ACK>/
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0213241121+++TIME=0213241121<NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1321864  Function: 2  Alpha:   21:46-10 23/11/2021 21:44:42 INC 24711455 09E02 136 DOUGLAS ROAD, ATHERTON MANCHESTER, M46 9FE Male 87Y CONFUSED - SAT IN CAHIR - CANT TALK - DIB GRD 368290 402996<NUL><NUL>
 POCSAG1200: Address: 1058495  Function: 2  Alpha:   21:46-36 ARSON REFERRAL CHECK EMAIL<NUL><NUL>
 POCSAG1200: Address: 1203329  Function: 1  Alpha:   .i
-POCSAG1200: Address:  133888  Function: 2  Alpha:   $'
-POCSAG1200: Address:  658135  Function: 1  Alpha:   <SI>-
-POCSAG1200: Address:  444511  Function: 3 
-POCSAG1200: Address: 1447094  Function: 0 
-POCSAG1200: Address: 1377644  Function: 0 
-POCSAG1200: Address: 1478419  Function: 2  Alpha:   <EM>h
-POCSAG1200: Address: 1221234  Function: 1  Alpha:   <STX>A
-POCSAG1200: Address: 1473722  Function: 0 
-POCSAG1200: Address:  428064  Function: 1  Alpha:   <EM>i
-POCSAG1200: Address:  874559  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1584767  Function: 1 
-POCSAG1200: Address:  853333  Function: 3  Alpha:   i$g#<DLE>
-POCSAG1200: Address:  301237  Function: 2 
-POCSAG1200: Address: 1712283  Function: 0 
-POCSAG1200: Address:   35595  Function: 0 
-POCSAG1200: Address: 1087946  Function: 3 
-POCSAG1200: Address:  593809  Function: 1  Alpha:   IziI<ENQ>
