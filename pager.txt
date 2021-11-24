@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1312595  Function: 2  Alpha:   08:41-59  NOTIFY - DATE: 24.11.21    TIME: 0900 WT AV IMMEDIATE - 17 WT AV RECALL (TRAINING) - 1 ON-CALL - 1 MAX 1 MIN<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2011253  Function: 2 
+POCSAG1200: Address: 1312611  Function: 2  Alpha:   08:41-89  NOTIFY - DATE: 24.11.21    TIME: 0900 WT AV IMMEDIATE - 17 WT AV RECALL (TRAINING) - 1 ON-CALL - 1 MAX 1 MIN<NUL>
+POCSAG1200: Address: 1275531  Function: 2  Alpha:   E]<SOH>]R<STX>%\<STX>I<SYN><SO><ACK>22<STX>!QJ<ACK>&:&:<RS>&<SOH>5<SOH>E<SOH>=:6<CR><ACK>22<STX>5<SOH>E<SOH>5<ACK>b<STX>E<SOH>5&:<STX><NUL>
+POCSAG1200: Address:  369502  Function: 1  Alpha:   hd
+POCSAG1200: Address:  200285  Function: 2 
+POCSAG1200: Address: 1415207  Function: 0  Alpha:   O%h<STX>E
+POCSAG1200: Address:  333845  Function: 2  Alpha:   S3K0<DLE><ETX><DC3>(<ETX>(<FF>
+POCSAG1200: Address:  761396  Function: 1  Alpha:   <STX>j
+POCSAG1200: Address: 1650275  Function: 3 
+POCSAG1200: Address:  348867  Function: 0 
+POCSAG1200: Address:  819730  Function: 3 
+POCSAG1200: Address:  300681  Function: 2  Alpha:   0<DLE>
+POCSAG1200: Address:  658257  Function: 0 
+POCSAG1200: Address: 1528480  Function: 0 
+POCSAG1200: Address: 1271502  Function: 3 
+POCSAG1200: Address:  370733  Function: 0 
+POCSAG1200: Address: 1413987  Function: 3  Alpha:   "<GS>
+POCSAG1200: Address:  395602  Function: 1 
+POCSAG1200: Address: 1716298  Function: 1 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   08:41-42 2427<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   08:40-99 2447<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   08:40-93 3255<NUL>
 POCSAG1200: Address: 1258904  Function: 2  Alpha:   08:38-13 2201<NUL>
 POCSAG1200: Address:  858419  Function: 2 
 POCSAG1200: Address: 2028151  Function: 2 
@@ -974,27 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1257025  Function: 2  Alpha:   02:35-42 DSCC DUTY CASE FOR PIN 10452, 03457 500 620 <NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0233241121+++TIME=0233241121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0233241121+++TIME=0233241121<NUL>
-POCSAG1200: Address: 1815035  Function: 2  Alpha:   02:33-45 X-CLAMP TIME - Donor: 153075, Hospital: ROYAL BOURNEMOUTH, HJ1139, DOB: 01/02/1969 - X-CLAMP: 02:30
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  994931  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1732963  Function: 0 
-POCSAG2400: Address: 1671954  Function: 2  Alpha:   @fl`@
-POCSAG2400: Address:   67209  Function: 2 
-POCSAG2400: Address:  193249  Function: 2 
-POCSAG2400: Address:  731288  Function: 1  Alpha:   *j
-POCSAG2400: Address:  823463  Function: 0  Alpha:   O%
-POCSAG2400: Address:   78437  Function: 2 
-POCSAG1200: Address:   67451  Function: 1 
-POCSAG1200: Address:  731290  Function: 1  Alpha:   J:2=:<SYN>CAECq
-POCSAG1200: Address:  823457  Function: 0 
-POCSAG1200: Address: 1648201  Function: 2 
-POCSAG1200: Address:  198255  Function: 2  Alpha:   <DC1>h0<DLE><DC3><DC3>H4<DC1><BS><DC4>2<DC2><DC3>3<DC2><DC4>h<DC4>2UT<DC3>hS<DC3><BS>,l<FF><FF><CR>hL<CR><FF>H,<SO><CR><BS><NUL>
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:31-89 PL
-POCSAG1200: Address: 1313126  Function: 2  Alpha:   02:31-94 PLEASE CALL RE PHILLIP SHURN ON 01304 360 294 <NUL><NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   02:31-82 24/11/2021 02:28:18 INC 24712329 21D02M 33 GARWOOD CLOSE, OLD HALL WARRINGTON WA5, WA5 8TQ Female 81Y NOSE BLEEDING GRD 358173 390047
-POCSAG1200: Address:  920604  Function: 0 
-POCSAG1200: Address:  789300  Function: 3 
-POCSAG1200: Address: 1469123  Function: 0  Alpha:   <VT>;
-POCSAG1200: Address: 1352770  Function: 1 
-POCSAG1200: Address:  575857  Function: 1  Alpha:   G 
