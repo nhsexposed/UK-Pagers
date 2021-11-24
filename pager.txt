@@ -1,3 +1,56 @@
+POCSAG1200: Address: 1031534  Function: 2 
+POCSAG2400: Address: 1320171  Function: 2  Alpha:   09:59-37 80300
+POCSAG1200: Address: 1914568  Function: 0  Alpha:   A<FF>K[CYKAnh2A<DLE><VT><ETX><HT>A<DC2><GS><NAK>A<STX><CR>)<VT>%A<FF><ETX><EM><EM>A<CAN><ETX>')A<FS><DC3><SI><DC1>)Y@<BS>%<US>/G3{A<BS>%<DC3><ENQ><ENQ><EM><DC3><GS><SI>Y@<FS><ETX>+'<VT><US>+'Y@<LF>1<DC1><ETX>+')<VT><HT>A<SO>%<HT>Afnffrn@hhbbnh<NUL><NUL>
+POCSAG1200: Address:  209785  Function: 2  Alpha:   09:58-17 24/11/2021 09:49:45 INC 24713388 26D01 11 GARNETT ROAD, CLITHEROE, BB7 2P
+POCSAG1200: Address:  366708  Function: 0 
+POCSAG1200: Address:  338195  Function: 0 
+POCSAG1200: Address:  659547  Function: 2 
+POCSAG1200: Address: 1066082  Function: 3 
+POCSAG1200: Address: 1284791  Function: 2  Alpha:   O%(<LF><STX>!<SYN><RS>N<STX>M^>22<SYN>:
+POCSAG1200: Address: 1221191  Function: 0 
+POCSAG1200: Address: 1473750  Function: 2 
+POCSAG1200: Address: 1123424  Function: 1 
+POCSAG1200: Address:  621799  Function: 0  Alpha:   O%
+POCSAG1200: Address:  563719  Function: 3 
+POCSAG1200: Address:  593237  Function: 2 
+POCSAG1200: Address:  624772  Function: 2  Alpha:   b@hdb
+POCSAG1200: Address: 1076404  Function: 3 
+POCSAG1200: Address:  394329  Function: 0  Alpha:   <CAN>Y
+POCSAG1200: Address:  659551  Function: 2 
+POCSAG1200: Address: 1066086  Function: 3 
+POCSAG1200: Address: 1284787  Function: 2  Alpha:   <DC4><EOT>B,<<FS><ENQ><SUB>=}dd,t
+POCSAG1200: Address:  216668  Function: 3 
+POCSAG1200: Address: 1414737  Function: 0  Alpha:   bj
+POCSAG1200: Address:  269168  Function: 2  Alpha:   P<DEL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0958241121+++TIME=0958241121<NUL>
+POCSAG2400: Address: 1322512  Function: 2  Alpha:   09:58-84 80300
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0958241121+++TIME=0958241121<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   09:58-75 4554<NUL>
+POCSAG1200: Address: 1468632  Function: 3 
+POCSAG1200: Address:  270654  Function: 0 
+POCSAG2400: Address: 1166941  Function: 0 
+POCSAG2400: Address: 1048581  Function: 1 
+POCSAG2400: Address: 1424220  Function: 0  Alpha:   `j
+POCSAG2400: Address:  216667  Function: 3 
+POCSAG2400: Address:   57795  Function: 1 
+POCSAG1200: Address:  557769  Function: 3 
+POCSAG1200: Address:  189073  Function: 2 
+POCSAG1200: Address: 1477648  Function: 1  Alpha:   <LF>Y
+POCSAG1200: Address: 1584719  Function: 0  Alpha:   <STX><HT>jg<DC2>
+POCSAG1200: Address:  224908  Function: 3 
+POCSAG1200: Address:  876071  Function: 0  Alpha:   O%(R>:<STX>=B6N.&J.2<SOH>1Ne<SOH>U
+POCSAG1200: Address: 1261735  Function: 1 
+POCSAG1200: Address:  602725  Function: 3  Alpha:   "<DLE>h i
+POCSAG1200: Address:  189869  Function: 2 
+POCSAG1200: Address:  756316  Function: 1 
+POCSAG1200: Address: 1204420  Function: 0 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>@
+POCSAG1200: Address:  618313  Function: 3  Alpha:   F0
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1032950  Function: 0 
+POCSAG1200: Address:  108034  Function: 0  Alpha:   09:55-86 24/11/2021 09:02:08 BORE_285  70   B29:Grnd_ElecHydrantPmp:Running_PC1$   Item Description                 B29:Grnd_ElecHydrantPmp:Running_PC1$   Alarm Details Status : B29:Grnd_ElecHydrantPmp:Running_PC1$
+POCSAG2400: Address:   28926  Function: 0  Alpha:   09:55-55 2339<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:54-18 4554<NUL>
 POCSAG2400: Address: 1001186  Function: 2  Alpha:   09:54-89 80300
 POCSAG2400: Address:  583420  Function: 2  Alpha:   09:53-90 80300
 POCSAG2400: Address: 1324565  Function: 2  Alpha:   09:53-60 INC ALERT No: 16818389 Cardiac Arrest -, AT: 14 WALKERS RISE, MONKTON HEATHFIELD TAUNTON, TA2 8XB, Time of Call: 24/11/2021 09:52:53, Co-ords: 51.0349678 -3.0671655<NUL>
@@ -945,56 +998,3 @@ POCSAG512: Address:  815232  Function: 0  Alpha:   <ENQ><ENQ><ENQ>A(KgiAZKggCOKA
 POCSAG512: Address:  273040  Function: 3 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   07:32-57 PLEASE CALL 23238 SEU TRIAGE <NUL>
 POCSAG2400: Address:  216268  Function: 2  Alpha:   07:31-94 PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLADS02MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLADS02MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: COOPENLADS02MC1<CR><LF>Alias: <CR><LF>Address: 10.0.74.67<CR><LF>Host Group Hierarchy: <CR><LF>St<NUL><NUL>
-POCSAG1200: Address:   74574  Function: 3  Alpha:   u!<FS>lm
-POCSAG1200: Address: 1547285  Function: 3  Alpha:   {<ESC>
-POCSAG1200: Address:  853394  Function: 2  Alpha:   :1
-POCSAG1200: Address:  277425  Function: 0 
-POCSAG2400: Address:  549126  Function: 2  Alpha:   07:31-51 72943
-POCSAG1200: Address: 1288321  Function: 2  Alpha:   b@Rd<STX>
-POCSAG1200: Address: 1216768  Function: 2 
-POCSAG1200: Address:  837508  Function: 0  Alpha:   EeQ<SOH>MeQQEA<SOH>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   07:30-04 PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLPTC01MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host COOPENLPTC01MC1<CR><LF>Service: Windows - Dr
-POCSAG2400: Address:  749388  Function: 2 
-POCSAG2400: Address:  279868  Function: 2 
-POCSAG2400: Address: 1840547  Function: 0 
-POCSAG2400: Address: 2080507  Function: 0 
-POCSAG2400: Address: 1666762  Function: 1 
-POCSAG2400: Address:  840113  Function: 1  Alpha:   : 
-POCSAG2400: Address: 1626152  Function: 1  Alpha:   !<SOH>*z)
-POCSAG2400: Address: 1843623  Function: 1  Alpha:   5<SO>Fg<DC2>
-POCSAG2400: Address: 1102249  Function: 2 
-POCSAG2400: Address:  686445  Function: 2  Alpha:   <ETB>k
-POCSAG2400: Address:  380767  Function: 3 
-POCSAG2400: Address: 1839261  Function: 1 
-POCSAG2400: Address: 2074853  Function: 0 
-POCSAG2400: Address: 1471963  Function: 1  Alpha:   <ACK><ENQ>Dw9*P#
-POCSAG2400: Address:  846770  Function: 1 
-POCSAG2400: Address: 1586082  Function: 0 
-POCSAG2400: Address: 2026352  Function: 2 
-POCSAG2400: Address: 1521568  Function: 3 
-POCSAG2400: Address: 2028156  Function: 1 
-POCSAG2400: Address:   24210  Function: 0  Alpha:   LR<BEL><ETX><NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   07:28-50 4131<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0728241121+++TIME=072<~41121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  455839  Function: 2 
-POCSAG2400: Address:  422739  Function: 2 
-POCSAG2400: Address: 1726482  Function: 3 
-POCSAG2400: Address: 1160265  Function: 1  Alpha:   <SYN>J<DC2><SOH><NAK>
-POCSAG2400: Address: 2038920  Function: 3  Alpha:   g <STX><SYN>P
-POCSAG1200: Address:  265245  Function: 2  Alpha:   <DC2>#Q:L
-POCSAG1200: Address: 1321711  Function: 2  Alpha:   07:26-41 Destination: D105 SSC In\113, Booking Ref#: 802446, Vehicle: YN66SXV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>_______________WWO______________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG1200: Address: 1352772  Function: 1 
-POCSAG1200: Address:  313715  Function: 0  Alpha:   G 
-POCSAG1200: Address: 1147475  Function: 3 
-POCSAG1200: Address:  296234  Function: 2 
-POCSAG1200: Address: 1888329  Function: 3  Alpha:   |$
-POCSAG1200: Address: 1048507  Function: 3  Alpha:   }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}mPhP<DLE>|~&<US><BEL><STX><NUL>
-POCSAG1200: Address: 1288092  Function: 3 
-POCSAG1200: Address: 2080119  Function: 0  Alpha:   v>Fg<DC2>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   07:22-18 5082<NUL>
-POCSAG2400: Address: 1815068  Function: 0  Alpha:   07:22-41 ADULT CARDIAC ARREST WARD A3 ST HELIER BED 19 TIME: 07:20 <NUL>
-POCSAG1200: Address:  109144  Function: 3 
-POCSAG2400: Address: 1283019  Function: 2  Alpha:   : 51.%01
-POCSAG2400: Address:  631552  Function: 0  Alpha:   `ntblt`nP@<ACK>_[^
-POCSAG2400: Address:  470174  Function: 1 
