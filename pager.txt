@@ -1,3 +1,55 @@
+POCSAG2400: Address:  225851  Function: 2  Alpha:   19:54-90 605538<NUL><NUL>
+POCSAG1200: Address: 1482203  Function: 1  Alpha:   <CAN><DLE>
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1418024  Function: 2  Alpha:   bf
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   19:54-42 64WXX<NAK><EM><CAN>Y<CAN><DLE>O%(,N
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953241121+++TIME=1953241121<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   19:53-18 4166<NUL>
+POCSAG1200: Address:  272400  Function: 1  Alpha:   +++TIME=1953241121+++TIME=1953241121<NUL>
+POCSAG2400: Address:   28897  Function: 0  Alpha:   19:53-09 2097<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  279864  Function: 2 
+POCSAG2400: Address: 1840544  Function: 0 
+POCSAG2400: Address: 2080511  Function: 0  Alpha:   O%
+POCSAG2400: Address: 1666767  Function: 1 
+POCSAG2400: Address:  840118  Function: 1  Alpha:   : 
+POCSAG2400: Address: 1319331  Function: 0  Alpha:   5<SO>
+POCSAG2400: Address: 1176210  Function: 3 
+POCSAG2400: Address: 1006598  Function: 3  Alpha:   <ACK>E!<NUL><NUL>
+POCSAG2400: Address: 1018973  Function: 2 
+POCSAG2400: Address:  867381  Function: 2 
+POCSAG2400: Address:  191278  Function: 3 
+POCSAG2400: Address: 1070269  Function: 3  Alpha:   <DC4>d<FF>lT
+POCSAG2400: Address: 1198468  Function: 0 
+POCSAG2400: Address:  216251  Function: 2  Alpha:   19:52
+POCSAG2400: Address:  749385  Function: 2 
+POCSAG2400: Address:  279865  Function: 2 
+POCSAG2400: Address: 1840544  Function: 0 
+POCSAG2400: Address: 2080504  Function: 0 
+POCSAG2400: Address:  840118  Function: 1  Alpha:   : 
+POCSAG2400: Address: 1463150  Function: 3  Alpha:   2y0y1t<<GS>P<ACK>E)<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   19:52-11 PROBLEM: Windows - Drive: C is CRITICAL on host EORHCXTWEB01MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host EORHCXTWEB01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: EORHCXTWEB01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.12.215<CR><LF>Host Group
+POCSAG1200: Address: 1483235  Function: 2  Alpha:   19:52-18 Stop Message received for Incident 2111009403;  [STOP] 24/11/21 19:52:44 STOP MESSAGE RECEIVED FROM L57P1 (OIC 40889 IN L57P1)<NUL><NUL>
+POCSAG1200: Address: 1571968  Function: 3  Alpha:   b,;<ETX><CR>K<STX><NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   p<ACK><HT>8dH1f
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   19:52-09 please call ext 4851<NUL><NUL>
+POCSAG1200: Address:  696118  Function: 2  Alpha:   19:51-75 33879
+POCSAG1200: Address: 1999734  Function: 1 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   19:51-13 24/11/2021 19:46:03 INC 24715955 04D04A 19 CECIL STREET, PENNINGTON LEIGH, WN7 3ES Male 53Y DIB GRD 366176 399516
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   19:50-92 INC ALERT No: 16820471 Drowning (near)/Diving/Scuba Acc - 7YOF - LEG STUCK BEHIND BAR IN POOL, AT: IN SWIMMING POOL, TOCKINGTON MANOR SCHOOL, WASHINGPOOL HILL ROAD, TOCKINGTON BRISTOL, BS32 4NY, Time of Call: 24/11/2021 19:49:13, Co-ords: 51.5771415 -2.5622398<NUL><NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   19:50-07 5400<NUL>
+POCSAG2400: Address: 2009726  Function: 0 
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   19:50-99 4157<NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   19:50-10 PROBLEM: Windows - Drive: C is CRITICAL on host BOOPENLVDA01MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host BOOPENLVDA01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.99<CR><LF>Host Group Hierarchy: <CR><LF>St<NUL><NUL>
+POCSAG2400: Address: 1323120  Function: 2  Alpha:   19:50-20 NHSBT - DONOR REFERRAL. Please call DAVID PRYOR on Direct Dial Number 07970730055 Hospital DONCASTER ROYAL INFIRMARY, DONCASTER Dept ITU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   19:50-89 2182<NUL>
+POCSAG2400: Address: 1322785  Function: 2  Alpha:   19:50-42 NHSBT - DONOR REFERRAL. Please call DAVID PRYOR on Direct Dial Number 07970730055 Hospital DONCASTER ROYAL INFIRMARY, DONCASTER Dept ITU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1999189  Function: 0 
+POCSAG2400: Address: 1323101  Function: 2  Alpha:   19:50-29 NHSBT - DONOR REFERRAL. Please call DAVID PRYOR on Direct Dial Number 07970730055 Hospital DONCASTER ROYAL INFIRMARY, DONCASTER Dept ITU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:49-60 5400<NUL>
+POCSAG1200: Address:  108034  Function: 0  Alpha:   19:49-17 24/11/2021 19:31:23 ELECPF16  70   B5:RoofPRm_Sub1:PFCFault_PC2$   Item Description                 B5:RoofPRm_Sub1:PFCFault_PC2$ Status : B5:RoofPRm_Sub1:PFCFault_PC2$
 POCSAG1200: Address: 1961448  Function: 3 
 POCSAG1200: Address:  108034  Function: 0  Alpha:   19:49-16 24/11/2021 19:38:53 ELECHF16  70   B5:R<DEL>'bTRm_Sub1:AHFFault_PC2$   Item Description                 B5:RoofPRm_Sub1:AHFFault_PC2$ Status : B5:RoofPRm_Sub1:AHFFault_PC2$
 POCSAG2400: Address: 1323710  Function: 2  Alpha:   19:49-12 PLEASE CALL BASILDON ON 09438 524 900<NUL><NUL>
@@ -946,55 +998,3 @@ POCSAG1200: Address:  739080  Function: 2
 POCSAG1200: Address:  708870  Function: 2 
 POCSAG1200: Address: 1507978  Function: 2 
 POCSAG1200: Address:  635714  Function: 2 
-POCSAG1200: Address:  264361  Function: 3 
-POCSAG1200: Address: 1576993  Function: 0 
-POCSAG1200: Address:   37655  Function: 3  Alpha:   O%(.1!.2
-POCSAG1200: Address:  708959  Function: 2 
-POCSAG1200: Address:  140038  Function: 3 
-POCSAG1200: Address: 1285925  Function: 3 
-POCSAG1200: Address:  635716  Function: 2 
-POCSAG1200: Address:  264363  Function: 3 
-POCSAG1200: Address: 1576995  Function: 0 
-POCSAG1200: Address:   37649  Function: 3  Alpha:   \bB\d
-POCSAG1200: Address:  708953  Function: 2 
-POCSAG1200: Address:  140032  Function: 3 
-POCSAG1200: Address: 1312566  Function: 2  Alpha:   18:11-16 NOTIFY - DATE: 24.11.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 6 MAX 5 MIN  THANK YOU CONTROL  <NUL><NUL>
-POCSAG1200: Address:  789453  Function: 0  Alpha:   3k0<DLE><DC3><ETX>(<VT>@<CR>(
-POCSAG1200: Address:  708644  Function: 0 
-POCSAG1200: Address:   68138  Function: 1  Alpha:   RA
-POCSAG1200: Address:   78434  Function: 2 
-POCSAG1200: Address:  739081  Function: 2 
-POCSAG1200: Address: 1315997  Function: 1  Alpha:   YY
-POCSAG1200: Address: 1507979  Function: 2 
-POCSAG1200: Address:  635715  Function: 2 
-POCSAG1200: Address:  264362  Function: 3 
-POCSAG1200: Address: 1576994  Function: 0 
-POCSAG1200: Address:   37648  Function: 3  Alpha:   \bB\d
-POCSAG1200: Address:  708952  Function: 2 
-POCSAG1200: Address:  140039  Function: 3  Alpha:   O%
-POCSAG1200: Address: 2026481  Function: 0 
-POCSAG1200: Address: 1312580  Function: 2  Alpha:   18:11-53 NOTIFY - DATE: 24.11.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 6 MAX 5 MIN  THANK YOU CONTROL  <NUL><NUL>
-POCSAG2400: Address: 2074228  Function: 2 
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   18:11-23 Please call Carlos Barquero on 07738 058736.<NUL>
-POCSAG2400: Address:   28904  Function: 0  Alpha:   18:10-28 4312<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:10-85 4167<NUL>
-POCSAG1200: Address:  413198  Function: 2  Alpha:   18:10-09 (2/2) Roles    JY22P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)
-POCSAG1200: Address:  413198  Function: 2  Alpha:   18:10-08 (1/2)030411-24112021; A7.0.0.P ALARM - TEST; (FSTN) JY22 THEALE,HIGH STREET,THEALE; 463211,170595; TEST TURNOUT CONTACT CONTROL; TEST; Assigned: JY22P1;<NUL>
-POCSAG1200: Address:  930510  Function: 2  Alpha:   18:09-34 24/11/2021 18:08:22 INC 24715536 11D02U 12 HAWTHORNE ROAD, DEANE BOLTON, BL3 5RE Male 38Y CHOKING GRD 369804 408119<NUL>
-POCSAG1200: Address: 1618816  Function: 1 
-POCSAG1200: Address:   11760  Function: 0  Alpha:   18:09-27 18:09-26 ~LEVEL 2 SRT. 4 CATTLE IN SLURRY TANK, S16 DROMORE AREA, <NUL><NUL>
-POCSAG1200: Address:  114413  Function: 2  Alpha:   18:09-63 ~LEVEL 2 SRT. 4 CATTLE IN SLURRY TANK, S16 DROMORE AREA, <NUL><NUL>
-POCSAG1200: Address: 1313177  Function: 2  Alpha:   18:09-92 3412<NUL>
-POCSAG1200: Address:  549844  Function: 2  Alpha:   18:09-15 ~FOR INFO ONLY; 4 CATTLE IN ENCLOSED SLURRY TANK, S16 AREA. CREWS EN ROUTE <NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   18:08-86 4283<NUL>
-POCSAG1200: Address:  549692  Function: 2  Alpha:   18:08-43 ~FOR INFO ONLY; 4 CATTLE IN ENCLOSED SLURRY TANK, S16 AREA. CREWS EN ROUTE <NUL>
-POCSAG1200: Address:  209828  Function: 2  Alpha:   <SYN>Pi<CAN><ESC>P ib <ETB>P!ibk)P"'<DLE>ig*j"<DLE><NUL>
-POCSAG1200: Address:  549690  Function: 2  Alpha:   18:08-34 ~FOR INFO ONLY; 4 CATTLE IN ENCLOSED SLURRY T
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1808241121+++TIME=1808241121<NUL>
-POCSAG1200: Address:   56316  Function: 2  Alpha:   18:08-29 INTELLIGENT DATA COLLECTION REPORTED USING DATA SIGNAL IN LONDON PLS CALL 0770 659 1658 URGENT <NUL>
-POCSAG2400: Address:  585013  Function: 2  Alpha:   18:08-62 PLEASE CALL ANNA LOBOS ON 07928 523 539 <NUL><NUL>
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   18:07-53 NHSBT - DONOR REFERRAL. Please call NURSE ELISA DUSE on Direct Dial Number SWITCH: 020 8672 1255 EXT: 1290 Hospital ST GEORGES HOSPITAL Dept A&E . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   18:07-70 NHSBT - DONOR REFERRAL. Please call NURSE ELISA DUSE on Direct Dial Number SWITCH: 020 8672 1255 EXT: 1290 Hospital ST GEORGES HOSPITAL Dept A&E . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address:  149189  Function: 2  Alpha:   18:07-99 NHSBT - DONOR REFERRAL. Please call NURSE ELISA DUSE on Direct Dial Number SWITCH: 020 8672 1255 EXT: 1290 Hospital ST GEORGES HOSPITAL Dept A&E . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323229  Function: 2  Alpha:   18:07-43 NHSBT - DONOR REFERRAL. Please call NURSE ELISA DUSE on Direct Dial Number SWITCH: 020 8672 1255 EXT: 1290 Hospital ST GEORGES HOSPITAL Dept A&E . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323183  Function: 2  Alpha:   18:07-84 NHSBT - DONOR REFERRAL. Please call NURSE ELISA DUSE on Direct Dial Number SWITCH: 020 8672 1255 EXT: 1290 Hospital ST GEORGES HOSPITAL Dept A&E . Regards Donor Referral Line<NUL><NUL>
