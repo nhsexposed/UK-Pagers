@@ -1,3 +1,26 @@
+POCSAG2400: Address:  549136  Function: 2  Alpha:   15:04-77 80300
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   15:04-51 p<ESC>50<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:04-52 4155<NUL>
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   15:03-72 4479<NUL>
+POCSAG1200: Address:  420227  Function: 2  Alpha:   15:03-77 2857<NUL>
+POCSAG2400: Address: 1913814  Function: 2  Alpha:   15:03-70 5090<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:03-30 4188<NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   15:02-09 41
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  678665  Function: 2  Alpha:   15:02-62 Case ref 1127620v1Vill in tick sheet
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   15:02-80 33451
+POCSAG1200: Address: 2007929  Function: 1 
+POCSAG1200: Address: 1092176  Function: 2  Alpha:   15:02-42 437<SYN><ACK>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   15:01-49 4188<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   15:01-08 4660<NUL>
+POCSAG1200: Address:  216342  Function: 2  Alpha:   15:01-17 Destination: D105 SSC In\112, Booking Ref#: 800579, Vehicle: M44PLX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boot<NUL><NUL>
+POCSAG1200: Address: 1032179  Function: 2  Alpha:   b<STX>
+POCSAG1200: Address: 1467506  Function: 0 
+POCSAG2400: Address: 1913941  Function: 2  Alpha:   15:00-43 5400<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:59-78 5204<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:59-19 24/11/2021 14:51:58 INC 24714710 06E01A MAIN RECEPTION, REASEHEATH COLLEGE, GENERAL AREA OF, REASEHEATH NANTWICH, CW5 6DF Female 16Y ASHTMA ATTACK GRD 364807 354179<NUL>
 POCSAG1200: Address: 1031687  Function: 0 
 POCSAG2400: Address: 1845363  Function: 2  Alpha:   ff<ACK>zv<ACK><STX><DC3><ETX>;;C<ESC>3K+<ESC><ETX>z<SYN><BEL><STX>;K<ETX><VT>KKC<VT>K;s<STX>r,d<EOT>J,<GS><EOT>z<EOT><GS><ENQ>j<STX>JtL$M<FF>d<FS><ENQ>Rtr<EOT><STX>
 POCSAG2400: Address: 1323948  Function: 2  Alpha:   14:58-58 AMBER: NEL 111 is in CAS Queue Level 2 Escalation for more information pleas
@@ -975,26 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253241121+++TIME=12
 POCSAG1200: Address: 1511969  Function: 3  Alpha:   V"
 POCSAG2400: Address: 1573818  Function: 2  Alpha:   12:52-94 DIABETIC TEAM PLEASE CALL 3590
 POCSAG2400: Address:   33739  Function: 2  Alpha:   12:52-89 INC ALERT No: 16819035 Falls - POLICE, FALLEN, BROKEN BOTH WRISTS, AT: W3W: CROUCHING STORE REFERS, BOVEY TRACEY, DEVON, Time of Call: 24/11/2021 12:50:38, Co-ords: 50.58553 -3.755543<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:51-65 4769<NUL>
-POCSAG1200: Address: 1999729  Function: 0 
-POCSAG2400: Address:  237777  Function: 3 
-POCSAG2400: Address:  833025  Function: 0 
-POCSAG2400: Address: 1704976  Function: 3 
-POCSAG2400: Address: 1069879  Function: 3  Alpha:   m|\3<HT>JR"
-POCSAG2400: Address: 1352774  Function: 3 
-POCSAG2400: Address: 1324554  Function: 2  Alpha:   12:51-92 STAND DOWN FROM INC: 16818972 ,  323 TAVISTOCK ROAD, DER2Rq
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   12:50-30 5204<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:50-64 4554<NUL>
-POCSAG2400: Address: 1204939  Function: 1 
-POCSAG2400: Address:  370522  Function: 0  Alpha:   hl
-POCSAG2400: Address: 1978992  Function: 0  Alpha:   WH<ETX>!a<NAK>&&
-POCSAG2400: Address:   28870  Function: 0  Alpha:   12:48-10 PLEASE CALL NICK COAT BOND AT A AND E QEQM EXT 725 3541 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1248241121+++TIME=1248241121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1248241121+++TIME=1248241121<NUL>
-POCSAG1200: Address: 1999609  Function: 0 
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   12:48-64 4379<NUL>
-POCSAG1200: Address:  401693  Function: 2  Alpha:   12:47-46 I AM WAITING AT RECEPTION - EZI <NUL>
-POCSAG1200: Address: 1888792  Function: 2 
-POCSAG1200: Address: 1581229  Function: 3 
-POCSAG1200: Address:  553724  Function: 0 
