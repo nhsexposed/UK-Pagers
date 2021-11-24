@@ -1,3 +1,6 @@
+POCSAG2400: Address: 1717347  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0618241121+++TIME=0618241121<NUL>
+POCSAG1200: Address: 1257025  Function: 2  Alpha:   06:17-45 PIN 10452 DSCC 03457 500 620 <NUL>
 POCSAG512: Address: 1485415  Function: 2 
 POCSAG2400: Address: 1512699  Function: 2  Alpha:   /G
 POCSAG2400: Address:  656634  Function: 0  Alpha:   gi
@@ -995,6 +998,3 @@ POCSAG1200: Address:  198235  Function: 3
 POCSAG1200: Address: 1128355  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0018241121+++TIME=0018241121<NUL>
 POCSAG1200: Address:  837985  Function: 0  Alpha:   FO
-POCSAG1200: Address:  918912  Function: 2 
-POCSAG1200: Address: 1315431  Function: 1  Alpha:   O%h<STX><DC2>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   00:18-83 24/11/2021 00:17:03 INC 2471
