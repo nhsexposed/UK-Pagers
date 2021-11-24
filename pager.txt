@@ -1,3 +1,19 @@
+POCSAG1200: Address: 1817112  Function: 2  Alpha:   15:44-43 Destination: D105 SSC In\123, Booking Ref#: 802246, Vehicle: pj19ffw. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  135429  Function: 2  Alpha:   15:44-46 6914<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1543241121+++TIME=1543241121<NUL>
+POCSAG2400: Address: 1913961  Function: 2  Alpha:   15:43-32 4463<NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   15:42-10 4863<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   15:42-87 4554<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913696  Function: 2  Alpha:   15:42-66 5276<NUL>
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   A<EM>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   15:41-72 3255<NUL>
+POCSAG1200: Address:  678479  Function: 2  Alpha:   15:40-74 3941<NUL>
+POCSAG1200: Address: 2012133  Function: 0 
+POCSAG1200: Address:  553724  Function: 0 
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   15:39-51 4810<NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   15:39-09 4188<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:39-35 4188<NUL>
 POCSAG2400: Address:   28925  Function: 0  Alpha:   15:39-87 4201<NUL>|<DEL><DEL>
 POCSAG2400: Address: 1913712  Function: 2  Alpha:   15:39-18 4277<NUL>
 POCSAG2400: Address: 1626158  Function: 1 
@@ -982,19 +998,3 @@ POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1328241121+++TIME=1328241121<NUL>
 POCSAG1200: Address: 1461148  Function: 2  Alpha:   <BS>dYy<LF>t(J<NUL>4v2&<ACK><SYN><BEL>D
 POCSAG1200: Address:  823971  Function: 2 
-POCSAG1200: Address: 2074934  Function: 0 
-POCSAG1200: Address: 1154250  Function: 1 
-POCSAG1200: Address: 2043458  Function: 1 
-POCSAG1200: Address:  325898  Function: 3  Alpha:   &<LF>
-POCSAG1200: Address: 1619561  Function: 1  Alpha:   <SYN><BEL>4^<DC1>
-POCSAG1200: Address: 1676183  Function: 2 
-POCSAG1200: Address:  176907  Function: 3 
-POCSAG1200: Address: 1983915  Function: 1 
-POCSAG1200: Address: 1683490  Function: 0 
-POCSAG1200: Address:  136016  Function: 3  Alpha:   ,j<BEL>'<DLE>
-POCSAG1200: Address:  148695  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1877326  Function: 2 
-POCSAG1200: Address:  734228  Function: 2  Alpha:   t<DLE>Rs<DC3><ETX><VT>(
-POCSAG1200: Address: 1225538  Function: 1 
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   13:26-23 2233<NUL>
-POCSAG2400: Address:  629599  Function: 1  Alpha:   ```g<DC2>
