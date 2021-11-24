@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1816661  Function: 2  Alpha:   17:14-81 (3/3) NETWORK DESK 0800 0093909          USE POSTCODE AS REF <NUL>
+POCSAG2400: Address: 2063536  Function: 3 
+POCSAG2400: Address: 2055048  Function: 0 
+POCSAG1200: Address:  930489  Function: 2  Alpha:   17:14-83 24/11/2021 17:02:09 INC 24715254 17D03 101 LOSTOCK ROAD, DAVYHULME M<SOH>f
+POCSAG1200: Address:   95105  Function: 3 
+POCSAG1200: Address: 2025459  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1713241121+++TIME=1713241121<NUL>
+POCSAG1200: Address: 2009046  Function: 2  Alpha:   17:13-66 4226<NUL>
+POCSAG1200: Address:  549740  Function: 2  Alpha:   17:13-84 ** PROBLEM Service Alert: CDS Cupertino Stream Manager 1/Check Media Farm [CSM] is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Check Media Farm [CSM]<CR><LF>Host: CDS Cupertino Stream Manager 1<CR><LF>Address: cs
+POCSAG2400: Address: 1891528  Function: 0  Alpha:   <LF><DC2>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:13-22 2307<NUL><E<GS>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:12-82 4157<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1512731  Function: 3  Alpha:   %2
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   17:10-56 2427<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:10-21 5530<NUL>
+POCSAG2400: Address:  524289  Function: 0  Alpha:   WHC+d
+POCSAG2400: Address: 1225800  Function: 0 
+POCSAG2400: Address: 1868343  Function: 0  Alpha:   O%hdf
+POCSAG2400: Address:   78324  Function: 0  Alpha:   OT
+POCSAG2400: Address:  175011  Function: 2 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   17:09-84 3129<NUL>
+POCSAG1200: Address:  198688  Function: 0 
 POCSAG1200: Address: 1562676  Function: 2  Alpha:   17:09-68 24/11/2021 17:07:00 INC 24715277 10C03 WOODLANDS COURT RESIDENTIAL HOME, ASH LANE, NEW SPRINGS WIGAN, WN2 1EZ Female 92Y CHEST PAINS GRD 360341 407086
 POCSAG2400: Address: 1320374  Function: 2  Alpha:   17:09-94 4188<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   17:09-02 2195<NUL>
@@ -974,27 +998,3 @@ POCSAG2400: Address: 1322897  Function: 2  Alpha:   14:56-00 NHSBT - DONOR REFER
 POCSAG2400: Address: 1322868  Function: 2  Alpha:   14:56-15 NHSBT - DONOR REFERRAL. Please call SENIOR SISTER BAXTER on Direct Dial Number 01782 675770 Hospital ROYAL STOKE Dept CRITICAL CARE . Regards Donor Referral Line<NUL>
 POCSAG2400: Address:  755307  Function: 3 
 POCSAG2400: Address: 2006578  Function: 1  Alpha:   <SO>D
-POCSAG2400: Address: 1120618  Function: 0 
-POCSAG2400: Address:  732319  Function: 3 
-POCSAG2400: Address: 1021094  Function: 0 
-POCSAG2400: Address: 1715814  Function: 2 
-POCSAG2400: Address: 1714514  Function: 1  Alpha:   <ACK>2:<SOH>A"<ETB><BEL>G<ETB><ETX><HT><BEL>31<ETX>M
-POCSAG2400: Address:  616626  Function: 1 
-POCSAG2400: Address: 1176289  Function: 3  Alpha:   ')
-POCSAG2400: Address:  354320  Function: 0 
-POCSAG2400: Address: 1378640  Function: 1 
-POCSAG2400: Address: 1282367  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1912837  Function: 0  Alpha:   B^/<FF>M
-POCSAG2400: Address:  515002  Function: 2  Alpha:   -<SO>$Zl\,.<RS>L<CR>D<EM>m
-POCSAG2400: Address: 1994817  Function: 2 
-POCSAG2400: Address:  616944  Function: 1  Alpha:   Ce
-POCSAG2400: Address:   80384  Function: 2 
-POCSAG2400: Address:   84807  Function: 3  Alpha:   O%
-POCSAG2400: Address: 1438628  Function: 3  Alpha:   "<DLE>b28*P!i$j`a &Pa
-POCSAG2400: Address:   80301  Function: 2  Alpha:   mbEr  1702 ~,BZ[Z[<ESC><CAN>
-POCSAG2400: Address:  755309  Function: 3 
-POCSAG2400: Address: 2006580  Function: 1  Alpha:   <SO>D
-POCSAG2400: Address: 1120619  Function: 0 
-POCSAG2400: Address:  732312  Function: 3 
-POCSAG2400: Address: 1021088  Function: 0 
-POCSAG2400: Address: 1715815  Function: 2  Alpha:   O%
