@@ -1,3 +1,70 @@
+POCSAG1200: Address:  696118  Function: 2  Alpha:   18:34-74 Please Call Switchboard<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1833241121+++TIME=1833241121<NUL>
+POCSAG1200: Address: 1022685  Function: 0  Alpha:   18:33-71 01173421905
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   18:33-56 24/11/2021 18:31:11 INC 24715626 31D02 KENYON LODGE, 99 MANCHESTER ROAD WEST, LITTLE HULTON MANCHESTER, M38 9DX Female 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1022689  Function: 0  Alpha:   18:32-82 01173421905
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1495657  Function: 0  Alpha:   <BEL><NAK>yBa
+POCSAG1200: Address: 1672928  Function: 0 
+POCSAG1200: Address:  484696  Function: 3 
+POCSAG2400: Address: 1018970  Function: 2 
+POCSAG2400: Address:  867378  Function: 2 
+POCSAG2400: Address: 1087857  Function: 2 
+POCSAG2400: Address: 1651630  Function: 3  Alpha:   <ACK>V!<SOH>ym3<HT><SUB>'<BEL>
+POCSAG2400: Address: 1075030  Function: 2 
+POCSAG2400: Address: 1299404  Function: 3  Alpha:   s:<NUL>10
+POCSAG2400: Address:   75340  Function: 3 
+POCSAG2400: Address: 1007939  Function: 3 
+POCSAG2400: Address: 1948979  Function: 3 
+POCSAG2400: Address: 1473130  Function: 0 
+POCSAG2400: Address: 1106370  Function: 0 
+POCSAG2400: Address:  773105  Function: 2  Alpha:   n 
+POCSAG2400: Address: 1558280  Function: 3 
+POCSAG2400: Address:  345240  Function: 3 
+POCSAG2400: Address:  445156  Function: 3 
+POCSAG2400: Address: 1380990  Function: 1 
+POCSAG2400: Address:  249532  Function: 1 
+POCSAG2400: Address: 1760827  Function: 2 
+POCSAG2400: Address: 1530888  Function: 3 
+POCSAG2400: Address: 1306424  Function: 1 
+POCSAG2400: Address:  443015  Function: 2  Alpha:   g<DC2>
+POCSAG2400: Address: 1761375  Function: 0 
+POCSAG2400: Address: 1669622  Function: 0 
+POCSAG2400: Address:  629300  Function: 2  Alpha:   T<ETX><STX>L<RS>OV<ETX><DC2><EOT>J<SUB><BEL><SUB>
+POCSAG2400: Address: 1359443  Function: 0 
+POCSAG2400: Address: 1446915  Function: 2 
+POCSAG2400: Address:  440202  Function: 2  Alpha:   <CAN><SYN>
+POCSAG2400: Address:  924721  Function: 3 
+POCSAG2400: Address: 1891377  Function: 0 
+POCSAG2400: Address: 1981304  Function: 0 
+POCSAG2400: Address:   68599  Function: 3  Alpha:   st@g<DC2><DC4>r2
+POCSAG2400: Address:  194286  Function: 3 
+POCSAG2400: Address:  197838  Function: 0 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   18:31-92 PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host dedcmslapp01mc1<CR><LF>Service: Disk: C<CR><LF>Host: dedcmslapp01mc1<CR><LF>Alias: Dept of Education App server<CR><LF>Address: 10.0.52.70<CR><LF>Host Group Hierarchy: Opsview ><NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   18:30-72 24/11/2021 18:29:07 INC 24715616 29D02M A580 ON THE JUNCTION OF, 41 MURIEL STREET, WALTON L4, L4 5SB Male 35
+POCSAG1200: Address: 1550970  Function: 0 
+POCSAG1200: Address:  843063  Function: 1 
+POCSAG1200: Address:  727557  Function: 2 
+POCSAG1200: Address:  764947  Function: 0  Alpha:   Izi<HT>D
+POCSAG1200: Address:  611139  Function: 0 
+POCSAG1200: Address:   91855  Function: 2 
+POCSAG1200: Address: 1387677  Function: 0 
+POCSAG1200: Address:  859301  Function: 3 
+POCSAG1200: Address:  881284  Function: 0  Alpha:    <VT>
+POCSAG1200: Address:  853203  Function: 2  Alpha:   "$
+POCSAG1200: Address:  367282  Function: 3 
+POCSAG1200: Address:  843058  Function: 1 
+POCSAG1200: Address:  535345  Function: 0 
+POCSAG1200: Address: 1075975  Function: 2  Alpha:   `@^Y<EOT>
+POCSAG1200: Address: 1280134  Function: 2  Alpha:   f<SUB>
+POCSAG1200: Address: 1770061  Function: 2 
+POCSAG1200: Address: 1469725  Function: 1 
+POCSAG1200: Address:  398020  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  433150  Function: 2  Alpha:   18:30-60
+POCSAG1200: Address:  432578  Function: 2  Alpha:   24/11/2021 18:29:07 INC 24715616 29D02M A580 ON THE JUNCTION OF, 41 MURIEL STREET, WALTON L4, L4 5SB Male 35Y VEH VS PEDESTRIAN GRD 336099 393958
+POCSAG1200: Address:  696118  Function: 2  Alpha:   18:29-73 33844
 POCSAG2400: Address: 1814997  Function: 0  Alpha:   18:29-18 Adult trauma A&E resus ETA 10 minutes.<NUL>
 POCSAG2400: Address:   28904  Function: 0  Alpha:   18:28-30 4971<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1828241121+++TIME=1828241121<NUL>
@@ -931,70 +998,3 @@ POCSAG2400: Address: 1323989  Function: 2  Alpha:   17:03-30 Green: This is the 
 POCSAG2400: Address: 1324021  Function: 2  Alpha:   17:03-83 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1323951  Function: 2  Alpha:   17:03-62 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1324027  Function: 2  Alpha:   17:03-99 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324110  Function: 2  Alpha:   17:03-18 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323938  Function: 2  Alpha:   17:03-04 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324055  Function: 2  Alpha:   17:03-70 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323976  Function: 2  Alpha:   17:03-94 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323918  Function: 2  Alpha:   17:03-76 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323988  Function: 2  Alpha:   17:03-17 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323963  Function: 2  Alpha:   17:03-75 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324020  Function: 2  Alpha:   17:03-91 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323984  Function: 2  Alpha:   17:03-16 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323958  Function: 2  Alpha:   17:03-74 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323948  Function: 2  Alpha:   17:03-60 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324026  Function: 2  Alpha:   17:03-84 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 2088952  Function: 3 
-POCSAG2400: Address: 1323972  Function: 2  Alpha:   17:03-60 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1321069  Function: 2  Alpha:   17:03-74 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324104  Function: 2  Alpha:   17:03-12 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323910  Function: 2  Alpha:   17:03-84 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1321198  Function: 2  Alpha:   17:03-65 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address:  941630  Function: 0  Alpha:   <FF>$
-POCSAG2400: Address: 1390190  Function: 3 
-POCSAG2400: Address:  151372  Function: 2  Alpha:   st<EM>z2a22
-POCSAG2400: Address: 2086947  Function: 2  Alpha:   <SO>]
-POCSAG2400: Address: 1994818  Function: 0 
-POCSAG2400: Address: 1043914  Function: 0 
-POCSAG2400: Address:  182248  Function: 2  Alpha:   6x<DLE>w<<DLE>yr
-POCSAG2400: Address:  388511  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1848054  Function: 1  Alpha:   ~v
-POCSAG2400: Address:  755436  Function: 3  Alpha:   s2
-POCSAG2400: Address: 1313548  Function: 0 
-POCSAG2400: Address:  274795  Function: 1 
-POCSAG2400: Address: 1091619  Function: 3 
-POCSAG2400: Address:  111450  Function: 1  Alpha:   hj
-POCSAG2400: Address:  347934  Function: 1 
-POCSAG2400: Address: 1157891  Function: 3  Alpha:   <ACK>e
-POCSAG2400: Address:  222899  Function: 2 
-POCSAG2400: Address:  453818  Function: 0 
-POCSAG2400: Address: 1102130  Function: 0 
-POCSAG2400: Address: 1751504  Function: 0  Alpha:   +dA<NAK>r`<LF>9
-POCSAG2400: Address: 1326181  Function: 3 
-POCSAG2400: Address:  957364  Function: 2 
-POCSAG2400: Address: 1512692  Function: 2 
-POCSAG2400: Address:  111451  Function: 1  Alpha:   hn
-POCSAG2400: Address: 1324064  Function: 2  Alpha:   17:03-90 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324117  Function: 2  Alpha:   17:03-07 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323959  Function: 2  Alpha:   17:03-78 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323942  Function: 2  Alpha:   17:03-67 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1321050  Function: 2  Alpha:   17:03-27 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324063  Function: 2  Alpha:   17:03-30 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324072  Function: 2  Alpha:   17:03-39 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324015  Function: 2  Alpha:   17:03-48 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323930  Function: 2  Alpha:   17:03-54 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   17:03-28 4163<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:  924084  Function: 1  Alpha:   <CR>d|-<SO>(8xj<ENQ><DC4>
-POCSAG2400: Address: 1814619  Function: 2 
-POCSAG2400: Address:  740878  Function: 3 
-POCSAG2400: Address:  206512  Function: 3 
-POCSAG2400: Address:  453823  Function: 0  Alpha:   g<DC2>
-POCSAG2400: Address:  115559  Function: 3 
-POCSAG2400: Address:  612901  Function: 2 
-POCSAG2400: Address: 1652324  Function: 0 
-POCSAG2400: Address:  657802  Function: 1 
-POCSAG2400: Address: 2077921  Function: 1 
-POCSAG2400: Address: 1246367  Function: 3  Alpha:   rqRg<DC2>4Z=<DC1><EM>H
-POCSAG2400: Address:  777014  Function: 3  Alpha:   <FS>=
-POCSAG2400: Address:   75684  Function: 3  Alpha:   gistebed
-POCSAG2400: Address: 1513291  Function: 3 
