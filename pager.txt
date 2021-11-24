@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   07:36-51 4131<NUL>
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG1200: Address: 1031705  Function: 2 
+POCSAG1200: Address: 1746534  Function: 0 
+POCSAG1200: Address:  585004  Function: 2  Alpha:   07:35-63 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0733241121+++TIME=0733241121<NUL>
 POCSAG512: Address:  815232  Function: 0  Alpha:   <ENQ><ENQ><ENQ>A(KgiAZKggCOKA^]A<EOT>g@fSIKAbdfhjlnpr`bdfhjlnpr`
 POCSAG512: Address:  273040  Function: 3 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1089603  Function: 2  Alpha:   01:24-77 24/11/2021 01:22:09
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0123241121+++TIME=0123241121<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  214620  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=011824!y61+++TIME=0118241121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0118241121+++TIME=0118241121<NUL>
-POCSAG1200: Address:  108093  Function: 0  Alpha:   01:18-21 pLSE CALL sgh EXTN 2020<NUL><NUL>
-POCSAG2400: Address:  585266  Function: 2  Alpha:   01:18-67 PLEASE CALL 07678 464 060 2ND REQUEST <NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
