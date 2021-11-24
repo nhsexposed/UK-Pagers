@@ -1,3 +1,30 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:19-79 4156<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   23:19-40 4387<NUL>
+POCSAG1200: Address: 1898792  Function: 1  Alpha:    B
+POCSAG1200: Address:  987222  Function: 2  Alpha:   <FF>f.<ACK>:;K<ENQ>rY<EOT>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2318241121+++TIME=2318241121<NUL>
+POCSAG1200: Address: 1925332  Function: 2  Alpha:   23:18-51 24/11/2021 23:17:41 INC 24716733 09E01 HURST HALL ELDERLY PERSONS HOME, KINGS ROAD, HAZLEHURST ASHTON UNDER LYNE, OL6 9EG Male 77Y NOT BREATHING GRD 395086 400403
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2318241121+++TIME=2318241121<NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   23:18-84 33460
+POCSAG2400: Address: 1324567  Function: 2  Alpha:   23:17-07 INC ALERT No: 16821090 Cardiac Arrest -, AT: Mobile Mobile Phone Coordinates, Closest Area Detected.., BRAUNTON, Time of Call: 24/11/2021 23:17:18, Co-ords: 51.112973156 -4.17114991<NUL>
+POCSAG1200: Address: 1058476  Function: 2  Alpha:   23:17-93 24/11/2021 23:17:23 INC 24716731 DX016 16 WARDLOW GROVE, GAMESLEY GLOSSOP, SK13 0BW Male 56 111 NWAS/Ill-KNEE PAIN - SWELLING GRD 400804 394223<NUL><NUL>
+POCSAG1200: Address: 1445340  Function: 1 
+POCSAG1200: Address:  285107  Function: 1 
+POCSAG1200: Address:  133888  Function: 2  Alpha:   $g<HT>P#
+POCSAG1200: Address:  723103  Function: 1  Alpha:   O%(<FS>%
+POCSAG1200: Address: 1466782  Function: 1  Alpha:   KAl`2
+POCSAG1200: Address:  704773  Function: 2 
+POCSAG1200: Address: 1443165  Function: 0 
+POCSAG1200: Address:  288268  Function: 0 
+POCSAG1200: Address:  428452  Function: 0 
+POCSAG1200: Address:   44282  Function: 1 
+POCSAG1200: Address:  150497  Function: 2  Alpha:    "
+POCSAG1200: Address:  306456  Function: 1  Alpha:   <EM>h
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:16-78 4140<NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   23:16-33 PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1<CR><LF>Service: Disk: C<CR><LF>Host: rhahoulapp03mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.94<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   23:16-11 PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1<CR><LF>Service: Disk: C<CR><LF>Host: rhahoulapp03mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.94<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:16-92 4155<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   23:14-13 4155<NUL>
 POCSAG1200: Address: 1770637  Function: 0  Alpha:   <DLE>!B`L
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2313241121+++TIME=2313241121<NUL>
@@ -971,30 +998,3 @@ POCSAG1200: Address:  373596  Function: 1  Alpha:   dj
 POCSAG1200: Address: 1022027  Function: 2  Alpha:   20
 POCSAG1200: Address: 1052892  Function: 2  Alpha:   20:43-68 24/11/2021 20:41:50 INC 24716160 17D05 CROFT AVENUE RESIDENTIAL CARE HOME, CROFT AVENUE, PENRITH, CA11 7RJ Female 89Y FALLEN - INJURY TO BACK GRD 351520 530779
 POCSAG2400: Address:   11754  Function: 0  Alpha:   20:43-88 PLS CALL CDU ON EXT 6810<NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  856742  Function: 2  Alpha:   <STX>:<FF>M$
-POCSAG1200: Address: 1223021  Function: 1 
-POCSAG1200: Address: 1651107  Function: 1 
-POCSAG1200: Address:  610394  Function: 2 
-POCSAG1200: Address:  591200  Function: 2  Alpha:   $&<ACK>P<SYN><NUL>#f
-POCSAG1200: Address: 1447983  Function: 2 
-POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>F<SYN>V
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  361258  Function: 2  Alpha:   `n
-POCSAG1200: Address: 1246810  Function: 3 
-POCSAG1200: Address:  365407  Function: 1  Alpha:   bl@g<DC2>
-POCSAG1200: Address: 1246814  Function: 3 
-POCSAG1200: Address: 2060782  Function: 0 
-POCSAG1200: Address:  553809  Function: 3  Alpha:   E 
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1770637  Function: 0  Alpha:   <HT><DC2>$<BS>L
-POCSAG1200: Address: 1089665  Function: 2  Alpha:   20:40-69 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address: 1343401  Function: 1 
-POCSAG1200: Address:  788936  Function: 2 
-POCSAG1200: Address:  708640  Function: 3 
-POCSAG1200: Address:  856615  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1261135  Function: 0 
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:39-49 2188<NUL>
-POCSAG2400: Address:  583555  Function: 2  Alpha:   20:39-55 80300
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:39-48 2188<NUL>
