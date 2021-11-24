@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1324676  Function: 2  Alpha:   09:48-79 CALLOUT 13585 JOHN RADCLIFFE PLS CALL THE OFFICE <NUL><NUL>
+POCSAG2400: Address:  225481  Function: 2  Alpha:   09:48-01 CALLOUT 13585 JOHN RADCLIFFE PLS CALL THE OFFICE <NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0948241121+++TIME=0948241121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:48-04 2561<NUL>
+POCSAG2400: Address: 2008800  Function: 0 
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   09:47-72 4798<NUL>
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1140935  Function: 1  Alpha:   g<DC2>
+POCSAG1200: Address: 1946486  Function: 3  Alpha:   ld
+POCSAG1200: Address:  103141  Function: 2 
+POCSAG1200: Address:   21531  Function: 2 
+POCSAG1200: Address:  544801  Function: 1  Alpha:   <FF>K[CYKAnf2A(<DC1><DC3><GS><ETB>'A&<DC1><VT>'A <ETX>''<VT><HT>A<STX>/<ETX>3AZ@<ACK><US><EM><HT>A<SO>%<HT>Affbrhp@hhjhhp<NUL>
+POCSAG2400: Address:  583457  Function: 2  Alpha:   09:46-42 80300
+POCSAG1200: Address: 1745492  Function: 0 
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   09:45-72 24/11/2021 09:43:13 INC 24713365 29D02M O/S, THE GREYFRIARS, 144 FRIARGATE, PRESTON, PR1 2EJ Male 21Y RAN OVER BY A VAN GRD 353765 429582<NUL><NUL>
+POCSAG1200: Address: 1977014  Function: 3 
+POCSAG1200: Address:  158471  Function: 3 
+POCSAG1200: Address: 1706510  Function: 1 
+POCSAG1200: Address: 1315358  Function: 1 
+POCSAG1200: Address:  935250  Function: 1  Alpha:   %<HT>Afjfnlj@hdrjpd<NUL>
+POCSAG2400: Address: 1022494  Function: 0  Alpha:   09:44-29 Test is now complete<NUL><NUL>
+POCSAG1200: Address:  216464  Function: 2  Alpha:   09:44-67 2380<NUL>
 POCSAG2400: Address: 1140947  Function: 2 
 POCSAG2400: Address:  363354  Function: 0  Alpha:   bd
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   4<DC1>
@@ -976,25 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0543241121+++TIME=05
 POCSAG1200: Address: 1582138  Function: 3  Alpha:   ~^
 POCSAG1200: Address: 1671792  Function: 2  Alpha:   o mor
 POCSAG2400: Address: 1976884  Function: 0 
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   05:40-41 2343<NUL>
-POCSAG1200: Address: 1601577  Function: 2 
-POCSAG1200: Address: 1071536  Function: 1  Alpha:   M]
-POCSAG1200: Address: 1856144  Function: 1 
-POCSAG1200: Address:  853015  Function: 3  Alpha:   '&pg<DC2>
-POCSAG1200: Address: 1115235  Function: 2  Alpha:   <EM><DC3>
-POCSAG1200: Address:  724242  Function: 2  Alpha:   I*
-POCSAG1200: Address:  612770  Function: 1 
-POCSAG1200: Address:  675910  Function: 1  Alpha:   ,<FF>$d<STX>r3<HT>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   05:40-37 24/11/2021 05:37:28 INC 24712703 14D05 MERSEY FERRIES LTD PIER HEAD LANDING STAGE, LANDING STAGE PIER HEAD, LIVERPOOL CITY CENTRE L3, L3 1DP Male 34Y POL GRD 333708 390239
-POCSAG1200: Address: 1092762  Function: 2 
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   05:39-21 07515 135 638 <NUL><NUL>
-POCSAG2400: Address:  149253  Function: 2  Alpha:   05:39-10 07515 135 638 <NUL><NUL>
-POCSAG1200: Address:   33724  Function: 2  Alpha:   05:39-43 07515 135 638 <NUL><NUL>
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   05:39-90 07515 135 638 <NUL><NUL>
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   05:39-64 INC ALERT No: 16817756 Cardiac Arrest -, AT: MARCHANTS HILL, GURNEY SLADE RADSTOCK, BA3 4TY, Time of Call: 24/11/2021 05:38:22, Co-ords: 51.2508663 -2.5385346<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   05:38-36 24/11/2021 05:36:06 INC 24712700 14D05 PIER HEAD, LIVERPOOL CITY CENTRE L3, L3 1BY Male 34Y ENTERED WATER GRD 333984 390171<NUL><NUL>
-POCSAG1200: Address: 2028257  Function: 0 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   05:38-72 24/11/2021 05:36:06 INC 24712700 14D05 PIER HEAD, LIVERPOOL CITY CENTRE L3, L3 1BY Male 34Y ENTERED WATER GRD 333984 390171<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   47815  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1888567  Function: 2 
