@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   07:28-50 4131<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0728241121+++TIME=072<~41121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  455839  Function: 2 
+POCSAG2400: Address:  422739  Function: 2 
+POCSAG2400: Address: 1726482  Function: 3 
+POCSAG2400: Address: 1160265  Function: 1  Alpha:   <SYN>J<DC2><SOH><NAK>
+POCSAG2400: Address: 2038920  Function: 3  Alpha:   g <STX><SYN>P
+POCSAG1200: Address:  265245  Function: 2  Alpha:   <DC2>#Q:L
+POCSAG1200: Address: 1321711  Function: 2  Alpha:   07:26-41 Destination: D105 SSC In\113, Booking Ref#: 802446, Vehicle: YN66SXV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>_______________WWO______________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1352772  Function: 1 
+POCSAG1200: Address:  313715  Function: 0  Alpha:   G 
+POCSAG1200: Address: 1147475  Function: 3 
+POCSAG1200: Address:  296234  Function: 2 
+POCSAG1200: Address: 1888329  Function: 3  Alpha:   |$
 POCSAG1200: Address: 1048507  Function: 3  Alpha:   }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}mPhP<DLE>|~&<US><BEL><STX><NUL>
 POCSAG1200: Address: 1288092  Function: 3 
 POCSAG1200: Address: 2080119  Function: 0  Alpha:   v>Fg<DC2>
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1691880  Function: 0  Alpha:   !<SOH>y=N
 POCSAG2400: Address:   11729  Function: 0  Alpha:   01:05-74 A&E TRIAGE ON 723 8046 <NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0103241121+++TIME=0103241121<NUL>
 POCSAG1200: Address:  214620  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1999463  Function: 1 
-POCSAG1200: Address: 1485750  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   00:58-13 2427<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0058241121+++TIME=0058241121<NUL>
-POCSAG2400: Address: 1322756  Function: 2  Alpha:   00:58-22 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG2400: Address:  302810  Function: 2  Alpha:   00:58-45 00:58-44 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG2400: Address:   33718  Function: 2  Alpha:   00:58-64 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG1200: Address:  216796  Function: 2  Alpha:   00:58-82 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG1200: Address: 1242619  Function: 2  Alpha:   00:58-15 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG1200: Address:  549144  Function: 2  Alpha:   00:58-87 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG1200: Address:  549143  Function: 2  Alpha:   00:58-42 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG1200: Address: 1000058  Function: 2  Alpha:   00:58-68 PLS CALL JOANNA CARTER 07778 919 662
-POCSAG1200: Address:  216643  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
