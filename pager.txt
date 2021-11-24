@@ -1,3 +1,45 @@
+POCSAG1200: Address:  585003  Function: 2  Alpha:   13:49-99 PLS CALL UNPLANNED CARE DIRECT ON 0300 323 0240<NUL>
+POCSAG1200: Address: 1032137  Function: 2  Alpha:   x2
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1348241121+++TIME=1348241121<NUL>
+POCSAG1200: Address: 1481951  Function: 3  Alpha:   g<DC2>Tl<FF>
+POCSAG1200: Address:  756310  Function: 0  Alpha:   <BS>4
+POCSAG1200: Address:  761382  Function: 3 
+POCSAG1200: Address:  813075  Function: 2  Alpha:   s<DC3>
+POCSAG1200: Address: 1602467  Function: 0 
+POCSAG1200: Address:  544858  Function: 2 
+POCSAG1200: Address:  694566  Function: 2 
+POCSAG1200: Address:  421532  Function: 3 
+POCSAG1200: Address:  433596  Function: 3 
+POCSAG1200: Address:  708683  Function: 0 
+POCSAG1200: Address:   86770  Function: 2  Alpha:   @h
+POCSAG1200: Address:  477224  Function: 2 
+POCSAG1200: Address: 1548088  Function: 1 
+POCSAG1200: Address:  563247  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1027715  Function: 1 
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   13:48-24 5896<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   13:47-75 5918<NUL>
+POCSAG2400: Address: 2024308  Function: 0 
+POCSAG2400: Address: 1913678  Function: 2  Alpha:   13:47-05 2233<NUL>
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:47-83 2097<NUL>
+POCSAG2400: Address: 1327276  Function: 0 
+POCSAG2400: Address:  105843  Function: 0  Alpha:   dn
+POCSAG2400: Address: 1508010  Function: 2 
+POCSAG2400: Address: 1448036  Function: 3  Alpha:   fV
+POCSAG2400: Address:  941723  Function: 0 
+POCSAG2400: Address: 2014523  Function: 2 
+POCSAG2400: Address: 1210994  Function: 1 
+POCSAG2400: Address: 1322596  Function: 2  Alpha:   13:47-85 46186
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 2009706  Function: 0 
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:46-82 2097<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:46-21 5202<NUL>
+POCSAG1200: Address: 2084816  Function: 3 
+POCSAG1200: Address:  585450  Function: 2  Alpha:   13:46-60 4038<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:45-67 4769<NUL>
+POCSAG1200: Address: 1783012  Function: 1 
+POCSAG1200: Address:  535771  Function: 2 
+POCSAG1200: Address:  401693  Function: 2  Alpha:   13:45-47 DR LEVENSON PLS CALL YOELI 07971 511 154 <NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   &l
 POCSAG1200: Address:   40074  Function: 2  Alpha:   13:44-72 24/11/2021 13:42:56 INC 24714381 17B01G 19 STUDLAND ROAD, PEEL HALL MANCHESTER, M22 5AH Female 65Y FALLEN HEAD INJURY GRD 383741 387485<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1343241121+++TIME=1343241121<NUL>
 POCSAG2400: Address: 1323894  Function: 2  Alpha:   13:43-61 4374<NUL>
@@ -956,45 +998,3 @@ POCSAG1200: Address: 1975679  Function: 2
 POCSAG1200: Address:   47822  Function: 0 
 POCSAG1200: Address:  150501  Function: 2  Alpha:    "
 POCSAG1200: Address: 1288323  Function: 2  Alpha:   b@R@<CAN><US>/<ESC><US><US>%
-POCSAG1200: Address: 1769994  Function: 3 
-POCSAG2400: Address: 1913702  Function: 2  Alpha:   11:34-67 2105<NUL>
-POCSAG1200: Address:  108051  Function: 0  Alpha:   11:34-19 Test<NUL>
-POCSAG1200: Address:  420501  Function: 3  Alpha:   V<NUL>
-POCSAG1200: Address: 1323538  Function: 2  Alpha:   11:33-92 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address: 1621576  Function: 3 
-POCSAG1200: Address: 2088952  Function: 3 
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   11:32-39 please call 01535 294462. Thanks<NUL>
-POCSAG1200: Address:   12816  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   11:31-13 24/11/2021 11:27:11 IN<ETX>):4713787 
-POCSAG1200: Address:  108034  Function: 0  Alpha:   11:30-07 24/11/2021 11:16:57 B11AH20MinorAlm Status : AH19 Minor Alarm<NUL>
-POCSAG2400: Address:  549895  Function: 2  Alpha:   11:30-82 3217<NUL>
-POCSAG1200: Address:  197296  Function: 0 
-POCSAG2400: Address: 1913840  Function: 2  Alpha:   11:30-79 2182<NUL>
-POCSAG2400: Address:  584048  Function: 2  Alpha:   11:30-33 3216<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   11:29-79 5205<NUL>
-POCSAG1200: Address:  363833  Function: 2  Alpha:   11:29-09 2636<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1128241121+++TIME=1128241121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1128241121+++TIME=1128241121<NUL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   11:28-65 5205<NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   11:28-20 4114<NUL>
-POCSAG1200: Address:  358419  Function: 2  Alpha:   11:28-97 8193<NUL>
-POCSAG1200: Address:   80070  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  624475  Function: 1  Alpha:   `p
-POCSAG1200: Address:  346010  Function: 0  Alpha:   03
-POCSAG1200: Address: 1292042  Function: 2 
-POCSAG1200: Address: 1706377  Function: 2 
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address:  633640  Function: 2  Alpha:   hf
-POCSAG2400: Address:   36576  Function: 0 
-POCSAG2400: Address:  434937  Function: 2 
-POCSAG2400: Address: 2024044  Function: 0 
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address: 1913978  Function: 2  Alpha:   11:27-91 4379<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:27-57 3510<NUL>
-POCSAG2400: Address: 1745493  Function: 0 
-POCSAG1200: Address: 1768021  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   11:27-01 5070<NUL>
-POCSAG1200: Address:  549693  Function: 2  Alpha:   11:27-58 INFOR
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:26-10 2338<NUL>
