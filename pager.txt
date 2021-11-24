@@ -1,3 +1,28 @@
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   12:24-74 5002<NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   12:24-04 3539<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:24-62 4555<NUL>
+POCSAG2400: Address:  664308  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1223241121+++TIME=1223241121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1223241121+++TIME=1223241121<NUL>
+POCSAG1200: Address:  428347  Function: 2  Alpha:   12:23-63 24/11/2021 12:21:10 INC 24714033 03D04 12 CHARLTON ROAD, OLD SWAN L13, L13 4AP Male 54Y M- BITTEN BY DOG GRD 339412 390334
+POCSAG1200: Address: 1672521  Function: 2 
+POCSAG1200: Address: 1071480  Function: 1  Alpha:   <SYN>:
+POCSAG1200: Address:  360772  Function: 2  Alpha:   d@
+POCSAG1200: Address:  269059  Function: 2  Alpha:   12:23-13 24/11/2021 12:21:27 INC 24714035 09E01 70 AMBLESIDE CLOSE, BLACKBURN, BB1 5HE Female 45Y UNRESPONSIVE GRD 369091 428691
+POCSAG1200: Address: 1441904  Function: 0 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   12:23-71 4769<NUL>
+POCSAG1200: Address:  269354  Function: 3  Alpha:   v 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   12:22-70 4201<NUL>
+POCSAG1200: Address:  135328  Function: 2  Alpha:   12:22-91 24/11/2021 12:17:03 INC 24714016 24D02 119 BANKSBARN, DIGMOOR SKELMERSDALE, WN8 9ER Female 30Y IN LABOUR GRD 349427 405318
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   12:21-51 4034<NUL>
+POCSAG2400: Address: 1913561  Function: 2  Alpha:   12:21-64 4873<NUL>
+POCSAG1200: Address:  202285  Function: 3 
+POCSAG1200: Address: 1442908  Function: 1 
+POCSAG1200: Address:  676387  Function: 1 
+POCSAG1200: Address: 1482700  Function: 2  Alpha:   12:21-94 Wed Nov 24 12:21:28 UTC 2021 -- PROBLEM : mgmt1-stj st0.0 on mgmt1-stj is CRITICAL (CRITICAL: Interface st0.0 (index 552) is down.)
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   e`
+POCSAG1200: Address:  548156  Function: 2  Alpha:   12:19-41 Destination: BCM\D25 North\01, Booking Ref#: SHP21110238, Vehicle: ND68WLX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><NUL><NUL>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   12:19-17 2993<NUL>
 POCSAG1200: Address: 1560621  Function: 3  Alpha:   U2
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1218241121+++TIME=1218241121<NUL>
 POCSAG1200: Address:  625978  Function: 1  Alpha:   <GS>L
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 1812471  Function: 2  Alpha:   A<EM>
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:16-25 5202<NUL>
 POCSAG1200: Address:  216726  Function: 2  Alpha:   10:14-19 Test for Harriett. Please call to confirm. <NUL><NUL>
-POCSAG2400: Address:   28869  Function: 0  Alpha:   10:14-63 CALLING TO REFER A PATIENT -DR ANIF ON 07943 434 315 
-POCSAG2400: Address:   28869  Function: 0  Alpha:   10:14-62 PLEASE CALL UMAIR EXT: 28682
-POCSAG1200: Address:  585540  Function: 2  Alpha:   10:13-28 6945<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1013241121+++TIME=1013241121<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:13-24 4311<NUL>
-POCSAG1200: Address:  898020  Function: 2 
-POCSAG1200: Address:  156875  Function: 2 
-POCSAG1200: Address:  940343  Function: 2 
-POCSAG1200: Address: 1323598  Function: 2 
-POCSAG1200: Address: 1676037  Function: 3 
-POCSAG1200: Address:  136236  Function: 1 
-POCSAG2400: Address:  583600  Function: 2  Alpha:   10:11-61 77747
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:11-34 24/11/2021 10:09:16 INC 24713467 09E02 10 GLENTREES ROAD, WEST DERBY L12, L12 5EU Male 52Y CHEST PAIN, BREATHLESS, COLLAPSED, NOISY BREATHING GRD 339680 393659
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   &<STX>
-POCSAG2400: Address:  583718  Function: 2  Alpha:   10:10-41 73338
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:10-20 4906<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   10:10-76 4555<NUL>
-POCSAG1200: Address:  108034  Function: 0  Alpha:   10:10-94 24/11/2021 10:00:50 DmpkEX2_No1_Fail Status : DMPK Ext AHU No.2 Fan 1 Fail<NUL><NUL>
-POCSAG1200: Address:  108034  Function: 0  Alpha:   10:10-92 24/11/2021 10:01:56 W5AHUS01MinorAlm Status : AHUS01 Minor Alarm<NUL>
-POCSAG1200: Address: 1318273  Function: 2  Alpha:   10:09-26 TRAUMA TEAM TEST CALL<CR><LF>SOUTH WEST ACUTE HOSPITAL<CR><LF>10.09AM<CR><LF>24/11/2021<NUL>
-POCSAG1200: Address:  548165  Function: 2  Alpha:   10:10-37 2014<NUL>
-POCSAG1200: Address: 2023537  Function: 3 
-POCSAG2400: Address:  954995  Function: 1 
-POCSAG2400: Address: 1323175  Function: 2  Alpha:   10:09-35 NHSBT - DONOR REFERRAL. Please call NURSE LORRAINE SIMS on Direct Dial Number 01284 713130 Hospital WEST SUFFOLK Dept ICU . Regards Donor Referral Lin
