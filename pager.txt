@@ -1,3 +1,29 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   12:44-44 Call or Calls waiting at Switchboard
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <ENQ>0
+POCSAG1200: Address:  290105  Function: 3  Alpha:   <ACK>+
+POCSAG1200: Address:  726709  Function: 1 
+POCSAG1200: Address:  412860  Function: 3 
+POCSAG1200: Address:  296139  Function: 2 
+POCSAG1200: Address:  339218  Function: 1 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:44-72 24/11/2021 12:42:59 INC 24714131 06E01 vF@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1243241121+++TIME=1243241121<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   12:43-05 5090<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +<BEL>/TIME=1243241121+++TIME=1243241121<NUL>
+POCSAG1200: Address: 1031732  Function: 3  Alpha:   <ACK><ETX>
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   E.
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  308281  Function: 0 
+POCSAG1200: Address: 1225334  Function: 1 
+POCSAG1200: Address:  639748  Function: 2 
+POCSAG1200: Address:  730284  Function: 3 
+POCSAG1200: Address: 1840659  Function: 2 
+POCSAG1200: Address: 1583483  Function: 0 
+POCSAG1200: Address:  197476  Function: 3  Alpha:   5<BS>
+POCSAG1200: Address: 1058499  Function: 2  Alpha:   12:39-38 24/11/2021 12:36:18 INC 24714110 30D03 HALF WAY UP LATHAM ST JAMES SCHOOL NEAR, SCHOOL LANE, WESTHEAD, L40 6HN Male 75Y COME OF PEDAL, BROKEN COLLAR BONE GRD 344168 407638
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address: 1671761  Function: 0 
+POCSAG1200: Address:  419880  Function: 2  Alpha:   <LF><LF>
 POCSAG2400: Address: 1811318  Function: 2 
 POCSAG1200: Address:  240705  Function: 2  Alpha:   12:38-31 1234<NUL>
 POCSAG1200: Address: 2078564  Function: 1 
@@ -972,29 +998,3 @@ POCSAG1200: Address:  629948  Function: 2  Alpha:   td
 POCSAG1200: Address:  538344  Function: 0  Alpha:   <CAN><CAN>
 POCSAG1200: Address: 1836263  Function: 0  Alpha:   WHCg<DC2>
 POCSAG2400: Address: 1659208  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1033241121+++TIME=1033241121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1033241121+++TIME=1033241121<NUL>
-POCSAG1200: Address:  756304  Function: 1  Alpha:   <BS>46<SYN>6&6<ACK>
-POCSAG1200: Address:  956967  Function: 1  Alpha:   O%
-POCSAG1200: Address:  304813  Function: 2  Alpha:   <DC4><NAK>(Pp#<NAK><NAK> p5
-POCSAG1200: Address: 1316260  Function: 1 
-POCSAG1200: Address:  859300  Function: 3 
-POCSAG1200: Address: 1071171  Function: 3 
-POCSAG1200: Address:  563618  Function: 0  Alpha:    O
-POCSAG1200: Address: 1675842  Function: 3 
-POCSAG1200: Address: 1238033  Function: 2 
-POCSAG1200: Address:  477225  Function: 0 
-POCSAG1200: Address:  677944  Function: 0 
-POCSAG1200: Address: 1877636  Function: 0 
-POCSAG2400: Address: 1913985  Function: 2  Alpha:   10:32-07 4457<NUL>
-POCSAG2400: Address: 1744932  Function: 1 
-POCSAG2400: Address:   28926  Function: 0  Alpha:   10:31-59 2339<NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   10:31-35 24/11/2021 10:30:11 INC 24713559 09E02 12 DEAL STREET, GREAT LEVER BOLTON, BL3 2DA Male 55Y UNCONSCIOUS NOISY BREATHING GRD 371661 407292<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:31-23 24/11/2021 10:30:11 INC 24713559 09E02 12 DEAL STREET, GREAT LEVER BOLTON, BL3 2DA Male 55Y UNCONSCIOUS NOISY BREATHING GRD 371661 407292<NUL><NUL>
-POCSAG1200: Address: 1191360  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:  353218  Function: 0  Alpha:   10:30-86 2222<NUL>
-POCSAG2400: Address: 1008208  Function: 2  Alpha:   10:30-16 Pageone test message please ignore 375750<NUL>
-POCSAG2400: Address: 1322513  Function: 2  Alpha:   10:29-03 80981
-POCSAG2400: Address:  150086  Function: 0  Alpha:   10:29-02 5242<NUL>
