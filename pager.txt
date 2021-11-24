@@ -1,3 +1,10 @@
+POCSAG2400: Address:  940400  Function: 1 
+POCSAG2400: Address: 1320164  Function: 2  Alpha:   07:59-35 80622
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0758241121+++TIME=0758241121<NUL>
+POCSAG2400: Address:  549126  Function: 2  Alpha:   07:58-52 72943
+POCSAG1200: Address:  144353  Function: 2  Alpha:   +<DLE>!fG
+POCSAG1200: Address: 1915497  Function: 1 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   07:55-38 33867
 POCSAG1200: Address: 2011703  Function: 0 
 POCSAG1200: Address: 1324636  Function: 2  Alpha:   07:54-36 Please call AGH swi4Ih`oard on 01535 652511<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0753241121+++TIME=0753241121<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address:  248824  Function: 1
 POCSAG1200: Address:  728871  Function: 1 
 POCSAG1200: Address: 1069662  Function: 2 
 POCSAG1200: Address:  314642  Function: 2 
-POCSAG1200: Address:  561713  Function: 2 
-POCSAG1200: Address: 1293061  Function: 1  Alpha:   @<STX>
-POCSAG1200: Address: 1324736  Function: 2 
-POCSAG1200: Address:  336389  Function: 2  Alpha:   01:35-59 Alarm#31980 01:35 Error=0 Late=1, <CR><LF>Index_Reporter [Late]<CR><LF>----------------<CR><LF>Index_Reporter: IDLE<NUL><NUL>
-POCSAG1200: Address:   22104  Function: 2  Alpha:   01:35-69 24/11/2021 01:21:30 INC 24712171 23B01I 39 PLANE COURT, SALFORD 6 SALFORD, M6 5ER Male 17Y MALE - OVERDOSE GRD 381201 398963<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   01:35-24 PLS CALL FISK & CHEERE DR ON 32224<NUL><NUL>
-POCSAG1200: Address:  585538  Function: 2  Alpha:   01:34-84 2110<NUL>
