@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1512834  Function: 3  Alpha:   <EM>D<NUL>bL
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   23:34-50 34400 toni guy ward
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2333241121+++TIME=2333241121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2333241121+++TIME=2333241121<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:33-94 4167<NUL>
+POCSAG512: Address:  377497  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1090560  Function: 2  Alpha:   23:31-70 24/11/2021 23:29:51 INC 24716776 10D04 55 FERRY ROAD, BARROW-IN-FURNESS, LA14 2QF Female 61Y DIABETIC SUGARS 27.7 FEEL FUNNY GRD 319162 468652
+POCSAG2400: Address: 1023345  Function: 3 
+POCSAG2400: Address: 1784172  Function: 3  Alpha:   f^^6<ACK>
+POCSAG2400: Address:  326603  Function: 3  Alpha:   t: gp
+POCSAG2400: Address: 2006577  Function: 1  Alpha:   <RS>}m]!
 POCSAG2400: Address:  216264  Function: 2  Alpha:   23:29-62 PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: gpafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:29-67 24/11/2021 23:27:32 INC 24716764 06E01 37 SOUTH LONSDALE STREET, STRETFORD MANCHESTER, M32 0JE Female 76Y F COLLAPSED GRD 380093 395353<NUL>
 POCSAG1200: Address:  963058  Function: 0 
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1512615  Function: 2  Alpha:   O%
 POCSAG1200: Address: 1097287  Function: 1 
 POCSAG1200: Address:  707014  Function: 1  Alpha:    H
 POCSAG1200: Address:   82757  Function: 2 
-POCSAG1200: Address:  280141  Function: 2 
-POCSAG1200: Address: 1619156  Function: 1 
-POCSAG1200: Address: 1912900  Function: 2 
-POCSAG1200: Address: 1251738  Function: 1  Alpha:    FEma
-POCSAG1200: Address:  856864  Function: 3 
-POCSAG1200: Address: 1770612  Function: 2  Alpha:   20:53-32 2235<NUL>
-POCSAG1200: Address: 1323875  Function: 2  Alpha:   20:53-65 PLS CALL LAS DUTY IDM ON 02077 832 329 
-POCSAG2400: Address: 1323883  Function: 2  Alpha:   20:53-53 4156<NUL>
-POCSAG1200: Address: 1912900  Function: 2 
-POCSAG1200: Address: 1251738  Function: 1  Alpha:    FEma
-POCSAG1200: Address: 1649674  Function: 1 
-POCSAG1200: Address:  266641  Function: 2  Alpha:   F<ENQ>
-POCSAG1200: Address:  856864  Function: 3 
