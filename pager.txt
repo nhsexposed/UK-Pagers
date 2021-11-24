@@ -1,3 +1,30 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1453241121+++TIME=1453241121<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:53-39 2304<NUL>
+POCSAG2400: Address:  295506  Function: 0 
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:52-76 5204<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   14:52-54 5202<NUL>
+POCSAG1200: Address:  272329  Function: 2 
+POCSAG1200: Address:  679096  Function: 2  Alpha:   t<FS>
+POCSAG1200: Address: 1070440  Function: 0 
+POCSAG1200: Address:  823719  Function: 1  Alpha:   RLyg<DC2>
+POCSAG1200: Address: 1115462  Function: 3 
+POCSAG1200: Address: 1477205  Function: 0  Alpha:   <CAN>H
+POCSAG1200: Address:  100484  Function: 3  Alpha:   '@<EOT><DC3><EM>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:52<CR>?<DC1>!4156<NUL>
+POCSAG2400: Address: 1323948  Function: 2  Alpha:   14:51-57 AMBER: NEL 111 is in CAS Queue Level 2 Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS J.N<NUL><NUL>
+POCSAG2400: Address: 1324027  Function: 2  Alpha:   14:51-96 AMBER: NEL 111 is in CAS Queue Level 2 Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS J.N<NUL><NUL>
+POCSAG2400: Address: 1746806  Function: 0 
+POCSAG2400: Address: 1323926  Function: 2  Alpha:   14:51-88 AMBER: NEL 111 is in CAS Queue Level 2 Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - INITIALS J.N<NUL><NUL>
+POCSAG2400: Address: 1913964  Function: 2  Alpha:   14:51-08 4387<NUL>
+POCSAG1200: Address:  269111  Function: 2  Alpha:   14:51-01 Cat 2 in Blackburn - 46 year old female with chest pain - if anyone is free to attend xx
+POCSAG1200: Address:   80101  Function: 3  Alpha:   <SYN>p
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:49-38 3117<NUL>
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   14:49-66 4268<NUL>
+POCSAG1200: Address: 1220698  Function: 0 
+POCSAG1200: Address:  312672  Function: 0  Alpha:   14:49-49 24/11/2021 14:47:46 INC 2471<DLE>6<CAN>9 17D04G 20 WEMBLEY AVENUE, POULTON LE FYLDE, FY6 7JJ Female 86Y FALLEN OFF TOILET GRD 335303 439248
 POCSAG2400: Address: 1913707  Function: 2  Alpha:   14:49-70 5202<NUL>
 POCSAG2400: Address:  926242  Function: 0 
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   14:49-53 5202<NUL>
@@ -971,30 +998,3 @@ POCSAG2400: Address:  695842  Function: 2  Alpha:   12:29-46 2083<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1228241121+++TIME=1228241121<NUL>
 POCSAG2400: Address:  855830  Function: 2  Alpha:   I<SUB>8H<LF>4jyI<BS>T<ENQ>dYXH8<LF>Dz<HT>4<LF>Z<CAN>8<HT>Dz<HT>4zYYxiY<BS>T*zXhIJ<EM><VT>$Z<BS><EOT><SUB>H<SUB>YhIj%<BEL>$Z|<FS>,N<<SO>Dxm}-<SO>$Zl\,.<RS>L<CR>D<EM>m]<FF>
 POCSAG2400: Address: 1913824  Function: 2  Alpha:   12:28-63 2233<NUL>
-POCSAG2400: Address: 1323103  Function: 2  Alpha:   12:28-28 NHSBT -GENERAL MESSAGE Please contact LISA GODBY on Direct Dial Number 07905 185 937 Location NORTH TEES HOSPITAL MessageHAS BEEN TRYING TO CONTACT SNOD - NEEDS TO SPEAK TO SOMEONE URGENTLY RE PATIENT.: Regards Donor Referral Line
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   12:28-10 NHSBT -GENERAL MESSAGE Please contact LISA GODBY on Direct Dial Number 07905 185 937 Location NORTH TEES HOSPITAL MessageHAS BEEN TRYING TO CONTACT SNOD - NEEDS TO SPEAK TO SOMEONE URGENTLY RE PATIENT.: Regards Donor Referral Line
-POCSAG1200: Address:  134161  Function: 2 
-POCSAG1200: Address:  305573  Function: 1 
-POCSAG1200: Address: 1071436  Function: 1  Alpha:   J<SYN>
-POCSAG1200: Address:  364672  Function: 2  Alpha:   d<STX>
-POCSAG1200: Address:  941407  Function: 1  Alpha:   <SUB><DLE>xg<DC2>
-POCSAG1200: Address:  266854  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address:  629548  Function: 2  Alpha:   hh
-POCSAG1200: Address:  312672  Function: 0  Alpha:   12:28-32 24/11/2021 <CAN><EM>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   12:27-96 3116<NUL>
-POCSAG1200: Address:  756305  Function: 1  Alpha:   <BS>46<ACK><ETB>fV<ACK>
-POCSAG1200: Address:  596384  Function: 0 
-POCSAG1200: Address: 1225824  Function: 0 
-POCSAG1200: Address: 1400039  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1176470  Function: 2  Alpha:   "<SYN>
-POCSAG1200: Address:  956973  Function: 2  Alpha:   <EOT>z<DC4>-<DC4>
-POCSAG1200: Address: 1066340  Function: 1 
-POCSAG1200: Address: 1409868  Function: 3 
-POCSAG1200: Address:  905987  Function: 2 
-POCSAG1200: Address:  176907  Function: 3 
-POCSAG1200: Address: 1059873  Function: 1  Alpha:   <FF><ETX><STX>c<FF>
-POCSAG1200: Address: 1126793  Function: 3 
-POCSAG1200: Address:  593998  Function: 1 
-POCSAG1200: Address: 1257565  Function: 3 
-POCSAG1200: Address: 1665221  Function: 1 
