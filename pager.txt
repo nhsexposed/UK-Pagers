@@ -1,3 +1,59 @@
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   14:34-79 31081
+POCSAG1200: Address:  370216  Function: 3  Alpha:   <FF>[
+POCSAG1200: Address:  325898  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1433241121+++TIME=1433241121<NUL>
+POCSAG1200: Address:  619457  Function: 3 
+POCSAG1200: Address:  779720  Function: 2 
+POCSAG1200: Address:  336140  Function: 2  Alpha:   14:33-55 24/11K<FF>L
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:32-07 24/11/2021 14:29:44 INC 24714595 07A01 11 NANDYWELL, LITTLE LEVER BOLTON, BL3 1JU Female 51Y BURNT HAND ON COOKER GRD 375891 407093
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:32-27 4313<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  700517  Function: 3  Alpha:   5<ACK>
+POCSAG2400: Address: 1996229  Function: 1 
+POCSAG2400: Address: 1349434  Function: 1 
+POCSAG2400: Address: 1913814  Function: 2  Alpha:   14:31-68 4973<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   14:31-69 2195<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:31-26 2008<NUL>
+POCSAG1200: Address:  618317  Function: 3  Alpha:   GJ
+POCSAG1200: Address: 1032147  Function: 2  Alpha:   B<BS><NUL>`L
+POCSAG1200: Address: 1714500  Function: 0 
+POCSAG1200: Address:  420019  Function: 2 
+POCSAG1200: Address:  839939  Function: 3 
+POCSAG2400: Address: 1964809  Function: 3  Alpha:   tic P
+POCSAG2400: Address:  416239  Function: 3  Alpha:   O%(g<SYN>#<ETX>5(Lf
+POCSAG2400: Address:  892588  Function: 2 
+POCSAG2400: Address:  164458  Function: 3  Alpha:   0y<SYN>P0*Pb
+POCSAG2400: Address: 1010897  Function: 0 
+POCSAG2400: Address:  318513  Function: 2 
+POCSAG2400: Address: 2060368  Function: 0 
+POCSAG2400: Address: 1954615  Function: 3  Alpha:    Yeg<DC2>46v
+POCSAG2400: Address:  133902  Function: 2 
+POCSAG2400: Address: 1464813  Function: 3  Alpha:   ~<ACK>'O<RS>
+POCSAG2400: Address:   23427  Function: 0  Alpha:   <CAN><SUB>
+POCSAG1200: Address:  269282  Function: 3  Alpha:   F<DC2>
+POCSAG2400: Address:  267565  Function: 2 
+POCSAG2400: Address:  379221  Function: 0 
+POCSAG2400: Address:  612660  Function: 3 
+POCSAG2400: Address: 1065316  Function: 0 
+POCSAG2400: Address: 1429002  Function: 1  Alpha:   77
+POCSAG2400: Address:  987224  Function: 1 
+POCSAG2400: Address: 1067368  Function: 1 
+POCSAG2400: Address: 1413846  Function: 3  Alpha:   "PA ir3<HT>
+POCSAG2400: Address: 1677832  Function: 2 
+POCSAG2400: Address: 2021942  Function: 1 
+POCSAG2400: Address: 1322866  Function: 2  Alpha:   14:30-37 NHSCL
+POCSAG2400: Address: 1913870  Function: 2  Alpha:   14:30-71 4554<NUL>
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   <GS>lE!L
+POCSAG1200: Address:  314975  Function: 1  Alpha:   iIuY<EOT>
+POCSAG1200: Address:  534326  Function: 1 
+POCSAG1200: Address:  361675  Function: 0  Alpha:   s4
+POCSAG1200: Address: 1387731  Function: 1 
+POCSAG1200: Address:  758834  Function: 2 
+POCSAG1200: Address: 1349438  Function: 1 
+POCSAG1200: Address:  629549  Function: 2  Alpha:   bb
+POCSAG1200: Address:  629548  Function: 2  Alpha:   bb
+POCSAG1200: Address:  214093  Function: 2  Alpha:   14:29-84 24/11/2021 14:26:11 INC 24714583 10C01 2 RONBURY CLOSE, BARROWFORD NELSON, BB9 6SD Female 75Y LUNG INFECTION - PAINS IN RIBS GRD 385308 438502
+POCSAG1200: Address:  537913  Function: 2 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   14:29-25 2008<NUL>
 POCSAG2400: Address: 1374184  Function: 3 
 POCSAG2400: Address: 1913907  Function: 2  Alpha:   14:28-22 4268<NUL>
@@ -942,59 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   12:09-17 4187<NUL>
 POCSAG1200: Address:  619026  Function: 2  Alpha:   F<NUL>
 POCSAG2400: Address: 1975024  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1208241121+++TIME=1208241121<NUL>
-POCSAG1200: Address:  420501  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   12:08-73 2616<NUL>
-POCSAG1200: Address:  108029  Function: 0  Alpha:   12:08-24 plse call x4483<NUL>
-POCSAG1200: Address:  940431  Function: 2  Alpha:   12:07-57 24/11/2021 12:03:56 INC 24713969 12B01 FLAT 1, 2 WESTBOURNE ROAD, FAIRFIELD LANCASTER, LA1 5DB Male 21Y LOWER BACK PAY^(AND VOMITING Gpt$347159 461653
-POCSAG1200: Address: 1511973  Function: 3  Alpha:   F<DC2>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:07-21 2317<NUL>
-POCSAG2400: Address: 1322513  Function: 2  Alpha:   12:07-06 80300
-POCSAG2400: Address: 1913928  Function: 2  Alpha:   12:07-83 4312<NUL>
-POCSAG1200: Address: 2091640  Function: 0 
-POCSAG1200: Address: 1032928  Function: 0 
-POCSAG2400: Address: 1321247  Function: 2  Alpha:   12:06-80 34551
-POCSAG2400: Address:   11729  Function: 0  Alpha:   12:06-83 PLS CALL 7238638
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   12:06-40 5229<NUL>
-POCSAG2400: Address: 1913851  Function: 2  Alpha:   12:05-75 4188<NUL>
-POCSAG1200: Address: 1321859  Function: 2  Alpha:   12:05-91 PLEASE CALL DSCC PIN 9019
-POCSAG1200: Address:  916217  Function: 1  Alpha:   _9
-POCSAG1200: Address: 1515432  Function: 0  Alpha:   <ENQ>(
-POCSAG1200: Address:  734825  Function: 0 
-POCSAG1200: Address:  682006  Function: 0 
-POCSAG1200: Address:  396509  Function: 3 
-POCSAG1200: Address: 1770061  Function: 2 
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  103210  Function: 2  Alpha:   j`
-POCSAG1200: Address: 1204952  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><DC3>S
-POCSAG2400: Address:   28894  Function: 0  Alpha:   12:05-95 5202<NUL>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:04-64 4954<NUL>
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   F 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:03-16 2616<NUL>
-POCSAG2400: Address:  549033  Function: 2  Alpha:   12:03-58 Switch - Call Waiting please
-POCSAG2400: Address: 1323249  Function: 2  Alpha:   12:02-83 NHSBT - DONOR REFERRAL. Please call STAFF NURSE REGINALD BUCOY on Direct Dial Number 01895 238282 ext: 8895 Hospital HILLINGDON HOSPITAL, UXBRIDGE Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323218  Function: 2  Alpha:   12:02-52 NHSBT - DONOR REFERRAL. Please call STAFF NURSE REGINALD BUCOY on Direct Dial Number 01895 238282 ext: 8895 Hospital HILLINGDON HOSPITAL, UXBRIDGE Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address:  396437  Function: 0  Alpha:   ,<FF>..<CR>Hl<FF>N<FF>N<FF>(<EM><RS>]<SO><BS><SO>..<CR><BS>r{<FS><<SUB>=<CAN><ESC><BS>2<DC2><DC3>3Rs<DC1>qS<DC3><BS>rs<DC4>4<DC2>5<DLE><DC3><VT>(<NAK>VP4<DC2>q1<DC1><BS>1<EM><FS><GS>(r0<NAK>H<VT>H4y9X<FS>y<FS><BS>q[{[<FS>H4Y9Y\<<CAN><ESC><BS>3Z;<EM>
-POCSAG2400: Address: 1323237  Function: 2  Alpha:   12:02-79 NHSBT - DONOR REFERRAL. Please call STAFF NURSE REGINALD BUCOY on Direct Dial Numb
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   12:02-31 NHSBT - DONOR REFERRAL. Please call STAFF NURSE REGINALD BUCOY on Direct Dial Number 01895 238282 ext: 8895 Hospital HILLINGDON HOSPITAL, UXBRIDGE Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1913735  Function: 2  Alpha:   12:03-29 4769<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   12:02-94 5202<NUL>
-POCSAG2400: Address: 1323228  Function: 2  Alpha:   12:02-13 NHSBT - DONOR REFERRAL. Please call STAFF NURSE REGINALD BUCOY on Direct Dial Number 01895 238282 ext: 8895 Hospital HILLINGDON HOSPITAL, UXBRIDGE Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1913903  Function: 2  Alpha:   12:02-69 2111<NUL>
-POCSAG2400: Address:  433689  Function: 2  Alpha:   12:03-02 6630<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   12:02-84 TEST<NUL>
-POCSAG2400: Address: 1008256  Function: 2  Alpha:   12:02-32 TEST<NUL>
-POCSAG2400: Address:  549033  Function: 2  Alpha:   12:02-57 TEST<NUL>
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   12:02-06 TEST<NUL>
-POCSAG2400: Address: 1259623  Function: 2  Alpha:   12:02-84 3556<NUL>
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   12:02-61 TEST<NUL>
-POCSAG1200: Address:  144128  Function: 3 
-POCSAG1200: Address: 1427999  Function: 1  Alpha:   O%(<NAK>M
-POCSAG1200: Address: 1413254  Function: 2  Alpha:   f@h@<EOT>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address: 2044462  Function: 1  Alpha:   <CAN><EM>
-POCSAG2400: Address:   28919  Function: 0  Alpha:   12:02-60 4311<NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   v*
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:02-15 4316<NUL>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:   11758  Function: 2  Alpha:   12:01-82 8386 000
