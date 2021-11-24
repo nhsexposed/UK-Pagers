@@ -1,3 +1,7 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518241121+++TIME=0518241121<NUL>
+POCSAG2400: Address: 2088952  Function: 3 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:18-28 3106<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1288090  Function: 3 
 POCSAG1200: Address: 1059192  Function: 2 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1068138  Function: 1  Alpha:   3<ETX>3<ETB><ETX>]Me
 POCSAG1200: Address: 1149090  Function: 3 
 POCSAG1200: Address: 1705057  Function: 2  Alpha:   X<EM>
 POCSAG1200: Address:  378912  Function: 1  Alpha:   <EM>6
-POCSAG1200: Address: 1445008  Function: 2 
-POCSAG1200: Address:  535719  Function: 3  Alpha:   O%
-POCSAG1200: Address: 2047327  Function: 3 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:25-97 23/11/2021 23:23:38 INC 24711800 17D05 7 ROBSON STREET, OLD SWAN L13, L13 1DR Female 73Y FA<EOT>&<STX>'<DLE>
