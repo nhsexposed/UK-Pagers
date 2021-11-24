@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1413241121+++TIME=1413241121<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   14:13-68 2195<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1413241121+++TIME=1413241121<NUL>
+POCSAG1200: Address:       3  Function: 0 
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   14:13-34 2561<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:13-71 4163<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   14:12-76 5013<NUL>
+POCSAG1200: Address:  585538  Function: 2  Alpha:   14:12-87 5<NUL>
+POCSAG2400: Address: 1913799  Function: 2  Alpha:   14:11-09 5013<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:10-83 2317<NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <ACK>R
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   14:10-66 3105<NUL>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   14:10-39 5013<NUL>
 POCSAG2400: Address: 1913774  Function: 2  Alpha:   14:09-26 5076<NUL>
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:09-70 4858<NUL>
 POCSAG1200: Address:  619021  Function: 3  Alpha:   <SYN><SOH>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1913707  Function: 2  Alpha:   11:53-66 2826<NUL>
 POCSAG2400: Address: 1323229  Function: 2  Alpha:   11:53-37 PLEASE CALL INTENSIVE CARE WATFORD GENERAL ON 01923 217 610
 POCSAG1200: Address:  549881  Function: 2  Alpha:   11:53-33 ~*INFO ONLY* N3301 BACK ON THE RUN <NUL>
 POCSAG1200: Address: 1619809  Function: 3  Alpha:   <ACK>D
-POCSAG1200: Address: 1470152  Function: 1 
-POCSAG1200: Address: 1352768  Function: 1 
-POCSAG1200: Address:  840119  Function: 1  Alpha:   S Gg<DC2>
-POCSAG1200: Address:  791205  Function: 1  Alpha:   Lt<FS><EOT><STX><NAK>}<DC4>
-POCSAG1200: Address: 1422175  Function: 1  Alpha:   `j@g<DC2>
-POCSAG1200: Address: 1515690  Function: 1 
-POCSAG1200: Address:   90305  Function: 2 
-POCSAG1200: Address:  478473  Function: 2 
-POCSAG1200: Address: 1246424  Function: 2 
-POCSAG1200: Address:  625983  Function: 2  Alpha:   3<HT>j<SO>f
-POCSAG1200: Address:  873251  Function: 2 
-POCSAG1200: Address: 1712258  Function: 3 
-POCSAG1200: Address: 1878652  Function: 0 
