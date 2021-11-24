@@ -1,3 +1,30 @@
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   10:49-35 4550<NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>!
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1048241121+++TIME=1048241121<NUL>
+POCSAG1200: Address:  329106  Function: 3 
+POCSAG1200: Address: 1263114  Function: 1 
+POCSAG1200: Address: 1781793  Function: 1 
+POCSAG1200: Address: 1935488  Function: 2  Alpha:   h@DbZ
+POCSAG2400: Address: 1913928  Function: 2  Alpha:   10:48-81 4183<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   10:48-30 24/11/2021 10:46:31 INC 24713626 06D02 13 COUNTESS LANE, RADCLIFFE MANCHESTER, M26 3WF Male 75Y DIB GRD 376785 407666<NUL><NUL>
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  367404  Function: 3  Alpha:   `l
+POCSAG1200: Address:  269168  Function: 2  Alpha:   10:47-29 24/11/2021 10
+POCSAG1200: Address: 1067866  Function: 2  Alpha:   10:47-26 24/11/2021 10:45:00 INC 24713617 31D03 78 FREDERICK STREET, WIDNES WA8, WA8 6PG
+POCSAG2400: Address: 1320379  Function: 2  Alpha:   10:46-39 3507<NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   10:46-91 80981
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   10:46-19 2185<NUL>
+POCSAG2400: Address:  583534  Function: 2  Alpha:   10:46-15 80981
+POCSAG1200: Address: 1574984  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   10:46-05 Boiler lock out ALERT<NUL>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913894  Function: 2  Alpha:   10:45-64 4264<NUL>
+POCSAG2400: Address:  583534  Function: 2  Alpha:   10:45-13 803<NUL><NUL>
+POCSAG2400: Address: 1811261  Function: 0 
+POCSAG1200: Address: 1999029  Function: 0 
+POCSAG1200: Address: 1485641  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address:  678716  Function: 2  Alpha:   10:44-32 PLEASE CONTACT CONTROL
 POCSAG1200: Address:  963186  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1043241121+++TIME=1043241121<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   10:43-09 5415<NUL>
@@ -971,30 +998,3 @@ POCSAG1200: Address:  354324  Function: 0  Alpha:   1r
 POCSAG1200: Address:  133525  Function: 1 
 POCSAG1200: Address:  560925  Function: 2 
 POCSAG1200: Address:   88576  Function: 3 
-POCSAG1200: Address:  354327  Function: 0  Alpha:   O%h<CAN>y
-POCSAG1200: Address: 1020726  Function: 0  Alpha:   t<
-POCSAG1200: Address:  816872  Function: 3 
-POCSAG2400: Address:  302838  Function: 2  Alpha:   09:06-51 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG1200: Address: 1710166  Function: 2  Alpha:   09:06-13 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG1200: Address:  931135  Function: 2  Alpha:   09:06-89 Please can the Director on Call acknowledge receipt of pager test message
-POCSAG1200: Address:  931658  Function: 2  Alpha:   09:06-29 Call or Calls waiting at Switchboard
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1312708  Function: 2  Alpha:   09:05-37 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312710  Function: 2  Alpha:   09:05-30 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312727  Function: 2  Alpha:   09:05-29 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312723  Function: 2  Alpha:   09:05-28 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312725  Function: 2  Alpha:   09:05-29 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312724  Function: 2  Alpha:   09:05-28 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312726  Function: 2  Alpha:   09:05-28 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312711  Function: 2  Alpha:   09:05-29 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312729  Function: 2  Alpha:   09:05-30 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1324227  Function: 2  Alpha:   09:05-38 This is a pager test<NUL><NUL>
-POCSAG1200: Address: 1312713  Function: 2  Alpha:   09:05-02 This is a pager test<NUL><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   09:04-23 5205<NUL>
-POCSAG1200: Address: 1359202  Function: 2 
-POCSAG1200: Address:   34041  Function: 0 
-POCSAG1200: Address: 1888561  Function: 2 
-POCSAG1200: Address:  144128  Function: 3 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>a
-POCSAG1200: Address:  141260  Function: 3  Alpha:   <DC3><DC3>
-POCSAG1200: Address:  826915  Function: 1  Alpha:   <EOT><SUB>
