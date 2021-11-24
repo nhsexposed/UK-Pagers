@@ -1,3 +1,63 @@
+POCSAG1200: Address: 1873281  Function: 3 
+POCSAG1200: Address: 2007285  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1813241121+++TIME=1813241121<NUL>
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   18:13-63 2008<NUL>
+POCSAG1200: Address:  549770  Function: 2  Alpha:   18:12-38 AT<DC4>:BH(7
+POCSAG1200: Address:  696118  Function: 2  Alpha:   18:12-70 33714
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   18:12-53 2113 -<DC1><BEL>VH<ETX>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   18:11-16 4167<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1701614  Function: 2  Alpha:   <DLE><DLE>*d g%Plg*Pa''*i'&<DLE><DLE><NUL>
+POCSAG1200: Address: 1594954  Function: 2  Alpha:   18:11-91 NOTIFY - DATE: 24.11.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 6 MAX 5 
+POCSAG1200: Address: 1189707  Function: 0  Alpha:   18:11-56 NOTIFY - DATE: 24.11.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 6 MAX 5 MIN  THANK YOU CONTROL <NUL><NUL>&
+POCSAG1200: Address: 1449770  Function: 3  Alpha:   $<NAK>]d<EOT>
+POCSAG1200: Address: 2045249  Function: 0 
+POCSAG1200: Address:  311664  Function: 1  Alpha:   K 
+POCSAG1200: Address:  132176  Function: 2 
+POCSAG1200: Address:  700463  Function: 1  Alpha:   <EM>iig<DC2>
+POCSAG1200: Address:  790950  Function: 1 
+POCSAG1200: Address: 1520218  Function: 2 
+POCSAG1200: Address:   68137  Function: 1  Alpha:   JU
+POCSAG1200: Address:   78433  Function: 2 
+POCSAG1200: Address:  739080  Function: 2 
+POCSAG1200: Address:  708870  Function: 2 
+POCSAG1200: Address: 1507978  Function: 2 
+POCSAG1200: Address:  635714  Function: 2 
+POCSAG1200: Address:  264361  Function: 3 
+POCSAG1200: Address: 1576993  Function: 0 
+POCSAG1200: Address:   37655  Function: 3  Alpha:   O%(.1!.2
+POCSAG1200: Address:  708959  Function: 2 
+POCSAG1200: Address:  140038  Function: 3 
+POCSAG1200: Address: 1285925  Function: 3 
+POCSAG1200: Address:  635716  Function: 2 
+POCSAG1200: Address:  264363  Function: 3 
+POCSAG1200: Address: 1576995  Function: 0 
+POCSAG1200: Address:   37649  Function: 3  Alpha:   \bB\d
+POCSAG1200: Address:  708953  Function: 2 
+POCSAG1200: Address:  140032  Function: 3 
+POCSAG1200: Address: 1312566  Function: 2  Alpha:   18:11-16 NOTIFY - DATE: 24.11.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 6 MAX 5 MIN  THANK YOU CONTROL  <NUL><NUL>
+POCSAG1200: Address:  789453  Function: 0  Alpha:   3k0<DLE><DC3><ETX>(<VT>@<CR>(
+POCSAG1200: Address:  708644  Function: 0 
+POCSAG1200: Address:   68138  Function: 1  Alpha:   RA
+POCSAG1200: Address:   78434  Function: 2 
+POCSAG1200: Address:  739081  Function: 2 
+POCSAG1200: Address: 1315997  Function: 1  Alpha:   YY
+POCSAG1200: Address: 1507979  Function: 2 
+POCSAG1200: Address:  635715  Function: 2 
+POCSAG1200: Address:  264362  Function: 3 
+POCSAG1200: Address: 1576994  Function: 0 
+POCSAG1200: Address:   37648  Function: 3  Alpha:   \bB\d
+POCSAG1200: Address:  708952  Function: 2 
+POCSAG1200: Address:  140039  Function: 3  Alpha:   O%
+POCSAG1200: Address: 2026481  Function: 0 
+POCSAG1200: Address: 1312580  Function: 2  Alpha:   18:11-53 NOTIFY - DATE: 24.11.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 6 MAX 5 MIN  THANK YOU CONTROL  <NUL><NUL>
+POCSAG2400: Address: 2074228  Function: 2 
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   18:11-23 Please call Carlos Barquero on 07738 058736.<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   18:10-28 4312<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:10-85 4167<NUL>
+POCSAG1200: Address:  413198  Function: 2  Alpha:   18:10-09 (2/2) Roles    JY22P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)
+POCSAG1200: Address:  413198  Function: 2  Alpha:   18:10-08 (1/2)030411-24112021; A7.0.0.P ALARM - TEST; (FSTN) JY22 THEALE,HIGH STREET,THEALE; 463211,170595; TEST TURNOUT CONTACT CONTROL; TEST; Assigned: JY22P1;<NUL>
+POCSAG1200: Address:  930510  Function: 2  Alpha:   18:09-34 24/11/2021 18:08:22 INC 24715536 11D02U 12 HAWTHORNE ROAD, DEANE BOLTON, BL3 5RE Male 38Y CHOKING GRD 369804 408119<NUL>
 POCSAG1200: Address: 1618816  Function: 1 
 POCSAG1200: Address:   11760  Function: 0  Alpha:   18:09-27 18:09-26 ~LEVEL 2 SRT. 4 CATTLE IN SLURRY TANK, S16 DROMORE AREA, <NUL><NUL>
 POCSAG1200: Address:  114413  Function: 2  Alpha:   18:09-63 ~LEVEL 2 SRT. 4 CATTLE IN SLURRY TANK, S16 DROMORE AREA, <NUL><NUL>
@@ -938,63 +998,3 @@ POCSAG1200: Address: 1859809  Function: 3
 POCSAG1200: Address:   88577  Function: 0 
 POCSAG1200: Address: 1679550  Function: 1  Alpha:   <ACK>J6<STX>%*<STX><ENQ>rY<EOT><GS><HT>ANUT
 POCSAG1200: Address:  878757  Function: 3 
-POCSAG1200: Address: 1923692  Function: 0 
-POCSAG1200: Address: 1415267  Function: 2  Alpha:   .<ACK>
-POCSAG1200: Address:   91601  Function: 0  Alpha:   9 <NAK>HA
-POCSAG1200: Address:  629567  Function: 0  Alpha:   O%
-POCSAG1200: Address:  634790  Function: 1  Alpha:   ETl W
-POCSAG2400: Address: 1813350  Function: 1 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:36->6 4105<NUL>
-POCSAG2400: Address:  584089  Function: 2  Alpha:   16:36-88 80300
-POCSAG1200: Address:  363869  Function: 2  Alpha:   16:36-36 24/11/2021 16:35:07 INC 24715150 09E01 10 CHETWOOD DRIVE, WIDNES WA8, WA8 9BL Unknown UnknownY EXPECTED DEATH GRD 350666 387921<NUL>
-POCSAG1200: Address: 1067866  Function: 2  Alpha:   16:36-39 24/11/2021 16:35:07 INC 24715150 09E01 10 CHETWOOD DRIVE, WIDNES WA8, WA8 9BL Unknown UnknownY EXPECTED DEATH GRD 350666 387921<NUL>
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   F`
-POCSAG2400: Address: 1324561  Function: 2  Alpha:   16:36-77 INC ALERT No: 16819832 - CUT ON TOE, GOT DEEPER, AT: THE FIRS, CREWKERNE ROAD, CHARD, TA20 4BU, Time of Call: 24/11/2021 16:31:03, Co-ords: 50.8733142 -2.910843<NUL><NUL>
-POCSAG2400: Address: 1323884  Function: 2  Alpha:   16:35-00 4153<NUL>
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   16:35-98 4157<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   16:34-89 24/11/2021 16:32:59 INC 24715139 19D02 FLAT 2, 48 QUEEN VICTORIA ROAD, CENTRAL BLACKPOOL, FY1 5JX Male 56Y HEART RACING, DR SAID USE AMB GRD 331497 434885<NUL><NUL>
-POCSAG2400: Address: 1913852  Function: 2  Alpha:   16:34-62 4972<NUL>
-POCSAG1200: Address:  269354  Function: 3  Alpha:   FF
-POCSAG1200: Address:  649969  Function: 2  Alpha:   16:34-44 62482
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:34-58 62482
-POCSAG1200: Address:  679608  Function: 2  Alpha:   16:34-28 62482
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1633241121+++TIME=1633241121<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   16:33-41 24/11/2021 16:31:35 INC 24715135 17D04 68 MILFORD DRIVM<9LEVENSHULME MANCHESTER, M19 2RZ Male 57Y FALLEN GRD 388160 393267
-POCSAG1200: Address:  695397  Function: 2  Alpha:   16:33-62 24/11/2021 16:31:29 INC 24715134 17D02 183 MANCHESTER ROAD, ACCRINGTON, BB5 2PF Female 46Y IN AND OUT, NOISY BREATHING, FALLEN GRD 376758 427431<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   16:32-59 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address: 1067526  Function: 2  Alpha:   16:32-20 Please call Dr Patton from Royal surrey on 07725313548<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  325898  Function: 3  Alpha:   &<LF>
-POCSAG2400: Address: 1942388  Function: 0 
-POCSAG2400: Address: 1594968  Function: 2  Alpha:   16:29-13 INC ALERT No: 16819810 Tr
-POCSAG2400: Address: 1705249  Function: 0 
-POCSAG2400: Address:  866249  Function: 2 
-POCSAG2400: Address: 1059616  Function: 3  Alpha:   <STX>*
-POCSAG2400: Address: 1843375  Function: 0  Alpha:   g<DC2>
-POCSAG2400: Address:   37527  Function: 2 
-POCSAG2400: Address: 1275486  Function: 1  Alpha:   9P
-POCSAG2400: Address:  772074  Function: 0 
-POCSAG2400: Address:  445849  Function: 2 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   16:29-88 24/11/2021 16:27:50 INC 2
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  421055  Function: 3 
-POCSAG1200: Address:  668155  Function: 1  Alpha:   <CAN><ESC>
-POCSAG1200: Address: 1684335  Function: 1 
-POCSAG1200: Address: 1380876  Function: 0  Alpha:   #)<STX>PY<VT><CAN><CAN><CAN><ESC>P
-POCSAG1200: Address: 1032689  Function: 3  Alpha:   v(
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:28-59 2017<NUL>
-POCSAG1200: Address:  329441  Function: 0  Alpha:   ba
-POCSAG1200: Address:  612433  Function: 3 
-POCSAG1200: Address:  768104  Function: 3  Alpha:   n<ETX>
-POCSAG1200: Address:  549755  Function: 2  Alpha:   16:28-12 ATTEND:<LF>CO ALARM<LF>9 SHANEMULLAGH COURT,CASTLEDAWSON,MAGHERAFELT,.<LF>0P 2T<LF>33378211<LF>H 92730 93176<LF>W3302 W3571 NO11<LF>END<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1628241121+++TIME=1628241121<NUL>
-POCSAG2400: Address: 1153826  Function: 3  Alpha:   pdxbb
-POCSAG2400: Address:  353502  Function: 1 
-POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   16:27-17 24/11/2021 16:19:17 INC 24715085 06E01O BRIDEWELL COURT - APARTMENT 22, PEEL HOUSE LANE, WIDNES, WA8 9UN Female 81Y DIB GRD 351877 387365<NUL><NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   16:27-86 24/11/2021 16:25:26 INC 24715110 17B01P IN THE HAIRDRESSERS, 15 RAINFORTH STREET, FALLOWFIELD MANCHESTER, M13 0RP Female 75Y LADY TRIPPED AND BANGED HEAD ON WALL- LUMP ON HEAD GRD 386813 395468
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   16:27-12 4660<NUL>
-POCSAG2400: Address: 1913707  Function: 2  Alpha:   16:26-72 2017<NUL>
