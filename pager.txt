@@ -1,3 +1,17 @@
+POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
+POCSAG2400: Address: 1141186  Function: 1  Alpha:   C<DC3>#<VT><VT><DC3><VT><ETX>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0108241121+++TIME
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1691885  Function: 0  Alpha:   !<SOH>
+POCSAG2400: Address: 1070265  Function: 3  Alpha:   <DC4>d<FF>lT
+POCSAG2400: Address:  109400  Function: 0  Alpha:   pj
+POCSAG2400: Address:  214616  Function: 2 
+POCSAG2400: Address: 1523060  Function: 1 
+POCSAG2400: Address:  867892  Function: 0 
+POCSAG2400: Address: 1914099  Function: 1 
+POCSAG2400: Address:   94538  Function: 3  Alpha:   ouP H
+POCSAG2400: Address: 1691880  Function: 0  Alpha:   !<SOH>y=N
+POCSAG2400: Address:   11729  Function: 0  Alpha:   01:05-74 A&E TRIAGE ON 723 8046 <NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0103241121+++TIME=0103241121<NUL>
 POCSAG1200: Address:  214620  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1263195  Function: 2
 POCSAG1200: Address: 1155928  Function: 1  Alpha:   nf
 POCSAG1200: Address: 1263199  Function: 2  Alpha:   O%
 POCSAG1200: Address: 2044351  Function: 0 
-POCSAG1200: Address: 1733985  Function: 1  Alpha:   f<SYN>g+da<NAK>rp<LF>98E<FS>\"<SO>.<DC1><BEL>WHC+da<NAK>rp<LF>9
-POCSAG1200: Address:  149176  Function: 2  Alpha:   21:11-32 PMA Staff Required on GLAVEN <NUL>
-POCSAG1200: Address: 1487769  Function: 2  Alpha:   21:11-90 PMA Staff Required on GLAVEN <NUL>
-POCSAG1200: Address: 1487681  Function: 2  Alpha:   21:11-36 PMA Staff Required on GLAVEN <NUL>
-POCSAG1200: Address: 1487751  Function: 2  Alpha:   21:11-99 PMA Staff Required on GLAVEN <NUL>
-POCSAG1200: Address: 1242610  Function: 2  Alpha:   21:11-73 PMA Staff Required on GLAVEN <NUL>
-POCSAG1200: Address: 1001165  Function: 2  Alpha:   21:11-37 PMA Staff Required on GLAVEN <NUL>
-POCSAG1200: Address:  420486  Function: 3  Alpha:   fp
-POCSAG2400: Address: 1827826  Function: 2  Alpha:   <RS><SI>
-POCSAG2400: Address:   11678  Function: 0  Alpha:   21:09-30 Marcia is responding<NUL><NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   21:09-92 4316<NUL>
-POCSAG1200: Address: 1032926  Function: 3  Alpha:   Fl
-POCSAG2400: Address: 1511472  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2108231121+++TIME=2108231121<NUL>
