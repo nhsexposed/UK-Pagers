@@ -1,3 +1,48 @@
+POCSAG2400: Address: 1140938  Function: 3 
+POCSAG2400: Address: 1681241  Function: 1  Alpha:   `p
+POCSAG2400: Address: 1913821  Function: 2  Alpha:   17:39-51 4560<NUL>
+POCSAG2400: Address:  564459  Function: 2  Alpha:   EAST 4,177<NUL>
+POCSAG2400: Address: 1918400  Function: 2  Alpha:   E9
+POCSAG2400: Address:  374216  Function: 1 
+POCSAG2400: Address: 1913993  Function: 2  Alpha:   17:38-71 2097<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   17:38-86 REFER PATIENT TO PHSYC  LIASON  7238826
+POCSAG1200: Address:  743149  Function: 2 
+POCSAG1200: Address:  183613  Function: 1 
+POCSAG1200: Address:  825396  Function: 0 
+POCSAG1200: Address: 1783140  Function: 0 
+POCSAG1200: Address: 1072211  Function: 0  Alpha:   <DC2><STX>
+POCSAG1200: Address:  193233  Function: 3  Alpha:   ")Bgi
+POCSAG1200: Address:  825961  Function: 1 
+POCSAG1200: Address: 1947744  Function: 3  Alpha:   .<ACK>
+POCSAG1200: Address:   22104  Function: 2  Alpha:   17:37-00 24/11/2021 X<ESC>
+POCSAG1200: Address:  183613  Function: 1 
+POCSAG1200: Address:  825396  Function: 0 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   17:37-18 24/11/2021 17:33:33 INC 247153
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   17:37-96 5201<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   17:36-60 64987
+POCSAG1200: Address:  679608  Function: 2  Alpha:   17:36-30 64987
+POCSAG1200: Address: 1817185  Function: 2  Alpha:   17:36-31 24/11/2021 17:34:32 INC 24715398 29B05V JUNC NORTHWAY, 62 KENYONS LANE, MAGHULL L31, L31 0BR Unknown UnknownY RTC 2 VEHS, 2 CHILDREN INVOLVED GRD 338063 403454
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   17:36-59 64987
+POCSAG1200: Address:  649969  Function: 2  Alpha:   17:36-45 64987
+POCSAG1200: Address:  679608  Function: 2  Alpha:   17:36-29 64987
+POCSAG1200: Address:  269059  Function: 2  Alpha:   17:36-65 24/11/2021 17:34:27 INC 24715397 11D02U 164 PEEL ROAD, BOOTLE L20, L20 4LH Male 42Y CHOKING GRD 333645 396062<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:36-68 24/11/2021 17:34:27 INC 24715397 11D02U 164 PEEL ROAD, BOOTLE L20, L20 4LH Male 42Y CHOKING GRD 333645 396062<NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   17:36-41 24/11/2021 17:34:27 INC 24715397 11D02U 164 PEEL ROAD, BOOTLE L20, L20 4LH Male 42Y CHOKING GRD 333645 396062<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   17:36-23 24/11/2021 17:34:27 INC 24715397 11D02U 164 PEEL ROAD, BOOTLE L20, L20 4LH Male 42Y CHOKING GRD 333645 396062<NUL>
+POCSAG1200: Address: 1577052  Function: 0  Alpha:   XH
+POCSAG1200: Address: 1337028  Function: 2 
+POCSAG1200: Address: 1674031  Function: 2  Alpha:   O%(<DC2>7
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   17:36-22 24/11/2021 1<DC3>
+POCSAG1200: Address: 1511844  Function: 2  Alpha:   <SYN><ACK>
+POCSAG1200: Address: 1682264  Function: 1  Alpha:   dh
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   17:35-43 24/11/2021 17:31:41 INC 24715385 17D04G ASDA STORES LTD, WARREN STREET, PORTWOOD STOCKPORT, SK1 1UA Female 75Y FALL GRD 389694 390649
+POCSAG1200: Address: 1313140  Function: 2  Alpha:   17:35-46 (2/2) Talkgrp  FBER-OPS03 (40*) (DGNA); Additional_Data Address Classification Detached 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:34-84 5201<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   17:34-31 4201<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   17:34-94 24/11/2021 17:30:57 INC 24715382 06D02 119-121 BURNLEY ROAD, ACCRINGTON, BB5 6DH Female 18Y BODY NUMB GRD 376362 429044
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>*
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:34-28 4554<NUL>
 POCSAG1200: Address: 1321531  Function: 2  Alpha:   17:34-59 02392283363
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1733241121+++TIME=1733241121<NUL>
@@ -953,48 +998,3 @@ POCSAG2400: Address: 1684318  Function: 0  Alpha:   nr
 POCSAG2400: Address: 1032460  Function: 3  Alpha:   cp
 POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:33-73 5002<NUL>
 POCSAG2400: Address: 1001191  Function: 2  Alpha:   15:32-87 test test <NUL>
-POCSAG2400: Address: 1259410  Function: 2  Alpha:   15:33-42 2636<NUL>
-POCSAG1200: Address: 1611009  Function: 3 
-POCSAG1200: Address:  396887  Function: 1  Alpha:   O%(e,<FS><DC4>}
-POCSAG1200: Address:  886918  Function: 2  Alpha:   b@hr@
-POCSAG1200: Address: 1449021  Function: 1  Alpha:   <ESC><DLE>
-POCSAG1200: Address: 1671978  Function: 3  Alpha:   hb
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1141208  Function: 0 
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   15:7!<HT><ESC><EM>xY<EOT>
-POCSAG2400: Address:  583537  Function: 2  Alpha:   15:31-82 87095
-POCSAG1200: Address:  108014  Function: 0  Alpha:   15:31-03 TEST PAGE - NO RESPONSE NEEDED
-POCSAG2400: Address: 1022524  Function: 0  Alpha:   15:31-53 Steve North Gate pedes|vi`n is down, can you please go and investigate
-POCSAG2400: Address:   28905  Function: 0  Alpha:   15:31-85 4155<NUL>
-POCSAG1200: Address: 1289474  Function: 1  Alpha:   <FF><ETX>
-POCSAG1200: Address:  853345  Function: 2  Alpha:   <SYN>P
-POCSAG1200: Address:  342641  Function: 2 
-POCSAG1200: Address:  843056  Function: 1 
-POCSAG1200: Address:  535344  Function: 0 
-POCSAG1200: Address:  852550  Function: 0  Alpha:   L6<NUL>5E|3<HT>
-POCSAG1200: Address:  324582  Function: 3 
-POCSAG1200: Address:  255181  Function: 1 
-POCSAG1200: Address:  955580  Function: 2  Alpha:   $<EOT>
-POCSAG1200: Address:  576529  Function: 0  Alpha:   <LF><EM>
-POCSAG1200: Address: 1335489  Function: 1 
-POCSAG1200: Address: 1509924  Function: 2  Alpha:   15:31-76 141<NUL><NUL>
-POCSAG1200: Address:  152361  Function: 2 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   15:30-55 33960
-POCSAG1200: Address:  958551  Function: 0 
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1032697  Function: 3  Alpha:   A<EM>
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   15:29-74 North Group and North Gate Turnstiles are in fault, please use main gate turnstiles - SSM<NUL><NUL>
-POCSAG1200: Address:  159688  Function: 1 
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   15:29-26 24/11/2021 15:25:44 INC 24714863 12C01 19 WEST END AVENUE, COPPULL, PR7 5DB Male 78Y TALKING TO HIMSELF, NOT MAKING SENSE, NOT EATING GRD 355779 41408
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   15:29-32 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
-POCSAG1200: Address: 1312437  Function: 2  Alpha:   15:29-36 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   F<DLE>
-POCSAG1200: Address: 1312441  Function: 2  Alpha:   15:29-98 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
-POCSAG2400: Address:   28902  Function: 0  Alpha:   15:29-17 3240<NUL>
-POCSAG1200: Address: 1312440  Function: 2  Alpha:   15:29-20 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +<VT>3TIME=1528241121+++TIME=1528241121<NUL>
-POCSAG2400: Address:  892048  Function: 2 
-POCSAG1200: Address: 1509924  Function: 2  Alpha:   15:28-75 2141<NUL>
-POCSAG1200: Address:  216464  Function: 2  Alpha:   15:28-71 3470<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   15:27-25 4554<NUL>
-POCSAG1200: Address:  845184  Function: 0 
