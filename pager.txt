@@ -1,3 +1,29 @@
+POCSAG1200: Address:  380572  Function: 2 
+POCSAG1200: Address: 1271390  Function: 2 
+POCSAG2400: Address: 2005730  Function: 0 
+POCSAG2400: Address: 2047240  Function: 1 
+POCSAG2400: Address:  820780  Function: 3 
+POCSAG2400: Address: 1690387  Function: 2 
+POCSAG2400: Address:  223019  Function: 0 
+POCSAG2400: Address:  413274  Function: 3 
+POCSAG2400: Address: 1414016  Function: 2  Alpha:    &
+POCSAG2400: Address:  169551  Function: 1  Alpha:   O%
+POCSAG2400: Address: 1994838  Function: 0  Alpha:   <RS><BEL>
+POCSAG2400: Address: 1653113  Function: 2 
+POCSAG2400: Address:  678190  Function: 1 
+POCSAG2400: Address:  890315  Function: 3 
+POCSAG2400: Address: 1469793  Function: 2  Alpha:   <CAN><EM>
+POCSAG2400: Address:  891248  Function: 3 
+POCSAG2400: Address: 1730144  Function: 0 
+POCSAG2400: Address: 1519784  Function: 1 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   23:56-65 PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1, <CR><LF>PROBLEM: SQL
+POCSAG1200: Address:  135326  Function: 2  Alpha:   23:56-68 please call rfh ext 38513
+POCSAG2400: Address:  497588  Function: 3 
+POCSAG2400: Address: 1716043  Function: 3 
+POCSAG2400: Address: 1011754  Function: 0  Alpha:   U=
+POCSAG2400: Address: 2078578  Function: 3 
+POCSAG2400: Address: 1593466  Function: 1 
+POCSAG1200: Address: 1933134  Function: 2  Alpha:   23:54-78 2268386<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2353231121+++TIME=2353231121<NUL>
 POCSAG1200: Address: 1994838  Function: 1 
 POCSAG1200: Address: 1622182  Function: 2 
@@ -972,29 +998,3 @@ POCSAG1200: Address: 1115544  Function: 0
 POCSAG1200: Address:  378159  Function: 0  Alpha:   O%
 POCSAG1200: Address:  428311  Function: 1 
 POCSAG1200: Address: 1261829  Function: 3 
-POCSAG1200: Address:   91661  Function: 3 
-POCSAG1200: Address: 1115545  Function: 0 
-POCSAG1200: Address:  378152  Function: 0 
-POCSAG1200: Address:  428304  Function: 1 
-POCSAG1200: Address: 1184567  Function: 2  Alpha:   O%
-POCSAG1200: Address: 2051399  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2033231121+++TIME=2033231121<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:33-36 5002<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   20:33-66 4156<NUL>
-POCSAG2400: Address:  583528  Function: 2  Alpha:   20:33-96 80300
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   20:32-91 4316<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1983266  Function: 2  Alpha:   20:31-18 IT PLS CALL WARD 7E 21180
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   20:31-89 4188<NUL>
-POCSAG2400: Address:  583556  Function: 2  Alpha:   20:30-83 80300
-POCSAG1200: Address: 1925680  Function: 2  Alpha:   20:30-51 23/11/2021 20:26:56 INC 24711154 25B04 82 DONNINGTON, FREEHOLD ROCHDALE, OL11 4JR Female 13Y FEMALE SUICIDAL - GOING TO JUMP OUT OF FLATS GRD 389254 412532<NUL>
-POCSAG2400: Address: 2020448  Function: 1 
-POCSAG2400: Address:  583534  Function: 2  Alpha:   20:30-11 80300
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   20:29-02 23/11/2021 20:27:02 INC 24711155 02C01 27 GRADWELL STREET, EDGELEY STOCKPORT, SK3 0DL Female 25Y RIGHT SIDE OF BODY WEAK AND HEAVY, DIZZY, PALPS GRD 388986 389843
-POCSAG1200: Address:  216310  Function: 2  Alpha:   20:29-30 PLEASE CALL RAUL 07867 439 135 RE: AMBULANCE DELAYS
-POCSAG2400: Address: 1322526  Function: 2  Alpha:   20:29-44 80300
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2028231121+++TIME=2028231121<NUL>
-POCSAG1200: Address:  209879  Function: 2  Alpha:   20:28-50 PLS CALL KATIE MORLEY ON 07874 849 673 RE: AFTER RENAL RECIPIENT CO-ORDINATOR IN OXFO<SYN>D<SOH>
-POCSAG1200: Address:  433784  Function: 2  Alpha:   20:28-30 PLS CALL KATIE MORLEY ON 07874 849 673 RE: AFTER RENAL RECIPIENT CO-ORDINATOR IN OXFORD<NUL>
-POCSAG1200: Address: 1884466  Function: 1  Alpha:    R
-POCSAG1200: Address:  325970  Function: 3  Alpha:   U<LF>
