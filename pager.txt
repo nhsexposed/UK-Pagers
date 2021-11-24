@@ -1,3 +1,45 @@
+POCSAG1200: Address:  270394  Function: 2  Alpha:   13:39-47 Destination: D82 SSC Out\204, Booking Ref#: FFCONS04, Vehicle: KX64WSL. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>B<NUL><NUL>
+POCSAG1200: Address: 1932340  Function: 0 
+POCSAG1200: Address:  267875  Function: 0 
+POCSAG1200: Address: 1843829  Function: 0 
+POCSAG1200: Address:  216465  Function: 2  Alpha:   13:38-08 3991<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   13:39-86 PLEASE CALL 6810
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1338241121+++TIME=1338241121<NUL>
+POCSAG1200: Address:  216464  Function: 2  Alpha:   13:38-69 2380<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:37-48 30557
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:37-47 30557
+POCSAG2400: Address: 1207007  Function: 2 
+POCSAG2400: Address: 1686366  Function: 1  Alpha:   jr
+POCSAG2400: Address: 1913957  Function: 2  Alpha:   X<EM>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/R402 CH3B<NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   13:37-27 24/11/2021 13:35:28 INC 24714341 11D02U 9 CARR BARN BROW, CLAYTON BROOK NR LEYLAND, PR5 8LB Male 76Y MALE DEHYDRATED - PHLEGM ON CHEST GRD 358379 424473<NUL>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   13:37-88 24/11/2021 13:35:28 INC 24714341 11D02U 9 CARR BARN BROW, CLAYTON BROOK NR LEYLAND, PR5 8LB Male 76Y MALE DEHYDRATED - PHLEGM ON CHEST GRD 358379 424473<NUL>
+POCSAG1200: Address: 1258733  Function: 2  Alpha:   13:37-95 24/11/2021 13:35:28 INC 24714341 11D02U 9 CARR BARN BROW, CLAYTON BROOK NR LEYLAND, PR5 8LB Male 76Y MALE DEHYDRATED - PHLEGM ON CHEST GRD 358379 424473<NUL>
+POCSAG1200: Address:  346010  Function: 0  Alpha:   13:37-10 24/11/2021 13:35:28 INC 24714341 11D02U 9 CARR BARN BROW, CLAYTON BROOK NR LEYLAND, PR5 8LB Male 76Y MALE DEHYDRATED - PHLEGM ON CHEST GRD 358379 424473<NUL>
+POCSAG1200: Address:  190281  Function: 2 
+POCSAG1200: Address: 1315161  Function: 0 
+POCSAG1200: Address:  612904  Function: 1 
+POCSAG1200: Address: 1072480  Function: 0 
+POCSAG1200: Address: 1072279  Function: 1  Alpha:   O%
+POCSAG1200: Address:  267950  Function: 2 
+POCSAG1200: Address:  478485  Function: 1 
+POCSAG1200: Address: 1309493  Function: 1 
+POCSAG1200: Address: 1678172  Function: 1  Alpha:   hj
+POCSAG1200: Address:  549859  Function: 2  Alpha:   X<EM>
+POCSAG1200: Address:  549855  Function: 2  Alpha:   13:36
+POCSAG2400: Address: 1320379  Function: 2  Alpha:   13:36-41 4243<NUL>
+POCSAG1200: Address: 1494430  Function: 1 
+POCSAG1200: Address: 1652853  Function: 2 
+POCSAG1200: Address:  838004  Function: 1  Alpha:   G 
+POCSAG1200: Address: 1477200  Function: 0 
+POCSAG1200: Address: 1147215  Function: 1  Alpha:   d@V3<HT>JIL
+POCSAG1200: Address:  483598  Function: 2 
+POCSAG1200: Address: 1443102  Function: 3 
+POCSAG1200: Address:   13508  Function: 2 
+POCSAG2400: Address:   28903  Function: 0  Alpha:   13:36-04 4042<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   13:36-48 4167<NUL>
+POCSAG1200: Address:  618754  Function: 2  Alpha:   13:34-15 DCH re Gerald Smith
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   13:34-77 4910<NUL>
 POCSAG1200: Address: 1511870  Function: 2  Alpha:   F,
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1333241121+++TIME=1333241121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333241121+++TIME=1333241121<NUL>
@@ -956,45 +998,3 @@ POCSAG2400: Address: 1913678  Function: 2  Alpha:   11:21-03 2340<NUL>
 POCSAG1200: Address: 1258904  Function: 2  Alpha:   11:21-15 6089<NUL>
 POCSAG2400: Address:   28906  Function: 0  Alpha:   11:21-97 4554<NUL>
 POCSAG1200: Address: 1015322  Function: 2  Alpha:   Speech: Test: Only: Speech: Test: Only: Please: Dial: Zero: Too: Respond<NUL><NUL>
-POCSAG1200: Address:  977779  Function: 1 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   11:19-93 5205<NUL>
-POCSAG1200: Address:  989925  Function: 2  Alpha:   11:18-62 Jacquiline pass arrived <NUL>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   11:18-39 68177
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   11:18-48 68177
-POCSAG2400: Address: 1913767  Function: 2  Alpha:   11:18-18 5205<NUL>
-POCSAG1200: Address: 1761383  Function: 3  Alpha:   <DC2>Cd1L
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG1200: Address:  696528  Function: 2  Alpha:   11:17-95 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:16-56 24/11/2021 11:14:10 INC 24713732 24C03 169 LINACRE LANE, BOOTLE L20, L20 6AA Female 34Y pregnant / sick / dizzy / unwell GRD 334769 396427<NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   11:16-94 24/11/2021 11:14:10 INC 24713732 24C03 169 LINACRE LANE, BOOTLE L20, L20 6AA Female 34Y pregnant / sick / dizzy / unwell GRD 334769 396427<NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   11:16-17 24/11/2021 11:14:10 INC 24713732 24C03 169 LINACRE LANE, BOOTLE L20, L20 6AA Female 34Y pregnant / sick / dizzy / unwell GRD 334769 396427<NUL>
-POCSAG1200: Address:  363869  Function: 2  Alpha:   11:16-25 24/11/2021 11:14:10 INC 24713732 24C03 169 LINACRE LANE, BOOTLE L20, L20 6AA Female 34Y pregnant / sick / dizzy / unwell GRD 334769 396427<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   11:16-03 5205<NUL>
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   11:16-73 5205<NUL>
-POCSAG1200: Address:   11760  Function: 0  Alpha:   11:15-23 11:15-22 ATTEND:<LF>BUILDING<LF>FLEMING POULTRY,**2 PUMP RELIEF** AERIAL 1,BALLYMENA ROAD,.,BALLYMONEY,.<LF>3P 4T<LF>33165211<LF>C 96058 25546<LF>N2302 RT190 W1205 W33><LF>END<NUL><NUL>
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   11:15-38 Please call Jenny Green on 01756 749344. thanks<NUL>
-POCSAG2400: Address: 1913660  Function: 2  Alpha:   11:15-58 4954<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:15-55 4283<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   11:14-10 Please call Rachel SNOD Southampton  07471 148 033<NUL>
-POCSAG2400: Address: 1913675  Function: 2  Alpha:   11:14-79 2233<NUL>
-POCSAG1200: Address:  989925  Function: 2  Alpha:   11:14-60 micahel tillitson arrived
-POCSAG1200: Address: 1683590  Function: 3  Alpha:   n<DC2>
-POCSAG1200: Address: 1245774  Function: 3 
-POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>6v&
-POCSAG1200: Address: 1349436  Function: 1 
-POCSAG1200: Address: 1147691  Function: 2  Alpha:   hh
-POCSAG1200: Address: 1204952  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><VT>S
-POCSAG1200: Address: 1149791  Function: 0  Alpha:   O%(35
-POCSAG1200: Address: 2044462  Function: 1  Alpha:   X<CAN>
-POCSAG1200: Address:  362444  Function: 1 
-POCSAG1200: Address:  676411  Function: 3  Alpha:   <FS>-
-POCSAG1200: Address:  704978  Function: 1  Alpha:   EN<NUL>OV
-POCSAG1200: Address:  956937  Function: 1 
-POCSAG1200: Address:  109313  Function: 1 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:14-60 5205<NUL>
-POCSAG1200: Address: 2011740  Function: 3 
-POCSAG1200: Address:   40147  Function: 1 
-POCSAG1200: Address: 1235251  Function: 3 
-POCSAG1200: Address: 1427609  Function: 0 
