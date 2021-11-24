@@ -1,3 +1,29 @@
+POCSAG2400: Address:   28870  Function: 0  Alpha:   06:03-03 QEQM, PALOMA ON EXT 725 3945 <NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603241121+++TIME=0603241121<NUL>
+POCSAG2400: Address: 2028152  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0603241121+++TIME=0603241121<NUL>
+POCSAG1200: Address:  712090  Function: 1  Alpha:   <SOH>MeM]UA<SOH>
+POCSAG1200: Address:  585108  Function: 2  Alpha:   06:03-30 01908658100
+POCSAG2400: Address: 1508080  Function: 1 
+POCSAG2400: Address:  105746  Function: 2  Alpha:   b\r<SUB><DC4><BS>_giA<SO>e_k
+POCSAG2400: Address:  685415  Function: 0 
+POCSAG2400: Address: 1274598  Function: 1 
+POCSAG2400: Address: 1446982  Function: 0 
+POCSAG2400: Address:  954457  Function: 2  Alpha:   v<ACK>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  672784  Function: 0  Alpha:   <FF>N\-I
+POCSAG1200: Address: 1577056  Function: 2 
+POCSAG1200: Address: 1414352  Function: 0 
+POCSAG1200: Address:  164361  Function: 0 
+POCSAG1200: Address: 1246345  Function: 3 
+POCSAG1200: Address:  469024  Function: 1 
+POCSAG1200: Address: 1246526  Function: 2  Alpha:   Y,
+POCSAG1200: Address: 1280132  Function: 2  Alpha:   b@hl@
+POCSAG1200: Address:  721419  Function: 3 
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN><ACK>v&
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1418024  Function: 2  Alpha:   jh
+POCSAG1200: Address: 1419101  Function: 0  Alpha:   nn
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0558241121+++TIME=0558241121<NUL>
 POCSAG1200: Address:   33723  Function: 2  Alpha:   05:57-65 05:57-64 PLEASE CALL ANNE LOVEYS ON 07549 270 285 ASAP <NUL>
 POCSAG1200: Address:   33724  Function: 2  Alpha:   05:57-44 PLEASE CALL ANNE LOVEYS ON 07549 270 285 ASAP <NUL><NUL>
@@ -972,29 +998,3 @@ POCSAG2400: Address: 1866917  Function: 1
 POCSAG2400: Address:  176932  Function: 2  Alpha:   e"
 POCSAG2400: Address:  156875  Function: 0 
 POCSAG2400: Address:  267803  Function: 0 
-POCSAG2400: Address:  793778  Function: 3 
-POCSAG2400: Address:  230145  Function: 3  Alpha:    <EM>
-POCSAG2400: Address:   33704  Function: 2  Alpha:   00:08
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   00:08-45 3507<NUL>
-POCSAG2400: Address: 1324316  Function: 2  Alpha:   00:06-83 Payment method set up confirmation, <!DOCTYPE html><CR><LF><html><CR><LF><head><CR><LF><style type="text/css"><CR><LF>html { width: 100%; }<CR><LF>body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; margin: 0; padding: 0; }<CR><LF>table { border-spaci
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:04-03 24/11/2021 00:02:30 INC 24711927 06E01 51 LUMLEY ROAD, MACCLESFIELD SK11, SK11 8SA Female 66Y CHEST PAIN GRD 389811 373160
-POCSAG1200: Address: 2047572  Function: 0  Alpha:   2<SOH>
-POCSAG1200: Address:  198236  Function: 3 
-POCSAG1200: Address: 1141929  Function: 0 
-POCSAG1200: Address: 1626496  Function: 0 
-POCSAG1200: Address:   37024  Function: 1 
-POCSAG1200: Address: 1249546  Function: 0 
-POCSAG1200: Address:  295510  Function: 0 
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1092184  Function: 3 
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   00:00-47 23/11/2021 23:50:52 INC 24711882 31E01 POP WORLD, 13 CHURCH STREET, PRESTON, PR1 3BQ Female 52Y COLLASPED DRUNK GRD 354132 429402<NUL><NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   00:00-83 23/11/2021 23:50:52 INC 24711882 31E01 POP WORLD, 13 CHURCH STREET, PRESTON, PR1 3BQ Female 52Y COLLASPED DRUNK GRD 354132 429402<NUL><NUL>
-POCSAG1200: Address:  380572  Function: 2 
-POCSAG1200: Address: 1271390  Function: 2 
-POCSAG2400: Address: 2005730  Function: 0 
-POCSAG2400: Address: 2047240  Function: 1 
-POCSAG2400: Address:  820780  Function: 3 
-POCSAG2400: Address: 1690387  Function: 2 
-POCSAG2400: Address:  223019  Function: 0 
-POCSAG2400: Address:  413274  Function: 3 
