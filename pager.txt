@@ -1,3 +1,52 @@
+POCSAG1200: Address:   24482  Function: 1  Alpha:   EQ
+POCSAG1200: Address: 1389674  Function: 0  Alpha:   2<SOH>1>NR><SO>.<STX>!<ACK>222<SOH>AJV<SOH>U<HT>"<STX>5<ACK>3<ETB><ETX>YIe<STX><EM><ACK>&:R<SYN><DC2><STX><GS>J<DC2><STX>MUQeMA<SOH>QIUYae<SOH><NUL>
+POCSAG1200: Address: 1155880  Function: 2  Alpha:   `f
+POCSAG1200: Address: 1413014  Function: 3 
+POCSAG1200: Address:  886917  Function: 2  Alpha:   b@ <EM><ETX>
+POCSAG1200: Address:  290120  Function: 3  Alpha:   <CAN>(
+POCSAG512: Address:  270864  Function: 0 
+POCSAG2400: Address: 1913884  Function: 2  Alpha:   09:13-51 4264<NUL>
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   09:12-62 INC ALERT No: 16818216 Traffic/Transportation Accidents - PT COME OFF HIS BIKE 
+POCSAG1200: Address: 1056834  Function: 1 
+POCSAG1200: Address: 1065090  Function: 2 
+POCSAG1200: Address:  755368  Function: 2 
+POCSAG1200: Address:  601375  Function: 1  Alpha:   g<DC2>
+POCSAG1200: Address:  534087  Function: 3 
+POCSAG1200: Address: 1649006  Function: 3 
+POCSAG1200: Address:   84469  Function: 1  Alpha:   W 
+POCSAG1200: Address: 1115341  Function: 2 
+POCSAG1200: Address: 1254700  Function: 2 
+POCSAG1200: Address: 1461433  Function: 0  Alpha:   <SUB><EM>
+POCSAG1200: Address:  798064  Function: 0 
+POCSAG1200: Address: 1716256  Function: 1 
+POCSAG1200: Address: 1204431  Function: 0  Alpha:   O%
+POCSAG1200: Address:  625534  Function: 1  Alpha:   bb
+POCSAG1200: Address:   66054  Function: 3 
+POCSAG1200: Address:  132109  Function: 1 
+POCSAG1200: Address:  270259  Function: 2  Alpha:   09:12-50 PLEASE CALL HUB OPERATIONS RE DONOR 153080 20/05/1950 RUH BA@@ 01179757580<NUL><NUL>
+POCSAG1200: Address:  428347  Function: 2  Alpha:   09:12-59 24/11/2021 09:11:15 INC 24713248 09E
+POCSAG1200: Address:  234186  Function: 2  Alpha:   09:12-64 PLEASE CALL HUB OPERATIONS RE DONOR 153080 20/05/1950 RUH BATH 01179757580<NUL><NUL>
+POCSAG1200: Address:  610597  Function: 0 
+POCSAG1200: Address: 1067109  Function: 0 
+POCSAG1200: Address:   92172  Function: 1 
+POCSAG1200: Address:  602218  Function: 2  Alpha:   <ENQ>Vv5<DLE>G<ACK><ACK>
+POCSAG1200: Address:  537708  Function: 0 
+POCSAG1200: Address:  610595  Function: 0 
+POCSAG1200: Address:  433020  Function: 2  Alpha:   09:12-58 PLEASE CALL
+POCSAG1200: Address: 1090518  Function: 2  Alpha:   09:12-53 PLEASE CALL HUB OPERATIONS RE DONOR 153080 20/05/1950 RUH BATH 01179757580<NUL><NUL>
+POCSAG1200: Address: 1318707  Function: 2  Alpha:   09:12-58 PLEASE CALL HUB OPERATIONS RE DONOR 153080 20/05/1950 RUH BATH 01179757580<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  314589  Function: 2  Alpha:   09:11-54 3510<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:11-15 5897<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   09:11-78 PLEASE CALL ALI JALIL EXT: 7238123 - WILLIAM HARVEY. 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>@
+POCSAG1200: Address:  581377  Function: 3 
+POCSAG1200: Address:  528183  Function: 0 
+POCSAG1200: Address:  420614  Function: 0  Alpha:   p&
+POCSAG1200: Address: 1713483  Function: 3 
+POCSAG1200: Address: 1213130  Function: 0  Alpha:   TR
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   09:10
+POCSAG1200: Address:  600597  Function: 0  Alpha:   09:09-81 PLEASE CALL 07309 115 946 <NUL><NUL>
 POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:07-69 3255<NUL>
 POCSAG1200: Address: 1312587  Function: 2  Alpha:   09:07-53 (2/2) DANN - CDA - SC COPPARD.
 POCSAG1200: Address: 1312649  Function: 2  Alpha:   09:07-91 (2/2) DANN - CDA - SC COPPARD.
@@ -949,52 +998,3 @@ POCSAG1200: Address: 1001125  Function: 2  Alpha:   04:08-28 ADULT CARDIAC ARRES
 POCSAG1200: Address: 1001130  Function: 2  Alpha:   04:08-29 ADULT CARDIAC ARREST AAU 2 WHIPS CROSS 03:38 
 POCSAG1200: Address: 1001129  Function: 2  Alpha:   04:08-28 ADULT CARDIAC ARREST AAU 2 WHIPS CROSS 03:38 
 POCSAG1200: Address: 1312437  Function: 2  Alpha:   04:08-32 ADULT CARDIAC ARREST AAU 2 WHIPS CROSS 03:38 
-POCSAG1200: Address:  848500  Function: 0 
-POCSAG1200: Address:  627222  Function: 3  Alpha:   )P<SOH>ig
-POCSAG1200: Address:  789421  Function: 1 
-POCSAG1200: Address: 1069731  Function: 2 
-POCSAG1200: Address:  353497  Function: 1 
-POCSAG1200: Address:  627221  Function: 3  Alpha:   )P<SOH>ig
-POCSAG1200: Address: 1906710  Function: 3  Alpha:   ,<SO>M--
-POCSAG1200: Address: 1685357  Function: 0 
-POCSAG1200: Address:  717858  Function: 0  Alpha:   <SUB>y
-POCSAG1200: Address:  941217  Function: 0 
-POCSAG1200: Address: 1650281  Function: 0 
-POCSAG1200: Address:  421567  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403241121+++TIME=0403241121<NUL>
-POCSAG1200: Address: 1978370  Function: 1 
-POCSAG1200: Address: 1639192  Function: 1 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1740661  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358241121+++TIME=0358241121<NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   03:56-71 PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1, <CR><LF>PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1<CR><LF>Service: SQL Services<CR><LF>Host: CISCMSLSQL04MC1<CR><LF>Alias: <CR><LF>Address: 10.0.41.9<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Date<NUL><NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   03:54-88 24/11/2021 03:52:28 INC 24712516 24D05 55 DEARDEN WAY, UPHOLLAND SKELMERSDALE, WN8 0HS Female 32Y LABOUR GRD 351283 405264
-POCSAG1200: Address:  334075  Function: 2  Alpha:   03:54-18 24/11/2021 03:52:28 INC 24712516 24D05 55 DEARDEN WAY, UPHOLLAND SKELMERSDALE, WN8 0HS Female 32Y LABOUR GRD 351283 405264
-POCSAG1200: Address: 2040443  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353241121+++TIME=0353241121<NUL>
-POCSAG2400: Address:  858416  Function: 2 
-POCSAG2400: Address: 1718150  Function: 0  Alpha:   MQaIQe3<HT>
-POCSAG2400: Address:  353502  Function: 1 
-POCSAG1200: Address:  288283  Function: 1 
-POCSAG1200: Address: 2028643  Function: 0 
-POCSAG1200: Address:  756489  Function: 3  Alpha:   @<LF>ee_
-POCSAG1200: Address:   67273  Function: 3 
-POCSAG1200: Address:  336389  Function: 2  Alpha:   03:48-62 Alarm#31=~[
-POCSAG1200: Address:  301288  Function: 2 
-POCSAG2400: Address: 1975021  Function: 2 
-POCSAG1200: Address:  305189  Function: 0 
-POCSAG1200: Address:  938068  Function: 0 
-POCSAG1200: Address: 1395527  Function: 3 
-POCSAG1200: Address:  214478  Function: 0 
-POCSAG1200: Address: 1265163  Function: 0 
-POCSAG1200: Address: 1560475  Function: 3 
-POCSAG1200: Address:   78208  Function: 3  Alpha:   st<NUL>tr
-POCSAG1200: Address:  603148  Function: 1  Alpha:   '3S29@v0
-POCSAG1200: Address:  197804  Function: 1 
-POCSAG1200: Address:   40954  Function: 0  Alpha:   GCIS_Mu@
-POCSAG1200: Address: 1316532  Function: 0 
-POCSAG1200: Address: 1356867  Function: 1 
-POCSAG1200: Address: 1371398  Function: 0  Alpha:   D YES ETA 03:15. PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS AcG AVAILABLE IF REQUIRED.
-POCSAG1200: Address:  640455  Function: 2  Alpha:   03:42-44 FAST TRACK OFFER OF UNSPEC KIDNEY: Donor: 153080, Hospital: BATH ROYAL UNITED, HJ3330, DOB: 20/05/1950, DBD, Organ location: BATH, Offer made with HLA, Fast track trigger point met: 5  CENTRE DECLINES - THIS OFFER EXPIRES AT 04:30 - NORS TEAM MOBILISED YES ETA 03:15. PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.
-POCSAG1200: Address:   42275  Function: 2  Alpha:   03:42-54 FAST TRACK OFFER OF UNSPEC KIDNEY: Donor: 153080, Hospital: BATH ROYAL UNITED, HJ3330, DOB: 20/05/1950, DBD, Organ location: BATH, Offer made with HLA, Fast track trigger point met: 5  CENTRE DECLINES - THIS OFFER EXPIRES AT 04:30 - NORS TEAM MOBILISED YES ETA 03:15. PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.
-POCSAG1200: Address: 1089955  Function: 2  Alpha:   03:42-19 FAST TRACK OFFER OF UNSPEC KIDNEY: Donor: 153080, Hospital: BATH ROYAL UNITED, HJ3330, DOB: 20/05/1950, DBD, Organ location: BATH, Offer made with HLA, Fast track trigger point met: 5  CENTRE DECLINES - THIS OFFER EXPIRES AT 04:30 - NORS TEAM MOBILISED YES ETA 03:15. PLEASE SEE EOS. A COPY OF THE COVID -19 REPORTS ARE AVAILABLE IF REQUIRED.
