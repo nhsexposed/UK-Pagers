@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   07:14-31 5440<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   07:13-76 PLS CALL ANGIE FROM SINGLE POINT OF ACCESS URGENTLY 07429 122 596 <NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713241121+++TIME=0713241121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0713241121+++TIME=0713241121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  105750  Function: 2  Alpha:   blTlr
+POCSAG2400: Address:  478486  Function: 1 
+POCSAG2400: Address: 1119414  Function: 1 
+POCSAG2400: Address: 1223557  Function: 1 
+POCSAG2400: Address:  619172  Function: 3  Alpha:   *i<FF><SYN>P
+POCSAG2400: Address: 1238035  Function: 2 
+POCSAG1200: Address: 2009843  Function: 0 
+POCSAG1200: Address: 1431222  Function: 2  Alpha:   }}n<GS><VT>4Z*<BS>4<CAN>HI<HT><EOT><SUB>H<LF><EOT><EM>8<LF>4<BS>Y8J<LF><EOT><SUB><CAN>i9<LF>t(J<BS>46fV<ACK>&<ACK>4<SYN>GVv6<ACK><NUL><NUL>
+POCSAG1200: Address: 1888518  Function: 3 
+POCSAG1200: Address: 1217805  Function: 3  Alpha:   3U
+POCSAG1200: Address:  625692  Function: 1 
+POCSAG1200: Address: 1339076  Function: 0 
+POCSAG1200: Address:  100143  Function: 3  Alpha:   O%(11
+POCSAG1200: Address:  630864  Function: 0 
+POCSAG1200: Address: 1521000  Function: 1 
+POCSAG1200: Address: 1673554  Function: 0 
 POCSAG1200: Address: 1990773  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708241121+++TIME=0708241121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0708241121+++TIME=0708241121<NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1321859  Function: 2  Alpha:   00:53-88 PIN 9019 PLS CALL D
 POCSAG1200: Address:  156879  Function: 1 
 POCSAG1200: Address: 1316382  Function: 0 
 POCSAG1200: Address: 1069886  Function: 1 
-POCSAG1200: Address:  198236  Function: 3 
-POCSAG1200: Address:   67452  Function: 1 
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   00:51-97 PLS CALL ANGELA MCCRACKEN ON 07940 149 551 RE MOTHER HAS PASSED AWAY
-POCSAG1200: Address:  334075  Function: 2  Alpha:   00:50-86 23/11/2021 23:27:29 INC 24711808 23D01I 10 ROBSON PLACE, PLATT BRIDGE WIGAN, WN2 5RG Female 24Y SHALLOW BREATHING Q OD GRD 360823 401714
-POCSAG1200: Address:  836039  Function: 1  Alpha:   E,`g<DC2><DC4>(f
-POCSAG1200: Address:  235470  Function: 0  Alpha:   <DC3><BS>
-POCSAG1200: Address:  602005  Function: 2 
-POCSAG1200: Address: 1335493  Function: 1 
-POCSAG1200: Address: 1673348  Function: 2  Alpha:   b<DC2>
-POCSAG1200: Address:  459339  Function: 3 
-POCSAG1200: Address:  400411  Function: 1 
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address:  637736  Function: 2  Alpha:   dr
-POCSAG1200: Address: 2093810  Function: 0 
-POCSAG1200: Address: 1487681  Function: 2  Alpha:   00:48-38 PMA Staff Required on GLAVEN WARD ASAP<NUL>
-POCSAG1200: Address: 1487751  Function: 2  Alpha:   00:48-01 PMA Staff Required on GLAVEN WARD ASAP<NUL>
-POCSAG1200: Address: 1765506  Function: 2  Alpha:   00:48-10 PMA Staff Required on GLAVEN WARD ASAP<NUL>
-POCSAG2400: Address: 1056962  Function: 3  Alpha:   C<DC3>#<VT><VT><DC3><VT><ETX>
-POCSAG1200: Address:  149169  Function: 2  Alpha:   00:48-03 PMA Staff Required on GLAVEN WARD ASAP<NUL>
-POCSAG1200: Address: 1765468  Function: 2  Alpha:   00:48-89 PMA Staff Required on GLAVEN WARD ASAP<NUL>
-POCSAG1200: Address: 1594899  Function: 2  Alpha:   00:48-25 PMA Staff Required on GLAVEN WARD ASAP<NUL>
