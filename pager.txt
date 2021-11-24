@@ -1,3 +1,39 @@
+POCSAG2400: Address:  583419  Function: 2  Alpha:   09:34-50 80300
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   09:34-50 69003
+POCSAG1200: Address:  679608  Function: 2  Alpha:   09:34-20 69003
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:34-01 2300<NUL>
+POCSAG1200: Address: 1315637  Function: 1 
+POCSAG1200: Address: 1193029  Function: 1 
+POCSAG1200: Address:  675930  Function: 2  Alpha:   <ETX><SUB>
+POCSAG1200: Address: 1588329  Function: 3 
+POCSAG1200: Address: 1466553  Function: 0 
+POCSAG1200: Address:   76576  Function: 0  Alpha:   ''
+POCSAG1200: Address:  395870  Function: 0  Alpha:   hj
+POCSAG1200: Address: 1325165  Function: 2  Alpha:   <STX>9
+POCSAG1200: Address:  758835  Function: 2 
+POCSAG1200: Address: 1496979  Function: 1 
+POCSAG1200: Address:  761514  Function: 0 
+POCSAG1200: Address: 1876369  Function: 0  Alpha:   E <FF>; 
+POCSAG2400: Address: 1483638  Function: 0 
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   09:33-97 2447<NUL>
+POCSAG2400: Address:  583432  Function: 2  Alpha:   09:34-58 80300
+POCSAG2400: Address: 1324552  Function: 2  Alpha:   09:33-42 log 8291 - Stabbing in Taunton. If anyone can assist please call Control<NUL>
+POCSAG2400: Address:   33740  Function: 2  Alpha:   09:33-17 log 8291 - Stabbing in Taunton. If anyone can assist please call Control<NUL>
+POCSAG2400: Address: 2027018  Function: 3 
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   09:33-57 3164<NUL>
+POCSAG1200: Address:  480815  Function: 2 
+POCSAG1200: Address:  672790  Function: 3  Alpha:   ,.
+POCSAG1200: Address:  268053  Function: 2 
+POCSAG1200: Address:  825149  Function: 3 
+POCSAG1200: Address:  269110  Function: 2  Alpha:   09:32-98 24/11/2021 09:29:53 INC 24713320 12D02 1 EDENHURST DRIVE, TIMPERLEY ALTRINCHAM, WA15 7AU Male 86Y FITTING GRD 378970 388360<NUL><NUL>
+POCSAG1200: Address:   78418  Function: 3 
+POCSAG1200: Address:  338329  Function: 0  Alpha:   <CAN><VT>
+POCSAG1200: Address:  695980  Function: 2  Alpha:   09:32-36 24/11/2021 09:29:53 INC 24713320 12D02 <DC1>P"
+POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>C<BS><L
+POCSAG1200: Address:  564800  Function: 1 
+POCSAG2400: Address: 1324564  Function: 2  Alpha:   09:30-01 INC ALERT No: 16818291 Major Trauma - M - WALKING DOWN THE STREET BEEN STABBED, AT: DUKE STREET CAR PARK, DUKE STREET, TAUNTON, TA1 1SP, Time of Call: 24/11/2021 09:27:02, Co-ords: 51.0160881 -3.0970663
+POCSAG2400: Address: 1324565  Function: 2  Alpha:   09:30-57 INC ALERT No: 16818291 Major Trauma - M - WALKING DOWN THE STREET BEEN STABBED, AT: DUKE STREET CAR PARK, DUKE STREET, TAUNTON, TA1 1SP, Time of Call: 24/11/2021 09:27:02, Co-ords: 51.0160881 -3.0970663
 POCSAG1200: Address: 1321535  Function: 2  Alpha:   09:29-30 24/11/2021 09:27:35 INC 24713309 29B05 O/S, 379 REVIDGE ROAD, BLACKBURN, BB1 8DF Female 32Y RTC GRD 367466 429314
 POCSAG1200: Address:  231487  Function: 1  Alpha:   (J<BS>4<ACK>W<SYN>w6<ACK>D<ACK>v&<SYN>w<ACK>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   09
@@ -962,39 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0458241121+++TIME=04
 POCSAG1200: Address: 1259126  Function: 2  Alpha:   04:57-52 24/11/2021 04:54:19 INC 24712631 06D04 56 GRIZEDALE ROAD, BLACKPOOL, FY4 4TL Male 19Y STOMACH STABBING PAIN GRD 334535 434397
 POCSAG1200: Address:  987049  Function: 2  Alpha:   04:56-80 23/11/2021 13:25:37 INC 24709321 26D01 23 AUSTIN WAY, CARR BRIDGE PARK BLACKPOOL, FY4 5JL Male 97Y ProQA Re-Established GRD 336039 432991<NUL><NUL>
 POCSAG2400: Address:  755608  Function: 2 
-POCSAG2400: Address: 1115352  Function: 3 
-POCSAG2400: Address:  406919  Function: 3  Alpha:   O%
-POCSAG2400: Address: 1615430  Function: 1  Alpha:   Q5
-POCSAG2400: Address:  941428  Function: 1 
-POCSAG2400: Address: 1997579  Function: 1  Alpha:   @|
-POCSAG2400: Address:  819914  Function: 0  Alpha:   erVic
-POCSAG2400: Address:  183057  Function: 2 
-POCSAG2400: Address:  416360  Function: 0 
-POCSAG2400: Address:  755405  Function: 3  Alpha:   <DC4>s4<DC4><DC3>
-POCSAG2400: Address:  724125  Function: 3 
-POCSAG2400: Address: 1995492  Function: 0 
-POCSAG2400: Address:  600866  Function: 2  Alpha:   a <ACK>P77<DLE>t
-POCSAG2400: Address:  361770  Function: 2 
-POCSAG2400: Address:  679537  Function: 1 
-POCSAG2400: Address: 1916129  Function: 1 
-POCSAG2400: Address: 1665440  Function: 2  Alpha:   mS
-POCSAG2400: Address: 1559062  Function: 0  Alpha:   YX<HT><BEL>4<SUB>J<HT>|Y<EOT>
-POCSAG2400: Address:  820780  Function: 3 
-POCSAG2400: Address: 1690387  Function: 2 
-POCSAG2400: Address: 1892982  Function: 0 
-POCSAG2400: Address: 1995491  Function: 0 
-POCSAG2400: Address:  679536  Function: 1 
-POCSAG2400: Address:  656639  Function: 0  Alpha:   giAg<DC2>
-POCSAG2400: Address: 1920694  Function: 1 
-POCSAG2400: Address:  845877  Function: 1  Alpha:   <VT>-
-POCSAG2400: Address:  478579  Function: 0 
-POCSAG2400: Address: 1948858  Function: 2 
-POCSAG2400: Address:  371937  Function: 0 
-POCSAG2400: Address: 1848059  Function: 2  Alpha:   <ACK><NUL>
-POCSAG1200: Address: 2011889  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453241121+++TIME=0453241121<NUL>
-POCSAG2400: Address:  858416  Function: 2 
-POCSAG2400: Address: 1651055  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1718150  Function: 0  Alpha:   QU
-POCSAG1200: Address:  284722  Function: 0 
-POCSAG1200: Address:  779784  Function: 0 
