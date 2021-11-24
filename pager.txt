@@ -1,3 +1,34 @@
+POCSAG2400: Address:  300760  Function: 2 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   15:23-46 4167<NUL>
+POCSAG2400: Address: 1913570  Function: 2  Alpha:   15:24-46 4269<NUL>
+POCSAG2400: Address:  959479  Function: 2 
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   15:23-85 7901<NUL>
+POCSAG2400: Address: 1913696  Function: 2  Alpha:   15:23-65 3294<NUL>
+POCSAG1200: Address: 1835014  Function: 3  Alpha:   +dA<NAK>r`Y<EOT>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   15:23-10 Cat 2 in Walton le Dale - 63 year old male with chest pain - if anyone is free to attend xx
+POCSAG1200: Address: 1204421  Function: 3  Alpha:   K<ETX>
+POCSAG1200: Address:  629516  Function: 1  Alpha:   b`
+POCSAG1200: Address: 1475331  Function: 2  Alpha:   <GS><DLE>
+POCSAG1200: Address: 1559442  Function: 1  Alpha:   u<HT>;<ACK><VT>
+POCSAG1200: Address:  824097  Function: 3 
+POCSAG1200: Address: 1268033  Function: 3 
+POCSAG1200: Address: 1115348  Function: 3  Alpha:   b<GS>
+POCSAG1200: Address:  169867  Function: 2 
+POCSAG1200: Address:  266651  Function: 1 
+POCSAG1200: Address: 1355842  Function: 0  Alpha:   B<SYN>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:22-37 4960<NUL>
+POCSAG1200: Address: 2012790  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:22-24 4387<NUL>
+POCSAG1200: Address:  106110  Function: 2  Alpha:   15:21-13 24/11/2021 15:20:15 INC 24714835 17A02G 41 KIBBLE GROVE, BRIERFIELD, BB9 5EW Female 90Y FEMALE FALLEN GRD 385588 435866
+POCSAG1200: Address: 1039333  Function: 3  Alpha:   6$
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   15:20-52 2150<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   15:20-67 5918<NUL>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:20-23 4387<NUL>
+POCSAG1200: Address:  381752  Function: 2 
+POCSAG1200: Address: 1484954  Function: 0 
 POCSAG1200: Address:   41512  Function: 2  Alpha:   15:19-54 Please Call Switchboard<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1518241121+++TIME=1518241121<NUL>
 POCSAG2400: Address: 1402054  Function: 0 
@@ -967,34 +998,3 @@ POCSAG1200: Address: 1395505  Function: 3
 POCSAG1200: Address: 1881167  Function: 3 
 POCSAG1200: Address: 1592574  Function: 1 
 POCSAG1200: Address:  633493  Function: 2  Alpha:   )*
-POCSAG1200: Address:  681613  Function: 0 
-POCSAG1200: Address:  281756  Function: 2 
-POCSAG1200: Address: 1288323  Function: 2  Alpha:   d@fj@
-POCSAG1200: Address: 1461658  Function: 1  Alpha:   <FS><DLE>
-POCSAG1200: Address:  266849  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 1155887  Function: 2  Alpha:   O%(59
-POCSAG1200: Address: 1204957  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
-POCSAG1200: Address: 1160028  Function: 1  Alpha:   db
-POCSAG1200: Address:  538123  Function: 1  Alpha:   X<EM>
-POCSAG1200: Address:  367539  Function: 0 
-POCSAG1200: Address:  338194  Function: 3 
-POCSAG1200: Address:  594010  Function: 2 
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   13:12-75 5255<NUL>
-POCSAG1200: Address: 1485588  Function: 3  Alpha:   F<EM>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   13:12-82 2188<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   13:10-22 4156<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:10-69 4910<NUL>
-POCSAG2400: Address: 1323879  Function: 2  Alpha:   13:09-89 4908<NUL>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   13:09-90 INC ALERT No: 16819108 Chest Pain (Non Traumatic) - PAINS IN CHEST LEFT ARM AND NECK, AT: 1 WHEATLEY COURT, MARKET STREET, EXETER, EX1 1DS, Time of Call: 24/11/2021 13:06:52, Co-ords: 50.7207586 -3.5321982
-POCSAG1200: Address:  678716  Function: 2  Alpha:   13:09-33 PLEASE CONTACT CONTROL
-POCSAG2400: Address: 2075222  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1308241121+++TIME=1308241121<NUL>
-POCSAG2400: Address: 1324562  Function: 2  Alpha:   13:08-16 INC ALERT No: 16819098 Unconscious/Fainting (Near) - PASSED OUT - SOMETHING WRONG WITH HIS TOOTH, AT: 9 WELLGARTH WALK, KNOWLE BRISTOL, BS4 2TA, Time of Call: 24/11/2021 13:05:41, Co-ords: 51.4324112 -2.5696531<NUL>
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   13:08-29 INC ALERT No: 16819095 Traumatic Injuries (Specific) - LADDER FALLEN ONTO HEAD, AT: O/S, ORCHARD HOUSE, ORCHARD LANE, BRISTOL CENTRAL BRISTOL, BS1 5DT, Time of Call: 24/11/2021 13:05:08, Co-ords: 51.4538351 -2.5992218<NUL><NUL>
-POCSAG2400: Address: 1351834  Function: 1 
-POCSAG2400: Address: 1462519  Function: 1  Alpha:   g<DC2>
-POCSAG2400: Address:  483036  Function: 3 
-POCSAG2400: Address:  567932  Function: 0 
-POCSAG2400: Address: 1153802  Function: 3  Alpha:   br`rj
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   13:08-65 2019<NUL>
