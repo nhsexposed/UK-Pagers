@@ -1,3 +1,25 @@
+POCSAG1200: Address: 2011703  Function: 0 
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   07:54-36 Please call AGH swi4Ih`oard on 01535 652511<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0753241121+++TIME=0753241121<NUL>
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG2400: Address: 1320164  Function: 2  Alpha:   07:53-34 86002
+POCSAG1200: Address: 2009851  Function: 2 
+POCSAG512: Address: 1966611  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 1234567890123452!890
+POCSAG2400: Address:  749389  Function: 2 
+POCSAG2400: Address:  279869  Function: 2 
+POCSAG2400: Address: 1554277  Function: 0 
+POCSAG1200: Address: 1737444  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1321715  Function: 2  Alpha:   07:52-95 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: YM16EFM. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address: 1442911  Function: 1  Alpha:   O%(<DC4><DC3>
+POCSAG1200: Address:  312943  Function: 1 
+POCSAG1200: Address:  548670  Function: 3  Alpha:   bD
+POCSAG1200: Address: 1587229  Function: 2 
+POCSAG1200: Address:  742027  Function: 0 
+POCSAG1200: Address:  677042  Function: 0  Alpha:   <ENQ>"
+POCSAG1200: Address: 1978736  Function: 0 
+POCSAG2400: Address: 1031658  Function: 2 
 POCSAG1200: Address:  216321  Function: 2  Alpha:   07:48-13 (3/3) Talkgrp  FBUK-OPS02 (56*) (DGNA)<NUL>
 POCSAG1200: Address: 1625004  Function: 3 
 POCSAG1200: Address:  721417  Function: 3 
@@ -976,25 +998,3 @@ POCSAG1200: Address:  336389  Function: 2  Alpha:   01:35-59 Alarm#31980 01:35 E
 POCSAG1200: Address:   22104  Function: 2  Alpha:   01:35-69 24/11/2021 01:21:30 INC 24712171 23B01I 39 PLANE COURT, SALFORD 6 SALFORD, M6 5ER Male 17Y MALE - OVERDOSE GRD 381201 398963<NUL>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   01:35-24 PLS CALL FISK & CHEERE DR ON 32224<NUL><NUL>
 POCSAG1200: Address:  585538  Function: 2  Alpha:   01:34-84 2110<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0133241121+++TIME=0133241121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   01:32-54 24/11/2021 01:29:39 INC 24712194 10D04 FLAT 4, 140 WALMERSLEY ROAD, WALMERSLEY SOUTH BURY BURY, BL9 6LL Female 38Y F - CHEST PAIN - VOMITTING BLOOD GRD 380931 411640
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   01:31-97 4554<NUL>
-POCSAG1200: Address:  695397  Function: 2  Alpha:   01:30-46 24/11/2021 01:29:50 INC 24712195 06E01 3 BARNMEADOW LANE, GREAT HARWOOD BLACKBURN, BB6 7AB Female 78Y CANT BREATHE GRD 373369 432122<NUL>
-POCSAG1200: Address:  209785  Function: 2 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:30-17 3508<NUL>
-POCSAG1200: Address:  234377  Function: 2  Alpha:   01:29-62 24/11/2021 01:27:36 INC 24712189 19C03 FLAT 3, 19 TRAFALGAR ROAD, BLACKPOOL, FY1 6AW Female 43Y HEART BEATING ODDLY GRD 330708 434846
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   01:29-43 24/11/2021 01:27:36 INC 24712189 19C03 FLAT 3, 19 TRAFALGAR ROAD, BLACKPOOL, FY1 6AW Female 43Y HEART BEATING ODDLY GRD 330708 434846
-POCSAG1200: Address: 2012754  Function: 2 
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   01:29-40 ADDENBROOKE VIROLOGY ON 01223 257 032 <NUL>
-POCSAG2400: Address: 1323237  Function: 2  Alpha:   01:29-71 ADDENBROOKE VIROLOGY ON 01223 257 032 <NUL>
-POCSAG2400: Address: 1324319  Function: 2  Alpha:   01:29-73 ADDENBROOKE VIROLOGY ON 01223 257 032 <NUL>
-POCSAG2400: Address: 1324318  Function: 2  Alpha:   01:29-48 ADDENBROOKE VIROLOGY ON 01223 257 032 <NUL>
-POCSAG2400: Address:   33713  Function: 2  Alpha:   01:29-26 ADDENBROOKE VIROLOGY ON 01223 257 032 <NUL>
-POCSAG2400: Address: 1323214  Function: 2  Alpha:   01:29-98 ADDENBROOKE VIROLOGY ON 01223 257 032 <NUL>
-POCSAG2400: Address: 1323188  Function: 2  Alpha:   01:29-28 ADDENBROOKE
-POCSAG2400: Address:  538210  Function: 2 
-POCSAG2400: Address: 1151777  Function: 2  Alpha:   f@Djn
-POCSAG2400: Address: 1868296  Function: 2 
-POCSAG2400: Address:  853472  Function: 2 
-POCSAG2400: Address:  534198  Function: 1  Alpha:   <DC4>}D|<|3<HT>
