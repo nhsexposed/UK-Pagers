@@ -1,3 +1,15 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0628241121+++TIME=0628241121<NUL>
+POCSAG1200: Address: 1248948  Function: 2 
+POCSAG1200: Address:  354553  Function: 2  Alpha:   I<SO>
+POCSAG2400: Address:   11699  Function: 0  Alpha:   06:25-41 FIRE CALL<NUL><NUL>
+POCSAG1200: Address: 1493025  Function: 0 
+POCSAG1200: Address: 1449784  Function: 2 
+POCSAG1200: Address:  895108  Function: 2  Alpha:   b@D`@
+POCSAG1200: Address: 1769995  Function: 3 
+POCSAG1200: Address:  354553  Function: 2  Alpha:   <DLE><DC1>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   <DLE><SO>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   06:24-04 PLEASE CALL EXT 725 3945 
+POCSAG1200: Address:  549357  Function: 2  Alpha:   06:24-43 TEST 
 POCSAG1200: Address:  354553  Function: 2  Alpha:   <DLE><FF>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   06:24-56 4374<NUL>
 POCSAG1200: Address:  961136  Function: 1 
@@ -986,15 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   00:23-86 4660<NUL>
 POCSAG1200: Address: 1890995  Function: 0 
 POCSAG1200: Address: 1823850  Function: 0 
 POCSAG1200: Address: 1425833  Function: 1  Alpha:   =A
-POCSAG1200: Address:  294049  Function: 0 
-POCSAG1200: Address:   72192  Function: 2 
-POCSAG1200: Address: 1837361  Function: 2 
-POCSAG1200: Address:  510480  Function: 3 
-POCSAG1200: Address:  825862  Function: 0 
-POCSAG1200: Address: 1181997  Function: 2  Alpha:   36
-POCSAG1200: Address:  598758  Function: 3  Alpha:   b,
-POCSAG1200: Address:  133966  Function: 3 
-POCSAG1200: Address: 1483183  Function: 2  Alpha:   00:21-28 24/11/2021 00:20:51 INC 24711999 09E01 (229), 229 SHELLEY ROAD, ASHTON ON RIBBLE PRESTON, PR2 2BX Male 74 BLEEDING FOR LAST COUPLE OF DAYS- NOT RESPONDING GRD 352322 430702<NUL>
-POCSAG1200: Address: 1817414  Function: 2  Alpha:   00:20-14 24/11/2021 00:20:19 INC 24711996 09E01 (229), 229 SHELLEY ROAD, ASHTON ON RIBBLE PRESTON, PR2 2BX Male 74 BLEEDING FOR LAST COUPLE OF DAYS- NOT RESPONDING GRD 352322 430702<NUL>
-POCSAG1200: Address:  697200  Function: 0 
-POCSAG1200: Address:  573751  Function: 1  Alpha:   TOng<DC2>
