@@ -1,3 +1,42 @@
+POCSAG2400: Address: 1323230  Function: 2  Alpha:   11:59-57 Good afternoon, please join the conference call. EM
+POCSAG1200: Address:  275615  Function: 2  Alpha:   11:58-39 ed alert a&e resus 19mins
+POCSAG2400: Address:  334387  Function: 0  Alpha:   ,<FF>
+POCSAG2400: Address: 1913746  Function: 2  Alpha:   11:58-69 4374<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:58-04 5202<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   11:58-82 PLEASE CALL 7238376
+POCSAG2400: Address: 1812507  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG1200: Address: 1843748  Function: 2 
+POCSAG2400: Address: 1913878  Function: 2  Alpha:   11:57-58 4264<NUL>
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   11:57-80 3508<NUL>
+POCSAG1200: Address:  696528  Function: 2  Alpha:   11:57-98 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   11:56-37 4765<NUL>
+POCSAG2400: Address:   11671  Function: 0  Alpha:   11:56-01 3520<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   11:56-99 4954<NUL>
+POCSAG1200: Address:  541347  Function: 1  Alpha:   <STX><SUB>],<ETX>B#<EOT><ENQ>2,n<SO>f.<ACK><DC2>CK<ENQ>"L4<EOT><DC2><DC4>-<FF>$ELt<<EOT>:<DC4>%<EOT><SUB>K<VT>#<ESC>3<ETX><SUB>K<DC3><VT><DC3>3
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:56-03 5202<NUL>
+POCSAG1200: Address:  847744  Function: 0 
+POCSAG2400: Address:  829303  Function: 1 
+POCSAG2400: Address: 2025314  Function: 0 
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   11:55-12 3148<NUL>
+POCSAG1200: Address:  989925  Function: 2  Alpha:   11:55-66 Helen Toogood here<NUL>
+POCSAG2400: Address: 1324562  Function: 2  Alpha:   11:55-09 INC ALERT No: 16818832 UNCONSCIOUS TRAUMA - FALLEN OFF COMODE, AT: Mobile Mobile Phone Coordinates, Closest Area Detected.., PLYMPTON PLYMOUTH, Time of Call: 24/11/2021 11:53:13, Co-ords: 50.38695144 -4.054525162<NUL>
+POCSAG2400: Address:   33740  Function: 2  Alpha:   11:55-19 INC ALERT No: 16818832 UNCONSCIOUS TRAUMA - FALLEN OFF COMODE, AT: Mobile Mobile Phone Coordinates, Closest Area Detected.., PLYMPTON PLYMOUTH, Time of Call: 24/11/2021 11:53:13, Co-ords: 50.38695144 -4.054525162<NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   11:55-03 2638<NUL>
+POCSAG2400: Address: 1320365  Function: 2  Alpha:   11:55-55 4140<NUL>
+POCSAG2400: Address:  216734  Function: 2  Alpha:   11:55-75 INC ALERT No: 16818832 UNCONSCIOUS TRAUMA - FALLEN OFF COMODE, AT: Mobile Mobile Phone Coordinates, Closest Area Detected.., PLYMPTON PLYMOUTH, Time of Call: 24/11/2021 11:53:13, Co-ords: 50.38695144 -4.054525162<NUL>
+POCSAG1200: Address: 1700039  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1143854  Function: 0  Alpha:   <CAN><FS>
+POCSAG1200: Address:  255790  Function: 3 
+POCSAG1200: Address: 1448229  Function: 2 
+POCSAG1200: Address: 1494618  Function: 3  Alpha:   8<CAN>=z[<VT><BS>T|<ESC><
+POCSAG1200: Address:  999033  Function: 0 
+POCSAG1200: Address: 1446769  Function: 0 
+POCSAG1200: Address:   82215  Function: 2  Alpha:   O%(2yby9
+POCSAG1200: Address:  208655  Function: 3 
+POCSAG1200: Address:  328901  Function: 2 
+POCSAG1200: Address:  284621  Function: 0 
+POCSAG1200: Address: 1411931  Function: 0  Alpha:   fb
+POCSAG1200: Address: 1485641  Function: 3  Alpha:   <DC1>"
 POCSAG1200: Address: 1032147  Function: 2  Alpha:   <DC2>a
 POCSAG2400: Address:   33713  Function: 2  Alpha:   11:53-33 PLEASE CALL INTENSIVE CARE WATFORD GENERAL ON 01923 217 610
 POCSAG2400: Address:  708982  Function: 1  Alpha:   SI
@@ -959,42 +998,3 @@ POCSAG1200: Address:  338195  Function: 0
 POCSAG1200: Address:  659547  Function: 2 
 POCSAG1200: Address: 1066082  Function: 3 
 POCSAG1200: Address: 1284791  Function: 2  Alpha:   O%(<LF><STX>!<SYN><RS>N<STX>M^>22<SYN>:
-POCSAG1200: Address: 1221191  Function: 0 
-POCSAG1200: Address: 1473750  Function: 2 
-POCSAG1200: Address: 1123424  Function: 1 
-POCSAG1200: Address:  621799  Function: 0  Alpha:   O%
-POCSAG1200: Address:  563719  Function: 3 
-POCSAG1200: Address:  593237  Function: 2 
-POCSAG1200: Address:  624772  Function: 2  Alpha:   b@hdb
-POCSAG1200: Address: 1076404  Function: 3 
-POCSAG1200: Address:  394329  Function: 0  Alpha:   <CAN>Y
-POCSAG1200: Address:  659551  Function: 2 
-POCSAG1200: Address: 1066086  Function: 3 
-POCSAG1200: Address: 1284787  Function: 2  Alpha:   <DC4><EOT>B,<<FS><ENQ><SUB>=}dd,t
-POCSAG1200: Address:  216668  Function: 3 
-POCSAG1200: Address: 1414737  Function: 0  Alpha:   bj
-POCSAG1200: Address:  269168  Function: 2  Alpha:   P<DEL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0958241121+++TIME=0958241121<NUL>
-POCSAG2400: Address: 1322512  Function: 2  Alpha:   09:58-84 80300
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0958241121+++TIME=0958241121<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   09:58-75 4554<NUL>
-POCSAG1200: Address: 1468632  Function: 3 
-POCSAG1200: Address:  270654  Function: 0 
-POCSAG2400: Address: 1166941  Function: 0 
-POCSAG2400: Address: 1048581  Function: 1 
-POCSAG2400: Address: 1424220  Function: 0  Alpha:   `j
-POCSAG2400: Address:  216667  Function: 3 
-POCSAG2400: Address:   57795  Function: 1 
-POCSAG1200: Address:  557769  Function: 3 
-POCSAG1200: Address:  189073  Function: 2 
-POCSAG1200: Address: 1477648  Function: 1  Alpha:   <LF>Y
-POCSAG1200: Address: 1584719  Function: 0  Alpha:   <STX><HT>jg<DC2>
-POCSAG1200: Address:  224908  Function: 3 
-POCSAG1200: Address:  876071  Function: 0  Alpha:   O%(R>:<STX>=B6N.&J.2<SOH>1Ne<SOH>U
-POCSAG1200: Address: 1261735  Function: 1 
-POCSAG1200: Address:  602725  Function: 3  Alpha:   "<DLE>h i
-POCSAG1200: Address:  189869  Function: 2 
-POCSAG1200: Address:  756316  Function: 1 
-POCSAG1200: Address: 1204420  Function: 0 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>@
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F0
