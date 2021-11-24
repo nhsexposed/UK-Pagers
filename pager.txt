@@ -1,3 +1,8 @@
+POCSAG1200: Address:  858670  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0238241121+++TIME=02382
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:37-55 5082<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1257025  Function: 2  Alpha:   02:35-42 DSCC DUTY CASE FOR PIN 10452, 03457 500 620 <NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0233241121+++TIME=0233241121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0233241121+++TIME=0233241121<NUL>
 POCSAG1200: Address: 1815035  Function: 2  Alpha:   02:33-45 X-CLAMP TIME - Donor: 153075, Hospital: ROYAL BOURNEMOUTH, HJ1139, DOB: 01/02/1969 - X-CLAMP: 02:30
@@ -993,8 +998,3 @@ POCSAG1200: Address:  747084  Function: 2
 POCSAG1200: Address:  433164  Function: 0 
 POCSAG1200: Address: 1939507  Function: 0 
 POCSAG1200: Address:  267875  Function: 0 
-POCSAG1200: Address: 1512610  Function: 2 
-POCSAG1200: Address: 1521986  Function: 1 
-POCSAG1200: Address:   90313  Function: 1 
-POCSAG1200: Address:  312336  Function: 3  Alpha:   <DLE>2q<DC4><NAK>
-POCSAG1200: Address: 1782999  Function: 0  Alpha:   O%
