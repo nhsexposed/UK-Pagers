@@ -1,3 +1,23 @@
+POCSAG2400: Address: 1323879  Function: 2  Alpha:   18:44-94 2111<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843241121+++TIME=1843241121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843241121+++TIME=1843241121<NUL>
+POCSAG1200: Address: 1022796  Function: 2  Alpha:   J<EM>
+POCSAG2400: Address:  149253  Function: 2  Alpha:   18:43-13 PLS CALLNICOLA DIWELL, 07709 116 221 - REQUESTING DR TO PRESCRIBE MORPHINE FOR MUM
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:43-87 4165<NUL>
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   18:43-19 Reminder; Steam controls & Demin Water controls are in force. Any plants wanting to change their usage requirements of either supply must contact the Infrastructure SCo on x74770 beforehand- SSM<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324154  Function: 2  Alpha:   18:42-51 2111<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:42-86 4157<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1815658  Function: 2  Alpha:   fV&<ACK>$<RS>G<BS>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   18:40-30 24/11/2021 18:39:01 INC 24715653 29D02M MURIEL STREET, WALTON L4, L4 5SB Male 19Y RTA, HIT BY VAN BLOOD COMING OUT OF NOSE GRD 336095 393960<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:40-17 24/11/2021 18:38:52 INC 24715651 29D02M JUNT OF MURIEL STREET, WALTON LANE, WALTON L4, L4 5RQ Male 19Y RTC PERSON HIT BY VAN GRD 336095 393934
+POCSAG1200: Address:  600414  Function: 3 
+POCSAG1200: Address: 1230084  Function: 2 
+POCSAG1200: Address: 1443163  Function: 0 
+POCSAG1200: Address:  575842  Function: 0  Alpha:   <ENQ>D
+POCSAG1200: Address: 1267978  Function: 3 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:40-28 24/11/2021 18:38:52 INC 24715651 29D02M JUNT OF MURIEL STREET, WALTON LANE, WALTON L4, L4 5RQ Male 19Y RTC PERSON HIT BY VAN GRD 336095 393934
 POCSAG1200: Address:  216321  Function: 2  Alpha:   18:39-17 (3/3) Talkgrp  FBER-OPS01 (38*) (DGNA)<NUL>
 POCSAG1200: Address:  216321  Function: 2  Alpha:   18:39-16 (1/3)030413-24112021; T12.0.0.P TRANSPORT - RTC SCENE SAFETY; (STREET RECORD),MAIDENHEAD ROAD,DEDWORTH,WINDSOR; 494904,177103;<NUL><NUL>
 POCSAG1200: Address:  600665  Function: 0  Alpha:   18:39-60  PLS CALL 0127 369 6955<NUL><NUL>
@@ -978,23 +998,3 @@ POCSAG2400: Address:   28896  Function: 0  Alpha:   17:04-01 2195<NUL>
 POCSAG1200: Address:  340147  Function: 0  Alpha:   17:04-39 4226<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1703241121+++TIME=1703241121<NUL>
 POCSAG2400: Address: 1323971  Function: 2  Alpha:   17:03-20 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323940  Function: 2  Alpha:   17:03-77 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324025  Function: 2  Alpha:   17:03-82 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1512688  Function: 2 
-POCSAG2400: Address:  111455  Function: 1  Alpha:   j``g<DC2>
-POCSAG2400: Address:  882507  Function: 1  Alpha:   <ETX>"
-POCSAG2400: Address:  453817  Function: 0 
-POCSAG2400: Address: 1550236  Function: 1 
-POCSAG2400: Address: 1896515  Function: 3 
-POCSAG2400: Address:  759704  Function: 2 
-POCSAG2400: Address: 1512695  Function: 2 
-POCSAG2400: Address:  111454  Function: 1  Alpha:   pj
-POCSAG2400: Address: 1324101  Function: 2  Alpha:   17
-POCSAG2400: Address: 1275575  Function: 3 
-POCSAG2400: Address: 1650806  Function: 0  Alpha:   (^
-POCSAG2400: Address: 1323936  Function: 2  Alpha:   17:03-45 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323796  Function: 2  Alpha:   17:03-91 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324032  Function: 2  Alpha:   17:03-59 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323928  Function: 2  Alpha:   17:03-80 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324060  Function: 2  Alpha:   17:03-06 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323927  Function: 2  Alpha:   17:03-95 Green: This is the daily pager test. Please take no further action.<NUL>
