@@ -1,3 +1,28 @@
+POCSAG1200: Address:  963186  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1043241121+++TIME=1043241121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   10:43-09 5415<NUL>
+POCSAG2400: Address: 1913696  Function: 2  Alpha:   10:43-62 4660<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   10:43-91 4167<NUL>
+POCSAG1200: Address:  585053  Function: 2  Alpha:   10:43-77 01908658100
+POCSAG2400: Address: 1321167  Function: 2  Alpha:   10:43-41 Mark thanks for agreeing to cover on call, please respond to all alerts within 15 minutes. Check the rota or handover for details of on call colleagues. James EPRR TAC<NUL>
+POCSAG2400: Address: 1913961  Function: 2  Alpha:   10:42-26 4554<NUL>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   10:42-00 MSG01- 2
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   10:42-99 MSG02-387643 397251
+POCSAG1200: Address:  334075  Function: 2  Alpha:   10:42-04 MSG02-387643 397251
+POCSAG1200: Address: 2010709  Function: 0 
+POCSAG1200: Address:  164753  Function: 0 
+POCSAG1200: Address:  793193  Function: 2 
+POCSAG1200: Address: 1947744  Function: 2  Alpha:   .<ACK>
+POCSAG1200: Address:   42847  Function: 2  Alpha:   10:41-20 100<NUL><NUL>
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   10:41-61 2161<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  585543  Function: 2  Alpha:   10:41-35 932<NUL><NUL>
+POCSAG2400: Address: 2007129  Function: 1 
+POCSAG2400: Address: 1697760  Function: 2 
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   10:40-65 24/11/2021 10:38:08 INC 24713593 31D04 BELMONT CARE HOME, CUNLIFFE HOUSE, INGLEWHITE ROAD, LONGRIDGE PRESTON, PR3 2DB Male 80Y COLLAPSED GRD 359636 43804y<STX>@
+POCSAG1200: Address:  269168  Function: 2  Alpha:   10:40-27 24/11/2021 10:30:04 INC 24713558 10D02 Beardwood Hospital Blackburn Lancashire -, PRESTON NEW ROAD, BLACKBURN, BB2 7AE Female 62Y ProQA Re-Established GRD 366255 428875
+POCSAG2400: Address:   11729  Function: 0  Alpha:   10:40-79 PLS CALL DR SELINA 7234110 ED 
+POCSAG1200: Address: 2011902  Function: 0 
 POCSAG1200: Address:  585538  Function: 2  Alpha:   10:39-86 2025<NUL>
 POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1038241121+++TIME=1038241121<NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address:  144128  Function: 3
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>a
 POCSAG1200: Address:  141260  Function: 3  Alpha:   <DC3><DC3>
 POCSAG1200: Address:  826915  Function: 1  Alpha:   <EOT><SUB>
-POCSAG1200: Address: 1187971  Function: 3 
-POCSAG1200: Address:  836034  Function: 1  Alpha:   KR
-POCSAG2400: Address: 1544817  Function: 2 
-POCSAG1200: Address: 1312648  Function: 2  Alpha:   09:03-19 (6/6) Additional_Data Are you in the same room as the fire: <NUL><NUL>
-POCSAG2400: Address: 1714176  Function: 3 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:03-03 4156<NUL>
-POCSAG2400: Address: 1913781  Function: 2  Alpha:   09:03-92 2427<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903241121+++TIME=0903241121<NUL>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:03-68 4020<NUL>
-POCSAG1200: Address:   49263  Function: 2  Alpha:   09:03-75 MEDICAL EMERGENCY AIU DARLINGTON<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  290132  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1663398  Function: 0  Alpha:   eS
-POCSAG1200: Address: 1783309  Function: 0  Alpha:   t9
-POCSAG1200: Address:  288163  Function: 3  Alpha:   KGI_e
-POCSAG1200: Address: 1962754  Function: 1 
-POCSAG1200: Address: 1761516  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1032066  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031552  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1913781  Function: 2  Alpha:   09:02-91 2427<NUL>
-POCSAG2400: Address: 1323214  Function: 2  Alpha:   09:01-01 Good morning, please join the conference call. EM<NUL><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   09:01-22 5205<NUL>
-POCSAG2400: Address: 1022279  Function: 0  Alpha:   09:01-74 Good morning, please join the conference call. EM<NUL><NUL>
-POCSAG2400: Address: 1914026  Function: 2  Alpha:   09:01-06 3104<NUL>
-POCSAG2400: Address:  585013  Function: 2  Alpha:   09:01-60 PLEASE CALL MR HARSH FROM SEARCH CONSULTANCY  07867 500 582
