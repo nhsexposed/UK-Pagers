@@ -1,3 +1,54 @@
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <ACK><SOH>
+POCSAG1200: Address:  325898  Function: 3  Alpha:   vj
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:  788513  Function: 2 
+POCSAG2400: Address: 1321071  Function: 2  Alpha:   16:23-73 2581<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1623241121+++TIME=1623241121<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:23-58 2017<NUL>
+POCSAG1200: Address:   35524  Function: 0  Alpha:   YW
+POCSAG1200: Address:   75484  Function: 2 
+POCSAG1200: Address:  301020  Function: 0 
+POCSAG1200: Address:   60667  Function: 2  Alpha:   <SUB>K
+POCSAG1200: Address:  585393  Function: 2  Alpha:   16:23-68
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:23-77 3129<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   16:23-66 5056<NUL>
+POCSAG1200: Address:  585393  Function: 2  Alpha:   16:23-67 (1/3)030397-24112021; T10.1.0.P TRANSPORT - RTC PERSONS TRAPPED SMALL VE;
+POCSAG512: Address:  295508  Function: 0 
+POCSAG2400: Address: 1913804  Function: 2  Alpha:   16:22-22 5202<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   16:22-95 2183<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN>2
+POCSAG1200: Address:  958547  Function: 0 
+POCSAG1200: Address:  411243  Function: 2 
+POCSAG1200: Address: 1089611  Function: 2  Alpha:   16:22-44 24/11/2021 16:18:32 INC 24715082 MARIGOLD LODGE - APARTMENT 2, ULLSWATER ROAD, GOLBORNE WARRINGTON, WA3 3EY Male 58Y Q SESPIS WITH WATER INFECTION. GRD 361487 397996
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1818256  Function: 0 
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <ACK><SOH>
+POCSAG1200: Address: 1032677  Function: 3  Alpha:   <DC2>c<EOT>AL
+POCSAG1200: Address: 1485641  Function: 3  Alpha:   A<EM>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   16:20-79 4163<NUL>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   16:20-78 4163<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:21-41 4312<NUL>
+POCSAG1200: Address: 1581958  Function: 0 
+POCSAG1200: Address:  678180  Function: 3 
+POCSAG1200: Address: 1444922  Function: 1  Alpha:   <DC2>P
+POCSAG1200: Address:  421528  Function: 1 
+POCSAG1200: Address: 1370799  Function: 3  Alpha:   O%(<STX>5
+POCSAG1200: Address: 1581959  Function: 0 
+POCSAG1200: Address: 1888718  Function: 1  Alpha:   , 
+POCSAG1200: Address:  895108  Function: 2  Alpha:   b@
+POCSAG1200: Address: 1444923  Function: 1  Alpha:   <SUB><DLE>
+POCSAG1200: Address:  623453  Function: 0  Alpha:   fn
+POCSAG1200: Address:  413064  Function: 2  Alpha:   16:20-91 Please call ext 4196<NUL><NUL>
+POCSAG2400: Address: 1323948  Function: 2  Alpha:   16:19-59 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address: 1324072  Function: 2  Alpha:   16:19-38 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address: 1323941  Function: 2  Alpha:   16:19-62 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address: 1323923  Function: 2  Alpha:   16:19-53 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address: 1324071  Function: 2  Alpha:   16:19-45 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:20-55 3181<NUL>
+POCSAG2400: Address: 1324077  Function: 2  Alpha:   16:19-13 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address: 1324023  Function: 2  Alpha:   16:19-27 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
+POCSAG2400: Address:  583528  Function: 2  Alpha:   16:20-99 555<NUL><NUL>
+POCSAG1200: Address:  585617  Function: 2  Alpha:   16:19-82 NEL 111/IUC is in CAS escalation level 1.  For further information please call 02077836953 or 07901998197
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   16:19-11 2233<NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   16:19-48 4163<NUL>
 POCSAG2400: Address:  583556  Function: 2  Alpha:   16:19-84 555<NUL><NUL>
@@ -947,54 +998,3 @@ POCSAG2400: Address: 1228382  Function: 2
 POCSAG2400: Address: 1926302  Function: 1 
 POCSAG1200: Address:  963062  Function: 0 
 POCSAG1200: Address: 1312984  Function: 2  Alpha:   14:04-29 (2/2) Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Property Shell
-POCSAG2400: Address: 1323879  Function: 2  Alpha:   14:04-90 2111<NUL>
-POCSAG1200: Address: 2007164  Function: 0 
-POCSAG1200: Address: 1847906  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403241121+++TIME=1403241121<NUL>
-POCSAG1200: Address:  103210  Function: 2  Alpha:   fp
-POCSAG1200: Address:  212222  Function: 1  Alpha:   <CAN><SUB>
-POCSAG1200: Address: 2012785  Function: 0 
-POCSAG1200: Address:  459471  Function: 3 
-POCSAG1200: Address:   80174  Function: 3  Alpha:   <DC2>C@<VT>L
-POCSAG2400: Address: 1022624  Function: 0  Alpha:   14:02-54 Fire Alarm LEVEL 4 SECTOR 8 STREET 06<NUL><NUL>
-POCSAG1200: Address: 1656216  Function: 0  Alpha:   K<LF><HT>$z<EM>HH<ENQ>$<SUB>IxX<BS>D<EM>h9<CAN>8JZ(J<ENQ>D<EM><CAN><ACK>4F<HT><LF>dX\<GS>L]<FF><EOT>7<SYN><VT>tz9Y<BS>T<LF><LF>ti<HT>D<LF>Y<BS>dHyy)J<ENQ>4xiiX:ZH<ENQ>dyI<LF>ti<HT>D<LF>Y<BS>dHyy)<LF>t(J<BS>4F<ACK>wvF<ACK>Df&F<ACK><BEL><ACK>
-POCSAG1200: Address:  325898  Function: 3  Alpha:   &<LF>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   14:02-59 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   14:01-38 4765<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   14:00-22 5204<NUL>
-POCSAG1200: Address: 2007150  Function: 0 
-POCSAG1200: Address:  593235  Function: 2 
-POCSAG1200: Address:  856898  Function: 1 
-POCSAG1200: Address: 1880561  Function: 1  Alpha:   LD<NUL>LA
-POCSAG1200: Address:  268127  Function: 0  Alpha:   O%
-POCSAG1200: Address:  874303  Function: 1 
-POCSAG1200: Address: 1453469  Function: 0  Alpha:   <ESC><DLE>
-POCSAG1200: Address: 1415978  Function: 3  Alpha:   ``
-POCSAG1200: Address:  104960  Function: 0  Alpha:   gb+<DLE>8f "<SYN><DLE>a'&j''<SYN><DLE>!f<CAN>PX*$<DLE>crv0v2P[Z,<DLE>)j!P<SYN><DLE><EM>Pa i)P$'k'&k""<SYN>P)dga%P#)"PY<ESC>YX<EM><SUB><DLE><SUB>X\ZY
-POCSAG1200: Address:  678665  Function: 2  Alpha:   14:00-58 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  585450  Function: 2  Alpha:   13:59-61 3395<NUL>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   13:59-01 2180<NUL>
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   13:59-04 3117<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   13:59-00 4954<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1358241121+++TIME=1358241121<NUL>
-POCSAG1200: Address:   18736  Function: 2  Alpha:   13:58-24 TEST CALL<NUL><NUL>
-POCSAG2400: Address: 1913851  Function: 2  Alpha:   13:57-76 4187<NUL>
-POCSAG1200: Address: 2009030  Function: 2  Alpha:   13:57-46 24/11/2021 13:56:18 INC 24714439 06E01 44 HARTSHEAD AVENUE, ASHTON HARTSHEAD ASHTON UNDER LYNE, OL6 8SF Female 22M STRUGGLING TO BREATH GRD 394095 400806
-POCSAG2400: Address: 1878757  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   13:56-65 5271<NUL>
-POCSAG1200: Address: 1413933  Function: 2  Alpha:   `h
-POCSAG1200: Address: 1204955  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
-POCSAG1200: Address: 1420122  Function: 0  Alpha:   rd
-POCSAG1200: Address: 1419045  Function: 3  Alpha:   @hfdppr<NUL>p<LF>98E<FS><<SYN>!/<DC1><BEL>WH<ETX>+X<NAK>6&
-POCSAG1200: Address: 1516610  Function: 0 
-POCSAG1200: Address:  853056  Function: 3  Alpha:   $-M,P
-POCSAG1200: Address:  342576  Function: 3 
-POCSAG1200: Address:  843063  Function: 1  Alpha:   O%
-POCSAG1200: Address:  867191  Function: 1 
-POCSAG1200: Address: 1745054  Function: 0 
-POCSAG1200: Address:   45910  Function: 1 
-POCSAG1200: Address:  173389  Function: 2 
-POCSAG2400: Address:  549066  Function: 2  Alpha:   13:55-48 NHSBT - DONOR REFERRAL. Please call NURSE JAKE LAWLEY on Direct Dial Number 01384 456111 X2859 Hospital RUSSELLS HALL DUDLEY Dept ICU AREA C . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1322889  Function: 2  Alpha:   13:54-78 NHSBT - DONOR REFERRAL. Please call NURSE JAKE LAWLEY on Direct Dial Number 01384 456111 X2859 Hospital RUSSELLS HALL DUDLEY Dept ICU AREA C . Regards Donor Referral Line<NUL>
