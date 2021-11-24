@@ -1,3 +1,42 @@
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   20:34-38 24/11/2021 20:31:54 INC 24716123 10D02 18 LAMBETH CLOSE, AUDLEY BLACKBURN, BB1 1LB Male 70Y CHEST PAIN PREVIOUS HEART ATTACK GRD 369420 427825
+POCSAG1200: Address:  248816  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2033241121+++TIME=2033241121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2033241121+++TIME=2033241121<NUL>
+POCSAG1200: Address:  843062  Function: 1 
+POCSAG1200: Address:   33573  Function: 2 
+POCSAG1200: Address: 1127436  Function: 0  Alpha:   +'
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   20:33-07 24/11/2021 20:31:58 INC 24716125 25BP<EM><DLE><DC1><EM><DLE>`$&<<SYN>!S0qp<DC2>hP4qt0Y<ETB><NAK>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   20:33-55 3106<NUL>
+POCSAG1200: Address:  234377  Function: 2  Alpha:   20:33-15 24/11/2021 20:30:03 INC 24716115 06D04 198 CHURCH R<US>QU, ST ANNES LYTHAM ST ANNES, FY8 3NW Male 82Y VOMITTING- DIB GRD 333602 428879
+POCSAG1200: Address: 1811316  Function: 2 
+POCSAG1200: Address: 1356362  Function: 3  Alpha:   &<SO>
+POCSAG1200: Address:  697729  Function: 0  Alpha:   P 
+POCSAG1200: Address: 1640969  Function: 3 
+POCSAG1200: Address: 1421768  Function: 1 
+POCSAG1200: Address:  313376  Function: 3 
+POCSAG1200: Address:  678183  Function: 3 
+POCSAG1200: Address:  364508  Function: 1  Alpha:   <y<FF><VT><GS>Z<ESC>(r<FS>h
+POCSAG1200: Address:  777140  Function: 0 
+POCSAG1200: Address: 1815011  Function: 1 
+POCSAG1200: Address: 1765503  Function: 2  Alpha:   20:32-48 Wed Nov 24 20:32:56 UTC 2021 -- PROBLEM : core3-tch-0/5/1-linx on core3-tch is CRITICAL (SNMP TRAP CRITICAL - Interface core3-tch-0/5/1-linx [712] on core3-tch is currently up/down)<NUL>
+POCSAG1200: Address:  640109  Function: 2  Alpha:   20:32-50 24/11/2021 20:30:55 INC 24716118 12D02 57 ANDERTON PLACE, SANDBACH DRIVE, NORTHWICH, CW9 8SQ Female 64Y HAD SEIZURE FEEL POORLY GRD 365516 372600
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1089665  Function: 2  Alpha:   20:32-68 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  353480  Function: 2 
+POCSAG2400: Address: 1324449  Function: 2  Alpha:   20:31-92 NHSBT - DONOR REFERRAL. Please call DR WATSON on Direct Dial Number 07469988878 Hospital ST GEORGES HOSPITAL, TOOTING Dept NEURO ICU . Regards Donor Referral Line
+POCSAG2400: Address:  454796  Function: 0  Alpha:   &<BEL>3<ETX>9V7<VT><ETB>K<ETX>A]QYeeaaa]a<SOH>!>OC'S<BEL>3<ETX>MR<STX><GS><SYN>>J<RS><SYN>N<STX>!>NB&R<ACK>22<SOH>Q>>R&:<RS><STX><DC1><SYN>CS<ETX>9<SYN>VJ><STX>%<SO>V<STX>9<SOH>I<SYN><US><BEL>K<DC3>O<ETX><DC1>>;?K<ETX>I<SYN><ESC><ETB>KK<BEL>3<ETX>1&;<ETB>
+POCSAG2400: Address: 1022280  Function: 0  Alpha:   20:31-39 NHSBT - DONOR REFERRAL. Please call DR WATSON on Dire
+POCSAG2400: Address: 1323229  Function: 2  Alpha:   20:31-46 NHSBT - DONOR REFERRAL. Please call DR WATSON on Direct Dial Number 07469988878 Hospital ST GEORGES HOSPITAL, TOOTING Dept NEURO ICU . Regards Donor Referral Line
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   &0
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:31-66 4156<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:31-65 5201<NUL>
+POCSAG1200: Address: 1246813  Function: 3 
+POCSAG1200: Address:  751179  Function: 2 
+POCSAG1200: Address:  183707  Function: 1 
+POCSAG2400: Address:  600826  Function: 0  Alpha:   20:31-35 WEEKLY PAGER TEST Hinkley Point B - Please Respond<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:30-64 4554<NUL>
+POCSAG2400: Address:  216734  Function: 2  Alpha:   20:29-78 INC ALERT No: 16820583 Traffic/Transportation Accidents - POLICE - RTC PT FEELS SICK AND SHAKEN UP 2 CAR RTC, AT: ON THIS ROAD UNSURE WHERE, FORD HILL, FORD PLYMOUTH, PL2 1HH, Time of Call: 24/11/2021 20:27:18, Co-ords: 50.3829071
 POCSAG2400: Address: 1323058  Function: 2  Alpha:   20:29-35 147<NUL><NUL>
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   20:29-05 24/11/2021 20:26:32 INC 24716098 23C07V DARLEY COTTAGE, NORLEY LANE, CROWTON NORTHWICH CW8, CW8 2RR Female 36Y MH ISSUES - TAKEN INSULIN OVERDOSE. GRD 357069 373744<NUL>
 POCSAG1200: Address: 1258733  Function: 2  Alpha:   20:29-12 24/11/2021 20:27:11 INC 24716102 10D01 SHAWS FARM, STOCKCLOUGH LANE, FENISCOWLES BLACKBURN, BB2 5JR Male 77Y CONFUSED,UNABLE TO GET UP GRD 364899 423606<NUL>
@@ -959,42 +998,3 @@ POCSAG1200: Address:  269168  Function: 2  Alpha:   18:49-28 24/11/2021 18:45:32
 POCSAG2400: Address:  508384  Function: 2  Alpha:   u<ETB>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1848241121+++TIME=1848241121<NUL>
 POCSAG2400: Address: 1324054  Function: 2  Alpha:   18:48-40 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324024  Function: 2  Alpha:   18:48-71 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324058  Function: 2  Alpha:   18:48-61 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   18:48-20 24/11/2021 18:44:21 INC 24715676 10C01 JUNC NORTHWAY, KENYONS LANE, MAGHULL L31, L31 0BR Female 38Y RTC GRD 337920 403536<NUL>
-POCSAG1200: Address:  351024  Function: 2  Alpha:   SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.
-POCSAG1200: Address: 1917119  Function: 2  Alpha:   18:48-39 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1848241121+++TIME=1848241121<NUL>
-POCSAG2400: Address:  183104  Function: 2 
-POCSAG2400: Address: 1923536  Function: 1 
-POCSAG2400: Address: 1749231  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1162502  Function: 3  Alpha:   njJnj
-POCSAG2400: Address: 1789613  Function: 2 
-POCSAG2400: Address: 1597667  Function: 3 
-POCSAG2400: Address:  773642  Function: 1  Alpha:   47
-POCSAG2400: Address:  362328  Function: 0  Alpha:   fb
-POCSAG2400: Address: 1058365  Function: 3  Alpha:   <SYN><BEL>
-POCSAG2400: Address:  177163  Function: 1  Alpha:   b6{26P<EM>P
-POCSAG2400: Address: 1568218  Function: 0 
-POCSAG2400: Address: 1324072  Function: 2  Alpha:   18:48-41 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324027  Function: 2  Alpha:   18:48-01 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324078  Function: 2  Alpha:   18:48-01 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324028  Function: 2  Alpha:   18:48-92 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   18:48-39 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:48-37 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1323923  Function: 2  Alpha:   18:48-56 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   18:48-64 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324023  Function: 2  Alpha:   18:48-30 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1323948  Function: 2  Alpha:   18:48-61 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1638912  Function: 1 
-POCSAG2400: Address: 1323941  Function: 2  Alpha:   18:48-64 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB
-POCSAG2400: Address:   28904  Function: 0  Alpha:   18:48-31 4166<NUL>
-POCSAG1200: Address:  354249  Function: 2  Alpha:   SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops <GS>B.
-POCSAG2400: Address: 1324026  Function: 2  Alpha:   18:48-85 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324058  Function: 2  Alpha:   18:48-60 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:48-36 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   18:48-63 SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG1200: Address:   91678  Function: 2 
-POCSAG1200: Address:  453790  Function: 0 
-POCSAG1200: Address:  891509  Function: 0 
-POCSAG1200: Address: 1648972  Function: 1 
