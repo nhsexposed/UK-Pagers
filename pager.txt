@@ -1,3 +1,34 @@
+POCSAG1200: Address: 2095088  Function: 3 
+POCSAG1200: Address: 1650804  Function: 2  Alpha:   E]IMIQEEIE<SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1723241121+++T
+POCSAG2400: Address: 1323378  Function: 2  Alpha:   17:23-86 234234<NUL><NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   17:23-75 24/11/2021 17:17:52 INC 24715321 23C01V 53 BEDFORD ROAD, WALTON L4, L4 5PS Male 29Y 20 LOADS OF PARACETAMOL OVERDOSE PLUS ALCOHOL GRD 335588 394734<NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   17:23-11 24/11/2021 17:19:25 INC 24715328 OUTSIDE 520, MANCHESTER ROAD, KEARSLEY BOLTON, BL4 8RN Male 27Y CAR ACCIDENT 2 CARS GRD 376523 403946<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   17:22-04 5128<NUL>
+POCSAG1200: Address:  484877  Function: 2 
+POCSAG1200: Address: 1115549  Function: 0 
+POCSAG1200: Address:  378156  Function: 0 
+POCSAG1200: Address:  339540  Function: 0 
+POCSAG1200: Address: 1251952  Function: 3  Alpha:   <SO>f<SO><ACK>";K<ENQ>
+POCSAG1200: Address:  400394  Function: 0  Alpha:    'jdV
+POCSAG1200: Address: 1732641  Function: 0  Alpha:   z<HT>
+POCSAG1200: Address:  757841  Function: 1 
+POCSAG1200: Address: 1225336  Function: 2 
+POCSAG1200: Address: 2042120  Function: 1  Alpha:   UN
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  154688  Function: 1 
+POCSAG1200: Address: 1845232  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   17:21-95 24/11/2021 17:20:21 INC 24715331 29D02L BUCKINGHAM DRIVE, KNUTSFORD WA16, WA16 8LH Male UnknownY RTC GRD 375920 378060<NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <STX>.
+POCSAG2400: Address:   28919  Function: 0  Alpha:   17:20-63 2058<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   17:21-27 2343<NUL>
+POCSAG1200: Address:  833582  Function: 2 
+POCSAG1200: Address: 2043989  Function: 1 
+POCSAG1200: Address:  911108  Function: 3 
+POCSAG1200: Address:  343991  Function: 3  Alpha:   O%(&<BEL>"<FF><SYN>o<ACK>z4/<SYN><ENQ>:<CR>
+POCSAG1200: Address: 1321922  Function: 2  Alpha:   17:20-11 01264782716 - Mrs Dicker : Catherston StudCroft Farm Over Wallop Stockbridge Hampshire SO20 8HX Horse William Colic owner Tina Atkinson CALLER IS NOT SURE IF REG McGonnell and Gillatt visit requested
+POCSAG1200: Address: 1321925  Function: 2  Alpha:   17:20-10 01264782716 - Mrs Dicker : Catherston StudCroft Farm Over Wallop Stockbridge Hampshire SO20 8HX Horse William Colic owner Tina Atkinson CALLER IS NOT SURE IF REG McGonnell and Gillatt visit requested
+POCSAG2400: Address:   57782  Function: 1  Alpha:   X<ESC>
 POCSAG1200: Address:  216355  Function: 2  Alpha:   17:19-05 KAYLEIGH - 02082 881 417<NUL>
 POCSAG1200: Address:  454171  Function: 1  Alpha:   XUU<NAK>jdfb^X[<CAN><FS><EM>ZX<CAN>Y<CAN><NUL>
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:18-23 5002<NUL>
@@ -967,34 +998,3 @@ POCSAG2400: Address: 1913668  Function: 2  Alpha:   15:14-59 3508<NUL>
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:13-32 3298<NUL>
 POCSAG2400: Address:   11754  Function: 0  Alpha:   15:13-87 PLEASE CALL JULIE EXT: 6810<NUL>
 POCSAG1200: Address: 1067597  Function: 2  Alpha:   15:13-02 01173421905
-POCSAG2400: Address: 1913540  Function: 2  Alpha:   15:12-49 3164<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1876028  Function: 2 
-POCSAG1200: Address: 1377760  Function: 3 
-POCSAG1200: Address:  386728  Function: 0 
-POCSAG1200: Address: 1022775  Function: 1  Alpha:   l<Dg<DC2>
-POCSAG1200: Address: 1712310  Function: 0 
-POCSAG1200: Address:   91270  Function: 2 
-POCSAG1200: Address:   88581  Function: 3 
-POCSAG1200: Address: 1238036  Function: 1  Alpha:   5<DC1>
-POCSAG1200: Address:  305196  Function: 0 
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
-POCSAG2400: Address: 1913934  Function: 2  Alpha:   15:10-94 3298<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   15:10-43 2798<NUL>
-POCSAG2400: Address: 1321021  Function: 2  Alpha:   15:10-80 4187<NUL>
-POCSAG1200: Address:  366080  Function: 0 
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:10-72 5010<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:10-32 4183<NUL>
-POCSAG1200: Address:  734563  Function: 0  Alpha:   &<SYN>
-POCSAG1200: Address:  676387  Function: 1 
-POCSAG1200: Address: 1188026  Function: 1 
-POCSAG1200: Address:  312840  Function: 3  Alpha:   0<DC1>
-POCSAG1200: Address:  379152  Function: 1 
-POCSAG1200: Address:  954455  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1502556  Function: 0  Alpha:   <FS><DLE>
-POCSAG1200: Address:  266851  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   15:10-63 24/11/2021 15:08:48 INC 24714787 31E01 44 KINGFISHER WAY, UPTON WIRRAL CH49, CH49 4PR Female 80Y UNCONSCIOUS - GRD 325689 388708
-POCSAG1200: Address:  585540  Function: 2  Alpha:   15:10-33 3997<NUL>
-POCSAG1200: Address: 1837169  Function: 1 
