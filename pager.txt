@@ -1,3 +1,31 @@
+POCSAG1200: Address: 1312984  Function: 2  Alpha:   14:04-29 (2/2) Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Property Shell
+POCSAG2400: Address: 1323879  Function: 2  Alpha:   14:04-90 2111<NUL>
+POCSAG1200: Address: 2007164  Function: 0 
+POCSAG1200: Address: 1847906  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403241121+++TIME=1403241121<NUL>
+POCSAG1200: Address:  103210  Function: 2  Alpha:   fp
+POCSAG1200: Address:  212222  Function: 1  Alpha:   <CAN><SUB>
+POCSAG1200: Address: 2012785  Function: 0 
+POCSAG1200: Address:  459471  Function: 3 
+POCSAG1200: Address:   80174  Function: 3  Alpha:   <DC2>C@<VT>L
+POCSAG2400: Address: 1022624  Function: 0  Alpha:   14:02-54 Fire Alarm LEVEL 4 SECTOR 8 STREET 06<NUL><NUL>
+POCSAG1200: Address: 1656216  Function: 0  Alpha:   K<LF><HT>$z<EM>HH<ENQ>$<SUB>IxX<BS>D<EM>h9<CAN>8JZ(J<ENQ>D<EM><CAN><ACK>4F<HT><LF>dX\<GS>L]<FF><EOT>7<SYN><VT>tz9Y<BS>T<LF><LF>ti<HT>D<LF>Y<BS>dHyy)J<ENQ>4xiiX:ZH<ENQ>dyI<LF>ti<HT>D<LF>Y<BS>dHyy)<LF>t(J<BS>4F<ACK>wvF<ACK>Df&F<ACK><BEL><ACK>
+POCSAG1200: Address:  325898  Function: 3  Alpha:   &<LF>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   14:02-59 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   14:01-38 4765<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:00-22 5204<NUL>
+POCSAG1200: Address: 2007150  Function: 0 
+POCSAG1200: Address:  593235  Function: 2 
+POCSAG1200: Address:  856898  Function: 1 
+POCSAG1200: Address: 1880561  Function: 1  Alpha:   LD<NUL>LA
+POCSAG1200: Address:  268127  Function: 0  Alpha:   O%
+POCSAG1200: Address:  874303  Function: 1 
+POCSAG1200: Address: 1453469  Function: 0  Alpha:   <ESC><DLE>
+POCSAG1200: Address: 1415978  Function: 3  Alpha:   ``
+POCSAG1200: Address:  104960  Function: 0  Alpha:   gb+<DLE>8f "<SYN><DLE>a'&j''<SYN><DLE>!f<CAN>PX*$<DLE>crv0v2P[Z,<DLE>)j!P<SYN><DLE><EM>Pa i)P$'k'&k""<SYN>P)dga%P#)"PY<ESC>YX<EM><SUB><DLE><SUB>X\ZY
+POCSAG1200: Address:  678665  Function: 2  Alpha:   14:00-58 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  585450  Function: 2  Alpha:   13:59-61 3395<NUL>
 POCSAG2400: Address:   28927  Function: 0  Alpha:   13:59-01 2180<NUL>
 POCSAG2400: Address: 1913656  Function: 2  Alpha:   13:59-04 3117<NUL>
 POCSAG2400: Address:   28906  Function: 0  Alpha:   13:59-00 4954<NUL>
@@ -970,31 +998,3 @@ POCSAG1200: Address:  629297  Function: 0  Alpha:   <ENQ><SUB><ENQ>=<CAN>\<EOT>}
 POCSAG1200: Address:  706510  Function: 0  Alpha:   <DC4><DC1>H<DC4>U41<DC1>}Y<EOT>
 POCSAG1200: Address: 1355669  Function: 0 
 POCSAG1200: Address:  886916  Function: 2  Alpha:   b@bh@
-POCSAG1200: Address:  197131  Function: 2 
-POCSAG1200: Address:  363304  Function: 3  Alpha:   jb
-POCSAG1200: Address: 1204958  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>EEi
-POCSAG1200: Address:  367453  Function: 0  Alpha:   dp
-POCSAG1200: Address: 1321866  Function: 2  Alpha:   11:46-25 24/11/2021 11:44:08 INC 24713875 WILLOW TREE HOUSE - FLAT 8, 29 GROSVENOR STREET, CENTRAL BLACKPOOL, FY1 3EX Male 28Y UNABLE TO MOVE LEG POST KICK TO LEG GRD 331258 436417
-POCSAG1200: Address:  851259  Function: 2  Alpha:   11:45-17 TEST<LF>This is a test of the Pager system. <LF>Please Respond
-POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
-POCSAG1200: Address:   33757  Function: 2  Alpha:   11:45-20 TEST<LF>This is a test of the Pager system. <LF>Please Respond
-POCSAG1200: Address: 1533673  Function: 2 
-POCSAG1200: Address: 1044880  Function: 2  Alpha:   11:45-16 TEST<LF>This is a test of the Pager system. <LF>Please Respond
-POCSAG1200: Address:   14950  Function: 0  Alpha:   11:45-35 24/11/2021 11:44:36 INC 24713877 10D02 56 SLAIDBURN AVENUE, BRUNSHAW BURNLEY, BB10 4NZ Male 86Y CHEST PAINS GRD 385699 431967
-POCSAG1200: Address:  269168  Function: 2  Alpha:   11:45-43 24/11/2021 11:44:36 INC 24713877 10D02 56 SLAIDBURN AVENUE, BRUNSHAW BURNLEY, BB10 4NZ Male 86Y CHEST PAINS GRD 385699 431967
-POCSAG1200: Address: 1111084  Function: 1  Alpha:   <FF><ETX><ETX>"sT<ENQ>j<FF>f.<ACK>B3K<ENQ><SUB>D,<FS>%<ENQ><STX><CR>Lt<FS><ENQ>:<DC4>%<EOT><SUB>C+3KK<ETX>"<ESC><VT>K3;
-POCSAG1200: Address: 1816799  Function: 2  Alpha:   11:44-50 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: FN70AZB. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address: 2025458  Function: 1 
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   11:43-16 24/11/2021 11:42:31 INC 24713870 26D01 81 DEVON ROAD, CADISHEAD MANCHESTER, M44 5HB Female 83Y SHAKING - DITHERING - FEVER GRD 370832 392188<NUL><NUL>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   11:42-04 4554<NUL>
-POCSAG1200: Address:  165608  Function: 2 
-POCSAG1200: Address: 1568216  Function: 0 
-POCSAG1200: Address: 1956284  Function: 3  Alpha:   <GS>L
-POCSAG1200: Address: 2076752  Function: 2  Alpha:   ~<SYN><SI><ACK><DC2>|~^Fv><STX><DC2>-4<ACK>"<DEL><ACK>*
-POCSAG1200: Address: 1943390  Function: 2  Alpha:   . 
-POCSAG1200: Address: 1019198  Function: 1 
-POCSAG1200: Address: 1837693  Function: 0 
-POCSAG1200: Address:  843061  Function: 2 
-POCSAG1200: Address: 1620348  Function: 0 
