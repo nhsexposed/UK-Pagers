@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   03:34-46 4156<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333241121+++TIME=0333241121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0333241121+++TIME=0333241121<NUL>
+POCSAG1200: Address: 1133282  Function: 1 
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   63
+POCSAG1200: Address: 1052884  Function: 3  Alpha:   03:33-46 24/11/2021 03:30:27
+POCSAG1200: Address: 1534676  Function: 3  Alpha:   <ENQ><SUB>lt<FS>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2040369  Function: 2 
+POCSAG1200: Address: 1999604  Function: 0 
+POCSAG1200: Address: 1856146  Function: 1 
+POCSAG1200: Address:     977  Function: 1  Alpha:   `,
+POCSAG1200: Address:  738440  Function: 1 
+POCSAG1200: Address: 1445464  Function: 3 
+POCSAG1200: Address: 1126987  Function: 1  Alpha:   ^>
+POCSAG1200: Address:  202481  Function: 1 
+POCSAG1200: Address:  396776  Function: 3 
+POCSAG1200: Address:  273040  Function: 2 
+POCSAG1200: Address:   22104  Function: 2  Alpha:   03:31-73 24/11/2021 03:28:34 INC 24712451 23B01V PETERS COURT - FLAT 3, 66 PETER STREET, BLACKPOOL, FY1 3NL Female 23Y OVERDOSE GRD 331495 436490
+POCSAG1200: Address:  197199  Function: 3  Alpha:   O%
+POCSAG1200: Address:  266854  Function: 1  Alpha:   v<SYN><ACK>FV
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  624564  Function: 2  Alpha:   Dr
+POCSAG1200: Address:  786408  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328241121+++TIME=0328241121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0328241121+++TIME=0328241121<NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   03:27-11 24/11/2021 03:24:36 INC 24712444 32D01 PT ON FIELD, COLLEGE WAY, BOLTON Male 25Y PASSERBY PT ON FLOOR GRD 370938 408764
@@ -974,27 +998,3 @@ POCSAG1200: Address: 1881180  Function: 2
 POCSAG1200: Address: 1811978  Function: 1 
 POCSAG2400: Address:   28894  Function: 0  Alpha:   22:30-81 4157<NUL>
 POCSAG2400: Address: 1323883  Function: 2  Alpha:   <DC2>"<SUB>30-51 4156<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2228231121+++TIME=2228231121<NUL>
-POCSAG1200: Address:  279854  Function: 3 
-POCSAG1200: Address:  533693  Function: 3  Alpha:   <FS>-
-POCSAG1200: Address:  698369  Function: 0  Alpha:   Female 18Y FIT GRD 354175 423856<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2228231121+++TIME=2228231121<NUL>
-POCSAG512: Address:  640251  Function: 2  Alpha:   22:28-69 33715
-POCSAG2400: Address: 1322506  Function: 2  Alpha:   22:28-22 NORTH EAST ESSEX SILVER RESPONDING <NUL>
-POCSAG2400: Address:   33685  Function: 2  Alpha:   22:28-52 NORTH EAST ESSEX SILVER RESPONDING <NUL>
-POCSAG2400: Address:   33694  Function: 2  Alpha:   22:28-19 NORTH EAST ESSEX SILVER RESPONDING <NUL>
-POCSAG2400: Address: 1323564  Function: 2  Alpha:   22:28-59 NORTH EAST ESSEX SILVER RESPONDING <NUL>
-POCSAG2400: Address:   33684  Function: 2  Alpha:   22:28-52 NORTH EAST ESSEX SILVER RESPONDING <NUL>
-POCSAG2400: Address:   33688  Function: 2  Alpha:   22:28-54 NORTH EAST ESSEX SILVER RESPONDING <NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323883  Function: 2  Alpha:   22:26-50 4379<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   22:26-80 2343<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   22:26-89 4316<NUL>
-POCSAG1200: Address: 1509880  Function: 2  Alpha:   22:25-65 23/11/2021 22:21:29 INC 24711598 27D04S OUTSIDE, HAZEL GROVE, GOLBORNE WARRINGTON, WA3 3LX Male UnknownY STABBED IN CHEST GRD 360843 397897
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   22:25-03 4187<NUL>
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   22:25-99 6039 please
-POCSAG1200: Address:  856699  Function: 0 
-POCSAG1200: Address:       1  Function: 1  Alpha:   WHC+da<NAK>r
-POCSAG1200: Address:  792599  Function: 3  Alpha:   O%(<SYN>7<ACK>&F
-POCSAG1200: Address: 1586535  Function: 2 
-POCSAG1200: Address:  144153  Function: 1 
