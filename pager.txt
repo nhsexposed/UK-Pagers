@@ -1,3 +1,6 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0123241121+++TIME=0123241121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  214620  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=011824!y61+++TIME=0118241121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0118241121+++TIME=0118241121<NUL>
 POCSAG1200: Address:  108093  Function: 0  Alpha:   01:18-21 pLSE CALL sgh EXTN 2020<NUL><NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address:  588083  Function: 0
 POCSAG1200: Address:  265794  Function: 0 
 POCSAG1200: Address:  220762  Function: 3 
 POCSAG1200: Address: 1639337  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  619461  Function: 3 
-POCSAG2400: Address:  627492  Function: 1 
