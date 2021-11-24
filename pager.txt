@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   02:28-40 4157<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0228241121+++TIME=0228241121<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:28-20 3157<NUL>
+POCSAG1200: Address: 1204954  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address:  637785  Function: 1  Alpha:   bl
+POCSAG1200: Address:  206424  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  722604  Function: 2 
 POCSAG1200: Address: 1444955  Function: 0 
 POCSAG1200: Address: 1857555  Function: 1 
@@ -991,10 +998,3 @@ POCSAG2400: Address:  940336  Function: 3  Alpha:   lo<RS><SO>T
 POCSAG2400: Address: 1396493  Function: 2 
 POCSAG2400: Address: 1544149  Function: 1 
 POCSAG2400: Address: 1153907  Function: 3  Alpha:   pf
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   21:48-49 INC ALERT N[<SO><BS>L<CR>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   21:47-47 2097<NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   21:47-50 4314<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   21:46-10 23/11/2021 21:44:42 INC 24711455 09E02 136 DOUGLAS ROAD, ATHERTON MANCHESTER, M46 9FE Male 87Y CONFUSED - SAT IN CAHIR - CANT TALK - DIB GRD 368290 402996<NUL><NUL>
-POCSAG1200: Address: 1058495  Function: 2  Alpha:   21:46-36 ARSON REFERRAL CHECK EMAIL<NUL><NUL>
-POCSAG1200: Address: 1203329  Function: 1  Alpha:   .i
