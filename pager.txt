@@ -1,3 +1,55 @@
+POCSAG2400: Address:  216264  Function: 2  Alpha:   23:29-62 PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: gpafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:29-67 24/11/2021 23:27:32 INC 24716764 06E01 37 SOUTH LONSDALE STREET, STRETFORD MANCHESTER, M32 0JE Female 76Y F COLLAPSED GRD 380093 395353<NUL>
+POCSAG1200: Address:  963058  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   23:26-69 24/11/2021 23:23:36 INC 24716750 10D01 JCT KING STREET, WAINWRIGHT WAY, BLACKBURN BLACKBURN WITH DARWEN Male 58Y Q HYPERTHERMIA GRD 368036 427576
+POCSAG2400: Address: 1804011  Function: 0 
+POCSAG2400: Address:  366203  Function: 0 
+POCSAG2400: Address:  445154  Function: 3 
+POCSAG2400: Address: 1647970  Function: 1 
+POCSAG2400: Address: 1881958  Function: 3 
+POCSAG2400: Address:  775109  Function: 2  Alpha:    Endp
+POCSAG2400: Address: 1804012  Function: 3 
+POCSAG2400: Address:  366204  Function: 2 
+POCSAG2400: Address:  445155  Function: 0 
+POCSAG2400: Address:  660275  Function: 3 
+POCSAG2400: Address: 1271387  Function: 2 
+POCSAG2400: Address:  432507  Function: 1 
+POCSAG2400: Address: 1375945  Function: 0  Alpha:   <ETB><SI>
+POCSAG2400: Address:  859099  Function: 1  Alpha:   ;:
+POCSAG2400: Address: 1848948  Function: 0  Alpha:   vf
+POCSAG2400: Address: 1933843  Function: 3  Alpha:   osT b
+POCSAG2400: Address: 1460569  Function: 1 
+POCSAG2400: Address: 1650941  Function: 3  Alpha:   Nv<ACK><BEL><STX><ENQ><DEL>&'<RS>&{,B&?;<ETX>%O<ETX><CR>
+POCSAG2400: Address:  183099  Function: 2  Alpha:   v0<ETB>zr1P"
+POCSAG2400: Address: 1070266  Function: 3  Alpha:   <DC4>d<FF>lT
+POCSAG2400: Address:  216264  Function: 2  Alpha:   23:qZ<SYN>[<CAN>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   23:25-24 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   23:25-30 PROBLEM: Generic Service: ParisConnect is CRITICAL on host herhaclpco01mc1, <CR><LF>PROBLEM: Generic Service: ParisConnect is CRITICAL on host herhaclpco01mc1<CR><LF>Service: Generic Service: ParisConnect<CR><LF>Host: herhaclpco01mc1<CR><LF>Alias: <CR><LF>Address: 10.22<NUL><NUL>
+POCSAG2400: Address: 1115289  Function: 1 
+POCSAG2400: Address: 1850600  Function: 1  Alpha:   <ETX>j
+POCSAG2400: Address:  534240  Function: 2 
+POCSAG2400: Address: 1858621  Function: 3 
+POCSAG2400: Address: 1096301  Function: 0 
+POCSAG2400: Address:  163300  Function: 2  Alpha:   iu
+POCSAG2400: Address:  776275  Function: 1 
+POCSAG2400: Address: 1071209  Function: 0 
+POCSAG2400: Address:  777144  Function: 2 
+POCSAG2400: Address: 1594055  Function: 1 
+POCSAG2400: Address:  858920  Function: 2  Alpha:   <ETX>:,v.<ACK>O<RS>
+POCSAG2400: Address: 2041928  Function: 2 
+POCSAG2400: Address:  656039  Function: 1  Alpha:   g<DC2>
+POCSAG2400: Address:  852663  Function: 2 
+POCSAG2400: Address: 1820446  Function: 0 
+POCSAG2400: Address: 1850469  Function: 2  Alpha:   <ACK><US>N<ACK><VT>
+POCSAG2400: Address:  392139  Function: 1  Alpha:   t her
+POCSAG2400: Address: 1994841  Function: 0 
+POCSAG2400: Address:  267806  Function: 0  Alpha:   <z|p[k3<HT>j]<L<SO><DC4>
+POCSAG2400: Address:  957158  Function: 0 
+POCSAG2400: Address: 1954636  Function: 3  Alpha:   ic<NUL>Servi
+POCSAG2400: Address:  189259  Function: 3 
+POCSAG2400: Address: 1070266  Function: 3  Alpha:   <DC4>d<FF>lT
+POCSAG2400: Address:  216264  Function: 2  Alpha:   23:24-59 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG1200: Address: 1323538  Function: 2  Alpha:   23:24-95 PLEASE CALL 01535 292790<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:24-65 24/11/2021 23:23:19 INC 24716749 06E01 3 EDINBURGH ROAD, LITTLE LEVER BOLTON, BL3 1TG Male 76Y STRUGGLING TO BREATH GRD 375547 406742
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2323241121+++TIME=2323241121<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   23:23-80 2447<NUL>
@@ -946,55 +998,3 @@ POCSAG1200: Address: 1251738  Function: 1  Alpha:    FEma
 POCSAG1200: Address: 1649674  Function: 1 
 POCSAG1200: Address:  266641  Function: 2  Alpha:   F<ENQ>
 POCSAG1200: Address:  856864  Function: 3 
-POCSAG1200: Address: 1518688  Function: 2 
-POCSAG1200: Address:  677838  Function: 0  Alpha:   <DC3>Ht3<DLE><SOH><VT>(pY<EOT>
-POCSAG1200: Address:  511381  Function: 1 
-POCSAG1200: Address: 1673348  Function: 2  Alpha:   b@Dd@
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>F<SYN><ACK><ETB><ACK><DC4>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1409832  Function: 2  Alpha:   br
-POCSAG2400: Address:  216264  Function: 2  Alpha:   20:52-53 PROBLEM: Windows - Drive: C is CRITICAL on host EORHCXTWEB01MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host EORHCXTWEB01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: EORHCXTWEB01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.12.215<CR><LF>Host Group Hierarchy: <CR><LF>S<NUL><NUL>
-POCSAG2400: Address:  177164  Function: 1 
-POCSAG2400: Address: 1840544  Function: 0 
-POCSAG2400: Address: 2080504  Function: 0 
-POCSAG2400: Address: 1666767  Function: 1  Alpha:   O%
-POCSAG2400: Address:  840118  Function: 1  Alpha:   : 
-POCSAG2400: Address:  191275  Function: 3 
-POCSAG2400: Address: 1070266  Function: 3  Alpha:   <DC4>d<FF>lT
-POCSAG2400: Address: 1413977  Function: 1  Alpha:   `l
-POCSAG2400: Address: 1246808  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   20:51-94 24/11/2021 20:40:46 INC 24716156 BOMB PREMIER INN 5 KNOWSLEY PLACE, DUKE STREET, BURY, BL9 0EJ ProQA Overridden - SUSPECTED BOMB GRD 380352 410412<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   20:51-68 4935<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:51-33 Please call Surgical Step down unit on 31314.
-POCSAG1200: Address:   91802  Function: 2 
-POCSAG1200: Address:  433497  Function: 1 
-POCSAG1200: Address:  801457  Function: 1 
-POCSAG1200: Address: 1345576  Function: 3 
-POCSAG1200: Address:  536104  Function: 1 
-POCSAG1200: Address: 1650303  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1705174  Function: 3  Alpha:   gfF$*
-POCSAG1200: Address:  625941  Function: 3  Alpha:   Z(
-POCSAG1200: Address:  535364  Function: 0 
-POCSAG1200: Address: 1650028  Function: 0 
-POCSAG1200: Address:  195019  Function: 0  Alpha:   SI
-POCSAG1200: Address:  598538  Function: 1 
-POCSAG1200: Address:  255402  Function: 2 
-POCSAG1200: Address: 1730601  Function: 2 
-POCSAG1200: Address: 1584337  Function: 0 
-POCSAG1200: Address: 1599208  Function: 0 
-POCSAG1200: Address:   85559  Function: 0  Alpha:   O%($P
-POCSAG1200: Address: 1674655  Function: 0 
-POCSAG1200: Address:  682006  Function: 3 
-POCSAG1200: Address: 1355030  Function: 2 
-POCSAG1200: Address:  563773  Function: 1 
-POCSAG1200: Address: 1584757  Function: 1 
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   20:50-91 PROBLEM: Windows - Drive: C is CRITICAL on host BOOPENLVDA01MC1, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host BOOPENLVDA01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: BOOPENLVDA01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.75.99<CR><LF>Host Group Hierarchy: <CR><LF>St<NUL><NUL>
-POCSAG2400: Address: 1593607  Function: 3  Alpha:   g<DC2>
-POCSAG2400: Address:  964631  Function: 2 
-POCSAG2400: Address: 1847725  Function: 3 
-POCSAG2400: Address: 1741188  Function: 3  Alpha:   01
-POCSAG2400: Address: 1143396  Function: 3 
-POCSAG2400: Address:  328314  Function: 2 
-POCSAG2400: Address: 1815167  Function: 3  Alpha:   ><US>G3<HT>
-POCSAG2400: Address: 1292181  Function: 3  Alpha:   ce<SUB> W
