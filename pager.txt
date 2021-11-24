@@ -1,3 +1,27 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2248241121+++TIME=2248241121<NUL>
+POCSAG1200: Address: 1257544  Function: 0  Alpha:   <STX>I<DC1><SOH>e
+POCSAG1200: Address: 1671479  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address: 1815653  Function: 1  Alpha:   f<SYN>6<ACK>$N&<BS>
+POCSAG1200: Address:  734811  Function: 3 
+POCSAG1200: Address:  858130  Function: 0  Alpha:   LL
+POCSAG1200: Address: 1337561  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address:   41432  Function: 2  Alpha:   22:46-50 24/11/2021 22:40:57 INC 24716592 21D04M 405 ROSSENDALE ROAD, BURNLEY, BB11 5HP Female 30Y COPD - ASTHMA - NOT WELL GRD 382920 430882<NUL>
+POCSAG1200: Address:   29894  Function: 1 
+POCSAG1200: Address: 1922789  Function: 0  Alpha:   WH
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   22:46-05 24/11/2021 20:34:50 INC 24716135 25B03 186 HOLLIN LANE, HOPWOOD MANCHESTER, M24 5LD Male"53Y ProQA Overridden - Call Escalated - SUICIDAL GRD 386610 407272<NUL>
+POCSAG1200: Address: 1312601  Function: 2  Alpha:   22:45-77 PLEASE RING CAMBERLEY THANK YOU <NUL>
+POCSAG1200: Address:   91676  Function: 1 
+POCSAG1200: Address: 1542056  Function: 3  Alpha:   4<DEL>;<DLE>t29P
+POCSAG1200: Address: 1526807  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address:  792183  Function: 0 
+POCSAG1200: Address:  771884  Function: 1 
+POCSAG1200: Address:  368316  Function: 0 
+POCSAG1200: Address: 1733843  Function: 3 
+POCSAG1200: Address: 1912915  Function: 0 
+POCSAG1200: Address:  859303  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address:  283949  Function: 1 
+POCSAG1200: Address:  325962  Function: 1  Alpha:   LT
+POCSAG1200: Address:  661129  Function: 1  Alpha:   <DC4>h
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2243241121+++TIME=2243241121<NUL>
 POCSAG2400: Address:  149253  Function: 2  Alpha:   22:43-20 03003000044
 POCSAG2400: Address: 1008210  Function: 2  Alpha:   22:43-31 03003000044
@@ -974,27 +998,3 @@ POCSAG2400: Address: 1324067  Function: 2  Alpha:   20:23-90 SEL 111 is in CAS E
 POCSAG2400: Address: 1022634  Function: 2  Alpha:   20:23-66 147<NUL><NUL>
 POCSAG1200: Address: 1917119  Function: 2  Alpha:   20:23-44 SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
 POCSAG1200: Address:  351024  Function: 2  Alpha:   SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
-POCSAG2400: Address: 1848053  Function: 2  Alpha:   ~v
-POCSAG2400: Address:  773642  Function: 1 
-POCSAG2400: Address:  858130  Function: 3 
-POCSAG2400: Address: 1464865  Function: 2  Alpha:   <EOT><LF>
-POCSAG2400: Address:  635736  Function: 0  Alpha:   hr
-POCSAG2400: Address: 1246815  Function: 3  Alpha:   O%
-POCSAG2400: Address:  721584  Function: 0 
-POCSAG2400: Address: 1259023  Function: 0  Alpha:   3<HT>
-POCSAG2400: Address:  534738  Function: 2 
-POCSAG2400: Address: 1413889  Function: 1  Alpha:   &<VT>
-POCSAG2400: Address:  255728  Function: 1 
-POCSAG2400: Address: 1246808  Function: 3 
-POCSAG2400: Address:  555599  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1900551  Function: 0 
-POCSAG2400: Address:  176774  Function: 2 
-POCSAG2400: Address:  313389  Function: 2  Alpha:   <HT>>
-POCSAG2400: Address: 1060021  Function: 3 
-POCSAG2400: Address: 1852940  Function: 2 
-POCSAG2400: Address: 1330700  Function: 2 
-POCSAG2400: Address: 1324028  Function: 2  Alpha:   20:22-97 SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324026  Function: 2  Alpha:   20:22-91 SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   20:22-44 SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324023  Function: 2  Alpha:   20:22-35 SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG1200: Address:  354249  Function: 2  Alpha:   SEL 111 is in CAS Escalation - Level 4 - For info only. 02082536951/07557565895. SEL Ops MB.<NUL><NUL>
