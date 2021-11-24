@@ -1,3 +1,47 @@
+POCSAG2400: Address: 1814997  Function: 0  Alpha:   14:44-17 adult trauma and e resus eta now<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:44-86 2317<NUL>
+POCSAG2400: Address: 1323879  Function: 2  Alpha:   14:44-91 2111<NUL>
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   14:44-68 3104<NUL>
+POCSAG2400: Address: 1913961  Function: 2  Alpha:   14:44-28 2581<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443241121+++TIME=1443241121<NUL>
+POCSAG2400: Address: 1913873  Function: 2  Alpha:   14:43-44 5342<NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   14:43-18 adult trauma a and e resus eta now<NUL><NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   14:42-70 4155<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   14:42-54 24/11/2021 14:40:47 INC 24714648 06E01 8 HURST GREEN, MAWDESLEY ORMSKIRK, L40 2QT Male 85Y NOT RESPONSIVE NOT BREATHING VERY WELL GRD 349301 415056<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913864  Function: 2  Alpha:   14:41-68 5202<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:40-50 5531<NUL>
+POCSAG1200: Address: 1072715  Function: 0 
+POCSAG1200: Address:  359650  Function: 1 
+POCSAG1200: Address:   97538  Function: 2 
+POCSAG1200: Address:  349057  Function: 3 
+POCSAG1200: Address: 1994992  Function: 0  Alpha:   &<SI>fv<STX>
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
+POCSAG2400: Address:  930506  Function: 2  Alpha:   14:40-30 PLEASE CALL EXT: 4902,  URGENT
+POCSAG1200: Address: 1652804  Function: 0 
+POCSAG1200: Address: 1067416  Function: 1  Alpha:   1<SOH>
+POCSAG1200: Address: 1530149  Function: 2  Alpha:   d|<FS>m,<EOT>-<EOT>b<STX>2`<FF>$?<SYN>!
+POCSAG1200: Address: 1769995  Function: 3 
+POCSAG1200: Address: 1469851  Function: 1 
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1529909  Function: 0  Alpha:   $Md<t
+POCSAG1200: Address: 1254981  Function: 0 
+POCSAG1200: Address:   45252  Function: 0 
+POCSAG1200: Address: 1216820  Function: 3 
+POCSAG1200: Address: 1551506  Function: 3  Alpha:   :<BS><HT>x<EM>
+POCSAG1200: Address:  361306  Function: 1  Alpha:   np
+POCSAG1200: Address: 1860985  Function: 0  Alpha:   <CAN><SUB>
+POCSAG1200: Address: 1581606  Function: 0  Alpha:   <RS>L<SO><EOT><GS><<SO>$\\l<CR><EOT><GS>M<SO>$<FS><SI>4<FS>,<SO>t(J<BS>4<ACK>'<ACK>w<ACK><BEL>D<ACK><ACK>6<SYN>6<ACK><NUL>
+POCSAG2400: Address: 1913740  Function: 2  Alpha:   14:39-34 4269<NUL>
+POCSAG2400: Address:  115588  Function: 2 
+POCSAG2400: Address:   98308  Function: 1 
+POCSAG2400: Address: 1098047  Function: 1  Alpha:   <CAN><SUB>}g<DC2>
+POCSAG2400: Address: 1141957  Function: 1  Alpha:   ;<ETX>`+da<NAK>r
+POCSAG1200: Address:  198348  Function: 2 
+POCSAG1200: Address:  918619  Function: 0 
+POCSAG1200: Address:  801715  Function: 0 
+POCSAG1200: Address:  548165  Function: 2  Alpha:   14:39-39 252<NUL><NUL>
 POCSAG2400: Address: 1913970  Function: 2  Alpha:   14:39-17 4268<NUL>
 POCSAG1200: Address: 1783648  Function: 1 
 POCSAG1200: Address:  401944  Function: 3 
@@ -954,47 +998,3 @@ POCSAG1200: Address:  202285  Function: 3
 POCSAG1200: Address: 1442908  Function: 1 
 POCSAG1200: Address:  676387  Function: 1 
 POCSAG1200: Address: 1482700  Function: 2  Alpha:   12:21-94 Wed Nov 24 12:21:28 UTC 2021 -- PROBLEM : mgmt1-stj st0.0 on mgmt1-stj is CRITICAL (CRITICAL: Interface st0.0 (index 552) is down.)
-POCSAG1200: Address: 1032180  Function: 3  Alpha:   e`
-POCSAG1200: Address:  548156  Function: 2  Alpha:   12:19-41 Destination: BCM\D25 North\01, Booking Ref#: SHP21110238, Vehicle: ND68WLX. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><NUL><NUL>
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   12:19-17 2993<NUL>
-POCSAG1200: Address: 1560621  Function: 3  Alpha:   U2
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1218241121+++TIME=1218241121<NUL>
-POCSAG1200: Address:  625978  Function: 1  Alpha:   <GS>L
-POCSAG1200: Address: 1530470  Function: 3 
-POCSAG1200: Address: 1134413  Function: 0  Alpha:   rf
-POCSAG1200: Address: 1170109  Function: 0  Alpha:   <CAN><EM>
-POCSAG1200: Address: 1841156  Function: 1 
-POCSAG1200: Address: 1651940  Function: 0 
-POCSAG1200: Address: 1686346  Function: 3  Alpha:   pfp@h
-POCSAG1200: Address: 1216770  Function: 2 
-POCSAG1200: Address: 1519065  Function: 2  Alpha:   <EM>h
-POCSAG1200: Address: 2045997  Function: 0  Alpha:   l^,<RS><DEL>
-POCSAG1200: Address: 1686116  Function: 2 
-POCSAG1200: Address: 1681027  Function: 0  Alpha:   hC
-POCSAG1200: Address: 1803882  Function: 3  Alpha:   2P
-POCSAG1200: Address:  312986  Function: 2 
-POCSAG1200: Address: 1739281  Function: 0 
-POCSAG1200: Address: 1115155  Function: 2 
-POCSAG1200: Address: 1445144  Function: 0  Alpha:   <SUB><DLE>
-POCSAG1200: Address: 1349438  Function: 1 
-POCSAG1200: Address: 1153837  Function: 3  Alpha:   jr
-POCSAG2400: Address: 1913933  Function: 2  Alpha:   12:17-61 3254<NUL>
-POCSAG2400: Address: 2011890  Function: 0 
-POCSAG1200: Address: 1397120  Function: 1  Alpha:   &k
-POCSAG1200: Address:  862793  Function: 1 
-POCSAG1200: Address: 1162075  Function: 0  Alpha:   |z
-POCSAG1200: Address:  420271  Function: 2  Alpha:   12:17-57 5<NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   12:17-63 2183<NUL>
-POCSAG1200: Address: 1683988  Function: 0  Alpha:   !<CR><CR>LL
-POCSAG1200: Address:  131075  Function: 0  Alpha:   WH<ETX>GX
-POCSAG1200: Address:  282210  Function: 3 
-POCSAG1200: Address:  101241  Function: 0  Alpha:   d``d@
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   12:17-41 62849
-POCSAG2400: Address:   11767  Function: 0  Alpha:   12:16-04 DR PLEASE CALL  NESSRINE 2101 REGARDING A PATIENT THAT WAS SEEN THIS MORNING -ISSUE REGARDING THE WARFARIN PRESCRIPTION <NUL><NUL>
-POCSAG2400: Address: 1793034  Function: 1 
-POCSAG2400: Address: 1156736  Function: 1 
-POCSAG2400: Address:   47911  Function: 3  Alpha:   O%
-POCSAG2400: Address:  690397  Function: 0  Alpha:   HZ(J<ENQ>D<BS>+
-POCSAG2400: Address:  840517  Function: 0 
-POCSAG2400: Address: 1072484  Function: 0 
-POCSAG2400: Address:  690394  Function: 0  Alpha:   HZ(J<ENQ><EOT><ACK><DC4>1Y<CAN>
