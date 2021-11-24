@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:19-04 4373<NUL>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   &<STX>
+POCSAG2400: Address:  549136  Function: 2  Alpha:   10:18-76 73338
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1018241121+++TIME=1018241121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1018241121+++TIME=1018241121<NUL>
+POCSAG1200: Address: 1746665  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   10:18-97 24/11/2021 10:15:08 INC 24713492 31D01 10 CORONATION ROAD, LYDIATE L31, L31 2NQ Male 72Y NEAR FAINTING GRD 337468 403268<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:17-50 4769<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:17-49 4555<NUL>
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   10:17-59 2233<NUL>
+POCSAG1200: Address: 1534282  Function: 2  Alpha:   10:17-79 (1/4)025437-24112021; A1 Alarm Commerial/Industrial BC3; QUOB PARK,TITCHFIELD LANE,WICKHAM,PO17 5PG; 455416,111008;<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:17-48 4283<NUL>
+POCSAG2400: Address: 1913679  Function: 2  Alpha:   10:16-58 2427<NUL>
+POCSAG1200: Address: 1661176  Function: 0  Alpha:   Ge
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1812471  Function: 2  Alpha:   A<EM>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:16-25 5202<NUL>
+POCSAG1200: Address:  216726  Function: 2  Alpha:   10:14-19 Test for Harriett. Please call to confirm. <NUL><NUL>
 POCSAG2400: Address:   28869  Function: 0  Alpha:   10:14-63 CALLING TO REFER A PATIENT -DR ANIF ON 07943 434 315 
 POCSAG2400: Address:   28869  Function: 0  Alpha:   10:14-62 PLEASE CALL UMAIR EXT: 28682
 POCSAG1200: Address:  585540  Function: 2  Alpha:   10:13-28 6945<NUL>
@@ -980,21 +998,3 @@ POCSAG2400: Address: 1321073  Function: 2  Alpha:   08:41-42 2427<NUL>
 POCSAG2400: Address: 1913810  Function: 2  Alpha:   08:40-99 2447<NUL>
 POCSAG2400: Address: 1913536  Function: 2  Alpha:   08:40-93 3255<NUL>
 POCSAG1200: Address: 1258904  Function: 2  Alpha:   08:38-13 2201<NUL>
-POCSAG1200: Address:  858419  Function: 2 
-POCSAG1200: Address: 2028151  Function: 2 
-POCSAG1200: Address: 1454711  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  296459  Function: 1  Alpha:   <DC4><NAK>31<SYN>
-POCSAG2400: Address: 1127206  Function: 2 
-POCSAG2400: Address: 1486109  Function: 0  Alpha:   h<HT>
-POCSAG2400: Address:  594005  Function: 0 
-POCSAG2400: Address: 1127524  Function: 1 
-POCSAG2400: Address: 1510619  Function: 0 
-POCSAG2400: Address: 1056932  Function: 1  Alpha:   .<SO>
-POCSAG2400: Address: 1582683  Function: 3 
-POCSAG2400: Address:  140264  Function: 2 
-POCSAG2400: Address: 1757445  Function: 2 
-POCSAG2400: Address: 1749025  Function: 1 
-POCSAG2400: Address:  561683  Function: 0  Alpha:   $<EOT><LF>--,t<EOT>*dLT<CR><DC4>,$E<EOT><STX>",<ACK>'<BEL>Jt$-t<FS>M4-<EOT><SUB><FF><DC4>-<EOT>r<STX><DC2>-><SO><SYN>'<RS><BEL>"|v~<SYN><BEL><DC2>-6.<SYN><ETB><SI>f<ACK>bLv.
-POCSAG2400: Address: 1618533  Function: 3 
-POCSAG2400: Address: 1075405  Function: 3 
