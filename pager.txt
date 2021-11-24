@@ -1,3 +1,26 @@
+POCSAG1200: Address:  269354  Function: 3  Alpha:   FF
+POCSAG1200: Address:  649969  Function: 2  Alpha:   16:34-44 62482
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:34-58 62482
+POCSAG1200: Address:  679608  Function: 2  Alpha:   16:34-28 62482
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1633241121+++TIME=1633241121<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   16:33-41 24/11/2021 16:31:35 INC 24715135 17D04 68 MILFORD DRIVM<9LEVENSHULME MANCHESTER, M19 2RZ Male 57Y FALLEN GRD 388160 393267
+POCSAG1200: Address:  695397  Function: 2  Alpha:   16:33-62 24/11/2021 16:31:29 INC 24715134 17D02 183 MANCHESTER ROAD, ACCRINGTON, BB5 2PF Female 46Y IN AND OUT, NOISY BREATHING, FALLEN GRD 376758 427431<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   16:32-59 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address: 1067526  Function: 2  Alpha:   16:32-20 Please call Dr Patton from Royal surrey on 07725313548<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  325898  Function: 3  Alpha:   &<LF>
+POCSAG2400: Address: 1942388  Function: 0 
+POCSAG2400: Address: 1594968  Function: 2  Alpha:   16:29-13 INC ALERT No: 16819810 Tr
+POCSAG2400: Address: 1705249  Function: 0 
+POCSAG2400: Address:  866249  Function: 2 
+POCSAG2400: Address: 1059616  Function: 3  Alpha:   <STX>*
+POCSAG2400: Address: 1843375  Function: 0  Alpha:   g<DC2>
+POCSAG2400: Address:   37527  Function: 2 
+POCSAG2400: Address: 1275486  Function: 1  Alpha:   9P
+POCSAG2400: Address:  772074  Function: 0 
+POCSAG2400: Address:  445849  Function: 2 
 POCSAG1200: Address: 1259126  Function: 2  Alpha:   16:29-88 24/11/2021 16:27:50 INC 2
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  421055  Function: 3 
@@ -975,26 +998,3 @@ POCSAG1200: Address:  149135  Function: 2  Alpha:   14:14-49 please ring alice s
 POCSAG1200: Address:   80174  Function: 3  Alpha:   <DC2>C@<VT>L
 POCSAG1200: Address: 1092762  Function: 2  Alpha:   14:14-10 24/11/2021 14:13:45 INC 24714522 31E01 5 HARTLEY ROAD, BIRKDALE SOUTHPORT PR8, PR8 4SA Female 86Y FUNNY TURN - JUST ABOUT BREATHING GRD 332874 414906<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1413241121+++TIME=1413241121<NUL>
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   14:13-68 2195<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1413241121+++TIME=1413241121<NUL>
-POCSAG1200: Address:       3  Function: 0 
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   14:13-34 2561<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:13-71 4163<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   14:12-76 5013<NUL>
-POCSAG1200: Address:  585538  Function: 2  Alpha:   14:12-87 5<NUL>
-POCSAG2400: Address: 1913799  Function: 2  Alpha:   14:11-09 5013<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   14:10-83 2317<NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <ACK>R
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   14:10-66 3105<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   14:10-39 5013<NUL>
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   14:09-26 5076<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:09-70 4858<NUL>
-POCSAG1200: Address:  619021  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1032928  Function: 0 
-POCSAG1200: Address: 1709216  Function: 2  Alpha:   Y@<EOT><EM><ETX><BEL><ETB>!<US><US><EM>Y@<FF>3g@r<EOT>+A<FF>K[CYKAd`2A<BS><DC3>553
-POCSAG1200: Address:  280138  Function: 1  Alpha:   V6
-POCSAG2400: Address:   28907  Function: 0  Alpha:   14:09-37 5202<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1408241121+++TIME=1408241121<NUL>
-POCSAG1200: Address:  535366  Function: 2 
-POCSAG1200: Address:  588661  Function: 1  Alpha:   or0DO
-POCSAG1200: Address:  144396  Function: 0 
