@@ -1,3 +1,52 @@
+POCSAG1200: Address:  699408  Function: 3 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>!
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1053241121+++TIME=1053241121<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   10:53-07 24/11/2021 10:50:50 INC 24713645 29D03 ON WELSH ROAD NEAR TO, WOODBANK FARM, WELSH ROAD, WOODBANK, CH1 6HU Male 32Y MALE - RTC 1 VEH HIT LAMP POST GRD 334172 371837<NUL>
+POCSAG1200: Address:  549919  Function: 2  Alpha:   10:53-84 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG2400: Address: 1913959  Function: 2  Alpha:   10:53-61 4374<NUL>
+POCSAG2400: Address: 1323652  Function: 2  Alpha:   10:53-62 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG2400: Address: 1324680  Function: 2  Alpha:   10:53-57 PLEASE CALL CONNOR TEL:0771562710r $
+POCSAG2400: Address: 1324679  Function: 2  Alpha:   10:53-58 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG1200: Address:  550000  Function: 2  Alpha:   10:53-99 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG1200: Address: 1710166  Function: 2  Alpha:   10:53-14 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG1200: Address:  154212  Function: 2  Alpha:   10:53-61 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG1200: Address:   40996  Function: 2  Alpha:   10:53-75 PLEASE CALL CONNOR TEL:07715627102<NUL><NUL>
+POCSAG512: Address: 1424184  Function: 3 
+POCSAG2400: Address: 1913870  Function: 2  Alpha:   10:52-67 4555<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:52-07 2300<NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:52-69 4172<NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   10:52-92 80981
+POCSAG1200: Address:  183359  Function: 0  Alpha:   O%(-<SO>
+POCSAG1200: Address: 1750126  Function: 1  Alpha:   F<SYN>
+POCSAG1200: Address: 1072213  Function: 0  Alpha:   <DC2><STX>
+POCSAG1200: Address:  835852  Function: 0  Alpha:   SE
+POCSAG1200: Address:  395859  Function: 0  Alpha:   <EM><VT>4xI
+POCSAG1200: Address: 1058610  Function: 2 
+POCSAG1200: Address: 1220778  Function: 3 
+POCSAG1200: Address:  688881  Function: 0  Alpha:   F 
+POCSAG1200: Address:  193360  Function: 2 
+POCSAG1200: Address: 1415271  Function: 2  Alpha:   .<ACK>rg<DC2>TUe
+POCSAG1200: Address:   95621  Function: 0  Alpha:   8 6PG
+POCSAG1200: Address:   72813  Function: 0 
+POCSAG1200: Address: 1530147  Function: 2 
+POCSAG1200: Address: 1222275  Function: 0 
+POCSAG1200: Address: 1058614  Function: 2 
+POCSAG1200: Address: 1220782  Function: 3 
+POCSAG1200: Address:  688885  Function: 0  Alpha:   F 
+POCSAG1200: Address:  193364  Function: 2 
+POCSAG1200: Address: 1546435  Function: 2  Alpha:   .<ACK>2+K
+POCSAG1200: Address:  658344  Function: 3 
+POCSAG1200: Address:  380184  Function: 3 
+POCSAG1200: Address: 2045064  Function: 1 
+POCSAG2400: Address: 1323896  Function: 2  Alpha:   10:51-62 4269<NUL>
+POCSAG1200: Address:  135483  Function: 2  Alpha:   10:50-10 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
+POCSAG1200: Address: 1322003  Function: 2  Alpha:   10:50-33 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
+POCSAG1200: Address:  428412  Function: 2  Alpha:   10:50-03 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford an<ENQ>pSt Peters Hospitals)
+POCSAG2400: Address: 1541714  Function: 0 
+POCSAG1200: Address: 1032702  Function: 3  Alpha:   <DC2>C<CR>DL
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   10:49-33 4269<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:49-06 4201<NUL>
 POCSAG2400: Address: 1320359  Function: 2  Alpha:   10:49-35 4550<NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>!
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1048241121+++TIME=1048241121<NUL>
@@ -949,52 +998,3 @@ POCSAG1200: Address: 1067109  Function: 0
 POCSAG1200: Address:   92172  Function: 1 
 POCSAG1200: Address:  602218  Function: 2  Alpha:   <ENQ>Vv5<DLE>G<ACK><ACK>
 POCSAG1200: Address:  537708  Function: 0 
-POCSAG1200: Address:  610595  Function: 0 
-POCSAG1200: Address:  433020  Function: 2  Alpha:   09:12-58 PLEASE CALL
-POCSAG1200: Address: 1090518  Function: 2  Alpha:   09:12-53 PLEASE CALL HUB OPERATIONS RE DONOR 153080 20/05/1950 RUH BATH 01179757580<NUL><NUL>
-POCSAG1200: Address: 1318707  Function: 2  Alpha:   09:12-58 PLEASE CALL HUB OPERATIONS RE DONOR 153080 20/05/1950 RUH BATH 01179757580<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  314589  Function: 2  Alpha:   09:11-54 3510<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:11-15 5897<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   09:11-78 PLEASE CALL ALI JALIL EXT: 7238123 - WILLIAM HARVEY. 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>@
-POCSAG1200: Address:  581377  Function: 3 
-POCSAG1200: Address:  528183  Function: 0 
-POCSAG1200: Address:  420614  Function: 0  Alpha:   p&
-POCSAG1200: Address: 1713483  Function: 3 
-POCSAG1200: Address: 1213130  Function: 0  Alpha:   TR
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   09:10
-POCSAG1200: Address:  600597  Function: 0  Alpha:   09:09-81 PLEASE CALL 07309 115 946 <NUL><NUL>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:07-69 3255<NUL>
-POCSAG1200: Address: 1312587  Function: 2  Alpha:   09:07-53 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312649  Function: 2  Alpha:   09:07-91 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312595  Function: 2  Alpha:   09:07-61 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address:  778852  Function: 0 
-POCSAG1200: Address:  216725  Function: 2  Alpha:   09:07-58 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312586  Function: 2  Alpha:   09:07-03 (2/2) DANN - 
-POCSAG1200: Address: 1483265  Function: 2  Alpha:   09:07-26 Alarm#31986 09:07 Error=1 Late=0, <CR><LF>FTPSpooler-Requests [Error]<CR><LF>----------------<CR><LF>FTPSpooler-Requests: Request failure:Put failQ<DC2>)
-POCSAG1200: Address: 1312583  Function: 2  Alpha:   09:07-76 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0908241121+++TIME=0908241121<NUL>
-POCSAG1200: Address: 1594913  Function: 2  Alpha:   09:07-34 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312591  Function: 2  Alpha:   09:07-67 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312611  Function: 2  Alpha:   09:07-91 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312592  Function: 2  Alpha:   09:07-23 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312573  Function: 2  Alpha:   09:07-57 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1594912  Function: 2  Alpha:   09:07-03 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address:   47355  Function: 0 
-POCSAG1200: Address: 1435338  Function: 0 
-POCSAG1200: Address:   88579  Function: 3 
-POCSAG1200: Address:  354322  Function: 0  Alpha:   1r
-POCSAG1200: Address: 1843833  Function: 2 
-POCSAG1200: Address: 1312580  Function: 2  Alpha:   09:07-51 (2/2) DANN - CDA - SC COPPARD.
-POCSAG1200: Address: 1312566  Function: 2  Alpha:   09:07-14 (1/2) NOTIFY - GOOD MORNING, PLEASE SEE ALL ON DUTY OFFICERS FOW<BS>VODAY. 24.11.21 - DPO - ACFO CHILDS - DGC & NILO - GC ALBON - DSC - SC SCHOOLING - FIO - WC
-POCSAG1200: Address:  853355  Function: 2 
-POCSAG1200: Address:  128688  Function: 1 
-POCSAG1200: Address:  216671  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1862239  Function: 0 
-POCSAG1200: Address: 1929350  Function: 1  Alpha:   WH
-POCSAG1200: Address:   88581  Function: 3 
-POCSAG1200: Address:  354324  Function: 0  Alpha:   1r
-POCSAG1200: Address:  133525  Function: 1 
-POCSAG1200: Address:  560925  Function: 2 
-POCSAG1200: Address:   88576  Function: 3 
