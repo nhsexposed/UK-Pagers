@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2013241121+++TIME=2013241121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2013241121+++TIME=2013241121<NUL>
+POCSAG2400: Address: 1022481  Function: 0  Alpha:   20:13-16 Exercise Complete - Please Switch off ESDBs<NUL><NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   20:13-38 3508<NUL>
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   20:12-83 200 Stand Down - Exercise Over
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   20:12-99 200 Stand Down - Exercise Over
+POCSAG2400: Address: 1802332  Function: 0 
+POCSAG2400: Address: 1514586  Function: 3 
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   20:12-22 200 Stand Dow.-<SOH><EOT>h'
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   20:12-50 200 Stand Down - Exercise Over
+POCSAG512: Address:  704753  Function: 0 
+POCSAG512: Address: 1722969  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28907  Function: 0  Alpha:   20:12-62 4179<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   20:10-00 4157<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   20:10-43 24/11/2021 20:07:20 INC 24716030 02C02 18 KESTREL DRIVE, FERNGROVE BURY, BL9 6JE Female 34Y GOES DIZZY WHEN SHE STANDS UP - VOMITTING GRD 381720 41171
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX>%
+POCSAG2400: Address:   28895  Function: 0  Alpha:   20:09-87 2183<NUL>
+POCSAG2400: Address: 1022623  Function: 2  Alpha:   20:09-46 147<NUL><NUL>
+POCSAG1200: Address:  931658  Function: 2  Alpha:   20:09-33 31081
 POCSAG2400: Address:  100188  Function: 0  Alpha:   lf
 POCSAG1200: Address: 1549434  Function: 2  Alpha:   <RS><US>Ov"77<RS><RS>wz<SYN>?v(_~
 POCSAG1200: Address:  735048  Function: 2 
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1075975  Function: 2  Alpha:   `@^Y<EOT>
 POCSAG1200: Address: 1280134  Function: 2  Alpha:   f<SUB>
 POCSAG1200: Address: 1770061  Function: 2 
 POCSAG1200: Address: 1469725  Function: 1 
-POCSAG1200: Address:  398020  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  433150  Function: 2  Alpha:   18:30-60
-POCSAG1200: Address:  432578  Function: 2  Alpha:   24/11/2021 18:29:07 INC 24715616 29D02M A580 ON THE JUNCTION OF, 41 MURIEL STREET, WALTON L4, L4 5SB Male 35Y VEH VS PEDESTRIAN GRD 336099 393958
-POCSAG1200: Address:  696118  Function: 2  Alpha:   18:29-73 33844
-POCSAG2400: Address: 1814997  Function: 0  Alpha:   18:29-18 Adult trauma A&E resus ETA 10 minutes.<NUL>
-POCSAG2400: Address:   28904  Function: 0  Alpha:   18:28-30 4971<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1828241121+++TIME=1828241121<NUL>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   18:28-62 69001
-POCSAG1200: Address:  649969  Function: 2  Alpha:   18:28-48 69001
-POCSAG2400: Address:   67484  Function: 0  Alpha:   <CAN><FS>
-POCSAG2400: Address:  514997  Function: 1  Alpha:   .~
-POCSAG2400: Address: 1683549  Function: 0 
-POCSAG2400: Address: 1668343  Function: 0  Alpha:   3<HT>
-POCSAG2400: Address: 1594968  Function: 2  Alpha:   18:27-15 log 0183 - RTC Rollover entrapment.  LAUNCESTON. If anyone can assist please call Control<NUL><NUL>
-POCSAG2400: Address: 1324551  Function: 2  Alpha:   18:27-73 log 0183 - RTC Rollover entrapment.  LAUNCESTON. If anyone can assist please call Control<NUL><NUL>
-POCSAG2400: Address: 1324542  Function: 2  Alpha:   18:27-54 log 0183 - RTC Rollover entrapment.  LAUNCESTON. If anyone can assist please call Control<NUL><NUL>
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   18:27-35 log 0183 - RTC Rollover entrapment.  LAUNCESTON. If anyone can assist please call Control<NUL><NUL>
-POCSAG2400: Address: 1324541  Function: 2  Alpha:   18:27-87 log 0183 - RTC Rollover entrapment.  LAUNCESTON. If anyone can assist please call Control<NUL><NUL>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   18:27-00 log 0183 - RTC Rollover entrapment.  LAUNCESTON. If anyone can assist please call CO<SO>trol<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   18:27-54 4166<NUL>
