@@ -1,3 +1,32 @@
+POCSAG1200: Address: 1001127  Function: 2  Alpha:   15:29-32 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
+POCSAG1200: Address: 1312437  Function: 2  Alpha:   15:29-36 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   F<DLE>
+POCSAG1200: Address: 1312441  Function: 2  Alpha:   15:29-98 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   15:29-17 3240<NUL>
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   15:29-20 Adult cardiac arrest, Tayberry ward at 14.20- NUH<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +<VT>3TIME=1528241121+++TIME=1528241121<NUL>
+POCSAG2400: Address:  892048  Function: 2 
+POCSAG1200: Address: 1509924  Function: 2  Alpha:   15:28-75 2141<NUL>
+POCSAG1200: Address:  216464  Function: 2  Alpha:   15:28-71 3470<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   15:27-25 4554<NUL>
+POCSAG1200: Address:  845184  Function: 0 
+POCSAG1200: Address: 1088904  Function: 0 
+POCSAG1200: Address: 1092709  Function: 2  Alpha:   15:27-51 24/11/2021 15:26:47 INC 24714869 06D01 19 WEST END AVENUE, COPPULL, PR7 5DB Male 79Y BREATHING PROBLEMS GRD 355779 414087<NUL>
+POCSAG1200: Address: 1377623  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   15:26-14 5002<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:26-55 3164<NUL>
+POCSAG2400: Address: 1913870  Function: 2  Alpha:   15:26-72 4554<NUL>
+POCSAG2400: Address: 1499824  Function: 2 
+POCSAG1200: Address: 2040440  Function: 0 
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   F0
+POCSAG1200: Address:  230853  Function: 3  Alpha:   VD
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   15:25-26 3508<NUL>
+POCSAG2400: Address: 1261686  Function: 2  Alpha:   15:25-50 141<NUL><NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1914934  Function: 0 
+POCSAG1200: Address:  737667  Function: 1  Alpha:   ; <DC4>26(10$20
+POCSAG1200: Address: 2074229  Function: 2 
 POCSAG2400: Address:  300760  Function: 2 
 POCSAG2400: Address:   28907  Function: 0  Alpha:   15:23-46 4167<NUL>
 POCSAG2400: Address: 1913570  Function: 2  Alpha:   15:24-46 4269<NUL>
@@ -969,32 +998,3 @@ POCSAG1200: Address:   40074  Function: 2  Alpha:   13:17-70 24/11/2021 13:08:02
 POCSAG2400: Address: 1913816  Function: 2  Alpha:   13:17-38 5202<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:17-78 4316<NUL>
-POCSAG2400: Address: 1913668  Function: 2  Alpha:   13:16-58 3508<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:16-63 4316<NUL>
-POCSAG1200: Address: 2024148  Function: 0 
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   <ACK>k
-POCSAG1200: Address: 2007656  Function: 3 
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   13:16-76 5013<NUL>
-POCSAG2400: Address: 1913864  Function: 2  Alpha:   13:16-67 5205<NUL>
-POCSAG1200: Address: 2024294  Function: 1 
-POCSAG2400: Address: 1913993  Function: 2  Alpha:   13:14-66 4089<NUL>
-POCSAG1200: Address:  585053  Function: 2  Alpha:   13:13-79 01908658100
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1313241121+++TIME=1313241121<NUL>
-POCSAG1200: Address:  801653  Function: 2 
-POCSAG1200: Address: 1777820  Function: 3 
-POCSAG1200: Address:  525388  Function: 1 
-POCSAG1200: Address:  115347  Function: 3  Alpha:   gi
-POCSAG1200: Address:  197476  Function: 3  Alpha:   5<BS>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   13:13-46 24/11/2021 13:11:59 INC 24714239 09E02 35 CHISLEHURST CLOSE, ELTON BURY, BL8 2XA Male 87Y MALE COLLAPSED GRD 378686 410140
-POCSAG1200: Address:  297007  Function: 3  Alpha:   (Jhg<DC2>
-POCSAG1200: Address:  548022  Function: 3 
-POCSAG1200: Address: 1255014  Function: 1 
-POCSAG1200: Address:  853348  Function: 2  Alpha:    f"Pa
-POCSAG1200: Address:  277428  Function: 2 
-POCSAG1200: Address:  843059  Function: 1 
-POCSAG1200: Address:  535347  Function: 0 
-POCSAG1200: Address:  852545  Function: 0  Alpha:   L8<NUL>2X
-POCSAG1200: Address: 1395505  Function: 3 
-POCSAG1200: Address: 1881167  Function: 3 
-POCSAG1200: Address: 1592574  Function: 1 
-POCSAG1200: Address:  633493  Function: 2  Alpha:   )*
