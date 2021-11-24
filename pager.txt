@@ -1,3 +1,7 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403241121+++TIME=0403241121<NUL>
+POCSAG1200: Address: 1978370  Function: 1 
+POCSAG1200: Address: 1639192  Function: 1 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1740661  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358241121+++TIME=0358241121<NUL>
 POCSAG2400: Address:  216272  Function: 2  Alpha:   03:56-71 PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1, <CR><LF>PROBLEM: SQL Services is CRITICAL on host CISCMSLSQL04MC1<CR><LF>Service: SQL Services<CR><LF>Host: CISCMSLSQL04MC1<CR><LF>Alias: <CR><LF>Address: 10.0.41.9<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Date<NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG2400: Address:   94805  Function: 2
 POCSAG2400: Address: 1378641  Function: 1 
 POCSAG2400: Address: 1282361  Function: 0 
 POCSAG2400: Address:  300697  Function: 0  Alpha:   9Y
-POCSAG2400: Address: 1122152  Function: 3  Alpha:   ~<SYN>
-POCSAG2400: Address: 1115374  Function: 1 
-POCSAG2400: Address:  329109  Function: 3 
-POCSAG2400: Address:  268197  Function: 0 
