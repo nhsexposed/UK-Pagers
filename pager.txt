@@ -1,3 +1,24 @@
+POCSAG1200: Address: 1523715  Function: 3 
+POCSAG1200: Address:  337289  Function: 3 
+POCSAG1200: Address: 1712295  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1217998  Function: 1  Alpha:    A
+POCSAG1200: Address: 1117158  Function: 2 
+POCSAG1200: Address: 1837357  Function: 3 
+POCSAG1200: Address:  134556  Function: 0 
+POCSAG1200: Address:  328876  Function: 0 
+POCSAG1200: Address: 1478227  Function: 1 
+POCSAG1200: Address: 1070146  Function: 3  Alpha:   B&
+POCSAG1200: Address:  667688  Function: 1  Alpha:   <ENQ>D
+POCSAG1200: Address: 1867479  Function: 0  Alpha:   <ETB>kag<DC2>
+POCSAG1200: Address: 1824897  Function: 0 
+POCSAG1200: Address: 2017880  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0243241121+++TIME=0243241121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
+POCSAG2400: Address:   11678  Function: 0  Alpha:   02:42-31 1168, CALL BACK FROM RPA ON 01407 764 056 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   02:41-73 24/11/2021 02:40:40 INC 24712343 10D02 44 KINGS WALK, CLEVELEYS, FY5 1HZ Male 30Y DIB - CHEST PAIN GRD 331657 444296
+POCSAG1200: Address:   40089  Function: 2  Alpha:   02:41-40 24/11/2021 02:40:40 INC 24712343 10D02 44 KINGS WALK, CLEVELEYS, FY5 1HZ Male 30Y DIB - CHEST PAIN GRD 331657 444296
+POCSAG1200: Address:  214093  Function: 2  Alpha:   02:41-43 24/11/2021 02:39:59 INC 24712339 26C02 2 HYNDBURN ROAD, CHURCH NR ACCRINGTON, BB5 4AA Female 49Y FEELING SICK- SWEATING GRD 375010 428884<NUL><NUL>
 POCSAG1200: Address:  858670  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0238241121+++TIME=02382
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:37-55 5082<NUL>
@@ -977,24 +998,3 @@ POCSAG2400: Address: 1811980  Function: 1  Alpha:   73
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:   40088  Function: 2  Alpha:   21:57-44 21968
 POCSAG2400: Address: 1997579  Function: 1  Alpha:   @|
-POCSAG2400: Address:  478577  Function: 0 
-POCSAG2400: Address: 1948856  Function: 2 
-POCSAG2400: Address:  416360  Function: 0 
-POCSAG2400: Address: 1627671  Function: 3  Alpha:   O%
-POCSAG2400: Address: 1414016  Function: 2  Alpha:    &
-POCSAG2400: Address:  169551  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1994838  Function: 0  Alpha:   <RS><BEL>
-POCSAG2400: Address:  819917  Function: 0  Alpha:   erVic
-POCSAG2400: Address:  183060  Function: 2 
-POCSAG2400: Address: 1070267  Function: 3  Alpha:   <DC4>d<FF>lT
-POCSAG2400: Address: 2005728  Function: 0 
-POCSAG2400: Address: 1265422  Function: 2 
-POCSAG2400: Address:  271965  Function: 2 
-POCSAG2400: Address: 1512700  Function: 2  Alpha:   .<BEL>
-POCSAG2400: Address: 1948863  Function: 2 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:55-98 2233<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   21:55-77 4155<NUL>
-POCSAG1200: Address:  747084  Function: 2 
-POCSAG1200: Address:  433164  Function: 0 
-POCSAG1200: Address: 1939507  Function: 0 
-POCSAG1200: Address:  267875  Function: 0 
