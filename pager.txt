@@ -1,3 +1,24 @@
+POCSAG1200: Address: 2008657  Function: 0 
+POCSAG1200: Address:  624326  Function: 1 
+POCSAG1200: Address: 1271301  Function: 2 
+POCSAG1200: Address: 1639681  Function: 3 
+POCSAG1200: Address: 1935495  Function: 2  Alpha:   f@Rg<DC2>4 WINDMIL
+POCSAG1200: Address:  266853  Function: 1  Alpha:   v<SYN><ACK><ACK>g<ACK><BEL><DC4>
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address: 2046295  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address:   45223  Function: 2 
+POCSAG1200: Address: 1671499  Function: 0  Alpha:   @.
+POCSAG1200: Address:  918810  Function: 0  Alpha:   <EM> 
+POCSAG1200: Address:  801202  Function: 1 
+POCSAG1200: Address: 1815649  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   07:04-53 24/11/2021 07:02:46 INC 2
+POCSAG1200: Address:  413130  Function: 2  Alpha:   07:04-24 (3/3) Additional_Data Address Classification Detached <NUL><NUL>
+POCSAG1200: Address:  413130  Function: 2  Alpha:   07:04-23 (2/3) BEDROOM; Assigned: JY22P1, JX25P1, JY01P1, JYG006, JYG143; Roles    JY01P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA);
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0703241121+++TIME=0703241121<NUL>
+POCSAG2400: Address: 2005628  Function: 2 
+POCSAG1200: Address: 1817107  Function: 2  Alpha:   07:03-84 BOSS Mobile: htt
+POCSAG1200: Address: 1816661  Function: 2  Alpha:   07:02-75 (3/3) OFFICER <NUL><NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   07:01-23 5082<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0658241121+++TIME=0658241121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1008210  Function: 2  Alpha:   06:54-23 MR DIXON 01304 831 183 <NUL><NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address:  267860  Function: 1  Alpha:   <RS>ll<FF>$Z<FS>^<RS>-^L<FF>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1815006  Function: 0  Alpha:   00:46-97 12006
 POCSAG2400: Address:  584009  Function: 2  Alpha:   00:46-66 4157<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0043241121+++TIME=0043241121<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   00:43-08 4157<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:42-89 4157<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:41-13 3198<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   )<BS>
-POCSAG2400: Address: 1686142  Function: 0 
-POCSAG2400: Address:  208396  Function: 1  Alpha:   h&
-POCSAG2400: Address: 1547284  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0038241121+++TIME=0038241121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0038241121+++TIME=0038241121<NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   00:37-87 24/11/2021 00:30:46 INC 24712037 06E01E 9 LEY COURT, LANCASTER, LA1 5QG Male 74Y BREATHING PROBLEMS GRD 346936 461795<NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   00:37-43 24/11/2021 00:34:45 INC 24712052 06D02 1 SPINNEYSIDE, BETHESDA CLOSE, BLACKBURN, BB2 2NA Female 63Y ASTHMA FINDING IT HARD TO BREATH GRD 367768 427353
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  197130  Function: 2 
-POCSAG1200: Address: 1674031  Function: 2  Alpha:   O%(31
-POCSAG1200: Address:  198239  Function: 3 
-POCSAG1200: Address: 1678172  Function: 1  Alpha:   rl
-POCSAG1200: Address: 1245723  Function: 2 
-POCSAG1200: Address:   80187  Function: 1 
-POCSAG1200: Address: 1416037  Function: 2  Alpha:   pr
-POCSAG1200: Address:  557773  Function: 3 
