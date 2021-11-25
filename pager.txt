@@ -1,3 +1,31 @@
+POCSAG1200: Address: 1962757  Function: 2 
+POCSAG1200: Address:  108378  Function: 0  Alpha:   dj
+POCSAG1200: Address:  200281  Function: 2 
+POCSAG1200: Address:  867657  Function: 1 
+POCSAG1200: Address: 1414810  Function: 0 
+POCSAG1200: Address: 1477010  Function: 1 
+POCSAG1200: Address: 1945689  Function: 0 
+POCSAG1200: Address: 1666176  Function: 1  Alpha:   Le
+POCSAG1200: Address: 1914722  Function: 3 
+POCSAG1200: Address:  663167  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1914727  Function: 0 
+POCSAG1200: Address:  216754  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808251121+++TIME=0808251121<NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   08:08-68 2054<NUL>
+POCSAG1200: Address:  646500  Function: 2  Alpha:   08:08-79 25/11/2021 08:07:06 INC 24717762 10D04 174, LOWRY HILL ROAD, LOWRY HILL CARLISLE, CA3 0EZ Female 79Y F CA PAT CHEST DISCOMFORT GRD 338930 558173<NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   08:07-52 25/11/2021 08:06:50 INC 24717760 29D03 JUNCTION 6 TO 7 SOUTHBOUND, M53, CH65 1AN Unknown UnknownY 3 VEH RTC GRD 338204 378021
+POCSAG1200: Address:  428347  Function: 2  Alpha:   08:07-93 25/11/2021 08:06:50 INC 24717760 29D03 JUNCTION 6 TO 7 SOUTHBOUND, M53, CH65 1AN Unknown UnknownY 3 VEH RTC GRD 338204 378021
+POCSAG1200: Address: 1090257  Function: 2  Alpha:   08:07-89 The following resources/officers have been assigned to incident DNDN011676-24112021: DNS13 as SM from SCA(Scarborough)<NUL>
+POCSAG1200: Address: 2062182  Function: 0 
+POCSAG1200: Address:  105258  Function: 3  Alpha:   j`
+POCSAG1200: Address:  200282  Function: 2 
+POCSAG1200: Address: 1207000  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   08:4W<SI>X<ESC>xY<EOT>
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A@<BS>`L
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <BS>`L
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <BS>`L
+POCSAG2400: Address:   28908  Function: 0  Alpha:   08:05-67 5407<NUL>
 POCSAG2400: Address:  762185  Function: 3 
 POCSAG2400: Address: 1323179  Function: 2  Alpha:   08:04-41 NHSBT - DONOR REFERRAL. Please call STAFF NURSE ZOE BOAKES on Direct Dial Number 01622 224 398 Hospital MAIDSTONE HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
 POCSAG1200: Address:   40081  Function: 2  Alpha:   08:03-90 25/11/2021 08:02:14 INC 24717752 06D02 32 GORING AVENUE, GORTON MANCHESTER, M18 8WW Female 86Y DIB GRD 388568 396758
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1023350  Function: 0
 POCSAG2400: Address:  867646  Function: 3 
 POCSAG2400: Address:  266853  Function: 2 
 POCSAG2400: Address: 1508505  Function: 1 
-POCSAG2400: Address: 1568569  Function: 2 
-POCSAG2400: Address:  626776  Function: 1  Alpha:   v<ACK>
-POCSAG2400: Address: 1652839  Function: 3  Alpha:   g<DC2>
-POCSAG2400: Address: 1488917  Function: 0  Alpha:   <DLE>(j<FS>hX4<DC2>
-POCSAG2400: Address:  417405  Function: 0 
-POCSAG2400: Address: 1891377  Function: 0 
-POCSAG2400: Address: 1621872  Function: 3 
-POCSAG2400: Address:   36855  Function: 2  Alpha:   st@g<DC2><DC4>9t
-POCSAG2400: Address:  974425  Function: 2 
-POCSAG2400: Address:  772216  Function: 2 
-POCSAG2400: Address: 1897920  Function: 0 
-POCSAG2400: Address:  378173  Function: 2  Alpha:   ;<GS>
-POCSAG2400: Address: 1652835  Function: 3 
-POCSAG2400: Address: 1488913  Function: 0  Alpha:   <DLE>(j<FS>hX4<DC2>
-POCSAG2400: Address:  417400  Function: 0 
-POCSAG2400: Address:  712768  Function: 1 
-POCSAG2400: Address: 1446918  Function: 2 
-POCSAG2400: Address:  924725  Function: 3  Alpha:   ,{<CAN><FF><VT>
-POCSAG2400: Address: 1891380  Function: 0 
-POCSAG2400: Address: 1621876  Function: 3 
-POCSAG2400: Address:  216268  Function: 2  Alpha:   04:19-71 PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1<CR><LF>Service: Disk: C<CR><LF>Host: rhahoulapp03mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.94<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
-POCSAG2400: Address:  876128  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0418251121+++TIME=0418251121<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   04:17-01 25/11/2021 04:13:53 INC 24717384 10C01 34 BROOKVIEW CLOSE, BLACKBURN, BB1 9NT Female 28Y COVID / PAIN IN SHOULDER GRD 369387 431617
-POCSAG2400: Address: 1402055  Function: 0 
-POCSAG2400: Address: 1153886  Function: 0  Alpha:   h`
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413251121+++TIME=0413251121<NUL>
