@@ -1,3 +1,31 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0633251121+++TIME=0633251121<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   06:33-41 25/11/2021 06:31:55 INC-24717577 09E01 32 MEREFIELD, ASTLEY VILLAGE CHORLEY, PR7 1UR Female 52Y NOT BREATHING GRD 357087 418237<NUL>
+POCSAG1200: Address: 1680172  Function: 3  Alpha:   jj
+POCSAG1200: Address:  210523  Function: 3 
+POCSAG1200: Address: 1207001  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address:  210520  Function: 3 
+POCSAG1200: Address:  907271  Function: 0  Alpha:   B<LF>og<DC2>
+POCSAG1200: Address: 1602158  Function: 2 
+POCSAG1200: Address: 1682293  Function: 2  Alpha:   `pn@h
+POCSAG1200: Address: 1216772  Function: 2 
+POCSAG1200: Address: 1184946  Function: 3 
+POCSAG1200: Address: 2041154  Function: 0 
+POCSAG1200: Address: 1261881  Function: 1 
+POCSAG1200: Address:   87625  Function: 2 
+POCSAG1200: Address:   87626  Function: 2 
+POCSAG1200: Address: 1386528  Function: 3  Alpha:   X\=N_
+POCSAG1200: Address:  858492  Function: 0 
+POCSAG1200: Address: 1685716  Function: 2 
+POCSAG1200: Address: 1461257  Function: 2 
+POCSAG1200: Address: 1321864  Function: 2  Alpha:   06:<DC2>k
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  432245  Function: 2  Alpha:   06:32-16 PLEASE CALL DONNA ON 07530 002 458<NUL><NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   06:32-36 4183<NUL>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   06:31-31 5002<NUL>
+POCSAG2400: Address:  936945  Function: 0 
+POCSAG2400: Address:  285280  Function: 2 
+POCSAG2400: Address:   28904  Function: 0  Alpha:   06:30-35 5002<NUL>
 POCSAG1200: Address:   39634  Function: 1  Alpha:   QS
 POCSAG1200: Address:  892448  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0628251121+++TIME=0628251121<NUL>
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153251121+++TIME=01
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153251121+++TIME=0153251121<NUL>
 POCSAG1200: Address: 1500181  Function: 2  Alpha:   01:53-88 25/11/2021 01:49:54 INC 24717110 17B04A 94 LONGMEADOW ROAD, KNOWSLEY L34, L34 0HT Male 68Y FALLEN GRD 343798 395500<NUL>
 POCSAG2400: Address: 1323041  Function: 2  Alpha:   01:53-91 8259 IP2
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBB<STX> Vest message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2011891  Function: 0 
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   01:49-04 SANDRA PERRY CURRENTLY WITH CHRISTINE ALDRIDGE, 9 N=K\"fi''<DLE>(f`a"<SYN><DLE>*db,<DLE>d k"Pi "f,<DLE>h`ii""<SYN><DLE>X[\Y<EM>P<SUB><CAN><ESC><DLE><SUB>Y<CAN><DLE>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:49-58 2616<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0148251121+++TIME=0148251121<NUL>
-POCSAG1200: Address: 1483305  Function: 2  Alpha:   01:47-72 25/11/2021 01:46:45 INC 24717102 31D02 12 KINGFISHER WAY, GLOSSOP, SK13 6QA Female 1Y BABY NOT BREATHING RIGHT GRD 401793 393672
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   01:46-61 PROBLEM: herhaclrds07mc1 is DOWN, <CR><LF>PROBLEM: herhaclrds07mc1 is DOWN<CR><LF><CR><LF>Host: herhaclrds07mc1<CR><LF>Alias: <CR><LF>Address: 10.222.46.42<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > HSC-MAN > HERHAC-MAN<CR><LF>State: DOWN<CR><LF>Date & Time: Thu No<NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   01:46-86 PROBLEM: herhaclrds07mc1 is DOWN, <CR><LF>PROBLEM: herhaclrds07mc1 is DOWN<CR><LF><CR><LF>Host: herhaclrds07mc1<CR><LF>Alias: <CR><LF>Address: 10.222.46.42<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > HSC-MAN > HERHAC-MAN<CR><LF>State: DOWN<CR><LF>Date & Time: Thu No<NUL><NUL>
-POCSAG1200: Address: 1962754  Function: 2 
-POCSAG1200: Address:  371551  Function: 0  Alpha:   `f@g<DC2>
-POCSAG1200: Address:  214622  Function: 2 
-POCSAG1200: Address:  544750  Function: 1 
-POCSAG1200: Address:  210584  Function: 2 
-POCSAG1200: Address:  672791  Function: 3  Alpha:   O%(F<ACK>
-POCSAG1200: Address: 1578775  Function: 3 
-POCSAG1200: Address: 1705028  Function: 2  Alpha:   $!
-POCSAG1200: Address:  353300  Function: 3 
-POCSAG1200: Address:  548039  Function: 2  Alpha:   01:45-74 25/11/2021 01:44:09 INC 24717101 06E01 AVONDALE MENTAL HEALTHCARE CENTRE, (11) SANDSTONE DRIVE, WHISTON L35, L35 7LS Male 75Y M - DIB TEMP 39.2 GRD 348069 392250<NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   01:45-61 25/11/2021 01:44:09 INC 24717101 06E<DLE>98KVONDALE MENTAL HEALTHCARE CENTRE, (11) SANDSTONE DRIVE, WHISTON L35, L35 7LS Male 75Y M - DIB TEMP 39.2 GRD 348069 392250<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   01:45-31 25/11/2021 01:43:31 INC 24717099 17D03 THE POINT - FLAT 19, CREWE ROAD, ALSAGER, ST7 2JJ Male 57Y SLIPPED / COLLAPSED GRD 378153 354936<NUL>
-POCSAG1200: Address: 1022142  Function: 2  Alpha:   01:45-40 25/11/2021 01:43:31 INC 24717099 17D03 THE POINT - FLAT 19, CREWE ROAD, ALSAGER, ST7 2JJ Male 57Y SLIPPED / COLLAPSED GRD 378153 354936<NUL>
-POCSAG1200: Address: 1935492  Function: 2  Alpha:   f@(<DC1><VT>
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>v<ACK><SYN><BEL><BEL><DC4>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   01:44-16 2183<NUL>
-POCSAG2400: Address:   28916  Function: 0  Alpha:   01:44-29 4373<NUL>
-POCSAG1200: Address: 1032949  Function: 3  Alpha:   <EM><STX>
