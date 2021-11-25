@@ -1,3 +1,24 @@
+POCSAG1200: Address:   39634  Function: 1  Alpha:   QS
+POCSAG1200: Address:  892448  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0628251121+++TIME=0628251121<NUL>
+POCSAG1200: Address:  678610  Function: 2  Alpha:   06:28-26 PLEASE CALL HAIRMYRES HOSPITAL HELPDESK
+POCSAG1200: Address: 1022687  Function: 0  Alpha:   06:27-57 01173421902
+POCSAG2400: Address: 1043275  Function: 1 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   06:25-26 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   06:25-79 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   06:25-93 PLEASE CALL 6810 FOR REFERRAL<NUL>
+POCSAG2400: Address: 1043646  Function: 1 
+POCSAG2400: Address: 1839190  Function: 0 
+POCSAG2400: Address: 1881957  Function: 0 
+POCSAG2400: Address: 1804011  Function: 0 
+POCSAG2400: Address:  366203  Function: 0 
+POCSAG2400: Address:  445154  Function: 3 
+POCSAG2400: Address:  660274  Function: 0 
+POCSAG2400: Address: 1288961  Function: 2  Alpha:    ,
+POCSAG2400: Address:  216263  Function: 2  Alpha:   q<ESC>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   06:25-25 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   06:25-78 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  584009  Function: 2  Alpha:   06:25-77 4204<NUL>
 POCSAG2400: Address: 1323067  Function: 2  Alpha:   06:24-39 06:24-38 PLEASE CALL EASTERN SNOD GEORGE ON 07392 139 724 <NUL>
 POCSAG1200: Address:  274528  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0623251121+++TIME=0623251121<NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>v<ACK><SYN><BEL><BEL><
 POCSAG2400: Address:   28896  Function: 0  Alpha:   01:44-16 2183<NUL>
 POCSAG2400: Address:   28916  Function: 0  Alpha:   01:44-29 4373<NUL>
 POCSAG1200: Address: 1032949  Function: 3  Alpha:   <EM><STX>
-POCSAG1200: Address:  549881  Function: 2  Alpha:   01:44-35 ATTEND:<LF>SMELL OF FUMES<LF>35 LAUREL HILL GARDENS,.,COLERAINE,.<LF>0P 2T<LF>33416211<LF>C 84320 31616<LF>N2171 N2201 NO04 WO04<LF>END<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0143251121+++TIME=0143251121<NUL>
-POCSAG1200: Address: 1347552  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:41-57 3507<NUL>
-POCSAG1200: Address: 1090257  Function: 2  Alpha:   01:40-79 The following resources/officers have been assigned to incident DNDN011676-24112021: DN15C1 as ICU from NOR(Northallerton)
-POCSAG2400: Address:   28870  Function: 0  Alpha:   01:39-19 DR FROM A&E QEQM ON 725 3024 <NUL>
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   01:38-23 NHSBT - DONOR REFERRAL. Please call EMILY LUCIUS on Direct Dial Number 01204 390997 Hospital ROYAL BOLTON HOSPITAL, BOLTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0138251121+++TIME=0138251121<NUL>
-POCSAG1200: Address: 1312750  Function: 2  Alpha:   01:38-90 Huntinton FIRE CALL
-POCSAG1200: Address: 1312745  Function: 2  Alpha:   01:38-03 Huntinton FIRE CALL
-POCSAG1200: Address: 2073840  Function: 0 
-POCSAG1200: Address: 1090257  Function: 2  Alpha:   01:38-78 (2/2) PMP,PMP-TRV from MAL(Malton) DN11P1 as PMP,PMP-TRV from EAS(Easingwold) DN91P2 as PMP-TRV from HUN(Huntingto~!
-POCSAG1200: Address:  272374  Function: 2  Alpha:   01:38-01 The following resources/officers have been assigned to incident DNDN011676-24112021: DNG16 as FDS from YOR(York)<NUL>
-POCSAG1200: Address: 1312743  Function: 2  Alpha:   01:38-93 Huntinton FIRE CALL
-POCSAG1200: Address:  272374  Function: 2  Alpha:   01:38-99 (1/2)The following resources/officers have been assigned to incident DNDN011676-24112021: DN70P5 as PMP,B TYPE ONLY,PMP-TRV from KIR(Kirkbymoorside) DN14P2 as<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  967080  Function: 3 
-POCSAG1200: Address: 2005025  Function: 2  Alpha:   T|
-POCSAG1200: Address: 1818473  Function: 2 
-POCSAG1200: Address: 1818213  Function: 1 
