@@ -1,3 +1,37 @@
+POCSAG2400: Address:  164153  Function: 3  Alpha:   <RS>'
+POCSAG2400: Address: 1684280  Function: 1  Alpha:   rh
+POCSAG2400: Address: 1902199  Function: 3  Alpha:   O%
+POCSAG2400: Address:  166943  Function: 1 
+POCSAG2400: Address: 1023350  Function: 0 
+POCSAG2400: Address:  867646  Function: 3 
+POCSAG2400: Address:  266853  Function: 2 
+POCSAG2400: Address: 1508505  Function: 1 
+POCSAG2400: Address: 1568569  Function: 2 
+POCSAG2400: Address:  626776  Function: 1  Alpha:   v<ACK>
+POCSAG2400: Address: 1652839  Function: 3  Alpha:   g<DC2>
+POCSAG2400: Address: 1488917  Function: 0  Alpha:   <DLE>(j<FS>hX4<DC2>
+POCSAG2400: Address:  417405  Function: 0 
+POCSAG2400: Address: 1891377  Function: 0 
+POCSAG2400: Address: 1621872  Function: 3 
+POCSAG2400: Address:   36855  Function: 2  Alpha:   st@g<DC2><DC4>9t
+POCSAG2400: Address:  974425  Function: 2 
+POCSAG2400: Address:  772216  Function: 2 
+POCSAG2400: Address: 1897920  Function: 0 
+POCSAG2400: Address:  378173  Function: 2  Alpha:   ;<GS>
+POCSAG2400: Address: 1652835  Function: 3 
+POCSAG2400: Address: 1488913  Function: 0  Alpha:   <DLE>(j<FS>hX4<DC2>
+POCSAG2400: Address:  417400  Function: 0 
+POCSAG2400: Address:  712768  Function: 1 
+POCSAG2400: Address: 1446918  Function: 2 
+POCSAG2400: Address:  924725  Function: 3  Alpha:   ,{<CAN><FF><VT>
+POCSAG2400: Address: 1891380  Function: 0 
+POCSAG2400: Address: 1621876  Function: 3 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   04:19-71 PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host rhahoulapp03mc1<CR><LF>Service: Disk: C<CR><LF>Host: rhahoulapp03mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.94<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
+POCSAG2400: Address:  876128  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0418251121+++TIME=0418251121<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   04:17-01 25/11/2021 04:13:53 INC 24717384 10C01 34 BROOKVIEW CLOSE, BLACKBURN, BB1 9NT Female 28Y COVID / PAIN IN SHOULDER GRD 369387 431617
+POCSAG2400: Address: 1402055  Function: 0 
+POCSAG2400: Address: 1153886  Function: 0  Alpha:   h`
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413251121+++TIME=0413251121<NUL>
 POCSAG2400: Address:  549102  Function: 2  Alpha:   04:13-06 UNSPEC KIDNEY OFFER: Donor: 153105, DCD, Hospital: BASILDON, HF0101, DOB: 12/07/1965, Recipient name: PHILIP BROOK (SJUH), DOB: 20/03/1984, Mismatch: 021, cRF: 100, Match Score: 9 - THIS OFFER EXPIRES AT 05:00. PLEASE SEE EOS. A C
@@ -964,37 +998,3 @@ POCSAG1200: Address:  695980  Function: 2  Alpha:   00:02-41 25/11/2021 00:01:32
 POCSAG1200: Address:   33724  Function: 2  Alpha:   00:02-55 PLEASE CALL 01227 750 505 ASAP RE PATIENT DOROTHY <NUL>
 POCSAG1200: Address: 1313124  Function: 2  Alpha:   00:02-11 PLEASE CALL 01227 750 505 ASAP RE PATIENT DOROTHY <NUL>
 POCSAG1200: Address: 2012658  Function: 0  Alpha:   dx):XH<BS>ThI*<SUB><VT>$<CAN><VT><EOT>zI<EM>9X<BS>t(J<BS>4vvV<SYN>w<ACK>4<SYN>'&f<SYN><ACK><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   00:01-74 24/11/2021 23:54:24 INC 24716853 06E01E 23 STONEFONT CLOSE, WALTON L9, L9 1FB Male 55Y SATS 79 AND DROPING GRD 336329 395456<NUL>
-POCSAG1200: Address: 2091643  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   00:01-87 24/11/2021 23:54:24 INC 24716853 06E01E 23 STONEFONT CLOSE, WALTON L9, L9 1FB Male 55Y SATS 79 AND DROPING GRD 336329 395456<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:01-74 24/11/2021 23:54:24 INC 24716853 06E01E 23 STONEFONT CLOSE, WALTON L9, L9 1FB Male 55Y SATS 79 AND DROPING GRD 336329 395456<NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:01-52 24/11/2021 23:54:24 INC 24716853 06E01E 23 STONEFONT CLOSE, WALTON L9, L9 1FB Male 55Y SATS 79 AND DROPING GRD 336329 395456<NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   00:00-38 PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG1200: Address:  269100  Function: 2  Alpha:   00:00-71 24/11/2021 23:56:39 INC 24716858 17D04 MARLAND COURT, MARLAND OLD ROAD, MARLAND ROCHDALE, OL11 4QY Female 60Y FEMALE FALLEN GRD 387960 411831<NUL>
-POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:27 Migrants Drown in the English Channel<NUL>
-POCSAG1200: Address:  272374  Function: 2  Alpha:   23:59-93 The following resources/officers have been assigned to incident DNDN011676-24112021: DN19S4 as WELF from THI(Thirsk)
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2358241121+++TIME=2358241121<NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   23:57-37 PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1<CR><LF>Service: Disk: I<CR><LF>Host: rhahoulapp04mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.93<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   23:57-05 PR_BIEM: Symantec Endpoint Protection is CRITICAL on host rdlfinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG2400: Address: 1023345  Function: 3 
-POCSAG2400: Address:  867641  Function: 3 
-POCSAG2400: Address:  266848  Function: 2 
-POCSAG2400: Address:  912862  Function: 2 
-POCSAG2400: Address: 1686909  Function: 1  Alpha:   6<ACK>
-POCSAG2400: Address:  765443  Function: 3 
-POCSAG2400: Address: 1375945  Function: 0  Alpha:   <ETB><SI>
-POCSAG2400: Address: 1292180  Function: 3  Alpha:   ce<SUB> Sqmabte
-POCSAG2400: Address: 2078306  Function: 0 
-POCSAG2400: Address:  923687  Function: 3  Alpha:   <EOT>zV3<HT>*<ETX>!7OS
-POCSAG2400: Address: 1647974  Function: 1 
-POCSAG2400: Address:   84941  Function: 3  Alpha:    C
-POCSAG2400: Address:  784109  Function: 1 
-POCSAG2400: Address: 1839187  Function: 3 
-POCSAG2400: Address: 1881955  Function: 3 
-POCSAG2400: Address:  775105  Function: 2  Alpha:    Endp
-POCSAG2400: Address: 1804009  Function: 3 
-POCSAG2400: Address:  366200  Function: 2 
-POCSAG2400: Address:  445152  Function: 0 
-POCSAG2400: Address:  660279  Function: 3  Alpha:   O%
