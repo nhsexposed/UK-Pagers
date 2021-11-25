@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413251121+++TIME=0413251121<NUL>
+POCSAG2400: Address:  549102  Function: 2  Alpha:   04:13-06 UNSPEC KIDNEY OFFER: Donor: 153105, DCD, Hospital: BASILDON, HF0101, DOB: 12/07/1965, Recipient name: PHILIP BROOK (SJUH), DOB: 20/03/1984, Mismatch: 021, cRF: 100, Match Score: 9 - THIS OFFER EXPIRES AT 05:00. PLEASE SEE EOS. A C
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  428673  Function: 3 
+POCSAG1200: Address:  841744  Function: 2 
+POCSAG1200: Address:  772504  Function: 1 
+POCSAG1200: Address: 1315426  Function: 3  Alpha:   v<SYN>v6v
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address:  113448  Function: 3  Alpha:   fj
+POCSAG2400: Address:  549113  Function: 2  Alpha:   04:08-07 FAST TRACK OFFER UNSPEC KIDNEY: Donor: 153092, Hospital: HM1202 - BIRMINGHAM, QUEEN ELIZABETH HOSPITAL BIRMINGHAM , DOB:09/06/1955, DBD, Organ location: DONOR HOSPITAL , , Offer made with HLA, Fast track trigger point met: -5 CENT
 POCSAG1200: Address:  694207  Function: 0  Alpha:   <US>A <EM><VT><ETX>'<VT>A&<VT><VT>A<LF><US>']@<STX>A<ACK><US>!3A<RS><CR>A(<DC1><VT>A<ACK><US>-<DC3><HT>AZbr@$<VT>!<US>%)'A<STX>%<VT>A<STX>-<ETX><DC3><EM><ETX><ENQ><EM><VT>A<DC2><CR>A$<VT>#+<DC3>%<VT><HT>]<NUL>
 POCSAG1200: Address:  234186  Function: 2  Alpha:   04:08-69 FAST TRACK OFFER UNSPEC KIDNEY: Donor: 153092, Hospital: HM1202 - BIRMINGHAM, QUEEN ELIZABETH HOSPITAL BIRMINGHAM , DOB:09/06/1955, DBD, Organ location: DONOR HOSPITAL , , Offer made with HLA, Fast track trigger point met: -5 CENTRE DECLINES, THIS OFFER EXPIRES AT 04:50- NORS TEAM MOBILISED
 POCSAG1200: Address:  640455  Function: 2  Alpha:   04:08-50 FA
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1804009  Function: 3
 POCSAG2400: Address:  366200  Function: 2 
 POCSAG2400: Address:  445152  Function: 0 
 POCSAG2400: Address:  660279  Function: 3  Alpha:   O%
-POCSAG2400: Address:   43391  Function: 2 
-POCSAG2400: Address:   44078  Function: 1 
-POCSAG2400: Address: 1952566  Function: 2 
-POCSAG2400: Address:  429549  Function: 3 
-POCSAG2400: Address: 1568157  Function: 1 
-POCSAG2400: Address: 1685108  Function: 0  Alpha:   vf
-POCSAG2400: Address:  865047  Function: 3  Alpha:   g<DC2><DC4>6&WvV
-POCSAG2400: Address:  957270  Function: 0  Alpha:   <NUL><NUL>
-POCSAG2400: Address: 1550221  Function: 0 
-POCSAG2400: Address:  732412  Function: 0  Alpha:   <GS>l
-POCSAG2400: Address:  890307  Function: 0 
-POCSAG2400: Address: 1320555  Function: 2 
