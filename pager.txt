@@ -1,3 +1,22 @@
+POCSAG1200: Address:  152523  Function: 2  Alpha:   05:14-33 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   05:14-21 QEQM A&2 EXT 725 3945 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   p<ACK><HT>8dH1f
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0513251121+++TIME=0513251121<NUL>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   05:13-11 21802
+POCSAG1200: Address:  306142  Function: 2  Alpha:   05:13-58 21802
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   05:13-27 21802
+POCSAG1200: Address:  269168  Function: 2  Alpha:   05:13-08 25/11/2021 05:12:03 INC 24717469 06D02 14 LADYHOUSE LANE, MILNROW ROCHDALE, OL16 4EQ Male 62Y DIB COPD GRD 393022 412060<NUL><NUL>
+POCSAG1200: Address: 1673648  Function: 3 
+POCSAG1200: Address:  428347  Function: 2  Alpha:   05:13-91 25/11/2021 05:12:14 INC 24717470 09E01 11 PINETOP CLOSE, L6, L6 3DA Female 75Y FOUND IN BATHROON NOT BREATHING GRD 336993 391761
+POCSAG2400: Address:   28908  Function: 0  Alpha:   05:12-63 5013<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1001125  Function: 2  Alpha:   05:11-37 CARDIAC ARREST TEAM TO WARD 1E BED 8 SBH <NUL>
+POCSAG1200: Address: 1001128  Function: 2  Alpha:   05:11-36 CARDIAC ARREST TEAM TO WARD 1E BED 8 SBH <NUL>
+POCSAG1200: Address: 1001130  Function: 2  Alpha:   05:11-38 CARDIAC ARREST TEAM TO WARD 1E BED 8 SBH <NUL>
+POCSAG1200: Address: 1001129  Function: 2  Alpha:   05:11-37 CARDIAC ARREST TEAM TO WARD 1E BED 8 SBH <NUL>
+POCSAG1200: Address: 1001132  Function: 2  Alpha:   05:11-43 CARDIAC ARREST TEAM TO WARD 1E BED 8 SBH <NUL>
+POCSAG1200: Address:  230419  Function: 3 
+POCSAG2400: Address:   28908  Function: 0  Alpha:   05:10-62 5013<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508251121+++TIME=0508251121<NUL>
 POCSAG1200: Address: 1663131  Function: 0 
 POCSAG1200: Address:  694787  Function: 2 
@@ -979,22 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1749842  Function: 2 
 POCSAG1200: Address:  108097  Function: 0  Alpha:   00:31-58 1509<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   00:30-43 4935<NUL>
-POCSAG1200: Address:  183137  Function: 2 
-POCSAG1200: Address:  296841  Function: 0 
-POCSAG1200: Address:  469728  Function: 1 
-POCSAG1200: Address:  839760  Function: 1 
-POCSAG1200: Address:   84342  Function: 0  Alpha:   FO ONl3<HT>
-POCSAG1200: Address:  788501  Function: 0  Alpha:   qS
-POCSAG1200: Address: 1517669  Function: 3 
-POCSAG2400: Address:  216263  Function: 2  Alpha:   00:29-45 PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: gpafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG2400: Address:  892089  Function: 3  Alpha:   M=}m<FF><SYN>vm<GS>]!<DC1>H<GS><GS><.<BEL>T!<DC1>HL,^<>.<BEL><DC4><ACK>f5&feV<ACK><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   00:29-92 25/11/2021 00:23:57 INC 24716907 06E01 34 ROSSLYN ROAD, BLACKLEY MANCHESTER, M40 9PE Male 67Y STRUGGLING TO BREATHE Q STROKE GRD 387182 402076
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:28-49 4935<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0028251121+++TIME=0028251121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0028251121+++TIME=0028251121<NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   00:27-88 OBSERVATION AREA ON 21996 <NUL><NUL>
-POCSAG2400: Address:   28870  Function: 0  Alpha:   00:26-17 PLS CALL 7253240 RE A PATIENT 
-POCSAG2400: Address: 1825727  Function: 1  Alpha:   3<HT>
-POCSAG2400: Address: 1781983  Function: 2 
-POCSAG2400: Address: 1375946  Function: 0  Alpha:   <ETB><SI>
-POCSAG2400: Address:  898585  Function: 2  Alpha:   w47:<DLE>
