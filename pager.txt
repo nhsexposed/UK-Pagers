@@ -1,3 +1,6 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323251121+++TIME=0323251121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1577324  Function: 3 
 POCSAG1200: Address:  635714  Function: 2  Alpha:   )P<ETX>)"@Y<EM>X<FS>[
 POCSAG1200: Address:  533048  Function: 3  Alpha:   T-t<EOT>"
@@ -995,6 +998,3 @@ POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:20-45 4387<NUL>
 POCSAG1200: Address:  234377  Function: 2  Alpha:   23:20-24 24/11/2021 23:19:04 INC 24716736 10D02 130 KILNHOUSE LANE, LYTHAM ST ANNES, FY8 3BN Male 40Y chest pain Gre!333174 430389<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:20-44 4140<NUL>
 POCSAG1200: Address: 1770637  Function: 0  Alpha:   <DLE>!B`L
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:19-79 4156<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   23:19-40 4387<NUL>
-POCSAG1200: Address: 1898792  Function: 1  Alpha:    B
