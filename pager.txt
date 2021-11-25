@@ -1,3 +1,39 @@
+POCSAG1200: Address:  270086  Function: 2  Alpha:   07:04-11 10 BERTH E511 OPEN<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   07:04-20 4157<NUL>
+POCSAG1200: Address: 2080632  Function: 2  Alpha:   ~~^~~n~~~~~~~~:~<DEL>
+POCSAG1200: Address: 1309636  Function: 2  Alpha:   eed t
+POCSAG1200: Address: 1246235  Function: 3 
+POCSAG1200: Address:  331227  Function: 0 
+POCSAG1200: Address: 1848050  Function: 1  Alpha:   ~v
+POCSAG1200: Address:  322017  Function: 2  Alpha:   iS
+POCSAG1200: Address: 1299200  Function: 2 
+POCSAG1200: Address: 1686512  Function: 2 
+POCSAG1200: Address: 1321707  Function: 2  Alpha:   07:03-55 Destination: Par
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   11777  Function: 2  Alpha:   07:01-02 PLEASE CALL COMMAND CENTRE ON 4726 <NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   07:01-04 PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRIT<HT>kEL on host rdlfintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address: 2077697  Function: 3  Alpha:   j2
+POCSAG2400: Address: 1354920  Function: 2 
+POCSAG2400: Address:  149253  Function: 2  Alpha:   07:00-35 MARINA ON 01843 865 602 <NUL>
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   07:00-72 MARINA ON 01843 865 602 <NUL>
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   07:00-13 MARINA ON 01843 865 602 <NUL>
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   07:00-19 MARINA ON 01843 865 602 <NUL>
+POCSAG1200: Address: 1313124  Function: 2  Alpha:   07:00-23 MARINA ON 01843 865 602 <NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   07:00-78 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  105859  Function: 2  Alpha:   07:00-86 25/11/2021 06:58:55 INC 24717623 29D02L ROUNDABOUT, 4 ALL SAINTS COURT, MANOR ROAD, STRETFORD MANCHESTER, M32 9JT Male 30Y RTC GRD 378946 394886<NUL>
+POCSAG1200: Address: 1466783  Function: 1  Alpha:   KC@g<DC2>40Y
+POCSAG1200: Address: 1348870  Function: 2 
+POCSAG1200: Address:  354101  Function: 0  Alpha:   <FF>(
+POCSAG1200: Address:  338341  Function: 1 
+POCSAG1200: Address:  938676  Function: 3 
+POCSAG1200: Address: 1843820  Function: 0 
+POCSAG1200: Address: 1466555  Function: 0 
+POCSAG1200: Address: 1216771  Function: 2 
+POCSAG1200: Address: 1401826  Function: 2 
+POCSAG1200: Address:  791073  Function: 2  Alpha:   <STX><SUB><ENQ><NAK>-
+POCSAG1200: Address: 1067384  Function: 3 
+POCSAG1200: Address:   88455  Function: 0  Alpha:   O%(g'
 POCSAG1200: Address:  678610  Function: 2  Alpha:   06:59-27 PLEASE CALL HAIRMYRES HELPDESK
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0658251121+++TIME=0658251121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0658251121+++TIME=0658251121<NUL>
@@ -962,39 +998,3 @@ POCSAG1200: Address:   40088  Function: 2  Alpha:   02:21-93 21134
 POCSAG1200: Address: 2019950  Function: 0 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   02:20-92 57720, ED MAJORS <NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0218251121+++TIME=0218251121<NUL>
-POCSAG1200: Address: 1180811  Function: 0  Alpha:   Y<CAN><DLE><CAN><EM>]<CAN><SUB>]Y<FS>P$g!<DLE><EM>Z[X[<CAN>[<EM>P<CAN><CAN>"X<CAN>P<CAN>Z<FS><SYN><DLE>b &j''<DLE>f g"<SYN><DLE>d`kag *<DLE>a )ig+P$'<DLE>c*)gbi)<SYN><DLE>f`<CAN><SUB><DLE><SUB>(&Pf0v2<DLE><FS>[,P(<DLE>db )*P *j`a%<DLE>(i"+<DLE><FS>[lg&P#)"P<EM>Y<CAN>Y<CAN><CAN><DLE>Z<ESC><EM><CAN>[<ESC>
-POCSAG1200: Address: 1090560  Function: 2  Alpha:   02:17-72 25/11
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   02:17-78 25/11/2021 02:14:16 INC 24717162 17D03 HAMPTON BY HILTON LIVERPOOL CITY CENTRE HOTEL, 7 HURST STREET, LIVERPOOL, L1 8DA Male 34Y M FALL HEAD INJ UNRESPONSIVE GRD 334532 389532<NUL>
-POCSAG1200: Address: 1225802  Function: 3 
-POCSAG1200: Address:  694689  Function: 1  Alpha:    H
-POCSAG1200: Address:  238608  Function: 3  Alpha:   0p
-POCSAG1200: Address:  100486  Function: 3  Alpha:   l`
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  206426  Function: 3 
-POCSAG1200: Address:  206430  Function: 3 
-POCSAG1200: Address:  740869  Function: 1  Alpha:   P<ACK>
-POCSAG1200: Address: 1445341  Function: 1 
-POCSAG1200: Address:  788660  Function: 0 
-POCSAG1200: Address: 1716588  Function: 2 
-POCSAG1200: Address: 1469651  Function: 1 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   02:15-96 25/11/2021 02:13:39 INC 24717158 26C02 98B LIVERPOOL ROAD, HUYTON L36, L36 3RF Male 18Y ABCESS ON FACE GRD 342745 391941<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  336140  Function: 2  Alpha:   02:14-61 25/11/2021 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213251121+++TIME=0213251121<NUL>
-POCSAG1200: Address: 1817061  Function: 2  Alpha:   02:13-37 (3/3) ON BOAT OR IN VEHICLE  INFORMED AS DO<NUL><NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   02:13-15 25/11/2021 02:09:45 INC 24717151 31D03 O/S, MOOR PARK HEALTH AND LEISURE CENTRE, BRISTOL AVENUE, BLACKPOOL, FY2 0JG Male 45Y ON CCTV - COLLASPING/FELL ASLEEP GRD 331858 439617<NUL>
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   02:13-65 25/11/2021 02:09:45 INC 24717151 31D03 O/S, MOOR PARK HEALTH AND LEISURE CENTRE, BRISTOL AVENUE, BLACKPOOL, FY2 0JG Male 45Y ON CCTV - COLLASPING/FELL ASLEEP GRD 331858 439617<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1313150  Function: 2  Alpha:   02:12-51 (3/3) Roles    JY17P1:RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classificatio>0House Boat<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1092502  Function: 2  Alpha:   02:10-11 8259<NUL>
-POCSAG1200: Address: 1090257  Function: 2  Alpha:   02:09-83 The following resources/officers have been assigned to incident DNDN011676-24112021: MECH1 as  from BED(Bedale
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208251121+++TIME=0208251121<NUL>
-POCSAG1200: Address: 1315613  Function: 0  Alpha:   \<GS>
-POCSAG1200: Address: 1106229  Function: 0 
-POCSAG1200: Address: 2008689  Function: 1 
-POCSAG2400: Address: 1877590  Function: 0 
-POCSAG2400: Address:   28870  Function: 0  Alpha:   02:07-20 PLEASE CALL 7253945
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   02:06-25 25/11/2021 02:04:00 INC 24717135 31E01 158 LANGPORT AVENUE, LONGSIGHT MANCHESTER, M12 4NR Male 2Y BREATHING PROBLEMS GRD 386020 396483<NUL><NUL>
