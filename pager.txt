@@ -1,3 +1,12 @@
+POCSAG1200: Address:  336140  Function: 2  Alpha:   02:14-61 25/11/2021 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213251121+++TIME=0213251121<NUL>
+POCSAG1200: Address: 1817061  Function: 2  Alpha:   02:13-37 (3/3) ON BOAT OR IN VEHICLE  INFORMED AS DO<NUL><NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   02:13-15 25/11/2021 02:09:45 INC 24717151 31D03 O/S, MOOR PARK HEALTH AND LEISURE CENTRE, BRISTOL AVENUE, BLACKPOOL, FY2 0JG Male 45Y ON CCTV - COLLASPING/FELL ASLEEP GRD 331858 439617<NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   02:13-65 25/11/2021 02:09:45 INC 24717151 31D03 O/S, MOOR PARK HEALTH AND LEISURE CENTRE, BRISTOL AVENUE, BLACKPOOL, FY2 0JG Male 45Y ON CCTV - COLLASPING/FELL ASLEEP GRD 331858 439617<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1313150  Function: 2  Alpha:   02:12-51 (3/3) Roles    JY17P1:RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classificatio>0House Boat<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1092502  Function: 2  Alpha:   02:10-11 8259<NUL>
 POCSAG1200: Address: 1090257  Function: 2  Alpha:   02:09-83 The following resources/officers have been assigned to incident DNDN011676-24112021: MECH1 as  from BED(Bedale
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208251121+++TIME=0208251121<NUL>
 POCSAG1200: Address: 1315613  Function: 0  Alpha:   \<GS>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  771884  Function: 1
 POCSAG1200: Address:  368316  Function: 0 
 POCSAG1200: Address: 1733843  Function: 3 
 POCSAG1200: Address: 1912915  Function: 0 
-POCSAG1200: Address:  859303  Function: 3  Alpha:   g<DC2>
-POCSAG1200: Address:  283949  Function: 1 
-POCSAG1200: Address:  325962  Function: 1  Alpha:   LT
-POCSAG1200: Address:  661129  Function: 1  Alpha:   <DC4>h
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2243241121+++TIME=2243241121<NUL>
-POCSAG2400: Address:  149253  Function: 2  Alpha:   22:43-20 03003000044
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   22:43-31 03003000044
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   22:43-56 03003000044
-POCSAG1200: Address:  108086  Function: 0  Alpha:   22:43-96 40383
