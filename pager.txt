@@ -1,3 +1,68 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0348251121+++TIME=0348251121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0348251121+++TIME=0348251121<NUL>
+POCSAG1200: Address: 1523271  Function: 2 
+POCSAG1200: Address:   80302  Function: 1  Alpha:   RS
+POCSAG1200: Address: 1163813  Function: 2 
+POCSAG1200: Address:  689805  Function: 2 
+POCSAG1200: Address: 1322260  Function: 2 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v<SYN>v66<SYN><ACK><EOT>
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address: 2019144  Function: 2 
+POCSAG1200: Address:  732183  Function: 0  Alpha:   8<SO>dg<DC2>4Ck
+POCSAG1200: Address:  535366  Function: 0 
+POCSAG1200: Address: 2040142  Function: 1 
+POCSAG1200: Address: 1757517  Function: 0  Alpha:   E 
+POCSAG1200: Address:  183108  Function: 2 
+POCSAG1200: Address: 1942258  Function: 1 
+POCSAG1200: Address:  742913  Function: 3 
+POCSAG1200: Address:  180769  Function: 3 
+POCSAG1200: Address: 1925278  Function: 0 
+POCSAG2400: Address: 1598951  Function: 2 
+POCSAG2400: Address: 1016086  Function: 2 
+POCSAG2400: Address: 1523060  Function: 1 
+POCSAG2400: Address:  867892  Function: 0 
+POCSAG2400: Address: 1914099  Function: 1 
+POCSAG2400: Address:   94538  Function: 3  Alpha:   ouP H
+POCSAG2400: Address:  453994  Function: 2  Alpha:   qX
+POCSAG2400: Address:  937786  Function: 1 
+POCSAG2400: Address:  989617  Function: 3 
+POCSAG2400: Address: 1732977  Function: 1 
+POCSAG2400: Address: 1094065  Function: 2 
+POCSAG2400: Address:  345530  Function: 3  Alpha:   A<FS>
+POCSAG2400: Address: 1415017  Function: 2  Alpha:   2<GS>
+POCSAG2400: Address:  313361  Function: 0 
+POCSAG2400: Address:  834864  Function: 0 
+POCSAG2400: Address:  164400  Function: 0 
+POCSAG2400: Address: 2010735  Function: 2  Alpha:   O%
+POCSAG2400: Address:   35071  Function: 0 
+POCSAG2400: Address:  165923  Function: 1 
+POCSAG2400: Address: 1875568  Function: 3 
+POCSAG2400: Address: 1979240  Function: 2 
+POCSAG2400: Address:   34263  Function: 1  Alpha:   eQS3<HT>
+POCSAG2400: Address: 1527097  Function: 1 
+POCSAG2400: Address:  629296  Function: 2  Alpha:   T<ETX>
+POCSAG2400: Address: 1359440  Function: 0 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   03:46-57 PROBLEM: herhaclrds07mc1 is DOWN, <CR><LF>PROBLEM: herhaclrds07mc1 is DOWN<CR><LF><CR><LF>Host: herhaclrds07mc1<CR><LF>Alias: <CR><LF>Address: 10.222.46.42<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > HSC-MAN > HERHAC-MAN<CR><LF>State: DOWN<CR><LF>Date & Time: Thu No<NUL><NUL>
+POCSAG1200: Address:   13190  Function: 2  Alpha:   03:45-35 (2/2) KIR(Kirkbymoorside) DN35P1 as RP from THI(Thirsk)<NUL>
+POCSAG1200: Address: 1090257  Function: 2  Alpha:   03:45-85 (2/2) KIR(Kirkbymoorside) DN35P1 as RP from THI(Thirsk)<NUL>
+POCSAG1200: Address:  759336  Function: 2  Alpha:   *t4yyu<DC4><NUL>
+POCSAG1200: Address: 1110914  Function: 0  Alpha:   $!
+POCSAG1200: Address:  181762  Function: 2 
+POCSAG1200: Address: 1312905  Function: 0  Alpha:   s<CR>
+POCSAG1200: Address:  336374  Function: 3  Alpha:   roughr3<HT>
+POCSAG1200: Address:  629373  Function: 3  Alpha:   ]<CR><EOT>x)
+POCSAG1200: Address: 1200292  Function: 1 
+POCSAG1200: Address: 1893899  Function: 2 
+POCSAG1200: Address:  825906  Function: 1  Alpha:   <SO><BS>
+POCSAG1200: Address: 1716833  Function: 1 
+POCSAG1200: Address: 1204945  Function: 0 
+POCSAG1200: Address: 1155888  Function: 3  Alpha:   nl
+POCSAG1200: Address:  571663  Function: 3  Alpha:   O%
+POCSAG1200: Address:  140007  Function: 3 
+POCSAG1200: Address:  940350  Function: 1  Alpha:   lM
+POCSAG1200: Address: 1357693  Function: 0 
+POCSAG1200: Address:  272374  Function: 2  Alpha:   03:45-07 (1/2)The following resources/officers have been assigned to incident DNDN011676-24112021: DN30P1 as RP from BOR(Boroughbridge) DN74P1 as RP from<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   03:45-20 2183<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0343251121+++TIME=0343251121<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   03:42-19 2183<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
@@ -933,68 +998,3 @@ POCSAG1200: Address:  963058  Function: 0
 POCSAG1200: Address:  269168  Function: 2  Alpha:   23:26-69 24/11/2021 23:23:36 INC 24716750 10D01 JCT KING STREET, WAINWRIGHT WAY, BLACKBURN BLACKBURN WITH DARWEN Male 58Y Q HYPERTHERMIA GRD 368036 427576
 POCSAG2400: Address: 1804011  Function: 0 
 POCSAG2400: Address:  366203  Function: 0 
-POCSAG2400: Address:  445154  Function: 3 
-POCSAG2400: Address: 1647970  Function: 1 
-POCSAG2400: Address: 1881958  Function: 3 
-POCSAG2400: Address:  775109  Function: 2  Alpha:    Endp
-POCSAG2400: Address: 1804012  Function: 3 
-POCSAG2400: Address:  366204  Function: 2 
-POCSAG2400: Address:  445155  Function: 0 
-POCSAG2400: Address:  660275  Function: 3 
-POCSAG2400: Address: 1271387  Function: 2 
-POCSAG2400: Address:  432507  Function: 1 
-POCSAG2400: Address: 1375945  Function: 0  Alpha:   <ETB><SI>
-POCSAG2400: Address:  859099  Function: 1  Alpha:   ;:
-POCSAG2400: Address: 1848948  Function: 0  Alpha:   vf
-POCSAG2400: Address: 1933843  Function: 3  Alpha:   osT b
-POCSAG2400: Address: 1460569  Function: 1 
-POCSAG2400: Address: 1650941  Function: 3  Alpha:   Nv<ACK><BEL><STX><ENQ><DEL>&'<RS>&{,B&?;<ETX>%O<ETX><CR>
-POCSAG2400: Address:  183099  Function: 2  Alpha:   v0<ETB>zr1P"
-POCSAG2400: Address: 1070266  Function: 3  Alpha:   <DC4>d<FF>lT
-POCSAG2400: Address:  216264  Function: 2  Alpha:   23:qZ<SYN>[<CAN>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   23:25-24 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   23:25-30 PROBLEM: Generic Service: ParisConnect is CRITICAL on host herhaclpco01mc1, <CR><LF>PROBLEM: Generic Service: ParisConnect is CRITICAL on host herhaclpco01mc1<CR><LF>Service: Generic Service: ParisConnect<CR><LF>Host: herhaclpco01mc1<CR><LF>Alias: <CR><LF>Address: 10.22<NUL><NUL>
-POCSAG2400: Address: 1115289  Function: 1 
-POCSAG2400: Address: 1850600  Function: 1  Alpha:   <ETX>j
-POCSAG2400: Address:  534240  Function: 2 
-POCSAG2400: Address: 1858621  Function: 3 
-POCSAG2400: Address: 1096301  Function: 0 
-POCSAG2400: Address:  163300  Function: 2  Alpha:   iu
-POCSAG2400: Address:  776275  Function: 1 
-POCSAG2400: Address: 1071209  Function: 0 
-POCSAG2400: Address:  777144  Function: 2 
-POCSAG2400: Address: 1594055  Function: 1 
-POCSAG2400: Address:  858920  Function: 2  Alpha:   <ETX>:,v.<ACK>O<RS>
-POCSAG2400: Address: 2041928  Function: 2 
-POCSAG2400: Address:  656039  Function: 1  Alpha:   g<DC2>
-POCSAG2400: Address:  852663  Function: 2 
-POCSAG2400: Address: 1820446  Function: 0 
-POCSAG2400: Address: 1850469  Function: 2  Alpha:   <ACK><US>N<ACK><VT>
-POCSAG2400: Address:  392139  Function: 1  Alpha:   t her
-POCSAG2400: Address: 1994841  Function: 0 
-POCSAG2400: Address:  267806  Function: 0  Alpha:   <z|p[k3<HT>j]<L<SO><DC4>
-POCSAG2400: Address:  957158  Function: 0 
-POCSAG2400: Address: 1954636  Function: 3  Alpha:   ic<NUL>Servi
-POCSAG2400: Address:  189259  Function: 3 
-POCSAG2400: Address: 1070266  Function: 3  Alpha:   <DC4>d<FF>lT
-POCSAG2400: Address:  216264  Function: 2  Alpha:   23:24-59 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG1200: Address: 1323538  Function: 2  Alpha:   23:24-95 PLEASE CALL 01535 292790<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:24-65 24/11/2021 23:23:19 INC 24716749 06E01 3 EDINBURGH ROAD, LITTLE LEVER BOLTON, BL3 1TG Male 76Y STRUGGLING TO BREATH GRD 375547 406742
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2323241121+++TIME=2323241121<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:23-80 2447<NUL>
-POCSAG1200: Address:  134024  Function: 1  Alpha:   <DC4><DC1>H,<CR>
-POCSAG1200: Address:  379300  Function: 0 
-POCSAG1200: Address: 1238033  Function: 2 
-POCSAG1200: Address: 1133318  Function: 2 
-POCSAG1200: Address: 1770958  Function: 0 
-POCSAG1200: Address:  314645  Function: 0 
-POCSAG1200: Address: 1288324  Function: 2  Alpha:   d@Hl@
-POCSAG1200: Address:  721419  Function: 3 
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>FvF
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address:  631592  Function: 3  Alpha:   ``
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:22-64 24/11/2021 23
-POCSAG1200: Address:  108097  Function: 0  Alpha:   23:22-56 4541<NUL>
-POCSAG1200: Address:  278264  Function: 3 
-POCSAG1200: Address:  666664  Function: 1 
-POCSAG1200: Address:  799472  Function: 0 
