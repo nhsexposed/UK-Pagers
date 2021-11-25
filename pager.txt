@@ -1,3 +1,45 @@
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   11:34-30 INC ALERT No: 16822781 Falls - CL - F 74 - FALLEN DOWN HURT HER KNEE, AT: 6 NICHOLS WAY, EXETER, EX1 2HD, Time of Call: 25/11/2021 11:32:56, Co-ords: 50.729278328 -3.514401137<NUL>
+POCSAG1200: Address: 1712755  Function: 1 
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   11:34-82 25/11/2021 11:31:36 INC 24718614 26C02 19A RUMNEY PLACE, LIVERPOOL, L4 1XA Female 26Y PARALYSED IN BED GRD 335042 393916<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1133251121+++TIME=1133251121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1133251121+++TIME=1133251121<NUL>
+POCSAG2400: Address: 1913798  Function: 2  Alpha:   11:32-72 4114<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:33-21 3294<NUL>
+POCSAG2400: Address: 1877584  Function: 0 
+POCSAG1200: Address:  833635  Function: 3  Alpha:   V<ETX>
+POCSAG1200: Address:  170913  Function: 2  Alpha:   asE: 
+POCSAG1200: Address: 1006601  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  585540  Function: 2  Alpha:   11:32-34 3903<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1205462  Function: 0 
+POCSAG1200: Address: 1015462  Function: 2  Alpha:   <ACK><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:31-58 3510<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:31-20 3164<NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   11:30-77 25/11/2021 11:29:19 INC 24718601 06D02 63 ARUNDEL ROAD, ANSDELL LYTHAM ST ANNES, FY8 1BN Male 85Y DIB - CHEST INFECTION GRD 333985 427913<NUL><NUL>
+POCSAG1200: Address: 1483633  Function: 0 
+POCSAG1200: Address: 1725518  Function: 3 
+POCSAG1200: Address: 1639571  Function: 3  Alpha:   g <STX><SYN>P
+POCSAG1200: Address:  339282  Function: 3  Alpha:   IX
+POCSAG1200: Address:  240456  Function: 3 
+POCSAG1200: Address:  905984  Function: 2 
+POCSAG1200: Address:  176911  Function: 3  Alpha:   O%
+POCSAG1200: Address:  820687  Function: 1 
+POCSAG1200: Address: 1058358  Function: 0  Alpha:   E<ETX>
+POCSAG1200: Address: 1718605  Function: 3 
+POCSAG1200: Address: 1072317  Function: 1 
+POCSAG1200: Address: 1725515  Function: 3 
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   11:30-72 5531<NUL>
+POCSAG1200: Address:  354324  Function: 3 
+POCSAG1200: Address:  313747  Function: 1 
+POCSAG1200: Address:  534067  Function: 1 
+POCSAG1200: Address: 1736053  Function: 0 
+POCSAG1200: Address:  789043  Function: 3  Alpha:   -<DLE><,<DC1>
+POCSAG2400: Address: 1913702  Function: 2  Alpha:   11:29-71 3530<NUL>
+POCSAG1200: Address:   11771  Function: 0  Alpha:   11:29-12 TEST CALL RESPONDE TO 2002 OR 2998<NUL><NUL>
 POCSAG1200: Address:  372960  Function: 0 
 POCSAG2400: Address: 1913841  Function: 2  Alpha:   11:28-51 3510<NUL>
 POCSAG1200: Address: 1815650  Function: 1 
@@ -956,45 +998,3 @@ POCSAG2400: Address:  866422  Function: 1
 POCSAG2400: Address: 1320271  Function: 0  Alpha:   3<HT>
 POCSAG2400: Address:  396477  Function: 2 
 POCSAG2400: Address: 1103477  Function: 0 
-POCSAG2400: Address: 1271624  Function: 2 
-POCSAG2400: Address:  919848  Function: 2 
-POCSAG2400: Address:  361996  Function: 0  Alpha:   4<DC1>
-POCSAG2400: Address:  395668  Function: 0 
-POCSAG2400: Address:  612667  Function: 3 
-POCSAG2400: Address:  704817  Function: 0 
-POCSAG2400: Address:  866421  Function: 1 
-POCSAG2400: Address: 2045200  Function: 1 
-POCSAG2400: Address: 1770723  Function: 2  Alpha:   z6q29<NUL>X<ESC>T<ESC><EM><FS>Q<ESC>
-POCSAG2400: Address: 1735289  Function: 0 
-POCSAG2400: Address:  708936  Function: 0  Alpha:    on D
-POCSAG2400: Address:  354327  Function: 3  Alpha:   4rtg<DC2>
-POCSAG2400: Address:  535590  Function: 0  Alpha:   L<GS>
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:03-34 NHSBT - DONOR REFERRAL. Please call KATE CHYC - SISTER on Direct Dial Number 07872826298 Hospital IPSWICH HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address:  149180  Function: 2  Alpha:   10:03-69 NHSBT - DONOR REFERRAL. Please call KATE CHYC - SISTER on Direct Dial Number 07872826298 Hospital IPSWICH HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323177  Function: 2  Alpha:   10:03-62 NHSBT - DONOR REFERRAL. Please call KATE CHYC - SISTER on Direct Dial Number 07872826298 Hospital IPSWICH HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323175  Function: 2  Alpha:   10:03-40 NHSBT - DONOR REFERRAL. Please call KATE CHYC - SISTER on Direct Dial Number 07872826298 Hospital IPSWICH HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323192  Function: 2  Alpha:   10:02-45 NHSBT - DONOR REFERRAL. Please call KATE CHYC - SISTER on Direct Dial Number 07872826298 Hospital IPSWICH HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323229  Function: 2  Alpha:   10:02-54 NHSBT - DONOR REFERRAL. Please call KATE CHYC - SISTER on Direct Dial Number 07872826298 Hospital IPSWICH HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   10:02-72 25/11/2021 09:58:42 INC 24718164 09D02E 59 OSBORNE ROAD, BLACKPOOL, FY4 1HQ Male 40Y Q OBV DEATH GRD 330835 433629<NUL><NUL>
-POCSAG2400: Address: 1320363  Function: 2  Alpha:   10:02-92 4954<NUL>
-POCSAG1200: Address:  874517  Function: 1 
-POCSAG1200: Address: 1585389  Function: 2 
-POCSAG1200: Address:  535772  Function: 0 
-POCSAG1200: Address:  658378  Function: 1  Alpha:   P<NAK>
-POCSAG1200: Address: 1730601  Function: 1 
-POCSAG1200: Address: 1581761  Function: 0 
-POCSAG1200: Address: 1599208  Function: 0 
-POCSAG1200: Address:  992384  Function: 2  Alpha:   Q 
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:02-08 5096<NUL>
-POCSAG1200: Address: 1321241  Function: 2  Alpha:   10:02-30 1<NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   10:02-82 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   10:02-42 5204<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   10:01-24 4157<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:  265416  Function: 2 
-POCSAG1200: Address: 2064376  Function: 3 
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   09:59-42 5204<NUL>
-POCSAG1200: Address:  795481  Function: 3  Alpha:   :p
-POCSAG2400: Address: 1913866  Function: 2  Alpha:   09:59-90 5078<NUL>
-POCSAG1200: Address:  311005  Function: 0  Alpha:   D<BS>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0958251121+++TIME=0958251121<NUL>
