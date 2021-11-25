@@ -1,3 +1,27 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123456789012345678( 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   05:31-64 2183<NUL>
+POCSAG2400: Address:   28897  Function: 0  Alpha:   05:31-14 4163<NUL>
+POCSAG1200: Address: 1089331  Function: 3 
+POCSAG1200: Address:  156489  Function: 3  Alpha:   v0v2PY[,
+POCSAG1200: Address:  792233  Function: 0 
+POCSAG1200: Address: 1060024  Function: 0  Alpha:   $<ETX>
+POCSAG1200: Address: 1353039  Function: 3  Alpha:   O%
+POCSAG1200: Address:  719302  Function: 1  Alpha:   KP
+POCSAG1200: Address:  693837  Function: 3  Alpha:   <DC4>h
+POCSAG1200: Address:  719296  Function: 1  Alpha:   KP
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   05:31-31 25/11/2021 05:28:22 INC 24717491 24D07 42 ASHBURN ROAD, HEATON NORRIS STOCKPORT, SK4 2PU Female 37Y HOME BIRTH - BLEEDING AFTER BIRTH GRD 388482 39110
+POCSAG1200: Address: 1781376  Function: 2  Alpha:   v0v2P<EM>\,<DLE>!fb"b$g#<DLE>(ib#g '*<DLE>(+P#)"PY<ESC>\X<CAN><CAN>PY<FS>YXY<FS><NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   05:30-56 25/11/2021 05:26:36 INC 24717486 24D04 65 OAKFIELD, SALE, M33 6NQ Fe
+POCSAG2400: Address:  216263  Function: 2  Alpha:   05:29-89 PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: gpafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address: 1043644  Function: 2 
+POCSAG2400: Address: 1839188  Function: 3 
+POCSAG2400: Address: 1881955  Function: 3 
+POCSAG2400: Address: 1229874  Function: 3 
+POCSAG2400: Address: 2042120  Function: 1 
+POCSAG2400: Address: 2087283  Function: 2  Alpha:   <L
+POCSAG2400: Address: 1550217  Function: 0 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   05:29-82 PROBLEM: Syma
 POCSAG1200: Address:   22104  Function: 2  Alpha:   05:29-17 25/11/2021 05:27:55 INC 24717490 23C02A 94 GRASMERE AVENUE, ORFORD WARRINGTON WA2, WA2 0LR Male 29Y TAKEN COCAINE - DOESNT FEEL WELL GRD 361876 391122
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0528251121+++TIME=0528251121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0528251121+++TIME=0528251121<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address:  858135  Function: 0  Alpha:   g<DC2>
 POCSAG1200: Address:  724661  Function: 0 
 POCSAG1200: Address:  396476  Function: 3 
 POCSAG1200: Address:  166132  Function: 1 
-POCSAG1200: Address:  189078  Function: 2 
-POCSAG1200: Address:  625053  Function: 2  Alpha:   y)
-POCSAG1200: Address: 1515660  Function: 0  Alpha:   "<SYN>
-POCSAG1200: Address:   96683  Function: 0  Alpha:   T 
-POCSAG1200: Address:  267922  Function: 3  Alpha:   y98YH
-POCSAG1200: Address:  791345  Function: 2 
-POCSAG1200: Address: 1960816  Function: 3  Alpha:   owNY 
-POCSAG1200: Address: 1246551  Function: 3  Alpha:   O%
-POCSAG1200: Address:  419613  Function: 1  Alpha:   @<CAN>S@d
-POCSAG1200: Address:   78420  Function: 3  Alpha:   ''
-POCSAG1200: Address:  314643  Function: 0  Alpha:   <ENQ>t
-POCSAG1200: Address:  534194  Function: 1 
-POCSAG1200: Address: 1228378  Function: 2 
-POCSAG1200: Address: 1925273  Function: 0 
-POCSAG1200: Address:  185992  Function: 1  Alpha:   <DC3><VT>hM<FF>
-POCSAG1200: Address:  266847  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1134903  Function: 3 
-POCSAG1200: Address:  362630  Function: 3  Alpha:   d<STX>
-POCSAG1200: Address:  459277  Function: 2 
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:48-86 4156<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1320079  Function: 2  Alpha:   00:44-07 testy test test<NUL>
-POCSAG2400: Address:  353502  Function: 1 
