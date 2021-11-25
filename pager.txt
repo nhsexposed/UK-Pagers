@@ -1,3 +1,39 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0538251121+++TIME=0538251121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0538251121+++TIME=0538251121<NUL>
+POCSAG1200: Address:  918942  Function: 0  Alpha:   <FS><SUB>
+POCSAG1200: Address:  890997  Function: 1 
+POCSAG1200: Address:  569453  Function: 2 
+POCSAG1200: Address: 1708548  Function: 1 
+POCSAG1200: Address: 1679548  Function: 1 
+POCSAG1200: Address:  230474  Function: 0 
+POCSAG1200: Address:  445593  Function: 1 
+POCSAG1200: Address:  757849  Function: 1 
+POCSAG1200: Address: 1450144  Function: 3 
+POCSAG1200: Address:  731486  Function: 1 
+POCSAG1200: Address:  987973  Function: 0 
+POCSAG1200: Address: 1225309  Function: 2 
+POCSAG1200: Address:  852588  Function: 0  Alpha:   OM
+POCSAG1200: Address: 1680275  Function: 2 
+POCSAG1200: Address:  284235  Function: 2 
+POCSAG1200: Address: 1023658  Function: 3  Alpha:   <EOT>*
+POCSAG1200: Address: 1974409  Function: 1 
+POCSAG1200: Address:  842807  Function: 0  Alpha:   ^Llg<DC2>
+POCSAG1200: Address:  949366  Function: 0 
+POCSAG1200: Address:  630581  Function: 3 
+POCSAG1200: Address: 1464500  Function: 2 
+POCSAG1200: Address: 1260099  Function: 1 
+POCSAG1200: Address:   80370  Function: 1  Alpha:   RF
+POCSAG1200: Address: 1127018  Function: 1 
+POCSAG1200: Address: 1303721  Function: 3 
+POCSAG1200: Address: 1316016  Function: 2  Alpha:   <FS><ENQ>
+POCSAG1200: Address: 1260096  Function: 1 
+POCSAG1200: Address:   80375  Function: 1  Alpha:   RFOg<DC2>
+POCSAG1200: Address:  266781  Function: 2  Alpha:   <HT><VT>ty5
+POCSAG1200: Address: 1021749  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  549098  Function: 2  Alpha:   05:36-06 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153105, Donor hospital - BASILDON, Donor DOB - 12/07/1965.<NUL>
+POCSAG2400: Address:  549106  Function: 2  Alpha:   05:36-08 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153105, Donor hospital - BASILDON, Donor DOB - 12/07/1965.<NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   05:34-65 2183<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123456789012345678( 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   05:31-64 2183<NUL>
@@ -962,39 +998,3 @@ POCSAG1200: Address: 2040161  Function: 0  Alpha:   <STX>=
 POCSAG1200: Address: 1065313  Function: 3 
 POCSAG1200: Address:  725195  Function: 3 
 POCSAG1200: Address: 1261699  Function: 2 
-POCSAG1200: Address: 1705105  Function: 2  Alpha:   g&C')
-POCSAG1200: Address: 1322128  Function: 0  Alpha:   <SUB>H
-POCSAG1200: Address: 1089336  Function: 0 
-POCSAG1200: Address: 1521991  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1507982  Function: 1  Alpha:   UE
-POCSAG1200: Address: 1541742  Function: 2 
-POCSAG1200: Address:  925277  Function: 0 
-POCSAG1200: Address:  544701  Function: 3 
-POCSAG1200: Address:  543895  Function: 2  Alpha:   <LF><SUB>I<SUB>HI<ENQ>$zYix)JH<ENQ><EOT>i<BS>f<ACK>FF<ENQ>Dx)(<BEL><EOT>fv<NAK>&v<NAK><SYN>WVF<ENQ>D8HH<ENQ>t)~<FS>l<CR>D}=<FS>L<RS>}m-<BEL>Th<HT>$zYJZ<BS>Dz<HT>4<EM>iy8J<ENQ><DC4>8<RS>?N~M],<BEL>$<SYN>&7vF<ENQ>til\,<SO>T<GS>L\<FF>t<RS>M<SO><CR><EOT>I<EM>H<ENQ>d<CAN><N<SO>D
-POCSAG1200: Address: 1533126  Function: 0 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   00:55-69 33828
-POCSAG1200: Address:  380184  Function: 0 
-POCSAG1200: Address: 1480992  Function: 3 
-POCSAG1200: Address: 1123655  Function: 0  Alpha:   O%
-POCSAG1200: Address:  615671  Function: 0 
-POCSAG1200: Address: 1476949  Function: 3 
-POCSAG1200: Address: 1221964  Function: 1 
-POCSAG1200: Address:  674580  Function: 0 
-POCSAG1200: Address:  629283  Function: 0 
-POCSAG1200: Address: 1257555  Function: 0 
-POCSAG1200: Address: 1020084  Function: 0  Alpha:   <ENQ>z<DC4><EOT>"
-POCSAG1200: Address: 1512962  Function: 1 
-POCSAG1200: Address:  270259  Function: 2  Alpha:   00:55-54 FAST TRACK OFFER OF **RETRIEVED** RIGHT KIDNEY: Donor: 153085, Hospital: QUEENS HOSPITAL, ROMFORD, HF0604, DOB: 06/12/1955, DCD, Organ location: EN ROUTE TO KINGS, Asystole: 21:37, Offer made with HLA, Fast track trigger point met: 3 CENTRE DECLINES - THIS OFFER EXPIRES AT 01:40. PLEASE SEE EOS. A COPY OF THE COVID -19 REPOzuS!ARE AVAILABLE IF REQUIRED.<NUL>
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   00:53-00 INC ALERT No: 16821313 Cardiac Arrest -, AT: O/S, THE OLD INN, 9 WALTON ROAD, CLEVEDON, BS21 6AE, Time of Call: 25/11/2021 00:51:59, Co-ords: 51.4399293 -2.8418502<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0053251121+++TIME=0053251121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0053251121+++TIME=0053251121<NUL>
-POCSAG1200: Address:  216470  Function: 2  Alpha:   00:51-81 PLEASE RING 3712034
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   00:50-20 3555<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   00:49-47 25/11/2021 00:47:59 INC 24716971 25B03W 34 BRAEMAR ROAD, LEVENSHULME MANCHESTER, M14 6PS Female 19Y F SUICIDAL HAS A KNIFE GRD 386093 393863<NUL><NUL>
-POCSAG1200: Address:   11777  Function: 2  Alpha:   00:49-00 PLS CALL WARD 27 ON 3027<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0048251121+++TIME=0048251121<NUL>
-POCSAG1200: Address:  396472  Function: 3 
-POCSAG1200: Address:  858135  Function: 0  Alpha:   g<DC2>
-POCSAG1200: Address:  724661  Function: 0 
-POCSAG1200: Address:  396476  Function: 3 
-POCSAG1200: Address:  166132  Function: 1 
