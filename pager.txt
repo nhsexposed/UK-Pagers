@@ -1,3 +1,6 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453251121+++TIME=0453251121<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0448251121+++TIME=0448251121<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   04:48-93 2097<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   04:44-92 2018<NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address: 1323875  Function: 2  Alpha:   00:13-67 PLEASE CALL NELCSU1
 POCSAG1200: Address: 2008952  Function: 0 
 POCSAG1200: Address: 1323874  Function: 2  Alpha:   00:13-51 PLEASE CALL NELCSU1 ON 07851 396 197
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0013251121+++TIME=0013251121<NUL>
-POCSAG2400: Address:   28897  Function: 0  Alpha:   00:13-12 4163<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:11-82 5400<NUL>
