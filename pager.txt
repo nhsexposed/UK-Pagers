@@ -1,3 +1,8 @@
+POCSAG2400: Address:   28916  Function: 0  Alpha:   06:09-30 5400<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   "<ETX><VT>TIME=0608251121+++TIME=0608251121<NUL>
+POCSAG2400: Address:   22024  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   06:07-24 N1: zbx FCR-V-AMQLIVE01 Warning: p01 C4NL ActiveMQ DLQ.c4nl_delayed_message_Store queue depth > 0 1<LF><NUL><NUL>
 POCSAG2400: Address: 2011892  Function: 0 
 POCSAG1200: Address: 1652074  Function: 1 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -993,8 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   01:16-60 3106<NUL>
 POCSAG2400: Address:  216264  Function: 2  Alpha:   01:16
 POCSAG1200: Address: 2065525  Function: 0 
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   01:14-57 25/11/2021 01:13:11 INC 24717033 06E01 50 ENDSLEIGH ROAD, WATERLOO L22, L22 6QQ Female 61Y CANT BREATHE AT ALL+ GRD 330803 398822<NUL><NUL>
-POCSAG1200: Address:  810941  Function: 0  Alpha:   >^l%qk{{{{{
-POCSAG1200: Address:  799476  Function: 2 
-POCSAG1200: Address: 1044250  Function: 2 
-POCSAG1200: Address:  790641  Function: 3 
