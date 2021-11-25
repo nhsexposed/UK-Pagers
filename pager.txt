@@ -1,3 +1,37 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508251121+++TIME=0508251121<NUL>
+POCSAG1200: Address: 1663131  Function: 0 
+POCSAG1200: Address:  694787  Function: 2 
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  109356  Function: 3  Alpha:   bl
+POCSAG1200: Address:  218716  Function: 2 
+POCSAG1200: Address:  100185  Function: 0  Alpha:   lr
+POCSAG1200: Address:  218712  Function: 2 
+POCSAG1200: Address:  865560  Function: 0 
+POCSAG1200: Address:  672785  Function: 3  Alpha:   <FF>.<FF>L<FF>
+POCSAG1200: Address:  157070  Function: 2  Alpha:   S<DC4>
+POCSAG1200: Address: 1578590  Function: 0 
+POCSAG1200: Address:  694788  Function: 2 
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   05:07-62 25/11/2021 05:05:16 INC 24717459 09E02 67 HOLM COURT, SALFORD 6 SALFORD, M6 5FN Female 2Y ALLERGIES, VOMITING 2 HOUR, FOAMY GRD 381120 399021<NUL>
+POCSAG2400: Address:   68010  Function: 2  Alpha:   b 
+POCSAG2400: Address:  210537  Function: 2 
+POCSAG2400: Address: 1098206  Function: 0 
+POCSAG2400: Address: 1733481  Function: 1  Alpha:   f<ENQ>@+da<NAK>rp<LF>98E<FS>\"<SO>.<DC1><BEL>WH
+POCSAG2400: Address:  925308  Function: 0  Alpha:   <FF>4
+POCSAG2400: Address: 1069940  Function: 3 
+POCSAG2400: Address:  101211  Function: 0  Alpha:   `j
+POCSAG2400: Address:  218714  Function: 2 
+POCSAG2400: Address: 1098202  Function: 0 
+POCSAG2400: Address: 2077924  Function: 1 
+POCSAG2400: Address: 1412355  Function: 0  Alpha:   <BS>_
+POCSAG2400: Address:  167258  Function: 1  Alpha:   Y<CAN>
+POCSAG2400: Address:  920273  Function: 1 
+POCSAG2400: Address: 1098204  Function: 0 
+POCSAG2400: Address:   68012  Function: 2  Alpha:   b 
+POCSAG2400: Address:  210539  Function: 2 
+POCSAG2400: Address:  925306  Function: 0  Alpha:   <FF>4
+POCSAG2400: Address: 1177318  Function: 3  Alpha:   79
+POCSAG2400: Address: 2046061  Function: 3 
+POCSAG2400: Address: 1410820  Function: 0  Alpha:   @d
 POCSAG2400: Address:  549113  Function: 2  Alpha:   05:04-09 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153105, Donor hospital - BASILDON, Donor DOB - 12/07/1965.<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0503251121+++TIME=0503251121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503251121+++TIME=0503251121<NUL>
@@ -964,37 +998,3 @@ POCSAG2400: Address: 1825727  Function: 1  Alpha:   3<HT>
 POCSAG2400: Address: 1781983  Function: 2 
 POCSAG2400: Address: 1375946  Function: 0  Alpha:   <ETB><SI>
 POCSAG2400: Address:  898585  Function: 2  Alpha:   w47:<DLE>
-POCSAG2400: Address: 1815419  Function: 1  Alpha:   ~6
-POCSAG2400: Address:  216268  Function: 2  Alpha:   00:25-37 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   00:25-36 Nimble Alert on MANSDPMNIG01A - WARNING: Scheduled snapshot failed., Time: Thu Nov 25 00:25:24 2021<CR><LF>Type: 10328<CR><LF>ID: 250555<CR><LF>Message: Failed to snapshot volumes associated with volume collection VC-02D03H-SHAFLE-REG-A, schedule SC-COMMVAUL<NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   00:25-72<DLE>YR'!f`&<GS>
-POCSAG2400: Address: 2046702  Function: 2 
-POCSAG2400: Address: 1735294  Function: 2 
-POCSAG2400: Address:  912859  Function: 2 
-POCSAG2400: Address:  858218  Function: 0 
-POCSAG2400: Address: 1670898  Function: 0 
-POCSAG2400: Address:  326600  Function: 3  Alpha:   t:
-POCSAG2400: Address: 1550222  Function: 0 
-POCSAG2400: Address:  732413  Function: 0  Alpha:   <GS>l
-POCSAG2400: Address:  890309  Function: 0 
-POCSAG2400: Address:   88147  Function: 3 
-POCSAG2400: Address:  859098  Function: 3  Alpha:   ;<SUB>
-POCSAG2400: Address: 2005554  Function: 0 
-POCSAG2400: Address: 1815289  Function: 0 
-POCSAG2400: Address: 1279502  Function: 0  Alpha:   <HT>tM<CR><EOT>mY<EOT>u<RS>'<SOH><DC2>f<CR>6<SO>
-POCSAG2400: Address: 1460574  Function: 1 
-POCSAG2400: Address:  765444  Function: 3 
-POCSAG2400: Address: 1375945  Function: 0  Alpha:   <ETB><SI>
-POCSAG2400: Address: 1624908  Function: 2 
-POCSAG2400: Address:  859099  Function: 1  Alpha:   ;:
-POCSAG2400: Address: 2005555  Function: 0 
-POCSAG2400: Address: 1815290  Function: 3 
-POCSAG2400: Address: 1043644  Function: 2 
-POCSAG2400: Address: 1839188  Function: 3 
-POCSAG1200: Address:  108090  Function: 0  Alpha:   00:25-54 PRIMARY PCI CALL ON EXT 3168 <NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:24-84 4462<NUL>
-POCSAG1200: Address:  585578  Function: 2  Alpha:   t4>24-03 011676-24112021; Fire - Residential; STAR INN,HIGH STREET,HAROME,HELMSLEY,YO62 5JE; 464620,482147<NUL><NUL>
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG1200: Address:  627497  Function: 3  Alpha:   `r
-POCSAG1200: Address: 1591636  Function: 1 
-POCSAG1200: Address: 1395521  Function: 3  Alpha:   "<DLE>FX<SUB><SYN><DLE>fX<SUB><DLE>
