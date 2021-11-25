@@ -1,3 +1,41 @@
+POCSAG1200: Address: 1340720  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1958251121+++TIME=1958251121<NUL>
+POCSAG2400: Address: 2043459  Function: 1 
+POCSAG2400: Address:   90418  Function: 0  Alpha:   IF
+POCSAG2400: Address:   74346  Function: 1 
+POCSAG2400: Address:  301001  Function: 2 
+POCSAG2400: Address:   43863  Function: 3  Alpha:   O%( C
+POCSAG2400: Address: 1283726  Function: 3  Alpha:   <DC4><VT><BS><DLE>U
+POCSAG2400: Address:  642973  Function: 0 
+POCSAG2400: Address:  761381  Function: 0 
+POCSAG2400: Address: 1587812  Function: 2 
+POCSAG2400: Address: 1474908  Function: 1 
+POCSAG2400: Address: 1757443  Function: 2 
+POCSAG2400: Address:  177123  Function: 2 
+POCSAG2400: Address:  189610  Function: 0 
+POCSAG2400: Address: 2045257  Function: 0  Alpha:   "<STX>5<SOH><CR>
+POCSAG2400: Address:  688880  Function: 0  Alpha:   F 
+POCSAG2400: Address:  193367  Function: 2  Alpha:   O%
+POCSAG2400: Address:  222863  Function: 1 
+POCSAG2400: Address:  267806  Function: 0 
+POCSAG2400: Address: 1458525  Function: 0  Alpha:   @&)+<CR>
+POCSAG2400: Address:   69132  Function: 3 
+POCSAG2400: Address: 1115500  Function: 0 
+POCSAG2400: Address: 1315867  Function: 2  Alpha:   <SUB>8
+POCSAG2400: Address:  790695  Function: 3  Alpha:   O%h,<SO><SYN>O<STX>j<STX>R,<GS>%
+POCSAG2400: Address:  519644  Function: 3  Alpha:   |8z;}lK18Z<ESC>=Z{
+POCSAG2400: Address:  699324  Function: 2 
+POCSAG2400: Address: 1153802  Function: 3  Alpha:   dhJrf
+POCSAG2400: Address:  688738  Function: 0 
+POCSAG1200: Address: 1321241  Function: 2  Alpha:   19:57-32 888000<NUL><NUL>
+POCSAG2400: Address:  583528  Function: 2  Alpha:   19:57-02 80300
+POCSAG1200: Address:  108097  Function: 0  Alpha:   19:57-62 PLSE CALL EXT 1003<NUL>
+POCSAG2400: Address:  940085  Function: 0 
+POCSAG2400: Address: 2024041  Function: 0 
+POCSAG1200: Address: 1817121  Function: 2  Alpha:   19:56-37 RING 0336 RE PATIENT TRANSPORT
+POCSAG2400: Address:   28907  Function: 0  Alpha:   19:55-02 4411<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:55-82 2008<NUL>
+POCSAG1200: Address:  281448  Function: 3 
 POCSAG2400: Address:  584658  Function: 2  Alpha:   19:54-29 80300
 POCSAG2400: Address:  584088  Function: 2  Alpha:   19:54-81 80300
 POCSAG2400: Address: 1438216  Function: 1 
@@ -960,41 +998,3 @@ POCSAG1200: Address:   22104  Function: 2  Alpha:   18:29-37 25/11/2021 18:25:04
 POCSAG1200: Address: 1565272  Function: 2  Alpha:   18:29-60 25/11/2021 18:25:04 INC 24720383 23B01I THE RAMS 393, WILMSLOW ROAD, LEVENSHULME MANCHESTER, M20 4WA Female 45Y 10 DIAZEPAM GRD 385339 393431<NUL>
 POCSAG1200: Address:   40074  Function: 2  Alpha:   18:29-10 25/11/2021 18:25:04 INC 24720383 23B01I THE RAMS 393, WILMSLOW ROAD, LEVENSHULME MANCHESTER, M20 4WA Female 45Y 10 DIAZEPAM GRD 385339 393431<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828251121+++TIME=1828251121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1828251121+++TIME=1828251121<NUL>
-POCSAG1200: Address:  549768  Function: 2  Alpha:   18:28-71 ~PLEASE CONTACT CONTROLS RE CREWING<NUL>
-POCSAG1200: Address:  216571  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG2400: Address: 1313895  Function: 2  Alpha:   g<DC2><DC4><ETX><ESC>
-POCSAG2400: Address:  554863  Function: 1 
-POCSAG2400: Address:  575861  Function: 1  Alpha:   G <CR> 0(44
-POCSAG2400: Address:  762900  Function: 1  Alpha:   41
-POCSAG2400: Address:  535571  Function: 2 
-POCSAG2400: Address:  280609  Function: 1 
-POCSAG2400: Address: 1087801  Function: 2 
-POCSAG2400: Address: 1070720  Function: 1 
-POCSAG2400: Address: 1355669  Function: 0 
-POCSAG2400: Address: 1448637  Function: 1 
-POCSAG2400: Address:  624476  Function: 1  Alpha:   ph
-POCSAG2400: Address:   23427  Function: 0  Alpha:   <CAN><FS>
-POCSAG1200: Address:  931099  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address: 1312635  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149295  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address: 1312633  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address: 1312631  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address: 1312634  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149308  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149304  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149333  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149331  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149284  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address: 1312630  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149309  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149319  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  931132  Function: 2  Alpha:   18:30:39 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  895960  Function: 2  Alpha:   <RS>f
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   18:27-60 INC ALERT No: 16824295 Cardiac Arrest -, AT: 17 ST JOHNS COURT, AXBRIDGE, BS26 2AY, Time of Call: 25/11/2021 18:26:39, Co-ords: 51.286796<DC2> (2.8209752<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:27-37 4555<NUL>
-POCSAG2400: Address:   28897  Function: 0  Alpha:   18:27-16 3104<NUL>
-POCSAG1200: Address:  216571  Function: 2  Alpha:   18:28:20 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  931107  Function: 2  Alpha:   18:28:20 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  931099  Function: 2  Alpha:   18:28:20 S03L2 Fire call 14758<NUL>
-POCSAG1200: Address:  149295  Function: 2  Alpha:   18:28:20 S03L2 Fire call 14758<NUL>
