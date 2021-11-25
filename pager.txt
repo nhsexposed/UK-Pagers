@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1554072  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2318251121+++TIME=2318251121<NUL>
+POCSAG1200: Address: 1039284  Function: 3  Alpha:   e<FF>
+POCSAG1200: Address: 1032677  Function: 3  Alpha:   <EM>l$dL
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   23:17
+POCSAG2400: Address:  820681  Function: 3 
+POCSAG2400: Address: 1880698  Function: 1 
+POCSAG1200: Address:  144154  Function: 1  Alpha:   <DC1>0
+POCSAG1200: Address:  891090  Function: 1 
+POCSAG1200: Address: 1188016  Function: 1  Alpha:   ^<ACK><SUB><STX>1
+POCSAG1200: Address:   48280  Function: 0 
+POCSAG1200: Address:  150503  Function: 2  Alpha:    "Vg<DC2>
+POCSAG1200: Address: 1485398  Function: 0  Alpha:   XX
+POCSAG1200: Address:  660402  Function: 1  Alpha:   YQ<SOH>QEEMQM<SOH><NUL>
 POCSAG2400: Address: 1913810  Function: 2  Alpha:   23:13-26 2616<NUL>
 POCSAG1200: Address:  822605  Function: 1  Alpha:   Y<SUB>
 POCSAG2400: Address: 2086384  Function: 1 
@@ -984,17 +998,3 @@ POCSAG1200: Address:  977783  Function: 1
 POCSAG1200: Address: 1480310  Function: 0 
 POCSAG1200: Address:  269059  Function: 2  Alpha:   19:41-49 25/11/2021 19:39:59 INC 24720673 29D02L O/S, CONWAY DRIVE, BIRKENHEAD CH41, CH41 4PJ Male 22Y MOTORBIKE V MOTORBIKE GRD 331616 388905
 POCSAG1200: Address:  548039  Function: 2  Alpha:   19:41-26 25/11/2021 19:39:59 INC 24720673 29D02L O/S, CONWAY DRIVE, BIRKENHEAD CH41, CH41 4PJ Male 22Y MOTORBIKE V MOTORBIKE GRD 331616 388905
-POCSAG2400: Address: 1022652  Function: 0  Alpha:   19:40-72 PLEASE CALL EX 4442
-POCSAG1200: Address:  476675  Function: 2 
-POCSAG1200: Address:  920795  Function: 1 
-POCSAG1200: Address:  756306  Function: 1  Alpha:   <BS>4
-POCSAG1200: Address:  839988  Function: 2 
-POCSAG1200: Address:  636708  Function: 3 
-POCSAG1200: Address:  780043  Function: 1 
-POCSAG1200: Address: 1469219  Function: 3 
-POCSAG1200: Address:  955186  Function: 3 
-POCSAG1200: Address: 1151862  Function: 2  Alpha:   ZbDrX
-POCSAG1200: Address: 1560148  Function: 0  Alpha:   <LF>tih<CAN>9X<BS>
-POCSAG1200: Address:  675907  Function: 1 
-POCSAG1200: Address: 1586795  Function: 1 
-POCSAG1200: Address: 1624514  Function: 0  Alpha:   E 
