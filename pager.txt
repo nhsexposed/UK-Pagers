@@ -1,3 +1,51 @@
+POCSAG1200: Address: 2064936  Function: 2  Alpha:   <US><CR>
+POCSAG1200: Address:  747147  Function: 3 
+POCSAG1200: Address: 1092709  Function: 2  Alpha:   10:13-81 25/11/2021 10:12:27 INC 24718234 12D02 17 DALTON FOLD, CROSTON LEYLAND, PR26 9AF Male 18Y M - FIT GRD 348834 419156<NUL>
+POCSAG1200: Address: 1321241  Function: 2  Alpha:   10:13-31 2<NUL>
+POCSAG1200: Address:  346010  Function: 0  Alpha:   10:13-38 25/11/2021 10:12:27 INC 24718234 12D02 17 DALTON FOLD, CROSTON LEYLAND, PR26 9AF Male 18Y M - FIT GRD 348834 419156<NUL>
+POCSAG1200: Address: 1151785  Function: 2  Alpha:   dn
+POCSAG1200: Address: 1207006  Function: 2  Alpha:   j<SI>_<DC2><ETX>s3<HT>JE<SOH>AAi
+POCSAG1200: Address: 1160029  Function: 1  Alpha:   jf
+POCSAG1200: Address:  884740  Function: 0  Alpha:   Vp.<FF>L
+POCSAG1200: Address:  142619  Function: 0  Alpha:   \X
+POCSAG1200: Address:  576795  Function: 1 
+POCSAG1200: Address:  823601  Function: 3 
+POCSAG2400: Address: 1320348  Function: 2  Alpha:   10:13-99 4269<NUL>
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   10:13-52 25/11/2021 10:12:16 INC 24718231 12D02 17 DALTON FOLD, CROSTON LEYLAND, PR26 9AF Male 17Y FITTING GRD 348834 419156<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913681  Function: 2  Alpha:   10:12-31 4268<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   A<EM>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   10:12-37 N1: zbx4 hlzbxpv01 Minor: Connection from OA-HQ to Bluesquare via Entanet down 0<LF><NUL>
+POCSAG1200: Address:  413079  Function: 2  Alpha:   10:12-71 (3/3) Assigned: JY20A1, JY20P1; Roles    JY20P1:WRL; Additional_Data Address Classification Workshop / Light Industrial
+POCSAG1200: Address:  413079  Function: 2  Alpha:   10:12-70 (1/3)030483-25112021; F1.0.0.P FIRE - INDUSTRIAL / COMMERCIAL;
+POCSAG1200: Address:  172925  Function: 0  Alpha:   fR`f`
+POCSAG1200: Address:  747020  Function: 1 
+POCSAG1200: Address:  413036  Function: 2 
+POCSAG1200: Address:  792955  Function: 1 
+POCSAG1200: Address:  152291  Function: 3 
+POCSAG1200: Address: 1882744  Function: 2 
+POCSAG1200: Address:  929757  Function: 2 
+POCSAG1200: Address: 1584828  Function: 0  Alpha:   <SYN>_
+POCSAG1200: Address:  249754  Function: 3  Alpha:   4sDq0rt7
+POCSAG1200: Address:  361689  Function: 1 
+POCSAG1200: Address:  999025  Function: 3 
+POCSAG1200: Address: 1536045  Function: 1 
+POCSAG1200: Address:   66131  Function: 0  Alpha:   Y2<DLE>A1:AL
+POCSAG1200: Address: 1681792  Function: 0  Alpha:   <ENQ>FM<SOH>I.3<ETB>G<ETX><SOH>
+POCSAG1200: Address: 1954599  Function: 2  Alpha:   O%(<GS><DLE>
+POCSAG1200: Address: 1249054  Function: 2  Alpha:   <z
+POCSAG1200: Address:  131075  Function: 0  Alpha:    J<SO><FF>L
+POCSAG1200: Address:  282210  Function: 3 
+POCSAG1200: Address:  101241  Function: 0  Alpha:   d``d@
+POCSAG1200: Address: 1585738  Function: 3 
+POCSAG1200: Address: 1139008  Function: 3  Alpha:   <DC4>5
+POCSAG1200: Address: 1577130  Function: 0 
+POCSAG2400: Address:   28895  Function: 0  Alpha:   10:11-90 2184<NUL>
+POCSAG1200: Address:  649969  Function: 2  Alpha:   10:10-50 60641
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   10:10-64 60641
+POCSAG1200: Address:  679608  Function: 2  Alpha:   10:10-34 60641
+POCSAG1200: Address:  230844  Function: 2  Alpha:   <DC4><SOH>
+POCSAG1200: Address:  420485  Function: 3  Alpha:   FR
 POCSAG2400: Address:   28907  Function: 0  Alpha:   10:09-72 5202<NUL>
 POCSAG1200: Address:  779656  Function: 2  Alpha:   Q2
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:09-58 25/11/2021 10:06:19 INC 24718210 01C05 101 RAINFORD ROAD, WINDLE ST HELENS WA11, WA10 6DG Male 83Y VOMITING - BACK AND STOMACH PAIN GRD 349252 397097<NUL>
@@ -950,51 +998,3 @@ POCSAG1200: Address:  334075  Function: 2  Alpha:   08:38-61 25/11/2021 08:31:39
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   08:38-60 25/11/2021 08:31:39 INC 24717831 06E01A 21 LANCING AVENUE, ORFORD WARRINGTON WA2, WA2 9TG Male 80Y ASTHMA - FIGHTING FOR BREATH GRD 360515 391569
 POCSAG1200: Address: 2011891  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0838251121+++TIME=0838251121<NUL>
-POCSAG2400: Address: 1324637  Function: 2  Alpha:   08:38-52 80300
-POCSAG1200: Address:   40074  Function: 2  Alpha:   08:38-65 25/11/2021 08:34:47 INC 24717840 06E01E 196 UPPER CHORLTON ROAD - SUPPORTED LIVING, UPPER CHORLTON ROAD, OLD TRAFFORD MANCHESTER, M16 7SG Female 47Y SATS 72 - BREATHING DIFF GRD 382455 39538
-POCSAG1200: Address: 1213200  Function: 0  Alpha:   IS PACEMAKER IS NOT WORKING GRD 370896 408692
-POCSAG1200: Address: 1874438  Function: 3 
-POCSAG1200: Address: 1649638  Function: 3 
-POCSAG1200: Address:  296909  Function: 1 
-POCSAG1200: Address:  380181  Function: 0 
-POCSAG1200: Address:   91435  Function: 0  Alpha:   RE
-POCSAG1200: Address: 1395506  Function: 3 
-POCSAG1200: Address: 1283338  Function: 3 
-POCSAG1200: Address: 1444249  Function: 1 
-POCSAG1200: Address:  266854  Function: 1  Alpha:   v<SYN>v<ACK>'<SYN><BEL><DC4>vY<EOT>
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address: 1671980  Function: 3  Alpha:   jf
-POCSAG1200: Address:  200284  Function: 2 
-POCSAG1200: Address: 1207002  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
-POCSAG1200: Address: 1686361  Function: 1  Alpha:   f`
-POCSAG1200: Address:  200280  Function: 2 
-POCSAG1200: Address:  538344  Function: 0 
-POCSAG1200: Address: 1749037  Function: 2 
-POCSAG1200: Address: 1071492  Function: 3  Alpha:   IQ
-POCSAG1200: Address: 1856147  Function: 1 
-POCSAG1200: Address: 1618179  Function: 2 
-POCSAG1200: Address:  140066  Function: 3 
-POCSAG1200: Address: 1238922  Function: 0 
-POCSAG1200: Address:  305305  Function: 1 
-POCSAG1200: Address:  678449  Function: 1 
-POCSAG1200: Address:  183047  Function: 3 
-POCSAG1200: Address: 1068141  Function: 1 
-POCSAG1200: Address: 1946356  Function: 1 
-POCSAG1200: Address: 1705315  Function: 3  Alpha:   <CAN><ESC>
-POCSAG1200: Address:  760866  Function: 1  Alpha:   ,<FS>%-<DC4>
-POCSAG1200: Address: 1070689  Function: 1 
-POCSAG1200: Address:  325966  Function: 1  Alpha:   LT
-POCSAG1200: Address:  661133  Function: 1  Alpha:   <DC4>h
-POCSAG1200: Address: 1578324  Function: 0 
-POCSAG1200: Address:  761380  Function: 3  Alpha:   <STX>*
-POCSAG1200: Address: 1650019  Function: 3 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   08:37-72 33811
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  583580  Function: 2  Alpha:   08:37-23 80300
-POCSAG2400: Address: 1324310  Function: 2  Alpha:   08:37-64 80300
-POCSAG1200: Address: 1058636  Function: 2  Alpha:   08:37-07 25/11/2021 08:35:21 INC 24717841 06E01 35 NEWINGTON AVENUE, BLACKBURN, BB1 9RG Female 10Y LIPS BLUE GRD 368850 431130<NUL><NUL>
-POCSAG1200: Address: 1321700  Function: 2  Alpha:   08:36-29 Destination: Parking\D78 Ext TP, Booking Ref#: 802188, Vehicle: OU16EOS. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
-POCSAG2400: Address: 1324553  Function: 2  Alpha:   08:36-43 INC ALERT No: 16822180 Traffic/Transportation Accidents - been run over, AT: ON ROUND ABOUT, 72 OAKDALE ROAD, POOLE, BH15 3LG, Time of Call: 25/11/2021 08:35:22, Co-ords: 50.7376962 -1.9701813<NUL>
-POCSAG2400: Address: 1323696  Function: 2  Alpha:   08:36-19 80300
-POCSAG2400: Address:  583561  Function: 2  Alpha:   08:36-19 80300
-POCSAG2400: Address:  583543  Function: 2  Alpha:   08:35-90 80300
