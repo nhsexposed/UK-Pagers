@@ -1,3 +1,22 @@
+POCSAG1200: Address: 1474040  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28923  Function: 0  Alpha:   04:26-05 4411<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   04:25-49 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   04:25-73 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL o
+POCSAG2400: Address:  867641  Function: 3 
+POCSAG2400: Address:  266849  Function: 2 
+POCSAG2400: Address: 1550218  Function: 0 
+POCSAG2400: Address:  660272  Function: 3 
+POCSAG2400: Address:   43391  Function: 2  Alpha:   O%
+POCSAG2400: Address:   44079  Function: 1 
+POCSAG2400: Address: 1952566  Function: 2 
+POCSAG2400: Address:  429550  Function: 3 
+POCSAG2400: Address: 1568157  Function: 1 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   04:25-79 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   04:25-09 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   04:25-72 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   04:25-62 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafintweb01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   04:25-39 JOHN CUNNINGHAM REQUESTING CALL FROM RPA, 01303 284 603<NUL>
 POCSAG2400: Address:   28920  Function: 0  Alpha:   04:24-92 2183<NUL>
 POCSAG2400: Address:  858147  Function: 1  Alpha:   ,<FF>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0423251121+++TIME=04232
@@ -979,22 +998,3 @@ POCSAG2400: Address: 1206977  Function: 2
 POCSAG2400: Address: 2059712  Function: 1 
 POCSAG2400: Address:   70935  Function: 2  Alpha:   g<DC2>T:<DLE>
 POCSAG2400: Address: 1812159  Function: 0 
-POCSAG2400: Address: 1686117  Function: 2 
-POCSAG2400: Address:  810290  Function: 1  Alpha:   \N
-POCSAG2400: Address: 1522769  Function: 3  Alpha:   <SOH>M
-POCSAG2400: Address:   95616  Function: 0  Alpha:   RN
-POCSAG2400: Address:   66927  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1601141  Function: 1  Alpha:   <DC2>B<SYN>:&<SO>BE
-POCSAG2400: Address: 1284466  Function: 3  Alpha:   <SYN>f.<ACK><LF>
-POCSAG2400: Address:  109401  Function: 0  Alpha:   lr
-POCSAG2400: Address: 2086959  Function: 2 
-POCSAG2400: Address: 1650758  Function: 2 
-POCSAG2400: Address: 1750403  Function: 2 
-POCSAG2400: Address:  481361  Function: 0 
-POCSAG2400: Address:  275562  Function: 1 
-POCSAG2400: Address:  760122  Function: 0 
-POCSAG2400: Address: 1188201  Function: 0 
-POCSAG2400: Address:  306905  Function: 3 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   00:03-42 3104<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0003251121+++TIME=0<DC1>;3251121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0003251121+++TIME=0003251121<NUL>
