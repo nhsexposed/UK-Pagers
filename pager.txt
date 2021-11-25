@@ -1,3 +1,45 @@
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   19:24-07 4554<NUL>
+POCSAG1200: Address: 1321748  Function: 2  Alpha:   19:23-94 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321744  Function: 2  Alpha:   19:23-92 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321743  Function: 2  Alpha:   19:23-95 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321741  Function: 2  Alpha:   19:23-87 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321729  Function: 2  Alpha:   19:23-45 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1997179  Function: 3  Alpha:   v<ACK><STX>;#
+POCSAG1200: Address: 1092626  Function: 0 
+POCSAG1200: Address: 1814596  Function: 0 
+POCSAG1200: Address: 1321754  Function: 2  Alpha:   19:23-90 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321720  Function: 2  Alpha:   19:23-60 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321739  Function: 2  Alpha:   19:23-88 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321736  Function: 2  Alpha:   19:23-86 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321746  Function: 2  Alpha:   19:23-10 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG1200: Address: 1321721  Function: 2  Alpha:   19:23-37 PPCI test call - please respond to exv#lsion 4745<NUL><NUL>
+POCSAG1200: Address: 1321727  Function: 2  Alpha:   19:23-54 PPCI test call - please respond to extension 4745<NUL><NUL>
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   19:23-33 INC ALERT No: 16824486 Cardiac Arrest -, AT: AVON LODGE CARE CENTRE, SOUTHEY AVENUE, KINGSWOOD BRISTOL, BS15 1QT, Time of Call: 25/11/2021 19:22:16, Co-ords: 51.4648661 -2.5057718
+POCSAG2400: Address:   28905  Function: 0  Alpha:   19:23-25 4201<NUL>
+POCSAG1200: Address: 1032677  Function: 3  Alpha:   <DC2>CH<NUL>L
+POCSAG1200: Address:  557769  Function: 3 
+POCSAG1200: Address:  189072  Function: 2 
+POCSAG1200: Address:  330143  Function: 0  Alpha:   O%($<GS>
+POCSAG1200: Address:  533175  Function: 0 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   19:22-75 25/11/2021 19:19:40 INC 24720607 23B01I FLAT 1, 62 PARK ROAD SOUTH, BIRKENHEAD, CH43 4UY Female 29Y OVERDOSE OF SLEEPING TABLETS GRD 330902 388689<NUL><NUL>
+POCSAG1200: Address:   33723  Function: 2  Alpha:   19:22-07 19:22-06 PLS CALL JASMINE 07748 516 493. RE SUPPOSITORY INSERTION HELP
+POCSAG1200: Address:   62017  Function: 3 
+POCSAG1200: Address: 1711009  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  600772  Function: 2  Alpha:   p<SO><BS>0PH0f
+POCSAG1200: Address: 1932909  Function: 1  Alpha:   <STX><GS>J<DC2><STX>MMEYEY<SOH>MaaeAU<SOH><NUL>
+POCSAG1200: Address:  930547  Function: 2  Alpha:   19:20-88 25/11/2021 19:16:24 INC 24720594 29B01 OUTSIDE 27, CONWAY DRIVE, BIRKENHEAD CH41, CH41 4PJ Male 22Y CRASHED INTO BIKE GRD 331616 388905<NUL>
+POCSAG1200: Address:  788660  Function: 0 
+POCSAG1200: Address:  280939  Function: 1 
+POCSAG1200: Address:  315777  Function: 1  Alpha:   D 
+POCSAG1200: Address:  206120  Function: 3  Alpha:   2Q
+POCSAG1200: Address:  315424  Function: 3 
+POCSAG1200: Address: 1066071  Function: 1  Alpha:   &ZVg<DC2>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   19:20-03 25/11/2021 19:16:24 INC 24720594 29B01 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   19:20-24 25/11/2021 19:16:24 INC 24720594 29B01 OUTSIDE 27, CONWAY DRIVE, BIRKENHEAD CH41, CH41 4PJ Male 22Y CRASHED INTO BIKE GRD 331616 388905<NUL>
+POCSAG1200: Address: 1811160  Function: 0 
+POCSAG1200: Address:  585963  Function: 2  Alpha:   19:19-20 please CONTACT CONTROLx";
+POCSAG1200: Address: 1321450  Function: 2  Alpha:   19:19-09 please CONTACT CONTROL
 POCSAG1200: Address: 1484413  Function: 0 
 POCSAG2400: Address: 1022623  Function: 2  Alpha:   19:18-49 01603711138
 POCSAG1200: Address: 1770057  Function: 2 
@@ -956,45 +998,3 @@ POCSAG2400: Address: 1323941  Function: 2  Alpha:   18:04-83 AMBER: SEL 111 is i
 POCSAG2400: Address: 1324078  Function: 2  Alpha:   18:04-09 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
 POCSAG2400: Address: 1324054  Function: 2  Alpha:   18:04-54 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
 POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:04-49 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   18:04-78 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
-POCSAG2400: Address: 1324071  Function: 2  Alpha:   18:04-63 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
-POCSAG2400: Address: 1324023  Function: 2  Alpha:   18:04-45 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
-POCSAG1200: Address: 1917119  Function: 2  Alpha:   18:04-48 AMBER: SEL 111 is in CAS escalation - Level 3 - For info only, contact 02082536951/07557565895. SEL Ops Initials T.A
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803251121+++TIME=1803251121<NUL>
-POCSAG2400: Address: 1022623  Function: 2  Alpha:   18:03-47 01603711132
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803251121+++TIME=1803251121<NUL>
-POCSAG1200: Address:  216378  Function: 2  Alpha:   18:03-58 N3: BlueSquare Test Page from blfwpv71.openans.co.uk sent 18:03<LF><NUL>
-POCSAG2400: Address:   64608  Function: 0 
-POCSAG1200: Address: 1761473  Function: 3  Alpha:   U(
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   18:02-54 4387<NUL>
-POCSAG1200: Address: 1512731  Function: 3  Alpha:   U*
-POCSAG1200: Address:   41512  Function: 2  Alpha:   18:02-93 33231
-POCSAG2400: Address:   28899  Function: 0  Alpha:   18:01-64 4437<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  652176  Function: 3 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   18:01-28 5530<NUL>
-POCSAG2400: Address: 1322351  Function: 2  Alpha:   18:01-87 Please call PAH ext:973508<NUL><NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   18:01-22 4399<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   18:01-27 5530<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   18:00-80 4387<NUL>
-POCSAG2400: Address: 1814995  Function: 0  Alpha:   fn
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   18:00-34 25/11/2021 17:59:12 INC 24720261 25B03V 7 OAK STREET, ECCLES MANCHESTER, M30 0GE Male 75Y SUICIDAL MALE GRD 376534 398260<NUL>
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   18:01-99 33842
-POCSAG1200: Address:   40074  Function: 2  Alpha:   18:00-07 25/11/2021 17:59:23 INC 24720263 04D02A 57 NORTHCOTE AVENUE, BENCHILL MANCHESTER, M22 9AJ Male UnknownY ASSUALTED BY 5 X MALES - BLEEDING FROM MOUTH GRD 383005 387586<NUL><NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   18:00-02 25/11/2021 17:59:23 INC 24720263 04D02A 57 NORTHCOTE AVENUE, BENCHILL MANCHESTER, M22 9AJ Male UnknownY ASSUALTED BY 5 X MALES - BLEEDING FROM MOUTH GRD 383005 387586<NUL><NUL>
-POCSAG1200: Address:  135354  Function: 2  Alpha:   18:00-72 25/11/2021 17:59:08 INC 24720260 29D02M ON THE CORNER OF, ST LAWRENCE STREET, GREAT HARWOOD BLACKBURN, BB6 7QZ Male 18Y RTC - VEH VS ELECTRIC SCOOTER GRD 373341 432417<NUL>
-POCSAG1200: Address:  327275  Function: 2  Alpha:   18:00-77 25/11/2021 17:57:17 INC 24720254 17A04G 77 MANCHESTER ROAD, BLACKPOOL, FY3 8DP Male 62Y ON FLOOR GRD 331805 436624<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   18:00-82 25/11/2021 17:59:23 INC 24720263 04D02A 57 NORTHCOTE AVENUE, BENCHILL MANCHESTER, M22 9AJ Male UnknownY ASSUALTED BY 5 X MALES - BLEEDING FROM MOUTH GRD 383005 387586<NUL><NUL>
-POCSAG1200: Address: 1404613  Function: 0 
-POCSAG1200: Address: 1419048  Function: 3  Alpha:   df
-POCSAG1200: Address: 1207006  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>E]i
-POCSAG1200: Address: 1651050  Function: 0 
-POCSAG1200: Address: 1686369  Function: 3  Alpha:   fhb@h
-POCSAG1200: Address: 1216768  Function: 2 
-POCSAG1200: Address: 1511327  Function: 2  Alpha:   IZhg<DC2><DC4><ENQ>:
-POCSAG1200: Address:  921694  Function: 1 
-POCSAG1200: Address: 1223014  Function: 2 
-POCSAG1200: Address:  591060  Function: 2  Alpha:   )P"fb
-POCSAG1200: Address:  317068  Function: 0 
-POCSAG1200: Address:  350729  Function: 0  Alpha:   f0v2P<CAN>\,
-POCSAG1200: Address: 1651054  Function: 0 
