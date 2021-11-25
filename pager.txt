@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1534195  Function: 2  Alpha:   07:34-57 (1/2)For Information JHS022 Incident HH025497-25112021 Address  1          OVERTON HOUSE          LONDON ROAD          OVERTON          RG25 3TP Type     F4.P<NUL>
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   07:33-45 25/11/2021 07:32:49 INC 24717692 06D01 28 WESTFIELDS, CROSTON LEYLAND, PR26 9RT Male 78Y BREATHING DIFFICULTIES GRD 348475 418779<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  267831  Function: 2  Alpha:   07:31-18 12
+POCSAG1200: Address:  726601  Function: 3 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   07:30-51 5002<NUL>
+POCSAG1200: Address:  735074  Function: 1 
+POCSAG1200: Address:   74056  Function: 1  Alpha:   EA
+POCSAG1200: Address: 1352804  Function: 0  Alpha:   WHC+d
+POCSAG1200: Address: 1796632  Function: 2 
+POCSAG1200: Address:  664528  Function: 3 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   07:29-35 PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: gpafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
 POCSAG2400: Address:   28720  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0728251121+++TIME=0728251121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728251121+++TIME=0728251121<NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address:  635714  Function: 2  Alpha:   )P<ETX>)"@Y<EM>X<FS>[
 POCSAG1200: Address:  533048  Function: 3  Alpha:   T-t<EOT>"
 POCSAG1200: Address: 1582680  Function: 0 
 POCSAG1200: Address:  850423  Function: 1  Alpha:   R Hg<DC2>
-POCSAG1200: Address:  395541  Function: 1 
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   03:19-71 25/11/2021 03:17:27 INC 24717281 10D05 19 PERCY STREET, FLEETWOOD, FY7 7AD Male 63Y PACEMAKER FITTED - PAIN IN CHEST - HEART RACING GRD 332935 447532<NUL>
-POCSAG1200: Address:  678458  Function: 2  Alpha:   03:19-61 25/11/2021 03:17:27 INC 24717281 10D05 19 PERCY STREET, FLEETWOOD, FY7 7AD Male 63Y PACEMAKER FITTED - PAIN IN CHEST - HEART RACING GRD 332935 447532<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318251121+++TIME=0318251121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1568572  Function: 2 
-POCSAG2400: Address:  626779  Function: 1  Alpha:   v<ACK>
-POCSAG2400: Address: 1652835  Function: 3 
-POCSAG2400: Address: 1488913  Function: 0  Alpha:   <DLE>(j<FS>hX4<DC2>
-POCSAG2400: Address:  417400  Function: 0 
-POCSAG2400: Address:  712768  Function: 1 
-POCSAG2400: Address: 1258607  Function: 1  Alpha:   g<DC2>
-POCSAG2400: Address: 1891380  Function: 0 
