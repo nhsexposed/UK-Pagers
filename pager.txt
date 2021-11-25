@@ -1,3 +1,32 @@
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   13:34-68 please call 8263
+POCSAG2400: Address:   28907  Function: 0  Alpha:   13:33-82 4167<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1333251121+++TIME=1333251121<NUL>
+POCSAG2400: Address:  549099  Function: 2  Alpha:   13:33-06 PLEASE CALL HUB OPERATIONS RE DONOR 152965 BEDFORD HOSPITAL 02/08/1987 01179757580
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333251121+++TIME=1333251121<NUL>
+POCSAG2400: Address:  549107  Function: 2  Alpha:   13:33-60 PLEASE CALL HUB OPERATIONS RE DONOR 152965 BEDFORD HOSPITAL 02/08/1987 01179757580
+POCSAG2400: Address:  549112  Function: 2  Alpha:   13:33-72 PLEASE CALL HUB OPERATIONS RE DONOR 152965 BEDFORD HOSPITAL 02/08/1987 01179757580
+POCSAG2400: Address: 1323892  Function: 2  Alpha:   13:32-96 2168<NUL>
+POCSAG2400: Address: 1323189  Function: 2  Alpha:   13:31-22 PLEASE CALL HUB OPERATIONS RE DONOR 153105 01179757580<NUL><NUL>
+POCSAG2400: Address: 1323249  Function: 2  Alpha:   13:31-94 PLEASE CALL HUB OPERATIONS RE DONOR 153105 01179757580<NUL><NUL>
+POCSAG2400: Address:   78434  Function: 2 
+POCSAG2400: Address:  396889  Function: 1  Alpha:   <BS>4
+POCSAG2400: Address: 1069873  Function: 2 
+POCSAG2400: Address:  657706  Function: 2 
+POCSAG2400: Address:  907892  Function: 2  Alpha:   -m-<CR><SO>
+POCSAG2400: Address:  537707  Function: 0 
+POCSAG2400: Address:  793781  Function: 3 
+POCSAG2400: Address:  534253  Function: 1 
+POCSAG2400: Address: 1323237  Function: 2  Alpha:   13:31-90 PLEASE CALL HUB OPERATIONS RE DONOR 153105 01179757580<NUL><NUL>
+POCSAG2400: Address: 1323172  Function: 2  Alpha:   13:31-71 PLEASE CALL HUB OPERATIONS RE DONOR 153105 01179757580<NUL><NUL>
+POCSAG2400: Address: 1323177  Function: 2  Alpha:   13:31-66 PLEASE CALL HUB O<EOT>ARATIONS RE DONOR 153105 01179757580<NUL><NUL>
+POCSAG2400: Address: 1323176  Function: 2  Alpha:   13:31-53 PLEASE CALL HUB OPERATIONS RE DONOR 153105 01179757580<NUL><NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   13:31-43 2233<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  852553  Function: 3 
+POCSAG1200: Address: 1172288  Function: 2 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   13:31-07 4157<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   13:30-38 1666<NUL>
+POCSAG1200: Address:  420486  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1913716  Function: 2  Alpha:   13:29-22 4312<NUL>
 POCSAG2400: Address: 1323941  Function: 2  Alpha:   13:28-77 AMBER: SEL 111 is in CAS Level 2 Escalation - For further information please call <02082536951 or 07557565895> SEL IUC OPS- INITIALS T.A
 POCSAG2400: Address: 1749866  Function: 0  Alpha:   <ACK><ETB>
@@ -969,32 +998,3 @@ POCSAG1200: Address:   34136  Function: 1  Alpha:   KgGCO
 POCSAG1200: Address:  214607  Function: 3  Alpha:   O%
 POCSAG1200: Address:  209391  Function: 0 
 POCSAG1200: Address:  135483  Function: 2  Alpha:   11:49-14 Primary PCI Call, Cath Lab ETA 5 Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)<NUL>
-POCSAG1200: Address:  428412  Function: 2  Alpha:   11:49-07 Primary PCI Call, Cath Lab ETA 5 Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)<NUL>
-POCSAG1200: Address:   41045  Function: 2  Alpha:   11:49-21 Primary PCI Call, Cath Lab ETA 5 Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)<NUL>
-POCSAG1200: Address:  733992  Function: 2  Alpha:   y=:48-28 Primary PCI Call, Cath Lab ETA 5 Minutes, Contact BACU on Ext 3246 or 201r)9message sent By Ashford and St Peters Hospitals)<NUL>
-POCSAG1200: Address:  514999  Function: 1  Alpha:   O%(<SI><RS>
-POCSAG1200: Address:  395916  Function: 0 
-POCSAG1200: Address:  576564  Function: 3 
-POCSAG1200: Address: 1667427  Function: 1 
-POCSAG1200: Address:   90498  Function: 2  Alpha:   ll, C
-POCSAG1200: Address:  377633  Function: 3 
-POCSAG1200: Address:  998417  Function: 0 
-POCSAG1200: Address: 1070320  Function: 1  Alpha:   n<SO>
-POCSAG1200: Address:  362335  Function: 0  Alpha:   `h@g<DC2>
-POCSAG1200: Address: 1467982  Function: 1  Alpha:   X<CAN>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1148251121+++TIME=1148251121<NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   11:48-83 25/11/2021 11:45:35 INC 24718676 10D04 65 CHERRY CRESCENT, ROSSENDALE, BB4 6DL Female 81Y VOMITTING / UNWELL GRD 380646 422059<NUL><NUL>
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address: 2008695  Function: 1 
-POCSAG2400: Address:  549210  Function: 2  Alpha:   11:47-48 76911
-POCSAG2400: Address:   11729  Function: 0  Alpha:   11:47-94 PLS CALL KUSUM, CCU AT
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:47-61 2942<NUL>
-POCSAG2400: Address: 1913785  Function: 2  Alpha:   11:47-46 2307<NUL>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   11:47-84 25/11/2021 11:39:31 INC 24718648 19D01 VERNON COURT - FLAT 1, (47-49) MARPLE ROAD, OFFERTON STOCKPORT, SK2 5EL Female 80Y F- HEART RATE FAST GRD 391718 389263<NUL>
-POCSAG2400: Address:   28900  Function: 0  Alpha:   11:46-20 3189<NUL>
-POCSAG1200: Address: 1606192  Function: 0 
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<DC2>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   11:46-30 4157<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:46-04 25/11/2021 11:40:41 INC 24718655 29B01V O/S NEAR COUNCIL
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   11:46-58 25/11/2021 11:40:41 INC 24718655 29B01V O/S NEAR COUNCIL BUILDING ON, MAYOR STREET, BOLTON Unknown UnknownY RTC - VEHICLE V VEHICLE GRD 370812 408881<NUL>
-POCSAG1200: Address: 1484954  Function: 0 
