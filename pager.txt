@@ -1,3 +1,28 @@
+POCSAG1200: Address:  300097  Function: 1  Alpha:   w]
+POCSAG2400: Address:   28895  Function: 0  Alpha:   12:24-92 2183<NUL>
+POCSAG2400: Address:  858416  Function: 2 
+POCSAG2400: Address: 1652079  Function: 1  Alpha:   O%
+POCSAG2400: Address: 1718182  Function: 0  Alpha:   II
+POCSAG2400: Address:  353502  Function: 1 
+POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   12:23-80 5013<NUL>
+POCSAG2400: Address: 2024050  Function: 3 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323992  Function: 2  Alpha:   12:22-31 3310<NUL>
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  284168  Function: 3  Alpha:   pr
+POCSAG1200: Address: 1238541  Function: 1 
+POCSAG1200: Address:  380700  Function: 1 
+POCSAG1200: Address:  156899  Function: 2 
+POCSAG1200: Address:   88578  Function: 3 
+POCSAG1200: Address:  103138  Function: 2 
+POCSAG2400: Address:   28919  Function: 0  Alpha:   12:21-66 4851<NUL>
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   12:21-66 8013<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:21-20 4165<NUL>
+POCSAG1200: Address: 1349456  Function: 1 
+POCSAG1200: Address: 1028384  Function: 0 
+POCSAG1200: Address: 1761288  Function: 2 
 POCSAG2400: Address:  585961  Function: 2  Alpha:   12:19-48 Please Call Amy 38202<NUL>
 POCSAG1200: Address:  325887  Function: 3  Alpha:   "<DLE>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1218251121+++TIME=1218251121<NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address:  433814  Function: 2  Alpha:   10:40-81 Testing/Testing Pri
 POCSAG1200: Address:  432473  Function: 2  Alpha:   10:40-46 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
 POCSAG1200: Address:  696728  Function: 2  Alpha:   10:40-37 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
 POCSAG1200: Address:  917361  Function: 0 
-POCSAG1200: Address: 1500190  Function: 2  Alpha:   10:40-11 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address:  696608  Function: 2  Alpha:   10:40-13 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address:  733992  Function: 2  Alpha:   10:40-27 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St rtters Hospitals)
-POCSAG1200: Address:  421535  Function: 1 
-POCSAG1200: Address: 1316102  Function: 0 
-POCSAG1200: Address:  311732  Function: 0  Alpha:   , 
-POCSAG1200: Address:  148499  Function: 2  Alpha:   <DC3><DC3>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   10:40-74 25/11/2021 10:38:39 INC 24718355 27D04Y 3 VINCENT AVENUE, WATERHEAD OLDHAM, OL4 2RW Male 22Y SLIT THROAT GRD 394502 405847
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   10:40-16 4312<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:39-80 5070<NUL>
-POCSAG1200: Address: 1771118  Function: 2 
-POCSAG1200: Address: 1745052  Function: 0 
-POCSAG1200: Address:   82891  Function: 2  Alpha:    I
-POCSAG1200: Address: 1446682  Function: 1 
-POCSAG1200: Address: 1839382  Function: 3  Alpha:   Ih
-POCSAG1200: Address: 1914725  Function: 3 
-POCSAG1200: Address:   71668  Function: 3  Alpha:    iNci
-POCSAG1200: Address:  995227  Function: 0  Alpha:   ;<EM>
-POCSAG1200: Address:  663162  Function: 3 
-POCSAG1200: Address: 1914722  Function: 0 
-POCSAG1200: Address: 2086839  Function: 3  Alpha:   l<FS>}g<DC2><DC4>.<SYN><ETB><BEL>B<SO>6/<ACK><DC2>.
-POCSAG1200: Address:  649701  Function: 3  Alpha:   _kEGK
-POCSAG1200: Address:  433825  Function: 2  Alpha:   10:39-29 The following
-POCSAG1200: Address:  530715  Function: 3 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:38-67 25/11/2021 10:37:35 INC 24718346 30B01 15 WORROW CLOSE, CROXTETH L11, L11 9AD Female 2Y BANGED HEAD ON FLOOR GRD 339894 395225<NUL><NUL>
