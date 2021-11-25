@@ -1,3 +1,58 @@
+POCSAG1200: Address:  272374  Function: 2  Alpha:   23:59-93 The following resources/officers have been assigned to incident DNDN011676-24112021: DN19S4 as WELF from THI(Thirsk)
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2358241121+++TIME=2358241121<NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   23:57-37 PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1<CR><LF>Service: Disk: I<CR><LF>Host: rhahoulapp04mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.93<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   23:57-05 PR_BIEM: Symantec Endpoint Protection is CRITICAL on host rdlfinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address: 1023345  Function: 3 
+POCSAG2400: Address:  867641  Function: 3 
+POCSAG2400: Address:  266848  Function: 2 
+POCSAG2400: Address:  912862  Function: 2 
+POCSAG2400: Address: 1686909  Function: 1  Alpha:   6<ACK>
+POCSAG2400: Address:  765443  Function: 3 
+POCSAG2400: Address: 1375945  Function: 0  Alpha:   <ETB><SI>
+POCSAG2400: Address: 1292180  Function: 3  Alpha:   ce<SUB> Sqmabte
+POCSAG2400: Address: 2078306  Function: 0 
+POCSAG2400: Address:  923687  Function: 3  Alpha:   <EOT>zV3<HT>*<ETX>!7OS
+POCSAG2400: Address: 1647974  Function: 1 
+POCSAG2400: Address:   84941  Function: 3  Alpha:    C
+POCSAG2400: Address:  784109  Function: 1 
+POCSAG2400: Address: 1839187  Function: 3 
+POCSAG2400: Address: 1881955  Function: 3 
+POCSAG2400: Address:  775105  Function: 2  Alpha:    Endp
+POCSAG2400: Address: 1804009  Function: 3 
+POCSAG2400: Address:  366200  Function: 2 
+POCSAG2400: Address:  445152  Function: 0 
+POCSAG2400: Address:  660279  Function: 3  Alpha:   O%
+POCSAG2400: Address:   43391  Function: 2 
+POCSAG2400: Address:   44078  Function: 1 
+POCSAG2400: Address: 1952566  Function: 2 
+POCSAG2400: Address:  429549  Function: 3 
+POCSAG2400: Address: 1568157  Function: 1 
+POCSAG2400: Address: 1685108  Function: 0  Alpha:   vf
+POCSAG2400: Address:  865047  Function: 3  Alpha:   g<DC2><DC4>6&WvV
+POCSAG2400: Address:  957270  Function: 0  Alpha:   <NUL><NUL>
+POCSAG2400: Address: 1550221  Function: 0 
+POCSAG2400: Address:  732412  Function: 0  Alpha:   <GS>l
+POCSAG2400: Address:  890307  Function: 0 
+POCSAG2400: Address: 1320555  Function: 2 
+POCSAG2400: Address:   86778  Function: 0 
+POCSAG2400: Address:   88146  Function: 3 
+POCSAG2400: Address: 1815416  Function: 2 
+POCSAG2400: Address: 1271387  Function: 2 
+POCSAG2400: Address:  432507  Function: 1 
+POCSAG2400: Address:  456430  Function: 3  Alpha:   t<ACK>
+POCSAG2400: Address: 1784173  Function: 3  Alpha:   f^^6<ACK>
+POCSAG2400: Address:  326603  Function: 3  Alpha:   t: rd
+POCSAG2400: Address: 2006578  Function: 1  Alpha:   <RS>}m]!
+POCSAG1200: Address:  906480  Function: 3  Alpha:   @<EM>
+POCSAG1200: Address: 2078590  Function: 0 
+POCSAG1200: Address:  885492  Function: 1  Alpha:   perat
+POCSAG1200: Address:  771852  Function: 2 
+POCSAG1200: Address:  494779  Function: 2 
+POCSAG1200: Address: 1315163  Function: 0 
+POCSAG1200: Address: 1153082  Function: 1 
+POCSAG1200: Address:  791455  Function: 2  Alpha:   O%h<SYN>'
+POCSAG1200: Address: 1881983  Function: 2 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   v 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2353241121+++TIME=2353241121<NUL>
 POCSAG2400: Address: 1095090  Function: 0 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -943,58 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG1200: Address: 1092442  Function: 2  Alpha:   21:12-99 24/11/2021 21:10:54 INC 24716267 31C02 10 LAKENHEATH ROAD, HALEWOOD L26, L26 1UQ Female 60Y COLLAPSED GRD 344435 384610
 POCSAG1200: Address: 1067866  Function: 2  Alpha:   21:12-48 24/11/2021 21:10:54 INC 24716267 31C02 10 LAKENHEATH ROAD, HALEWOOD L26, L26 1UQ Female 60Y COLLAPSED GRD 344435 384610
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  774009  Function: 2 
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   21:11-46 24/11/2021 21:06:22 INC 24716246 06E01E 4 HELSBY AVENUE, EASTHAM WIRRAL CH62, CH62 9BY Male 71Y CANT BREATHE GRD 335647 379475<NUL><NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:11-38 Please call Princess Elizabeth Ward 34395<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   21:11-22 24/11/2021 21:06:06 INC 24716245 09E02 5 BANK PLACE APARTMENTS, GREEN LANE, WILMSLOW SK9, SK9 1LL Male 90Y UNRESPONSIVE GRD 384757 381160<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   21:11-04 24/11/2021 21:06:06 INC 24716245 09E02 5 BANK PLACE APARTMENTS, GREEN LANE, WILMSLOW SK9, SK9 1LL Male 90Y UNRESPONSIVE GRD 384757 381160<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   21:10-70 3507<NUL>
-POCSAG2400: Address: 1976276  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   21:10-69 2445<NUL>
-POCSAG1200: Address:  306142  Function: 2  Alpha:   21:10-54 IT ON CALL PLS CALL WARD 7F    , 0186 523 1756<NUL><NUL>
-POCSAG1200: Address: 1983266  Function: 2  Alpha:   21:10-23 IT ON CALL PLS CALL WARD 7F    , 0186 523 1756<NUL><NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:09-57 4660<NUL>
-POCSAG1200: Address:  936977  Function: 2  Alpha:   [<ESC>
-POCSAG1200: Address: 1039409  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2108241121+++TIME=2108241121<NUL>
-POCSAG1200: Address:  269068  Function: 2  Alpha:   21:08-52 24/11/2021 21:06:41 INC 24716248 29D03 JUNCTION WITH LONGSIGHT ROAD, RIBCHESTER ROAD, CLAYTON LE DALE BLACKBURN, BB1 9EF Unknown UnknownY RTC CAR INTO BUS STOP GRD 367395 433169<NUL><NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   21:08-26 24/11/2021 21:06:41 INC 24716248 JUNCTION WITH LONGSIGHT ROAD, RIBCHESTER ROAD, CLAYTON LE DALE BLACKBURN, BB1 9EF Unknown UnknownY RTC CAR INTO BUS STOP GRD 367395 433169
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   21:08-46 24/11/2021 21:06:41 INC 24716248 JUNCTION WITH LONGSIGHT ROAD, RIBCHESTER ROAD, CLAYTON LE DALE BLACKBURN, BB1 9EF Unknown UnknownY RTC CAR INTO BUS STOP GRD 367395 433169
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108241121+++TIME=2108241121<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   21:08-20 24/11/2021 21:06:06 INC 24716245 09E02 5 BANK PLACE APARTMENTS, GREEN LANE, WILMSLOW SK9, SK9 1LL Male 90Y UNRESPONSIVE GRD 384757 381160<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   21:08-02 24/11/2021 21:06:06 INC 24716245 09E02 5 BANK PLACE APARTMENTS, GREEN LANE, WILMSLOW SK9, SK9 1LL Male 90Y UNRESPONSIVE GRD 384757 381160<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   21:07-55 24/11/2021 21:06:06 INC 24716245 09E02 5 BANK PLACE APARTMENTS, GREEN LANE, WILMSLOW SK9, SK9 1LL Male 90Y UNRESPONSIVE GRD 384757 381160<NUL><NUL>
-POCSAG2400: Address:  568411  Function: 2 
-POCSAG2400: Address:  611138  Function: 3 
-POCSAG2400: Address:  761406  Function: 1 
-POCSAG2400: Address:   75253  Function: 1  Alpha:   AD<FF> K
-POCSAG2400: Address: 1417876  Function: 2 
-POCSAG2400: Address: 1683499  Function: 0  Alpha:   <BS>[
-POCSAG2400: Address: 1932516  Function: 0 
-POCSAG2400: Address:  472906  Function: 3  Alpha:   Wa77z$wz
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1322125  Function: 2  Alpha:   21:07-19 please call rfh ext 36079
-POCSAG1200: Address: 1052862  Function: 2  Alpha:   21:07-42 2268386<NUL>
-POCSAG1200: Address:   40161  Function: 2  Alpha:   21:06-60 please call rfh ext 35543
-POCSAG1200: Address: 1322125  Function: 2  Alpha:   21:06-18 please call rfh ext 35543
-POCSAG1200: Address: 1321531  Function: 2  Alpha:   21:06-60 02392283363
-POCSAG1200: Address:  585229  Function: 2  Alpha:   21:05-76 DUTY DOCTOR PLEASE CALL JUNIPER WARD VIA SWITCHBOARD<NUL>
-POCSAG1200: Address: 1477208  Function: 0  Alpha:   8J
-POCSAG1200: Address: 1288327  Function: 2  Alpha:   b@Rg<DC2>4 E
-POCSAG1200: Address: 1349436  Function: 1 
-POCSAG2400: Address:   33704  Function: 2  Alpha:   21:04-86 21:04-85 PLS CALL EMMA, SOUTHEAST, ON 07590 352 164
-POCSAG2400: Address: 1323282  Function: 2  Alpha:   21:04-50 PLS CALL EMMA, SOUTHEAST, ON 07590 352 164
-POCSAG2400: Address: 1022657  Function: 2  Alpha:   21:04-92 PLS CALL EMMA, SOUTHEAST, ON 07590 352 164
-POCSAG2400: Address: 1323067  Function: 2  Alpha:   21:04-30 PLS CALL EMMA, SOUTHEAST, ON 07590 352 164
-POCSAG1200: Address: 1089665  Function: 2  Alpha:   21:05-71 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   21:04-45 24/11/2021 21:02:10 INC 24716234 12D02 13 MEADOW COURT, OSWALDTWISTLE NR ACCRINGTON, BB5 3HN Male 62Y FITTING GRD 374244 427771<NUL>
-POCSAG1200: Address: 1330703  Function: 2 
-POCSAG1200: Address: 1330702  Function: 2 
-POCSAG1200: Address: 1330702  Function: 2 
-POCSAG2400: Address: 1319802  Function: 2  Alpha:   21:04-82 please bleep 547
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2103241121+++TIME=2103241121<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   21:03-99 24/11/2021 21:02:01 INC 24716233 29D05 O/S, COACH & HORSES, 1 MARKET S
-POCSAG1200: Address:  216378  Function: 2  Alpha:   21:03-23 N3: BlueSquare Test Page from blfwpv71.openans.co.uk sent 21:03<LF><NUL>
-POCSAG2400: Address:   33704  Function: 2  Alpha:   21:02-84 21:02-83 CSLL JOANNE QE 0738 490 3142 <NUL>
-POCSAG2400: Address: 1323282  Function: 2  Alpha:   21:02-49 CSLL JOANNE QE 0738 490 3142 <NUL>
-POCSAG2400: Address: 1022657  Function: 2  Alpha:   21:02-91 CSLL JOANNE QE 0738 490 3142 <NUL>
