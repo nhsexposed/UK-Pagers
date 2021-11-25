@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0953251121+++TIME=0953251121<NUL>
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   09:53-52 4034<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0953251121+++TIME=0953251121<NUL>
+POCSAG1200: Address: 1807298  Function: 2  Alpha:   09:53-43 4371<NUL>
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   6"
+POCSAG2400: Address: 1323792  Function: 2  Alpha:   09:53-06 3157<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   09:53-27 2642<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   09:53-80 5002<NUL>
+POCSAG2400: Address:   28923  Function: 0  Alpha:   09:52-06 2642<NUL>
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   09:52-69 3266<NUL>
+POCSAG1200: Address: 1205453  Function: 2 
+POCSAG1200: Address: 2023591  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   09:51m<ETB>; 25/11/2021 09:44:22 INC 24718097 26D01 6 DALNY STREET, LEVENSHULME MANCHESTER, M19 3NR Male 82Y 82YOM- CHEST INFECTION 5 DAYS - DEMENTIA CONCERNS GRD 387726 394071<NUL><NUL>
+POCSAG1200: Address:  548014  Function: 2  Alpha:   09:51-90 Destination: BCM\D25 North\01, Booking Ref#: S11122011, Vehicle: DG20ADZ. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><NUL><NUL>
+POCSAG512: Address: 1652321  Function: 1  Alpha:   Vfv<ACK><ETB>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   09:50-69 4155<NUL>
+POCSAG2400: Address:  549126  Function: 2  Alpha:   09:49-58 72943
 POCSAG1200: Address:  618313  Function: 3  Alpha:   <ACK><VT>
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:49-61 4554<NUL>
 POCSAG2400: Address: 1320164  Function: 2  Alpha:   09:48-38 72943
@@ -980,21 +998,3 @@ POCSAG1200: Address:  103261  Function: 1  Alpha:   f`
 POCSAG1200: Address:  200285  Function: 2 
 POCSAG1200: Address: 1578724  Function: 1  Alpha:   P<BS>
 POCSAG1200: Address: 2085428  Function: 0 
-POCSAG1200: Address:  627603  Function: 2  Alpha:   tiOna
-POCSAG1200: Address:  514297  Function: 0 
-POCSAG1200: Address: 1534097  Function: 2  Alpha:   08:01-50 (7/8) Additional_Data TextBox16 ; Additional_Data TextBox17 ; Additional_Data Text
-POCSAG1200: Address: 1534107  Function: 2  Alpha:   08:01-03 (7/8) Additional_Data TextBox16 ; Additional_Data TextBox17 ; Additional_Data TextBox18 ; Additional_Data TextBox19 ; Additional_Data TextBox20 ;
-POCSAG1200: Address: 1534103  Function: 2  Alpha:   08:01-61 (7/8) Additional_Data TextBox16 ; Additional_Data TextBox17 ; Additional_Data TextBox18 ; Additional_Data TextBox19 ; Additional_Data TextBox20 ;
-POCSAG1200: Address: 1534105  Function: 2  Alpha:   08:01-00 (7/8) Additional_Data TextBox16 ; Additional_Data TextBox17 ; Additional_Data TextBox18 ; Additional_Data TextBox19 ; Additional_Data TextBox20 ;
-POCSAG1200: Address: 1476343  Function: 0 
-POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
-POCSAG1200: Address: 1534097  Function: 2  Alpha:   08:01-48 (3/8) Assigned: JH01P6, JH01P7, JH01P8, JH11P4, JH32C3, JH31P6, JH01A1, JH42C1, JHG067, JHS022, JHS046, JHS043, JHHE3; Roles    JH42C1:ICUH;<NUL><NUL>
-POCSAG1200: Address: 1534107  Function: 2  Alpha:   08:01-01 (3/8) Assigned: JH01P6, JH01P7, JH01P8, JH11P4, JH32C3, JH31P6, JH01A1, JH42C1, JHG067, JHS022, JHS046, JHS043, JHHE3; Roles    JH42C1:ICUH;<NUL><NUL>
-POCSAG1200: Address: 1534097  Function: 2  Alpha:   08:01-47 (8/8) Additional_Data TextBox10 <NUL>
-POCSAG1200: Address: 1534103  Function: 2  Alpha:   08:01-58 (8/8) Additional_Data TextBox10 <NUL>
-POCSAG1200: Address: 1534098  Function: 2  Alpha:   08:01-54 (8/8) Additional_Data TextBox10 <NUL>
-POCSAG1200: Address: 1534105  Function: 2  Alpha:   08:01-99 (8/8) Additional_Data TextBox10 <NUL>
-POCSAG1200: Address: 1541644  Function: 2 
-POCSAG1200: Address:   41106  Function: 3  Alpha:   ISIS_ECY?<HT>C
-POCSAG1200: Address:  834615  Function: 1  Alpha:   O%
-POCSAG1200: Address: 2085431  Function: 0 
