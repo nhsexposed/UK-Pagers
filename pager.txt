@@ -1,3 +1,20 @@
+POCSAG2400: Address:  549126  Function: 2  Alpha:   07:54-57 74112
+POCSAG2400: Address:  216251  Function: 2  Alpha:   07:53-11 RECOVERY: Symantec Endpoint Protection is OK on host rdlfinlkof01oni, <CR><LF>RECOVERY: Symantec Endpoint Protection is OK on host rdlfinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65.125<CR><LF>Host<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   07:53-99 RECOVERY: Symantec Endpoint Protection is OK on host rdlfinlkof01oni, <CR><LF>RECOVERY: Symantec Endpoint Protection is OK on host rdlfinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65.125<CR><LF>Host<NUL><NUL>
+POCSAG512: Address:  640251  Function: 2  Alpha:   07:52-83 33879
+POCSAG1200: Address:  329920  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1746509  Function: 1 
+POCSAG1200: Address:  354324  Function: 0 
+POCSAG1200: Address:  678663  Function: 2  Alpha:   07:51-25 (3/3) Additional_Data Whats involved? ATTIC AND ROOF 2 FLOORS ; Additional_Data Are any solar panels involved? NO ; Additional_Data otpWarningNo true<NUL>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   07:50-94 888000<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   07:50-90 3104<NUL>
+POCSAG2400: Address:  549126  Function: 2  Alpha:   07:50-56 85121
+POCSAG1200: Address:  377995  Function: 0  Alpha:   JL
+POCSAG1200: Address:  528443  Function: 3 
+POCSAG1200: Address:  961544  Function: 3 
+POCSAG1200: Address:  548039  Function: 2  Alpha:   07:50-83 25/11/2021 07:49:02 INC 24717727 06E01 15 BARKER WAY, ANFIELD L6, L6 5LG Male 59Y CHESTY COUGH - ASTHMA - BREATHLESS - PAINS IN CHEST AND ARMS GRD 336731 392190<NUL><NUL>
+POCSAG1200: Address: 1745530  Function: 0 
 POCSAG2400: Address:  549126  Function: 2  Alpha:   07:49-55 76237
 POCSAG1200: Address: 1817061  Function: 2  Alpha:   07:48-43 (2/2) Type     F4.0.0.P FIRE - DOMESTIC Map ref  473587.33,170200.59 Details  KITCHEN FIRE 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0748251121+++TIME=0748251121<NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1312627  Function: 2  Alpha:   03:59:18 S19P2 Fire call 147
 POCSAG1200: Address:  216562  Function: 2  Alpha:   03:59:18 S19P2 Fire call 14726<NUL>
 POCSAG1200: Address:  216559  Function: 2  Alpha:   03:59:18 S19P2 Fire call 14726<NUL>
 POCSAG1200: Address:  216558  Function: 2  Alpha:   03:59:18 S19P2 Fire call 14726<NUL>
-POCSAG1200: Address:  216658  Function: 2  Alpha:   03:56-44 03:59:18 S19P2 Fire call 14726
-POCSAG1200: Address: 1000014  Function: 2  Alpha:   03:59:18 S19P2 Fire call 14726<NUL>
-POCSAG1200: Address:  106110  Function: 2  Alpha:   03:56-21 25/11/2021 03:55:02 INC 24717350 17A02 33 HAWORTH AVENUE, RAWTENSTALL, BB4 8SS Female 92Y 92YOF FALL HIP INJ GRD 380644 422860<NUL><NUL>
-POCSAG1200: Address:  216568  Function: 2  Alpha:   03:59:18 S19P2 Fire call 14726<NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   03:56-58 PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1<CR><LF>Service: Disk: I<CR><LF>Host: rhahoulapp04mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.93<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
-POCSAG1200: Address: 1416025  Function: 0  Alpha:   rp
-POCSAG1200: Address:  222808  Function: 2 
-POCSAG1200: Address:  538344  Function: 0 
-POCSAG1200: Address:  631309  Function: 0 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:  149253  Function: 2  Alpha:   03:53-28 PLS CALL WIFE OF JAMES ANDREWS ON 01303 264 047<NUL>
-POCSAG1200: Address:   33723  Function: 2  Alpha:   03:53-93 03:53-92 PLS CALL WIFE OF JAMES ANDREWS ON 01303 264 047
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:53-06 PLS CALL WIFE OF JAMES ANDREWS ON 01303 264 047<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353251121+++TIME=0353251121<NUL>
-POCSAG1200: Address: 1313032  Function: 3  Alpha:   40
-POCSAG1200: Address: 1069462  Function: 0  Alpha:   1<SOH><DC1>YIuY<EOT>
-POCSAG1200: Address:  652116  Function: 2  Alpha:   i"
