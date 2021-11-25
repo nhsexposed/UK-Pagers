@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   05:44-97 5002<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0543251121+++TIME=0543251121<NUL>
+POCSAG1200: Address: 1322052  Function: 2  Alpha:   05:43-09 2158<NUL>
+POCSAG2400: Address:   28898  Function: 0  Alpha:   05:42-39 2642<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0538251121+++TIME=0538251121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0538251121+++TIME=0538251121<NUL>
 POCSAG1200: Address:  918942  Function: 0  Alpha:   <FS><SUB>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1336740  Function: 3  Alpha:   rvice: Sqmajtea E<RS>KP
 POCSAG2400: Address:  216251  Function: 2  Alpha:   00:56-53 PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1, <CR><LF>PROBLEM: Disk: I is CRITICAL on host rhahoulapp04mc1<CR><LF>Service: Disk: I<CR><LF>Host: rhahoulapp04mc1<CR><LF>Alias: <CR><LF>Address: 10.0.33.93<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Manchester > <NUL><NUL>
 POCSAG2400: Address: 1758041  Function: 3  Alpha:   <BS>z)J:<LF><DC4>(Z<BS><DC4>h<SUB><CAN>I<EM>(HY<BS><DC4>i<BS>$Z<CAN>Z<SUB>)ZHh<ENQ><NUL>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   00:56-61 4167<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   00:55-43 3132<NUL>
-POCSAG1200: Address: 2040161  Function: 0  Alpha:   <STX>=
-POCSAG1200: Address: 1065313  Function: 3 
-POCSAG1200: Address:  725195  Function: 3 
-POCSAG1200: Address: 1261699  Function: 2 
