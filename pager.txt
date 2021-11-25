@@ -1,3 +1,24 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203251121+++TIME=0203251121<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   02:03-94 25/11/2021 01:59:12 INC 24717126 09E01 ESSO, EAST LANCASHIRE ROAD, NORRIS GREEN L11, L11 2ST Male 35Y UNCONCIOUS- NAKED- SHAKING GRD 339240 395983<NUL><NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   02:03-52 25/11/2021 01:59:12 INC 24717126 09E01 ESSO-REAST LANCASHIRE ROAD, NORRIS GREEN L11, L11 2ST Male 35Y UNCONCIOUS- NAKED- SHAKING GRD 339240 395983<NUL><NUL>
+POCSAG1200: Address: 2042185  Function: 0  Alpha:   <SYN>:<STX>1FE1<SOH>1FE<SOH>IMR<STX>5<ACK>3<ETB><ETX>MUe<STX>U:<SO>>:<SO>&>VN6<SOH>9<ACK>.<SYN><DC2>6<SOH>M"<ACK>.&:<RS><STX><GS>J<DC2><STX>MMeIQA<SOH>MeUeaM<SOH><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:03-87 4312<NUL>
+POCSAG512: Address:  214607  Function: 3  Alpha:   O%
+POCSAG512: Address: 1652326  Function: 1  Alpha:   Vfv<ACK><ETB>
+POCSAG512: Address: 1912917  Function: 0 
+POCSAG512: Address:  553732  Function: 1  Alpha:   fS
+POCSAG2400: Address: 1298029  Function: 1 
+POCSAG2400: Address: 1875124  Function: 3  Alpha:   <GS>L
+POCSAG2400: Address: 1058855  Function: 3 
+POCSAG2400: Address:  937564  Function: 2 
+POCSAG2400: Address:  724020  Function: 3 
+POCSAG2400: Address: 1153802  Function: 3  Alpha:   dbhjh
+POCSAG2400: Address: 1377505  Function: 2  Alpha:   7<GS>
+POCSAG2400: Address:  267280  Function: 1  Alpha:   Y(
+POCSAG2400: Address:   28869  Function: 0  Alpha:   02:01-66 REFERRING A PATIENT AT MAIDSTONE, CALL BACK ON 26009 
+POCSAG2400: Address:  959605  Function: 0 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   02:01-59 PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfintweb01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host rdlfintweb01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: rdlfintweb01oni<CR><LF>Aliasz6<ENQ><LF>Address: 10.32.65<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   01:59-07 25/11/2021 01:43:31 INC 24717099 12D01 THE POINT - FLAT 19, CREWE ROAD, ALSAGER, ST7 2JJ Male 57Y SLIPPED / COLLAPSED GRD 378153 354936<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158251121+++TIME=0158251121<NUL>
 POCSAG2400: Address:  584009  Function: 2  Alpha:   01:57-74 4157<NUL>
 POCSAG2400: Address: 1023347  Function: 3 
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1586791  Function: 1  Alpha:   O%
 POCSAG1200: Address: 1076423  Function: 1 
 POCSAG1200: Address:  373598  Function: 1  Alpha:   rr
 POCSAG1200: Address: 1255005  Function: 3 
-POCSAG1200: Address:  792625  Function: 0 
-POCSAG1200: Address: 1586784  Function: 1 
-POCSAG1200: Address: 1255006  Function: 3 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:43-40 5440<NUL>
-POCSAG1200: Address: 1534237  Function: 2  Alpha:   22:42-50 PLEASE PHONE CONTROL .
-POCSAG1200: Address:  269111  Function: 2  Alpha:   22:42-15 24/11/2021 22:40:40 INC 24716590 10C01 O/S, 58A KING STREET, BLACKBURN, BB2 2DT Male 56Y CHEST PAINS GRD 367902 427843<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   22:42-65 24/11/2021 22:40:40 INC 24716590 10C01 O/S, 58A KING STREET, BLACKBURN, BB2 2DT Male 56Y CHEST PAINS GRD 367902 427843<NUL>
-POCSAG1200: Address:  665344  Function: 2 
-POCSAG1200: Address: 1502576  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   22:40-90 4379<NUL>
-POCSAG1200: Address: 1534132  Function: 2  Alpha:   22:40-41 BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1534132  Function: 2  Alpha:   22:39-40 (2/2)   SOUTHAMPTON          SO16 4LY Type     M8 Notifications Map ref  438886,114262 <NUL>
-POCSAG1200: Address: 1534132  Function: 2  Alpha:   22:39-39 (1/2)For Information JHG057 Incident HH025480-24112021 Address  HAMPSHIRE & IOW FIRE SERVICE          JH53 REDBRIDGE FIRE STATION          REDBRIDGE HILL       <NUL><NUL>
-POCSAG1200: Address: 1534237  Function: 2  Alpha:   22:39-49 BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1534237  Function: 2  Alpha:   22:39-48 (2/2)   SOUTHAMPTON          SO16 4LY Type     M8 Notifications Map ref  438886,114262 <NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2238241121+++TIME=2238241121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2238241121+++TIME=2238241121<NUL>
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   22:38-90 IP1 8013
-POCSAG2400: Address:   28907  Function: 0  Alpha:   22:38-66 4204<NUL>
