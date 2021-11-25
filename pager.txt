@@ -1,3 +1,15 @@
+POCSAG2400: Address:  149253  Function: 2  Alpha:   03:53-28 PLS CALL WIFE OF JAMES ANDREWS ON 01303 264 047<NUL>
+POCSAG1200: Address:   33723  Function: 2  Alpha:   03:53-93 03:53-92 PLS CALL WIFE OF JAMES ANDREWS ON 01303 264 047
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:53-06 PLS CALL WIFE OF JAMES ANDREWS ON 01303 264 047<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353251121+++TIME=0353251121<NUL>
+POCSAG1200: Address: 1313032  Function: 3  Alpha:   40
+POCSAG1200: Address: 1069462  Function: 0  Alpha:   1<SOH><DC1>YIuY<EOT>
+POCSAG1200: Address:  652116  Function: 2  Alpha:   i"
+POCSAG1200: Address:  266848  Function: 1  Alpha:   v<SYN>v6F6<ACK><DC4>
+POCSAG1200: Address:  931064  Function: 2  Alpha:   03:53-49 (4/5) Additional_Data What is your name:  ; Additional_Data Are you injured: ; Additional_Data Type of building: ;<NUL><NUL>
+POCSAG1200: Address:  931064  Function: 2  Alpha:   03:53-48 (2/5) Assigned S33P1, S37P1, SW095; Map_Book S 036 A4; Roles SW095:WC;
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   03:51-96 25/11/2021 03:50:23 INC 24717340 06E01 44 CROSS STREET, OSWALDTWISTLE NR ACCRINGTON, BB5 3LL Female 76Y # GRD 373821 427539<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0348251121+++TIME=0348251121<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0348251121+++TIME=0348251121<NUL>
 POCSAG1200: Address: 1523271  Function: 2 
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2333241121+++TIME=23
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:33-94 4167<NUL>
 POCSAG512: Address:  377497  Function: 0 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1090560  Function: 2  Alpha:   23:31-70 24/11/2021 23:29:51 INC 24716776 10D04 55 FERRY ROAD, BARROW-IN-FURNESS, LA14 2QF Female 61Y DIABETIC SUGARS 27.7 FEEL FUNNY GRD 319162 468652
-POCSAG2400: Address: 1023345  Function: 3 
-POCSAG2400: Address: 1784172  Function: 3  Alpha:   f^^6<ACK>
-POCSAG2400: Address:  326603  Function: 3  Alpha:   t: gp
-POCSAG2400: Address: 2006577  Function: 1  Alpha:   <RS>}m]!
-POCSAG2400: Address:  216264  Function: 2  Alpha:   23:29-62 PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host gpafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: gpafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:29-67 24/11/2021 23:27:32 INC 24716764 06E01 37 SOUTH LONSDALE STREET, STRETFORD MANCHESTER, M32 0JE Female 76Y F COLLAPSED GRD 380093 395353<NUL>
-POCSAG1200: Address:  963058  Function: 0 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   23:26-69 24/11/2021 23:23:36 INC 24716750 10D01 JCT KING STREET, WAINWRIGHT WAY, BLACKBURN BLACKBURN WITH DARWEN Male 58Y Q HYPERTHERMIA GRD 368036 427576
-POCSAG2400: Address: 1804011  Function: 0 
-POCSAG2400: Address:  366203  Function: 0 
