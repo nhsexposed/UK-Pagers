@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   c<EOT>
+POCSAG1200: Address:  363815  Function: 2  Alpha:   11:43-94 2226<NUL>
+POCSAG1200: Address: 1511876  Function: 2  Alpha:   <DC1>"
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1143251121+++TIME=1143251121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1143251121+++TIME=1143251121<NUL>
+POCSAG1200: Address:  269424  Function: 3  Alpha:   rh`cL
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913774  Function: 2  Alpha:   11:42-32 5075<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   11:42-77 5202<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  508064  Function: 0 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   11:42-02 4157<NUL>
+POCSAG1200: Address:  269424  Function: 3  Alpha:   rh
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:41-60 4187<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:41-38 2317<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   &b
+POCSAG1200: Address: 1312917  Function: 2  Alpha:   11:40-20 ADD: CHIMNEYS JACKTREES ROAD CLEATOR MOOR CA25 5BA  INC TYPE:  NWAS GAINING ENTRY TG: OPS02 FOR INFO ONLY AS NEAREST SM
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   11:40-83 25/11/2021 11:36:19 INC 24718638 32B02 18 BOOTHWOOD CLOSE, L7, L7 3QX Female 95Y ABANDONED - ALARM ACTIVATED GRD 336783 389965<NUL><NUL>
+POCSAG1200: Address:  619125  Function: 0 
+POCSAG1200: Address: 1039242  Function: 0 
+POCSAG1200: Address:  219383  Function: 0 
+POCSAG1200: Address: 1826931  Function: 0 
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   11:40-16 5002<NUL>
+POCSAG1200: Address: 1039258  Function: 0 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   11:39-76 5202<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   11:39-72 25/11/2021 11:33:38 INC 24718624 10D05 HAMER COTTAGE, 107 HALIFAX ROAD, BUCKLEY ROCHDALE, OL12 9BA Male 49Y HEART ATTACK GRD 390659 414474<NUL>
 POCSAG2400: Address:   28919  Function: 0  Alpha:   11:39-65 4771<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1138251121+++TIME=1138251121<NUL>
 POCSAG2400: Address: 1323941  Function: 2  Alpha:   11:37-73 AMBER: PLEASE DIAL IN FOR CSP REVIEW CALL ON MS TEAMS AT 12:00. INVITE TO BE SENT VIA EMAIL. DJG WM EOC SOUTH<NUL>
@@ -972,29 +998,3 @@ POCSAG1200: Address: 1092709  Function: 2  Alpha:   10:16-82 25/11
 POCSAG1200: Address:  624774  Function: 2  Alpha:   d@Bn@
 POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>
 POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address: 1207000  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><ETX>S
-POCSAG1200: Address: 1153887  Function: 0  Alpha:   fh`g<DC2>
-POCSAG1200: Address:  142617  Function: 0  Alpha:   \X
-POCSAG1200: Address: 1939632  Function: 0 
-POCSAG1200: Address: 1618144  Function: 1 
-POCSAG1200: Address: 1072215  Function: 0  Alpha:   <DC2><STX>Mg<DC2>
-POCSAG1200: Address:  853189  Function: 3  Alpha:   $*j$g
-POCSAG1200: Address:  334773  Function: 2 
-POCSAG1200: Address:  843060  Function: 1 
-POCSAG1200: Address:  535348  Function: 0 
-POCSAG1200: Address:   66890  Function: 0  Alpha:   26 9A
-POCSAG1200: Address:  395669  Function: 1  Alpha:   zi
-POCSAG1200: Address:  624772  Function: 2  Alpha:   e@Rn@
-POCSAG1200: Address:  937371  Function: 0  Alpha:   <CAN>P
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1151784  Function: 2  Alpha:   bl
-POCSAG1200: Address: 1207006  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>EAi
-POCSAG1200: Address: 1153885  Function: 0  Alpha:   bl
-POCSAG1200: Address:   66540  Function: 1  Alpha:   <CAN><CAN>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1254604  Function: 0 
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   10:16-48 INC ALERT No: 16822504 Traffic/Transportation Accidents - POLICE - SINGLE VEHICLE RTC / WAS UNCON / PAIN ANKLE, AT: O/S SEWAGE TREATMENT WELLS ROAD, WELLS ROAD, DARSHILL SHEPTON MALLET, BA4 5FF, Time of Call: 25/11/2021 10:11:21, Co-ords: 51.1929537 -2.5678684<NUL><NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   10:16-06 25/11/2021 10:13:30 INC 24718236 17D04G 3 PRESTON AVENUE, ECCLES MANCHESTER, M30 0DZ Female 80Y SLIPPED GRD 378204 399157<NUL>
-POCSAG1200: Address: 1176547  Function: 2 
-POCSAG1200: Address: 1262611  Function: 1 
