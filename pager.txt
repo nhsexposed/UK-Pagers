@@ -1,3 +1,10 @@
+POCSAG2400: Address: 2011892  Function: 0 
+POCSAG1200: Address: 1652074  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1321626  Function: 2  Alpha:   06:01-47 Destination: Parking\D78 Ext TP, Booking Ref#: X112504, Vehicle: WX19YXV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><NUL><NUL>
+POCSAG2400: Address: 1323098  Function: 2  Alpha:   06:00-56 2183<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   06:00-77 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:Mexico's Central Bank Nominee Fuels Concerns About Independence<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0558251121+++TIME=0558251121<NUL>
 POCSAG2400: Address: 1647970  Function: 1 
 POCSAG2400: Address:   84937  Function: 3  Alpha:    C
@@ -991,10 +998,3 @@ POCSAG1200: Address:  810941  Function: 0  Alpha:   >^l%qk{{{{{
 POCSAG1200: Address:  799476  Function: 2 
 POCSAG1200: Address: 1044250  Function: 2 
 POCSAG1200: Address:  790641  Function: 3 
-POCSAG1200: Address: 1324897  Function: 2 
-POCSAG1200: Address:  772983  Function: 2  Alpha:   O%h0zd77
-POCSAG1200: Address: 1288095  Function: 3 
-POCSAG1200: Address: 1002518  Function: 1 
-POCSAG1200: Address:  909238  Function: 3 
-POCSAG1200: Address: 1059197  Function: 2 
-POCSAG1200: Address:  300699  Function: 0  Alpha:   <EM><BS>]<ESC>(M<ESC>{;<CAN><EM>
