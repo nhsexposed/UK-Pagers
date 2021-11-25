@@ -1,3 +1,42 @@
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   11:54-17 4193<NUL>
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   11:54-78 2307<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:54-11 5203<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   11:53-96 MEDICAL EMERGENCY TO WARD 17 UHND <NUL><NUL>
+POCSAG2400: Address: 1913655  Function: 2  Alpha:   11:53-81 3266<NUL>
+POCSAG1200: Address:  265355  Function: 3  Alpha:   <ACK><DLE>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   11:53-84 25/11/2021 11:51:17 INC 24718707 09E01 22 RAWLINS STREET, LIVERPOOL L7, L7 0JF Male 55Y PASSED AWAY GRD 337900 391042<NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   11:53-82 25/11/2021 11:51:17 INC 24718707 09E01 22 RAWLINS STREET, LIVERPOOL L7, L7 0JF Male 55Y PASSED AWAY GRD 337900 391042<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:53-05 25/11/2021 11:51:17 INC 24718707 09E01 22 RAWLINS STREET, LIVERPOOL L7, L7 0JF Male 55Y PASSED AWAY GRD 337900 391042<NUL><NUL>
+POCSAG1200: Address:  428347  Function: 2  Alpha:   11:53-01 25/11/2021 11:51:17 INC 24718707 09E01 22 RAWLINS STREET, LIVERPOOL L7, L7 0JF Male 55Y PASSED AWAY GRD 337900 391042<NUL><NUL>
+POCSAG1200: Address: 2012786  Function: 0 
+POCSAG1200: Address:  363815  Function: 2  Alpha:   11:52-95 2003<NUL>
+POCSAG1200: Address:  649979  Function: 2  Alpha:   11:52-83 ADD:GUIDE LANE NURSING HOME 232 GUIDE LANE AUDENSHAW M345FF INC TYPE: BUILDING FIRE RESIDENTIAL CARE TG: FNWR-OPS03  FOR INFO ONLY AS: SM MENTORING OFFICER<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   11:52-73 25/11/2021 11:48:33 INC 24718696 25B03 7 ROCKY LANE, ANFIELD L6, L6 4BA Male 29Y SUICIDAL GRD 337203 392092<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1529448  Function: 0 
+POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:52-98 (3/3)      ***PERSONS REPORTED****  PLEASE CONTACT CONTROL THANK YOU <NUL>
+POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:51-97 (2/3) SOUTH          EAST HORSLEY          KT24 6QF Type     Z FIRE Map ref  509159,153808 Map book S 096 F5 Details  TAKING CARE CHICHESTER - UNKNOWN COVID    <NUL><NUL>
+POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:51-96 (1/3)Incident Information for SG037  Incident 040230-24112021 To       24/11/2021 06:05:15 Address  VESPERS          OAKWOOD DRIVE          OFF OCKHAM ROAD<NUL>
+POCSAG512: Address:  267813  Function: 0 
+POCSAG2400: Address: 1913799  Function: 2  Alpha:   11:51-10 2616<NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   11:50-16 2180<NUL>
+POCSAG2400: Address:  963341  Function: 2  Alpha:   pjp`h
+POCSAG2400: Address: 1705222  Function: 3 
+POCSAG2400: Address:  152654  Function: 0 
+POCSAG2400: Address:  339229  Function: 3 
+POCSAG2400: Address:  362442  Function: 1 
+POCSAG2400: Address: 1994833  Function: 3  Alpha:   <STX>j
+POCSAG2400: Address:  592510  Function: 0  Alpha:   <DC4>l
+POCSAG2400: Address: 1377507  Function: 2  Alpha:   7<GS>
+POCSAG2400: Address:  267282  Function: 1  Alpha:   Y(
+POCSAG2400: Address: 1324552  Function: 2  Alpha:   11:51-68 IN
+POCSAG1200: Address: 1812344  Function: 2  Alpha:   <ACK>-
+POCSAG2400: Address:   28900  Function: 0  Alpha:   11:50-22 4144<NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   11:50-21 4373<NUL>
+POCSAG2400: Address: 1896054  Function: 0 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:50-64 2097<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:49-94 4283<NUL>
 POCSAG1200: Address:  428512  Function: 2  Alpha:   11:49-15 Primary PCI Call, Cath Lab ETA 5 Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)<NUL>
 POCSAG1200: Address: 1986560  Function: 0  Alpha:   WHC+dAPA<LF><VT>S
 POCSAG1200: Address: 1304326  Function: 3 
@@ -959,42 +998,3 @@ POCSAG1200: Address:  428189  Function: 1  Alpha:   <CAN><CAN>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  569760  Function: 3  Alpha:   vv#<ACK><NUL>
-POCSAG1200: Address:   94517  Function: 2  Alpha:   D 75X'1_
-POCSAG1200: Address:  567528  Function: 0  Alpha:   <BS>DKy<EM>
-POCSAG1200: Address:  758433  Function: 1 
-POCSAG1200: Address: 1712800  Function: 3 
-POCSAG1200: Address:  164985  Function: 1  Alpha:   D<NUL>
-POCSAG1200: Address: 1395252  Function: 0 
-POCSAG1200: Address:  652546  Function: 2  Alpha:   <STX><RS>
-POCSAG1200: Address: 1307430  Function: 3 
-POCSAG1200: Address: 1144611  Function: 0  Alpha:   754X"
-POCSAG1200: Address:  222798  Function: 2 
-POCSAG1200: Address: 1258752  Function: 2  Alpha:   <DC2>!
-POCSAG1200: Address: 1503808  Function: 2 
-POCSAG1200: Address:  320529  Function: 2 
-POCSAG1200: Address: 1225942  Function: 0 
-POCSAG1200: Address: 1224783  Function: 2 
-POCSAG1200: Address:  418433  Function: 1  Alpha:   IC
-POCSAG1200: Address:  366115  Function: 0  Alpha:   IU<SOH>%:<SO><STX>IQ]EaIAA<SOH>Ae<DC1>BE<SOH>Ya<SOH>-<SYN>:f>:<STX>I><ACK><DC2>2<SOH>]&<RS><ACK>:2<SOH><GS> u<FS><DLE><DC2>
-POCSAG1200: Address:  208870  Function: 0 
-POCSAG1200: Address:  394741  Function: 0 
-POCSAG1200: Address:  793009  Function: 1 
-POCSAG1200: Address: 1718204  Function: 1 
-POCSAG1200: Address: 1420595  Function: 0  Alpha:   r Kj^
-POCSAG1200: Address:  208686  Function: 0 
-POCSAG1200: Address: 1934582  Function: 0 
-POCSAG1200: Address:    5312  Function: 0 
