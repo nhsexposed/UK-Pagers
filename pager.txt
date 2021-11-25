@@ -1,3 +1,38 @@
+POCSAG1200: Address:  168678  Function: 3 
+POCSAG1200: Address:  502805  Function: 1  Alpha:   I9
+POCSAG1200: Address:  823989  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253251121+++TIME=1253251121<NUL>
+POCSAG2400: Address: 1913957  Function: 2  Alpha:   12:53-67 5125<NUL>
+POCSAG2400: Address:  157316  Function: 1 
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:53-41 2339<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:52-85 4183<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   12:52-94 PLS CALL ANGELICA  EXT 5935  A&E AREA 3 <NUL><NUL>
+POCSAG2400: Address: 1913804  Function: 2  Alpha:   12:52-27 2375<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1417798  Function: 2 
+POCSAG1200: Address:  987220  Function: 2  Alpha:   <STX>2}lL
+POCSAG1200: Address: 1225308  Function: 2 
+POCSAG1200: Address:   66951  Function: 1  Alpha:   O%h$'P$'b'<DLE>f"#(P i&<DLE><SYN><DLE>Kgf
+POCSAG1200: Address: 1165911  Function: 3 
+POCSAG1200: Address:  361550  Function: 2 
+POCSAG1200: Address: 1717462  Function: 0 
+POCSAG1200: Address: 1912901  Function: 2 
+POCSAG1200: Address:  133779  Function: 2  Alpha:   <CAN><DLE>
+POCSAG1200: Address:  469338  Function: 3  Alpha:   iI
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:51-73 4555<NUL>
+POCSAG2400: Address: 1913959  Function: 2  Alpha:   12:51-64 4155<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:51-40 4554<NUL>
+POCSAG1200: Address:  197437  Function: 3  Alpha:   <DLE><FF><FF><DC2>#<ACK>1f
+POCSAG2400: Address: 1207490  Function: 0 
+POCSAG2400: Address: 1418073  Function: 1  Alpha:   ph
+POCSAG2400: Address:   28900  Function: 0  Alpha:   12:51-24 4387<NUL>
+POCSAG1200: Address:  585568  Function: 2  Alpha:   12:51-98 PLS CALL TAMARA 07834 699 532 REGARDING PATIENTS <NUL><NUL>
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:51-72 3105<NUL>
+POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
+POCSAG1200: Address:  216466  Function: 2  Alpha:   12:50-01 2747 1<NUL><NUL>
+POCSAG2400: Address: 1913788  Function: 2  Alpha:   12:50-60 5056<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:50-22 4155<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   12:49-14 4554<NUL>
 POCSAG1200: Address:  880857  Function: 2  Alpha:   12:49-58 2747 
 POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
 POCSAG2400: Address:   28926  Function: 0  Alpha:   12:48-78 5203<NUL>
@@ -963,38 +998,3 @@ POCSAG2400: Address:   28907  Function: 0  Alpha:   11:14-74 5203<NUL>
 POCSAG1200: Address: 1031534  Function: 2 
 POCSAG1200: Address: 1261696  Function: 2 
 POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG2400: Address: 1781763  Function: 1  Alpha:   BY+,L
-POCSAG2400: Address: 1401051  Function: 3 
-POCSAG2400: Address: 1149786  Function: 0  Alpha:   bf
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1113251121+++TIME=1113251121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1113251121+++TIME=1113251121<NUL>
-POCSAG1200: Address:  105859  Function: 2  Alpha:   11:13-92 25/11/2021 11:12:10 INC 24718514 09E01 43 COUNTESS LANE, RADCLIFFE MANCHESTER, M26 3NH Female 81Y PASSED AWAY GRD 376721 407899<NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   11:13-62 25/11/2021 11:12:10 INC 24718514 09E01 43 COUNTESS LANE, RADCLIFFE MANCHESTER, M26 3NH Female 81Y PASSED AWAY GRD 376721 407899<NUL>
-POCSAG1200: Address: 1511868  Function: 2  Alpha:   <SYN><SOH>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1913839  Function: 2  Alpha:   11:12-76 4555<NUL>
-POCSAG1200: Address:  197371  Function: 2  Alpha:   <DC2>C<BS>LL
-POCSAG1200: Address: 1841781  Function: 3 
-POCSAG1200: Address: 1582908  Function: 3  Alpha:   V<ETX>
-POCSAG1200: Address: 1072259  Function: 0  Alpha:   <DC2>]
-POCSAG1200: Address:  189210  Function: 0  Alpha:   <EM>P
-POCSAG1200: Address:  470809  Function: 2  Alpha:   yJ
-POCSAG1200: Address: 1512241  Function: 1 
-POCSAG1200: Address: 2040896  Function: 1 
-POCSAG1200: Address: 1316533  Function: 3 
-POCSAG1200: Address: 1254981  Function: 1 
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   11:12-64 64635
-POCSAG2400: Address: 1323948  Function: 2  Alpha:   11:11-68 NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - L.B.<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1324056  Function: 2  Alpha:   11:11-43 NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - L.B.<NUL><NUL>
-POCSAG2400: Address: 1323923  Function: 2  Alpha:   11:11-62 NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - L.B.<NUL><NUL>
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   11:11-70 NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - L.B.<NUL><NUL>
-POCSAG2400: Address: 1324023  Function: 2  Alpha:   11:11-38 NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - L.B.<NUL><NUL>
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   11:11-15 4373<NUL>
-POCSAG1200: Address:  585617  Function: 2  Alpha:   11:11-84 NEL 111 is in Front End Escalation for more information please call on 02077836953 or 07901998197. NEL IUC OPS - L.B.<NUL><NUL>
-POCSAG1200: Address:  208716  Function: 2 
-POCSAG1200: Address: 1482396  Function: 1 
-POCSAG1200: Address: 1413203  Function: 3  Alpha:   <STX>"
-POCSAG1200: Address: 1352037  Function: 3 
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:10-65 8954<NUL>
