@@ -1,3 +1,53 @@
+POCSAG1200: Address:  334075  Function: 2  Alpha:   00:29-92 25/11/2021 00:23:57 INC 24716907 06E01 34 ROSSLYN ROAD, BLACKLEY MANCHESTER, M40 9PE Male 67Y STRUGGLING TO BREATHE Q STROKE GRD 387182 402076
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:28-49 4935<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0028251121+++TIME=0028251121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0028251121+++TIME=0028251121<NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   00:27-88 OBSERVATION AREA ON 21996 <NUL><NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   00:26-17 PLS CALL 7253240 RE A PATIENT 
+POCSAG2400: Address: 1825727  Function: 1  Alpha:   3<HT>
+POCSAG2400: Address: 1781983  Function: 2 
+POCSAG2400: Address: 1375946  Function: 0  Alpha:   <ETB><SI>
+POCSAG2400: Address:  898585  Function: 2  Alpha:   w47:<DLE>
+POCSAG2400: Address: 1815419  Function: 1  Alpha:   ~6
+POCSAG2400: Address:  216268  Function: 2  Alpha:   00:25-37 PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni, <CR><LF>PROBLEM: Symantec Endpoint Protection is CRITICAL on host blafinlkof01oni<CR><LF>Service: Symantec Endpoint Protection<CR><LF>Host: blafinlkof01oni<CR><LF>Alias: <CR><LF>Address: 10.32.65<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   00:25-36 Nimble Alert on MANSDPMNIG01A - WARNING: Scheduled snapshot failed., Time: Thu Nov 25 00:25:24 2021<CR><LF>Type: 10328<CR><LF>ID: 250555<CR><LF>Message: Failed to snapshot volumes associated with volume collection VC-02D03H-SHAFLE-REG-A, schedule SC-COMMVAUL<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   00:25-72<DLE>YR'!f`&<GS>
+POCSAG2400: Address: 2046702  Function: 2 
+POCSAG2400: Address: 1735294  Function: 2 
+POCSAG2400: Address:  912859  Function: 2 
+POCSAG2400: Address:  858218  Function: 0 
+POCSAG2400: Address: 1670898  Function: 0 
+POCSAG2400: Address:  326600  Function: 3  Alpha:   t:
+POCSAG2400: Address: 1550222  Function: 0 
+POCSAG2400: Address:  732413  Function: 0  Alpha:   <GS>l
+POCSAG2400: Address:  890309  Function: 0 
+POCSAG2400: Address:   88147  Function: 3 
+POCSAG2400: Address:  859098  Function: 3  Alpha:   ;<SUB>
+POCSAG2400: Address: 2005554  Function: 0 
+POCSAG2400: Address: 1815289  Function: 0 
+POCSAG2400: Address: 1279502  Function: 0  Alpha:   <HT>tM<CR><EOT>mY<EOT>u<RS>'<SOH><DC2>f<CR>6<SO>
+POCSAG2400: Address: 1460574  Function: 1 
+POCSAG2400: Address:  765444  Function: 3 
+POCSAG2400: Address: 1375945  Function: 0  Alpha:   <ETB><SI>
+POCSAG2400: Address: 1624908  Function: 2 
+POCSAG2400: Address:  859099  Function: 1  Alpha:   ;:
+POCSAG2400: Address: 2005555  Function: 0 
+POCSAG2400: Address: 1815290  Function: 3 
+POCSAG2400: Address: 1043644  Function: 2 
+POCSAG2400: Address: 1839188  Function: 3 
+POCSAG1200: Address:  108090  Function: 0  Alpha:   00:25-54 PRIMARY PCI CALL ON EXT 3168 <NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:24-84 4462<NUL>
+POCSAG1200: Address:  585578  Function: 2  Alpha:   t4>24-03 011676-24112021; Fire - Residential; STAR INN,HIGH STREET,HAROME,HELMSLEY,YO62 5JE; 464620,482147<NUL><NUL>
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address:  627497  Function: 3  Alpha:   `r
+POCSAG1200: Address: 1591636  Function: 1 
+POCSAG1200: Address: 1395521  Function: 3  Alpha:   "<DLE>FX<SUB><SYN><DLE>fX<SUB><DLE>
+POCSAG1200: Address:  764944  Function: 3  Alpha:   Z(
+POCSAG1200: Address:  148230  Function: 2  Alpha:   c'*P)
+POCSAG1200: Address: 1216768  Function: 2 
+POCSAG1200: Address:  361999  Function: 1  Alpha:   O%(<LF>t
+POCSAG1200: Address: 1156741  Function: 1  Alpha:   <DLE><DC3>)A<EOT>#A<STX>
+POCSAG1200: Address: 1803884  Function: 3  Alpha:   2<DLE>
 POCSAG1200: Address: 1565272  Function: 2  Alpha:   00:24-34 25/11/2021 00:20:04 INC 24716900 23B01I 1 TOWN LANE, CHARNOCK RICHARD, PR7 5HP Female 15Y OVERDOSE GRD 355221 414416
 POCSAG1200: Address:  363869  Function: 2  Alpha:   00:24-47 25/11/2021 00:22:01 INC 24716904 29D02M OUTSIDE,l5< BAGOT STREET, WAVERTREE L15, L15 0HT Female 25Y HIT BY CAR GRD 338009 389359
 POCSAG1200: Address:  428347  Function: 2  Alpha:   00:24-83 25/11/2021 00:22:01 INC 24716904 29D02M OUTSIDE, 50 BAGOT STREET, WAVERTREE L15, L15 0HT Female 25Y HIT BY CAR GRD 338009 389359
@@ -948,53 +998,3 @@ POCSAG2400: Address:  845843  Function: 1
 POCSAG2400: Address: 1668706  Function: 0 
 POCSAG2400: Address: 1069129  Function: 1  Alpha:   <STX>I
 POCSAG2400: Address:  427408  Function: 1  Alpha:   RE
-POCSAG2400: Address: 1316759  Function: 2  Alpha:   hXhg<DC2><DC4><ENQ>*
-POCSAG2400: Address: 1523854  Function: 1  Alpha:   "&
-POCSAG2400: Address:  140258  Function: 2  Alpha:   y)
-POCSAG2400: Address:  834745  Function: 2  Alpha:   m-
-POCSAG2400: Address: 1031280  Function: 1 
-POCSAG2400: Address:  852727  Function: 1  Alpha:   rgAg<DC2>47<DLE>
-POCSAG2400: Address: 1163846  Function: 3 
-POCSAG2400: Address: 1263197  Function: 2 
-POCSAG2400: Address: 1098205  Function: 0 
-POCSAG2400: Address: 1683460  Function: 0  Alpha:   WH
-POCSAG2400: Address:   76019  Function: 2 
-POCSAG2400: Address:  367450  Function: 0  Alpha:   bb
-POCSAG2400: Address: 1263194  Function: 2 
-POCSAG2400: Address:   57793  Function: 1 
-POCSAG2400: Address:  367113  Function: 1 
-POCSAG2400: Address:  362440  Function: 1 
-POCSAG2400: Address: 2062562  Function: 2 
-POCSAG2400: Address: 1307521  Function: 1  Alpha:   n 
-POCSAG2400: Address: 1705441  Function: 2 
-POCSAG2400: Address: 1626144  Function: 3  Alpha:   8H
-POCSAG2400: Address: 1293574  Function: 1  Alpha:   h^BrlxY<EOT>
-POCSAG2400: Address:  945261  Function: 1 
-POCSAG2400: Address:  137332  Function: 1 
-POCSAG2400: Address:  793379  Function: 2  Alpha:   <STX>B
-POCSAG2400: Address: 1522755  Function: 2 
-POCSAG2400: Address:   80370  Function: 1  Alpha:   TT
-POCSAG2400: Address: 1688169  Function: 1 
-POCSAG2400: Address: 1022657  Function: 2  Alpha:   21:45-93 FAST TRACK LIVER OFFER: Donor 153086, Hospital QMC, NOTTINGHAM, HC0886, DOB 19/04/1960, DCD, Organ Location: DONOR HOSPITAL, Fast track trigger point met: ZONE AND LINK DECLINED. THIS OFFER EXPIRES AT 22:30. Please see EOS. A COPY
-POCSAG1200: Address: 1572472  Function: 0 
-POCSAG1200: Address: 1312920  Function: 2  Alpha:   21:44-01 07728826817 - Anna Simmons : 76 Church Road Steep Petersfield Hampshire GU32 2DG Dog Rase Dog is in the surgery tonight, asking for update on how he's doing. phone call requested<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2143241121+++TIME=2143241121<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   21:43-50 2183<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   21:43-73 5201<NUL>
-POCSAG1200: Address:  327275  Function: 2  Alpha:   21:42-73 24/11/2021 21:36:23 INC 24716359 17A02G 168 LINDALE GARDENS, SOUTH SHORE BLACKPOOL, FY4 3PL Male 91Y FALLEN - ON FLOOR GRD 332338 432241
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   21:40-57 NHSBT - DONOR REFERRAL. Please call RACHEAL on Direct Dial Number 02089342265 Hospital KINGSTON, KINGSTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1022280  Function: 0  Alpha:   21:40-40 NHSBT - DONOR REFERRAL. Please call RACHEAL on Direct Dial Number 02089342265 Hospital KINGSTON, KINGSTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   21:40-27 NHSBT - DONOR REFERRAL. Please call RACHEAL on Direct Dial Number 02089342265 Hospital KINGSTON, KINGSTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   21:40-74 NHSBT - DONOR REFERRAL. Please call RACHEAL on Direct Dial Number 02089342265 Hospital KINGSTON, KINGSTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  149189  Function: 2  Alpha:   21:40-03 NHSBT - DONOR REFERRAL. Please call RACHEAL on Direct Dial Number 02089342265 Hospital KINGSTON, KINGSTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:   33713  Function: 2  Alpha:   21:40-43 NHSBT - DONOR REFERRAL. Please call RACHEAL on Direct Dial Number 02089342265 Hospital KINGSTON, KINGSTON Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address:   42299  Function: 2  Alpha:   21:40-08 PLEASE CALL HOLLY FROM BELLHOUSE WARD, EXT: 31248<NUL><NUL>
-POCSAG1200: Address:  306142  Function: 2  Alpha:   21:40-55 PLEASE CALL HOLLY FROM BELLHOUSE WARD, EXT: 31248<NUL><NUL>
-POCSAG1200: Address: 1983266  Function: 2  Alpha:   21:40-24 PLEASE CALL HOLLY FROM BELLHOUSE WARD, EXT: 31248<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:40-48 24/11/2021 21:39:14 INC 24716372 06E01 3 LUNE GROVE, PLANK LANE LEIGH, WN7 4RH Female 4Y FEMALE HIGH TEMP GASPING FOR BREATH PULES 160BPM GRD 364189 400106<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   21:39-19 4167<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   21:38-62 24/11/2021 21:31:48 INC 24716346 06E01 26 DARESBURY CLOSE, ADSWOOD STOCKPORT, SK3 8LY Female 33Y CANT BREATH GRD 388610 388358<NUL><NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   21:37-30 24/11/2021 21:35:49 INC 24716356 06E01 64 LONDON ROAD, LAYTON BLACKPOOL, FY3 8DJ Female 79Y ASTHMA ATTACK, BREATHING IS VERY POOR GRD 331840 436608<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   21:37-04 24/11/2021 21:35:49 INC 24716356 06E01 64 LONDON ROAD, LAYTON BLACKPOOL, FY3 8DJ Female 79Y ASTHMA ATTACK, BREATHING IS VERY POOR GRD 331840 436608<NUL>
-POCSAG1200: Address: 1216772  Function: 2 
-POCSAG1200: Address:  780235  Function: 0  Alpha:   <DC4>h
