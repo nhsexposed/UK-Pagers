@@ -1,3 +1,24 @@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   22:39-49 5204<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   22:38-01 PLEASE CALL AREA 3 ON EXT 5935 FOR REFERRAL<NUL><NUL>
+POCSAG1200: Address: 1838216  Function: 0  Alpha:   <ETX>7
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2238251121+++TIME=2238251121<NUL>
+POCSAG1200: Address: 1686365  Function: 1  Alpha:   bb
+POCSAG1200: Address: 1255004  Function: 3 
+POCSAG1200: Address: 1298500  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1403312  Function: 0 
+POCSAG1200: Address:  521032  Function: 2 
+POCSAG1200: Address:  227361  Function: 0  Alpha:   22:35-04 53332
+POCSAG1200: Address: 1716258  Function: 0 
+POCSAG1200: Address: 1204426  Function: 0 
+POCSAG1200: Address: 1009259  Function: 2 
+POCSAG1200: Address:  183642  Function: 2 
+POCSAG1200: Address: 2000953  Function: 2  Alpha:   (J
+POCSAG1200: Address:   94631  Function: 1  Alpha:   g<DC2><DC4>*j
+POCSAG1200: Address: 1642581  Function: 1 
+POCSAG2400: Address:  931985  Function: 3 
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   22:35-64 4908<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  136348  Function: 2  Alpha:   22:33-80 2284811<NUL>
 POCSAG2400: Address: 1628403  Function: 1 
 POCSAG1200: Address: 1094264  Function: 2  Alpha:   22<SOH><EM>fR<SOH>M<NAK>f<STX><EM><SYN>7<BEL>3<ETB><ETX>I]e<STX><CR>"<SYN>NR<STX>A<ACK>&:<STX><GS>J<DC2><STX>MMEYUI<SOH>QMMU]M<SOH>
@@ -977,24 +998,3 @@ POCSAG1200: Address:  280939  Function: 1
 POCSAG1200: Address:  315777  Function: 1  Alpha:   D 
 POCSAG1200: Address:  206120  Function: 3  Alpha:   2Q
 POCSAG1200: Address:  315424  Function: 3 
-POCSAG1200: Address: 1066071  Function: 1  Alpha:   &ZVg<DC2>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   19:20-03 25/11/2021 19:16:24 INC 24720594 29B01 
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   19:20-24 25/11/2021 19:16:24 INC 24720594 29B01 OUTSIDE 27, CONWAY DRIVE, BIRKENHEAD CH41, CH41 4PJ Male 22Y CRASHED INTO BIKE GRD 331616 388905<NUL>
-POCSAG1200: Address: 1811160  Function: 0 
-POCSAG1200: Address:  585963  Function: 2  Alpha:   19:19-20 please CONTACT CONTROLx";
-POCSAG1200: Address: 1321450  Function: 2  Alpha:   19:19-09 please CONTACT CONTROL
-POCSAG1200: Address: 1484413  Function: 0 
-POCSAG2400: Address: 1022623  Function: 2  Alpha:   19:18-49 01603711138
-POCSAG1200: Address: 1770057  Function: 2 
-POCSAG1200: Address:  437305  Function: 1 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   19:17-02 25/11/2021 19:16:30 INC 24720595 06E01 105 WATKIN STREET, WARRINGTON WA2, WA2 7DN Male 9Y DIB GRD 360625 38927
-POCSAG1200: Address:   28883  Function: 3  Alpha:   19:17-59 TEST PAGE.<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  433342  Function: 2  Alpha:   <CAN>[
-POCSAG1200: Address: 2014536  Function: 0 
-POCSAG1200: Address:  982200  Function: 0 
-POCSAG1200: Address:   28883  Function: 3  Alpha:   19:16-58 TEST PAGE<NUL><NUL>
-POCSAG1200: Address:  672784  Function: 3  Alpha:   ,<SO>
-POCSAG1200: Address: 1257550  Function: 1  Alpha:   &>:<STX><GS>j3<HT>
-POCSAG1200: Address:  510357  Function: 0  Alpha:   <BS>$z9<BS>
-POCSAG1200: Address:  859820  Function: 1 
