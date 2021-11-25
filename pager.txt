@@ -1,3 +1,18 @@
+POCSAG1200: Address:  136348  Function: 2  Alpha:   22:33-80 2284811<NUL>
+POCSAG2400: Address: 1628403  Function: 1 
+POCSAG1200: Address: 1094264  Function: 2  Alpha:   22<SOH><EM>fR<SOH>M<NAK>f<STX><EM><SYN>7<BEL>3<ETB><ETX>I]e<STX><CR>"<SYN>NR<STX>A<ACK>&:<STX><GS>J<DC2><STX>MMEYUI<SOH>QMMU]M<SOH>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  789303  Function: 3 
+POCSAG1200: Address: 1353346  Function: 1 
+POCSAG1200: Address: 1671904  Function: 3  Alpha:   !db)j
+POCSAG1200: Address: 1578580  Function: 0  Alpha:   <EM>H
+POCSAG1200: Address: 1530427  Function: 0 
+POCSAG1200: Address:  293557  Function: 2 
+POCSAG1200: Address:   88580  Function: 3 
+POCSAG1200: Address:  693835  Function: 0  Alpha:   5<DLE>
+POCSAG1200: Address: 1152888  Function: 2 
+POCSAG1200: Address:  649352  Function: 3 
 POCSAG1200: Address:   33723  Function: 2  Alpha:   22:28-11 22:28-10 PLEASE CALL AMANDA DENNIS ON 07590 379 306
 POCSAG2400: Address:  149253  Function: 2  Alpha:   22:28-38 PLEASE CALL AMANDA DENNIS ON 07590 379 306
 POCSAG2400: Address: 1323475  Function: 2  Alpha:   22:28-75 PLEASE CALL AMANDA DENNIS ON 07590 379 306
@@ -983,18 +998,3 @@ POCSAG1200: Address:  672784  Function: 3  Alpha:   ,<SO>
 POCSAG1200: Address: 1257550  Function: 1  Alpha:   &>:<STX><GS>j3<HT>
 POCSAG1200: Address:  510357  Function: 0  Alpha:   <BS>$z9<BS>
 POCSAG1200: Address:  859820  Function: 1 
-POCSAG1200: Address: 1261724  Function: 3 
-POCSAG1200: Address:  281617  Function: 2  Alpha:   i<EM>Iy<BS>$J*ZXH
-POCSAG1200: Address:  231552  Function: 2  Alpha:   l@hr@
-POCSAG1200: Address:  437311  Function: 1  Alpha:   <EM><DLE>Xg<DC2>
-POCSAG1200: Address:  266854  Function: 1  Alpha:   v&
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address: 1149740  Function: 3  Alpha:   df
-POCSAG1200: Address: 1207002  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX>KS
-POCSAG1200: Address: 1925680  Function: 2  Alpha:   19:16<CR><FS><EM>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   19:16-47 25/11/2021 19:14:23 INC 24720583 08D06 49 CHANNING STREET, NEWBOLD ROCHDALE, OL16 5ST Male UnknownY MALE - SMOKE INHALATION GRD 390650 412589<NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   19:15-32 4316<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <STX><BEL>
-POCSAG1200: Address: 1312920  Function: 2  Alpha:   19:15-06 02392256551 - Mrs Pearson : 138 cherry tree ave PO8 8AX Cat Milly Previous respiratory problems, diah this eve and struggling to breath. phone call requested<NUL><NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   19:14-24 4114<NUL>
-POCSAG2400: Address: 1323090  Function: 2  Alpha:   19:14-79 please call 2243
