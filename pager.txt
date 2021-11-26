@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1566376  Function: 3 
+POCSAG2400: Address: 1717347  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  987211  Function: 3  Alpha:   <FF>,
+POCSAG1200: Address: 1225307  Function: 2 
+POCSAG1200: Address:  604785  Function: 3  Alpha:   ,<DLE>Kgf
+POCSAG1200: Address: 1706121  Function: 3 
+POCSAG1200: Address:  569576  Function: 1 
+POCSAG1200: Address: 1686112  Function: 1 
+POCSAG1200: Address: 1070695  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1422055  Function: 2 
+POCSAG1200: Address: 1246897  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   1M
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518261121+++TIME=0518261121<NUL>
 POCSAG1200: Address: 1352472  Function: 3 
 POCSAG1200: Address:  843318  Function: 1 
@@ -985,16 +998,3 @@ POCSAG1200: Address:  140726  Function: 1  Alpha:   <FF><VT>X<DLE>RuY<EOT>
 POCSAG1200: Address:  313390  Function: 0 
 POCSAG1200: Address:  677045  Function: 3 
 POCSAG1200: Address: 1647737  Function: 2 
-POCSAG1200: Address:  693664  Function: 1  Alpha:   RB
-POCSAG1200: Address: 1717263  Function: 0  Alpha:   <BEL>0<DC4>H<EM>
-POCSAG1200: Address: 1251053  Function: 2 
-POCSAG1200: Address:  103234  Function: 3  Alpha:   @ddth
-POCSAG1200: Address:   40118  Function: 2  Alpha:   22:45-43 MSG01- 25/11/
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   22:45-64 MSG02-RD 331780 382196
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   22:45-63 MSG02-RD 331780 382196
-POCSAG1200: Address: 1454786  Function: 0  Alpha:   22:45-50 PIN 14480 PLEASE CALL 03457 500 620 FOR DUTY CASE<NUL><NUL>
-POCSAG1200: Address: 1092710  Function: 2  Alpha:   22:44-39 MSG02-80 382196<NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   22:44-29 72639(E>
-POCSAG1200: Address: 1089312  Function: 2 
-POCSAG1200: Address: 1093696  Function: 0 
-POCSAG1200: Address:  819559  Function: 3  Alpha:   O%
