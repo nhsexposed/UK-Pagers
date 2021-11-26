@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1913671  Function: 2  Alpha:   09:29-32 5440<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0928261121+++TIME=0928261121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0928261121+++TIME=0928261121<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   09:28-90 3132<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   09:28-24 4312<NUL>
+POCSAG1200: Address:  237096  Function: 3 
+POCSAG1200: Address: 1484850  Function: 0 
+POCSAG1200: Address:  420271  Function: 2  Alpha:   09:27-60 2066<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/v902 CH3B<NUL><NUL>
+POCSAG1200: Address: 1812158  Function: 0 
+POCSAG1200: Address: 1032981  Function: 2  Alpha:   <ACK><SO>
+POCSAG1200: Address: 1314323  Function: 2  Alpha:   J<BS>46v<SYN><BEL>v<ACK>4<ACK><ETB>G&6<ACK><NUL>
+POCSAG1200: Address: 1032913  Function: 3  Alpha:   V*
+POCSAG1200: Address: 1039233  Function: 3  Alpha:   &`
+POCSAG1200: Address:   22104  Function: 2  Alpha:   09:24-55 26/11/2021 09:18:14 INC 24722727 23B01I<NUL>=aLILTON CLOSE, GREAT HARWOOD, BB6 7LF Male 22Y OVERDOSE GRD 372743 431740<NUL><NUL>
 POCSAG1200: Address:   80170  Function: 3  Alpha:   <DC2>CH<SUB>L
 POCSAG1200: Address:  420494  Function: 2  Alpha:   c0
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   09:23-53 4457<NUL>
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   06:42-19 4374<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   06:41-30 2561<NUL>
 POCSAG1200: Address:  713785  Function: 1 
 POCSAG1200: Address: 1516116  Function: 0 
-POCSAG1200: Address: 1924924  Function: 2  Alpha:   06:41-81 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
-POCSAG1200: Address:   18873  Function: 2  Alpha:   06:41-49 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
-POCSAG1200: Address:  200810  Function: 2  Alpha:   06:41-92 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
-POCSAG1200: Address:  200967  Function: 2  Alpha:   06:41-76 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
-POCSAG1200: Address:  200832  Function: 2  Alpha:   06:41-97 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   06:39-88 261<DC4> 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0638261121+++TIME=06382
-POCSAG2400: Address: 1022648  Function: 0  Alpha:   06:38-23 PRIMARY PCI
-POCSAG1200: Address: 1533124  Function: 1 
-POCSAG1200: Address:  618883  Function: 2  Alpha:   06:37
-POCSAG1200: Address:  108097  Function: 0  Alpha:   06:37-64 0062<NUL>
-POCSAG1200: Address: 1383541  Function: 0  Alpha:   fN
-POCSAG1200: Address:  210523  Function: 3 
-POCSAG1200: Address:  556541  Function: 0  Alpha:   ig
