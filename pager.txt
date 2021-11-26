@@ -1,3 +1,65 @@
+POCSAG1200: Address: 1205463  Function: 0  Alpha:   <ETB>OOg<DC2>
+POCSAG1200: Address:  574254  Function: 2  Alpha:   a 
+POCSAG1200: Address:  210933  Function: 2 
+POCSAG1200: Address: 1568221  Function: 3 
+POCSAG1200: Address:  940412  Function: 0 
+POCSAG1200: Address:  939306  Function: 0 
+POCSAG1200: Address: 1263260  Function: 3 
+POCSAG1200: Address: 1740251  Function: 0 
+POCSAG1200: Address: 1816162  Function: 0  Alpha:   <SYN>6
+POCSAG1200: Address:  974914  Function: 2 
+POCSAG1200: Address:  313717  Function: 0  Alpha:   FI
+POCSAG1200: Address:  725067  Function: 0 
+POCSAG1200: Address: 1679546  Function: 2 
+POCSAG1200: Address: 1757513  Function: 0  Alpha:   SI
+POCSAG1200: Address: 1387544  Function: 3 
+POCSAG1200: Address: 1137199  Function: 0  Alpha:   O 
+POCSAG1200: Address: 1355335  Function: 1 
+POCSAG1200: Address:  836022  Function: 1  Alpha:   BO
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0513261121+++TIME=0513261121<NUL>
+POCSAG1200: Address:  336053  Function: 2  Alpha:   05
+POCSAG1200: Address: 1868468  Function: 2 
+POCSAG1200: Address:  964341  Function: 0 
+POCSAG1200: Address: 1999615  Function: 0 
+POCSAG1200: Address: 1067611  Function: 2  Alpha:   05:12-47 (2/3) MATTRESS ON FIRE SECOND FLOOR; Assigned: JY02P1, JY01P1,
+POCSAG1200: Address:  428947  Function: 0  Alpha:   <SUB><EM>
+POCSAG1200: Address:  940323  Function: 3 
+POCSAG1200: Address: 1624393  Function: 0  Alpha:   E - R
+POCSAG1200: Address:  999027  Function: 3 
+POCSAG1200: Address: 1465944  Function: 1  Alpha:   [;
+POCSAG1200: Address:  301375  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address: 1499223  Function: 1 
+POCSAG1200: Address: 1395205  Function: 2 
+POCSAG1200: Address:  707901  Function: 1 
+POCSAG1200: Address:  825364  Function: 2 
+POCSAG1200: Address:  678747  Function: 3  Alpha:   <EOT><GS>
+POCSAG1200: Address:  681428  Function: 0  Alpha:   t<RS><SO><DC3><ETB>+S<ETX><SOH>>77<BEL>;<DC1><ETX>U
+POCSAG1200: Address: 1627059  Function: 0 
+POCSAG1200: Address:   38091  Function: 2 
+POCSAG1200: Address:   66050  Function: 3 
+POCSAG1200: Address: 1812378  Function: 2 
+POCSAG1200: Address:  301017  Function: 0 
+POCSAG1200: Address:  405861  Function: 0 
+POCSAG1200: Address: 1219005  Function: 2 
+POCSAG1200: Address:  304740  Function: 2 
+POCSAG1200: Address: 1454500  Function: 3 
+POCSAG1200: Address:  664745  Function: 2  Alpha:   ,X
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:11-85 3181<NUL>
+POCSAG1200: Address: 1816712  Function: 2  Alpha:   05:11-69 (3/4) Roles    JYG140:RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classificefhon Residential Education;
+POCSAG1200: Address:   14950  Function: 0  Alpha:   05:11-91 26/11/2021 05:10:22 INC 24722209 06D02 62 REEDLEY DRIVE, REEDLEY BURNLEY, BB10 2QS Female 74Y CANT BREATHE GRD 385178 435728<NUL>
+POCSAG1200: Address:  939306  Function: 0 
+POCSAG1200: Address:  273201  Function: 2 
+POCSAG1200: Address: 1323617  Function: 1 
+POCSAG1200: Address: 1544376  Function: 1 
+POCSAG1200: Address: 1714536  Function: 3 
+POCSAG1200: Address:   39079  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1141058  Function: 2 
+POCSAG1200: Address:  413130  Function: 2  Alpha:   05:11-49 (3/3) Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Residential Education<NUL><NUL>
+POCSAG1200: Address:  216379  Function: 2  Alpha:   05:11-99 (2/3) MATTRESS ON FIRE SE COND FLOOR; Assi
+POCSAG1200: Address: 1817136  Function: 2  Alpha:   05:11-25 (2/4) MATTRESS ON FIRE SE COND FLOOR; Assigned: JY02P1, JY01P1, JY20P1, JY10P1, JY22P1, JY14P1, JY20A1, JY19C2, JYG142, JYG140;<NUL>
+POCSAG1200: Address:  428947  Function: 0  Alpha:   <SUB><EM>
+POCSAG1200: Address:  940323  Function: 3 
+POCSAG1200: Address: 1624393  Function: 0  Alpha:   E - R
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508261121+++TIME=0508261121<NUL>
 POCSAG1200: Address:  906480  Function: 3  Alpha:   s,
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
@@ -936,65 +998,3 @@ POCSAG1200: Address:  693835  Function: 0  Alpha:   5<DLE>
 POCSAG1200: Address: 1152888  Function: 2 
 POCSAG1200: Address:  649352  Function: 3 
 POCSAG1200: Address:   33723  Function: 2  Alpha:   22:28-11 22:28-10 PLEASE CALL AMANDA DENNIS ON 07590 379 306
-POCSAG2400: Address:  149253  Function: 2  Alpha:   22:28-38 PLEASE CALL AMANDA DENNIS ON 07590 379 306
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   22:28-75 PLEASE CALL AMANDA DENNIS ON 07590 379 306
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   22:28-16 PLEASE CALL AMANDA DENNIS ON 07590 379 306
-POCSAG2400: Address:  492547  Function: 0 
-POCSAG1200: Address:   40088  Function: 2  Alpha:   22:27-27 PLEASE CALL ONCOLOGY ON 72249<NUL>
-POCSAG2400: Address:  961125  Function: 0 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   22:27-95 3181<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   22:26m!?
-POCSAG1200: Address:  266327  Function: 2  Alpha:   9<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:26-04 4183<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:23-62 murray falkner ward 33316
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   22:81D<ESC><SUB>
-POCSAG1200: Address: 1811979  Function: 0 
-POCSAG1200: Address:  267034  Function: 2  Alpha:   \<GS>
-POCSAG1200: Address: 1022771  Function: 2  Alpha:   J<EM>
-POCSAG512: Address: 1565488  Function: 2 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   22:21-76 25/11/2021 22:18:29 INC 24721265 31D02 
-POCSAG1200: Address: 2061952  Function: 2 
-POCSAG1200: Address: 2045128  Function: 2  Alpha:   AW MANCHESTER, M11 2LY Male 35Y STABBED BY SCREW DRIVER GRD 388438 397571<NUL>
-POCSAG1200: Address: 1032113  Function: 2  Alpha:   B<BS><NUL>`L
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:21-69 3181<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   22:21-15 25/11/2021 22:16:24 INC 24721259 27D04S OUTSIDE, VICTORIA HOUSE, 50 VICTORIA STREET, OPENSHAW MANCHESTER, M11 2LY Male 35Y STABBED BY SCREW DRIVER GRD 388438 397571<NUL>
-POCSAG1200: Address: 1059634  Function: 1 
-POCSAG1200: Address: 1714506  Function: 3 
-POCSAG1200: Address: 1892625  Function: 1  Alpha:   ES
-POCSAG1200: Address:  561797  Function: 2  Alpha:   %<VT><VT>)Y@<RS>!<VT><GS>'<DC1><ETX>/AZ<ETX>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:19-03 4411<NUL>
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   22:19-24 3119<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2218251121+++TIME=2218251121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2218251121+++TIME=2218251121<NUL>
-POCSAG1200: Address: 1022027  Function: 2  Alpha:   22:17-37 Call 24721230 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  271532  Function: 2  Alpha:   22:17-38 Call 24721230 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:17-60 ccub 39138<NUL>
-POCSAG1200: Address:  924602  Function: 3  Alpha:   xo
-POCSAG1200: Address:  192159  Function: 3  Alpha:   <DC4>5Qg<DC2>
-POCSAG1200: Address:  782458  Function: 2  Alpha:   <SYN>f<SYN><BEL><NUL>
-POCSAG2400: Address:  557048  Function: 3 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:13-02 4156<NUL>
-POCSAG1200: Address:  858419  Function: 2 
-POCSAG1200: Address: 1652074  Function: 1 
-POCSAG2400: Address:  829055  Function: 0 
-POCSAG2400: Address: 2077688  Function: 2 
-POCSAG1200: Address:  565552  Function: 1  Alpha:    367409 397117
-POCSAG1200: Address:  662188  Function: 1 
-POCSAG2400: Address: 1022648  Function: 0  Alpha:   22:12-22 PRIMARY PCI
-POCSAG2400: Address: 1324557  Function: 2  Alpha:   22:11-99 INC ALERT No: 16824973 Cardiac Arrest -, AT: 2 SWALLOWS RISE, WESTBURY, BA13 4FP, Time of Call: 25/11/2021 22:10:47, Co-ords: 51.2639976 -2.1974924<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   22:11-32 4167<NUL>
-POCSAG1200: Address: 1207004  Function: 2  Alpha:   <LF><VT>[<DC2><ETX>
-POCSAG1200: Address: 1323843  Function: 2  Alpha:   22:11-36 PROCEED TO:  RTC/PERSONS TRAPPED (SMALL VEHICLES); , M56EAST J16 to J15   M56    : @M56EAST J16 to J15,; FNWR-OPS06; ROLE:GMB ; REF 1141034 POL LN 1141034; E07P1 E08P1 E09P2 EG024 ES082 EX170E05P1
-POCSAG2400: Address:  600373  Function: 3  Alpha:   KeeCYA<CAN>S]K<SOH>
-POCSAG2400: Address:  959358  Function: 0 
-POCSAG2400: Address: 1998071  Function: 3 
-POCSAG2400: Address: 2025315  Function: 0 
-POCSAG2400: Address: 1972658  Function: 0 
-POCSAG2400: Address: 1410816  Function: 0  Alpha:   <DLE>_GaS
-POCSAG2400: Address: 1315377  Function: 2 
-POCSAG2400: Address:  361073  Function: 0  Alpha:   umber 01159249924 X 82758 Hospital QUEENS MED CENTRE NOTTINGHAM Dept ADULT INT CARE . Regards Donor Referral Line<NUL>
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   22:10-40 25?01
-POCSAG2400: Address: 2079603  Function: 0 
-POCSAG2400: Address: 2008958  Function: 0 
-POCSAG2400: Address:  333486  Function: 2 
