@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0043261121+++TIME=0043261121<NUL>
+POCSAG1200: Address: 2027120  Function: 1 
+POCSAG2400: Address:  662325  Function: 1 
+POCSAG2400: Address:  150498  Function: 2  Alpha:   l &<DLE>(
+POCSAG2400: Address:  421233  Function: 0 
+POCSAG2400: Address: 1988985  Function: 0 
+POCSAG2400: Address: 1031392  Function: 0 
+POCSAG2400: Address: 1155959  Function: 2  Alpha:   O%(, 
+POCSAG2400: Address: 1517614  Function: 2 
+POCSAG2400: Address: 1464366  Function: 0 
+POCSAG2400: Address:  421238  Function: 0 
+POCSAG2400: Address: 1988990  Function: 0 
+POCSAG2400: Address: 1031397  Function: 0 
+POCSAG2400: Address: 1155956  Function: 2  Alpha:   X@
+POCSAG1200: Address:  895130  Function: 1 
+POCSAG1200: Address:  853448  Function: 1 
+POCSAG1200: Address:  895107  Function: 2  Alpha:   b@<SO>H0
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v&
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   00:39-50 4157<NUL>
+POCSAG1200: Address:  809650  Function: 0 
 POCSAG1200: Address:  734570  Function: 0 
 POCSAG2400: Address:  350017  Function: 2  Alpha:   E<GS>
 POCSAG2400: Address:  149253  Function: 2  Alpha:   00:38-43 03003000044
@@ -977,24 +998,3 @@ POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:20-87 3164<NUL>
 POCSAG1200: Address: 1058583  Function: 2  Alpha:   20:19-98 25/11/2021 20:18:30 INC 24720826 28C04L YMCA GARSTANG LEISURE CENTRE, WINDSOR ROAD, GARSTANG NR PRESTON, PR3 1ED Male 60Y Q STROKE GRD 348992 445349
 POCSAG2400: Address:   28907  Function: 0  Alpha:   20:19-03 4411<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   20:19-29 2343<NUL>
-POCSAG1200: Address: 2023645  Function: 0 
-POCSAG1200: Address:  548109  Function: 2  Alpha:   20:19-38 Please contact the ROM re a DCA involved in RTC - thanks Mike<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1322185  Function: 2  Alpha:   20:17-20 PLS CONTACT SWITCHBOARD 33459 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1466038  Function: 1 
-POCSAG1200: Address: 1254470  Function: 0 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:15-85 2445<NUL>
-POCSAG1200: Address: 1318948  Function: 2  Alpha:   20:15-96 3991<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1713783  Function: 2 
-POCSAG1200: Address: 1761473  Function: 3  Alpha:   U<LF>
-POCSAG2400: Address:  426342  Function: 0 
-POCSAG2400: Address: 1517102  Function: 3 
-POCSAG2400: Address:  301109  Function: 1  Alpha:   .<FF>
-POCSAG2400: Address: 1651812  Function: 0 
-POCSAG2400: Address:   37715  Function: 2  Alpha:   ^bb^d
-POCSAG2400: Address:  891738  Function: 2 
-POCSAG2400: Address:  181002  Function: 2 
-POCSAG2400: Address:  105070  Function: 0 
-POCSAG2400: Address:  726702  Function: 2 
