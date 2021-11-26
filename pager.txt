@@ -1,3 +1,47 @@
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN><DC2>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <NAK>0
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   13:29-56 4034<NUL>
+POCSAG1200: Address:  734368  Function: 2 
+POCSAG1200: Address: 1573739  Function: 2  Alpha:   13:28-36 56
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   13:28-70 3144<NUL>
+POCSAG1200: Address: 1122829  Function: 0  Alpha:   #)<STX>P<EM><FF><FS><ESC><DC3><EM>P
+POCSAG1200: Address:  510868  Function: 2  Alpha:   X:
+POCSAG1200: Address: 1364008  Function: 0  Alpha:   <EM><SYN>
+POCSAG1200: Address:  738765  Function: 2  Alpha:   <DC4>2P<NAK>(3Ps
+POCSAG1200: Address: 1316757  Function: 1 
+POCSAG1200: Address:  563756  Function: 0 
+POCSAG1200: Address: 1647114  Function: 1 
+POCSAG1200: Address: 1318049  Function: 1  Alpha:   $}t<EOT>z
+POCSAG1200: Address: 1091200  Function: 1 
+POCSAG1200: Address: 1656056  Function: 0 
+POCSAG1200: Address: 1115159  Function: 2  Alpha:   "*pg<DC2>
+POCSAG1200: Address:  283726  Function: 3 
+POCSAG1200: Address:  395862  Function: 0 
+POCSAG1200: Address: 1058613  Function: 2 
+POCSAG1200: Address: 1089709  Function: 2 
+POCSAG1200: Address: 1657596  Function: 1 
+POCSAG1200: Address:  657746  Function: 1 
+POCSAG1200: Address:  629549  Function: 2  Alpha:   hn
+POCSAG1200: Address:   40081  Function: 2  Alpha:   13:28-99 26/11/20X<CAN><DLE>X<EM>
+POCSAG1200: Address: 1032923  Function: 3  Alpha:   Fl
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   Fl
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:27-26 4387<NUL>
+POCSAG1200: Address: 2009046  Function: 2  Alpha:   13:27-70 56
+POCSAG1200: Address: 1782502  Function: 3 
+POCSAG1200: Address: 1782503  Function: 3 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:26-12 26/11/2021 13:08:57 INC 24723765 21D01M 134 BEDFORD ROAD, BOOTLE L20, L20 2DT Male 40Y NOSE BLEED GRD 334702 394483<NUL>
+POCSAG2400: Address:  698451  Function: 0  Alpha:   <CAN>H
+POCSAG2400: Address: 1204418  Function: 0 
+POCSAG2400: Address: 1747581  Function: 0 
+POCSAG2400: Address: 1324551  Function: 2  Alpha:   13:25-98 RTC M5 Lymp
+POCSAG2400: Address:   28924  Function: 0  Alpha:   13:26-79 2183<NUL>
+POCSAG2400: Address: 1997960  Function: 2 
+POCSAG2400: Address: 1324556  Function: 2  Alpha:   13:25-56 RTC M5 Lympsham J21-20 UPDATE - Northbound Lorry V cars - JAcknifed - No clinical Upadte yet - Call TG 145 if avl
+POCSAG2400: Address: 1324541  Function: 2  Alpha:   13:25-19 RTC M5 Lympsham J21-20 UPDATE - Northbound Lorry V cars - JAcknifed - No clinical Upadte yet - Call TG 145 if avl
+POCSAG2400: Address: 1324561  Function: 2  Alpha:   13:25-95 RTC M5 Lympsham J21-20 UPDATE - Northbound Lorry V cars - JAcknifed - No clinical Upadte yet - Call TG 145 if avl
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:25-30 4954<NUL>
+POCSAG1200: Address: 2044771  Function: 0 
+POCSAG1200: Address: 1312568  Function: 2  Alpha:   13:24-22 (3/3) FSO<NUL><NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   13:24-65 2161<NUL>
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:24-20 5243<NUL>
 POCSAG1200: Address:  269101  Function: 2  Alpha:   13:24-27 26/11/2021 13:21:26 INC 24723829 19C03 NORWOOD, GEN
@@ -954,47 +998,3 @@ POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:01-80 4877<NUL>
 POCSAG2400: Address:  583428  Function: 2  Alpha:   11:00-73 80300
 POCSAG1200: Address:  267480  Function: 3 
 POCSAG1200: Address: 1105302  Function: 0  Alpha:   AH
-POCSAG1200: Address:  958141  Function: 1 
-POCSAG1200: Address:  564412  Function: 2 
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1042036  Function: 0 
-POCSAG1200: Address: 1017714  Function: 0 
-POCSAG1200: Address: 1912417  Function: 2 
-POCSAG1200: Address: 2016817  Function: 2 
-POCSAG2400: Address: 1227576  Function: 3  Alpha:   d:`Vh
-POCSAG1200: Address: 2009704  Function: 0 
-POCSAG1200: Address:  615232  Function: 3 
-POCSAG1200: Address:  370120  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   10:56-52 2183<NUL>
-POCSAG1200: Address: 1858448  Function: 1 
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   10:56-21 5204<NUL>
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   10:56-66 5809<NUL>
-POCSAG1200: Address: 1975027  Function: 0 
-POCSAG1200: Address: 2012752  Function: 2 
-POCSAG2400: Address: 1914020  Function: 2  Alpha:   10:54-51 2150<NUL>
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   10:54-20 5204<NUL>
-POCSAG2400: Address:   28895  Function: 0  Alpha:   10:53-06 5128<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   10:53-77 4877<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:53-15 5530<NUL>
-POCSAG1200: Address:  664466  Function: 2  Alpha:   10:53-13 1: 001MTAHU0513027 Supply Fan ST    CF5 Fan off 01<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  462339  Function: 2 
-POCSAG1200: Address:  953371  Function: 0 
-POCSAG1200: Address:  756306  Function: 1  Alpha:   <BS>4
-POCSAG1200: Address:  940577  Function: 0 
-POCSAG1200: Address: 1511980  Function: 3  Alpha:   &@
-POCSAG2400: Address: 1913707  Function: 2  Alpha:   10:51-77 2447<NUL>
-POCSAG2400: Address: 1913823  Function: 2  Alpha:   10:51-92 2547<NUL>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   10:51-35 26/11/20
-POCSAG2400: Address: 1673482  Function: 1 
-POCSAG2400: Address: 1139993  Function: 1 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:50-14 4660<NUL>
-POCSAG1200: Address: 1815006  Function: 0  Alpha:   10:49-23 PLS RING EXT 12043 
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:49-25 3105<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   F<EOT>
-POCSAG2400: Address:  583718  Function: 2  Alpha:   10:49-44 80300
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>$
-POCSAG2400: Address:  549136  Function: 2  Alpha:   10:48-78 80300
-POCSAG1200: Address:  885816  Function: 1 
-POCSAG1200: Address:  312672  Function: 0  Alpha:   10:48-93 26/11/2021 10:46:16 INC 24723094 02C01I 37 ROWLAND AVENUE, NELSON, BB9 9NG Male 58Y ALLERGIC REACTION GRD 387293 437882
