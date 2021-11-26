@@ -1,3 +1,8 @@
+POCSAG2400: Address:   28869  Function: 0  Alpha:   00:19-71 PLEASE CALL GEORGE EXT: 26009<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0018261121+++TIME=0018261121<NUL>
+POCSAG2400: Address: 1042034  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1974381  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0013261121+++TIME=0013261121<NUL>
 POCSAG2400: Address:   98593  Function: 3  Alpha:   jb
 POCSAG2400: Address:   33713  Function: 2  Alpha:   00:12-74 PLEASE CALL KING
@@ -993,8 +998,3 @@ POCSAG1200: Address:  453979  Function: 0  Alpha:   <FS><DLE>
 POCSAG1200: Address:   99112  Function: 2  Alpha:   jd
 POCSAG1200: Address: 1246808  Function: 3 
 POCSAG1200: Address:  216463  Function: 2  Alpha:   20:02-90 25/11/2021 20:00:52 INC 24720759 09E01 77 NEEDHAM ROAD, LIVERPOOL L7, L7 0EF Male 79Y ON FLOOR GRD 337199 390740<NUL>
-POCSAG1200: Address: 2044497  Function: 0 
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:01-52 Test call<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   20:01-85 4114<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
