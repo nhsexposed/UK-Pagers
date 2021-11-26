@@ -1,3 +1,42 @@
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<DC2>
+POCSAG1200: Address: 1560470  Function: 0  Alpha:   I<ENQ>d<CAN>;
+POCSAG1200: Address:  924965  Function: 0 
+POCSAG1200: Address: 1243524  Function: 1  Alpha:   D, BL
+POCSAG1200: Address: 1651211  Function: 1 
+POCSAG1200: Address: 1769992  Function: 3 
+POCSAG1200: Address: 1485976  Function: 1 
+POCSAG1200: Address:  987049  Function: 2  Alpha:   16:03-44 26/11
+POCSAG1200: Address: 1322933  Function: 2  Alpha:   16:03-06 pageone test message please ignore 372539<NUL>
+POCSAG2400: Address:  111450  Function: 1  Alpha:   db
+POCSAG2400: Address:  652176  Function: 3 
+POCSAG2400: Address: 1449767  Function: 3  Alpha:   d,|g<DC2><DC4><SYN><STX>
+POCSAG2400: Address: 1980742  Function: 0 
+POCSAG2400: Address: 1875971  Function: 0 
+POCSAG2400: Address: 1323186  Function: 2  Alpha:   16:03-20 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:03-47 4765<NUL>
+POCSAG2400: Address: 1323187  Function: 2  Alpha:   16:03-53 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1324445  Function: 2 
+POCSAG1200: Address:  825924  Function: 1  Alpha:   E<SOH>]Y<SOH>9<SYN>^<STX>]<SYN>22&:<RS>R>:<STX>MRJ<SYN><SYN>R2<SOH>5&22<STX>!&22<STX><HT>2<ACK><SO>.<LF>VJ:2<SOH><HT><LF>J<SOH>Q!<ACK><STX>5<ACK>3<ETB><ETX>EUe<STX>!>R<STX><DC1>J&:.<STX>!<ACK>N<STX><HT><SYN><SYN>:<STX>Q"J>^:<STX><ENQ>R<STX>Q"<SYN>6<STX><GS>J<DC2><STX>MY]IAe<SOH>QIYIaY<SOH><NUL>
+POCSAG1200: Address: 1058636  Function: 2  Alpha:   16:03-38 26/11/2021 15:56:24 INC 24724489 
+POCSAG2400: Address: 1323174  Function: 2  Alpha:   16:03-41 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323175  Function: 2  Alpha:   16:03-54 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323176  Function: 2  Alpha:   16:03-63 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323177  Function: 2  Alpha:   16:03-76 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323253  Function: 2  Alpha:   16:03-41 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323179  Function: 2  Alpha:   16:03-92 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323229  Function: 2  Alpha:   16:03-01 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG2400: Address: 1323192  Function: 2  Alpha:   16:03-60 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  269400  Function: 3  Alpha:   fL
+POCSAG1200: Address: 1763062  Function: 0 
+POCSAG1200: Address:  707638  Function: 1  Alpha:   ]<FF>D<SYN><VT>d3<HT>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:00-47 4114<NUL>
+POCSAG1200: Address:  266341  Function: 0  Alpha:   n<CR><FF><CR><NUL>
+POCSAG1200: Address:  366705  Function: 2 
+POCSAG1200: Address:  354553  Function: 2  Alpha:   9<EOT>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-14 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address: 1511897  Function: 2  Alpha:   <DC2><HT>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   9<EOT>
 POCSAG1200: Address:  549861  Function: 2  Alpha:   15:59-90 ~N2401 MODAS DEFECTIVE
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:59-38 4314<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1558261121+++TIME=1558261121<NUL>
@@ -959,42 +998,3 @@ POCSAG1200: Address: 1748736  Function: 1
 POCSAG1200: Address:  740256  Function: 3 
 POCSAG1200: Address:  361311  Function: 1  Alpha:   db`g<DC2>
 POCSAG1200: Address: 1023214  Function: 0  Alpha:   X<EM>
-POCSAG1200: Address: 1997934  Function: 1 
-POCSAG1200: Address:   66197  Function: 1  Alpha:   teM D
-POCSAG1200: Address: 1817187  Function: 0 
-POCSAG1200: Address:   48290  Function: 2  Alpha:   @4
-POCSAG1200: Address:  197121  Function: 2 
-POCSAG1200: Address:  132569  Function: 0 
-POCSAG1200: Address: 1545415  Function: 0  Alpha:   O%
-POCSAG1200: Address:  361307  Function: 1  Alpha:   nd
-POCSAG1200: Address:  216066  Function: 0  Alpha:   X<EM>
-POCSAG1200: Address:  792582  Function: 1  Alpha:   WHC+da3<HT>z<LF>98E<FS>\"<SO>.<DC1><BEL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:39-33 2161<NUL>
-POCSAG2400: Address: 1620840  Function: 1 
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   13:39-86 2182<NUL>
-POCSAG1200: Address:  290120  Function: 3  Alpha:   <ACK><ETX>
-POCSAG1200: Address: 1511994  Function: 3  Alpha:   U<LF>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:38-68 5090<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:38-25 2343<NUL>
-POCSAG2400: Address: 2011892  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:38-67 2804<NUL>
-POCSAG1200: Address:  901418  Function: 2  Alpha:   13:38-97 01642212273
-POCSAG1200: Address: 1032697  Function: 3  Alpha:   A<EM>
-POCSAG2400: Address: 1461379  Function: 2  Alpha:   Z<ESC>H4y|8=<EM><BS>598<ESC>H0<RS>h0=[X<:<CAN><BS>t<ESC>;z8<EM><VT><BS>Oy[<ESC><GS>H9x8<EM>(<SI>h)X<:<CAN>{<HT>h<Z><EM>(<SI>hIlIo4s<DC4>h0<CAN><ESC>{;<GS><GS>(3y|<x9<EM>h4Y<ESC><GS><BS>u<ESC><BS>598<ESC>(<SI><BS>OXo5p<DC4>1<DLE>3<DC1><BS><NAK>s<FS>h0<CAN><ESC><ESC>h05<DC3>t<DC3><DC3>(<FF>,<FF>H4YY<VT>h<DLE>4K<FF>L,,,LL-<VT>,,L<FF>h0<DLE><DC3>3Q<DC4>H3r1<DC1><DC3>hu<DC3>S5<DC1><DC3><DC3><BS>5<DC1><DC3><BS>l-nMmmlm<CR><FF>m<VT>l<CR>Nmmllm,<CR>N<VT>hQ
-POCSAG2400: Address: 1913735  Function: 2  Alpha:   13:38-32 2290<NUL>
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   13:37-75 5343<NUL>
-POCSAG2400: Address:  295506  Function: 0 
-POCSAG1200: Address: 1783424  Function: 2  Alpha:   =2<DC2><STX><GS>2>NN>B2<SOH>M.FM<SOH>aE2<STX><EM><SYN>7<BEL>3<ETB><ETX>QY<SOH>EMR<STX>A<ACK>JRf<STX><CR><ACK>22<SYN>J<STX><CR>>A<STX><GS>J<DC2><STX>QAQEU]<SOH>MeQIEA<SOH>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   13:36-85 2616<NUL>
-POCSAG1200: Address: 1322068  Function: 2  Alpha:   13:35-00 3903<NUL>
-POCSAG1200: Address: 2023645  Function: 0 
-POCSAG1200: Address: 1321859  Function: 2  Alpha:   13:34-95 DSCC OWN CLIENT CASE PIN 9019 03457 500 620 <NUL>
-POCSAG2400: Address: 1913940  Function: 2  Alpha:   13:34-72 2616<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   13:33-92 4167<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333261121+++TIME=1333261121<NUL>
-POCSAG1200: Address:  585045  Function: 2  Alpha:   13:33-54 PLS CALL JOHN JOYCE 07766 135 243 RE: QUOTATION REQUIRED <NUL><NUL>
-POCSAG1200: Address:  980563  Function: 0 
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   13:32-09 65940
-POCSAG1200: Address:  549812  Function: 2  Alpha:   13:32-93 ~FOR INFO S41 STATION COVID CLEAN COMPLETE
-POCSAG2400: Address: 1913707  Function: 2  Alpha:   13:32-80 5186<NUL>
