@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:49-27 4167<NUL>
+POCSAG2400: Address: 1321200  Function: 2  Alpha:   11:49-97 34740
+POCSAG2400: Address: 1913678  Function: 2  Alpha:   11:48-09 4312<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1148261121+++TIME=1148261121<NUL>
+POCSAG2400: Address: 1021176  Function: 3 
+POCSAG2400: Address: 1323792  Function: 2  Alpha:   11:48-12 5066<NUL>
+POCSAG1200: Address:  267672  Function: 0 
+POCSAG1200: Address: 1140535  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1559133  Function: 2 
+POCSAG1200: Address: 1023013  Function: 2 
+POCSAG1200: Address:  895108  Function: 2  Alpha:   b@
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v&66Fv<ACK><EOT>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 2011889  Function: 0 
+POCSAG2400: Address:  532596  Function: 0 
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   11:47-57 4769<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   EN
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   11:46-66 4269<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   t<EOT>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:46-26 4283<NUL>
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   11:46-54 4034<NUL>
+POCSAG1200: Address:  241797  Function: 3  Alpha:   d@Bj@
+POCSAG1200: Address: 1205983  Function: 2  Alpha:   <LF><VT>[g<DC2>4IAIE<SOH>AEi
+POCSAG1200: Address:  733991  Function: 2  Alpha:   11:45-82 3268<NUL>
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   v0
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <STX><SOH>
 POCSAG2400: Address:  733539  Function: 1 
 POCSAG2400: Address: 1515706  Function: 1  Alpha:   IU
 POCSAG2400: Address:  727599  Function: 1 
@@ -972,29 +998,3 @@ POCSAG1200: Address: 1511872  Function: 3  Alpha:   &<ACK>
 POCSAG1200: Address: 1551474  Function: 2  Alpha:   09:44-11
 POCSAG1200: Address: 1894130  Function: 0 
 POCSAG1200: Address:  420501  Function: 3  Alpha:   <ACK><HT>
-POCSAG1200: Address: 2024036  Function: 0 
-POCSAG1200: Address:  108092  Function: 0  Alpha:   09:43-72 plse calkl ext 3295
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0943261121+++TIME=0943261121<NUL>
-POCSAG2400: Address: 1320364  Function: 2  Alpha:   09:43-52 2065<NUL>
-POCSAG1200: Address: 1725416  Function: 0  Alpha:   r<SYN>
-POCSAG1200: Address:  800819  Function: 3  Alpha:   <CR>-
-POCSAG1200: Address:  421535  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1925365  Function: 2  Alpha:   @d
-POCSAG1200: Address: 1771525  Function: 2 
-POCSAG1200: Address:  191236  Function: 3 
-POCSAG1200: Address: 1057971  Function: 2 
-POCSAG1200: Address:  313752  Function: 2  Alpha:   zy
-POCSAG1200: Address: 1057079  Function: 1  Alpha:   O%
-POCSAG1200: Address:   71158  Function: 1  Alpha:    A<NAK>33
-POCSAG1200: Address:  657709  Function: 2  Alpha:   3<DLE>
-POCSAG1200: Address: 1282179  Function: 3  Alpha:   b@
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   09:42-64 5002<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1512684  Function: 3  Alpha:   <SYN>$
-POCSAG2400: Address: 1815068  Function: 0  Alpha:   09:41-48 PEDIATRIC EMERGENCY CASEY WARD EPSON 9:39 AM<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   09:41-11 5243<NUL>
-POCSAG2400: Address: 1844040  Function: 3 
-POCSAG2400: Address: 1913907  Function: 2  Alpha:   09:41-27 4262<NUL>
-POCSAG1200: Address:  940431  Function: 2  Alpha:   09:40-03 26/11/2021 09:37:37 INC 24722815 31E01 42 TARNBROOK COURT, EUSTON ROAD, MORECAMBE, LA4 5LA Female 95Y HARDLEY BREATHING - UNCON GRD 343634 464278
-POCSAG1200: Address:  150346  Function: 2 
-POCSAG1200: Address: 1503130  Function: 0 
