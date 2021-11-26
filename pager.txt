@@ -1,3 +1,46 @@
+POCSAG1200: Address: 1494109  Function: 1  Alpha:   <FS><DLE>
+POCSAG1200: Address:  921910  Function: 1 
+POCSAG1200: Address: 2043459  Function: 1 
+POCSAG2400: Address: 2026085  Function: 2 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:24-44 5400<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523261121+++TIME=1523261121<NUL>
+POCSAG2400: Address:  216417  Function: 2  Alpha:   15:23-94 39216
+POCSAG1200: Address: 1032734  Function: 0 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   2$
+POCSAG1200: Address: 1052867  Function: 2  Alpha:   15:23-53 FOR YOUR INFORMATION - L73P1 HAS BEEN RELEASED PRIOR TO STOP FROM THE INCIDENT IN WEST YORKS<NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   15:23-27 5243<NUL>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   15:23-08 4262<NUL>
+POCSAG1200: Address:  410275  Function: 1  Alpha:   l<FF><EOT>M<FS>
+POCSAG1200: Address: 1523327  Function: 1  Alpha:   O%(<GS>A
+POCSAG1200: Address: 1400047  Function: 1 
+POCSAG1200: Address:   88582  Function: 3 
+POCSAG1200: Address:  535133  Function: 3  Alpha:   <HT>Z<BS>J<SUB>
+POCSAG1200: Address: 1349412  Function: 0 
+POCSAG1200: Address:   93699  Function: 2 
+POCSAG1200: Address:  183138  Function: 2 
+POCSAG1200: Address:  395865  Function: 0  Alpha:   8J
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   15:22-85 5531<NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   15:22-08 62849
+POCSAG1200: Address: 1072208  Function: 0  Alpha:   <DC2><STX>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   8<SOH>:21-43 5540<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   15:21-34 5072<NUL>
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   15:21-95 5073<NUL>
+POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>#A(L
+POCSAG2400: Address:   28906  Function: 0  Alpha:   15:21-28 3105<NUL>
+POCSAG1200: Address:  268055  Function: 2 
+POCSAG1200: Address:  610614  Function: 2 
+POCSAG1200: Address: 1356902  Function: 1 
+POCSAG1200: Address: 1216821  Function: 0  Alpha:   Y 
+POCSAG1200: Address: 1730603  Function: 2 
+POCSAG1200: Address: 1581515  Function: 3 
+POCSAG1200: Address: 1224961  Function: 2 
+POCSAG1200: Address: 1442969  Function: 0 
+POCSAG1200: Address:  288048  Function: 2 
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   15:20-72 4269<NUL>
+POCSAG2400: Address: 2008020  Function: 1 
+POCSAG1200: Address:  262357  Function: 0  Alpha:   VF<ENQ>D)V<ACK>$&j<BS>dX\<GS>L]<FF><EOT>g<SYN><VT>4<CAN>h<HT><EOT><EM>(JH<EM><VT>$(Z<CAN>H<LF>Y<BS>t(J<BS>4nn<RS><ETB>6<ACK>4<ACK><BEL>WF<SYN><ACK><NUL>
+POCSAG1200: Address:  212202  Function: 3  Alpha:   F,
+POCSAG1200: Address: 1896049  Function: 0 
 POCSAG2400: Address: 1032067  Function: 3  Alpha:   ER
 POCSAG2400: Address: 1323899  Function: 2  Alpha:   15:18-87 3108<NUL>
 POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN><SOH>
@@ -955,46 +998,3 @@ POCSAG1200: Address: 1591508  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238261121+++TIME=1238261121<NUL>
 POCSAG2400: Address:  893564  Function: 0 
 POCSAG2400: Address: 1324566  Function: 2  Alpha:   12:38-80 INC ALERT No: 16827030 Cardiac Arrest -, AT: HEAVITREE HOSPITAL, GLADSTONE ROAD, EXETER, EX1 2ED, Time of Call: 26/11/2021 12:36:01, Co-ords: 50.7243847 -3.5140325<NUL><NUL>
-POCSAG1200: Address:  395671  Function: 1  Alpha:   O%h<EOT><STX>p<NAK>rp<LF>98E<FS>
-POCSAG1200: Address:  987231  Function: 1 
-POCSAG1200: Address: 1520222  Function: 2 
-POCSAG1200: Address:   91589  Function: 1  Alpha:   RE
-POCSAG1200: Address: 1578084  Function: 0  Alpha:   v<ACK>Tf<ACK>
-POCSAG1200: Address: 1065403  Function: 0  Alpha:   Q]
-POCSAG1200: Address:  176961  Function: 2  Alpha:   c <BEL>P'
-POCSAG1200: Address:  156873  Function: 1 
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   12:38-84 5255<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   12:38-16 26/11/2021 12:36:49 INC 24723612 06E01 12 GAISGILL COURT, KESWICK CLOSE, WIDNES WA8, WA8 8DX Female 37Id(ARDLY BREATHING GRD 349098 386067<NUL>
-POCSAG1200: Address: 2043280  Function: 2  Alpha:   <SOH>-<SYN>N^&<SO>.<STX><CR>2>N<SYN>2<SOH>]&<DC2>:<SYN>N<STX>]<ACK>b1<SOH>]<ACK>b<SOH>a<DC1>b<STX><EM><SYN>7<BEL>3<ETB><ETX>M]e<STX>!<ACK>J<DC2>2f<STX><HT>J<SYN><ACK>R"&:<RS><STX><GS>J<DC2><STX>MQeAea<SOH>MaYAY]<SOH>
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:37-31 2514<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   12:37-40 26/11/2021 12:35:19 INC 24723604 09E02 NAZARETH HOUSE, MANOR HILL, CLAUGHTON BIRKENHEAD, CH43 1UG Male 90Y LIPS TURNED BLUE GRD 330255 388740<NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   12:37-11 26/11/2021 12:34:36 INC 24723601 29B01 JUNC OF WELLINGTON ROAD, MAULDETH ROAD WEST, WITHINGTON MANCHESTER, M20 1AA Male 48Y RTC AND HAS CHEST PAINS GRD 384693 393501
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   12:37-10 WILLIAM HARVEY ,  KING C2 EXT 8084. 
-POCSAG1200: Address:  696528  Function: 2  Alpha:   12:37-18 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   12:36-47 4316<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:36-60 3180<NUL>
-POCSAG1200: Address: 1817289  Function: 2  Alpha:   12:36-85 05
-POCSAG1200: Address:  695397  Function: 2  Alpha:   12:35-20 26/11/2021 12:33:14 INC 24723591 06E01E 54 WELLS STREET, HASLINGDEN ROSSENDALE, BB4 5LS Male 46Y DIB GRD 378916 423286<NUL>
-POCSAG2400: Address: 2074227  Function: 2 
-POCSAG1200: Address:  440041  Function: 2  Alpha:   <BEL>3<ETB><ETX>a]e<STX><EM><ACK>22<STX><GS>J<DC2><STX>MQIUQe<SOH>MYUUeU<SOH>
-POCSAG1200: Address:   68002  Function: 1  Alpha:   AT
-POCSAG1200: Address: 1997882  Function: 2 
-POCSAG1200: Address:  277425  Function: 2 
-POCSAG1200: Address:  176902  Function: 3 
-POCSAG1200: Address: 1420565  Function: 2  Alpha:   y)
-POCSAG1200: Address:  679741  Function: 1 
-POCSAG1200: Address: 1935492  Function: 2  Alpha:   j@
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1039248  Function: 0 
-POCSAG1200: Address: 1868485  Function: 0  Alpha:   HE
-POCSAG1200: Address:  601060  Function: 3 
-POCSAG1200: Address: 1066594  Function: 1 
-POCSAG1200: Address:   68001  Function: 1  Alpha:   AT
-POCSAG1200: Address: 1711417  Function: 1 
-POCSAG1200: Address:  277424  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1233261121+++TIME=1233261121<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1233261121+++TIME=1233261121<NUL>
-POCSAG2400: Address: 1324318  Function: 2  Alpha:   12:33-69 NHSBT - DONOR REFERRAL. Please call S/N CARDEIRA on Direct Dial Number 01245 514053 Hospital BROOMFIELD Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323187  Function: 2  Alpha:   12:33-52 NHSBT - DONOR REFERRAL. Please call S/N CARDEIRA on Direct Dial Number 01245 514053 Hospital BROOMFIELD Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1323188  Function: 2  Alpha:   12:33-49 NHSBT - DONOR REFERRAL. Please call S/N CARDEIRA on Direct Dial Number 01245 514053 Hospital BROOMFIELD Dept ICU . Regards Donor Referral Line
