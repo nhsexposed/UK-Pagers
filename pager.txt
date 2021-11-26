@@ -1,3 +1,33 @@
+POCSAG2400: Address: 2023807  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853261121+++TIME=0853261121<NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   08:53-90 62178
+POCSAG1200: Address: 1992561  Function: 0 
+POCSAG1200: Address: 1032155  Function: 2  Alpha:   r<BS>
+POCSAG1200: Address: 1509954  Function: 2  Alpha:   08:52-62 4444<NUL>
+POCSAG1200: Address:  755626  Function: 3  Alpha:   zc^bd@<DLE><DC3>A <EM><VT><ETX>'<VT>A$<DC3><GS><SI>A<ACK><ETX>%<US><EM>A<DC2><GS>A<ACK><US><GS>)%<US><EM>
+POCSAG1200: Address: 1321450  Function: 2 
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   08:52-80 4876<NUL>
+POCSAG2400: Address: 1324305  Function: 2  Alpha:   08:51-52 80300
+POCSAG1200: Address:   41512  Function: 2  Alpha:   08:51-09 Call or AaLls waiting at Switchboard
+POCSAG2400: Address:   28924  Function: 0  Alpha:   08:51-78 2054<NUL>
+POCSAG1200: Address: 1484912  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   08:51<CR>q3!4311<NUL>
+POCSAG2400: Address:  583580  Function: 2  Alpha:   08:50-25 80300
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  367407  Function: 3  Alpha:   O%(>8
+POCSAG1200: Address:  200287  Function: 2 
+POCSAG1200: Address:  668155  Function: 1 
+POCSAG1200: Address: 1673057  Function: 3  Alpha:   qd`<NUL><NUL>p<NAK>r
+POCSAG2400: Address: 2013751  Function: 0 
+POCSAG2400: Address: 1323792  Function: 2  Alpha:   08:50-08 2638<NUL>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   08:50-84 4020<NUL>
+POCSAG1200: Address: 2074226  Function: 2 
+POCSAG1200: Address: 1568913  Function: 3  Alpha:   =<FF>x8A
+POCSAG2400: Address: 1913813  Function: 2  Alpha:   08:49-43 2182<NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   08:49-08 26/11/2021 08:48:23 INC 24722628 GREEN WOOD DRIVE, RUNCORN, WA7 1UP Unknown UnknownY RTC GRD 356513 383891<NUL><NUL>
+POCSAG1200: Address: 1798832  Function: 2  Alpha:   D 356513 383891<NUL><NUL>
+POCSAG1200: Address: 1032981  Function: 2  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1324560  Function: 2  Alpha:   08:49-89 INC ALERT No: 16826266 Unconscious/Fainting (Near) - MALE FAINTED, AT: 3 EMLYN PLACE LE MOLAY LITTRY WAY, BOVEY TRACEY NEWTON ABBOT, TQ13 9QR, Time of Call: 26/11/2021 08:47:37, Co-ords: 50.5924544 -3.6747683
 POCSAG2400: Address:  549126  Function: 2  Alpha:   08:49-61 73915
 POCSAG2400: Address:  549023  Function: 2  Alpha:   08:49-61 TEST<NUL>
@@ -968,33 +998,3 @@ POCSAG1200: Address: 1137199  Function: 0  Alpha:   O
 POCSAG1200: Address: 1355335  Function: 1 
 POCSAG1200: Address:  836022  Function: 1  Alpha:   BO
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0513261121+++TIME=0513261121<NUL>
-POCSAG1200: Address:  336053  Function: 2  Alpha:   05
-POCSAG1200: Address: 1868468  Function: 2 
-POCSAG1200: Address:  964341  Function: 0 
-POCSAG1200: Address: 1999615  Function: 0 
-POCSAG1200: Address: 1067611  Function: 2  Alpha:   05:12-47 (2/3) MATTRESS ON FIRE SECOND FLOOR; Assigned: JY02P1, JY01P1,
-POCSAG1200: Address:  428947  Function: 0  Alpha:   <SUB><EM>
-POCSAG1200: Address:  940323  Function: 3 
-POCSAG1200: Address: 1624393  Function: 0  Alpha:   E - R
-POCSAG1200: Address:  999027  Function: 3 
-POCSAG1200: Address: 1465944  Function: 1  Alpha:   [;
-POCSAG1200: Address:  301375  Function: 2  Alpha:   g<DC2>
-POCSAG1200: Address: 1499223  Function: 1 
-POCSAG1200: Address: 1395205  Function: 2 
-POCSAG1200: Address:  707901  Function: 1 
-POCSAG1200: Address:  825364  Function: 2 
-POCSAG1200: Address:  678747  Function: 3  Alpha:   <EOT><GS>
-POCSAG1200: Address:  681428  Function: 0  Alpha:   t<RS><SO><DC3><ETB>+S<ETX><SOH>>77<BEL>;<DC1><ETX>U
-POCSAG1200: Address: 1627059  Function: 0 
-POCSAG1200: Address:   38091  Function: 2 
-POCSAG1200: Address:   66050  Function: 3 
-POCSAG1200: Address: 1812378  Function: 2 
-POCSAG1200: Address:  301017  Function: 0 
-POCSAG1200: Address:  405861  Function: 0 
-POCSAG1200: Address: 1219005  Function: 2 
-POCSAG1200: Address:  304740  Function: 2 
-POCSAG1200: Address: 1454500  Function: 3 
-POCSAG1200: Address:  664745  Function: 2  Alpha:   ,X
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:11-85 3181<NUL>
-POCSAG1200: Address: 1816712  Function: 2  Alpha:   05:11-69 (3/4) Roles    JYG140:RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classificefhon Residential Education;
-POCSAG1200: Address:   14950  Function: 0  Alpha:   05:11-91 26/11/2021 05:10:22 INC 24722209 06D02 62 REEDLEY DRIVE, REEDLEY BURNLEY, BB10 2QS Female 74Y CANT BREATHE GRD 385178 435728<NUL>
