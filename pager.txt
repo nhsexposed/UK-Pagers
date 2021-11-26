@@ -1,3 +1,34 @@
+POCSAG2400: Address: 1320365  Function: 2  Alpha:   10:04-62 4269<NUL>
+POCSAG2400: Address: 1718903  Function: 1 
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   10:03-19 3132<NUL>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG1200: Address: 1761499  Function: 3  Alpha:   VF
+POCSAG2400: Address:   22194  Function: 2  Alpha:   10:03-30 4596<NUL>
+POCSAG1200: Address: 2073208  Function: 0 
+POCSAG1200: Address: 2072819  Function: 1 
+POCSAG1200: Address: 1321864  Function: 2  Alpha:   10
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913827  Function: 2  Alpha:   10:01-64 4554<NUL>
+POCSAG2400: Address: 1913880  Function: 2  Alpha:   10:01-88 4333<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:01-12 2638<NUL>
+POCSAG1200: Address:  312523  Function: 3  Alpha:   sS
+POCSAG1200: Address: 1330450  Function: 0 
+POCSAG1200: Address: 1115168  Function: 3  Alpha:   "<DLE>F|$
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   10:00-99 26/11/2021 09:58:49 INC 2472289<DC3>  9E
+POCSAG1200: Address:  600484  Function: 3  Alpha:   <ACK><BEL>
+POCSAG2400: Address: 2008319  Function: 0 
+POCSAG2400: Address:  583573  Function: 2  Alpha:   10:00-27 80300
+POCSAG2400: Address:  583548  Function: 2  Alpha:   10:00-30 80300
+POCSAG2400: Address:  584089  Function: 2  Alpha:   10:00-91 80300
+POCSAG2400: Address: 1324302  Function: 2  Alpha:   10:00-26 80300
+POCSAG2400: Address: 1323059  Function: 2  Alpha:   10:00-46 80300
+POCSAG1200: Address:  893489  Function: 0 
+POCSAG1200: Address: 1592645  Function: 2 
+POCSAG1200: Address:  339090  Function: 0 
+POCSAG1200: Address:  616616  Function: 3  Alpha:   @ %<VT>'
+POCSAG1200: Address:  696060  Function: 2  Alpha:   10:00-97 2721<NUL>
+POCSAG2400: Address: 1812507  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
 POCSAG2400: Address: 1913683  Function: 2  Alpha:   09:59-55 5368<NUL>
 POCSAG1200: Address: 1826928  Function: 3 
 POCSAG1200: Address:  619100  Function: 0 
@@ -967,34 +998,3 @@ POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:08-05 3180<NUL>
 POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:07-48 2065<NUL>
 POCSAG1200: Address:  627235  Function: 2 
 POCSAG1200: Address: 2054266  Function: 3 
-POCSAG1200: Address:  627236  Function: 2 
-POCSAG1200: Address: 2054267  Function: 3 
-POCSAG1200: Address:   90610  Function: 3  Alpha:   }G
-POCSAG1200: Address: 1499986  Function: 2 
-POCSAG1200: Address: 1975934  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  200284  Function: 2 
-POCSAG2400: Address: 1167052  Function: 1 
-POCSAG1200: Address:  216321  Function: 2  Alpha:   08:04-37 (6/6) Additional_Data Address Classification Parent Shell<NUL><NUL>
-POCSAG2400: Address:   11699  Function: 0  Alpha:   08:04-42 FIRE CALL<NUL><NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   08:02-34 4183<NUL>
-POCSAG1200: Address:  857891  Function: 1 
-POCSAG1200: Address: 1582435  Function: 1 
-POCSAG1200: Address: 1639513  Function: 1 
-POCSAG1200: Address:  197832  Function: 0 
-POCSAG1200: Address: 1056935  Function: 2  Alpha:   O%(N<STX>
-POCSAG1200: Address: 1881167  Function: 3 
-POCSAG1200: Address:  944806  Function: 3 
-POCSAG1200: Address:  103317  Function: 3  Alpha:   ''
-POCSAG1200: Address:  267831  Function: 2  Alpha:   08:02-29 56
-POCSAG1200: Address: 2009646  Function: 1 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   08:02-33 4399<NUL>
-POCSAG1200: Address:   12800  Function: 0  Alpha:   <ENQ><NUL>
-POCSAG1200: Address:   11776  Function: 0  Alpha:   <ENQ><NUL>
-POCSAG1200: Address:   14336  Function: 0  Alpha:   <ENQ><NUL>
-POCSAG1200: Address: 1835048  Function: 0 
-POCSAG1200: Address:   12280  Function: 2 
-POCSAG1200: Address:   13824  Function: 0  Alpha:   <SO><NUL>
-POCSAG1200: Address:   11264  Function: 0  Alpha:   <SOH><NUL>
-POCSAG1200: Address:   12800  Function: 0  Alpha:   <LF><NUL>
-POCSAG1200: Address:   11264  Function: 0  Alpha:   <HT><NUL>
