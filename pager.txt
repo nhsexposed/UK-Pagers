@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308261121+++TIME=0308261121<NUL>
+POCSAG1200: Address: 1933393  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   03:06-73 26/11/2021 03:04:18 INC 24721978 01A03 FLAT 42, ASHVILLE
 POCSAG2400: Address:  424705  Function: 0  Alpha:   <ACK>Zp6V
 POCSAG2400: Address: 1652248  Function: 2 
 POCSAG2400: Address: 2019956  Function: 1 
@@ -994,7 +998,3 @@ POCSAG2400: Address:   74825  Function: 0  Alpha:   <ETB>KK<BEL>3<ETX>1&;<ETB><E
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
 POCSAG1200: Address:   40088  Function: 2  Alpha:   21:26-21 AAU - 23983
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   21:24-58 2343<NUL>
-POCSAG1200: Address: 1737316  Function: 2 
-POCSAG1200: Address: 1263196  Function: 2 
-POCSAG1200: Address: 1207002  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
-POCSAG1200: Address:  635737  Function: 0  Alpha:   dn
