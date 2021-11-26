@@ -1,3 +1,44 @@
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   09:14-05 4272<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   09:13-20 4771<NUL>
+POCSAG2400: Address:  549055  Function: 2  Alpha:   09:13-34 TVLRF PAT - ACTIVATION OF ERA (Emergency Response ArrangementsiH<DC4>
+POCSAG2400: Address: 1913933  Function: 2  Alpha:   09:13-70 4769<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1594976  Function: 2  Alpha:   09:12-14 Location 9 BRUCEHILL ROAD, RENTON DUMBARTON, G82 4EP Inc No: 8094252 Code: 17D05 Con: YES What is the Problem: MALE - FALLEN OUT OF BED, HEAD INJ Name:2Sge: 43Y<NUL><NUL>
+POCSAG1200: Address:  216670  Function: 3 
+POCSAG1200: Address: 1205980  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   09:11-16 DAY UNIT 8263
+POCSAG1200: Address:  363869  Function: 2  Alpha:   09:11-00 26/11/2021 09:09:20 INC 24722705 17D05 PRINCES GATE HOUSE - FLAT 7, KINGSLEY ROAD, TOXTETH L8, L8 2XY Male 64Y DIB - FALL GRD 336554 388657
+POCSAG1200: Address:  334075  Function: 2  Alpha:   09:11-59 26/11/2021 09:09:20 INC 24722705 17D05 PRINCES GATE HOUSE - FLAT 7, KINGSLEY ROAD, TOXTETH L8, L8 2XY Male 64Y DIB - FALL GRD 336554 388657
+POCSAG1200: Address: 1155930  Function: 1  Alpha:   nn
+POCSAG1200: Address:  585393  Function: 2  Alpha:   09
+POCSAG1200: Address: 1204430  Function: 0 
+POCSAG1200: Address:  216667  Function: 3 
+POCSAG1200: Address: 1817257  Function: 2  Alpha:   09:11-67 Call or Calls waiting at Switchboard
+POCSAG2400: Address: 2089510  Function: 1 
+POCSAG2400: Address: 1913880  Function: 2  Alpha:   09:11-87 2233<NUL>
+POCSAG1200: Address:  216796  Function: 2  Alpha:   09:11-84 This is a test message could the staff member on call please confirm receipt by replying to this message or give Florence ONeill a call/text on 07392 863986.<NUL><NUL>
+POCSAG1200: Address:  697187  Function: 0 
+POCSAG1200: Address: 1970705  Function: 2  Alpha:   09:11-70 Call or Calls waiting at WWhtchboard
+POCSAG1200: Address: 1319836  Function: 2  Alpha:   09:11-37 This is a test message could the staff member on call please confirm receipt by replying to this message or give Florence ONeill a call/text on 07392 863986.<NUL><NUL>
+POCSAG2400: Address: 1022276  Function: 0  Alpha:   09:10-98 PLS CALL LUCY RENAL TRANSPLANT CO-ORDINATOR AT QUEEN ELIZABETH HOSP BIRMINGHAM 0121 371 5836 
+POCSAG1200: Address: 1817061  Function: 2  Alpha:   09:10-56 (2/3) CENTRE          TURNPIKE ROAD          BINFIELD          BRACKNELL          RG42 1FW Type     F2.0.0.P FIRE - RETAIL/ PUBLIC ASSEMBLY Map ref 
+POCSAG2400: Address: 1320153  Function: 2  Alpha:   09:10-42 PLS CALL LUCY RENAL TRANSPLANT CO-ORDINATOR AT QUEEN ELIZABETH HOSP BIRMINGHAM 0121 371 5836 
+POCSAG1200: Address:  585393  Function: 2  Alpha:   09:10-77 (3/3) 484863,169352 Details  SMOKE COMING FROM KITCHEN LIGHTS  INFORMING AS DUTY OFFICER
+POCSAG1200: Address:  735021  Function: 3 
+POCSAG1200: Address: 1996836  Function: 2  Alpha:   <CAN><
+POCSAG1200: Address:  381770  Function: 2  Alpha:    CommU~)
+POCSAG1200: Address:  193114  Function: 3 
+POCSAG1200: Address: 1817136  Function: 2  Alpha:   09:10-41 (3/4) Assigned: JY16P1, JY14P1, JY10P1; Roles    JY14P1:Main Pump,RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS01 (38*) (DGNA);<NUL>
+POCSAG1200: Address:  378914  Function: 2  Alpha:   <EM>y
+POCSAG1200: Address:  619456  Function: 0 
+POCSAG1200: Address: 2011828  Function: 1 
+POCSAG2400: Address: 1320365  Function: 2  Alpha:   09:09-61 4272<NUL>
+POCSAG1200: Address: 1516442  Function: 3  Alpha:   9P!vpyy4stq0zt77<DLE>h:1vt1P<ETB><DLE>k46vps2<DLE>d066P<ETB>P':t29Pawvv:w4z<<DLE>cpq4v4z<
+POCSAG1200: Address: 1817136  Function: 2  Alpha:   09:09-39 (4/4) Additional_Data Address Classification Public / Village Hall / Other Community Facility
+POCSAG1200: Address: 2025459  Function: 1 
+POCSAG1200: Address: 1817136  Function: 2  Alpha:   09:09-38 (1/4)030578-26112021; F2.0.0.P FIRE - RETAIL/ PUBLIC ASSEMBLY;
+POCSAG1200: Address: 2007604  Function: 1 
+POCSAG1200: Address:  549806  Function: 2  Alpha:   09:09-24 ~FOR INFO W41 & W42 IN BREACH - W42 WILL HAVE CREW OF 4 AT 1000HRS.<NUL>
 POCSAG2400: Address: 1913884  Function: 2  Alpha:   09:09-52 4272<NUL>
 POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
 POCSAG1200: Address:  381882  Function: 2  Alpha:   09:09-36 6528<NUL>
@@ -957,44 +998,3 @@ POCSAG1200: Address: 1321730  Function: 2  Alpha:   06:14-14 PPCI ACTIVATION, ET
 POCSAG1200: Address: 1321734  Function: 2  Alpha:   06:14-75 PPCI ACTIVATION, ETA 06:50 AM, INTUBATED, PLEASE CALL EXT 5094
 POCSAG1200: Address: 1321746  Function: 2  Alpha:   06:14-11 PPCI ACTIVATION, ETA 06:50 AM, INTUBATED, PLEASE CALL EXT 5094
 POCSAG1200: Address:  826547  Function: 2 
-POCSAG1200: Address: 1323595  Function: 2 
-POCSAG1200: Address:  996352  Function: 2  Alpha:   S.
-POCSAG1200: Address: 1321858  Function: 0 
-POCSAG1200: Address:   35066  Function: 0 
-POCSAG1200: Address:  206385  Function: 2 
-POCSAG1200: Address:  363865  Function: 0 
-POCSAG1200: Address: 1204023  Function: 0  Alpha:   O%h<ACK>22<SOH>!
-POCSAG1200: Address:  210621  Function: 1 
-POCSAG1200: Address:  329162  Function: 0 
-POCSAG1200: Address:  379217  Function: 0 
-POCSAG1200: Address: 1881200  Function: 1  Alpha:   N6
-POCSAG1200: Address:  434483  Function: 0 
-POCSAG1200: Address:  322746  Function: 1  Alpha:   Z<SUB>
-POCSAG1200: Address:  152578  Function: 2 
-POCSAG1200: Address:  469025  Function: 2 
-POCSAG1200: Address:  386462  Function: 1  Alpha:   )P
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   06:09-32 07729696450
-POCSAG1200: Address: 1313126  Function: 2  Alpha:   06:09-38 07729696450
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   06:09-64 07729696450
-POCSAG1200: Address: 2015859  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1089611  Function: 2  Alpha:   06:05-68 26/11/2021 05:58:36 INC 24722276 09D01 198 WIGAN ROAD, ASHTON IN MAKERFIELD WIGAN, WN4 9SX Female 62Y LUNG CANCER AND BRAIN TUMOUR PT, BREATHING PROBLEMS GRD 357247 400423
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603261121+++TIME=0603261121<NUL>
-POCSAG2400: Address: 1975921  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address: 1844987  Function: 0 
-POCSAG1200: Address:  922420  Function: 3 
-POCSAG1200: Address: 1133066  Function: 0 
-POCSAG1200: Address:  723097  Function: 1  Alpha:   8J
-POCSAG1200: Address: 1403329  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:55-25 5090<NUL>
-POCSAG1200: Address:  176900  Function: 3 
-POCSAG1200: Address:   94536  Function: 0  Alpha:   D 371154
-POCSAG1200: Address:   81440  Function: 2 
-POCSAG1200: Address: 2009682  Function: 1 
-POCSAG2400: Address: 1108600  Function: 3 
-POCSAG2400: Address:   67244  Function: 2 
-POCSAG2400: Address:  412956  Function: 1 
-POCSAG2400: Address:  911667  Function: 0 
