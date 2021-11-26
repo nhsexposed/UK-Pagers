@@ -1,3 +1,29 @@
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:34-19 4387<NUL>
+POCSAG1200: Address: 1484850  Function: 0 
+POCSAG1200: Address: 1039248  Function: 0 
+POCSAG2400: Address:  225480  Function: 2  Alpha:   11:33-81 CALL OUT 13590 JOHN RADCLIFFE PLS CALL THE OFFICE <NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1133261121+++TIME=1133261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1133261121+++TIME=1133261121<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:33-71 2304<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   11:32-78 3508<NUL>
+POCSAG2400: Address: 1966610  Function: 0 
+POCSAG2400: Address: 1913773  Function: 2  Alpha:   11:32-93 5002<NUL>
+POCSAG1200: Address:  363815  Function: 2  Alpha:   11:32-96 6281<NUL>
+POCSAG1200: Address:  549740  Function: 2  Alpha:   11:31-08 This is a test alert for Pager training
+POCSAG1200: Address: 1982075  Function: 0 
+POCSAG1200: Address: 1509929  Function: 2  Alpha:   11:31-30 66613
+POCSAG1200: Address:  695952  Function: 2  Alpha:   11:30-95 26/11/2021 11:29:43 INC 24723284 29D02L O/S, 135 MOORFIELD AVENUE, DENTON MANCHESTER, M34 7TU Male 65Y RTC MOTORBIKE V CAR GRD 393455 394744<NUL><NUL>
+POCSAG1200: Address: 1321271  Function: 2  Alpha:   11:30-86 2372<NUL>
+POCSAG1200: Address:   41432  Function: 2  Alpha:   11:30-22 26/11/2021 11:29:21 INC 24723282 10D04 55 FIR STREET, NELSON, BB9 9RQ Male 27Y 
+POCSAG1200: Address:   14950  Function: 0  Alpha:   11:30-00 26/11/2021 11:29:21 INC 24723282 10D04 55 FIR STREET, NELSON, BB9 9RQ Male 27Y CHEST PAIN GRD 386587 437736<NUL>
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   11:30-93 4379<NUL>
+POCSAG2400: Address: 1913928  Function: 2  Alpha:   11:30-88 2638<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   11:30-53 5897<NUL>
+POCSAG1200: Address:  247439  Function: 1 
+POCSAG1200: Address: 2047565  Function: 1 
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   11:29-68 3508<NUL>
 POCSAG1200: Address: 1039184  Function: 3  Alpha:   VD
 POCSAG1200: Address: 1573739  Function: 2  Alpha:   11:29-34 4226<NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   11:29-29 26/11/2021 11:26:29 INC 24723271 01C03 50 WHINCRAIG, STOCKBRIDGE VILLAGE L28, L28 5RR Male 72Y abdo pain GRD 343054 393189
@@ -972,29 +998,3 @@ POCSAG1200: Address:   22104  Function: 2  Alpha:   09:24-55 26/11/2021 09:18:14
 POCSAG1200: Address:   80170  Function: 3  Alpha:   <DC2>CH<SUB>L
 POCSAG1200: Address:  420494  Function: 2  Alpha:   c0
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   09:23-53 4457<NUL>
-POCSAG2400: Address: 1323368  Function: 2  Alpha:   09:22-79 80300
-POCSAG1200: Address:  585963  Function: 2  Alpha:   09:22-24 PLEASE CONTACT TC ON 07966 965276 REF TUNICS<NUL>
-POCSAG2400: Address: 1320098  Function: 2  Alpha:   09:21-27 80300
-POCSAG2400: Address: 1913839  Function: 2  Alpha:   09:21-80 5204<NUL>
-POCSAG2400: Address: 1913801  Function: 2  Alpha:   09:21-99 4901<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   09:20-09 2429<NUL>
-POCSAG1200: Address:  631643  Function: 0  Alpha:   bf
-POCSAG1200: Address:  216666  Function: 3 
-POCSAG1200: Address:  700674  Function: 1 
-POCSAG1200: Address:  977945  Function: 1 
-POCSAG1200: Address:  549861  Function: 2  Alpha:   09:20-85 ~PLEASE CONTACT FIONA AT RCC
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:19-07 4514<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   09:19-22 2429<NUL>
-POCSAG1200: Address: 1032981  Function: 2  Alpha:   <ACK><SO>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0918261121+++TIME=0918261121<NUL>
-POCSAG1200: Address: 1594976  Function: 2  Alpha:   09:18-15 Location CHERRY TREE COURT - FLAT 8, WEST COATS ROAD, CAMBUSLANG GLASGOW, G72 8AB Inc No: 8094269 Code: 12D02E Con: YES What is the Problem: MALE - HAVING SEIZURE - MEDAZALAM 8MINS Name: Age: 22Y<NUL>
-POCSAG2400: Address: 1411842  Function: 0  Alpha:   `<EM>
-POCSAG2400: Address: 1751504  Function: 0 
-POCSAG2400: Address:  284301  Function: 0 
-POCSAG2400: Address:  338340  Function: 1 
-POCSAG2400: Address:  610612  Function: 2 
-POCSAG2400: Address: 1068131  Function: 1 
-POCSAG2400: Address:   78437  Function: 2 
-POCSAG2400: Address:  396892  Function: 1  Alpha:   <BS>4
-POCSAG2400: Address: 1069876  Function: 2 
-POCSAG2400: Address: 1162075  Function: 0  Alpha:   rl
