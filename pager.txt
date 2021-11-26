@@ -1,3 +1,16 @@
+POCSAG1200: Address:  164451  Function: 3  Alpha:   roM H
+POCSAG1200: Address: 1511870  Function: 2  Alpha:   V<STX>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   <SYN>2
+POCSAG2400: Address: 2073845  Function: 0 
+POCSAG2400: Address: 2077691  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1018261121+++TIME=1018261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1018261121+++TIME=1018261121<NUL>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   10:18-57 PLS CALL SITE 365A TEL: 07468 846 247 RE: GAMMA ALARM <NUL><NUL>
+POCSAG2400: Address: 1913870  Function: 2  Alpha:   10:17-86 4769<NUL>
+POCSAG1200: Address: 1313221  Function: 2  Alpha:   10:17-27 Destination: D105 SSC In\117, Booking Ref#: 802657, Vehicle: KN69XMU. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1039248  Function: 0 
+POCSAG1200: Address:  312672  Function: 0  Alpha:   10:15-85 26/11/2021 10:08:57 INC 24722934 17D04 39 BROADWAY, HINDLEY WIGAN, WN2 4JP Male 11M FALLEN GRD 363036 404369
+POCSAG2400: Address: 1712947  Function: 0  Alpha:   <SO><DLE>
 POCSAG2400: Address: 1106138  Function: 0 
 POCSAG2400: Address: 1149785  Function: 0  Alpha:   bf
 POCSAG2400: Address: 1167145  Function: 1  Alpha:   <CAN><CAN>
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1258733  Function: 2  Alpha:   08:31-53 26/11/2021 08:29:26
 POCSAG2400: Address: 1323481  Function: 2  Alpha:   08:29-49 TEST PAGE FOR ANN-MARIE <NUL>
 POCSAG2400: Address: 1323480  Function: 2  Alpha:   08:29-20 TEST PAGE FOR ANN-MARIE <NUL>
 POCSAG2400: Address: 1323482  Function: 2  Alpha:   08:29-53 TEST PAGE FOR ANN-MARIE <NUL>
-POCSAG2400: Address: 1323485  Function: 2  Alpha:   08:29-60 TEST PAGE FOR ANN-MARIE <NUL>
-POCSAG2400: Address:  893666  Function: 0 
-POCSAG2400: Address: 1323487  Function: 2  Alpha:   08:29-76 TEST PAGE FOR ANN-MARIE <NUL>
-POCSAG2400: Address: 1323489  Function: 2  Alpha:   08:29-34 TEST PAGE FOR ANN-MARIE <NUL>
-POCSAG1200: Address: 1265331  Function: 3 
-POCSAG1200: Address: 1732717  Function: 1 
-POCSAG1200: Address: 1133067  Function: 0  Alpha:   #)<STX>P<EM>L\<CAN>\<ESC>P
-POCSAG1200: Address:  386474  Function: 3 
-POCSAG1200: Address:  449970  Function: 0  Alpha:   Tj=m}}n<GS><VT>dxYjI<BS>4JYZ<HT>ZH<BS>tiZ(<LF>t(J<BS>4<ACK><ETB><ETB><ACK>w<ACK>4<SYN><BEL><SYN>F&
-POCSAG2400: Address: 1323747  Function: 2  Alpha:   08:29-34 Claire, you are on call for East Anglia until 0900/3rd December.  Please contact Anneliese Hillyer-Thake for a handover
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0828261121+++TIME=0828261121<NUL>
-POCSAG1200: Address: 1780768  Function: 3 
-POCSAG1200: Address:  269111  Function: 2  Alpha:   08:28-43 26/11/2021 08:27:01 INC 24722578 10D04 30 ADELAIDE TERRACE, BLACKBURN, BB2 6ET Male 52Y CHEST PAIN AND STRUGGLING GRD 367263 428454
