@@ -1,3 +1,9 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228261121+++TIME=0228261121<NUL>
+POCSAG2400: Address:  342998  Function: 0  Alpha:   <DC3><DC3>C<DC3>3<VT><VT><DC3><VT>[ZZ"Ml,l<ETX><DC3><DC3>C<DC3>3<VT><VT><DC3><VT><ETX>
+POCSAG2400: Address: 1322351  Function: 2  Alpha:   02:27-90 Please call PAH ext:7928  A&E<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:25-16 4157<NUL>
+POCSAG2400: Address: 1022657  Function: 2  Alpha:   02:25-02 RADIE SNOD AT BOLTON HOSPITAL 07764 280 823<NUL><NUL>
+POCSAG2400: Address: 1323067  Function: 2  Alpha:   02:25-41 RADIE SNOD AT BOLTON HOSPITAL 07764 280 823<NUL><NUL>
 POCSAG1200: Address: 1149540  Function: 2  Alpha:   use / Store / Storage Depot<NUL>
 POCSAG1200: Address:  216321  Function: 2  Alpha:   02:22-30 (2/2) 495779,181526; Assigned: JY17P2; Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data FAMO true
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1322897  Function: 2  Alpha:   21:14-22 TEST PAGE ONLY<NUL>
 POCSAG2400: Address: 1322866  Function: 2  Alpha:   21:14-46 TEST PAGE ONLY<NUL><NUL>
 POCSAG2400: Address: 1022273  Function: 0  Alpha:   21:14-01 TEST PAGE ONLY<NUL><NUL>
 POCSAG2400: Address: 1322778  Function: 2  Alpha:   21:14-32 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:14-68 4165<NUL>
-POCSAG2400: Address: 1322822  Function: 2  Alpha:   21:14-42 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1322760  Function: 2  Alpha:   21:14-31 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1322772  Function: 2  Alpha:   21:14-89 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1323047  Function: 2  Alpha:   21:14-97 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1022656  Function: 0  Alpha:   21:14-62 TEST PAGE ONLY<NUL><NUL>
