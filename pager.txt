@@ -1,3 +1,19 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0818261121+++TIME=0818261121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0818261121+++TIME=0818261121<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   08:16-86 4902<NUL>
+POCSAG1200: Address: 2080639  Function: 2  Alpha:   ~~^g<DC2>4??7?????????<ESC><DC4>
+POCSAG1200: Address:   84325  Function: 2  Alpha:    nO m?y2
+POCSAG1200: Address: 1686123  Function: 1  Alpha:   <ETX><STX>
+POCSAG1200: Address:   39634  Function: 1  Alpha:   QS
+POCSAG1200: Address:  413145  Function: 0  Alpha:   <CAN><FS>
+POCSAG1200: Address: 1837169  Function: 1 
+POCSAG1200: Address:  892448  Function: 2 
+POCSAG1200: Address:  959318  Function: 1 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   F0
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:15-03 26/11/2021 08:14:09 INC 24722543 17A04G 8 LARCH CLOSE, GRASSENDALE L19, L19 0QN Female 85Y RIVERSIDE- FALLEN - ON THE FLOOR GRD 338835 385178<NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   08:14-76 4283<NUL>
+POCSAG1200: Address: 2007479  Function: 1  Alpha:   <DEL><DEL>
 POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:13-49 2065<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address: 1773231  Function: 3 
@@ -982,19 +998,3 @@ POCSAG1200: Address:  193488  Function: 2
 POCSAG1200: Address:  742664  Function: 0 
 POCSAG1200: Address: 1137059  Function: 0 
 POCSAG1200: Address: 1521731  Function: 0 
-POCSAG1200: Address: 1772216  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  394561  Function: 2 
-POCSAG2400: Address:  333482  Function: 0 
-POCSAG2400: Address:  657745  Function: 0 
-POCSAG2400: Address:  793761  Function: 3 
-POCSAG2400: Address:   74151  Function: 0  Alpha:   CK@g<DC2>
-POCSAG2400: Address:   78438  Function: 2 
-POCSAG2400: Address:  396893  Function: 1  Alpha:   <BS>4
-POCSAG2400: Address: 1069877  Function: 2 
-POCSAG2400: Address: 1678172  Function: 1  Alpha:   Hf
-POCSAG2400: Address:  585333  Function: 2  Alpha:   02:36-23 35660 thomas cook hdu<NUL>
-POCSAG1200: Address: 2024045  Function: 0 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   00233-82 2304<NUL>
-POCSAG1200: Address: 1741685  Function: 1 
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:31-86 PLEASE CALL CHARMANE 0300 300 0044<NUL><NUL>
