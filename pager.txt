@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1913937  Function: 2  Alpha:   14:39-28 3132<NUL>
+POCSAG1200: Address:  659375  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1438261121+++TIME=1438261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1438261121+++TIME=1438261121<NUL>
+POCSAG2400: Address:  164437  Function: 3 
+POCSAG2400: Address:    6668  Function: 1  Alpha:   )H
+POCSAG2400: Address:  544848  Function: 2  Alpha:   <STX><DC2>D,,
+POCSAG2400: Address:  557814  Function: 1  Alpha:   FF<NUL>STu3<HT>
+POCSAG2400: Address:  330566  Function: 2 
+POCSAG2400: Address:  681549  Function: 1 
+POCSAG2400: Address: 1415204  Function: 3  Alpha:   ,<EOT>
+POCSAG2400: Address: 1349434  Function: 1 
+POCSAG1200: Address:  135328  Function: 2  Alpha:   14:37-30 26/11/2021 14:35:14 INC 24724152 17D04 19 EGERTON GROVE, CHORLEY, PR7 2HQ Male 57Y FALLEN FROM ROOF GRD 357702 416971<NUL><NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   14:37-22 26/11/2021 14:35:14 INC 24724152 17D04 19 EGERTON GROVE, CHORLEY, PR7 2HQ Male 57Y FALLEN FROM ROOF GRD 357702 416971<NUL><NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   14:37-02 80300
+POCSAG1200: Address:  265355  Function: 3  Alpha:   &D
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  420458  Function: 3  Alpha:   Vj%cL
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   14:36-82 4902<NUL>
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   14:36-01 5001<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:35-39 4283<NUL>
+POCSAG2400: Address: 1913655  Function: 2  Alpha:   14:35-85 3104<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   14:34-13 PLS CALL 7233022 DR CHIDU <NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:34-71 2561<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1433261121+++TIME=1433261121<NUL>
 POCSAG2400: Address:  404669  Function: 2  Alpha:   qY
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -974,27 +998,3 @@ POCSAG2400: Address: 1434482  Function: 0
 POCSAG1200: Address: 1438241  Function: 2 
 POCSAG1200: Address: 1570568  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1208261121+++TIME=1208261121<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   12:08-19 3117<NUL>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  111402  Function: 2  Alpha:   jd
-POCSAG1200: Address: 1205976  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><DC3>S
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   12:08-85 4155<NUL>
-POCSAG1200: Address: 1582439  Function: 2 
-POCSAG1200: Address:  299678  Function: 3 
-POCSAG1200: Address: 1238413  Function: 2  Alpha:   S<SO>h<DC4>-
-POCSAG1200: Address: 1388386  Function: 0 
-POCSAG1200: Address: 1258593  Function: 3  Alpha:   2<SOH>
-POCSAG1200: Address:   95047  Function: 2  Alpha:   O%
-POCSAG1200: Address:  657615  Function: 2 
-POCSAG1200: Address:  109353  Function: 3  Alpha:   df
-POCSAG1200: Address: 1483185  Function: 2  Alpha:   12:07-24 26/11/2021 12:05:23 INC 24723459 17D04 61 CARR LANE, CHORLEY, PR7 3JF Female 92Y FALL GRD 358467 416178<NUL><NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   12:07-09 26/11/2021 12:05:23 INC 24723459 17D04 61 CARR LANE, CHORLEY, PR7 3JF Female 92Y FALL GRD 358467 416178<NUL><NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   12:07-24 5202<NUL>
-POCSAG1200: Address:  623237  Function: 2  Alpha:   "jd!P<ACK><DLE>f
-POCSAG1200: Address: 1231222  Function: 1  Alpha:   GT
-POCSAG2400: Address: 2008695  Function: 1 
-POCSAG1200: Address:  234377  Function: 2  Alpha:   12:06-21 26/11/2021 12:02:57 INC 24723443 06D02 54 PEDDERS LANE, SOUTH SHORE BLACKPOOL, FY4 3HY Female 82Y DIFF BREATHING GRD 331936 433259<NUL>
-POCSAG1200: Address: 2076816  Function: 3 
-POCSAG1200: Address: 1999185  Function: 0 
-POCSAG1200: Address: 1031705  Function: 2 
