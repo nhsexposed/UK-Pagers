@@ -1,3 +1,54 @@
+POCSAG1200: Address:  790905  Function: 2  Alpha:   <CR>D
+POCSAG1200: Address: 1915488  Function: 2 
+POCSAG1200: Address:   82807  Function: 3  Alpha:   d Pg<DC2>4yw
+POCSAG1200: Address:  784110  Function: 2 
+POCSAG1200: Address:  852627  Function: 3  Alpha:   gnOre
+POCSAG1200: Address: 2086954  Function: 1  Alpha:   nM}<GS>L
+POCSAG1200: Address: 1781825  Function: 3 
+POCSAG1200: Address:  733262  Function: 3  Alpha:   ~<ACK>j~<SYN>
+POCSAG1200: Address:  891749  Function: 3  Alpha:   \@
+POCSAG1200: Address:  361217  Function: 2  Alpha:   rX
+POCSAG1200: Address:  133912  Function: 0  Alpha:   X<CAN>
+POCSAG1200: Address: 1818215  Function: 1 
+POCSAG1200: Address:  227309  Function: 2 
+POCSAG1200: Address: 1472268  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1538261121+++TIME=1538261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1538261121+++TIME=1538261121<NUL>
+POCSAG1200: Address: 1267206  Function: 3 
+POCSAG1200: Address:  756308  Function: 0  Alpha:   <BS>4&&V
+POCSAG1200: Address:  413657  Function: 2 
+POCSAG1200: Address:  234377  Function: 2  Alpha:   15:37-32 26/11/2021 15:35:59 INC 24724405 10D04 32 ELDON COURT, ST ANNES LYTHAM ST ANNES, FY8 2BH Female 57Y kidney - lung pain - lower abdo pain - nausia GRD 332525 429401<NUL><NUL>
+POCSAG1200: Address: 1975908  Function: 1 
+POCSAG2400: Address:   11678  Function: 0  Alpha:   15:37-67
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   5J
+POCSAG1200: Address: 1601238  Function: 0 
+POCSAG1200: Address: 1678173  Function: 1  Alpha:   `d
+POCSAG1200: Address:  129316  Function: 1  Alpha:   X<SUB>
+POCSAG1200: Address: 1716579  Function: 1  Alpha:   <ACK><ACK>
+POCSAG1200: Address: 1682242  Function: 3  Alpha:   nbF@h
+POCSAG1200: Address: 1216769  Function: 2 
+POCSAG1200: Address:  677448  Function: 2  Alpha:   <DC4>h
+POCSAG1200: Address:  708496  Function: 2 
+POCSAG1200: Address: 1021095  Function: 0  Alpha:   O%
+POCSAG1200: Address:  140101  Function: 2  Alpha:    *<EOT>P<SYN><NUL>id
+POCSAG1200: Address: 1485076  Function: 1  Alpha:   Xh
+POCSAG1200: Address:  694705  Function: 0 
+POCSAG1200: Address: 1738612  Function: 3 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   15:36-95 26/11/2021 15:35:21 INC 24724403 09E01 78 ALDER CLOSE, LEYLAND, PR26 7TU Male 78Y SUDDEN DEATH - RIGOR MORTIS GRD 351713 421440<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#<DC1>(L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1682216  Function: 2  Alpha:   db
+POCSAG1200: Address: 1205982  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>EUi
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   15:36MY<SUB>
+POCSAG1200: Address:  758305  Function: 3  Alpha:   <STX><STX>
+POCSAG1200: Address: 1300526  Function: 0  Alpha:   <ACK><DC4>V&7V&W6<ACK>4Jz<HT><LF>TY8:<SUB>xX<BS>$Z8X<CAN>iZH<BS>d(zY<HT>DY&<ACK><SUB><ACK><EOT>u<EM>9<BS>D<ACK><ACK>V&<ACK><DC4>i<HT>DY&<ACK><SUB><SYN><ENQ><NUL>
+POCSAG1200: Address:  880170  Function: 2  Alpha:   15:35-95 Stop Message received for Incident 2111010048;  [STOP] 26$0
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG2400: Address:   33739  Function: 2  Alpha:   15:35-29 INC ALERT No: 16827637 Traffic/Transportation Accidents - 3WAY- RTC, 1YOF CAR SEAT JOLTED, AT: M5 JUNCTION 25 TO JUNCTION 24, NORTH PETHERTON BRIDGWATER, TA6 6QS, Time of Call: 26/11/2021 15:30:41, Co-ords: 50.9111157 -3.3635628
+POCSAG2400: Address: 1127433  Function: 0  Alpha:    *
+POCSAG2400: Address:  610192  Function: 0  Alpha:   IZ
+POCSAG2400: Address:  791200  Function: 1 
+POCSAG2400: Address: 1071471  Function: 1  Alpha:   O%
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1533261121+++TIME=1533261121<NUL>
 POCSAG2400: Address: 1913810  Function: 2  Alpha:   15:32-35 4379<NUL>
 POCSAG2400: Address: 1913907  Function: 2  Alpha:   15:31-32 4312<NUL>
@@ -947,54 +998,3 @@ POCSAG1200: Address:  314729  Function: 3  Alpha:   <FS><ESC>
 POCSAG1200: Address: 1925680  Function: 2  Alpha:   <DC1>1
 POCSAG2400: Address: 1242697  Function: 2  Alpha:   13:01-81 Youb<NUL><EM>ve updated your payment preferences<NUL>
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:01-29 3181<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   13:01
-POCSAG1200: Address: 1213058  Function: 2  Alpha:   IR
-POCSAG1200: Address:  140937  Function: 3  Alpha:   <DC4>5
-POCSAG1200: Address:  436588  Function: 1 
-POCSAG2400: Address:   28919  Function: 0  Alpha:   13:00-77 4310<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   13:00-56 5897<NUL>
-POCSAG1200: Address:  367540  Function: 3 
-POCSAG1200: Address:  338196  Function: 3 
-POCSAG1200: Address:  577627  Function: 1 
-POCSAG1200: Address:  678665  Function: 2  Alpha:   13:00-11 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   12:59-82 INC ALERT No: 16827102 Falls - FALLEN OVER/HIT SIDE OF FACE/FALLEN BACKWARDS AGAIN TRYING TO RECOVER, AT: O/S, TESCO STORES LTD, RUSSELL WAY, EXETER, EX2 7EZ, Time of Call: 26/11/2021 12:56:00, Co-ords: 50.7085666 -3.4825829<NUL>
-POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
-POCSAG2400: Address: 1913735  Function: 2  Alpha:   12:59-31 2290<NUL>
-POCSAG1200: Address:  589130  Function: 0  Alpha:   <STX><HT>J<SYN><ACK>R"&:<RS><STX>AJ><LF>2<SYN>6N<STX><GS>J<DC2><STX>MUYQeU<SOH>QIAMMQ<SOH><NUL>
-POCSAG1200: Address: 2007804  Function: 0 
-POCSAG1200: Address: 2044771  Function: 0 
-POCSAG2400: Address: 1323892  Function: 2  Alpha:   12:59-03 2872<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1258261121+++TIME=1258261121<NUL>
-POCSAG1200: Address:  653096  Function: 3 
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   &<ACK>
-POCSAG1200: Address: 1511843  Function: 3  Alpha:   <DC1>a
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   F<EM>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   12:57-42 4387<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   12:57-23 26/11/2021 12:54:08 INC 24723700 17D05 106 HESKETH LANE, TARLETON PRESTON, PR4 6AQ Male 77Y UNWITNESSED FALL ON STAIRS- CANT MOVE HEAD GRD 345167 421404<NUL>
-POCSAG2400: Address:   28895  Function: 0  Alpha:   12:56-07 2186<NUL>
-POCSAG2400: Address: 1913889  Function: 2  Alpha:   12:56-12 4268<NUL>
-POCSAG1200: Address: 1172289  Function: 2 
-POCSAG1200: Address: 1349436  Function: 1 
-POCSAG1200: Address: 1422123  Function: 2  Alpha:   dj
-POCSAG1200: Address: 2044462  Function: 1  Alpha:   <CAN><EM>
-POCSAG1200: Address: 2080637  Function: 2  Alpha:   <STX><NUL>
-POCSAG1200: Address:  773009  Function: 0 
-POCSAG1200: Address:  629153  Function: 0 
-POCSAG1200: Address: 1582440  Function: 1 
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   12:55-27 3181<NUL>
-POCSAG2400: Address: 1913902  Function: 2  Alpha:   12:55-91 5202<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   12:55-90 5002<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:54-18 4660<NUL>
-POCSAG1200: Address:  959333  Function: 3 
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   12:54-02 4312<NUL>
-POCSAG2400: Address: 1913701  Function: 2  Alpha:   12:54-39 4312<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253261121+++TIME=1253261121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253261121+++TIME=1253261121<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE>H$Ae`1f
-POCSAG2400: Address: 1321021  Function: 2  Alpha:   12:53-10 3507<NUL>
-POCSAG1200: Address: 1572865  Function: 0  Alpha:   P&<SO>LL
-POCSAG1200: Address: 1115551  Function: 0  Alpha:   Y<EM>Xg<DC2>
-POCSAG1200: Address:  361774  Function: 0 
-POCSAG1200: Address: 2043501  Function: 1 
-POCSAG1200: Address: 1474932  Function: 1 
