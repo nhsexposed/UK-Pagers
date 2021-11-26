@@ -1,3 +1,13 @@
+POCSAG2400: Address:   28894  Function: 0  Alpha:   17:43-50 5204<NUL>
+POCSAG1200: Address: 1816912  Function: 2  Alpha:   17:41-29 (2/2) Assigned: JY04P2; Roles    JY04P2:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)<NUL><NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   17:40-33 3266<NUL>
+POCSAG1200: Address:  917558  Function: 0 
+POCSAG1200: Address: 1228421  Function: 3  Alpha:   <ENQ><SO><SO>&<DC2><SYN>:R<STX><EM>>J6<STX>M<SYN>:R<STX>Q><STX><CR>>:Ne<SOH><NAK>6<ACK>&2<STX><ENQ><DC2><DC2>J<SYN>NN:
+POCSAG1200: Address: 1288324  Function: 2  Alpha:   b@hh@
+POCSAG1200: Address: 1482011  Function: 0  Alpha:   <FS><DLE>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1358159  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address:   47871  Function: 1 
 POCSAG2400: Address: 1024123  Function: 2 
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:39-53 4462<NUL>
 POCSAG1200: Address:  206343  Function: 3 
@@ -988,13 +998,3 @@ POCSAG1200: Address:  302002  Function: 0
 POCSAG1200: Address: 1546913  Function: 3 
 POCSAG1200: Address: 1280128  Function: 2  Alpha:   d<SUB>
 POCSAG1200: Address:  535757  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1513261121+++TIME=1513261121<NUL>
-POCSAG2400: Address: 1680086  Function: 2  Alpha:   "&
-POCSAG2400: Address:  354326  Function: 0 
-POCSAG2400: Address: 1921004  Function: 0  Alpha:   7:P"72Pbyq0v0zt77P<SYN><DLE>f"k"&<DLE><SUB>P<SYN><DLE>s79Pv7y
-POCSAG2400: Address: 1323923  Function: 2  Alpha:   15:13-82 GREEN: NEL 111 is out of Fro
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:12-68 5002<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   15:12-60 2188<NUL>
-POCSAG1200: Address: 2026357  Function: 2 
-POCSAG1200: Address: 1565314  Function: 2  Alpha:   15:11-28 6558<NUL>
-POCSAG2400: Address: 1323267  Function: 2  Alpha:   15:11-05 NHSBT - DONOR RE
