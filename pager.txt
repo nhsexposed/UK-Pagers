@@ -1,3 +1,9 @@
+POCSAG1200: Address: 2024045  Function: 0 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00233-82 2304<NUL>
+POCSAG1200: Address: 1741685  Function: 1 
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:31-86 PLEASE CALL CHARMANE 0300 300 0044<NUL><NUL>
+POCSAG1200: Address: 1582664  Function: 2 
+POCSAG1200: Address: 1441905  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228261121+++TIME=0228261121<NUL>
 POCSAG2400: Address:  342998  Function: 0  Alpha:   <DC3><DC3>C<DC3>3<VT><VT><DC3><VT>[ZZ"Ml,l<ETX><DC3><DC3>C<DC3>3<VT><VT><DC3><VT><ETX>
 POCSAG2400: Address: 1322351  Function: 2  Alpha:   02:27-90 Please call PAH ext:7928  A&E<NUL>
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1323655  Function: 2  Alpha:   21:15-92 35500
 POCSAG2400: Address:  434741  Function: 0 
 POCSAG2400: Address:  549213  Function: 2  Alpha:   21:14-14 TEST PAGE ONLY<NUL><NUL>
 POCSAG2400: Address: 1322819  Function: 2  Alpha:   21:14-56 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1323268  Function: 2  Alpha:   21:14-36 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1322836  Function: 2  Alpha:   21:14-90 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1322897  Function: 2  Alpha:   21:14-22 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1322866  Function: 2  Alpha:   21:14-46 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1022273  Function: 0  Alpha:   21:14-01 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1322778  Function: 2  Alpha:   21:14-32 TEST PAGE ONLY<NUL><NUL>
