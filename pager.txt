@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:13-49 2065<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1773231  Function: 3 
+POCSAG1200: Address:  672790  Function: 3  Alpha:   ,<CR>
+POCSAG1200: Address: 1529909  Function: 1  Alpha:   <ENQ>:
+POCSAG1200: Address: 1522756  Function: 1 
+POCSAG1200: Address: 1069681  Function: 1  Alpha:   <STX>A<RS>&:R&:<RS><STX>Q
+POCSAG1200: Address: 1773231  Function: 3 
+POCSAG1200: Address:  216321  Function: 2  Alpha:   08:12-39 (6/6) Additional_Data Address Classification Parent Shell<NUL><NUL>
+POCSAG1200: Address: 1517607  Function: 2 
+POCSAG1200: Address: 1712262  Function: 1  Alpha:   V6
+POCSAG1200: Address: 1466605  Function: 0 
+POCSAG1200: Address:   68116  Function: 3  Alpha:   ""
+POCSAG1200: Address:  283948  Function: 3 
+POCSAG1200: Address: 1092315  Function: 2  Alpha:   2K
+POCSAG1200: Address: 1151834  Function: 1  Alpha:   fn
+POCSAG1200: Address:  216321  Function: 2  Alpha:   08
+POCSAG1200: Address:  333845  Function: 1  Alpha:   5P
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808261121+++TIME=0808261121<NUL>
 POCSAG2400: Address: 1878755  Function: 1 
 POCSAG1200: Address:  963385  Function: 3 
@@ -980,21 +998,3 @@ POCSAG1200: Address: 2024045  Function: 0
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   00233-82 2304<NUL>
 POCSAG1200: Address: 1741685  Function: 1 
 POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:31-86 PLEASE CALL CHARMANE 0300 300 0044<NUL><NUL>
-POCSAG1200: Address: 1582664  Function: 2 
-POCSAG1200: Address: 1441905  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228261121+++TIME=0228261121<NUL>
-POCSAG2400: Address:  342998  Function: 0  Alpha:   <DC3><DC3>C<DC3>3<VT><VT><DC3><VT>[ZZ"Ml,l<ETX><DC3><DC3>C<DC3>3<VT><VT><DC3><VT><ETX>
-POCSAG2400: Address: 1322351  Function: 2  Alpha:   02:27-90 Please call PAH ext:7928  A&E<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:25-16 4157<NUL>
-POCSAG2400: Address: 1022657  Function: 2  Alpha:   02:25-02 RADIE SNOD AT BOLTON HOSPITAL 07764 280 823<NUL><NUL>
-POCSAG2400: Address: 1323067  Function: 2  Alpha:   02:25-41 RADIE SNOD AT BOLTON HOSPITAL 07764 280 823<NUL><NUL>
-POCSAG1200: Address: 1149540  Function: 2  Alpha:   use / Store / Storage Depot<NUL>
-POCSAG1200: Address:  216321  Function: 2  Alpha:   02:22-30 (2/2) 495779,181526; Assigned: JY17P2; Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data FAMO true
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0218261121+++TIME=0218261121<NUL>
-POCSAG1200: Address:  793888  Function: 1 
-POCSAG1200: Address:  534572  Function: 1 
-POCSAG1200: Address:  535204  Function: 0 
-POCSAG1200: Address:  197258  Function: 2 
-POCSAG1200: Address: 1159983  Function: 2  Alpha:   O%(20
