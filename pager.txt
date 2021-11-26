@@ -1,3 +1,46 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:24-65 2161<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:24-20 5243<NUL>
+POCSAG1200: Address:  269101  Function: 2  Alpha:   13:24-27 26/11/2021 13:21:26 INC 24723829 19C03 NORWOOD, GEN
+POCSAG1200: Address:  290120  Function: 3  Alpha:   <ACK><ETX>
+POCSAG1200: Address:  378935  Function: 0 
+POCSAG1200: Address:  679014  Function: 3 
+POCSAG1200: Address: 1424766  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1323261121+++TIME=1323261121<NUL>
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   13:23-21 3148<NUL>
+POCSAG1200: Address: 2025086  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   13:23-31 Call 24723825 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   13:23-97 68177
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   13:23-08 68177
+POCSAG1200: Address: 1027236  Function: 2  Alpha:   <STX><DC2>
+POCSAG1200: Address: 1280131  Function: 2  Alpha:   f@
+POCSAG1200: Address: 1770058  Function: 2 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v&6<ACK>'
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  623407  Function: 3  Alpha:   O%(55
+POCSAG1200: Address: 1205981  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
+POCSAG1200: Address:  635740  Function: 0  Alpha:   lh
+POCSAG1200: Address: 1911034  Function: 1  Alpha:   _[
+POCSAG1200: Address: 1560394  Function: 3 
+POCSAG1200: Address:  399737  Function: 0  Alpha:   <FF>}
+POCSAG1200: Address: 1912920  Function: 3 
+POCSAG1200: Address:  662453  Function: 1  Alpha:   <FF><EOT><SO>~=\\L<EOT>D~y,B<ACK>"G
+POCSAG1200: Address: 2078565  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1498610  Function: 0 
+POCSAG1200: Address: 1734593  Function: 3  Alpha:   {"
+POCSAG1200: Address: 2080664  Function: 3  Alpha:   <DC2>3{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF><ESC>S<DC3><ETX>S##<ETX>Jt<FS><EOT><DC2>#;<DC3><ESC>C<DC3>+<ETX><SUB><DC3>#<EOT><VT><ETX>2<ETX>:<CR><DC4>u4|<DC4>%<EOT><SUB>d|<FS>-d<STX>r,<%}t<EOT>B,<FF>$E<EOT>j<FF>t<FS>D,<FS>%-<DC4>e<STX>j$<ETX><ETX><LF><ETX>%<ENQ>j<FF>f.<ACK>"KK<ENQ><SUB>|t<FS>,<DC4>u<EOT>2|<DC4><ENQ>:-d4<FF><DC4>-<EOT>:<DC4>%<EOT><SUB>CC33+<ETX><SUB>KK;<DC3>J<BEL>
+POCSAG1200: Address:   80174  Function: 3  Alpha:   <EM>D<NUL>bL
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:22-08 26/11/2021 13:<DC2>0<44 INC 24723825 32D01 6 WARNFORD CLOSE, NEWTON HEATH MANCHESTER, M40 1PT Male 49Y CONCERN FOR WELFARE GRD 388665 399739
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  629287  Function: 0 
+POCSAG1200: Address: 2041958  Function: 2 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:21-64 4316<NUL>
+POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
+POCSAG1200: Address: 1107221  Function: 2  Alpha:   <LF>$<EM>(<BS>t(J<BS>4VVv<SYN><ACK><ACK>D&vF<DC2><DC1>
+POCSAG1200: Address:  549858  Function: 2  Alpha:   13:20-75 ~FOR INFO E11 STATION NEEDS CLEANED - E1101 & E1102 NOT AVAILABLE - E1105 PRIMARY CREWED.<NUL><NUL>
+POCSAG1200: Address:  923434  Function: 0  Alpha:   %-<DC4><ENQ>R<FF><DC4><EOT>:<DC4>%<EOT><SUB>++;<VT><ETX><ETX>"<DC3>;#KC
+POCSAG1200: Address: 1690256  Function: 3 
+POCSAG1200: Address: 1942388  Function: 0 
 POCSAG2400: Address: 1324549  Function: 2  Alpha:   13:19-57 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
 POCSAG2400: Address: 1324561  Function: 2  Alpha:   13:19-94 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
 POCSAG2400: Address: 1324544  Function: 2  Alpha:   13:19-74 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
@@ -955,46 +998,3 @@ POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>$
 POCSAG2400: Address:  549136  Function: 2  Alpha:   10:48-78 80300
 POCSAG1200: Address:  885816  Function: 1 
 POCSAG1200: Address:  312672  Function: 0  Alpha:   10:48-93 26/11/2021 10:46:16 INC 24723094 02C01I 37 ROWLAND AVENUE, NELSON, BB9 9NG Male 58Y ALLERGIC REACTION GRD 387293 437882
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   10:48-82 4155<NUL>
-POCSAG2400: Address:   28893  Function: 0  Alpha:   10:48-59 5204<NUL>
-POCSAG1200: Address: 2023997  Function: 3 
-POCSAG2400: Address:   11796  Function: 0  Alpha:   10:47-37 Boiler lock out ALERT<NUL>
-POCSAG2400: Address: 1022524  Function: 0  Alpha:   10:47-56 078-1200 2644
-POCSAG1200: Address: 1256940  Function: 2  Alpha:   10:47-24 26/11/2021 10:46:04 INC 24723093 4 PETTERIL ROAD, PENRITH, CA11 9HD Male 78Y M HIGH BP Q CVA GRD 351236 530963
-POCSAG1200: Address: 1031513  Function: 3  Alpha:   v`
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   11796  Function: 0  Alpha:   10:47-36 Boiler lock out ALERT<NUL>
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   10:47-13<NUL>s%39<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   10
-POCSAG2400: Address:  754304  Function: 0  Alpha:   LE
-POCSAG2400: Address: 1187702  Function: 0  Alpha:   f.
-POCSAG2400: Address:  367453  Function: 0  Alpha:   fj
-POCSAG2400: Address:   23588  Function: 1  Alpha:   <CAN><CAN>
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   e0
-POCSAG2400: Address:  754304  Function: 0  Alpha:   LE
-POCSAG2400: Address:  714584  Function: 1 
-POCSAG2400: Address: 1839551  Function: 2  Alpha:   =<M3<HT>
-POCSAG2400: Address: 1686126  Function: 1 
-POCSAG2400: Address:  138950  Function: 0 
-POCSAG2400: Address:  367453  Function: 0  Alpha:   fh
-POCSAG2400: Address:   23588  Function: 1  Alpha:   <CAN><CAN>
-POCSAG2400: Address:   97192  Function: 2  Alpha:   t 
-POCSAG2400: Address:  919775  Function: 3  Alpha:   {xZg<DC2>
-POCSAG2400: Address: 1187702  Function: 0  Alpha:   b/
-POCSAG2400: Address: 1548900  Function: 0 
-POCSAG2400: Address:   86682  Function: 0 
-POCSAG2400: Address:  222417  Function: 0 
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   10:45-75 4374<NUL>
-POCSAG1200: Address: 1058476  Function: 2  Alpha:   10:45-13 26/11/2021 10:43:30 INC 24723079 MILLBROOK HOUSE, MANCHESTER ROAD, TINTWISTLE HYDE, SK14 8LA 4 FITS; GRD 401059 396761<NUL>
-POCSAG1200: Address:  106110  Function: 2  Alpha:   10:45-41 26/11/2021 10:42:51 INC 24723076 17A02G OLD H
-POCSAG1200: Address: 1461427  Function: 1 
-POCSAG1200: Address:  792954  Function: 1 
-POCSAG1200: Address: 1716258  Function: 0 
-POCSAG1200: Address: 1204425  Function: 0 
-POCSAG1200: Address: 1585389  Function: 0 
-POCSAG2400: Address:  583463  Function: 2  Alpha:   10:44-44 80300
-POCSAG2400: Address:  584222  Function: 2  Alpha:   10:44-37 80300
-POCSAG2400: Address:  963187  Function: 0 
-POCSAG2400: Address:  549893  Function: 2  Alpha:   10:44-12 80300
-POCSAG2400: Address:  583443  Function: 2  Alpha:   10:44-03 80300
-POCSAG2400: Address:  583472  Function: 2  Alpha:   10:44-70 80300
