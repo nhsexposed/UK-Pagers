@@ -1,3 +1,43 @@
+POCSAG1200: Address:  202473  Function: 2 
+POCSAG2400: Address:  413166  Function: 2  Alpha:   12:24-20 PLEASE CALL MATT EXT: 6055 A&E
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   12:23-62 5205<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1223261121+++TIME=1223261121<NUL>
+POCSAG1200: Address: 1892631  Function: 1  Alpha:   EStg<DC2>
+POCSAG1200: Address:  176902  Function: 3 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:23-20 4139<NUL>
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   12:22-61 5205<NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   F&
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1288974  Function: 2  Alpha:   j@frfp3<HT>
+POCSAG1200: Address:   91694  Function: 3 
+POCSAG1200: Address:  274012  Function: 0  Alpha:   H<BS>T(J
+POCSAG1200: Address:  627508  Function: 1 
+POCSAG1200: Address: 1071227  Function: 2 
+POCSAG1200: Address:  357186  Function: 2  Alpha:   jf<BEL>gd
+POCSAG1200: Address: 1303569  Function: 1 
+POCSAG1200: Address: 1184952  Function: 3  Alpha:   t<FS>
+POCSAG1200: Address:  905991  Function: 2 
+POCSAG1200: Address: 1292046  Function: 2 
+POCSAG1200: Address: 1706382  Function: 2 
+POCSAG1200: Address:  700821  Function: 1 
+POCSAG1200: Address: 1925324  Function: 3  Alpha:   X@<SO><ETX>s
+POCSAG1200: Address:  267858  Function: 1  Alpha:   <LF><EOT>
+POCSAG1200: Address: 1227857  Function: 0  Alpha:   >Z
+POCSAG1200: Address:   40144  Function: 2 
+POCSAG1200: Address:   91692  Function: 3 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   12:19-41 5202<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><ETX>Y(L
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   V2
+POCSAG1200: Address: 2007167  Function: 0 
+POCSAG1200: Address: 1568373  Function: 0 
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   12:19-80 26/11/2021 12:18:00 INC 24723524 23B01V 13A PATEGILL ROAD, PENRITH, CA11 8LN Male 60Y TAKEN 15 PARACETAMOL GRD 352245 529789<NUL>
+POCSAG1200: Address: 1349438  Function: 1 
+POCSAG1200: Address: 1761352  Function: 0  Alpha:   L<ENQ>
+POCSAG1200: Address:   82383  Function: 2  Alpha:   sig3<HT>*w2
+POCSAG1200: Address: 1194884  Function: 1 
+POCSAG1200: Address:  697731  Function: 1  Alpha:   PP
 POCSAG2400: Address:  580427  Function: 0  Alpha:   ect Dial Number 02088692489 Hospital Northwick Park Hospital, Harrow Dept CC . Regards Donor Referral Line<NUL><NUL>
 POCSAG1200: Address: 1321642  Function: 2  Alpha:   12:19-56 Destination: Parking\D78 Ext TP, 
 POCSAG2400: Address:  327982  Function: 0 
@@ -958,43 +998,3 @@ POCSAG2400: Address: 1422175  Function: 1  Alpha:   jl`g<DC2>
 POCSAG2400: Address:  216670  Function: 3 
 POCSAG2400: Address:   23350  Function: 1 
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   09:52-45 5013<NUL>
-POCSAG512: Address: 2026357  Function: 2 
-POCSAG2400: Address:  584087  Function: 2  Alpha:   09:52-83 80300
-POCSAG2400: Address:  583842  Function: 2  Alpha:   09:52-09 80300
-POCSAG2400: Address:  583583  Function: 2  Alpha:   09:52-11 80300
-POCSAG2400: Address:  583580  Function: 2  Alpha:   09:52-26 80300
-POCSAG2400: Address: 1324305  Function: 2  Alpha:   09:52-53 80300
-POCSAG2400: Address: 1324310  Function: 2  Alpha:   09:52-65 80300
-POCSAG2400: Address: 1323006  Function: 2  Alpha:   09:52-87 80300
-POCSAG2400: Address: 1322513  Function: 2  Alpha:   09:52-11 80300
-POCSAG2400: Address:  583550  Function: 2  Alpha:   09:52-13 80300
-POCSAG1200: Address: 2017488  Function: 3  Alpha:   E<EM>
-POCSAG1200: Address: 1312750  Function: 2  Alpha:   09:50-91 Huntinton FIRE CALL
-POCSAG1200: Address: 1312745  Function: 2  Alpha:   09:50-04 Huntinton FIRE CALL
-POCSAG1200: Address: 1312747  Function: 2  Alpha:   09:50-89 Huntinton FIRE CALL
-POCSAG1200: Address: 1015513  Function: 3  Alpha:   VF
-POCSAG1200: Address: 2074229  Function: 2 
-POCSAG2400: Address: 1913815  Function: 2  Alpha:   09:47-02 5203<NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   09:47-06 DR EMILY, MEDWAY HOSPITAL EXT 6377<NUL><NUL>
-POCSAG1200: Address: 1067597  Function: 2  Alpha:   09:46-05 01173421902
-POCSAG1200: Address: 1031975  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290443  Function: 2  Alpha:   3242<NUL>
-POCSAG1200: Address: 1484809  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address:  583541  Function: 2  Alpha:   09:48-85 80300
-POCSAG2400: Address:  583564  Function: 2  Alpha:   09:48-99 80300
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   09:48-44 2427<NUL>
-POCSAG2400: Address:  549165  Function: 2  Alpha:   09:48-99 80300
-POCSAG2400: Address: 1322977  Function: 2  Alpha:   09:48-25 80300
-POCSAG2400: Address:  583507  Function: 2  Alpha:   09:48-53 80300
-POCSAG2400: Address: 1324229  Function: 2  Alpha:   09:48-82 80300
-POCSAG2400: Address: 1323337  Function: 2  Alpha:   09:48-35 80300
-POCSAG1200: Address: 1032935  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  265318  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906877  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address:  216668  Function: 3 
-POCSAG2400: Address: 1585248  Function: 1  Alpha:   WHC+da<NAK>rp<LF>98E<FS>\"<SO><EOT><GS>\
-POCSAG2400: Address: 1106136  Function: 0 
-POCSAG2400: Address:  549979  Function: 2  Alpha:   09:48-77 80300
-POCSAG2400: Address:  583523  Function: 2  Alpha:   09:48-16 80300
-POCSAG2400: Address: 1031521  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761312  Function: 3  Alpha:   !<ACK>
