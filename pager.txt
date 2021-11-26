@@ -1,3 +1,5 @@
+POCSAG2400: Address:  216251  Function: 2  Alpha:   02:04-23 Alarm alarm.DatastoreDiskUsageAlarm on Datastore : MANGIT-DATA-01-NIM02 is Red, Target: MANGIT-DATA-01-NIM02 <LF>Previous Status: Yellow <LF>New Status: Red <LF> <LF>Alarm
+POCSAG2400: Address: 1876694  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158261121+++TIME=0158261121<NUL>
 POCSAG2400: Address: 1933940  Function: 1 
 POCSAG1200: Address: 1487387  Function: 0 
@@ -996,5 +998,3 @@ POCSAG512: Address:  640251  Function: 2  Alpha:   21:07-85 33844
 POCSAG1200: Address: 1958525  Function: 0 
 POCSAG1200: Address: 1658780  Function: 0 
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   21:06-22 25/11/2001*21:04:08 INC 24721001 29D02M OUTSIDE THE RANGE, WEST ONE WAY, ECCLES SALFORD, M50 1ZD Male 30Y BROKEN LEG, ASSAULTED GRD 378230 398602
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1761330  Function: 0 
