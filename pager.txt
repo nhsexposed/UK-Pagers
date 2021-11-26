@@ -1,3 +1,29 @@
+POCSAG1200: Address:   88450  Function: 0  Alpha:   NC
+POCSAG1200: Address:  567897  Function: 0 
+POCSAG1200: Address: 2001522  Function: 2 
+POCSAG1200: Address: 1980082  Function: 0 
+POCSAG1200: Address: 1312568  Function: 2  Alpha:   16:06-25 (3/3) S17P1 REQUEST
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   v0
+POCSAG2400: Address:   11699  Function: 0  Alpha:   16:06-43 FIRE CALL<NUL><NUL>
+POCSAG1200: Address: 1843254  Function: 1 
+POCSAG1200: Address: 1221203  Function: 0 
+POCSAG1200: Address:  234186  Function: 2  Alpha:   16:06-79 Please call Hub Operations on 0117 975 7580 to confirm availability 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   16:06-67 5203<NUL>
+POCSAG1200: Address: 1264898  Function: 3 
+POCSAG1200: Address: 1246553  Function: 0 
+POCSAG1200: Address:  625976  Function: 0  Alpha:   <GS>L
+POCSAG1200: Address: 1360015  Function: 0  Alpha:   O%h<CAN>+
+POCSAG1200: Address:   37031  Function: 1 
+POCSAG1200: Address: 1227062  Function: 2 
+POCSAG1200: Address: 1594976  Function: 2  Alpha:   16:05-26 Location 18 ST GILES PARK, HAMILTON, ML3 8PQ Inc No: 8095354 Code: 10D05 Con: YES What is the Problem: MALE: PAIN IN CHEST/NAUSEA VOM Name: Age: 53Y
+POCSAG2400: Address:   28896  Function: 0  Alpha:   16:05-62 2183<NUL>
+POCSAG2400: Address: 1914020  Function: 2  Alpha:   16:04-52 5531<NUL>
+POCSAG1200: Address: 1417987  Function: 1  Alpha:   bbB@<FS>
+POCSAG1200: Address:  905986  Function: 2 
+POCSAG1200: Address:  176906  Function: 3 
+POCSAG1200: Address:  906377  Function: 0 
+POCSAG1200: Address:  672109  Function: 1  Alpha:   <CAN><ESC>
 POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<DC2>
 POCSAG1200: Address: 1560470  Function: 0  Alpha:   I<ENQ>d<CAN>;
 POCSAG1200: Address:  924965  Function: 0 
@@ -972,29 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1343261121"++TIME=13
 POCSAG1200: Address:  150747  Function: 3  Alpha:   WX
 POCSAG1200: Address: 1650765  Function: 2 
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:42-34 2161<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1032067  Function: 3  Alpha:   EH
-POCSAG1200: Address:   88451  Function: 0  Alpha:   NC
-POCSAG1200: Address:  117331  Function: 3 
-POCSAG1200: Address:  922417  Function: 0  Alpha:   44,<EOT>*
-POCSAG1200: Address:  835952  Function: 0  Alpha:   E, RA
-POCSAG1200: Address: 1204694  Function: 0  Alpha:   <ETX>"<FF>m,<EOT><GS><ENQ>rY<EOT>
-POCSAG1200: Address: 1770020  Function: 0  Alpha:   X0124
-POCSAG1200: Address:  619457  Function: 3 
-POCSAG1200: Address:  688846  Function: 2 
-POCSAG1200: Address:  172597  Function: 3 
-POCSAG1200: Address:  156877  Function: 1 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   13:41-57 2183<NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   13:41-11 PLS CALL SHO ON 7233022<NUL><NUL>
-POCSAG1200: Address: 1091834  Function: 2  Alpha:   13:41-85 PLS CALL EXT 33440 CALL WAITING <NUL>
-POCSAG1200: Address:  200962  Function: 2  Alpha:   13:41-59 PLS CALL EXT 33440 CALL WAITING <NUL>
-POCSAG1200: Address:  200810  Function: 2  Alpha:   13:41-95 PLS CALL EXT 33440 CALL WAITING <NUL>
-POCSAG1200: Address: 1090722  Function: 2  Alpha:   13:41-07 PLS CALL EXT 33440 CALL WAITING <NUL>
-POCSAG1200: Address:  200967  Function: 2  Alpha:   13:41-79 PLS CALL EXT 33440 CALL WAITING <NUL>
-POCSAG1200: Address: 1573842  Function: 2  Alpha:   13:41-56 PLS CALL EXT 33440 CALL WAITING <NUL>
-POCSAG1200: Address:  420366  Function: 2 
-POCSAG1200: Address: 2025460  Function: 1 
-POCSAG1200: Address: 1748736  Function: 1 
-POCSAG1200: Address:  740256  Function: 3 
-POCSAG1200: Address:  361311  Function: 1  Alpha:   db`g<DC2>
-POCSAG1200: Address: 1023214  Function: 0  Alpha:   X<EM>
