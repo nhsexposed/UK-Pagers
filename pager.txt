@@ -1,3 +1,16 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   03:34-05 33842
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0333261121+++TIME=0333261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  189073  Function: 2 
+POCSAG1200: Address: 1548073  Function: 1 
+POCSAG1200: Address:  461400  Function: 3 
+POCSAG1200: Address:   75142  Function: 1  Alpha:   DI
+POCSAG1200: Address:  103142  Function: 2 
+POCSAG1200: Address: 1139394  Function: 0  Alpha:   <SOH><DC1>
+POCSAG1200: Address: 1610721  Function: 0  Alpha:   d`
+POCSAG1200: Address:  557769  Function: 3 
+POCSAG1200: Address:  189072  Function: 2 
+POCSAG1200: Address:  461407  Function: 3  Alpha:   O%h<FS><GS>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328261121+++TIME=0328261121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1323041  Function: 2  Alpha:   03:26-02 call 8013<NUL><NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1322963  Function: 2  Alpha:   21:39-91 Reminder, please se
 POCSAG2400: Address: 1022568  Function: 0  Alpha:   21:39-51 Reminder, please send your FRIDEX submissions to the SSM inbox. Thank you to those who have responded so far - SSM<NUL><NUL>
 POCSAG2400: Address: 1762373  Function: 0 
 POCSAG2400: Address:   28894  Function: 0  Alpha:   21:39-34 5204<NUL>
-POCSAG2400: Address:  295509  Function: 0 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   21:39-83 25/11/2021 21:31:35 INC 2
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138251121+++TIME=2138251121<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:38-89 2182<NUL>
-POCSAG1200: Address: 1770612  Function: 2  Alpha:   21:37-40 2879<NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   21:35-56 25/11/2021 21:34:21 INC 24721117 29D07 JUNCTION 16 TO 15 EASTBOUND, M56, CH2 4HJ Unknown UnknownY RTC GRD 341580 373052
-POCSAG1200: Address:  791326  Function: 0 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   21:34-77 25/11/2021 21:27:11 INC 24721087 29D05V ON DUAL CARRIAGEWAY AT THE START OF M56 NEAR COSTCO, COSTCO WHOLESALE, DUNKIRK TRADING ESTATE, DUNKIRK, CH1 6LT Unknown UnknownY RTC 2 VEHICLES GRD 337798 372431<NUL>
-POCSAG1200: Address:  825604  Function: 3 
-POCSAG1200: Address:  156483  Function: 3 
-POCSAG1200: Address: 1841771  Function: 1 
-POCSAG1200: Address:  238289  Function: 2 
-POCSAG1200: Address: 1871360  Function: 2 
