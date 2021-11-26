@@ -1,3 +1,32 @@
+POCSAG1200: Address: 1718896  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1728261121+++TIME=1728261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1728261121+++TIME=1728261121<NUL>
+POCSAG1200: Address: 1485611  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   17:28-67 Please call 1002
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28869  Function: 0  Alpha:   17:26-82 PLS CALL 26009<NUL><NUL>
+POCSAG1200: Address:  549077  Function: 2  Alpha:   17:26-67 666<NUL><NUL>
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   17:26-04 3507<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:26-51 3164<NUL>
+POCSAG2400: Address: 1804832  Function: 3  Alpha:   o<VT>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:25-79 3508<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:26-50 3164<NUL>
+POCSAG1200: Address: 1923072  Function: 0 
+POCSAG1200: Address: 1586023  Function: 1  Alpha:   O%
+POCSAG1200: Address:  206284  Function: 2  Alpha:   <DC4>h
+POCSAG1200: Address: 1314908  Function: 1 
+POCSAG1200: Address:  596523  Function: 0 
+POCSAG1200: Address: 1992712  Function: 0 
+POCSAG1200: Address: 1449055  Function: 0  Alpha:   <EM>P
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   17:25-37 26/11<ETB><EM><CAN>Y<CAN><DLE>X<ESC>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   17:25-34`;811<NUL>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   17:25-33 1<NUL>
+POCSAG1200: Address:   41440  Function: 0  Alpha:   <ETX><ETX>
+POCSAG1200: Address:  958549  Function: 0 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:24-78 3140<NUL>
+POCSAG1200: Address:  958566  Function: 0 
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   v 
 POCSAG1200: Address:  234377  Function: 2  Alpha:   17:24-36 26/11/2021 17:21:40 INC 24724838 06D02 229 COMMON EDGE ROAD, BLACKPOOL, FY4 5DJ Male 73Y BREATHING DIFFICULTY-WALKING DIFFICULTY GRD 333023 431825<NUL><NUL>
 POCSAG1200: Address: 1712752  Function: 0 
 POCSAG1200: Address:  893561  Function: 0 
@@ -969,32 +998,3 @@ POCSAG2400: Address: 1323894  Function: 2  Alpha:   15:06-78 4167<NUL>
 POCSAG1200: Address: 1031994  Function: 2  Alpha:   Er
 POCSAG2400: Address: 1320384  Function: 2  Alpha:   15:05-94 4379<NUL>
 POCSAG2400: Address: 1913961  Function: 2  Alpha:   15:05-42 2616<NUL>
-POCSAG2400: Address:  811600  Function: 0 
-POCSAG2400: Address: 1914019  Function: 2  Alpha:   15:05-92 5202<NUL>
-POCSAG1200: Address:  958545  Function: 0 
-POCSAG2400: Address: 1323779  Function: 2  Alpha:   15:04-89 12345
-POCSAG2400: Address: 1323770  Function: 2  Alpha:   15:04-11 12345
-POCSAG2400: Address:  548053  Function: 2  Alpha:   15:05-28 VPS: PF<NUL>
-POCSAG1200: Address:  858130  Function: 0 
-POCSAG1200: Address:  548039  Function: 2  Alpha:   15
-POCSAG2400: Address: 1323779  Function: 2  Alpha:   15:04-88 PLEASE PHONE PAUL / EPRR - 07730380376<NUL>
-POCSAG2400: Address:  549209  Function: 2  Alpha:   15:03-88 stelios Kimpriktzis: Reminder That Your Prime Membership is Renewing Soon, =====================================================================<CR><LF>Dear stelios Kimpriktzis,<CR><LF><p>As you requested, this is a reminder that your Prime m
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1503261121+++TIME=1503261121<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   15:03-77 4534<NUL>
-POCSAG1200: Address:  265282  Function: 0 
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   15:01-05 60551
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   15:01-16 60551
-POCSAG1200: Address: 1512684  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:01-74 4312<NUL>
-POCSAG1200: Address: 1203344  Function: 3 
-POCSAG1200: Address:  853383  Function: 3  Alpha:    )Pg<DC2>
-POCSAG1200: Address:  383670  Function: 2 
-POCSAG1200: Address:  843062  Function: 1 
-POCSAG1200: Address:   35652  Function: 1 
-POCSAG1200: Address: 1089964  Function: 3 
-POCSAG1200: Address: 1261729  Function: 1 
-POCSAG1200: Address: 1762447  Function: 1  Alpha:   O%(X*
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   15:00-31 26/11/2021 14:58:54 INC 24724250 29D03 CARPARK, B & M BARGAINS<DC4><DLE>d
-POCSAG1200: Address: 1115545  Function: 2  Alpha:   [Z
-POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
-POCSAG2400: Address: 1320366  Function: 2  Alpha:   15:00-70 4387<NUL>
