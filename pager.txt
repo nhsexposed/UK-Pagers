@@ -1,3 +1,31 @@
+POCSAG1200: Address: 2040371  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1303261121+++TIME=1303261121<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1303261121+++TIME=1303261121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:03-62 4314<NUL>
+POCSAG1200: Address: 2086949  Function: 1  Alpha:   <SO>]
+POCSAG1200: Address: 1650756  Function: 2 
+POCSAG1200: Address:  119803  Function: 0  Alpha:   GK
+POCSAG1200: Address: 1938179  Function: 3 
+POCSAG1200: Address: 1601576  Function: 1  Alpha:   <BS>O
+POCSAG2400: Address:   28907  Function: 0  Alpha:   13:03-21 4201<NUL>
+POCSAG2400: Address: 1913954  Function: 2  Alpha:   13:02-11 4188<NUL>
+POCSAG1200: Address:  314729  Function: 3  Alpha:   <FS><ESC>
+POCSAG1200: Address: 1925680  Function: 2  Alpha:   <DC1>1
+POCSAG2400: Address: 1242697  Function: 2  Alpha:   13:01-81 Youb<NUL><EM>ve updated your payment preferences<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:01-29 3181<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:01
+POCSAG1200: Address: 1213058  Function: 2  Alpha:   IR
+POCSAG1200: Address:  140937  Function: 3  Alpha:   <DC4>5
+POCSAG1200: Address:  436588  Function: 1 
+POCSAG2400: Address:   28919  Function: 0  Alpha:   13:00-77 4310<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   13:00-56 5897<NUL>
+POCSAG1200: Address:  367540  Function: 3 
+POCSAG1200: Address:  338196  Function: 3 
+POCSAG1200: Address:  577627  Function: 1 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   13:00-11 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   12:59-82 INC ALERT No: 16827102 Falls - FALLEN OVER/HIT SIDE OF FACE/FALLEN BACKWARDS AGAIN TRYING TO RECOVER, AT: O/S, TESCO STORES LTD, RUSSELL WAY, EXETER, EX2 7EZ, Time of Call: 26/11/2021 12:56:00, Co-ords: 50.7085666 -3.4825829<NUL>
+POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
+POCSAG2400: Address: 1913735  Function: 2  Alpha:   12:59-31 2290<NUL>
 POCSAG1200: Address:  589130  Function: 0  Alpha:   <STX><HT>J<SYN><ACK>R"&:<RS><STX>AJ><LF>2<SYN>6N<STX><GS>J<DC2><STX>MUYQeU<SOH>QIAMMQ<SOH><NUL>
 POCSAG1200: Address: 2007804  Function: 0 
 POCSAG1200: Address: 2044771  Function: 0 
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1213067  Function: 2
 POCSAG2400: Address:  394723  Function: 2 
 POCSAG2400: Address:  616948  Function: 1  Alpha:   Ce
 POCSAG2400: Address:   80388  Function: 2 
-POCSAG2400: Address:  866336  Function: 2 
-POCSAG2400: Address:  616631  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1176294  Function: 3  Alpha:   ')
-POCSAG2400: Address:  354326  Function: 0 
-POCSAG2400: Address: 1378645  Function: 1 
-POCSAG2400: Address: 1098139  Function: 1  Alpha:   <CAN><CAN>
-POCSAG2400: Address: 1913702  Function: 2  Alpha:   10:37-75 3422<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   10:36-65 3509<NUL>
-POCSAG2400: Address: 1833408  Function: 3 
-POCSAG1200: Address: 1761388  Function: 3  Alpha:   UJ
-POCSAG1200: Address:   41512  Function: 2  Alpha:   10:35-12 33945
-POCSAG1200: Address: 1732966  Function: 3 
-POCSAG1200: Address: 1466829  Function: 2 
-POCSAG1200: Address:  369420  Function: 2  Alpha:   nd
-POCSAG1200: Address:  557772  Function: 3 
-POCSAG1200: Address:  189075  Function: 2 
-POCSAG1200: Address: 1230219  Function: 1 
-POCSAG1200: Address:  266522  Function: 1 
-POCSAG1200: Address:  825146  Function: 3 
-POCSAG1200: Address: 1719696  Function: 3 
-POCSAG1200: Address: 1754742  Function: 0 
-POCSAG1200: Address:  108086  Function: 0  Alpha:   10:33-00 STROKE TEAM TO A&E RESUS 
-POCSAG2400: Address:  584088  Function: 2  Alpha:   10:33-84 80300
-POCSAG2400: Address: 1254794  Function: 0 
-POCSAG2400: Address:  583528  Function: 2  Alpha:   10:32-03 80300
-POCSAG1200: Address: 1764144  Function: 0 
-POCSAG1200: Address: 2094240  Function: 3  Alpha:   <FS><DLE><SUB>Y\<ESC><SUB><EM>
