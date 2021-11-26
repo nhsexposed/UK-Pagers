@@ -1,3 +1,38 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
+POCSAG2400: Address:  583428  Function: 2  Alpha:   11:03-74 80300
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   11:03-65 4273<NUL>
+POCSAG2400: Address: 1225576  Function: 0  Alpha:   <ACK><ETB>Wf<ENQ>4ZH<HT>t<HT>><SO>48h<ENQ>
+POCSAG2400: Address: 1619416  Function: 1 
+POCSAG2400: Address: 1324058  Function: 2  Alpha:   11:02-74 SEL 111 is in DMP Level 4 - For info only. 02082536951/07557565895. SEL Ops CC.
+POCSAG2400: Address: 1320361  Function: 2  Alpha:   11:02-68 3129<NUL>
+POCSAG1200: Address: 1046361  Function: 2 
+POCSAG1200: Address:  453649  Function: 3 
+POCSAG1200: Address: 1848160  Function: 2  Alpha:   <ACK><SUB>
+POCSAG1200: Address:   80886  Function: 3  Alpha:   t on c3<HT>
+POCSAG1200: Address:  216910  Function: 3 
+POCSAG1200: Address:  791805  Function: 2  Alpha:   ]<SO>
+POCSAG1200: Address: 1745534  Function: 0 
+POCSAG2400: Address: 1747066  Function: 0 
+POCSAG1200: Address:  270032  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  592478  Function: 0  Alpha:   <CAN>H
+POCSAG1200: Address: 1888566  Function: 2  Alpha:   <STX><ETX>
+POCSAG1200: Address:  144133  Function: 3 
+POCSAG1200: Address:  511388  Function: 1  Alpha:   yi
+POCSAG1200: Address: 1384540  Function: 0 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v&6<SYN>VV<ACK><EOT>
+POCSAG1200: Address: 1488888  Function: 3 
+POCSAG2400: Address:  150086  Function: 0  Alpha:   11:02-21 3120<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   11:01-32 3180<NUL>
+POCSAG1200: Address: 1512726  Function: 2  Alpha:   Uj
+POCSAG1200: Address: 2009840  Function: 1 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:01-80 4877<NUL>
+POCSAG2400: Address:  583428  Function: 2  Alpha:   11:00-73 80300
+POCSAG1200: Address:  267480  Function: 3 
+POCSAG1200: Address: 1105302  Function: 0  Alpha:   AH
+POCSAG1200: Address:  958141  Function: 1 
+POCSAG1200: Address:  564412  Function: 2 
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1042036  Function: 0 
 POCSAG1200: Address: 1017714  Function: 0 
 POCSAG1200: Address: 1912417  Function: 2 
 POCSAG1200: Address: 2016817  Function: 2 
@@ -963,38 +998,3 @@ POCSAG1200: Address: 2010692  Function: 1
 POCSAG1200: Address:  987715  Function: 1 
 POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
 POCSAG1200: Address: 1032022  Function: 3  Alpha:   &p
-POCSAG1200: Address: 1515674  Function: 1  Alpha:   >6&R<STX>9<ACK>7
-POCSAG1200: Address: 1356902  Function: 1 
-POCSAG1200: Address:   80373  Function: 1  Alpha:   T 
-POCSAG1200: Address: 1115501  Function: 0 
-POCSAG1200: Address:  381698  Function: 3 
-POCSAG1200: Address: 1019992  Function: 2 
-POCSAG1200: Address: 1605055  Function: 1  Alpha:   u@\g<DC2>
-POCSAG1200: Address:  214534  Function: 2 
-POCSAG1200: Address:  433478  Function: 3 
-POCSAG1200: Address:  463149  Function: 0  Alpha:   ,<BEL>
-POCSAG1200: Address:  735048  Function: 2 
-POCSAG1200: Address:  593823  Function: 2 
-POCSAG1200: Address:  766555  Function: 3 
-POCSAG1200: Address: 1123970  Function: 1  Alpha:   >J
-POCSAG1200: Address:  714161  Function: 1  Alpha:   OU
-POCSAG1200: Address:  389777  Function: 3 
-POCSAG1200: Address:  677072  Function: 1 
-POCSAG1200: Address:  691224  Function: 3 
-POCSAG2400: Address: 1323201  Function: 2  Alpha:   08:59-53 Good morning, please join the conference call. EM<NUL><NUL>
-POCSAG2400: Address:  549915  Function: 2  Alpha:   08:59-46 Good morning, please join the conference call. EM<NUL><NUL>
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   08:59-95 Good morning, please join the conference call. Em@<STX>
-POCSAG2400: Address: 1323214  Function: 2  Alpha:   08:59-53 Good morning, please join the conference call. EM<NUL><NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   09:00-19 4876<NUL>
-POCSAG2400: Address:  583574  Function: 2  Alpha:   08:59-97 Good morning, please join the conference call. EM<NUL><NUL>
-POCSAG2400: Address: 1638401  Function: 0  Alpha:   Ba
-POCSAG2400: Address:  842160  Function: 3  Alpha:   <ENQ>T
-POCSAG2400: Address: 1584240  Function: 0 
-POCSAG2400: Address: 1246606  Function: 3  Alpha:   77s2y"wqzY<EOT>
-POCSAG2400: Address:  285789  Function: 3 
-POCSAG2400: Address: 1582460  Function: 3  Alpha:   Nv
-POCSAG2400: Address:  285784  Function: 3 
-POCSAG2400: Address: 1582463  Function: 3  Alpha:   O%(';
-POCSAG2400: Address:  118230  Function: 1  Alpha:   Cg
-POCSAG2400: Address: 1419099  Function: 0  Alpha:   lj
-POCSAG2400: Address:  200282  Function: 2 
