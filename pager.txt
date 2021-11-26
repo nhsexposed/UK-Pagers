@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1149540  Function: 2  Alpha:   use / Store / Storage Depot<NUL>
+POCSAG1200: Address:  216321  Function: 2  Alpha:   02:22-30 (2/2) 495779,181526; Assigned: JY17P2; Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data FAMO true
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0218261121+++TIME=0218261121<NUL>
 POCSAG1200: Address:  793888  Function: 1 
 POCSAG1200: Address:  534572  Function: 1 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1322760  Function: 2  Alpha:   21:14-31 TEST PAGE ONLY<NUL>
 POCSAG2400: Address: 1322772  Function: 2  Alpha:   21:14-89 TEST PAGE ONLY<NUL><NUL>
 POCSAG2400: Address: 1323047  Function: 2  Alpha:   21:14-97 TEST PAGE ONLY<NUL><NUL>
 POCSAG2400: Address: 1022656  Function: 0  Alpha:   21:14-62 TEST PAGE ONLY<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2113251121+++TIME=2113251121<NUL>
-POCSAG2400: Address: 1966608  Function: 0 
-POCSAG1200: Address: 1875970  Function: 0 
-POCSAG1200: Address:  339867  Function: 3 
