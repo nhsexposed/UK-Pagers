@@ -1,3 +1,27 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0718261121+++TIME=0718261121<NUL>
+POCSAG1200: Address: 1680377  Function: 2 
+POCSAG1200: Address:  100248  Function: 0  Alpha:   +q
+POCSAG1200: Address: 1816914  Function: 2  Alpha:   07:17-20 (3/3) Talkgrp  FBER-OPS02 (39*) (DGNA)<NUL>
+POCSAG2400: Address:   80385  Function: 1 
+POCSAG2400: Address:  313383  Function: 1  Alpha:   O%(,<ACK>
+POCSAG2400: Address: 1253526  Function: 1  Alpha:   >f
+POCSAG2400: Address: 1090965  Function: 0  Alpha:   <DC2>T
+POCSAG2400: Address:  394369  Function: 2 
+POCSAG2400: Address:  792625  Function: 0 
+POCSAG2400: Address: 1781792  Function: 1 
+POCSAG2400: Address:  995672  Function: 2 
+POCSAG2400: Address: 1716782  Function: 0 
+POCSAG2400: Address: 1322866  Function: 2  Alpha:   07:17-49 NHSBT - DONOR REFERRAL. Please call DR AHMED PICU REG on Direct Dial Number 0117 923 0000 BLEEP 20925 Hospital BRISTOL ROYAL Dept PICU . Regards Donor Referral Line<NUL>
+POCSAG1200: Address:  788561  Function: 2  Alpha:   ,N<LF><LF><BS>
+POCSAG1200: Address: 2021501  Function: 2 
+POCSAG1200: Address: 1581236  Function: 2 
+POCSAG1200: Address: 1602268  Function: 3 
+POCSAG1200: Address:  202251  Function: 0  Alpha:   2:
+POCSAG1200: Address:  152370  Function: 3 
+POCSAG1200: Address:  264210  Function: 1 
+POCSAG1200: Address: 1491060  Function: 2 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE>NLAdl1f
+POCSAG1200: Address: 2000950  Function: 0 
 POCSAG2400: Address: 1323041  Function: 2  Alpha:   07:14-04 call 8252<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713261121+++TIME=0713261121<NUL>
 POCSAG1200: Address: 1312755  Function: 2  Alpha:   07:13-45 Reeth Stn FIRE CALL
@@ -974,27 +998,3 @@ POCSAG1200: Address:  198232  Function: 3
 POCSAG1200: Address: 2042104  Function: 0 
 POCSAG1200: Address: 1306119  Function: 3 
 POCSAG2400: Address: 1481833  Function: 1 
-POCSAG1200: Address: 1032690  Function: 0 
-POCSAG1200: Address: 1128879  Function: 1  Alpha:   O%h iX@<DC4>
-POCSAG1200: Address:  426287  Function: 1 
-POCSAG1200: Address: 1270222  Function: 2 
-POCSAG1200: Address: 1216828  Function: 0 
-POCSAG1200: Address: 2016900  Function: 0 
-POCSAG1200: Address:   76051  Function: 0  Alpha:   30
-POCSAG1200: Address:  363626  Function: 0 
-POCSAG1200: Address: 1284530  Function: 1 
-POCSAG1200: Address:  329534  Function: 2  Alpha:   <z
-POCSAG1200: Address: 1353949  Function: 2  Alpha:   <[
-POCSAG1200: Address: 1216824  Function: 0 
-POCSAG1200: Address: 1623681  Function: 1 
-POCSAG1200: Address:   76048  Function: 0  Alpha:   42
-POCSAG1200: Address:  426285  Function: 1 
-POCSAG1200: Address: 1270221  Function: 2 
-POCSAG1200: Address: 1650779  Function: 3  Alpha:   F<ENQ>$<HT>9
-POCSAG1200: Address: 1216827  Function: 0 
-POCSAG1200: Address: 2016898  Function: 0 
-POCSAG1200: Address:   76049  Function: 0  Alpha:   30
-POCSAG1200: Address: 1534107  Function: 2  Alpha:   00:20-03 (1/7)025573-25112021; F4.P Fire Domestic Persons Reported; ITCHEN LODGE,AVINGTON LANE,ITCHEN ABBAS,SO21 1BD; 453400,132843;<NUL><NUL>
-POCSAG1200: Address: 1534107  Function: 2  Alpha:   00:20-01 (5/7) Additional_Data TextBox3 ; Additional_Data TextBox4 ; Additional_Data TextBox5 ; Additional_Data TextBox11 ; Additional_Data TextBox12 ;
-POCSAG2400: Address:   28869  Function: 0  Alpha:   00:19-71 PLEASE CALL GEORGE EXT: 26009<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0018261121+++TIME=0018261121<NUL>
