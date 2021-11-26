@@ -1,3 +1,21 @@
+POCSAG1200: Address: 2009787  Function: 0 
+POCSAG1200: Address: 1001132  Function: 2  Alpha:   13:14-53 PAEDIATRIC CARDIAC ARREST TEAM TO PEAD CLINIC 3 OUTPATIENTS 7TH FLOOR @RLH<NUL><NUL>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   Fl
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1313261121+++TIME=1313261121<NUL>
+POCSAG1200: Address:  556538  Function: 0  Alpha:   ig
+POCSAG1200: Address: 1333329  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1313261121+++TIME=1313261121<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   13:13-47 4688<NUL>
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   F<FF>
+POCSAG2400: Address: 1913842  Function: 2  Alpha:   13:11-45 4877<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:11-63 4316<NUL>
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:11-03 4935<NUL>
+POCSAG1200: Address:  197371  Function: 2  Alpha:   <DLE>,H<FF>f21f
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   <ACK>&
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   13:10-55 4034<NUL>
+POCSAG2400: Address: 1321543  Function: 2  Alpha:   13:10-19 01444441881
+POCSAG2400: Address: 1877589  Function: 0 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   13:10-39 4935<NUL>
 POCSAG2400: Address:  216417  Function: 2  Alpha:   13:08-93 32771 <NUL><NUL>
 POCSAG2400: Address: 1321585  Function: 2  Alpha:   13:08-66 pls call lion ward 32671 
 POCSAG2400: Address: 1913668  Function: 2  Alpha:   13:08-69 4269<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1615025  Function: 1  Alpha:   <DC4><GS>
 POCSAG1200: Address: 1884769  Function: 1 
 POCSAG2400: Address: 1913729  Function: 2  Alpha:   10:39-86 3246<NUL>
 POCSAG2400: Address:  840069  Function: 3  Alpha:   SE
-POCSAG2400: Address: 1704981  Function: 3 
-POCSAG2400: Address: 1582443  Function: 3 
-POCSAG2400: Address: 1393298  Function: 3 
-POCSAG2400: Address:  148289  Function: 1  Alpha:   "'
-POCSAG2400: Address:  680774  Function: 2  Alpha:   +P<DC4>'c
-POCSAG2400: Address: 1823852  Function: 0 
-POCSAG2400: Address: 1263153  Function: 0 
-POCSAG2400: Address:  597800  Function: 3  Alpha:   d<STX>
-POCSAG2400: Address: 1243599  Function: 0  Alpha:   S,@g<DC2><DC4>f'
-POCSAG2400: Address:  730574  Function: 3  Alpha:   <DC1>h
-POCSAG2400: Address:  281621  Function: 2 
-POCSAG2400: Address: 1761373  Function: 0 
-POCSAG2400: Address:   68083  Function: 2  Alpha:   spIta
-POCSAG2400: Address:  404587  Function: 1 
-POCSAG2400: Address: 2077929  Function: 1  Alpha:   <ETX><LF><VT><ESC><VT>
-POCSAG2400: Address:  730568  Function: 3  Alpha:   <DC1>h
-POCSAG2400: Address: 1761375  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1038261121+++TIME=1038261121<NUL>
