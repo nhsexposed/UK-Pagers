@@ -1,3 +1,32 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508261121+++TIME=0508261121<NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   s,
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  652182  Function: 3 
+POCSAG2400: Address:  510877  Function: 2  Alpha:   )<LF>
+POCSAG2400: Address:  297377  Function: 1 
+POCSAG2400: Address: 1057337  Function: 1 
+POCSAG2400: Address: 2007880  Function: 3  Alpha:   jb
+POCSAG2400: Address:  150847  Function: 1  Alpha:   W<CAN>Xg<DC2>
+POCSAG2400: Address: 1626150  Function: 1  Alpha:   x)
+POCSAG2400: Address: 1873228  Function: 1  Alpha:   Y,<NUL>HM!70
+POCSAG2400: Address: 1994994  Function: 0  Alpha:   &<SI>f<ACK><SUB>l4-
+POCSAG2400: Address: 1157913  Function: 1  Alpha:   @<DLE>
+POCSAG2400: Address:  837997  Function: 0  Alpha:   ER OF
+POCSAG2400: Address: 1251387  Function: 0 
+POCSAG2400: Address:  105306  Function: 0  Alpha:   `n
+POCSAG2400: Address:  218713  Function: 2 
+POCSAG2400: Address: 1098297  Function: 1 
+POCSAG2400: Address:  181223  Function: 3  Alpha:   WHCg<DC2>t<NAK>rp<LF>9
+POCSAG2400: Address: 1444758  Function: 0  Alpha:   <LF><DC4>
+POCSAG2400: Address:   86516  Function: 1  Alpha:   S.<NUL>IMPOR
+POCSAG2400: Address: 1922287  Function: 0 
+POCSAG2400: Address:  181221  Function: 3  Alpha:   WHC+d
+POCSAG2400: Address: 1444756  Function: 0  Alpha:   <LF><DC4>
+POCSAG2400: Address: 1353766  Function: 0  Alpha:   *<SUB><CAN>8<HT>
+POCSAG2400: Address: 1251389  Function: 0 
+POCSAG2400: Address:  549108  Function: 2  Alpha:   05:06-14 FAST 
+POCSAG2400: Address: 1221171  Function: 3 
+POCSAG1200: Address: 1059168  Function: 1 
 POCSAG2400: Address: 2014839  Function: 3 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   05:04-04 Alarm alarm.DatastoreDiskUsageAlarm on Datastore : MANGIT-DATA-01-NIM02 is Red, Target: MANGIT-DATA-01-NIM02 <LF>Previous Status: Yellow <LF>New Status: Red <LF> <LF>Alarm Definition: <LF>([Yellow metric Is above 85%; Red metric Is above 95%]) <LF> <LF>Current <NUL><NUL>
 POCSAG1200: Address: 2074224  Function: 2 
@@ -969,32 +998,3 @@ POCSAG1200: Address: 1022230  Function: 2  Alpha:   22:10-40 25?01
 POCSAG2400: Address: 2079603  Function: 0 
 POCSAG2400: Address: 2008958  Function: 0 
 POCSAG2400: Address:  333486  Function: 2 
-POCSAG2400: Address: 1972662  Function: 0 
-POCSAG2400: Address: 1410820  Function: 0  Alpha:   <DLE>_GaS
-POCSAG2400: Address:  468716  Function: 2 
-POCSAG2400: Address:  137739  Function: 0 
-POCSAG2400: Address: 1874099  Function: 0 
-POCSAG2400: Address:  658622  Function: 3 
-POCSAG2400: Address:  730926  Function: 3 
-POCSAG2400: Address: 1468462  Function: 0 
-POCSAG2400: Address: 1727157  Function: 2 
-POCSAG2400: Address: 2049133  Function: 0 
-POCSAG2400: Address:  616624  Function: 1 
-POCSAG2400: Address: 1176295  Function: 3  Alpha:   O%hS<DC4>
-POCSAG2400: Address:  354327  Function: 0 
-POCSAG2400: Address: 1378646  Function: 1 
-POCSAG2400: Address: 1282366  Function: 0 
-POCSAG2400: Address:  108381  Function: 0  Alpha:   nb
-POCSAG2400: Address: 1255004  Function: 3 
-POCSAG2400: Address: 1673578  Function: 3  Alpha:   .<ACK>@+dAP<BEL>
-POCSAG2400: Address:  305753  Function: 2 
-POCSAG2400: Address:  149253  Function: 2  Alpha:   22:x=)37
-POCSAG2400: Address:  677992  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:08-00 5082<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   22:07-09 25
-POCSAG1200: Address: 1749841  Function: 2 
-POCSAG1200: Address:  429529  Function: 1  Alpha:   3<DLE>
-POCSAG2400: Address: 1814968  Function: 0  Alpha:   22:03-55 4375<NUL>
-POCSAG1200: Address:  908288  Function: 0 
-POCSAG1200: Address: 1631648  Function: 2 
-POCSAG1200: Address: 1053399  Function: 0  Alpha:   A<LF>1)u@fbnpr
