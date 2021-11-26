@@ -1,3 +1,49 @@
+POCSAG1200: Address: 2024123  Function: 0 
+POCSAG1200: Address: 1478046  Function: 0  Alpha:   <ESC><DLE>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   18:29-24 26/<BS><DC1>/2021 18:28:02 INC 2472
+POCSAG1200: Address: 1585184  Function: 1  Alpha:   z<HT>
+POCSAG1200: Address:  757832  Function: 0 
+POCSAG1200: Address: 1478045  Function: 0  Alpha:   <ESC><DLE><EM><SO><DC1>
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v&
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  624426  Function: 2  Alpha:   `d
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   18:29-52 26/11<SI>20Y<CAN><DLE><CAN><FS>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   18:29-23 26/11/2021 18:28:02 INC 24725137 29D03 JUNCTION 20 TO 19 WESTBOUND, M62, OL9 9PP Unknown UnknownY RTC GRD 386941 409331
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   18:29-35 26/11/2021 18:28:02 INC 24725137 JUNCTION 20 TO 19 WESTBOUND, M62, OL9 9PP Unknown UnknownY RTC GRD 386941 409331
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828261121+++TIME=1828261121<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   18:28-37 4554<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   18:28-31 4660<NUL>
+POCSAG1200: Address: 2023641  Function: 0 
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   F&
+POCSAG2400: Address: 1462583  Function: 3  Alpha:   g<DC2>
+POCSAG2400: Address:  679540  Function: 1 
+POCSAG2400: Address: 2078563  Function: 1 
+POCSAG2400: Address:  551125  Function: 2 
+POCSAG2400: Address: 1546223  Function: 3 
+POCSAG2400: Address:  941686  Function: 1  Alpha:   .<RS>
+POCSAG2400: Address:  763796  Function: 2  Alpha:   x 
+POCSAG2400: Address:  181035  Function: 2 
+POCSAG2400: Address:  637785  Function: 1  Alpha:   jp
+POCSAG2400: Address: 1734303  Function: 0  Alpha:   <RS>.Vg<DC2>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   18:27-11 4163<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  629290  Function: 3  Alpha:   <EOT>j
+POCSAG1200: Address: 1418881  Function: 1  Alpha:   <FF><ETX>
+POCSAG1200: Address: 1803880  Function: 3  Alpha:   2<DLE>
+POCSAG1200: Address:  312984  Function: 2 
+POCSAG1200: Address: 1691479  Function: 1  Alpha:   O%
+POCSAG1200: Address:  267860  Function: 1  Alpha:   <SUB>H
+POCSAG1200: Address: 1777811  Function: 0  Alpha:   &N
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v&
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address:  629556  Function: 1  Alpha:   ,,
+POCSAG1200: Address:  786435  Function: 0 
+POCSAG1200: Address: 1293057  Function: 2  Alpha:   `h
+POCSAG1200: Address:  557768  Function: 3 
+POCSAG1200: Address:  189072  Function: 2 
+POCSAG1200: Address:  535366  Function: 3 
+POCSAG1200: Address:  733537  Function: 2 
+POCSAG1200: Address: 2008952  Function: 0 
 POCSAG1200: Address:  312672  Function: 0  Alpha:   18:24-64 26/11/2021 18:19:29 INC 24725092 25B04 CLOVELLY, OWLERBARROW ROAD, WOOLFOLD BURY, BL8 1RD Female 16Y 16YS FEMALE - CURRENTLY ON THE ROOF AND SAYING SHE DOESNT WANT TO BE HERE GRD 378202 411389<NUL>
 POCSAG2400: Address:   28916  Function: 0  Alpha:   18:23-40 4379<NUL>
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   18:23-48 26/11/2021 18:21:55 INC 24725111 25B07`5A, QUEENS PLACE, CHESTER CITY CENTRE, CH1 3LN Male 50Y MH GRD 340864 366579<NUL>
@@ -952,49 +998,3 @@ POCSAG2400: Address: 1913954  Function: 2  Alpha:   15:42-12 2445<NUL>
 POCSAG1200: Address:  108034  Function: 0  Alpha:   15:41-90 26/11/2021 15:18:48 W5SteamSysMajAlm Status : Steam System Major Alarm
 POCSAG2400: Address: 1606198  Function: 0 
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:40-99 2581<NUL>
-POCSAG1200: Address: 1322537  Function: 2  Alpha:   15:40-01 pageone test message please ignore 372537<NUL>
-POCSAG2400: Address: 1022280  Function: 0  Alpha:   15:40-51 NHSBT - DONOR REFERRAL. Please call DR TOM  on Direct Dial Number 01737768511 EXT 2749 Hospital East Surrey Hospital Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   15:40-10 NHSBT - DONOR REFERRAL. Please call DR TOM  on Direct Dial Number 01737768511 EXT 2749 Hospital East Surrey Hospital Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address:  790905  Function: 2  Alpha:   <CR>D
-POCSAG1200: Address: 1915488  Function: 2 
-POCSAG1200: Address:   82807  Function: 3  Alpha:   d Pg<DC2>4yw
-POCSAG1200: Address:  784110  Function: 2 
-POCSAG1200: Address:  852627  Function: 3  Alpha:   gnOre
-POCSAG1200: Address: 2086954  Function: 1  Alpha:   nM}<GS>L
-POCSAG1200: Address: 1781825  Function: 3 
-POCSAG1200: Address:  733262  Function: 3  Alpha:   ~<ACK>j~<SYN>
-POCSAG1200: Address:  891749  Function: 3  Alpha:   \@
-POCSAG1200: Address:  361217  Function: 2  Alpha:   rX
-POCSAG1200: Address:  133912  Function: 0  Alpha:   X<CAN>
-POCSAG1200: Address: 1818215  Function: 1 
-POCSAG1200: Address:  227309  Function: 2 
-POCSAG1200: Address: 1472268  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1538261121+++TIME=1538261121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1538261121+++TIME=1538261121<NUL>
-POCSAG1200: Address: 1267206  Function: 3 
-POCSAG1200: Address:  756308  Function: 0  Alpha:   <BS>4&&V
-POCSAG1200: Address:  413657  Function: 2 
-POCSAG1200: Address:  234377  Function: 2  Alpha:   15:37-32 26/11/2021 15:35:59 INC 24724405 10D04 32 ELDON COURT, ST ANNES LYTHAM ST ANNES, FY8 2BH Female 57Y kidney - lung pain - lower abdo pain - nausia GRD 332525 429401<NUL><NUL>
-POCSAG1200: Address: 1975908  Function: 1 
-POCSAG2400: Address:   11678  Function: 0  Alpha:   15:37-67
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   5J
-POCSAG1200: Address: 1601238  Function: 0 
-POCSAG1200: Address: 1678173  Function: 1  Alpha:   `d
-POCSAG1200: Address:  129316  Function: 1  Alpha:   X<SUB>
-POCSAG1200: Address: 1716579  Function: 1  Alpha:   <ACK><ACK>
-POCSAG1200: Address: 1682242  Function: 3  Alpha:   nbF@h
-POCSAG1200: Address: 1216769  Function: 2 
-POCSAG1200: Address:  677448  Function: 2  Alpha:   <DC4>h
-POCSAG1200: Address:  708496  Function: 2 
-POCSAG1200: Address: 1021095  Function: 0  Alpha:   O%
-POCSAG1200: Address:  140101  Function: 2  Alpha:    *<EOT>P<SYN><NUL>id
-POCSAG1200: Address: 1485076  Function: 1  Alpha:   Xh
-POCSAG1200: Address:  694705  Function: 0 
-POCSAG1200: Address: 1738612  Function: 3 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   15:36-95 26/11/2021 15:35:21 INC 24724403 09E01 78 ALDER CLOSE, LEYLAND, PR26 7TU Male 78Y SUDDEN DEATH - RIGOR MORTIS GRD 351713 421440<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#<DC1>(L
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1682216  Function: 2  Alpha:   db
-POCSAG1200: Address: 1205982  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>rY<EOT>EUi
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   15:36MY<SUB>
-POCSAG1200: Address:  758305  Function: 3  Alpha:   <STX><STX>
