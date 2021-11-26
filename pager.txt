@@ -1,3 +1,38 @@
+POCSAG2400: Address: 1151762  Function: 3  Alpha:   pd\bb
+POCSAG2400: Address:  994128  Function: 3  Alpha:   <LF>5<STX>31
+POCSAG2400: Address: 1716840  Function: 0 
+POCSAG2400: Address:  706998  Function: 3  Alpha:   E=<SOH>24826u,B
+POCSAG2400: Address: 2007640  Function: 0  Alpha:   Wi<ETX>!<SO><NAK>&&
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1248261121+++TIME=1248261121<NUL>
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   12:48-99 26/11/2021 12:45:08 INC 24723664 28C01J 61-63 WESTBOURNE ROAD, ECCLES MANCHESTER, M30 8DB Female 68Y STROKE GRD 375939 399627
+POCSAG2400: Address:  549209  Function: 2  Alpha:   12:48-86 Confirm your email, <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><CR><LF><html xmlns="http://www.w3.org/1999/xhtml"><CR><LF>  <head><CR><LF>  <meta http-equiv="Content-Type
+POCSAG1200: Address:  973872  Function: 1  Alpha:   .<ACK>
+POCSAG1200: Address:  534064  Function: 2 
+POCSAG1200: Address:  371500  Function: 3  Alpha:   ih
+POCSAG1200: Address: 1205978  Function: 2  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX><STX><DC3>S
+POCSAG2400: Address:   28896  Function: 0  Alpha:   12:47-55 5273<NUL>
+POCSAG1200: Address: 1031907  Function: 3  Alpha:   VB
+POCSAG1200: Address: 1322529  Function: 2  Alpha:   12:47-01 pageone test message please ignore  372536
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1031907  Function: 3  Alpha:   VB
+POCSAG1200: Address:  254480  Function: 2  Alpha:   zL
+POCSAG1200: Address: 1730581  Function: 0  Alpha:   403<DC2><DC3>#2q
+POCSAG1200: Address: 1477212  Function: 0 
+POCSAG1200: Address:  873660  Function: 1 
+POCSAG2400: Address: 1913906  Function: 2  Alpha:   12:46-97 2333<NUL>
+POCSAG1200: Address: 1001124  Function: 2  Alpha:   12:46-95 cardiac arrest team to haematology day ward 2nd floor @RLH<NUL>
+POCSAG1200: Address: 1312437  Function: 2  Alpha:   12:46-50 cardiac arrest team to haematology day ward 2nd floor @RLH<NUL>
+POCSAG1200: Address: 1001131  Function: 2  Alpha:   12:46-47 cardiac arrest team to haematology day ward 2nd floor @RLH<NUL>
+POCSAG1200: Address: 1321903  Function: 2  Alpha:   12:46-79 2380<NUL>
+POCSAG1200: Address: 1734272  Function: 2  Alpha:   "<STX>
+POCSAG1200: Address: 1001132  Function: 2  Alpha:   12:46-52 cardiac arrest team to haematology day ward 2nd floor @R
+POCSAG1200: Address: 1312438  Function: 2  Alpha:   12:46-51 cardiac arrest team to haematology day ward 2nd floor @RLH<NUL>
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   12:45-41 3180<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:45-30 4769<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:45-95 26/11/2021 12:43:24 INC 24723654 06E01 LOSTOCK LODGE CARE HOME, CHESHIRE AVENUE, LOSTOCK GRALAM NORTHWICH, CW9 7YN Male 77Y STRUGGLING FOR BREATH - SATS 71% GRD 369823 375160<NUL><NUL>
+POCSAG2400: Address:  149113  Function: 2  Alpha:   12:45-49 5202<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   12:44-13 26/11/2021 12:42
 POCSAG2400: Address:   11678  Function: 0  Alpha:   12:44-64 Marcia is responding<NUL><NUL>
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   &@
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1243261121+++TIME=1243261121<NUL>
@@ -963,38 +998,3 @@ POCSAG2400: Address: 1323200  Function: 2  Alpha:   10:25-05 PLS CALL MOSAMMAT, 
 POCSAG2400: Address:  549915  Function: 2  Alpha:   10:25-49 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
 POCSAG2400: Address: 2028153  Function: 1 
 POCSAG2400: Address: 2026352  Function: 2 
-POCSAG1200: Address: 1812471  Function: 2  Alpha:   <DC1>"
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   <STX>p
-POCSAG2400: Address:  583574  Function: 2  Alpha:   10:25-00 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
-POCSAG2400: Address: 1323218  Function: 2  Alpha:   10:25-74 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
-POCSAG2400: Address: 1022279  Function: 0  Alpha:   10:25-98 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:25-70 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:25-12 5142<NUL>
-POCSAG2400: Address: 1323253  Function: 2  Alpha:   10:25-34 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
-POCSAG2400: Address: 1323228  Function: 2  Alpha:   10:25-40 PLS CALL MOSAMMAT, RENAL REG HAMMERSMITH HOSP BLEEP 9977 OR CLL EXT 36695 <NUL><NUL>
-POCSAG2400: Address:   11678  Function: 0  Alpha:   10:25-59 KEVIN BORDER FORCE SITE 202A 07917 551 288 <NUL><NUL>
-POCSAG1200: Address: 1484850  Function: 0 
-POCSAG1200: Address:  269354  Function: 3  Alpha:   F<DLE>
-POCSAG2400: Address: 1323214  Function: 2  Alpha:   10:24-58 PLS CALL SOPHIA 07956 965 140 
-POCSAG1200: Address: 1035734  Function: 2 
-POCSAG1200: Address: 1955766  Function: 2 
-POCSAG1200: Address: 1981669  Function: 0 
-POCSAG1200: Address: 2058465  Function: 3 
-POCSAG1200: Address: 1112520  Function: 1  Alpha:   S 
-POCSAG1200: Address:  973832  Function: 0 
-POCSAG1200: Address: 1858103  Function: 3  Alpha:   O%
-POCSAG1200: Address:  631700  Function: 2 
-POCSAG1200: Address: 1238796  Function: 0 
-POCSAG1200: Address: 1365851  Function: 1 
-POCSAG1200: Address: 1679881  Function: 1 
-POCSAG1200: Address: 1197192  Function: 0 
-POCSAG1200: Address:  676407  Function: 0  Alpha:   O%(15
-POCSAG1200: Address: 1718399  Function: 3 
-POCSAG1200: Address:  707157  Function: 3 
-POCSAG1200: Address:   82734  Function: 2  Alpha:   10:24-9<BEL>
-POCSAG2400: Address: 1323201  Function: 2  Alpha:   10:24-55 PLS CALL SOPHIA 07956 965 140 
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   10:24-04 PLS CALL SOPHIA 07956 965 140 
-POCSAG2400: Address:   33713  Function: 2  Alpha:   10:24-85 PLS CALL SOPHIA 07956 965 140 
-POCSAG2400: Address:  583574  Function: 2  Alpha:   10:24-99 PLS CALL SOPHIA 07956 965 140 
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   10:24-82 PLS CALL SOPHIA 07956 965 140 
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:24-69 PLS CALL SOPHIA 07956 965 140 
