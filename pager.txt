@@ -1,3 +1,24 @@
+POCSAG1200: Address: 1042000  Function: 2 
+POCSAG1200: Address:  898689  Function: 1  Alpha:   <VT><SOH>
+POCSAG1200: Address: 1083769  Function: 0 
+POCSAG1200: Address: 1467752  Function: 0 
+POCSAG1200: Address: 1817257  Function: 2  Alpha:   19:28-75 33835
+POCSAG1200: Address:  851302  Function: 2  Alpha:   19:28-29 PROCEED TO:  DANGEROUS STRUCTU
+POCSAG1200: Address:   21298  Function: 0  Alpha:   Lml<FF><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:27-59 4769<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:27-37 5076<NUL>
+POCSAG2400: Address:  901450  Function: 2  Alpha:   19:26-43 2222<NUL>
+POCSAG1200: Address: 1744696  Function: 3 
+POCSAG2400: Address:   28927  Function: 0  Alpha:   19:25-31 2195<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:25-61 4660<NUL>
+POCSAG1200: Address:  664466  Function: 2  Alpha:   19:25-19 1: 001SPFIRDL53068 Pump1 Demand On 01<NUL><NUL>
+POCSAG2400: Address: 1323991  Function: 2  Alpha:   19:25-72 4163<NUL>
+POCSAG1200: Address:  585224  Function: 2  Alpha:   19:24-25!1: 001SPFIRDL53068 Pump1 Demand O
+POCSAG1200: Address: 1941638  Function: 3  Alpha:   h@Ld@
+POCSAG1200: Address:  197261  Function: 2 
+POCSAG1200: Address: 1494493  Function: 0 
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   f<STX>
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   19:24-49 26/11/2021 19:22:41 INC 2<DLE><ETB><DC2>5374 31D04 MCDONALDS RESTAURANTS LTD, 20 HUYTON HEY ROAD, HUYTON L36, L36 5RT Male 45Y IN AND OUT GRD 344401 390705<NUL><NUL>
 POCSAG1200: Address: 1483358  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1923261121+++TIME=1923261121<NUL>
 POCSAG2400: Address: 2047192  Function: 3  Alpha:   vo01mc1<CR><LF>Alias: <CR><LF>Address: ma<NUL><NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1204428  Function: 0
 POCSAG2400: Address:   28899  Function: 0  Alpha:   16:32-86 2233<NUL>
 POCSAG1200: Address: 1092646  Function: 2  Alpha:   16:32-88 26/11/2021 16:29:41 INC 24724639 06D02 FLEETWOOD LIBRARY, NORTH ALBERT STREET, FLEETWOOD, FY7 6AJ Male 43Y MALE SEV PAIN - DIB GRD 333885 448116<NUL>
 POCSAG2400: Address:  150086  Function: 0  Alpha:   16:32-29 2638<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:31-46 2233<NUL>
-POCSAG2400: Address: 1377574  Function: 2 
-POCSAG2400: Address:  386733  Function: 0 
-POCSAG2400: Address: 1429077  Function: 1 
-POCSAG2400: Address:  426275  Function: 1 
-POCSAG2400: Address: 1529419  Function: 3 
-POCSAG2400: Address:  167002  Function: 0 
-POCSAG2400: Address:  328874  Function: 0 
-POCSAG2400: Address: 1715784  Function: 1  Alpha:   <STX>Q"&N
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28869  Function: 0  Alpha:   16:31-80 PLS CALL 26401 EMMA SHO ON EDITH CAVELL <NUL><NUL>
-POCSAG512: Address: 2011868  Function: 1 
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   16:31-32 2581<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:30-85 3106<NUL>
-POCSAG1200: Address: 1817641  Function: 2  Alpha:   16:30-21 Please Contact NGH Switchboard
-POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:29-07 3298<NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   16:29-12 NHSBT - DONOR REFERRAL. Please call SN JESSICA  on Direct Dial Number 0208 296 4377 Hospital St Helier Hospital, Sutton Dept ITU  . Regards Donor Referral Line
-POCSAG1200: Address: 1868308  Function: 0  Alpha:   ER HE
-POCSAG1200: Address: 1639907  Function: 2 
-POCSAG1200: Address:  337954  Function: 3  Alpha:   XH
-POCSAG1200: Address:  420485  Function: 3  Alpha:   F<DC2>
