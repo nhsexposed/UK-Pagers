@@ -1,3 +1,11 @@
+POCSAG2400: Address:  713339  Function: 2 
+POCSAG1200: Address: 1779331  Function: 1 
+POCSAG1200: Address: 1544368  Function: 2 
+POCSAG1200: Address: 1254953  Function: 1 
+POCSAG1200: Address: 1717478  Function: 2  Alpha:   <ACK>4
+POCSAG1200: Address: 1770060  Function: 2 
+POCSAG1200: Address: 1449180  Function: 0 
+POCSAG1200: Address: 1349434  Function: 1  Alpha:   <NUL><SYN>#;<DC3>
 POCSAG1200: Address:  266850  Function: 1  Alpha:   v&
 POCSAG1200: Address: 1349433  Function: 1 
 POCSAG1200: Address: 1263113  Function: 1 
@@ -990,11 +998,3 @@ POCSAG1200: Address:  305864  Function: 0
 POCSAG1200: Address:   42299  Function: 2  Alpha:   17:35-24 PLEASE CALL BACK 07887 392 103
 POCSAG1200: Address:  306142  Function: 2  Alpha:   17:35-71 PLEASE CALL BACK 07887 392 103
 POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>CA;L
-POCSAG1200: Address: 1449433  Function: 1  Alpha:   <EM>P
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   17:33-33 26/11/2021 17:31:17 INC 2472
-POCSAG1200: Address: 1746544  Function: 0 
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   17:31-42 3157<NUL>
-POCSAG2400: Address: 1913987  Function: 2  Alpha:   17:31-59 5013<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:31-28 4163<NUL>
-POCSAG1200: Address: 1718896  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1728261121+++TIME=1728261121<NUL>
