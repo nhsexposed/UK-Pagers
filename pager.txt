@@ -1,3 +1,30 @@
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   FF
+POCSAG2400: Address:   11796  Function: 0  Alpha:   10:44-27 Boiler lock out ALERT<NUL>
+POCSAG1200: Address:  265355  Function: 3  Alpha:   F<DLE>
+POCSAG1200: Address:  209424  Function: 3  Alpha:   &"
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   10:42-91 4379<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   10:41-83 5205<NUL>
+POCSAG2400: Address: 1321127  Function: 2  Alpha:   10:40-29 TEST TEST.  Sent to pager, mobile, email.  Please confirm receipt to dawn.roberts10@nhs.net or 07970 973312<NUL>
+POCSAG1200: Address: 1650727  Function: 0  Alpha:   O%(<DC3>;
+POCSAG1200: Address: 1896709  Function: 3 
+POCSAG1200: Address: 1133349  Function: 2 
+POCSAG1200: Address: 1254828  Function: 3 
+POCSAG1200: Address:  267860  Function: 1 
+POCSAG1200: Address: 1639761  Function: 3 
+POCSAG1200: Address:  865297  Function: 3 
+POCSAG1200: Address:  792168  Function: 2 
+POCSAG1200: Address:  799600  Function: 3 
+POCSAG1200: Address: 1384623  Function: 2  Alpha:   O%
+POCSAG1200: Address:   41815  Function: 2 
+POCSAG1200: Address: 1089934  Function: 3 
+POCSAG1200: Address: 1184564  Function: 1 
+POCSAG1200: Address: 1717060  Function: 0 
+POCSAG1200: Address:  852611  Function: 1  Alpha:   UD
+POCSAG1200: Address:   78754  Function: 2 
+POCSAG1200: Address: 1182634  Function: 2 
+POCSAG1200: Address: 1615025  Function: 1  Alpha:   <DC4><GS>
+POCSAG1200: Address: 1884769  Function: 1 
 POCSAG2400: Address: 1913729  Function: 2  Alpha:   10:39-86 3246<NUL>
 POCSAG2400: Address:  840069  Function: 3  Alpha:   SE
 POCSAG2400: Address: 1704981  Function: 3 
@@ -971,30 +998,3 @@ POCSAG1200: Address:  585538  Function: 2  Alpha:   08:48-00 2505<NUL>
 POCSAG2400: Address: 1913841  Function: 2  Alpha:   08:49-66 3508<NUL>
 POCSAG2400: Address: 1913666  Function: 2  Alpha:   08:48-77 4283<NUL>
 POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:  131584  Function: 0 
-POCSAG2400: Address:  524591  Function: 1  Alpha:   <ENQ><NUL>I'(
-POCSAG2400: Address: 1305345  Function: 2 
-POCSAG2400: Address:  105264  Function: 3  Alpha:    Hub Operat<SOH>_O
-POCSAG2400: Address: 1943585  Function: 0 
-POCSAG2400: Address:  240436  Function: 1 
-POCSAG2400: Address: 1794212  Function: 1 
-POCSAG2400: Address:  748736  Function: 0 
-POCSAG2400: Address: 1122955  Function: 2 
-POCSAG2400: Address: 1312575  Function: 2  Alpha:   08
-POCSAG2400: Address: 1444890  Function: 2  Alpha:   R3Rs1<LF>(<VT>H<FF>hS3k0<DLE><DC3><DC3>(<VT>(<FF>(3<DLE><SYN>(<FF>(3R<DC3><BS><NUL>
-POCSAG2400: Address: 1090536  Function: 1 
-POCSAG2400: Address: 1255392  Function: 2 
-POCSAG2400: Address: 1737633  Function: 2  Alpha:   Ec
-POCSAG2400: Address: 1377650  Function: 0 
-POCSAG2400: Address: 1837944  Function: 1 
-POCSAG2400: Address:   84157  Function: 1  Alpha:   ME
-POCSAG2400: Address:  164522  Function: 2 
-POCSAG2400: Address:  382056  Function: 1 
-POCSAG2400: Address:  781466  Function: 1  Alpha:   <ENQ><SOH>R@<NUL>mhb
-POCSAG2400: Address:  254020  Function: 0 
-POCSAG2400: Address:  897409  Function: 0 
-POCSAG2400: Address: 1811260  Function: 1 
-POCSAG2400: Address: 1408012  Function: 0  Alpha:   Y<ESC>
-POCSAG2400: Address:  565560  Function: 0  Alpha:   i)Sp3Ae@<CAN><DC2>)
-POCSAG2400: Address:  830774  Function: 2 
-POCSAG2400: Address: 1207078  Function: 2 
