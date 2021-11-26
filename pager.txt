@@ -1,3 +1,21 @@
+POCSAG1200: Address:  906480  Function: 3  Alpha:   p.<SYN><EOT>Q&0f
+POCSAG2400: Address: 1913871  Function: 2  Alpha:   18:43-23 2111<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843261121+++TIME=1843261121<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843261121+++TIME=1843261121<NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   p.<SYN><EOT>1
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:42-33 2415<NUL>
+POCSAG1200: Address:  618883  Function: 2  Alpha:   18:42-73 Daily Test Message<NUL>
+POCSAG1200: Address:  352586  Function: 2  Alpha:   18:42-25 6020<NUL>
+POCSAG1200: Address: 1484850  Function: 0 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:42-60 2427<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   18:41-70 26/11/2021 18:40:19 INC 24725194 26C02 71 THE ELMS, CLAYTON LE WOODS, PR6 7TX Male 3Y FEVER HALLUCINATING PHOTOPHOBIC SHIVVERING GRD 358157 422420<NUL><NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   18:41-16 PLEASE CALL BACK EXT 8553
+POCSAG2400: Address:   28924  Function: 0  Alpha:   18:41-83 2183<NUL>
+POCSAG2400: Address: 1319802  Function: 2  Alpha:   18:40-85 please call 4305
+POCSAG2400: Address:  361307  Function: 1  Alpha:   ph
+POCSAG1200: Address:  216374  Function: 2  Alpha:   18:40-22 Please call 770037, thanks<NUL><NUL>
+POCSAG1200: Address:  262215  Function: 0 
 POCSAG2400: Address:   28924  Function: 0  Alpha:   18:39-82 2188<NUL>
 POCSAG1200: Address:  549851  Function: 2  Alpha:   18:39-56 ~PLEASE CONTACT CONTROLS<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   18:38-97 2415<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address:  733991  Function: 2  Alpha:   15:53-83 2014<NUL>
 POCSAG2400: Address: 1814983  Function: 2  Alpha:   15:1#(70 Please call Hub Operations on 0117 975 7580 to confirm availability of NORS team over the weekend.<NUL>
 POCSAG2400: Address: 1913773  Function: 2  Alpha:   15:53-96 3158<NUL>
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><FF>
-POCSAG1200: Address: 1189504  Function: 0 
-POCSAG1200: Address:  722222  Function: 2  Alpha:   <DC2><VT>
-POCSAG1200: Address: 1517605  Function: 1 
-POCSAG1200: Address:  760381  Function: 0 
-POCSAG1200: Address: 1345581  Function: 2 
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   15:52-71 26/11/2021 15
-POCSAG1200: Address: 1565300  Function: 1 
-POCSAG1200: Address: 1322933  Function: 2  Alpha:   15:52-04 test jas
-POCSAG1200: Address:  756310  Function: 1  Alpha:   <BS>4
-POCSAG1200: Address:  630868  Function: 1 
-POCSAG1200: Address: 1647715  Function: 3 
-POCSAG1200: Address: 1815136  Function: 1  Alpha:   Fv
-POCSAG1200: Address:  437438  Function: 1  Alpha:   <SUB><CAN>
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   15:52-38 26/11/2021 
-POCSAG2400: Address: 2007474  Function: 1 
-POCSAG2400: Address:  829048  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1324553  Function: 2  Alpha:   15:50-77 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
