@@ -1,3 +1,39 @@
+POCSAG2400: Address:   28904  Function: 0  Alpha:   19:04-47 2415<NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   19:04-22 68788
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:03-35 2415<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1903261121+++TIME=1903261121<NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   prH*<ENQ><SOH>0f
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1903261121+++TIME=1903261121<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:03-01 2415<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  585224  Function: 2  Alpha:   19:02-02 1: 001SPFIRDL53068 Pump1 Demand On 01<NUL><NUL>
+POCSAG1200: Address:  585004  Function: 2  Alpha:   19:02-70 1: 001SPFIRDL53068 Pump1 Demand On 01<NUL><NUL>
+POCSAG1200: Address:   28883  Function: 3  Alpha:   19:01-61 TEST PAGE <NUL>
+POCSAG1200: Address:  549357  Function: 2  Alpha:   19:01-50 TEST PAGE <NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   19:01-36 TEST CALL<NUL><NUL>
+POCSAG2400: Address:  228137  Function: 3 
+POCSAG2400: Address: 1163131  Function: 2 
+POCSAG2400: Address:   48434  Function: 2  Alpha:   Ce
+POCSAG2400: Address:  140073  Function: 3  Alpha:   y5
+POCSAG2400: Address:  992384  Function: 2 
+POCSAG1200: Address: 1762300  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   19:00-17 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1022672  Function: 0  Alpha:   19:00-61 E.R. DAILY PAGER TEST<NUL>
+POCSAG2400: Address: 1324557  Function: 2  Alpha:   19:00-17 INC ALERT No: 16828321 Major Trauma - STABBED IN THE BACK, AT: O/S, THE SHRUBBERY HOTEL, 17 COMMERCIAL ROAD, SHEPTON MALLET, BA4 5BU, Time of Call: 26/11/2021 18:58:56, Co-ords: 51.1898278 -2.5483546
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   19:00-15
+POCSAG1200: Address:  895106  Function: 2  Alpha:   b@bl@
+POCSAG1200: Address:  459273  Function: 2 
+POCSAG1200: Address:  183612  Function: 0  Alpha:   \<CAN>
+POCSAG1200: Address:  799603  Function: 3 
+POCSAG1200: Address: 1613994  Function: 3 
+POCSAG1200: Address:   45922  Function: 3 
+POCSAG1200: Address:  845321  Function: 2 
+POCSAG1200: Address:  406537  Function: 1 
+POCSAG1200: Address:  288560  Function: 0 
+POCSAG1200: Address: 1559440  Function: 1 
+POCSAG1200: Address:  857255  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1713479  Function: 3 
+POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF>A3l0f
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1858261121+++TIME=1858261121<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   18:58-99 2111<NUL>
 POCSAG1200: Address:  132296  Function: 1 
@@ -962,39 +998,3 @@ POCSAG1200: Address: 1264898  Function: 3
 POCSAG1200: Address: 1246553  Function: 0 
 POCSAG1200: Address:  625976  Function: 0  Alpha:   <GS>L
 POCSAG1200: Address: 1360015  Function: 0  Alpha:   O%h<CAN>+
-POCSAG1200: Address:   37031  Function: 1 
-POCSAG1200: Address: 1227062  Function: 2 
-POCSAG1200: Address: 1594976  Function: 2  Alpha:   16:05-26 Location 18 ST GILES PARK, HAMILTON, ML3 8PQ Inc No: 8095354 Code: 10D05 Con: YES What is the Problem: MALE: PAIN IN CHEST/NAUSEA VOM Name: Age: 53Y
-POCSAG2400: Address:   28896  Function: 0  Alpha:   16:05-62 2183<NUL>
-POCSAG2400: Address: 1914020  Function: 2  Alpha:   16:04-52 5531<NUL>
-POCSAG1200: Address: 1417987  Function: 1  Alpha:   bbB@<FS>
-POCSAG1200: Address:  905986  Function: 2 
-POCSAG1200: Address:  176906  Function: 3 
-POCSAG1200: Address:  906377  Function: 0 
-POCSAG1200: Address:  672109  Function: 1  Alpha:   <CAN><ESC>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<DC2>
-POCSAG1200: Address: 1560470  Function: 0  Alpha:   I<ENQ>d<CAN>;
-POCSAG1200: Address:  924965  Function: 0 
-POCSAG1200: Address: 1243524  Function: 1  Alpha:   D, BL
-POCSAG1200: Address: 1651211  Function: 1 
-POCSAG1200: Address: 1769992  Function: 3 
-POCSAG1200: Address: 1485976  Function: 1 
-POCSAG1200: Address:  987049  Function: 2  Alpha:   16:03-44 26/11
-POCSAG1200: Address: 1322933  Function: 2  Alpha:   16:03-06 pageone test message please ignore 372539<NUL>
-POCSAG2400: Address:  111450  Function: 1  Alpha:   db
-POCSAG2400: Address:  652176  Function: 3 
-POCSAG2400: Address: 1449767  Function: 3  Alpha:   d,|g<DC2><DC4><SYN><STX>
-POCSAG2400: Address: 1980742  Function: 0 
-POCSAG2400: Address: 1875971  Function: 0 
-POCSAG2400: Address: 1323186  Function: 2  Alpha:   16:03-20 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   16:03-47 4765<NUL>
-POCSAG2400: Address: 1323187  Function: 2  Alpha:   16:03-53 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1324445  Function: 2 
-POCSAG1200: Address:  825924  Function: 1  Alpha:   E<SOH>]Y<SOH>9<SYN>^<STX>]<SYN>22&:<RS>R>:<STX>MRJ<SYN><SYN>R2<SOH>5&22<STX>!&22<STX><HT>2<ACK><SO>.<LF>VJ:2<SOH><HT><LF>J<SOH>Q!<ACK><STX>5<ACK>3<ETB><ETX>EUe<STX>!>R<STX><DC1>J&:.<STX>!<ACK>N<STX><HT><SYN><SYN>:<STX>Q"J>^:<STX><ENQ>R<STX>Q"<SYN>6<STX><GS>J<DC2><STX>MY]IAe<SOH>QIYIaY<SOH><NUL>
-POCSAG1200: Address: 1058636  Function: 2  Alpha:   16:03-38 26/11/2021 15:56:24 INC 24724489 
-POCSAG2400: Address: 1323174  Function: 2  Alpha:   16:03-41 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1323175  Function: 2  Alpha:   16:03-54 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1323176  Function: 2  Alpha:   16:03-63 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1323177  Function: 2  Alpha:   16:03-76 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1323253  Function: 2  Alpha:   16:03-41 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   16:03-92 PLEASE CALL BACK 07890 251 939 AT KINGS COLLEGE HOSPITAL
