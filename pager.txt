@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1323874  Function: 2  Alpha:   00:33-58`P<ENQ>DASE CALL LAS IDM ON 0207 783 2329
+POCSAG2400: Address:  136717  Function: 0  Alpha:   t4
+POCSAG2400: Address:  378916  Function: 1  Alpha:   I8
+POCSAG2400: Address:   75306  Function: 2 
+POCSAG2400: Address: 1814753  Function: 3 
+POCSAG1200: Address: 1998949  Function: 0 
+POCSAG2400: Address:  549209  Function: 2  Alpha:   00:31-70 Important information from TSB, <!doctype html><CR><LF><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><CR><LF><head><CR><LF><meta http-equiv="Content-Type" conten
 POCSAG1200: Address:  370704  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0028261121+++TIME=0028261121<NUL>
 POCSAG1200: Address: 1534186  Function: 2  Alpha:   00:25-75 (2/2) Domestic Persons Reported Map ref  453400,132843 <NUL>
@@ -991,10 +998,3 @@ POCSAG2400: Address: 1246813  Function: 3
 POCSAG1200: Address:   40081  Function: 2  Alpha:   20:11-96 25/11/2021 20:09:01 INC 24720796 31D03 28 BURSTEAD STREET, ABBEY HEY MANCHESTER, M18 8ST Male 63Y COPD - CANCER -HAS INFECTION - CANT WAKE HIM UP GRD 389490 397011<NUL><NUL>
 POCSAG2400: Address:  583411  Function: 2  Alpha:   20:10-87 80300
 POCSAG2400: Address: 1585253  Function: 1  Alpha:   WH
-POCSAG2400: Address:  583471  Function: 2  Alpha:   20:09-19 80300
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2008251121+++TIME=2008251121<NUL>
-POCSAG2400: Address:  225851  Function: 2  Alpha:   20:07-00 107205<NUL><NUL>
-POCSAG2400: Address: 1913933  Function: 2  Alpha:   20:07-66 4411<NUL>
-POCSAG1200: Address: 1409058  Function: 0  Alpha:   <FF><SO>l<FF>hl<CR>-Nl<CR>
-POCSAG1200: Address:  935397  Function: 0  Alpha:   <US>+%)Y@<LF><EM><EM><VT>'<ESC><VT>%<VT>A <US>%)A<ACK><DC1>mjX@<ACK><DC1>mj@r<BS>3A<SUB>CYKAdh2A<BS><DC3><ENQ>AZ@<SUB><ETX><ETB><DC3><GS><SI>A<DC4><EM><DC3>'<VT>'A<SO>%<HT>Afh`p`f@fnhrdn
-POCSAG1200: Address: 1306786  Function: 2  Alpha:   ,<FF>
