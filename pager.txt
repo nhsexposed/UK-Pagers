@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1966609  Function: 0 
+POCSAG2400: Address:  353753  Function: 0  Alpha:   KA
+POCSAG1200: Address: 2040566  Function: 0 
+POCSAG1200: Address: 1483645  Function: 0 
+POCSAG1200: Address:  837175  Function: 1 
+POCSAG1200: Address:  922293  Function: 1  Alpha:   <ETB><SUB>.t$<HT>-<EOT>
+POCSAG1200: Address: 1253556  Function: 0 
+POCSAG1200: Address: 1757515  Function: 0  Alpha:   PO
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0253261121+++TIME=0253261121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1741683  Function: 1 
@@ -990,11 +998,3 @@ POCSAG1200: Address:  721482  Function: 2
 POCSAG2400: Address:   28916  Function: 0  Alpha:   21:23-38 4399<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2123251121+++TIME=2123251121<NUL>
 POCSAG1200: Address:   40088  Function: 2  Alpha:   21:23-19 PLEASE CALL WARD 5A ON EXT: 72711
-POCSAG512: Address:  640251  Function: 2  Alpha:   21:22-860CCll or Calls waiting at Switchboard
-POCSAG1200: Address:  100482  Function: 3  Alpha:   h@F@<DLE>
-POCSAG1200: Address:  627547  Function: 0  Alpha:   jw
-POCSAG1200: Address: 1263194  Function: 2 
-POCSAG1200: Address:  557578  Function: 1  Alpha:   AR
-POCSAG1200: Address:  853473  Function: 2 
-POCSAG1200: Address:  301105  Function: 2 
-POCSAG1200: Address:  843056  Function: 1 
