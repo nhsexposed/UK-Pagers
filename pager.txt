@@ -1,3 +1,61 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>A
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG1200: Address:  618435  Function: 3  Alpha:   e<DC2>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:53-83 5203<NUL>
+POCSAG1200: Address: 1991290  Function: 0 
+POCSAG1200: Address: 1946422  Function: 2 
+POCSAG1200: Address:  733991  Function: 2  Alpha:   15:53-83 2014<NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   15:1#(70 Please call Hub Operations on 0117 975 7580 to confirm availability of NORS team over the weekend.<NUL>
+POCSAG2400: Address: 1913773  Function: 2  Alpha:   15:53-96 3158<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><FF>
+POCSAG1200: Address: 1189504  Function: 0 
+POCSAG1200: Address:  722222  Function: 2  Alpha:   <DC2><VT>
+POCSAG1200: Address: 1517605  Function: 1 
+POCSAG1200: Address:  760381  Function: 0 
+POCSAG1200: Address: 1345581  Function: 2 
+POCSAG1200: Address: 1258733  Function: 2  Alpha:   15:52-71 26/11/2021 15
+POCSAG1200: Address: 1565300  Function: 1 
+POCSAG1200: Address: 1322933  Function: 2  Alpha:   15:52-04 test jas
+POCSAG1200: Address:  756310  Function: 1  Alpha:   <BS>4
+POCSAG1200: Address:  630868  Function: 1 
+POCSAG1200: Address: 1647715  Function: 3 
+POCSAG1200: Address: 1815136  Function: 1  Alpha:   Fv
+POCSAG1200: Address:  437438  Function: 1  Alpha:   <SUB><CAN>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   15:52-38 26/11/2021 
+POCSAG2400: Address: 2007474  Function: 1 
+POCSAG2400: Address:  829048  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   15:50-77 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
+POCSAG2400: Address:   11671  Function: 0  Alpha:   15:51-02 3510<NUL>
+POCSAG2400: Address: 1324541  Function: 2  Alpha:   15:50-22 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
+POCSAG1200: Address:  791068  Function: 3  Alpha:   }8
+POCSAG1200: Address: 1120834  Function: 3 
+POCSAG1200: Address: 1686120  Function: 1  Alpha:   <ETX>"<EOT>,K
+POCSAG1200: Address:   39639  Function: 1  Alpha:   O%hhi
+POCSAG1200: Address: 1250871  Function: 2 
+POCSAG1200: Address:  413150  Function: 0 
+POCSAG1200: Address: 1837174  Function: 1 
+POCSAG1200: Address:  892453  Function: 2 
+POCSAG1200: Address: 1582261  Function: 3 
+POCSAG1200: Address:  852547  Function: 0  Alpha:   ooKin
+POCSAG1200: Address:  141843  Function: 2 
+POCSAG1200: Address: 1601578  Function: 1  Alpha:   <BS>O
+POCSAG1200: Address: 1692217  Function: 2 
+POCSAG1200: Address: 1507848  Function: 1  Alpha:   arkin
+POCSAG1200: Address:  784111  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1874102  Function: 2  Alpha:   <GS><FF>
+POCSAG1200: Address: 1120894  Function: 1 
+POCSAG1200: Address:  283397  Function: 1 
+POCSAG1200: Address: 1321700  Function: 2  Alpha:   15:4<DLE>
+POCSAG1200: Address:  295506  Function: 0 
+POCSAG2400: Address: 1324561  Function: 2  Alpha:   15:50-96 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
+POCSAG2400: Address: 2007928  Function: 1 
+POCSAG2400: Address: 1324544  Function: 2  Alpha:   15:50-78 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
+POCSAG2400: Address:  958545  Function: 0 
+POCSAG2400: Address:   33739  Function: 2  Alpha:   15:50-32 15:50-31 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
+POCSAG2400: Address:  149113  Function: 2  Alpha:   15:51-51 4155<NUL>
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   15:51-89 Call 24724459 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1511868  Function: 2  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:49-91 3117<NUL>
 POCSAG1200: Address: 2071136  Function: 0 
 POCSAG1200: Address: 1220696  Function: 0 
@@ -940,61 +998,3 @@ POCSAG1200: Address:  662453  Function: 1  Alpha:   <FF><EOT><SO>~=\\L<EOT>D~y,B
 POCSAG1200: Address: 2078565  Function: 1 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address: 1498610  Function: 0 
-POCSAG1200: Address: 1734593  Function: 3  Alpha:   {"
-POCSAG1200: Address: 2080664  Function: 3  Alpha:   <DC2>3{<LF><VT>{<DC2><ETX><DC3><VT><ETX><LF><ESC>S<DC3><ETX>S##<ETX>Jt<FS><EOT><DC2>#;<DC3><ESC>C<DC3>+<ETX><SUB><DC3>#<EOT><VT><ETX>2<ETX>:<CR><DC4>u4|<DC4>%<EOT><SUB>d|<FS>-d<STX>r,<%}t<EOT>B,<FF>$E<EOT>j<FF>t<FS>D,<FS>%-<DC4>e<STX>j$<ETX><ETX><LF><ETX>%<ENQ>j<FF>f.<ACK>"KK<ENQ><SUB>|t<FS>,<DC4>u<EOT>2|<DC4><ENQ>:-d4<FF><DC4>-<EOT>:<DC4>%<EOT><SUB>CC33+<ETX><SUB>KK;<DC3>J<BEL>
-POCSAG1200: Address:   80174  Function: 3  Alpha:   <EM>D<NUL>bL
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:22-08 26/11/2021 13:<DC2>0<44 INC 24723825 32D01 6 WARNFORD CLOSE, NEWTON HEATH MANCHESTER, M40 1PT Male 49Y CONCERN FOR WELFARE GRD 388665 399739
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  629287  Function: 0 
-POCSAG1200: Address: 2041958  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:21-64 4316<NUL>
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG1200: Address: 1107221  Function: 2  Alpha:   <LF>$<EM>(<BS>t(J<BS>4VVv<SYN><ACK><ACK>D&vF<DC2><DC1>
-POCSAG1200: Address:  549858  Function: 2  Alpha:   13:20-75 ~FOR INFO E11 STATION NEEDS CLEANED - E1101 & E1102 NOT AVAILABLE - E1105 PRIMARY CREWED.<NUL><NUL>
-POCSAG1200: Address:  923434  Function: 0  Alpha:   %-<DC4><ENQ>R<FF><DC4><EOT>:<DC4>%<EOT><SUB>++;<VT><ETX><ETX>"<DC3>;#KC
-POCSAG1200: Address: 1690256  Function: 3 
-POCSAG1200: Address: 1942388  Function: 0 
-POCSAG2400: Address: 1324549  Function: 2  Alpha:   13:19-57 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
-POCSAG2400: Address: 1324561  Function: 2  Alpha:   13:19-94 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
-POCSAG2400: Address: 1324544  Function: 2  Alpha:   13:19-74 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
-POCSAG2400: Address: 1324547  Function: 2  Alpha:   13:19-99 7158 Lympsham, Weston. RTC Pt Number not known. Anyone not able to assist please call in
-POCSAG1200: Address:  668155  Function: 1  Alpha:   X<EM>
-POCSAG1200: Address:  267788  Function: 2 
-POCSAG1200: Address:  298899  Function: 0 
-POCSAG1200: Address: 1233377  Function: 1  Alpha:   NA
-POCSAG1200: Address: 1312647  Function: 2  Alpha:   13:19-78 Proceed to: 040642-26112021 PUBLIC ASSE-F,ylFIRE  MOLEBRIDGE PRACTICE,154 KINGSTON ROAD,LEATHERHEAD,KT22 7PZ
-POCSAG1200: Address: 1511980  Function: 3  Alpha:   V<SO>
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:18-84 4387<NUL>
-POCSAG2400: Address:   28920  Function: 0  Alpha:   13:18-98 4553<NUL>
-POCSAG1200: Address: 1067597  Function: 2  Alpha:   13:18-07 01173421912
-POCSAG1200: Address:  108086  Function: 0  Alpha:   13:18-01 STROKE TEAM TO ED RESUS 8 <NUL><NUL>
-POCSAG1200: Address: 1029328  Function: 2 
-POCSAG2400: Address:   28920  Function: 0  Alpha:   13:18-97 4553<NUL>
-POCSAG1200: Address:   18873  Function: 2  Alpha:   13:17-51 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address: 1091834  Function: 2  Alpha:   13:17-84 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address:  200962  Function: 2  Alpha:   13:17-58 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address:  200815  Function: 2  Alpha:   13:17-06 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address: 1090722  Function: 2  Alpha:   13:17-06 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address:   18870  Function: 2  Alpha:   13:17-01 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address:  200967  Function: 2  Alpha:   13:17-78 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address: 1573842  Function: 2  Alpha:   13:17-55 PLS CONTACT SWITCHBOARD ON EXT 33491
-POCSAG1200: Address: 1032923  Function: 3  Alpha:   Fl
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  585393  Function: 2  Alpha:   13:16-85 (3/3) 3 1040*  INFORMING DUE TO OTB MOBILISATION
-POCSAG1200: Address:   45523  Function: 3  Alpha:   IeKggA@*!!<VT>%A.<VT>')<BEL><US>))A@@@@@@@@@<STX><GS><GS><VT>))'A<CAN><ETX><GS><VT>A<FS><US>%)<DC1>A<LF><ETX>')A<STX><GS><HT>A(<DC1><VT><GS><SOH><NUL>
-POCSAG2400: Address: 1323884  Function: 2  Alpha:   13:15-08 4269<NUL>
-POCSAG1200: Address: 1499762  Function: 0 
-POCSAG1200: Address:  858131  Function: 0 
-POCSAG1200: Address: 1337562  Function: 1  Alpha:   <DC2><ETX>
-POCSAG1200: Address:  109313  Function: 0  Alpha:   dl
-POCSAG1200: Address:  445624  Function: 0  Alpha:   XZ
-POCSAG1200: Address: 1716327  Function: 0  Alpha:   <ACK>4vg<DC2>
-POCSAG1200: Address: 1933992  Function: 1  Alpha:   nknow
-POCSAG2400: Address: 1323884  Function: 2  Alpha:   13:15-07 4153<NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   13:14-26 5400<NUL>
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   13:14-46 4771<NUL>
-POCSAG2400: Address: 1032067  Function: 3  Alpha:   EH
-POCSAG1200: Address: 2009787  Function: 0 
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   13:14-53 PAEDIATRIC CARDIAC ARREST TEAM TO PEAD CLINIC 3 OUTPATIENTS 7TH FLOOR @RLH<NUL><NUL>
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   Fl
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1313261121+++TIME=1313261121<NUL>
