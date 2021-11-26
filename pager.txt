@@ -1,3 +1,22 @@
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   13:39-86 2182<NUL>
+POCSAG1200: Address:  290120  Function: 3  Alpha:   <ACK><ETX>
+POCSAG1200: Address: 1511994  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:38-68 5090<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:38-25 2343<NUL>
+POCSAG2400: Address: 2011892  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:38-67 2804<NUL>
+POCSAG1200: Address:  901418  Function: 2  Alpha:   13:38-97 01642212273
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   A<EM>
+POCSAG2400: Address: 1461379  Function: 2  Alpha:   Z<ESC>H4y|8=<EM><BS>598<ESC>H0<RS>h0=[X<:<CAN><BS>t<ESC>;z8<EM><VT><BS>Oy[<ESC><GS>H9x8<EM>(<SI>h)X<:<CAN>{<HT>h<Z><EM>(<SI>hIlIo4s<DC4>h0<CAN><ESC>{;<GS><GS>(3y|<x9<EM>h4Y<ESC><GS><BS>u<ESC><BS>598<ESC>(<SI><BS>OXo5p<DC4>1<DLE>3<DC1><BS><NAK>s<FS>h0<CAN><ESC><ESC>h05<DC3>t<DC3><DC3>(<FF>,<FF>H4YY<VT>h<DLE>4K<FF>L,,,LL-<VT>,,L<FF>h0<DLE><DC3>3Q<DC4>H3r1<DC1><DC3>hu<DC3>S5<DC1><DC3><DC3><BS>5<DC1><DC3><BS>l-nMmmlm<CR><FF>m<VT>l<CR>Nmmllm,<CR>N<VT>hQ
+POCSAG2400: Address: 1913735  Function: 2  Alpha:   13:38-32 2290<NUL>
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   13:37-75 5343<NUL>
+POCSAG2400: Address:  295506  Function: 0 
+POCSAG1200: Address: 1783424  Function: 2  Alpha:   =2<DC2><STX><GS>2>NN>B2<SOH>M.FM<SOH>aE2<STX><EM><SYN>7<BEL>3<ETB><ETX>QY<SOH>EMR<STX>A<ACK>JRf<STX><CR><ACK>22<SYN>J<STX><CR>>A<STX><GS>J<DC2><STX>QAQEU]<SOH>MeQIEA<SOH>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   13:36-85 2616<NUL>
+POCSAG1200: Address: 1322068  Function: 2  Alpha:   13:35-00 3903<NUL>
+POCSAG1200: Address: 2023645  Function: 0 
+POCSAG1200: Address: 1321859  Function: 2  Alpha:   13:34-95 DSCC OWN CLIENT CASE PIN 9019 03457 500 620 <NUL>
 POCSAG2400: Address: 1913940  Function: 2  Alpha:   13:34-72 2616<NUL>
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   13:33-92 4167<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333261121+++TIME=1333261121<NUL>
@@ -979,22 +998,3 @@ POCSAG1200: Address:   18902  Function: 2  Alpha:   11:04-08 2935<NUL>
 POCSAG1200: Address: 1745890  Function: 0 
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
 POCSAG2400: Address:  583428  Function: 2  Alpha:   11:03-74 80300
-POCSAG2400: Address: 1913668  Function: 2  Alpha:   11:03-65 4273<NUL>
-POCSAG2400: Address: 1225576  Function: 0  Alpha:   <ACK><ETB>Wf<ENQ>4ZH<HT>t<HT>><SO>48h<ENQ>
-POCSAG2400: Address: 1619416  Function: 1 
-POCSAG2400: Address: 1324058  Function: 2  Alpha:   11:02-74 SEL 111 is in DMP Level 4 - For info only. 02082536951/07557565895. SEL Ops CC.
-POCSAG2400: Address: 1320361  Function: 2  Alpha:   11:02-68 3129<NUL>
-POCSAG1200: Address: 1046361  Function: 2 
-POCSAG1200: Address:  453649  Function: 3 
-POCSAG1200: Address: 1848160  Function: 2  Alpha:   <ACK><SUB>
-POCSAG1200: Address:   80886  Function: 3  Alpha:   t on c3<HT>
-POCSAG1200: Address:  216910  Function: 3 
-POCSAG1200: Address:  791805  Function: 2  Alpha:   ]<SO>
-POCSAG1200: Address: 1745534  Function: 0 
-POCSAG2400: Address: 1747066  Function: 0 
-POCSAG1200: Address:  270032  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  592478  Function: 0  Alpha:   <CAN>H
-POCSAG1200: Address: 1888566  Function: 2  Alpha:   <STX><ETX>
-POCSAG1200: Address:  144133  Function: 3 
-POCSAG1200: Address:  511388  Function: 1  Alpha:   yi
-POCSAG1200: Address: 1384540  Function: 0 
