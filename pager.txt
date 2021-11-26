@@ -1,3 +1,7 @@
+POCSAG2400: Address: 2073191  Function: 0 
+POCSAG1200: Address: 1777771  Function: 1 
+POCSAG1200: Address:  354635  Function: 1 
+POCSAG1200: Address:  159184  Function: 3 
 POCSAG1200: Address: 1039321  Function: 2  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1882866  Function: 0 
 POCSAG2400: Address: 1324624  Function: 2  Alpha:   22:45-86 PLEASE RING THE MAXWELL SUITE ON 894591
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1155668  Function: 3
 POCSAG1200: Address:  677163  Function: 3 
 POCSAG2400: Address:   28907  Function: 0  Alpha:   17:59-36 4311<NUL>
 POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
-POCSAG1200: Address: 1845108  Function: 2  Alpha:   17:57-80
-POCSAG1200: Address:  108097  Function: 0  Alpha:   17:57-69 please call x 4643<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1485412  Function: 2 
