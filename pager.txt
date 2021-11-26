@@ -1,3 +1,20 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:19-84 5090<NUL>
+POCSAG2400: Address:  106656  Function: 2  Alpha:   16:19-32 1<NUL>
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   <ACK>1
+POCSAG2400: Address:  688740  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:18-48 52pa<ENQ>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1618261121+++TIME=1618261121<NUL>
+POCSAG1200: Address:  230940  Function: 2  Alpha:   U2
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:18-06 5204<NUL>
+POCSAG1200: Address: 1485549  Function: 3  Alpha:   U<DC2>
+POCSAG1200: Address: 1868337  Function: 0 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   16:17-39 4314<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:17-47 5201<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><FF>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:   80161  Function: 3  Alpha:   D<EM>
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   16:16-10 5201<NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   F<EOT>
 POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
 POCSAG1200: Address: 1258904  Function: 2  Alpha:   16:13-31 2011<NUL>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>V1L
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1093303  Function: 2
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:48-63 5204<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   13:48-69 2161<NUL>
 POCSAG1200: Address:  618313  Function: 3  Alpha:   &P
-POCSAG2400: Address: 1321364  Function: 2  Alpha:   13:48-61 helen 35233 <NUL>
-POCSAG1200: Address:  549861  Function: 2  Alpha:   13:48-87 ~PL CONTACT RCC  - MICHELE<NUL><NUL>
-POCSAG2400: Address:  269530  Function: 2 
-POCSAG2400: Address:  990513  Function: 1 
-POCSAG2400: Address: 1512689  Function: 1 
-POCSAG2400: Address:  375640  Function: 0  Alpha:   lf
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   13zO%
-POCSAG2400: Address: 2024313  Function: 2 
-POCSAG1200: Address: 1302565  Function: 3 
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   13:46-38 4268<NUL>
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   13:46-52 please call Nazreen 07515 173719 Thanks
-POCSAG2400: Address: 1781765  Function: 1  Alpha:   B<EOT><VT>lL
-POCSAG1200: Address: 1039338  Function: 3  Alpha:   %<SO>
-POCSAG1200: Address:  129014  Function: 2 
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   13:44-94 2895<NUL>
-POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
-POCSAG2400: Address: 1913839  Function: 2  Alpha:   13:44-83 2233<NUL>
