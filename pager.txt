@@ -1,3 +1,39 @@
+POCSAG1200: Address:  183612  Function: 1  Alpha:   <CAN>X
+POCSAG1200: Address:  791203  Function: 1  Alpha:   ,<EOT><SUB><DC4>%
+POCSAG1200: Address:  721419  Function: 3 
+POCSAG1200: Address: 1461595  Function: 0 
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v&
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   18:54-60 26?1<DC1><NAK><EM><CAN>Y<CAN><DLE>O%(<FF>N
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   18:53-21 68771
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   18:53-34 68771
+POCSAG2400: Address: 1321029  Function: 2  Alpha:   18:53M<3#2111<NUL>
+POCSAG2400: Address:  353049  Function: 0  Alpha:   18:53-00 99
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1853261121+++TIME=1853261121<NUL>
+POCSAG1200: Address:  148112  Function: 2  Alpha:   b <LF>d$
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:53-07 26/11/2021 18:51:41 INC 24725247 06E01A 81 DELAMERE ROAD, HANDFORTH WILMSLOW SK9, SK9 3RB Female 62Y SHALLOW BREATHING GRD 386079 384055
+POCSAG2400: Address: 1668842  Function: 0 
+POCSAG2400: Address:  746977  Function: 1  Alpha:   , 
+POCSAG2400: Address:   76808  Function: 1 
+POCSAG2400: Address:   28927  Function: 0  Alpha:   18:52-30 2186<NUL>
+POCSAG2400: Address: 1190645  Function: 0 
+POCSAG2400: Address:   28869  Function: 0  Alpha:   18:52-85 PLEASE CALL BACK EXT 27552<NUL><NUL>
+POCSAG1200: Address: 1733216  Function: 3 
+POCSAG1200: Address:  977933  Function: 0  Alpha:   #)<STX>PY<FS>Z<SUB><CAN><ESC>P},B
+POCSAG1200: Address:  707636  Function: 1  Alpha:   ]<FF>
+POCSAG1200: Address: 1032930  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   18:51-82 4114<NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   18:51-12 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host mansdpmovo01mc1, <CR><LF>PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host mansdpmovo01mc1<CR><LF>Service: Opsview - Data Warehouse Status<CR><LF>Host: mansdpmovo01mc1<CR><LF>Alias: <CR><LF>Address:<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:51-06 26/11/2021 18:35:51 INC 24725178 31E01 EAST DIDSBURY METROLINK STATION,*KMNGSWAY, BURNAGE MANCHESTER, M19 1TB Male 28Y PASSED OUT ON THE TRAM GRD 385629 390581
+POCSAG2400: Address: 1206481  Function: 0 
+POCSAG1200: Address: 1068129  Function: 3 
+POCSAG1200: Address:  852544  Function: 0  Alpha:   OC
+POCSAG2400: Address: 1319802  Function: 2  Alpha:   18:50-86 please call 5995
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   18:50-64 26/11/2021 18:48:28 INC 24725228 10D04 162 WARLEY ROAD, BLACKPOOL, FY1 2RP Male 52Y CHEST PAIN GRD 331388 437783<NUL>
+POCSAG1200: Address: 1257589  Function: 0 
+POCSAG1200: Address: 1263407  Function: 0 
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   18:50-92 26/11/2021 18:48:28 INC 24725228 10D04 162 WARLEY ROAD, BLACKPOOL, FY1 2RP Male 52Y CHEST PAIN GRD 331388 437783<NUL>
 POCSAG1200: Address:  340006  Function: 0  Alpha:   18:49-13 PLS CALL NORMAN ON 01685 901 326 RE LOCKED OUT OF THE COMPUTER
 POCSAG1200: Address:  108097  Function: 0  Alpha:   18:49-71 Please call 1002
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1848261121+++TIME=1848261121<NUL>
@@ -962,39 +998,3 @@ POCSAG2400: Address: 1324552  Function: 2  Alpha:   15:56-86 INC ALERT No: 16827
 POCSAG2400: Address:   33739  Function: 2  Alpha:   15:56-33 INC ALERT No: 16827700 Traffic/Transportation Accidents - CAR ACCIDENT, PULLED OUT AND HIT THE CAR, AT: ON THE JUNCTION, FIELD AT SX732592, WONTON CROSS TO SHORTER CROSS ALONG ZC794, WONTON SOUTH BRENT, TQ9 7LS, Time of Call: 26/1
 POCSAG2400: Address: 1142476  Function: 3 
 POCSAG2400: Address: 1420123  Function: 0  Alpha:   f`
-POCSAG2400: Address:   57810  Function: 0  Alpha:   X<SUB>
-POCSAG2400: Address:  889633  Function: 3  Alpha:   f<NUL>
-POCSAG2400: Address: 1314983  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1465391  Function: 1 
-POCSAG2400: Address:  341837  Function: 2  Alpha:   py<DC2>Pq066
-POCSAG2400: Address:  977220  Function: 1 
-POCSAG2400: Address: 1858868  Function: 2 
-POCSAG2400: Address: 2078561  Function: 1 
-POCSAG2400: Address: 1236400  Function: 1  Alpha:   _e[at
-POCSAG2400: Address: 1265455  Function: 2  Alpha:   22pg<DC2>
-POCSAG2400: Address:  335550  Function: 2 
-POCSAG2400: Address:  773892  Function: 3 
-POCSAG2400: Address:  140123  Function: 3 
-POCSAG2400: Address: 2005034  Function: 3  Alpha:   <HT>>
-POCSAG2400: Address: 1464674  Function: 3 
-POCSAG2400: Address: 1420121  Function: 0  Alpha:   hb
-POCSAG2400: Address: 1697169  Function: 3  Alpha:   KA
-POCSAG2400: Address:   82688  Function: 3 
-POCSAG2400: Address:  751560  Function: 3 
-POCSAG2400: Address:  433311  Function: 2  Alpha:   O%
-POCSAG2400: Address: 2005036  Function: 3  Alpha:   <HT>>
-POCSAG2400: Address: 1464676  Function: 3 
-POCSAG2400: Address: 1420123  Function: 0  Alpha:   fl
-POCSAG2400: Address: 1098890  Function: 0  Alpha:   X<SUB>
-POCSAG2400: Address:  549438  Function: 2  Alpha:   15:55-56 Site Ops Duty Manager has queried information he has received regarding a site evac due to adverse weather.<LF>Please call SCR (01278 48)6223<NUL>
-POCSAG2400: Address: 1913695  Function: 2  Alpha:   15:55-89 3111<NUL>
-POCSAG1200: Address: 2073205  Function: 0 
-POCSAG1200: Address: 1245707  Function: 2 
-POCSAG1200: Address: 1453115  Function: 1 
-POCSAG1200: Address:  874711  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1315231  Function: 2 
-POCSAG1200: Address: 1356918  Function: 0  Alpha:   <SO>>
-POCSAG1200: Address: 1889701  Function: 1  Alpha:   , 
-POCSAG1200: Address:   92996  Function: 3 
-POCSAG1200: Address: 1807380  Function: 2 
-POCSAG1200: Address:  338971  Function: 0 
