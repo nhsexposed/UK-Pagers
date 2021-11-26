@@ -1,3 +1,13 @@
+POCSAG2400: Address: 2014839  Function: 3 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   05:04-04 Alarm alarm.DatastoreDiskUsageAlarm on Datastore : MANGIT-DATA-01-NIM02 is Red, Target: MANGIT-DATA-01-NIM02 <LF>Previous Status: Yellow <LF>New Status: Red <LF> <LF>Alarm Definition: <LF>([Yellow metric Is above 85%; Red metric Is above 95%]) <LF> <LF>Current <NUL><NUL>
+POCSAG1200: Address: 2074224  Function: 2 
+POCSAG1200: Address: 1330703  Function: 2 
+POCSAG1200: Address: 1330703  Function: 2 
+POCSAG1200: Address: 1330701  Function: 2 
+POCSAG1200: Address:  314893  Function: 2 
+POCSAG1200: Address: 1330700  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   04:59-24 4187<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0458261121+++TIME=0458261121<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  812844  Function: 0 
@@ -988,13 +998,3 @@ POCSAG2400: Address: 1814968  Function: 0  Alpha:   22:03-55 4375<NUL>
 POCSAG1200: Address:  908288  Function: 0 
 POCSAG1200: Address: 1631648  Function: 2 
 POCSAG1200: Address: 1053399  Function: 0  Alpha:   A<LF>1)u@fbnpr
-POCSAG1200: Address: 2091647  Function: 0 
-POCSAG1200: Address: 1032677  Function: 3  Alpha:   <DC2>CH2L
-POCSAG2400: Address: 1324545  Function: 2  Alpha:   22:02-13 INC ALERT No: 16824947 UN
-POCSAG1200: Address: 1401224  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2158251121+++TIME=2158251121<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:58-57 CCU B ext: 39138
-POCSAG2400: Address:   28905  Function: 0  Alpha:   21:58-31 <NUL><NUL>
-POCSAG1200: Address:  328456  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  975474  Function: 0 
