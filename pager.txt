@@ -1,3 +1,42 @@
+POCSAG1200: Address:  108086  Function: 0  Alpha:   10:33-00 STROKE TEAM TO A&E RESUS 
+POCSAG2400: Address:  584088  Function: 2  Alpha:   10:33-84 80300
+POCSAG2400: Address: 1254794  Function: 0 
+POCSAG2400: Address:  583528  Function: 2  Alpha:   10:32-03 80300
+POCSAG1200: Address: 1764144  Function: 0 
+POCSAG1200: Address: 2094240  Function: 3  Alpha:   <FS><DLE><SUB>Y\<ESC><SUB><EM>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  230940  Function: 2  Alpha:   EP
+POCSAG1200: Address:  573702  Function: 3 
+POCSAG1200: Address:  918846  Function: 0 
+POCSAG1200: Address:  296205  Function: 1 
+POCSAG1200: Address: 1261748  Function: 0 
+POCSAG1200: Address: 1124874  Function: 1  Alpha:   )*ib"
+POCSAG1200: Address: 1280128  Function: 2  Alpha:   d<CAN>
+POCSAG2400: Address: 1008366  Function: 2  Alpha:   10:32-77 76570
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>V1L
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v&6<ACK>6
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address: 1671978  Function: 3  Alpha:   db
+POCSAG1200: Address: 1770631  Function: 2  Alpha:   10
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   10:31-11 33540
+POCSAG2400: Address:  216734  Function: 2  Alpha:   10:31-92 INC ALERT No: 16826573 Inaccesible Inc/Entrapment No 
+POCSAG1200: Address:  553985  Function: 0 
+POCSAG2400: Address:  584088  Function: 2  Alpha:   10:30-83 80300
+POCSAG2400: Address: 1265332  Function: 3 
+POCSAG2400: Address:  396475  Function: 2 
+POCSAG2400: Address: 1260079  Function: 2 
+POCSAG2400: Address:  667745  Function: 3 
+POCSAG2400: Address: 1261174  Function: 3  Alpha:   <SYN>2
+POCSAG2400: Address:  382540  Function: 3  Alpha:   p<DC2>X5rx<DC2>h
+POCSAG2400: Address: 1354148  Function: 2 
+POCSAG2400: Address:  621778  Function: 2 
+POCSAG2400: Address: 1364008  Function: 2 
+POCSAG2400: Address: 1023784  Function: 2 
+POCSAG2400: Address:   72094  Function: 0  Alpha:   IN
+POCSAG2400: Address:  643909  Function: 3 
+POCSAG2400: Address:  772884  Function: 3  Alpha:   <BS>$
+POCSAG2400: Address:  772075  Function: 0 
+POCSAG2400: Address:  445850  Function: 2 
 POCSAG1200: Address:  219383  Function: 0 
 POCSAG1200: Address:  619125  Function: 0 
 POCSAG1200: Address: 1039242  Function: 0 
@@ -959,42 +998,3 @@ POCSAG2400: Address: 1107393  Function: 2  Alpha:   <SYN>a
 POCSAG2400: Address: 1749862  Function: 0  Alpha:   )M<FS>r-
 POCSAG2400: Address:  293092  Function: 0 
 POCSAG2400: Address:  947156  Function: 1 
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   08:48-64 NHSBT - DONOR REFERRAL<ACK>X@<BS>\K
-POCSAG2400: Address:  786461  Function: 0 
-POCSAG2400: Address:  833523  Function: 3 
-POCSAG2400: Address: 1839414  Function: 0  Alpha:   m=<RS><SO>TEll+.nK<CR>V
-POCSAG2400: Address: 1733344  Function: 3 
-POCSAG2400: Address: 1735913  Function: 3 
-POCSAG2400: Address:  950449  Function: 1 
-POCSAG2400: Address: 1508470  Function: 1  Alpha:   aJ
-POCSAG2400: Address:  469029  Function: 1  Alpha:   X<FF>
-POCSAG2400: Address: 1842742  Function: 1 
-POCSAG2400: Address:  111141  Function: 2  Alpha:   ru<DC4>y}
-POCSAG2400: Address:  501446  Function: 0 
-POCSAG2400: Address: 2057616  Function: 3 
-POCSAG2400: Address: 1014729  Function: 3 
-POCSAG2400: Address: 1915059  Function: 2  Alpha:   <CAN><CR>
-POCSAG2400: Address:   62062  Function: 0 
-POCSAG2400: Address:  960930  Function: 3 
-POCSAG2400: Address:  817079  Function: 3 
-POCSAG2400: Address:  271961  Function: 2  Alpha:   I<ESC>
-POCSAG2400: Address:  305634  Function: 1  Alpha:   <ENQ>dKi<HT>aS<DC4>H4Q1QT4<DLE>S<VT><BS><DC4>;9x<<EM>h8<CAN><ESC><ESC>h4r<DC4>5Q<DC4>hQ4p0<DC1>h[<ESC><BS>1Z<y<NUL>8:
-POCSAG2400: Address:  564655  Function: 1 
-POCSAG2400: Address:  241011  Function: 3  Alpha:   l`
-POCSAG2400: Address:  470886  Function: 1 
-POCSAG2400: Address:    4368  Function: 2  Alpha:   !)
-POCSAG2400: Address: 1293367  Function: 1  Alpha:   0EY~]
-POCSAG2400: Address:  354668  Function: 0  Alpha:   Y<ETB>
-POCSAG2400: Address: 1839414  Function: 0  Alpha:   <RS>o
-POCSAG2400: Address: 1733344  Function: 3 
-POCSAG2400: Address: 1735913  Function: 3 
-POCSAG2400: Address:  950449  Function: 1 
-POCSAG2400: Address: 1508470  Function: 1  Alpha:   aJ
-POCSAG2400: Address:  469029  Function: 1  Alpha:   X<FF>
-POCSAG2400: Address: 1913841  Function: 2  Alpha:   08:48-65 2182<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   08:48-18 4167<NUL>
-POCSAG2400: Address: 1323175  Function: 2  Alpha:   08:48-49 NHSBT - DONOR REFERRAL. Please call SISTER GRACE on Direct Dial Number 01223 217494 Hospital ADDENBROOKES Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323176  Function: 2  Alpha:   08:48-58 NHSBT - DONOR REFERRAL. Please call SISTER GRACE on Direct Dial Number 01223 217494 Hospital ADDENBROOKES Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323177  Function: 2  Alpha:   08:48-71 NHSBT - DONOR REFERRAL. Please call SISTER GRACE on Direct Dial Number 01223 217494 Hospital ADDENBROOKES Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323253  Function: 2  Alpha:   08:48-29 NHSBT - DONOR REFERRAL. Please call SISTER GRACE on Direct Dial Number 01223 217494 Hospital ADDENBROOKES Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323192  Function: 2  Alpha:   08:48-55 NHSBT - DONOR REFERRAL. Please call SISTER GRACE on Direct Dial Number 01223 217494 Hospital ADDENBROOKES Dept ICU . Regards Donor Referral Line<NUL>
