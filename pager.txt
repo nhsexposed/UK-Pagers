@@ -1,3 +1,32 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0528261121+++TIME=0528261121<NUL>
+POCSAG1200: Address: 2077425  Function: 0 
+POCSAG1200: Address:  557773  Function: 3 
+POCSAG1200: Address:  189077  Function: 2 
+POCSAG1200: Address: 1238924  Function: 0 
+POCSAG1200: Address:  469084  Function: 1 
+POCSAG1200: Address: 1060403  Function: 1 
+POCSAG1200: Address: 1522763  Function: 2 
+POCSAG1200: Address: 1233282  Function: 0  Alpha:   TH
+POCSAG1200: Address:  853121  Function: 2 
+POCSAG1200: Address:  738505  Function: 3 
+POCSAG1200: Address:  758599  Function: 0 
+POCSAG2400: Address: 1652812  Function: 0  Alpha:   >J&<ACK><STX>
+POCSAG2400: Address: 1443225  Function: 1 
+POCSAG2400: Address: 1476644  Function: 2  Alpha:   <SUB>9
+POCSAG2400: Address:  873660  Function: 1 
+POCSAG2400: Address:  183121  Function: 1  Alpha:   "<DLE>I'b
+POCSAG2400: Address:  156872  Function: 0 
+POCSAG2400: Address:  267800  Function: 0 
+POCSAG2400: Address:  793783  Function: 3  Alpha:   g<DC2>
+POCSAG2400: Address: 1942278  Function: 3  Alpha:    <EM>
+POCSAG2400: Address: 1099605  Function: 1 
+POCSAG2400: Address:  793780  Function: 3 
+POCSAG2400: Address: 1099634  Function: 2 
+POCSAG2400: Address: 1578595  Function: 2 
+POCSAG2400: Address: 1107666  Function: 3 
+POCSAG2400: Address:  107361  Function: 3  Alpha:   `h
+POCSAG2400: Address: 1323483  Function: 2  Alpha:   05
+POCSAG2400: Address: 1323486  Function: 2  Alpha:   05:25-32 PLEASE CALL SUE RODGERS STAFF NURSE VICTORIA HOSPITAL 01304p<CAN>64 320<NUL>
 POCSAG1200: Address: 1566376  Function: 3 
 POCSAG2400: Address: 1717347  Function: 2 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -969,32 +998,3 @@ POCSAG1200: Address:  560275  Function: 2
 POCSAG1200: Address:   78241  Function: 3  Alpha:   male 81Y
 POCSAG1200: Address:  153616  Function: 1  Alpha:   ,1
 POCSAG1200: Address: 1255000  Function: 3 
-POCSAG1200: Address: 1812085  Function: 1 
-POCSAG1200: Address:  209785  Function: 2  Alpha:   22:45-46 25/11/2021 22:44:17 INC 24721367 06E01 71 CHAPEL ST
-POCSAG1200: Address:  866357  Function: 3 
-POCSAG1200: Address: 1577317  Function: 3 
-POCSAG1200: Address:  349642  Function: 1 
-POCSAG1200: Address:  666777  Function: 2  Alpha:   l,
-POCSAG1200: Address: 1584488  Function: 0 
-POCSAG1200: Address: 1317166  Function: 0 
-POCSAG1200: Address: 1477470  Function: 1 
-POCSAG1200: Address:  532653  Function: 0 
-POCSAG1200: Address: 1324109  Function: 1 
-POCSAG1200: Address:  421531  Function: 1 
-POCSAG1200: Address: 1316250  Function: 0 
-POCSAG1200: Address: 1467570  Function: 2 
-POCSAG1200: Address: 1356161  Function: 0 
-POCSAG1200: Address: 1261734  Function: 1 
-POCSAG1200: Address:  557645  Function: 0  Alpha:   OA
-POCSAG1200: Address: 1205388  Function: 0  Alpha:   qS
-POCSAG1200: Address:  757083  Function: 0 
-POCSAG1200: Address: 1207331  Function: 1 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   22:45-87 MSG02-RD 331780 382196
-POCSAG1200: Address:  363869  Function: 2  Alpha:   22:45-92 MSG02-RD 33<NAK>5:0 382196
-POCSAG1200: Address: 1976402  Function: 0 
-POCSAG1200: Address: 1251953  Function: 1  Alpha:   <SO>f><ACK>*
-POCSAG1200: Address: 1671440  Function: 3  Alpha:   <DC4>3
-POCSAG1200: Address:  140726  Function: 1  Alpha:   <FF><VT>X<DLE>RuY<EOT>
-POCSAG1200: Address:  313390  Function: 0 
-POCSAG1200: Address:  677045  Function: 3 
-POCSAG1200: Address: 1647737  Function: 2 
