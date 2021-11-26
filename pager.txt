@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   06:44-37 4374<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   06:42-19 4374<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   06:41-30 2561<NUL>
+POCSAG1200: Address:  713785  Function: 1 
+POCSAG1200: Address: 1516116  Function: 0 
+POCSAG1200: Address: 1924924  Function: 2  Alpha:   06:41-81 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
+POCSAG1200: Address:   18873  Function: 2  Alpha:   06:41-49 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
+POCSAG1200: Address:  200810  Function: 2  Alpha:   06:41-92 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
+POCSAG1200: Address:  200967  Function: 2  Alpha:   06:41-76 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
+POCSAG1200: Address:  200832  Function: 2  Alpha:   06:41-97 PLEASE CALL JR SWITCHBOARD<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   06:39-88 261<DC4> 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0638261121+++TIME=06382
 POCSAG2400: Address: 1022648  Function: 0  Alpha:   06:38-23 PRIMARY PCI
@@ -987,14 +998,3 @@ POCSAG1200: Address:  854042  Function: 1
 POCSAG1200: Address: 1122337  Function: 3 
 POCSAG1200: Address:  173905  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  677642  Function: 1 
-POCSAG1200: Address:  280610  Function: 2 
-POCSAG1200: Address: 2045200  Function: 1 
-POCSAG1200: Address:  713339  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:26-11 3507<NUL>
-POCSAG1200: Address: 1814565  Function: 1  Alpha:   Vj
-POCSAG1200: Address: 1059628  Function: 0 
-POCSAG1200: Address:  905987  Function: 2 
-POCSAG1200: Address: 1292042  Function: 2 
-POCSAG1200: Address:  569881  Function: 0  Alpha:   <BS>d
-POCSAG1200: Address:  840129  Function: 1 
