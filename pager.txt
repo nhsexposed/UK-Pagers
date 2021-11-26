@@ -1,3 +1,47 @@
+POCSAG1200: Address: 1013917  Function: 2  Alpha:   18:34-18 PL
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1200829  Function: 1 
+POCSAG1200: Address: 1258564  Function: 0 
+POCSAG1200: Address:   79267  Function: 1  Alpha:   HI
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1833261121+++TIME=1833261121<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   18:33-28 33943
+POCSAG1200: Address:  499830  Function: 0 
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>C<DC4><SOH>L
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   18:32-32 5070<NUL>
+POCSAG1200: Address:  358291  Function: 2  Alpha:   18:32-00 636595<NUL><NUL>
+POCSAG1200: Address:  436100  Function: 2  Alpha:   18:32-95 636595<NUL><NUL>
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   6<DC2>@aL
+POCSAG1200: Address:   16050  Function: 2  Alpha:   18:32-97 636595<NUL><NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   18:32-53 2427<NUL>
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX>p
+POCSAG2400: Address:  531577  Function: 1 
+POCSAG2400: Address:  562952  Function: 2  Alpha:   Nl
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:31-96 5070<NUL>
+POCSAG2400: Address: 1233154  Function: 3 
+POCSAG2400: Address: 1324551  Function: 2  Alpha:   18:30-09 INC ALERT No: 16828218 Falls - CLEARED LINE, AT: O/S, JACK WILLS, 22 FORE STREET, SALCOMBE, TQ8 8ET, Time of Call: 26/11/2021 18:27:11, Co-ords: 50.2376093 -3.7672394<NUL><NUL>
+POCSAG1200: Address:  600772  Function: 2  Alpha:   pNT<BS>7N1f
+POCSAG2400: Address:   28869  Function: 0  Alpha:   18:30-83 PLS CALL EXT 28773 MASON HOSPITAL A&E - PSYCH LIASION, CRISIS TEAM <NUL>
+POCSAG1200: Address: 1483185  Function: 2  Alpha:   18:29-32 26/11/2021 18:26:40 INC 24725127 17D04G 17 BOLTON ROAD, ABBEY VILLAGE CHORLEY, PR6 8DP Female 76Y FALLEN GRD 364103 422661
+POCSAG1200: Address: 1280135  Function: 2  Alpha:   d<CAN>ag<DC2>
+POCSAG1200: Address:  197198  Function: 3 
+POCSAG1200: Address: 1477726  Function: 0 
+POCSAG1200: Address:  266853  Function: 1  Alpha:   v&
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address:  624427  Function: 2  Alpha:   br
+POCSAG1200: Address:  175362  Function: 0 
+POCSAG1200: Address:  792784  Function: 1 
+POCSAG1200: Address:  266640  Function: 2 
+POCSAG1200: Address: 2025800  Function: 0 
+POCSAG1200: Address:  611127  Function: 3 
+POCSAG1200: Address: 1233318  Function: 0  Alpha:   T, BO
+POCSAG1200: Address:  182869  Function: 2 
+POCSAG1200: Address: 1318196  Function: 2 
+POCSAG1200: Address: 1280131  Function: 2  Alpha:   d<CAN>
+POCSAG2400: Address: 1324620  Function: 2  Alpha:   18:29-84 PLEASE CALL PRORY WARD 894534<NUL>
+POCSAG2400: Address: 1324622  Function: 2  Alpha:   18:29-84 PLEASE CALL PRORY WARD 894534<NUL>
+POCSAG2400: Address: 1324624  Function: 2  Alpha:   18:29-85 PLEASE CALL PRORY WARD 894534<NUL>
+POCSAG2400: Address: 1324625  Function: 2  Alpha:   18:29-86 PLEASE CALL PRORY WARD 894534<NUL>
+POCSAG2400: Address: 1324613  Function: 2  Alpha:   18:29-85 PLEASE CALL PRORY WARD 894534<NUL>
 POCSAG1200: Address: 2024123  Function: 0 
 POCSAG1200: Address: 1478046  Function: 0  Alpha:   <ESC><DLE>
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   18:29-24 26/<BS><DC1>/2021 18:28:02 INC 2472
@@ -954,47 +998,3 @@ POCSAG1200: Address: 1321700  Function: 2  Alpha:   15:4<DLE>
 POCSAG1200: Address:  295506  Function: 0 
 POCSAG2400: Address: 1324561  Function: 2  Alpha:   15:50-96 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
 POCSAG2400: Address: 2007928  Function: 1 
-POCSAG2400: Address: 1324544  Function: 2  Alpha:   15:50-78 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
-POCSAG2400: Address:  958545  Function: 0 
-POCSAG2400: Address:   33739  Function: 2  Alpha:   15:50-32 15:50-31 7684 RTC A303. CARRIAGEWAY. PERSON HIT. ANYONE ABLE TO ASSIST PLEASE CALL IN
-POCSAG2400: Address:  149113  Function: 2  Alpha:   15:51-51 4155<NUL>
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   15:51-89 Call 24724459 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1511868  Function: 2  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:49-91 3117<NUL>
-POCSAG1200: Address: 2071136  Function: 0 
-POCSAG1200: Address: 1220696  Function: 0 
-POCSAG1200: Address: 2075253  Function: 2 
-POCSAG1200: Address:  548183  Function: 2  Alpha:   15:48-58 PLEASE RING FIRE CONTROL<NUL>
-POCSAG1200: Address:  585538  Function: 2  Alpha:   15:48-06 709<NUL><NUL>
-POCSAG2400: Address: 1966714  Function: 0 
-POCSAG2400: Address: 2075219  Function: 2 
-POCSAG2400: Address: 1913768  Function: 2  Alpha:   15:46-02 5550<NUL>
-POCSAG1200: Address:  282218  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/0$<BEL><EM><CAN><CAN><EM>P
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:46-90 5013<NUL>
-POCSAG2400: Address: 1586541  Function: 2 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:45-37 4316<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   15:44-46 2186<NUL>
-POCSAG2400: Address: 1321022  Function: 2  Alpha:   15:44-22 2445<NUL>
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   15:44-26 68177
-POCSAG1200: Address: 1292040  Function: 2 
-POCSAG1200: Address: 1462955  Function: 0 
-POCSAG1200: Address:  674708  Function: 0 
-POCSAG1200: Address: 1358441  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1543261121+++TIME=1543261121<NUL>
-POCSAG1200: Address:  136416  Function: 1 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   9(%cL
-POCSAG1200: Address:   76678  Function: 3 
-POCSAG1200: Address: 1364005  Function: 3 
-POCSAG1200: Address: 1217811  Function: 1  Alpha:   UR STBEE
-POCSAG1200: Address:  857889  Function: 2 
-POCSAG1200: Address: 1253553  Function: 1 
-POCSAG1200: Address: 1174031  Function: 0  Alpha:   O%(3<DC1>!r0
-POCSAG1200: Address:  317007  Function: 2 
-POCSAG1200: Address:  314646  Function: 0 
-POCSAG1200: Address: 2007789  Function: 0 
-POCSAG2400: Address:   28869  Function: 0  Alpha:   15:42-78 PLS CALL EXT 41019 - REQUEST INPATIENT REVIEW -<NUL>
-POCSAG2400: Address: 1913954  Function: 2  Alpha:   15:42-12 2445<NUL>
-POCSAG1200: Address:  108034  Function: 0  Alpha:   15:41-90 26/11/2021 15:18:48 W5SteamSysMajAlm Status : Steam System Major Alarm
-POCSAG2400: Address: 1606198  Function: 0 
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:40-99 2581<NUL>
