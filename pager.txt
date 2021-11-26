@@ -1,3 +1,19 @@
+POCSAG1200: Address:  108014  Function: 0  Alpha:   14:53-07 TEST CALL<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   14:53-20 33945
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1453261121+++TIME=1453261121<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:53-40 4265<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:53-73 4316<NUL>
+POCSAG1200: Address:  191121  Function: 2 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   14:53-23 26/11/2021 14:51:53 INC 24724223 06E01 27 QUARRY COURT, WIDNES WA8, WA8 7XL Female 63Y OXYGEN 73% BP 102/60 PULSE 104 TEMP 35.5 RESPS 26 GRD 349135 386315<NUL><NUL>
+POCSAG2400: Address: 1008256  Function: 2  Alpha:   14:52-47 6053<NUL>
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   14:52-10 4264<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:52-97 5073<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:52-96 5002<NUL>
+POCSAG2400: Address:  549936  Function: 2  Alpha:   14:52-79 test for Joe<NUL>
+POCSAG1200: Address: 1022758  Function: 2  Alpha:   <SOH>D\BL
+POCSAG1200: Address: 1092709  Function: 2  Alpha:   14:51-32 26/11/2021 14:49:29 INC 24724211 06D02 39 ANDERTON ROAD, EUXTON, PR7 6JA Male 64Y COVID POSITIVE DIB AND DIAREAROE GRD 355583 418283<NUL>
+POCSAG2400: Address:  521001  Function: 3 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   !<DC4><BS>49-02 26/11/2021 14:48:14 INC 24724207 31D04 6 ST MARYS CLOSE, TURF HILL ROCHDALE, OL16 4XT Female 45Y PASSED OUT - HIT HEAD GRD 390870 411952
 POCSAG2400: Address: 2089573  Function: 0 
 POCSAG1200: Address: 1511985  Function: 3  Alpha:   <ACK>1f`L
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><SOH>
@@ -982,19 +998,3 @@ POCSAG1200: Address:  267858  Function: 1  Alpha:   <LF><EOT>
 POCSAG1200: Address: 1227857  Function: 0  Alpha:   >Z
 POCSAG1200: Address:   40144  Function: 2 
 POCSAG1200: Address:   91692  Function: 3 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   12:19-41 5202<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><ETX>Y(L
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   V2
-POCSAG1200: Address: 2007167  Function: 0 
-POCSAG1200: Address: 1568373  Function: 0 
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   12:19-80 26/11/2021 12:18:00 INC 24723524 23B01V 13A PATEGILL ROAD, PENRITH, CA11 8LN Male 60Y TAKEN 15 PARACETAMOL GRD 352245 529789<NUL>
-POCSAG1200: Address: 1349438  Function: 1 
-POCSAG1200: Address: 1761352  Function: 0  Alpha:   L<ENQ>
-POCSAG1200: Address:   82383  Function: 2  Alpha:   sig3<HT>*w2
-POCSAG1200: Address: 1194884  Function: 1 
-POCSAG1200: Address:  697731  Function: 1  Alpha:   PP
-POCSAG2400: Address:  580427  Function: 0  Alpha:   ect Dial Number 02088692489 Hospital Northwick Park Hospital, Harrow Dept CC . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address: 1321642  Function: 2  Alpha:   12:19-56 Destination: Parking\D78 Ext TP, 
-POCSAG2400: Address:  327982  Function: 0 
-POCSAG2400: Address:  178968  Function: 1 
-POCSAG2400: Address: 1812303  Function: 3 
