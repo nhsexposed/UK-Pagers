@@ -1,3 +1,5 @@
+POCSAG1200: Address: 1322098  Function: 2  Alpha:   12:01-80 111<NUL><NUL>
+POCSAG2400: Address: 1976275  Function: 0 
 POCSAG1200: Address: 1810801  Function: 0 
 POCSAG1200: Address: 2007786  Function: 0 
 POCSAG1200: Address:  801514  Function: 1 
@@ -996,5 +998,3 @@ POCSAG1200: Address:  982968  Function: 3  Alpha:   &8YH6
 POCSAG512: Address: 1188472  Function: 2 
 POCSAG2400: Address:  583842  Function: 2  Alpha:   20:04-10 80300
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003261121+++TIME=2003261121<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2003261121+++TIME=2003261121<NUL>
-POCSAG2400: Address: 1323945  Function: 2  Alpha:   20:03-70 CSEP call mate : now: SR<NUL>
