@@ -1,3 +1,5 @@
+POCSAG1200: Address:  721419  Function: 3 
+POCSAG1200: Address:  995712  Function: 2  Alpha:   <STX>MaMQQE<SOH>MeeQeY
 POCSAG1200: Address: 2093793  Function: 0 
 POCSAG1200: Address:  924988  Function: 1  Alpha:   <ESC><EM>
 POCSAG1200: Address:  760355  Function: 1 
@@ -996,5 +998,3 @@ POCSAG1200: Address: 1747520  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1838261121+++TIME=1838261121<NUL>
 POCSAG1200: Address:  906480  Function: 3  Alpha:   <HT>"<STX>"<SYN>b<FF>f
 POCSAG1200: Address:  108097  Function: 0  Alpha:   18:37-70 please call ext 3611<NUL><NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <HT>"<STX>25
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:37-32 2429<NUL>
