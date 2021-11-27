@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1716821  Function: 0 
+POCSAG1200: Address: 1022689  Function: 0 
+POCSAG1200: Address: 2093808  Function: 0 
+POCSAG1200: Address: 1321744  Function: 2  Alpha:   20:01-95 TEST CALL 01438 285 094<NUL><NUL>
 POCSAG1200: Address: 1652810  Function: 0  Alpha:   <STX>9
 POCSAG1200: Address:  987208  Function: 3 
 POCSAG1200: Address:  688738  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1032743  Function: 0
 POCSAG1200: Address: 1746548  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   13/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1534180  Function: 2  Alpha:   v8
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   V<NUL>
-POCSAG512: Address:  640251  Function: 2  Alpha:   09: &)91
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   09:06-77 4163<NUL>
-POCSAG2400: Address:  583557  Function: 2  Alpha:   09:06-96 80300
