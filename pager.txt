@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2064928  Function: 0 
+POCSAG1200: Address: 1572869  Function: 0 
+POCSAG1200: Address: 1279659  Function: 2 
+POCSAG1200: Address: 2078451  Function: 2 
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   08:30-05 27/11
 POCSAG1200: Address:  396825  Function: 2  Alpha:   0<NUL>
 POCSAG1200: Address:   66121  Function: 0 
 POCSAG1200: Address:   18057  Function: 1 
@@ -993,8 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG1200: Address:  325892  Function: 2  Alpha:   9<BS>V<HT>L
 POCSAG1200: Address: 1761331  Function: 3  Alpha:   6<DC2>@aL
 POCSAG1200: Address: 1032949  Function: 3  Alpha:   X<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:20-36 2233<NUL>
-POCSAG1200: Address:  150098  Function: 2  Alpha:   !P
-POCSAG1200: Address:  170006  Function: 3  Alpha:   <CR>S
-POCSAG1200: Address: 1705316  Function: 3  Alpha:   l"i)e
-POCSAG1200: Address:  742667  Function: 0 
