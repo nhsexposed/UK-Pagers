@@ -1,3 +1,4 @@
+POCSAG1200: Address: 1329698  Function: 2 
 POCSAG2400: Address: 1188421  Function: 0 
 POCSAG2400: Address: 1975165  Function: 0 
 POCSAG2400: Address:  308832  Function: 2  Alpha:   <SOH><ENQ>2<ACK>J6<STX>M>V<DC2>&:<RS><STX><SOH><NUL>
@@ -997,4 +998,3 @@ POCSAG1200: Address:  340006  Function: 0  Alpha:   18:49-13 PLS CALL NORMAN ON 
 POCSAG1200: Address:  108097  Function: 0  Alpha:   18:49-71 Please call 1002
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1848261121+++TIME=1848261121<NUL>
 POCSAG1200: Address:  816974  Function: 2  Alpha:   18:47-12 PLS CALL LIZZY ON 03302 227 00
-POCSAG1200: Address:   33730  Function: 2  Alpha:   18:47-60 PLS CALL LIZZY ON 03302 227 00
