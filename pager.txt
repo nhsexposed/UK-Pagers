@@ -1,3 +1,19 @@
+POCSAG512: Address: 1713201  Function: 0 
+POCSAG1200: Address:  171155  Function: 2 
+POCSAG1200: Address: 2089008  Function: 2 
+POCSAG1200: Address: 1585762  Function: 0 
+POCSAG2400: Address: 1793034  Function: 0 
+POCSAG2400: Address: 1465882  Function: 1 
+POCSAG1200: Address:  593241  Function: 2 
+POCSAG1200: Address: 1336513  Function: 0 
+POCSAG1200: Address:  296141  Function: 2 
+POCSAG1200: Address:  282517  Function: 1 
+POCSAG1200: Address:  365356  Function: 3 
+POCSAG1200: Address:  132236  Function: 2 
+POCSAG1200: Address:   69963  Function: 1  Alpha:   <VT>V
+POCSAG1200: Address:  589897  Function: 2 
+POCSAG1200: Address:  542784  Function: 3  Alpha:   I<ENQ><STX>kM
+POCSAG1200: Address: 1313362  Function: 2  Alpha:   K<FS>E,<FF><BS><FF>M
 POCSAG2400: Address:  549116  Function: 2  Alpha:   04:58-39 FULL OFFER OF WH
 POCSAG2400: Address:  827508  Function: 1 
 POCSAG2400: Address: 2078704  Function: 0  Alpha:   o<SOH>
@@ -982,19 +998,3 @@ POCSAG1200: Address:  266850  Function: 1  Alpha:   v&
 POCSAG1200: Address: 1349433  Function: 1 
 POCSAG1200: Address: 1562660  Function: 2  Alpha:   18:54-60 26?1<DC1><NAK><EM><CAN>Y<CAN><DLE>O%(<FF>N
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   18:53-21 68771
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   18:53-34 68771
-POCSAG2400: Address: 1321029  Function: 2  Alpha:   18:53M<3#2111<NUL>
-POCSAG2400: Address:  353049  Function: 0  Alpha:   18:53-00 99
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1853261121+++TIME=1853261121<NUL>
-POCSAG1200: Address:  148112  Function: 2  Alpha:   b <LF>d$
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:53-07 26/11/2021 18:51:41 INC 24725247 06E01A 81 DELAMERE ROAD, HANDFORTH WILMSLOW SK9, SK9 3RB Female 62Y SHALLOW BREATHING GRD 386079 384055
-POCSAG2400: Address: 1668842  Function: 0 
-POCSAG2400: Address:  746977  Function: 1  Alpha:   , 
-POCSAG2400: Address:   76808  Function: 1 
-POCSAG2400: Address:   28927  Function: 0  Alpha:   18:52-30 2186<NUL>
-POCSAG2400: Address: 1190645  Function: 0 
-POCSAG2400: Address:   28869  Function: 0  Alpha:   18:52-85 PLEASE CALL BACK EXT 27552<NUL><NUL>
-POCSAG1200: Address: 1733216  Function: 3 
-POCSAG1200: Address:  977933  Function: 0  Alpha:   #)<STX>PY<FS>Z<SUB><CAN><ESC>P},B
-POCSAG1200: Address:  707636  Function: 1  Alpha:   ]<FF>
-POCSAG1200: Address: 1032930  Function: 0 
