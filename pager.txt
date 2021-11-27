@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1467091  Function: 3  Alpha:   <SUB>3
+POCSAG1200: Address:  100482  Function: 3  Alpha:   b<ACK>
+POCSAG1200: Address: 1657417  Function: 3 
+POCSAG2400: Address: 1802832  Function: 0 
+POCSAG1200: Address: 1977336  Function: 0 
+POCSAG1200: Address:  447298  Function: 2 
 POCSAG2400: Address: 2057960  Function: 1  Alpha:   7<ETB>
 POCSAG2400: Address: 2091640  Function: 0 
 POCSAG1200: Address:  296643  Function: 1 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1042000  Function: 2
 POCSAG1200: Address:  898689  Function: 1  Alpha:   <VT><SOH>
 POCSAG1200: Address: 1083769  Function: 0 
 POCSAG1200: Address: 1467752  Function: 0 
-POCSAG1200: Address: 1817257  Function: 2  Alpha:   19:28-75 33835
-POCSAG1200: Address:  851302  Function: 2  Alpha:   19:28-29 PROCEED TO:  DANGEROUS STRUCTU
-POCSAG1200: Address:   21298  Function: 0  Alpha:   Lml<FF><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:27-59 4769<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:27-37 5076<NUL>
-POCSAG2400: Address:  901450  Function: 2  Alpha:   19:26-43 2222<NUL>
