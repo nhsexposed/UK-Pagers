@@ -1,3 +1,11 @@
+POCSAG1200: Address: 2025457  Function: 1 
+POCSAG2400: Address: 1764144  Function: 0 
+POCSAG1200: Address:  398116  Function: 1  Alpha:   v&vv<SYN>
+POCSAG1200: Address:   90423  Function: 0  Alpha:   _<DC3>ug<DC2>
+POCSAG2400: Address:  926261  Function: 0 
+POCSAG2400: Address: 1998949  Function: 0 
+POCSAG2400: Address:  975472  Function: 0 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><FF>
 POCSAG1200: Address: 1868656  Function: 0 
 POCSAG1200: Address: 1489782  Function: 1 
 POCSAG1200: Address:  458731  Function: 3  Alpha:   XX
@@ -990,11 +998,3 @@ POCSAG2400: Address:   28904  Function: 0  Alpha:   19:04-47 2415<NUL>
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   19:04-22 68788
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:03-35 2415<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1903261121+++TIME=1903261121<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   prH*<ENQ><SOH>0f
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1903261121+++TIME=1903261121<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:03-01 2415<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  585224  Function: 2  Alpha:   19:02-02 1: 001SPFIRDL53068 Pump1 Demand On 01<NUL><NUL>
-POCSAG1200: Address:  585004  Function: 2  Alpha:   19:02-70 1: 001SPFIRDL53068 Pump1 Demand On 01<NUL><NUL>
-POCSAG1200: Address:   28883  Function: 3  Alpha:   19:01-61 TEST PAGE <NUL>
-POCSAG1200: Address:  549357  Function: 2  Alpha:   19:01-50 TEST PAGE <NUL>
