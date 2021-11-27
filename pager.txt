@@ -1,3 +1,5 @@
+POCSAG1200: Address:  814586  Function: 1  Alpha:   X<FS>
+POCSAG1200: Address: 2008953  Function: 0 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test me
 POCSAG1200: Address:  981619  Function: 0 
 POCSAG1200: Address:  540856  Function: 1  Alpha:   <ACK>K
@@ -996,5 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843261121+++TIME=18
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843261121+++TIME=1843261121<NUL>
 POCSAG1200: Address:  906480  Function: 3  Alpha:   p.<SYN><EOT>1
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:42-33 2415<NUL>
-POCSAG1200: Address:  618883  Function: 2  Alpha:   18:42-73 Daily Test Message<NUL>
-POCSAG1200: Address:  352586  Function: 2  Alpha:   18:42-25 6020<NUL>
