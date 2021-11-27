@@ -1,3 +1,8 @@
+POCSAG2400: Address:  926257  Function: 0 
+POCSAG1200: Address: 2010489  Function: 0 
+POCSAG1200: Address:  487574  Function: 0  Alpha:   <FS>_
+POCSAG1200: Address:  459373  Function: 3 
+POCSAG1200: Address:   40088  Function: 2  Alpha:   01:35
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0133271121+++TIME=0133271121<NUL>
 POCSAG1200: Address:  156418  Function: 2 
 POCSAG1200: Address: 2042486  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address:  757832  Function: 0
 POCSAG1200: Address: 1478045  Function: 0  Alpha:   <ESC><DLE><EM><SO><DC1>
 POCSAG1200: Address:  266852  Function: 1  Alpha:   v&
 POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  624426  Function: 2  Alpha:   `d
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   18:29-52 26/11<SI>20Y<CAN><DLE><CAN><FS>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   18:29-23 26/11/2021 18:28:02 INC 24725137 29D03 JUNCTION 20 TO 19 WESTBOUND, M62, OL9 9PP Unknown UnknownY RTC GRD 386941 409331
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   18:29-35 26/11/2021 18:28:02 INC 24725137 JUNCTION 20 TO 19 WESTBOUND, M62, OL9 9PP Unknown UnknownY RTC GRD 386941 409331
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828261121+++TIME=1828261121<NUL>
