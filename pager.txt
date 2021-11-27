@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1188421  Function: 0 
+POCSAG2400: Address: 1975165  Function: 0 
+POCSAG2400: Address:  308832  Function: 2  Alpha:   <SOH><ENQ>2<ACK>J6<STX>M>V<DC2>&:<RS><STX><SOH><NUL>
+POCSAG1200: Address:  596002  Function: 2  Alpha:   <FF>d
 POCSAG2400: Address: 1999603  Function: 0 
 POCSAG2400: Address:  549206  Function: 2  Alpha:   04
 POCSAG2400: Address: 1946229  Function: 1 
@@ -994,7 +998,3 @@ POCSAG1200: Address:  108097  Function: 0  Alpha:   18:49-71 Please call 1002
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1848261121+++TIME=1848261121<NUL>
 POCSAG1200: Address:  816974  Function: 2  Alpha:   18:47-12 PLS CALL LIZZY ON 03302 227 00
 POCSAG1200: Address:   33730  Function: 2  Alpha:   18:47-60 PLS CALL LIZZY ON 03302 227 00
-POCSAG1200: Address: 1076835  Function: 0  Alpha:   <STX>e<FS><ENQ><SUB><FF>dd<EOT>bLTUM<ENQ>zt<EOT><STX><ESC><ESC><ETX><DC3><ETX><DC2><DC3>;<ETX><STX><ETX>;
-POCSAG1200: Address:  302826  Function: 2  Alpha:   18:47
-POCSAG1200: Address:  108014  Function: 0  Alpha:   18:47-08 DCD RETRIEVAL KIDNEYS ONLY 20:15 HILLINGDON HOSPITAL PLEASE CALL JACKIE 07511 046 678
-POCSAG1200: Address:  374408  Function: 2 
