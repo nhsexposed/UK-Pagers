@@ -1,3 +1,18 @@
+POCSAG1200: Address: 2009722  Function: 0 
+POCSAG1200: Address: 1844210  Function: 0 
+POCSAG1200: Address: 2009705  Function: 0 
+POCSAG1200: Address: 2007098  Function: 0 
+POCSAG1200: Address: 1771136  Function: 0 
+POCSAG1200: Address: 1032734  Function: 0 
+POCSAG1200: Address: 2011744  Function: 1 
+POCSAG1200: Address: 2010224  Function: 1 
+POCSAG1200: Address: 1483296  Function: 0 
+POCSAG1200: Address: 1313664  Function: 3  Alpha:   <DLE>h
+POCSAG1200: Address:  679072  Function: 0 
+POCSAG1200: Address: 1652840  Function: 0 
+POCSAG1200: Address: 1751062  Function: 1 
+POCSAG1200: Address: 1461021  Function: 1 
+POCSAG1200: Address:  380560  Function: 0 
 POCSAG1200: Address: 1401686  Function: 0 
 POCSAG1200: Address:  363301  Function: 3  Alpha:   ph
 POCSAG1200: Address:   66093  Function: 3 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1941638  Function: 3  Alpha:   h@Ld@
 POCSAG1200: Address:  197261  Function: 2 
 POCSAG1200: Address: 1494493  Function: 0 
 POCSAG2400: Address: 1814995  Function: 0  Alpha:   f<STX>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   19:24-49 26/11/2021 19:22:41 INC 2<DLE><ETB><DC2>5374 31D04 MCDONALDS RESTAURANTS LTD, 20 HUYTON HEY ROAD, HUYTON L36, L36 5RT Male 45Y IN AND OUT GRD 344401 390705<NUL><NUL>
-POCSAG1200: Address: 1483358  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1923261121+++TIME=1923261121<NUL>
-POCSAG2400: Address: 2047192  Function: 3  Alpha:   vo01mc1<CR><LF>Alias: <CR><LF>Address: ma<NUL><NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   19:23-83 3508<NUL>
-POCSAG2400: Address:   90444  Function: 3  Alpha:   onjob
-POCSAG2400: Address:  751563  Function: 3 
-POCSAG2400: Address: 2006714  Function: 1  Alpha:   \<FF>
-POCSAG2400: Address: 1030906  Function: 1 
-POCSAG2400: Address:  216268  Function: 2  Alpha:   19:23-25 PROBLEM: Opsview -<DLE>
-POCSAG2400: Address:  974428  Function: 1 
-POCSAG2400: Address:  772211  Function: 3 
-POCSAG2400: Address:  890315  Function: 3 
-POCSAG2400: Address:  216272  Function: 2  Alpha:   19:23<CR>V<ACK>
-POCSAG1200: Address: 1565343  Function: 2  Alpha:   19:23-61 Call 24725366 - Warning - Scene Unsafe. Contract Control for further advice.
