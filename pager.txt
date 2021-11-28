@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1070721  Function: 0 
+POCSAG2400: Address:  578690  Function: 3  Alpha:   MYIaM<SOH><CR><ACK>K<DC3>'<BEL><SI><ETX>=K<ETX>I<SYN>O
+POCSAG2400: Address:  680566  Function: 1 
+POCSAG2400: Address:  664309  Function: 0 
 POCSAG2400: Address:  980564  Function: 0 
 POCSAG1200: Address:  532642  Function: 3 
 POCSAG1200: Address: 1582666  Function: 2 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1320280  Function: 2  Alpha:   23:04-91 4155<NUL>
 POCSAG1200: Address: 1534098  Function: 2 
 POCSAG1200: Address:  696947  Function: 0 
 POCSAG1200: Address: 1746529  Function: 0 
-POCSAG1200: Address: 1188465  Function: 0 
-POCSAG1200: Address: 2074229  Function: 2 
-POCSAG1200: Address:  397316  Function: 0 
-POCSAG2400: Address: 1417841  Function: 0 
