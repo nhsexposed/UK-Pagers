@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1736826  Function: 2 
+POCSAG1200: Address: 1242610  Function: 2  Alpha:   22:31-83 PMA Staff Required on Thurne Ward
+POCSAG1200: Address: 2014835  Function: 3 
+POCSAG1200: Address:  434808  Function: 0 
+POCSAG1200: Address: 1762036  Function: 1 
+POCSAG2400: Address: 1123522  Function: 0  Alpha:   <STX>e,<FF><FS>-<EOT><SUB><FF>dd<EOT><STX>;KC3<ETX>*#C<ETX>*<ESC>C<ETX><LF><FS><CR><EOT><ENQ>
 POCSAG1200: Address: 1676835  Function: 0  Alpha:   <BEL><EOT>
 POCSAG1200: Address: 1349432  Function: 1 
 POCSAG2400: Address: 1023136  Function: 1 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1316248  Function: 0
 POCSAG1200: Address: 1335735  Function: 3  Alpha:   O%
 POCSAG1200: Address: 1032930  Function: 0 
 POCSAG1200: Address:  303504  Function: 1  Alpha:   +++TIME=
-POCSAG1200: Address: 1877248  Function: 3 
-POCSAG1200: Address:  344335  Function: 2 
-POCSAG1200: Address:  840382  Function: 2 
-POCSAG1200: Address: 1450864  Function: 3 
-POCSAG2400: Address: 1220660  Function: 0 
-POCSAG1200: Address: 1715825  Function: 0  Alpha:   <SYN><STX>
