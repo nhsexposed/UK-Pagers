@@ -1,3 +1,7 @@
+POCSAG1200: Address:   40074  Function: 2 
+POCSAG1200: Address:  820129  Function: 2  Alpha:   AI<SOH>IAIEM<SOH><NAK><DC2><STX><SOH><NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   20
+POCSAG2400: Address: 1480310  Function: 0 
 POCSAG1200: Address:  829054  Function: 0 
 POCSAG1200: Address: 1292393  Function: 0 
 POCSAG2400: Address: 1048580  Function: 1 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1488486  Function: 1
 POCSAG1200: Address:  226911  Function: 2  Alpha:   O%
 POCSAG1200: Address:   78020  Function: 2 
 POCSAG1200: Address: 1978493  Function: 1 
-POCSAG2400: Address: 2011771  Function: 0 
-POCSAG2400: Address:   28904  Function: 0  Alpha:   07:12-59 5082<NUL>
-POCSAG1200: Address: 1746553  Function: 1 
-POCSAG2400: Address: 1188416  Function: 0 
