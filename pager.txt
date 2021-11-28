@@ -1,3 +1,8 @@
+POCSAG1200: Address:  206429  Function: 3 
+POCSAG1200: Address: 1204699  Function: 3  Alpha:   <LF><VT>[<DC2><ETX><DC3><VT><ETX>
+POCSAG2400: Address: 1485636  Function: 0 
+POCSAG2400: Address:  926240  Function: 0 
+POCSAG1200: Address:  889984  Function: 2  Alpha:   <SOH><NUL>
 POCSAG1200: Address: 2013809  Function: 2 
 POCSAG2400: Address: 2026102  Function: 0 
 POCSAG1200: Address: 1998944  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1999440  Function: 3
 POCSAG2400: Address: 1487602  Function: 1 
 POCSAG2400: Address: 2028154  Function: 1 
 POCSAG1200: Address: 1811261  Function: 0 
-POCSAG1200: Address: 1876690  Function: 0 
-POCSAG1200: Address: 1354619  Function: 0 
-POCSAG2400: Address:   28870  Function: 0  Alpha:   12:50-46 PLS CALL QEQM ON 7253945<NUL>
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   12:50-77 8060 PHARMACY <NUL><NUL>
-POCSAG1200: Address: 1876665  Function: 0 
