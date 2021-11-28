@@ -1,3 +1,10 @@
+POCSAG1200: Address:  664850  Function: 1  Alpha:   <DLE><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   <DC3><EOT>+04/2002 
+POCSAG1200: Address: 1877355  Function: 1 
+POCSAG1200: Address:   28898  Function: 1 
+POCSAG1200: Address:   82218  Function: 0 
+POCSAG1200: Address:  469328  Function: 0 
+POCSAG1200: Address:  950833  Function: 1 
 POCSAG1200: Address:  290179  Function: 0  Alpha:   Me]EMI<SOH><NUL>
 POCSAG1200: Address:  434298  Function: 0 
 POCSAG1200: Address: 1349437  Function: 1 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1745525  Function: 0
 POCSAG1200: Address: 1261696  Function: 2 
 POCSAG1200: Address: 1828553  Function: 3 
 POCSAG1200: Address: 1975267  Function: 0 
-POCSAG1200: Address: 1998947  Function: 0 
-POCSAG1200: Address:  434742  Function: 0 
-POCSAG512: Address:  719930  Function: 3 
-POCSAG2400: Address: 1344112  Function: 3 
-POCSAG1200: Address: 1713835  Function: 1 
-POCSAG1200: Address:  367536  Function: 2 
-POCSAG1200: Address:  338199  Function: 0  Alpha:   O%
