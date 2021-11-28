@@ -1,3 +1,13 @@
+POCSAG512: Address: 1761313  Function: 0 
+POCSAG1200: Address: 2001525  Function: 1 
+POCSAG1200: Address: 2028155  Function: 1 
+POCSAG1200: Address:  961073  Function: 0 
+POCSAG1200: Address: 1237746  Function: 0 
+POCSAG2400: Address:  303174  Function: 0 
+POCSAG1200: Address: 1751154  Function: 0 
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address:  950897  Function: 0 
+POCSAG1200: Address:  191649  Function: 2 
 POCSAG1200: Address:  893670  Function: 0 
 POCSAG2400: Address:  596342  Function: 1  Alpha:   $<NAK>M<FS><EOT><LF>4*
 POCSAG1200: Address:  930489  Function: 2  Alpha:   X<CAN>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1618552  Function: 2
 POCSAG1200: Address: 1483829  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1943271121+++TIME=1943271121<NUL>
 POCSAG1200: Address:   63568  Function: 1 
-POCSAG2400: Address:  295504  Function: 0 
-POCSAG1200: Address: 1500785  Function: 3 
-POCSAG1200: Address:  548010  Function: 2  Alpha:   19:33-64 CALL 07788 360 281<NUL>
-POCSAG1200: Address: 1974386  Function: 1 
-POCSAG1200: Address:   41432  Function: 2  Alpha:   19:30
-POCSAG1200: Address:  795248  Function: 2 
-POCSAG2400: Address: 1628745  Function: 0  Alpha:   <DC3><SI>
-POCSAG2400: Address: 1811041  Function: 0 
-POCSAG2400: Address: 1991295  Function: 0  Alpha:   <DEL><DEL>
-POCSAG1200: Address:  959059  Function: 3 
