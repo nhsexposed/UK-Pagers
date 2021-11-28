@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1614452  Function: 0 
+POCSAG1200: Address: 2010230  Function: 1 
+POCSAG1200: Address: 1746528  Function: 0 
+POCSAG1200: Address: 2027634  Function: 1 
+POCSAG1200: Address:  216505  Function: 2  Alpha:   18:44z03$S10P1 Fire call 14888<NUL>
+POCSAG1200: Address: 2008753  Function: 0 
+POCSAG1200: Address: 1999600  Function: 0 
+POCSAG1200: Address: 1873291  Function: 0  Alpha:   a1<SYN><STX>5<ACK>3<ETB>
+POCSAG1200: Address:  216513  Function: 2  Alpha:   18:<6213 S10P1 Fire call 14888<NUL>
 POCSAG1200: Address:  893666  Function: 0 
 POCSAG2400: Address: 2026080  Function: 2 
 POCSAG1200: Address: 1565498  Function: 2  Alpha:   18:;<DEL>O<GS><FS>
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1090108  Function: 2  Alpha:   04:11
 POCSAG1200: Address: 2007953  Function: 0 
 POCSAG1200: Address: 1630832  Function: 3 
 POCSAG1200: Address: 1134900  Function: 3 
-POCSAG1200: Address: 1462956  Function: 0 
-POCSAG1200: Address:  393840  Function: 1 
-POCSAG1200: Address:  844560  Function: 0 
-POCSAG1200: Address:  139366  Function: 0 
-POCSAG1200: Address: 1737341  Function: 1 
-POCSAG1200: Address:   62219  Function: 2 
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address: 1188417  Function: 0 
-POCSAG1200: Address: 1548408  Function: 0 
