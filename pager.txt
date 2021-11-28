@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1446571  Function: 2  Alpha:   3-
+POCSAG1200: Address: 1575620  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1823281121++
+POCSAG1200: Address: 2028952  Function: 1  Alpha:   :Z
+POCSAG1200: Address:   33723  Function: 2  Alpha:   18:23-98 DIST<DLE>KCT NURSE PLS 
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address: 2073420  Function: 0 
+POCSAG2400: Address:  623458  Function: 2 
+POCSAG2400: Address: 2089812  Function: 0 
 POCSAG1200: Address: 1659926  Function: 0 
 POCSAG2400: Address: 1324548  Function: 2 
 POCSAG2400: Address: 1550321  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 2008690  Function: 1
 POCSAG1200: Address: 1876030  Function: 2 
 POCSAG512: Address: 1876090  Function: 0 
 POCSAG1200: Address: 1749680  Function: 2 
-POCSAG2400: Address: 2014048  Function: 0 
-POCSAG1200: Address: 1032714  Function: 3  Alpha:   v<NUL>
-POCSAG1200: Address: 2075381  Function: 1 
-POCSAG2400: Address:   28904  Function: 0  Alpha:   03
-POCSAG2400: Address: 1600962  Function: 0  Alpha:   <ESC><DC3>C<VT><VT><DC3><VT><ETX>
-POCSAG1200: Address:  255576  Function: 0 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <NUL><NUL>
-POCSAG1200: Address: 1403214  Function: 1 
-POCSAG1200: Address:  222811  Function: 2 
