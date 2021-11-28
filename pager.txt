@@ -1,3 +1,7 @@
+POCSAG1200: Address:  307318  Function: 1 
+POCSAG2400: Address:  863581  Function: 1  Alpha:   <GS>mM\,<SO>T<ENQ>dH]\L<SO>4<CAN>LM<CR>4N<RS>,N><SO><DC4>m<CR><DC4><ACK>V<GS>m=<SO>T<ENQ>4:Z<HT>
+POCSAG2400: Address: 1324627  Function: 2  Alpha:   11:50-09
+POCSAG2400: Address:  434737  Function: 0 
 POCSAG2400: Address: 1999858  Function: 2 
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   19)46-73 5090<NUL>
 POCSAG1200: Address:  148496  Function: 2  Alpha:   <FF>L
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1718902  Function: 1
 POCSAG2400: Address: 1220658  Function: 0 
 POCSAG1200: Address: 2009220  Function: 2  Alpha:   19:54-12 636595<NUL><NUL>
 POCSAG1200: Address: 1158234  Function: 2  Alpha:   <CR><FS>X<SYN>f
-POCSAG1200: Address:  971176  Function: 2 
-POCSAG1200: Address:  451138  Function: 1 
-POCSAG1200: Address: 1999480  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIM<CR>=1948271121+++TIME=1948271121<NUL>
