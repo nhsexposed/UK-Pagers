@@ -1,3 +1,22 @@
+POCSAG1200: Address:  290179  Function: 0  Alpha:   Me]EMI<SOH><NUL>
+POCSAG1200: Address:  434298  Function: 0 
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG2400: Address:  149253  Function: 2  Alpha:   21:11-91 - VERY AGIATED NOW, MAY GET OUT OF BED 
+POCSAG2400: Address: 2045280  Function: 2  Alpha:   ^2<SOH>5<ACK>f<STX><GS><SYN>R<STX>=VR<STX>=<SUB><STX><HT><SYN><DC2><STX>
+POCSAG2400: Address: 2007153  Function: 0 
+POCSAG1200: Address: 1284409  Function: 1 
+POCSAG1200: Address:  955144  Function: 2  Alpha:   @f
+POCSAG1200: Address: 1902216  Function: 3 
+POCSAG1200: Address:  167263  Function: 1  Alpha:   O%
+POCSAG1200: Address:  823214  Function: 2  Alpha:   i%
+POCSAG1200: Address:  678438  Function: 0 
+POCSAG1200: Address: 1071205  Function: 0 
+POCSAG1200: Address:  345547  Function: 1  Alpha:   <NAK>l
+POCSAG1200: Address: 1849922  Function: 1 
+POCSAG1200: Address:  311625  Function: 0  Alpha:   DW
+POCSAG1200: Address: 1122824  Function: 0 
+POCSAG1200: Address: 1447447  Function: 3  Alpha:   O%h4<DC4>
+POCSAG1200: Address: 1253167  Function: 0 
 POCSAG1200: Address: 2007136  Function: 3 
 POCSAG1200: Address: 1485434  Function: 1 
 POCSAG1200: Address:  668155  Function: 1 
@@ -979,22 +998,3 @@ POCSAG2400: Address: 1344112  Function: 3
 POCSAG1200: Address: 1713835  Function: 1 
 POCSAG1200: Address:  367536  Function: 2 
 POCSAG1200: Address:  338199  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1585750  Function: 1  Alpha:   N<STX>
-POCSAG1200: Address:  200284  Function: 2  Alpha:   6<<SUB>42
-POCSAG1200: Address: 1672025  Function: 0  Alpha:   d`
-POCSAG1200: Address: 1509880  Function: 2  Alpha:   08
-POCSAG2400: Address: 1986080  Function: 2 
-POCSAG1200: Address:  266848  Function: 1  Alpha:   v6<SYN><ACK>F
-POCSAG1200: Address: 1349439  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1326008  Function: 2  Alpha:   08:24-32 2300<NUL>
-POCSAG1200: Address: 1488507  Function: 2 
-POCSAG2400: Address: 1610944  Function: 1 
-POCSAG2400: Address: 1032095  Function: 3  Alpha:   9<GS>P<CAN><CAN><ETB><ESC><SUB><ETB><CAN>W<CAN>[Y<ACK><ENQ>dw9:P#yw:8<DLE>dt2y0<NUL><NUL>
-POCSAG512: Address:  553732  Function: 1  Alpha:   fS
-POCSAG2400: Address: 1896049  Function: 0 
-POCSAG2400: Address: 1878652  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   08:20-73 4316<NUL>
-POCSAG1200: Address: 1877589  Function: 0 
-POCSAG1200: Address: 1312620  Function: 2  Alpha:   08:22:01 S17P1 Fire call 14864<NUL>
-POCSAG1200: Address: 1312615  Function: 2  Alpha:   08:22:00 S17P1 Fire call 14864<NUL>
-POCSAG1200: Address: 1312617  Function: 2  Alpha:   08:22:01 S17P1 Fire call 14864<NUL>
