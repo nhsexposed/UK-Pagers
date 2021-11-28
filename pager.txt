@@ -1,3 +1,6 @@
+POCSAG2400: Address: 1600962  Function: 0  Alpha:   <ESC><DC3>C<VT><VT><DC3><VT><ETX>
+POCSAG1200: Address:  255576  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <NUL><NUL>
 POCSAG1200: Address: 1403214  Function: 1 
 POCSAG1200: Address:  222811  Function: 2 
 POCSAG1200: Address: 1443883  Function: 0 
@@ -995,6 +998,3 @@ POCSAG1200: Address: 2028145  Function: 2
 POCSAG1200: Address:  959607  Function: 0 
 POCSAG2400: Address: 1220659  Function: 0 
 POCSAG1200: Address:  354553  Function: 2  Alpha:   <NUL><FF>
-POCSAG1200: Address: 1984573  Function: 0 
-POCSAG1200: Address: 2003569  Function: 0 
-POCSAG1200: Address:  301201  Function: 2 
