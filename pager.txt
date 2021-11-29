@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1324176  Function: 2 
+POCSAG1200: Address:  133927  Function: 3 
+POCSAG1200: Address: 1067022  Function: 3  Alpha:   <SYN>B<STX><GS>J
+POCSAG1200: Address:  725873  Function: 0  Alpha:   IMC Test Call please phone 020 8538 541
+POCSAG1200: Address:  820855  Function: 2  Alpha:   08:00-20 IMC Test Call please phone 020 8538 5416.<NUL>
+POCSAG1200: Address: 2011002  Function: 3 
 POCSAG1200: Address: 1980082  Function: 0 
 POCSAG1200: Address:  214093  Function: 2  Alpha:   07:55
 POCSAG1200: Address: 2011712  Function: 1 
@@ -992,9 +998,3 @@ POCSAG2400: Address:  731322  Function: 1
 POCSAG2400: Address:   86777  Function: 1 
 POCSAG2400: Address: 1510719  Function: 3  Alpha:   O%
 POCSAG2400: Address: 2006615  Function: 0 
-POCSAG2400: Address:  629102  Function: 2 
-POCSAG1200: Address: 1801803  Function: 2 
-POCSAG1200: Address: 1321866  Function: 2  Alpha:   14
-POCSAG1200: Address: 1868465  Function: 2 
-POCSAG1200: Address: 1354617  Function: 0 
-POCSAG1200: Address: 1070721  Function: 0 
