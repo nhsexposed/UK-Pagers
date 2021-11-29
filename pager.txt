@@ -1,3 +1,17 @@
+POCSAG1200: Address: 2074224  Function: 2 
+POCSAG2400: Address: 2065522  Function: 0 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   16:58-56
+POCSAG1200: Address: 1229424  Function: 0 
+POCSAG2400: Address: 2008625  Function: 3  Alpha:   <US><NAK>
+POCSAG2400: Address: 1012864  Function: 2 
+POCSAG2400: Address: 1008316  Function: 2  Alpha:   16:58-64 Test page f
+POCSAG2400: Address: 1841215  Function: 1 
+POCSAG2400: Address:  555630  Function: 0 
+POCSAG1200: Address: 1487458  Function: 0 
+POCSAG1200: Address: 2075380  Function: 1 
+POCSAG1200: Address: 2089650  Function: 0 
+POCSAG1200: Address: 1868137  Function: 0 
+POCSAG1200: Address:  557031  Function: 2  Alpha:   16
 POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<DC2>t<NUL>2f
 POCSAG2400: Address: 2023800  Function: 1 
 POCSAG2400: Address: 1324550  Function: 2  Alpha:   16:53-32 INC ALERT No: 16841
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1610851  Function: 0
 POCSAG1200: Address: 1155246  Function: 2 
 POCSAG1200: Address: 1718600  Function: 0  Alpha:   <STX><DC1>
 POCSAG2400: Address: 2010982  Function: 0 
-POCSAG2400: Address:  584658  Function: 2  Alpha:   08:38-36 80300
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   08:37-44 4660<NUL>
-POCSAG2400: Address: 1913851  Function: 2  Alpha:   08:37-82 5013<NUL>
-POCSAG1200: Address:  893492  Function: 0 
-POCSAG1200: Address: 1749603  Function: 1 
-POCSAG1200: Address: 2069728  Function: 2  Alpha:   Y<BS>
-POCSAG1200: Address: 1134724  Function: 3  Alpha:   de"P#)"PY[<EM><CAN>\<ESC>P<EM><FS><EM><FS>Z
-POCSAG1200: Address:  960632  Function: 0 
-POCSAG1200: Address: 1452658  Function: 2 
-POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:35-59 2065<NUL>
-POCSAG2400: Address: 1806216  Function: 2 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:34-90 4156<NUL>
-POCSAG2400: Address: 1894130  Function: 0 
-POCSAG1200: Address: 1507718  Function: 3  Alpha:   H<ENQ>
