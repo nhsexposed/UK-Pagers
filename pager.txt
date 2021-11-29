@@ -1,3 +1,16 @@
+POCSAG1200: Address:  984704  Function: 0 
+POCSAG1200: Address:  404493  Function: 0 
+POCSAG1200: Address:  977776  Function: 1 
+POCSAG1200: Address:  189580  Function: 0 
+POCSAG1200: Address:  612899  Function: 2  Alpha:   L<ENQ>
+POCSAG1200: Address: 1186371  Function: 0 
+POCSAG1200: Address:  362441  Function: 3  Alpha:   <DC3>5@<DLE><NAK>
+POCSAG1200: Address: 1725805  Function: 1  Alpha:   X3
+POCSAG1200: Address:  616579  Function: 3 
+POCSAG1200: Address: 1511424  Function: 2  Alpha:   <EM><VT><DC4>hI
+POCSAG1200: Address: 2042120  Function: 1 
+POCSAG1200: Address:  265292  Function: 1 
+POCSAG1200: Address:  421232  Function: 0 
 POCSAG2400: Address: 2009204  Function: 0 
 POCSAG2400: Address: 2092792  Function: 3 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   03:35-92 4183<NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 2006612  Function: 0
 POCSAG1200: Address: 1974849  Function: 1 
 POCSAG1200: Address: 1272018  Function: 0  Alpha:   <ENQ>j
 POCSAG1200: Address: 2074224  Function: 2 
-POCSAG1200: Address: 1222279  Function: 0 
-POCSAG1200: Address: 1927398  Function: 2 
-POCSAG1200: Address: 1239302  Function: 2 
-POCSAG1200: Address:  133893  Function: 2 
-POCSAG1200: Address:  514833  Function: 0  Alpha:   ,.
-POCSAG1200: Address: 2008657  Function: 0  Alpha:   /U<ETX>(<DC3><BEL>&&
-POCSAG1200: Address: 1746544  Function: 0 
-POCSAG2400: Address: 2008318  Function: 0 
-POCSAG1200: Address:  569956  Function: 0 
-POCSAG1200: Address:   94538  Function: 0  Alpha:   D 334&19
-POCSAG1200: Address: 1204699  Function: 3 
-POCSAG1200: Address:  905988  Function: 2 
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   12:00-23 PLEASE CALL BACK 01223 639 300
