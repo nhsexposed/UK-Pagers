@@ -1,3 +1,12 @@
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  434737  Function: 0 
+POCSAG1200: Address: 1966818  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:  530720  Function: 1  Alpha:   E<SOH>
+POCSAG1200: Address: 1209008  Function: 2  Alpha:   <DC3><GS><SI>x<SI>
+POCSAG1200: Address: 1994377  Function: 3 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address: 1499989  Function: 2 
 POCSAG1200: Address:  435026  Function: 0 
 POCSAG1200: Address:   40089  Function: 2  Alpha:   11:08-08 29/11/2021 11zu4
 POCSAG1200: Address:  344069  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1246812  Function: 3
 POCSAG1200: Address: 1204698  Function: 3  Alpha:   <LF><VT>[<DC1>K<DC3><VT><ETX>
 POCSAG1200: Address: 1246808  Function: 3 
 POCSAG2400: Address: 2043979  Function: 0 
-POCSAG2400: Address:  148226  Function: 2 
-POCSAG2400: Address:  342225  Function: 0 
-POCSAG2400: Address: 1811060  Function: 0 
-POCSAG2400: Address: 2005630  Function: 2 
-POCSAG1200: Address:  688737  Function: 0 
-POCSAG2400: Address: 1483409  Function: 0 
-POCSAG1200: Address:  216470  Function: 2 
-POCSAG1200: Address:  216569  Function: 2  Alpha:   20:09:38 S19P2 Fire call 14893<NUL>
-POCSAG1200: Address: 1728610  Function: 0 
