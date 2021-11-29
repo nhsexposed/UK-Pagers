@@ -1,3 +1,9 @@
+POCSAG2400: Address: 2063616  Function: 2  Alpha:   B<ETX><ESC><ETX><ETX>
+POCSAG2400: Address: 1746668  Function: 0 
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   13:07-58 4034<NUL>
+POCSAG1200: Address:  209391  Function: 0 
+POCSAG1200: Address: 1983041  Function: 0 
+POCSAG1200: Address:  101160  Function: 3  Alpha:   bh
 POCSAG512: Address: 1876082  Function: 2 
 POCSAG1200: Address:  619020  Function: 3  Alpha:   V<STX>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   15/04/2002 CH3B<NUL><NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 2074178  Function: 0
 POCSAG2400: Address:  829813  Function: 0 
 POCSAG1200: Address:  975473  Function: 2 
 POCSAG1200: Address:  315438  Function: 0 
-POCSAG1200: Address: 1022813  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:46-77 4554<NUL>
-POCSAG1200: Address:  107124  Function: 0 
-POCSAG2400: Address:  858416  Function: 2 
-POCSAG2400: Address:  901449  Function: 2  Alpha:   22:43-02 2222<NUL>
-POCSAG2400: Address:  901450  Function: 2  Alpha:   22:42-47 2222<NUL>
