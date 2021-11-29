@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1221350  Function: 0 
+POCSAG1200: Address:  295084  Function: 2  Alpha:   QI<SOH>QIIYA
+POCSAG2400: Address: 1843794  Function: 1 
+POCSAG2400: Address: 1483442  Function: 1 
+POCSAG1200: Address: 1516113  Function: 0 
+POCSAG1200: Address: 1142472  Function: 0  Alpha:   <DC2><ESC>
 POCSAG1200: Address:  557825  Function: 0 
 POCSAG1200: Address: 1627024  Function: 3 
 POCSAG2400: Address:  434737  Function: 0 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1614416  Function: 1
 POCSAG1200: Address: 1630831  Function: 0 
 POCSAG1200: Address: 1352482  Function: 1 
 POCSAG1200: Address: 1565498  Function: 2 
-POCSAG1200: Address: 1876592  Function: 2 
-POCSAG1200: Address: 2076213  Function: 0 
-POCSAG1200: Address: 1945205  Function: 2 
-POCSAG1200: Address: 1746664  Function: 0 
-POCSAG1200: Address:  301366  Function: 3 
-POCSAG1200: Address: 1455309  Function: 1  Alpha:   <BEL><ETX>
