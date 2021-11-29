@@ -1,3 +1,13 @@
+POCSAG2400: Address:   11754  Function: 0  Alpha:   14:39-34 PLEASE CALL LUKE ON EXT: 6682<NUL>
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN><ACK>
+POCSAG1200: Address:  725123  Function: 0 
+POCSAG2400: Address:  698600  Function: 1 
+POCSAG2400: Address:   28900  Function: 0  Alpha:   14:38-63 2097<NUL>
+POCSAG1200: Address:  958548  Function: 0 
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   14:36-89 69000
+POCSAG1200: Address:  679608  Function: 2  Alpha:   14:36-59 69000
+POCSAG1200: Address:  826953  Function: 0  Alpha:   <CAN><SUB>
+POCSAG1200: Address: 1031705  Function: 2 
 POCSAG1200: Address: 2011842  Function: 2 
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   14:33-66 5076<NUL>
 POCSAG1200: Address: 1187425  Function: 0  Alpha:   $d
@@ -988,13 +998,3 @@ POCSAG1200: Address:  862624  Function: 3  Alpha:   <DC2>9
 POCSAG1200: Address:  795254  Function: 2 
 POCSAG1200: Address: 2096272  Function: 2 
 POCSAG1200: Address:  429590  Function: 0 
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG1200: Address:  106110  Function: 2 
-POCSAG1200: Address: 1024753  Function: 0 
-POCSAG1200: Address: 1878649  Function: 0 
-POCSAG1200: Address: 1811059  Function: 0 
-POCSAG1200: Address: 2025084  Function: 0 
-POCSAG512: Address: 1550235  Function: 3 
-POCSAG1200: Address: 1675524  Function: 3  Alpha:   <NUL><NUL>
-POCSAG1200: Address: 1974993  Function: 0 
-POCSAG1200: Address: 2001470  Function: 0 
