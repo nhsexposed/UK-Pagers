@@ -1,3 +1,18 @@
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<DC2>t<NUL>2f
+POCSAG2400: Address: 2023800  Function: 1 
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   16:53-32 INC ALERT No: 16841
+POCSAG1200: Address: 1761872  Function: 0 
+POCSAG1200: Address:  173752  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:52-11 29/11/2021 16:45:25 INC 24740225 04D04A WARREN GUEST HOUSE15-1
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<DC2>t<NUL>2f
+POCSAG1200: Address: 1016436  Function: 0 
+POCSAG1200: Address: 1487459  Function: 0 
+POCSAG1200: Address: 2024050  Function: 0 
+POCSAG1200: Address: 2027122  Function: 1 
+POCSAG1200: Address: 1359479  Function: 3 
+POCSAG1200: Address: 1206444  Function: 0  Alpha:   <EOT>j
+POCSAG1200: Address: 1626499  Function: 0 
+POCSAG1200: Address: 1483354  Function: 0 
 POCSAG1200: Address: 1068138  Function: 1 
 POCSAG1200: Address: 1148146  Function: 3 
 POCSAG1200: Address: 1746552  Function: 1 
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1806216  Function: 2
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:34-90 4156<NUL>
 POCSAG2400: Address: 1894130  Function: 0 
 POCSAG1200: Address: 1507718  Function: 3  Alpha:   H<ENQ>
-POCSAG1200: Address: 1974903  Function: 2 
-POCSAG1200: Address:  866738  Function: 1 
-POCSAG1200: Address:   30360  Function: 0  Alpha:   <VT><VT>!A<SO>%<HT>Afpb
-POCSAG2400: Address: 1177536  Function: 2 
-POCSAG1200: Address:  567889  Function: 0 
-POCSAG1200: Address: 1985432  Function: 1 
-POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:20-57 2065<NUL>
-POCSAG1200: Address: 2010488  Function: 0 
-POCSAG2400: Address:  434303  Function: 0 
-POCSAG1200: Address: 1686026  Function: 0 
-POCSAG1200: Address: 1014943  Function: 2  Alpha:   :9
-POCSAG1200: Address: 1147168  Function: 0  Alpha:   @<SO>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   08:16-43 2581<NUL>
-POCSAG2400: Address: 1401026  Function: 2 
-POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
