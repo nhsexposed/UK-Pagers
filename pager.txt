@@ -1,3 +1,11 @@
+POCSAG1200: Address:  738844  Function: 2 
+POCSAG1200: Address:  672787  Function: 3  Alpha:   L<CR>
+POCSAG1200: Address: 2007785  Function: 0 
+POCSAG1200: Address:  731760  Function: 0 
+POCSAG1200: Address: 1497401  Function: 1 
+POCSAG1200: Address:  799606  Function: 3 
+POCSAG2400: Address:  420568  Function: 2  Alpha:   E<STX>
+POCSAG1200: Address: 1321857  Function: 2  Alpha:   19:20-22 TEST PAGE PLS RESPOND 
 POCSAG2400: Address: 1483297  Function: 0 
 POCSAG2400: Address: 1875971  Function: 0 
 POCSAG1200: Address: 1676308  Function: 0  Alpha:   <ESC>\\X<SUB><DLE><SUB>Y<ESC><ESC><CAN><SUB><NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1794289  Function: 0  Alpha:   B><LF><FF>L
 POCSAG2400: Address:  313751  Function: 1 
 POCSAG2400: Address:  652180  Function: 3 
 POCSAG1200: Address: 2012752  Function: 2 
-POCSAG1200: Address: 1856975  Function: 1 
-POCSAG2400: Address:  893488  Function: 0 
-POCSAG2400: Address: 2022789  Function: 1  Alpha:   <BS>SeKG
-POCSAG2400: Address: 1299205  Function: 2 
-POCSAG2400: Address:  753484  Function: 2 
-POCSAG2400: Address: 1002516  Function: 1 
-POCSAG2400: Address: 1781835  Function: 3  Alpha:   .<ETB>
-POCSAG1200: Address:  104971  Function: 1 
