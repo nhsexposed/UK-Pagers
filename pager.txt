@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   23:08-07 please call
+POCSAG2400: Address: 1881911  Function: 0 
+POCSAG2400: Address: 1578594  Function: 0  Alpha:   <ETB><SYN>&<SYN><ACK>
+POCSAG2400: Address: 1745532  Function: 0 
+POCSAG2400: Address: 2026356  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  751464  Function: 0 
 POCSAG1200: Address:  352048  Function: 1 
 POCSAG1200: Address: 1548326  Function: 0 
@@ -992,9 +998,3 @@ POCSAG1200: Address:  557825  Function: 0
 POCSAG1200: Address: 1627024  Function: 3 
 POCSAG2400: Address:  434737  Function: 0 
 POCSAG2400: Address:  163968  Function: 2  Alpha:   u@
-POCSAG2400: Address:  532592  Function: 0 
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   FF
-POCSAG2400: Address: 2063616  Function: 2  Alpha:   B<ETX><ESC><ETX><ETX>
-POCSAG2400: Address: 1746668  Function: 0 
-POCSAG2400: Address: 1914025  Function: 2  Alpha:   13:07-58 4034<NUL>
-POCSAG1200: Address:  209391  Function: 0 
