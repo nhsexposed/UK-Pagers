@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0223301121+++TIME=0223301121<NUL>
+POCSAG1200: Address: 2077689  Function: 2 
+POCSAG2400: Address:  904056  Function: 1  Alpha:   I;
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:21-17 3181<NUL>
+POCSAG1200: Address: 1320562  Function: 1 
 POCSAG1200: Address: 1745488  Function: 0 
 POCSAG1200: Address: 1188417  Function: 0 
 POCSAG1200: Address: 1630832  Function: 3 
@@ -993,8 +998,3 @@ POCSAG2400: Address:   11754  Function: 0  Alpha:   14:39-34 PLEASE CALL LUKE ON
 POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN><ACK>
 POCSAG1200: Address:  725123  Function: 0 
 POCSAG2400: Address:  698600  Function: 1 
-POCSAG2400: Address:   28900  Function: 0  Alpha:   14:38-63 2097<NUL>
-POCSAG1200: Address:  958548  Function: 0 
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   14:36-89 69000
-POCSAG1200: Address:  679608  Function: 2  Alpha:   14:36-59 69000
-POCSAG1200: Address:  826953  Function: 0  Alpha:   <CAN><SUB>
