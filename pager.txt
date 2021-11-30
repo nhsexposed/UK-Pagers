@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1913664  Function: 2  Alpha:   13:19-89 5193<NUL>
+POCSAG1200: Address: 1644296  Function: 1  Alpha:   x<SUB>98<HT>
+POCSAG1200: Address: 1929217  Function: 1 
+POCSAG1200: Address: 1343516  Function: 3  Alpha:   Y#
+POCSAG1200: Address: 1837619  Function: 0 
+POCSAG1200: Address: 1758539  Function: 0 
+POCSAG1200: Address: 1118977  Function: 2  Alpha:   <ACK><SYN>
+POCSAG1200: Address: 1396578  Function: 3 
+POCSAG2400: Address: 1615428  Function: 1 
+POCSAG1200: Address: 2008953  Function: 0 
+POCSAG2400: Address: 2009721  Function: 0 
+POCSAG1200: Address: 1220656  Function: 0 
 POCSAG512: Address: 1404480  Function: 0  Alpha:   K<ETX>
 POCSAG1200: Address:  958562  Function: 0 
 POCSAG2400: Address: 1745531  Function: 0 
@@ -986,15 +998,3 @@ POCSAG1200: Address: 1969008  Function: 0
 POCSAG1200: Address:  750728  Function: 0  Alpha:   P<ESC>X,<DLE>b$!P#)"PY
 POCSAG1200: Address: 1712759  Function: 0 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   19:42-27 SEU TRIAGE 23237
-POCSAG2400: Address: 1429544  Function: 0 
-POCSAG2400: Address: 1516144  Function: 0 
-POCSAG1200: Address: 2009971  Function: 1 
-POCSAG1200: Address:  697190  Function: 0 
-POCSAG1200: Address: 1188421  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   15/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1312441  Function: 2  Alpha:   19:28
-POCSAG1200: Address:  198227  Function: 0 
-POCSAG1200: Address:  957787  Function: 0 
-POCSAG1200: Address:  792594  Function: 3 
-POCSAG1200: Address: 1087264  Function: 2  Alpha:   b"
-POCSAG1200: Address: 1370990  Function: 2 
