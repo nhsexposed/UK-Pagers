@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1323249  Function: 2  Alpha:   17:43-80 PLS CALL 07890 251 939.<NUL><NUL>
+POCSAG2400: Address: 2007797  Function: 2 
+POCSAG512: Address: 1352290  Function: 0 
+POCSAG1200: Address: 1979114  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   16/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 2008952  Function: 0 
+POCSAG1200: Address:  696946  Function: 0 
+POCSAG1200: Address: 2024289  Function: 1 
+POCSAG1200: Address: 1243523  Function: 1  Alpha:   D, SW
 POCSAG2400: Address:  546834  Function: 1 
 POCSAG2400: Address: 1485635  Function: 0 
 POCSAG2400: Address:  608047  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1469041  Function: 1
 POCSAG1200: Address:  273040  Function: 3  Alpha:   16/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 2048889  Function: 0 
 POCSAG1200: Address: 1475578  Function: 0 
-POCSAG1200: Address: 1272533  Function: 1  Alpha:   <ENQ>@
-POCSAG1200: Address:   61132  Function: 0  Alpha:   QK
-POCSAG1200: Address: 1786188  Function: 0 
-POCSAG1200: Address:  887819  Function: 1 
-POCSAG1200: Address:  954554  Function: 3  Alpha:   |dD<STX>2
-POCSAG1200: Address: 1257585  Function: 0 
-POCSAG1200: Address: 1643712  Function: 2  Alpha:   \<EOT>
-POCSAG1200: Address: 1556499  Function: 0 
-POCSAG1200: Address:  958546  Function: 0 
