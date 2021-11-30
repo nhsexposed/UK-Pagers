@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:14-90 2182<NUL>
+POCSAG1200: Address:   16980  Function: 2 
+POCSAG1200: Address:  837334  Function: 0 
+POCSAG1200: Address: 1747579  Function: 0 
+POCSAG1200: Address: 1650303  Function: 1 
+POCSAG1200: Address:  619461  Function: 3  Alpha:   <ETB>"I$g
+POCSAG1200: Address:  534572  Function: 2  Alpha:   $<EOT>rv$
+POCSAG1200: Address: 1650300  Function: 1 
+POCSAG1200: Address: 1475156  Function: 2 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   17:10-14 4486<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   17:09-62 5125<NUL>
 POCSAG2400: Address: 1324544  Function: 2  Alpha:   17:08-16 INC ALERT No:
 POCSAG2400: Address: 1320283  Function: 2  Alpha:   17:06-00 4158<NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1321863  Function: 2  Alpha:   <DLE>%
 POCSAG1200: Address: 1747545  Function: 1 
 POCSAG1200: Address: 1758961  Function: 0 
 POCSAG1200: Address: 2028152  Function: 1 
-POCSAG2400: Address: 1933936  Function: 1 
-POCSAG1200: Address:  437254  Function: 0 
-POCSAG1200: Address:  338352  Function: 3  Alpha:   <CAN>[
-POCSAG2400: Address:  584009  Function: 2  Alpha:   00:41-34 5201<NUL>
-POCSAG1200: Address:  592475  Function: 0  Alpha:   <SUB>9
-POCSAG1200: Address:  619459  Function: 3 
-POCSAG1200: Address:  592474  Function: 0  Alpha:   <SUB>9
-POCSAG2400: Address:  958548  Function: 0 
-POCSAG1200: Address:  889984  Function: 2 
-POCSAG1200: Address: 1352272  Function: 0 
