@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   07:48-27 5078<NUL>
+POCSAG2400: Address:  400541  Function: 1 
+POCSAG2400: Address:  568363  Function: 0 
+POCSAG2400: Address: 1874737  Function: 3  Alpha:   <FF><CR><CR>\*
+POCSAG2400: Address:  537697  Function: 0 
 POCSAG1200: Address:  532596  Function: 0 
 POCSAG1200: Address:  951516  Function: 1  Alpha:   Y<SUB>
 POCSAG1200: Address: 1974851  Function: 1 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 2043464  Function: 2
 POCSAG1200: Address:  888917  Function: 3  Alpha:   <STX><SUB>
 POCSAG1200: Address: 1681028  Function: 0  Alpha:   f2
 POCSAG1200: Address:  355890  Function: 0 
-POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>C<DC1> L
-POCSAG2400: Address: 1837685  Function: 1 
-POCSAG2400: Address:   11754  Function: 0  Alpha:   16:28-38 PLEASE CALL EXT 3995 RE: PATIENT REFERRAL 
-POCSAG1200: Address: 2009184  Function: 1 
-POCSAG2400: Address:  801920  Function: 2 
