@@ -1,3 +1,7 @@
+POCSAG512: Address: 1330125  Function: 0 
+POCSAG2400: Address: 1204807  Function: 0 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:52
+POCSAG1200: Address: 2014832  Function: 3 
 POCSAG1200: Address:  144026  Function: 0  Alpha:   <CAN><SYN>
 POCSAG1200: Address:  189577  Function: 0 
 POCSAG1200: Address:  338329  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1196104  Function: 2
 POCSAG2400: Address: 2072896  Function: 0 
 POCSAG1200: Address: 1246809  Function: 3 
 POCSAG2400: Address: 1320201  Function: 2  Alpha:   20:00-52 4283<NUL>
-POCSAG2400: Address: 1323067  Function: 2  Alpha:   19:59-55 PLEASE CALL HUB OPERATIONS<NUL><NUL>
-POCSAG1200: Address: 1744929  Function: 1 
-POCSAG2400: Address: 2023194  Function: 2 
-POCSAG2400: Address: 1876788  Function: 0 
