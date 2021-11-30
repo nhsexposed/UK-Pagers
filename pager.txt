@@ -1,3 +1,5 @@
+POCSAG1200: Address:  590954  Function: 1  Alpha:   $(<DLE>h`
+POCSAG2400: Address:  426736  Function: 0 
 POCSAG1200: Address: 1433077  Function: 3 
 POCSAG1200: Address:  499829  Function: 0 
 POCSAG1200: Address:   33667  Function: 3  Alpha:   aEA<SOH><NUL>
@@ -996,5 +998,3 @@ POCSAG1200: Address:   34535  Function: 1
 POCSAG1200: Address:   93278  Function: 3  Alpha:   <DC2>#
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:33-31 2857<NUL>
 POCSAG1200: Address: 1511870  Function: 2  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1454324  Function: 0 
-POCSAG1200: Address:  420501  Function: 3  Alpha:   V<STX>
