@@ -1,3 +1,5 @@
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   02:32-04 30/11/2021 02:;<SOH>
+POCSAG1200: Address: 2011890  Function: 0 
 POCSAG1200: Address:  757845  Function: 1 
 POCSAG1200: Address: 1974437  Function: 2 
 POCSAG1200: Address:  575756  Function: 1  Alpha:   PI
@@ -996,5 +998,3 @@ POCSAG2400: Address: 1089403  Function: 1
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1448291121+++TIME=1448291121<NUL>
 POCSAG1200: Address:  618313  Function: 3  Alpha:   F&
 POCSAG1200: Address: 2065266  Function: 0 
-POCSAG2400: Address: 2074484  Function: 3 
-POCSAG1200: Address:  174704  Function: 0 
