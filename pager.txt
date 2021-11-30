@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address: 1476654  Function: 2 
+POCSAG1200: Address:   90390  Function: 0  Alpha:   60, C
+POCSAG1200: Address: 1126042  Function: 0 
+POCSAG1200: Address: 1499800  Function: 0  Alpha:   C<DC3>+<ESC><ETX>
+POCSAG1200: Address: 1976883  Function: 0 
 POCSAG1200: Address: 1466388  Function: 2 
 POCSAG1200: Address: 1352816  Function: 0 
 POCSAG1200: Address:  856867  Function: 3  Alpha:   <EOT>j
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1777786  Function: 0
 POCSAG1200: Address: 1117185  Function: 2 
 POCSAG1200: Address: 2074224  Function: 2 
 POCSAG2400: Address: 2065522  Function: 0 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   16:58-56
-POCSAG1200: Address: 1229424  Function: 0 
-POCSAG2400: Address: 2008625  Function: 3  Alpha:   <US><NAK>
-POCSAG2400: Address: 1012864  Function: 2 
-POCSAG2400: Address: 1008316  Function: 2  Alpha:   16:58-64 Test page f
-POCSAG2400: Address: 1841215  Function: 1 
