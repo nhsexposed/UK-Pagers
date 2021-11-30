@@ -1,3 +1,14 @@
+POCSAG1200: Address: 1475580  Function: 0 
+POCSAG2400: Address: 1258825  Function: 0  Alpha:   1Q<DC4><BS><BS><NAK>2Q
+POCSAG2400: Address:  197121  Function: 1  Alpha:   WJ
+POCSAG2400: Address: 1202742  Function: 3 
+POCSAG2400: Address: 1322785  Function: 2  Alpha:   09:47-10 REMINDER  T
+POCSAG2400: Address: 1992563  Function: 0 
+POCSAG2400: Address: 2008162  Function: 0 
+POCSAG2400: Address: 1022276  Function: 0 
+POCSAG2400: Address: 1519116  Function: 0  Alpha:   0 
+POCSAG2400: Address: 2008954  Function: 0 
+POCSAG2400: Address: 1485744  Function: 0  Alpha:   /5
 POCSAG1200: Address: 2074226  Function: 2 
 POCSAG2400: Address: 1586284  Function: 3 
 POCSAG2400: Address: 2044528  Function: 0 
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1684252  Function: 3  Alpha:   `d
 POCSAG1200: Address:  557771  Function: 3 
 POCSAG1200: Address:  189075  Function: 2 
 POCSAG1200: Address:  206162  Function: 1 
-POCSAG1200: Address:  660025  Function: 2  Alpha:   <EOT><STX>
-POCSAG1200: Address:  772088  Function: 2 
-POCSAG1200: Address:  532593  Function: 0 
-POCSAG1200: Address:  225557  Function: 2 
-POCSAG1200: Address: 2031731  Function: 1 
-POCSAG1200: Address: 1933874  Function: 0 
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:12-77 2307<NUL>
-POCSAG1200: Address: 2074229  Function: 2 
-POCSAG1200: Address:  764532  Function: 2 
-POCSAG2400: Address:   33578  Function: 0  Alpha:   QY<SOH>QIAE<SOH>
-POCSAG1200: Address:  826339  Function: 1  Alpha:   h,.L<CR><SO><FF><NUL>
