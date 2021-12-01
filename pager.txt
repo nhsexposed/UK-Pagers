@@ -1,3 +1,7 @@
+POCSAG1200: Address: 2077822  Function: 0 
+POCSAG1200: Address: 1978488  Function: 1 
+POCSAG1200: Address: 2091640  Function: 0 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   0 *56
 POCSAG1200: Address: 2007932  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153011221+++TIME=01<NAK><SYN>011221<NUL>
 POCSAG1200: Address:  532789  Function: 3 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 2007956  Function: 0
 POCSAG2400: Address: 1913729  Function: 2 
 POCSAG1200: Address: 1262605  Function: 1 
 POCSAG1200: Address:  955443  Function: 2 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   13:38-18 30/11/2021 13:36:04 INC 24744669 31D03 BULLS 
-POCSAG2400: Address: 1321200  Function: 2  Alpha:   13:37-00 39179
-POCSAG2400: Address:  960117  Function: 0 
-POCSAG1200: Address: 1080205  Function: 2  Alpha:   13:31-62 30/11
