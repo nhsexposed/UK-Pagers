@@ -1,3 +1,7 @@
+POCSAG2400: Address:  279922  Function: 3 
+POCSAG2400: Address: 1220663  Function: 0 
+POCSAG2400: Address: 1999984  Function: 0 
+POCSAG2400: Address: 1324011  Function: 2  Alpha:   u0:40-61
 POCSAG1200: Address:  216514  Function: 2  Alpha:   19:40:22 S10P1 Fire call 14998<NUL>
 POCSAG1200: Address:  435959  Function: 0  Alpha:   ~}
 POCSAG1200: Address:  480783  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1241116  Function: 2
 POCSAG2400: Address: 2008664  Function: 2 
 POCSAG1200: Address: 2011892  Function: 0 
 POCSAG1200: Address: 1025105  Function: 0 
-POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK><ACK>
-POCSAG1200: Address:  696060  Function: 2  Alpha:   P9;15-04`!81<ENQ>(
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0913011221+++TIME=0913011221<NUL>
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   09:13-96
