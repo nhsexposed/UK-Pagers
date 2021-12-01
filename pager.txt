@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1417840  Function: 0 
+POCSAG1200: Address: 1205453  Function: 1 
+POCSAG1200: Address: 1246268  Function: 0 
+POCSAG1200: Address: 1268988  Function: 3 
+POCSAG1200: Address: 2023541  Function: 0 
 POCSAG2400: Address: 1423136  Function: 1 
 POCSAG1200: Address: 1229428  Function: 0 
 POCSAG1200: Address: 1843827  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1188408  Function: 3  Alpha:   <CR>E<CAN>6<ACK>
 POCSAG1200: Address:  697360  Function: 0  Alpha:   <VT>4<ACK>D<DC4><EM>(<CAN>4<ACK><NUL>
 POCSAG1200: Address:  567889  Function: 0 
 POCSAG1200: Address:  600698  Function: 0  Alpha:   09:02-03 TEST<NUL>
-POCSAG2400: Address:  795477  Function: 0 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   09:00-98 33905
-POCSAG1200: Address: 1942116  Function: 0 
-POCSAG1200: Address: 1614688  Function: 2 
-POCSAG1200: Address: 1275764  Function: 3  Alpha:   knownY COLD NOT B
