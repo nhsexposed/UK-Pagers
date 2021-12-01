@@ -1,3 +1,14 @@
+POCSAG1200: Address: 1942113  Function: 0 
+POCSAG1200: Address:  446910  Function: 0 
+POCSAG1200: Address:  115582  Function: 1 
+POCSAG1200: Address:  309269  Function: 1 
+POCSAG1200: Address:   67786  Function: 0  Alpha:   <EM><BS>
+POCSAG2400: Address: 1483513  Function: 1 
+POCSAG2400: Address: 2026352  Function: 2 
+POCSAG2400: Address:  295509  Function: 0 
+POCSAG2400: Address:  893493  Function: 0 
+POCSAG2400: Address:  926242  Function: 0 
+POCSAG1200: Address: 1321626  Function: 2  Alpha:   11:39-82 Destination: Parking\D
 POCSAG1200: Address:  979952  Function: 0 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   11:38-26 2343<NUL>
 POCSAG2400: Address: 1485433  Function: 1 
@@ -987,14 +998,3 @@ POCSAG1200: Address: 2009201  Function: 0
 POCSAG1200: Address:  675921  Function: 3  Alpha:   <STX><SUB>
 POCSAG1200: Address: 1261177  Function: 2 
 POCSAG1200: Address:  942088  Function: 1  Alpha:   #P''<DLE>
-POCSAG1200: Address: 1645580  Function: 0 
-POCSAG1200: Address: 1861651  Function: 1 
-POCSAG1200: Address: 2027636  Function: 1 
-POCSAG1200: Address:    4984  Function: 2  Alpha:   %]
-POCSAG1200: Address: 1401948  Function: 2  Alpha:   <ETX><DC2><FF>L<DC4>%<EOT><DC2>}<FF>$
-POCSAG1200: Address: 1352441  Function: 0 
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1749681  Function: 2 
-POCSAG1200: Address:  200800  Function: 2  Alpha:   19
-POCSAG2400: Address:  700017  Function: 0 
-POCSAG1200: Address:  829814  Function: 0 
