@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1764144  Function: 0 
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   09:37-65 64854
+POCSAG2400: Address:   28904  Function: 0  Alpha:   09:36-86 4166<NUL>
+POCSAG2400: Address: 1678170  Function: 1  Alpha:   jf
+POCSAG2400: Address:  216665  Function: 3 
+POCSAG2400: Address:  434737  Function: 0 
 POCSAG2400: Address:  297353  Function: 0  Alpha:   Y<SOH>
 POCSAG1200: Address: 1258904  Function: 2  Alpha:   09:32-59 2857<NUL>
 POCSAG2400: Address:   28904  Function: 0  Alpha:   09:32-85 4166<NUL>
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1095090  Function: 0
 POCSAG1200: Address: 1712757  Function: 0 
 POCSAG1200: Address:   51688  Function: 3 
 POCSAG2400: Address: 1876534  Function: 0 
-POCSAG2400: Address: 1876528  Function: 0 
-POCSAG1200: Address: 1127568  Function: 0  Alpha:   <FF>h0P<DC4>H<DC4>u<DLE>hQ<DC4><DC1>hLmm-<CR><FF><BS><CR>L-MM<FF><NUL>
-POCSAG1200: Address: 1835765  Function: 1 
-POCSAG1200: Address:  960119  Function: 0 
-POCSAG2400: Address: 2024498  Function: 0 
-POCSAG1200: Address: 1015256  Function: 2  Alpha:   17:53-21 Stop Message received for Incident 2
