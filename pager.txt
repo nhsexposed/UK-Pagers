@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1746669  Function: 0 
+POCSAG1200: Address: 1515657  Function: 0  Alpha:   &<RS>
+POCSAG2400: Address: 2009649  Function: 0 
+POCSAG2400: Address: 1745520  Function: 0 
+POCSAG1200: Address: 1745892  Function: 0 
+POCSAG1200: Address:  733414  Function: 0 
+POCSAG1200: Address: 1717458  Function: 1 
 POCSAG1200: Address: 1600277  Function: 0 
 POCSAG1200: Address: 1321719  Function: 2  Alpha:   08
 POCSAG1200: Address:   40602  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address:  534572  Function: 2  Alpha:   $<EOT>rv$
 POCSAG1200: Address: 1650300  Function: 1 
 POCSAG1200: Address: 1475156  Function: 2 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   17:10-14 4486<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   17:09-62 5125<NUL>
-POCSAG2400: Address: 1324544  Function: 2  Alpha:   17:08-16 INC ALERT No:
-POCSAG2400: Address: 1320283  Function: 2  Alpha:   17:06-00 4158<NUL>
-POCSAG2400: Address: 1896819  Function: 0 
-POCSAG2400: Address: 1966615  Function: 0 
-POCSAG2400: Address: 1860472  Function: 1 
-POCSAG1200: Address: 2007928  Function: 1 
