@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1323101  Function: 2  Alpha:   02
+POCSAG1200: Address: 1876349  Function: 1 
+POCSAG1200: Address: 1959538  Function: 2 
+POCSAG1200: Address:  282136  Function: 2 
+POCSAG1200: Address: 2026481  Function: 0 
 POCSAG2400: Address:  976502  Function: 3 
 POCSAG2400: Address: 2065525  Function: 0 
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1718889  Function: 0
 POCSAG2400: Address:   70032  Function: 2  Alpha:   al Nu
 POCSAG2400: Address: 1295967  Function: 2  Alpha:   O%
 POCSAG1200: Address:  689722  Function: 0 
-POCSAG1200: Address: 1713776  Function: 2 
-POCSAG1200: Address: 1246411  Function: 0 
-POCSAG1200: Address: 1422120  Function: 2  Alpha:   f`
-POCSAG512: Address: 1330125  Function: 0 
-POCSAG2400: Address: 1204807  Function: 0 
