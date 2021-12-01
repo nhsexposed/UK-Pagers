@@ -1,3 +1,19 @@
+POCSAG1200: Address:  646500  Function: 2  Alpha:   0<DLE>
+POCSAG1200: Address:  495376  Function: 2 
+POCSAG2400: Address: 1999600  Function: 0 
+POCSAG1200: Address: 2014837  Function: 3 
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1331608  Function: 0  Alpha:   hH<LF><EOT><EM><HT><LF><EOT><SUB><CAN>i<HT>t(J<BS>466<ACK><BEL>6<ACK>DF6f<ACK><SYN><ACK><NUL>
+POCSAG2400: Address: 1638609  Function: 0 
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   13:57-15 310v<NUL>
+POCSAG1200: Address: 1943764  Function: 1 
+POCSAG1200: Address: 1705427  Function: 2  Alpha:    <FS>
+POCSAG1200: Address: 1219568  Function: 1  Alpha:   SE,:W
+POCSAG1200: Address:  111119  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1761238  Function: 0  Alpha:   8<CR>
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   <DC2>H
+POCSAG1200: Address: 1975089  Function: 0 
+POCSAG1200: Address: 1819250  Function: 2 
 POCSAG2400: Address: 1032521  Function: 3  Alpha:   Fl
 POCSAG1200: Address:  828003  Function: 2 
 POCSAG1200: Address:  295779  Function: 0 
@@ -982,19 +998,3 @@ POCSAG1200: Address:  269054  Function: 2  Alpha:   22:44
 POCSAG1200: Address: 2012134  Function: 0 
 POCSAG1200: Address:   40074  Function: 2  Alpha:   22:43-^?
 POCSAG1200: Address: 2004532  Function: 0 
-POCSAG1200: Address: 1860212  Function: 0 
-POCSAG1200: Address:  939032  Function: 0 
-POCSAG1200: Address:  779786  Function: 0 
-POCSAG1200: Address:  501793  Function: 2 
-POCSAG1200: Address:  693425  Function: 0 
-POCSAG1200: Address: 1942098  Function: 2 
-POCSAG2400: Address:  909416  Function: 1 
-POCSAG1200: Address:  829050  Function: 0 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  353804  Function: 0  Alpha:   <DC3>h
-POCSAG2400: Address: 1471608  Function: 0 
-POCSAG2400: Address:  896928  Function: 3 
-POCSAG2400: Address:   11773  Function: 0  Alpha:   22:34-06 4312<NUL>|<DEL>_
-POCSAG1200: Address:  975472  Function: 2 
-POCSAG1200: Address: 1975155  Function: 2 
-POCSAG1200: Address:  534182  Function: 2 
