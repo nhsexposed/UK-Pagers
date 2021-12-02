@@ -1,3 +1,14 @@
+POCSAG1200: Address: 2063432  Function: 2  Alpha:   Mt
+POCSAG2400: Address: 2075379  Function: 1 
+POCSAG2400: Address: 1812083  Function: 1 
+POCSAG2400: Address:  583528  Function: 2  Alpha:   23:33-13 80300
+POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  135874  Function: 2  Alpha:   Pf0v2p[\.<DLE>d
+POCSAG1200: Address:  353109  Function: 2  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG2400: Address:  584009  Function: 2  Alpha:   23:30-76 43<ETB>v<FS>
+POCSAG2400: Address:  696534  Function: 2 
+POCSAG2400: Address:  583842  Function: 2  Alpha:   23:30-19 80300
 POCSAG2400: Address: 1320138  Function: 2  Alpha:   23:28-83 80300
 POCSAG1200: Address: 1745786  Function: 1 
 POCSAG1200: Address:  926240  Function: 0 
@@ -987,14 +998,3 @@ POCSAG2400: Address: 1630960  Function: 0
 POCSAG2400: Address: 2007144  Function: 0 
 POCSAG2400: Address: 1321504  Function: 2  Alpha:   15:18-23 @jS CALL GP ON 07957 790 843
 POCSAG1200: Address:  334075  Function: 2  Alpha:   15:18-90 02/12/2021 
-POCSAG1200: Address: 2075378  Function: 1 
-POCSAG1200: Address: 1052820  Function: 2 
-POCSAG1200: Address:  926243  Function: 0 
-POCSAG2400: Address:  161377  Function: 3 
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   15:16-50 3117<NUL>
-POCSAG2400: Address: 1913762  Function: 2  Alpha:   15:14-90 5013<NUL>
-POCSAG1200: Address: 1512700  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
-POCSAG1200: Address: 1993329  Function: 0 
-POCSAG2400: Address: 2007099  Function: 0 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CT8L
