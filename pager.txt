@@ -1,3 +1,10 @@
+POCSAG2400: Address: 2013747  Function: 0 
+POCSAG2400: Address:  977107  Function: 2  Alpha:   20:53-71 NHSBT - DONOR RE
+POCSAG2400: Address:  950638  Function: 0  Alpha:   <SYN><ETB>f<ACK><EOT>y=<SO><RS>M<RS>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1811616  Function: 2  Alpha:   <SOH><CR>
+POCSAG1200: Address: 1745494  Function: 0 
+POCSAG2400: Address:   28908  Function: 0  Alpha:   20:49-63 4166<NUL>
 POCSAG2400: Address:   28894  Function: 0  Alpha:   20:49-15 4157<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048021221+++TIME=2048021221<NUL>
 POCSAG2400: Address: 1016438  Function: 0 
@@ -991,10 +998,3 @@ POCSAG2400: Address: 1221202  Function: 0
 POCSAG2400: Address: 1016432  Function: 0 
 POCSAG2400: Address: 2024309  Function: 0 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   12:51-53 4157<NUL>
-POCSAG2400: Address: 1913997  Function: 2  Alpha:   12:50-57 5928<NUL>
-POCSAG2400: Address: 2026357  Function: 2 
-POCSAG2400: Address: 1815156  Function: 1 
-POCSAG2400: Address: 1749620  Function: 0 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   12:48-28 5204<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   12:47-64 5204<NUL>
-POCSAG2400: Address: 2028152  Function: 1 
