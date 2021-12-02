@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1978491  Function: 1 
+POCSAG2400: Address: 2074230  Function: 2 
+POCSAG1200: Address: 1712757  Function: 1 
+POCSAG1200: Address:   74156  Function: 1  Alpha:   _'S<SI>#<VT>?<BEL>K<DC3><ETX>=;<ETX>AEUMU<SOH>YUIUEE<SOH><NUL>
+POCSAG2400: Address: 1188421  Function: 0 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   18:19-84 PROBLEM: Opsview - Data Warehouse Status is CRITICAL on host o
 POCSAG1200: Address: 1352293  Function: 0 
 POCSAG2400: Address: 2007561  Function: 0 
@@ -993,8 +998,3 @@ POCSAG2400: Address: 2045344  Function: 0  Alpha:   1q
 POCSAG1200: Address: 1483122  Function: 0 
 POCSAG1200: Address:  426017  Function: 0 
 POCSAG1200: Address: 2009680  Function: 1 
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   eB
-POCSAG1200: Address:   10017  Function: 2  Alpha:   n<SO>
-POCSAG1200: Address:  568557  Function: 0  Alpha:   =<SO><DC4>}&
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 2000625  Function: 1 
