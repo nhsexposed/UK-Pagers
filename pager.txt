@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1876668  Function: 0 
+POCSAG2400: Address:  926386  Function: 2 
+POCSAG1200: Address: 1511979  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1032697  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 1747064  Function: 0  Alpha:   <DEL><DC4>
+POCSAG1200: Address: 1715057  Function: 0 
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
+POCSAG2400: Address:  295505  Function: 0 
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   16
+POCSAG1200: Address: 1717321  Function: 1 
+POCSAG1200: Address: 2024289  Function: 1 
+POCSAG2400: Address: 2028155  Function: 1 
+POCSAG1200: Address:  420501  Function: 3  Alpha:   6"
 POCSAG1200: Address: 1120889  Function: 1 
 POCSAG512: Address:   29460  Function: 0  Alpha:   fS
 POCSAG1200: Address: 2073191  Function: 0 
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1351906  Function: 0
 POCSAG1200: Address:  995952  Function: 3  Alpha:   /<DC1>
 POCSAG1200: Address:  197134  Function: 2 
 POCSAG1200: Address:  200283  Function: 2 
-POCSAG1200: Address:  189074  Function: 2 
-POCSAG1200: Address:  738921  Function: 1 
-POCSAG1200: Address:  799605  Function: 3 
-POCSAG1200: Address: 1450156  Function: 3 
-POCSAG1200: Address: 1482010  Function: 0 
-POCSAG1200: Address: 1672999  Function: 3  Alpha:   lnr@hfpldb<NUL>
-POCSAG1200: Address: 1877041  Function: 0 
-POCSAG1200: Address: 1813097  Function: 2  Alpha:   `b
-POCSAG2400: Address: 1484502  Function: 3 
-POCSAG2400: Address: 1322772  Function: 2  Alpha:   08:33-54 PLS CALL JENNA DAVIES 0800 432 0559 OPTION 2 RE: DONOR 153185<NUL>
-POCSAG2400: Address:  583850  Function: 2  Alpha:   08:32-40 80300
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address:  247497  Function: 1 
