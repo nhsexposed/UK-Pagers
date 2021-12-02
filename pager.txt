@@ -1,3 +1,16 @@
+POCSAG1200: Address:  727318  Function: 2 
+POCSAG1200: Address: 1315987  Function: 2  Alpha:   ix
+POCSAG1200: Address: 1253163  Function: 0 
+POCSAG1200: Address: 1925769  Function: 2 
+POCSAG1200: Address:  990136  Function: 3 
+POCSAG1200: Address: 1032650  Function: 3  Alpha:   %2
+POCSAG2400: Address:   28905  Function: 0  Alpha:   11:12-48 2182<NUL>
+POCSAG1200: Address:  931639  Function: 2 
+POCSAG2400: Address: 1811161  Function: 0 
+POCSAG2400: Address: 1324366  Function: 2  Alpha:   11:11-33 84266
+POCSAG2400: Address:   28896  Function: 0  Alpha:   11:11-23 2642<NUL>
+POCSAG2400: Address: 1913715  Function: 2  Alpha:   11:10-76 4520<NUL>
+POCSAG1200: Address: 1843828  Function: 0 
 POCSAG1200: Address: 1974881  Function: 0 
 POCSAG1200: Address: 2040389  Function: 0 
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   11:08-80 4156<NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address:   28907  Function: 0  Alpha:   20:05-88 4411<NUL>
 POCSAG2400: Address: 2026355  Function: 2 
 POCSAG2400: Address:  580135  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=200
-POCSAG2400: Address: 1450360  Function: 1 
-POCSAG1200: Address: 1446449  Function: 0 
-POCSAG1200: Address: 1895008  Function: 0 
-POCSAG1200: Address: 1057794  Function: 1  Alpha:   4+<ETX>B#,<EOT><SUB>$n<SO>f<LF><NUL><DC2>k<EOT>"L<DC4><EOT>:<DC4>%<EOT><SUB><ESC>KKCC<ETX><SUB>;3<DC3><DC3>3<ETX>
-POCSAG1200: Address: 1352291  Function: 0 
-POCSAG1200: Address: 1974378  Function: 0 
-POCSAG1200: Address: 1190485  Function: 0 
-POCSAG1200: Address: 1877084  Function: 0 
-POCSAG1200: Address: 1614451  Function: 0 
-POCSAG1200: Address:  926449  Function: 0 
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   19:56-30
-POCSAG1200: Address:   78689  Function: 2  Alpha:   <DLE>a`a%<DLE>h`*f$g"P'-p*d"
-POCSAG1200: Address:   33723  Function: 2  Alpha:   19:56-53 19:56-52 URGENT! PLEASE C
