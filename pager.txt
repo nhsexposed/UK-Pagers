@@ -1,3 +1,34 @@
+POCSAG1200: Address: 1511979  Function: 3  Alpha:   <ACK><SO>
+POCSAG1200: Address: 1479537  Function: 0 
+POCSAG1200: Address:  893494  Function: 0 
+POCSAG2400: Address:  425912  Function: 3 
+POCSAG2400: Address: 2088952  Function: 3 
+POCSAG2400: Address: 1680369  Function: 0 
+POCSAG2400: Address: 1996160  Function: 2 
+POCSAG2400: Address: 1483644  Function: 0 
+POCSAG1200: Address:  567164  Function: 0  Alpha:   ;?_;g<STX>A>NN&<LF>2<SYN><STX>MV<DC2><DC2><SYN>
+POCSAG1200: Address: 1817185  Function: 2 
+POCSAG1200: Address: 2008697  Function: 2 
+POCSAG2400: Address: 1368625  Function: 0 
+POCSAG2400: Address: 1802833  Function: 0 
+POCSAG2400: Address: 1324034  Function: 2  Alpha:   17:00-34 Green: This is the daily pager test. Please take no further action.<NUL>
+POCSAG2400: Address: 1323968  Function: 2  Alpha:   17:00-76 Green: This i
+POCSAG2400: Address: 1323907  Function: 2  Alpha:   17
+POCSAG2400: Address: 1614688  Function: 2 
+POCSAG2400: Address: 1843827  Function: 0 
+POCSAG2400: Address: 1550323  Function: 0 
+POCSAG2400: Address: 1777686  Function: 0 
+POCSAG2400: Address: 1849198  Function: 2 
+POCSAG2400: Address: 1815068  Function: 0  Alpha:   17:01-67 CARDIAC ARREST - BUCKLEY WARD, BED 7 - 16:59<NUL>
+POCSAG2400: Address: 1475152  Function: 2 
+POCSAG1200: Address: 2065527  Function: 0 
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   V(
+POCSAG2400: Address: 2008807  Function: 0 
+POCSAG2400: Address:  434736  Function: 0 
+POCSAG1200: Address: 2073424  Function: 3 
+POCSAG2400: Address: 2025458  Function: 1 
+POCSAG2400: Address: 1605600  Function: 1 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   17:00-80 02
 POCSAG2400: Address: 1949440  Function: 1 
 POCSAG2400: Address: 2029296  Function: 0 
 POCSAG2400: Address: 2040422  Function: 1 
@@ -967,34 +998,3 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:37
 POCSAG1200: Address:  684653  Function: 3  Alpha:   <NAK>&
 POCSAG1200: Address:  420502  Function: 2  Alpha:   vD
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN> L
-POCSAG2400: Address:  958833  Function: 0 
-POCSAG2400: Address:  583419  Function: 2  Alpha:   09:34-54 80300
-POCSAG2400: Address: 1913940  Function: 2  Alpha:   09:34-75 4312<NUL>
-POCSAG1200: Address: 1483296  Function: 0 
-POCSAG1200: Address:  295508  Function: 0 
-POCSAG1200: Address:  315697  Function: 0  Alpha:   EN
-POCSAG1200: Address:  339864  Function: 3  Alpha:   9<HT>4J<LF>
-POCSAG1200: Address: 1483824  Function: 0 
-POCSAG1200: Address: 1728873  Function: 3  Alpha:    g,<DLE>*d ge)<DLE>
-POCSAG1200: Address: 1237625  Function: 0 
-POCSAG1200: Address:  791201  Function: 1 
-POCSAG1200: Address: 2010099  Function: 0 
-POCSAG1200: Address: 2044672  Function: 0  Alpha:   <ETX>Q?<ETX>Q
-POCSAG1200: Address: 1843751  Function: 2 
-POCSAG1200: Address:   75966  Function: 1  Alpha:   <FS><
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   09:29-20
-POCSAG1200: Address: 1746544  Function: 0 
-POCSAG1200: Address: 1869521  Function: 0 
-POCSAG1200: Address:  928304  Function: 2 
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   v0
-POCSAG2400: Address: 1913848  Function: 2  Alpha:   09:26-96 4885<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:25-42 4316<NUL>
-POCSAG1200: Address:  649969  Function: 2  Alpha:   09:24-98 63117
-POCSAG1200: Address:  535779  Function: 0 
-POCSAG1200: Address: 1718114  Function: 1 
-POCSAG1200: Address: 1762370  Function: 0 
-POCSAG1200: Address: 1523120  Function: 2 
-POCSAG1200: Address: 1877604  Function: 2 
-POCSAG1200: Address:  216668  Function: 3 
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   09
-POCSAG1200: Address: 1089611  Function: 2 
