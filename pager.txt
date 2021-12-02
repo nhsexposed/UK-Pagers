@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1738993  Function: 0 
+POCSAG2400: Address:  532592  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:  434736  Function: 0 
+POCSAG1200: Address: 1516672  Function: 2  Alpha:   <EOT><NUL>
+POCSAG1200: Address:  761151  Function: 2 
+POCSAG1200: Address: 1270024  Function: 3 
+POCSAG1200: Address:  734832  Function: 2  Alpha:   <LF>T<EM>L]<FF>T<ACK><SYN><VT><EOT><SUB>h9(Z<CAN><CAN>I<SUB>8(
+POCSAG2400: Address: 1736830  Function: 2 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:41-37 2447<NUL>
+POCSAG2400: Address: 1485553  Function: 3 
 POCSAG1200: Address: 2063432  Function: 2  Alpha:   Mt
 POCSAG2400: Address: 2075379  Function: 1 
 POCSAG2400: Address: 1812083  Function: 1 
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1876960  Function: 0
 POCSAG1200: Address:  390114  Function: 2 
 POCSAG1200: Address:  995955  Function: 3 
 POCSAG2400: Address: 1913656  Function: 2  Alpha:   15:20-51 3117<NUL>
-POCSAG1200: Address:  216428  Function: 2  Alpha:   15:20-64 6696<NUL>
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG1200: Address:  197476  Function: 3  Alpha:   qA
-POCSAG1200: Address:  267675  Function: 0 
-POCSAG1200: Address: 1221648  Function: 0  Alpha:   19<ESC><CAN><ESC><US><BS>.-<SYN><BS>0p0
-POCSAG1200: Address:  336423  Function: 2  Alpha:   15:19-41 02/12/2021 
-POCSAG1200: Address: 1483377  Function: 1 
-POCSAG2400: Address: 1630960  Function: 0 
-POCSAG2400: Address: 2007144  Function: 0 
-POCSAG2400: Address: 1321504  Function: 2  Alpha:   15:18-23 @jS CALL GP ON 07957 790 843
-POCSAG1200: Address:  334075  Function: 2  Alpha:   15:18-90 02/12/2021 
