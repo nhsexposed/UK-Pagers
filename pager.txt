@@ -1,3 +1,19 @@
+POCSAG1200: Address: 1746530  Function: 0 
+POCSAG1200: Address: 2025456  Function: 1 
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>c<EOT><SOH>L
+POCSAG1200: Address: 1058499  Function: 2  Alpha:   16:53-60 Call 24757263 - 
+POCSAG2400: Address: 1913907  Function: 2  Alpha:   16:53-59 4314<NUL>
+POCSAG1200: Address:  695910  Function: 2  Alpha:   16:53-57 Call 24757263 - Warning - Scene Unsafe. Contract Control for further add(ee.
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   16:52-93 3508<NUL>
+POCSAG2400: Address: 1478257  Function: 0 
+POCSAG1200: Address: 2091642  Function: 0 
+POCSAG2400: Address: 1812083  Function: 1 
+POCSAG1200: Address: 1976402  Function: 0 
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:50-17 61373
+POCSAG1200: Address:  679608  Function: 2  Alpha:   16:50-87 61373
+POCSAG1200: Address: 2007564  Function: 0 
+POCSAG1200: Address: 1565298  Function: 1 
+POCSAG1200: Address:  565576  Function: 3  Alpha:   ACT SM<NUL><NUL>
 POCSAG1200: Address: 2012028  Function: 0 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   16:48-01 5114<NUL>
 POCSAG2400: Address:  549145  Function: 2 
@@ -982,19 +998,3 @@ POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-23 0913 Area Controlle
 POCSAG2400: Address: 1022473  Function: 0  Alpha:   09:16-83 SECC team test<NUL><NUL>
 POCSAG1200: Address: 1705426  Function: 2 
 POCSAG1200: Address:  585450  Function: 2  Alpha:   09:14-10 4906<NUL>
-POCSAG1200: Address:  317386  Function: 3 
-POCSAG1200: Address:  549088  Function: 2  Alpha:   09:13
-POCSAG2400: Address: 1184332  Function: 1  Alpha:   s<DC1>(<DLE><NAK>
-POCSAG1200: Address: 1856146  Function: 1 
-POCSAG1200: Address: 1188171  Function: 0 
-POCSAG1200: Address: 1942384  Function: 0 
-POCSAG1200: Address: 2024052  Function: 0 
-POCSAG1200: Address:  688692  Function: 2 
-POCSAG2400: Address: 1999189  Function: 0 
-POCSAG1200: Address:  131112  Function: 0 
-POCSAG1200: Address: 1717071  Function: 3  Alpha:   O%
-POCSAG1200: Address:   74158  Function: 0  Alpha:   RN
-POCSAG1200: Address:  298133  Function: 0 
-POCSAG2400: Address: 1712948  Function: 0 
-POCSAG2400: Address: 1913943  Function: 2  Alpha:   09:07-19 2150<NUL>
-POCSAG2400: Address:  393351  Function: 0 
