@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1215688  Function: 0  Alpha:   <ETX><EM>Addd<NUL><NUL>
+POCSAG1200: Address: 2041536  Function: 2  Alpha:   <ETX><NUL>
+POCSAG1200: Address: 1882864  Function: 0 
+POCSAG1200: Address:  504693  Function: 0 
+POCSAG1200: Address: 1737314  Function: 2 
+POCSAG1200: Address: 1974577  Function: 0 
 POCSAG1200: Address: 1876531  Function: 0 
 POCSAG1200: Address: 1548913  Function: 1 
 POCSAG1200: Address: 1876576  Function: 0 
@@ -992,9 +998,3 @@ POCSAG1200: Address:  407168  Function: 2
 POCSAG1200: Address: 1778796  Function: 0  Alpha:   EUAMAIEIIE<SOH>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  549209  Function: 2  Alpha:   15:01-61 You've turned on two-step authentication<NUL><NUL>
-POCSAG1200: Address: 1974848  Function: 1 
-POCSAG2400: Address: 1909401  Function: 0  Alpha:   /v&<BEL><LF>&<BEL><DC2><ETX><DC3><VT>k<LF><DC3>k<STX><DC3><ETX><LF>+S<ETX><ETX>S#;<ETX><NUL>
-POCSAG2400: Address: 1322173  Function: 2  Alpha:   15:00-73 Ping failure! Service Unreachable!https://sinorecords.or
-POCSAG1200: Address:  966930  Function: 0 
-POCSAG1200: Address: 1032928  Function: 0 
-POCSAG2400: Address: 1877086  Function: 0 
