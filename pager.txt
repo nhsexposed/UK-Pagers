@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1229424  Function: 0 
+POCSAG1200: Address:  184995  Function: 0  Alpha:   <SUB><ESC><VT><ETX>;K<ETX><SUB>K<ESC>C<DC3>C<ETX>
+POCSAG1200: Address: 2011890  Function: 0 
+POCSAG1200: Address: 2074224  Function: 2 
+POCSAG2400: Address: 2003056  Function: 0 
+POCSAG2400: Address:   28925  Function: 0  Alpha:   10:51-28 4197<NUL>
+POCSAG1200: Address:  825767  Function: 0 
 POCSAG1200: Address: 1511870  Function: 2  Alpha:   V<STX>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  367451  Function: 0  Alpha:   f`
@@ -991,10 +998,3 @@ POCSAG1200: Address:  216514  Function: 2  Alpha:   19:40:22 S10P1 Fire call 149
 POCSAG1200: Address:  435959  Function: 0  Alpha:   ~}
 POCSAG1200: Address:  480783  Function: 0 
 POCSAG1200: Address:  808982  Function: 0  Alpha:   ,<SO>
-POCSAG1200: Address:  535749  Function: 0  Alpha:   +;
-POCSAG1200: Address:  664178  Function: 2 
-POCSAG1200: Address: 1237625  Function: 0 
-POCSAG1200: Address: 1500781  Function: 0 
-POCSAG1200: Address:  670483  Function: 0 
-POCSAG1200: Address: 1469671  Function: 0  Alpha:   A<SO>%<HT>Afpfrph@frphrh<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:33-08 2233<NUL>
