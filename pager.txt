@@ -1,3 +1,14 @@
+POCSAG1200: Address: 1512700  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG1200: Address: 1993329  Function: 0 
+POCSAG2400: Address: 2007099  Function: 0 
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CT8L
+POCSAG1200: Address:  413064  Function: 2  Alpha:   15:11-21 Please call ext 3294<NUL><NUL>
+POCSAG2400: Address: 1978740  Function: 0 
+POCSAG1200: Address: 1745488  Function: 0 
+POCSAG2400: Address: 2008957  Function: 0 
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   15:10-49 3140<NUL>
+POCSAG2400: Address: 2011184  Function: 0 
 POCSAG1200: Address: 2005629  Function: 2 
 POCSAG1200: Address:  103016  Function: 0  Alpha:   <GS>/<ETX>3A&)%<VT><VT>)Y@<EOT>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:08-89 5400<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1745013  Function: 0
 POCSAG1200: Address:  451811  Function: 1 
 POCSAG1200: Address: 1974389  Function: 1 
 POCSAG1200: Address:  115715  Function: 1 
-POCSAG1200: Address:  269068  Function: 2 
-POCSAG1200: Address: 1573775  Function: 2  Alpha:   06
-POCSAG1200: Address: 1179964  Function: 0  Alpha:   25062
-POCSAG1200: Address: 1810998  Function: 2 
-POCSAG1200: Address: 2003025  Function: 1 
-POCSAG1200: Address: 1483124  Function: 0 
-POCSAG1200: Address:  722810  Function: 2 
-POCSAG1200: Address:   57120  Function: 2  Alpha:   3Q<DEL><ACK><BEL>X<LF><GS>
-POCSAG1200: Address: 2023974  Function: 0 
-POCSAG1200: Address: 2095864  Function: 0 
-POCSAG1200: Address: 1031513  Function: 3  Alpha:   <ACK>/
