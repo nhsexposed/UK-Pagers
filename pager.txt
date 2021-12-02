@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   &$
+POCSAG1200: Address: 1483091  Function: 1 
+POCSAG1200: Address:   88437  Function: 3 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   10:22-03 0<ETX>
+POCSAG1200: Address: 1980084  Function: 0 
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   10:20-38 02/12/2021 
+POCSAG2400: Address: 1913700  Function: 2  Alpha:   10:19-10 5202<NUL>
 POCSAG1200: Address: 2074838  Function: 0 
 POCSAG1200: Address: 2017441  Function: 3  Alpha:   @<EM>
 POCSAG2400: Address: 2073329  Function: 2 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1978994  Function: 0
 POCSAG1200: Address: 1220657  Function: 0 
 POCSAG2400: Address: 1878649  Function: 1 
 POCSAG2400: Address:  104454  Function: 0 
-POCSAG2400: Address: 2032776  Function: 2  Alpha:   5<SOH>MRV<SO>.<STX>%:<STX>
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   18:44-13 INC ALERT No: 16871551 Inaccesible I
-POCSAG2400: Address: 1484413  Function: 0 
-POCSAG2400: Address: 1871460  Function: 0 
-POCSAG1200: Address:  135328  Function: 2  Alpha:   18:40-42 Call 24752130
-POCSAG1200: Address:  959605  Function: 0 
-POCSAG2400: Address: 1749042  Function: 0 
