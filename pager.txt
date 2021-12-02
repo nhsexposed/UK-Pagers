@@ -1,3 +1,8 @@
+POCSAG1200: Address:  401693  Function: 2  Alpha:   20:29-04 DR LE
+POCSAG1200: Address: 2009704  Function: 0 
+POCSAG2400: Address: 2009681  Function: 1 
+POCSAG1200: Address: 1754840  Function: 3 
+POCSAG2400: Address: 2024288  Function: 1 
 POCSAG1200: Address: 2093875  Function: 2 
 POCSAG2400: Address: 1324545  Function: 2  Alpha:   20:23
 POCSAG2400: Address: 1869520  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1618554  Function: 2
 POCSAG1200: Address: 1843829  Function: 0 
 POCSAG1200: Address: 1843828  Function: 0 
 POCSAG1200: Address: 1548400  Function: 2 
-POCSAG1200: Address: 1547451  Function: 3  Alpha:   <EM><DLE>
-POCSAG1200: Address: 1957057  Function: 1 
-POCSAG1200: Address:  635737  Function: 0 
-POCSAG1200: Address:  673924  Function: 1  Alpha:   <STX><DC3><VT>A,<VT><DC1><DC3><BEL><EM><VT>A@v@<CAN>g` c@<CAN>g` e@<CAN>+sh`<NUL><NUL>
-POCSAG1200: Address: 2077816  Function: 0 
