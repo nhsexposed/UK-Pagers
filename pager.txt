@@ -1,3 +1,9 @@
+POCSAG1200: Address:  836219  Function: 0 
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <ACK>d
+POCSAG1200: Address: 2008954  Function: 0 
+POCSAG2400: Address: 1190640  Function: 0 
+POCSAG2400: Address: 2007476  Function: 1 
+POCSAG1200: Address: 2024978  Function: 1 
 POCSAG1200: Address:  484968  Function: 3  Alpha:   <LF><DLE>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443021221+++TIME=1443021221<NUL>
 POCSAG1200: Address: 1565498  Function: 2  Alpha:   14:43-42 02/12/2021 14:40:44 INC 24756635 06E01 LANCASHIRE FIRE & RE
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1817185  Function: 3  Alpha:   <ACK>6<ACK><ACK><ACK><ACK><E
 POCSAG1200: Address: 1258592  Function: 3  Alpha:   <LF>;
 POCSAG1200: Address: 1880640  Function: 0 
 POCSAG1200: Address:  420669  Function: 3 
-POCSAG2400: Address: 1527066  Function: 2 
-POCSAG1200: Address:  828017  Function: 2 
-POCSAG1200: Address: 1089904  Function: 0 
-POCSAG1200: Address: 1290850  Function: 0 
-POCSAG1200: Address:  202334  Function: 3 
-POCSAG1200: Address: 1390334  Function: 0 
