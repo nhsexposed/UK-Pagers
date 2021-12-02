@@ -1,3 +1,11 @@
+POCSAG1200: Address:  689721  Function: 0 
+POCSAG1200: Address: 1070720  Function: 0 
+POCSAG1200: Address:  631703  Function: 2 
+POCSAG1200: Address:  500241  Function: 0 
+POCSAG2400: Address:   28869  Function: 0  Alpha:   23:11-41 PLS CALL DR
+POCSAG1200: Address: 2014848  Function: 2 
+POCSAG1200: Address: 1220834  Function: 0 
+POCSAG1200: Address:   22104  Function: 2  Alpha:   23:09-33 02/12
 POCSAG1200: Address: 1215688  Function: 0  Alpha:   <ETX><EM>Addd<NUL><NUL>
 POCSAG1200: Address: 2041536  Function: 2  Alpha:   <ETX><NUL>
 POCSAG1200: Address: 1882864  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1715057  Function: 0
 POCSAG1200: Address: 1737314  Function: 2 
 POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<DC2>WJ1f
 POCSAG1200: Address: 1993464  Function: 0 
-POCSAG1200: Address:  952938  Function: 0 
-POCSAG1200: Address:  314589  Function: 2  Alpha:   15:04-75 3129<NUL>
-POCSAG2400: Address: 1634682  Function: 1 
-POCSAG1200: Address: 1188417  Function: 0 
-POCSAG1200: Address:  407168  Function: 2 
-POCSAG1200: Address: 1778796  Function: 0  Alpha:   EUAMAIEIIE<SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  549209  Function: 2  Alpha:   15:01-61 You've turned on two-step authentication<NUL><NUL>
