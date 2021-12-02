@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1896817  Function: 0 
+POCSAG1200: Address:  618313  Function: 3  Alpha:   &(
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-23 0913 Area Controllers Test pag
+POCSAG2400: Address: 1022473  Function: 0  Alpha:   09:16-83 SECC team test<NUL><NUL>
+POCSAG1200: Address: 1705426  Function: 2 
+POCSAG1200: Address:  585450  Function: 2  Alpha:   09:14-10 4906<NUL>
 POCSAG1200: Address:  317386  Function: 3 
 POCSAG1200: Address:  549088  Function: 2  Alpha:   09:13
 POCSAG2400: Address: 1184332  Function: 1  Alpha:   s<DC1>(<DLE><NAK>
@@ -992,9 +998,3 @@ POCSAG2400: Address:  472192  Function: 0
 POCSAG1200: Address: 2008696  Function: 2 
 POCSAG1200: Address: 1894005  Function: 2 
 POCSAG1200: Address:  678450  Function: 2  Alpha:   ,t<EOT><ENQ>b
-POCSAG2400: Address:  836217  Function: 0 
-POCSAG1200: Address:  452386  Function: 2  Alpha:   <DLE><NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:12-03 4387<NUL>
-POCSAG1200: Address: 1039248  Function: 0 
-POCSAG1200: Address: 1175386  Function: 1  Alpha:   X<ESC><ESC><CAN>P
-POCSAG2400: Address: 1022277  Function: 0  Alpha:   17:11
