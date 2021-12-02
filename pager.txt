@@ -1,3 +1,18 @@
+POCSAG1200: Address:  484968  Function: 3  Alpha:   <LF><DLE>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443021221+++TIME=1443021221<NUL>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   14:43-42 02/12/2021 14:40:44 INC 24756635 06E01 LANCASHIRE FIRE & RE
+POCSAG1200: Address:  618313  Function: 3  Alpha:   Fl
+POCSAG1200: Address: 2005624  Function: 2 
+POCSAG2400: Address: 2007284  Function: 0 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:42-32 2642<NUL>
+POCSAG1200: Address: 1764146  Function: 0 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:41-90 02/12/2021 14:38:29 INC 24756625 
+POCSAG2400: Address: 2093174  Function: 0 
+POCSAG2400: Address: 2007165  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &<ACK>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:40-13 2619<NUL>
+POCSAG1200: Address:  413072  Function: 0 
+POCSAG1200: Address:   66097  Function: 0  Alpha:   $P#)"P<EM>\<SUB><CAN><EM><EM>PY<FS>\<FS>\<SUB><NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   14:38-86 4312<NUL>
 POCSAG2400: Address: 1322970  Function: 2  Alpha:   14:38-70 Lab 8109
 POCSAG1200: Address: 1032915  Function: 2  Alpha:   <ACK><EOT>
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1089904  Function: 0
 POCSAG1200: Address: 1290850  Function: 0 
 POCSAG1200: Address:  202334  Function: 3 
 POCSAG1200: Address: 1390334  Function: 0 
-POCSAG1200: Address: 2025081  Function: 0 
-POCSAG1200: Address: 1709281  Function: 2  Alpha:   ]<NUL>
-POCSAG1200: Address: 1974866  Function: 0 
-POCSAG1200: Address:   94790  Function: 3 
-POCSAG1200: Address: 1494293  Function: 2  Alpha:   I<LF>
-POCSAG1200: Address: 1330450  Function: 0 
-POCSAG1200: Address:  725057  Function: 3 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   04:<DC2><ETB>m.9 02
-POCSAG1200: Address:   50341  Function: 1  Alpha:   ]Y<SOH>MeEeMQ<SOH><NUL>
-POCSAG1200: Address:  631644  Function: 0  Alpha:   hd
-POCSAG1200: Address:  725011  Function: 2 
-POCSAG1200: Address:    2827  Function: 0 
-POCSAG1200: Address: 1032714  Function: 3  Alpha:   <STX>@
-POCSAG1200: Address:  837851  Function: 0  Alpha:   :w
-POCSAG1200: Address: 1745490  Function: 0 
