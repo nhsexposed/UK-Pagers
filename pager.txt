@@ -1,3 +1,13 @@
+POCSAG1200: Address: 1092812  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
+POCSAG1200: Address:  627547  Function: 0  Alpha:   jn
+POCSAG2400: Address: 1423153  Function: 2  Alpha:   13:21-66 2307<NUL>
+POCSAG1200: Address:  295504  Function: 0 
+POCSAG1200: Address: 1999456  Function: 1 
+POCSAG2400: Address: 2026480  Function: 0 
+POCSAG2400: Address:  980565  Function: 0 
+POCSAG1200: Address: 2009620  Function: 0 
+POCSAG1200: Address: 1745493  Function: 0 
+POCSAG1200: Address:  197476  Function: 3  Alpha:   5H
 POCSAG2400: Address: 1568369  Function: 0 
 POCSAG2400: Address: 1320373  Function: 2  Alpha:   13:17-36 4935<NUL>
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><CAN>
@@ -988,13 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   <ETX>a!!!
 POCSAG1200: Address: 1203307  Function: 3 
 POCSAG1200: Address: 1806049  Function: 0  Alpha:   <SO><ESC>
 POCSAG1200: Address: 1688193  Function: 0  Alpha:   D<LF>Y<BS>d
-POCSAG1200: Address: 1912476  Function: 2  Alpha:   J<LF>
-POCSAG2400: Address: 2009715  Function: 2 
-POCSAG1200: Address: 1441905  Function: 0 
-POCSAG1200: Address: 1090781  Function: 0  Alpha:   <ESC><ETX><DC3><VT><DC3><DC3><VT><ETX>p<ETB>v
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0033021221+++TIME
-POCSAG1200: Address: 1811980  Function: 1 
-POCSAG1200: Address:  353819  Function: 1 
-POCSAG1200: Address: 1667106  Function: 0  Alpha:   G<ENQ>
-POCSAG1200: Address: 1516115  Function: 0 
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   00:30-04 $z
