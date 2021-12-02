@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1312634  Function: 2  Alpha:   19:21:42 S03L2 Fire call 15043<NUL>
+POCSAG1200: Address:  149295  Function: 2  Alpha:   19:21:42 S03L2 Fire call 15043<NUL>
+POCSAG1200: Address: 1312633  Function: 2  Alpha:   19:21:42 S03L2 Fire call 15043<NUL>
+POCSAG1200: Address: 1483606  Function: 2 
+POCSAG1200: Address: 1352291  Function: 0 
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG1200: Address: 1981041  Function: 2 
+POCSAG2400: Address: 2027632  Function: 1 
+POCSAG2400: Address: 1998950  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:17-23 2008<NUL>
+POCSAG1200: Address: 1993464  Function: 0 
+POCSAG1200: Address:  214093  Function: 2  Alpha:   19:10
+POCSAG1200: Address:  958548  Function: 0 
+POCSAG1200: Address:  696948  Function: 0 
+POCSAG1200: Address:  600824  Function: 0  Alpha:   <DLE><DC2>T,<CAN>l0f
 POCSAG1200: Address: 1352289  Function: 0 
 POCSAG1200: Address:  265256  Function: 3  Alpha:   <DC2>C<ENQ><ESC>L
 POCSAG1200: Address: 1190640  Function: 0 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1745888  Function: 0
 POCSAG2400: Address: 2013813  Function: 1 
 POCSAG2400: Address: 1032944  Function: 1 
 POCSAG1200: Address: 1507910  Function: 0  Alpha:   <HT><LF>
-POCSAG1200: Address:  532598  Function: 0 
-POCSAG1200: Address: 1550993  Function: 2  Alpha:   11:37-99 50794
-POCSAG2400: Address: 2026358  Function: 2 
-POCSAG2400: Address: 1976277  Function: 0 
-POCSAG1200: Address:  290120  Function: 3  Alpha:   <ACK><ETX>
-POCSAG2400: Address: 2091642  Function: 0 
-POCSAG2400: Address: 1224793  Function: 2 
-POCSAG2400: Address: 1740656  Function: 2 
-POCSAG1200: Address: 1222260  Function: 0 
-POCSAG1200: Address: 1868466  Function: 2 
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   11:34-76 02/12/2021 11:32:19 INC 24755721 26D01 WALTON HOUSE NURSING
-POCSAG1200: Address:  926242  Function: 0 
-POCSAG1200: Address: 2025488  Function: 0 
-POCSAG2400: Address:  434742  Function: 0 
-POCSAG1200: Address: 1737447  Function: 1 
