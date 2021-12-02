@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1770612  Function: 2  Alpha:   20:58-03 479<NUL><NUL>
+POCSAG1200: Address: 1975905  Function: 1 
+POCSAG1200: Address: 1354622  Function: 0 
+POCSAG1200: Address: 2005629  Function: 2 
+POCSAG1200: Address: 1026676  Function: 1 
+POCSAG1200: Address: 2000498  Function: 0 
+POCSAG1200: Address:   40088  Function: 2  Alpha:   20:55-12 PLEASE CALL CTCCU EXT: 72639
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   20:55-08 PLEASE CALL HUB OPERATIONS TO MOBILISE NORS TO DONOR 153217
 POCSAG2400: Address: 2013747  Function: 0 
 POCSAG2400: Address:  977107  Function: 2  Alpha:   20:53-71 NHSBT - DONOR RE
 POCSAG2400: Address:  950638  Function: 0  Alpha:   <SYN><ETB>f<ACK><EOT>y=<SO><RS>M<RS>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1861476  Function: 2
 POCSAG2400: Address: 1946228  Function: 1 
 POCSAG1200: Address:  290222  Function: 3  Alpha:   T"
 POCSAG1200: Address: 2024980  Function: 1 
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12
-POCSAG2400: Address: 1913681  Function: 2  Alpha:   12:53-42 4269<NUL>
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address: 1221172  Function: 3 
-POCSAG2400: Address: 1221202  Function: 0 
-POCSAG2400: Address: 1016432  Function: 0 
-POCSAG2400: Address: 2024309  Function: 0 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   12:51-53 4157<NUL>
