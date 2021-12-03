@@ -1,3 +1,9 @@
+POCSAG1200: Address: 2008957  Function: 0 
+POCSAG1200: Address: 1474597  Function: 1  Alpha:   @,
+POCSAG1200: Address: 1487387  Function: 0 
+POCSAG1200: Address: 1220656  Function: 0 
+POCSAG2400: Address:  537634  Function: 0  Alpha:   <ACK><ACK>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:19-60
 POCSAG1200: Address: 2003576  Function: 0 
 POCSAG1200: Address: 2076255  Function: 0 
 POCSAG1200: Address:  432776  Function: 2  Alpha:   08:17-52 03/12/20
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1352308  Function: 0
 POCSAG1200: Address: 1999100  Function: 0 
 POCSAG1200: Address:  149333  Function: 2  Alpha:   19:27:57 S03L2 Fire call 15043<NUL>
 POCSAG1200: Address: 1312631  Function: 2  Alpha:   19:27:57 S03L2 Fire call 15043<NUL>
-POCSAG1200: Address: 1141984  Function: 1  Alpha:   UAQM=
-POCSAG1200: Address:  149331  Function: 2  Alpha:   19:27:57 S03L2 Fire call 15043<NUL>
-POCSAG1200: Address: 1923704  Function: 2 
-POCSAG2400: Address: 1811161  Function: 0 
-POCSAG1200: Address: 1313150  Function: 2  Alpha:   19:23-71 (2/3) BETWEEN FLOOR AND GROUND; Assigned: JY17P1, JY17P2; Roles    JY17P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA);<NUL>
-POCSAG1200: Address: 1749845  Function: 2 
