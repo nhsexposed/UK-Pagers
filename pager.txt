@@ -1,3 +1,20 @@
+POCSAG1200: Address: 2040005  Function: 0 
+POCSAG2400: Address: 2013810  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:52-48 3536<NUL>
+POCSAG1200: Address:  472599  Function: 1  Alpha:    397317<NUL>
+POCSAG1200: Address:  678481  Function: 2  Alpha:   12:51-44 03/12/2021 12:50:10 INC 24761255 12D02 AMADEUS RESIDENTIAL 
+POCSAG2400: Address: 1323179  Function: 2  Alpha:   12
+POCSAG1200: Address: 1958521  Function: 0 
+POCSAG1200: Address: 1613934  Function: 0  Alpha:   "<ACK>Z<SYN>:
+POCSAG1200: Address: 2008954  Function: 0 
+POCSAG2400: Address: 1321585  Function: 2  Alpha:   12:50-69 pls call 36484<NUL><NUL>
+POCSAG1200: Address: 1807466  Function: 3 
+POCSAG1200: Address: 1933938  Function: 1 
+POCSAG1200: Address: 2007472  Function: 1 
+POCSAG2400: Address:  435792  Function: 2 
+POCSAG1200: Address:  918621  Function: 0  Alpha:   *"
+POCSAG1200: Address:  362412  Function: 0 
 POCSAG1200: Address: 1959538  Function: 2 
 POCSAG2400: Address: 1913570  Function: 2  Alpha:   12:46-63 4379<NUL>
 POCSAG1200: Address: 1258563  Function: 0 
@@ -981,20 +998,3 @@ POCSAG2400: Address: 1322785  Function: 2  Alpha:   05
 POCSAG1200: Address:  789504  Function: 0 
 POCSAG2400: Address: 1016438  Function: 0 
 POCSAG2400: Address:   28924  Function: 0  Alpha:   05:13-18 2183<NUL>
-POCSAG1200: Address:   28610  Function: 0  Alpha:   <DEL>CkCKC<ETX><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0503031221+++TIME=0503031221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BB
-POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1190644  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0448031221+++TIME=0448031221<NUL>
-POCSAG1200: Address: 1999646  Function: 0 
-POCSAG1200: Address: 1990771  Function: 0 
-POCSAG1200: Address:  710752  Function: 2  Alpha:   <SYN>NR<STX>A<ACK>&:<STX><GS>J<DC2><STX>M]eYUa<SOH>MUUQUM<SOH><NUL>
-POCSAG1200: Address: 1222740  Function: 0 
-POCSAG1200: Address:  829811  Function: 0 
-POCSAG2400: Address: 1966608  Function: 0 
-POCSAG2400: Address: 1352485  Function: 1 
-POCSAG1200: Address: 1880945  Function: 3 
-POCSAG512: Address:  553732  Function: 1  Alpha:   fS
-POCSAG512: Address: 1023515  Function: 2  Alpha:   9<EM>H[<ESC>
-POCSAG512: Address:  711994  Function: 3 
