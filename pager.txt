@@ -1,3 +1,10 @@
+POCSAG2400: Address:  672016  Function: 0  Alpha:   IIACBa<SOH><NUL>
+POCSAG1200: Address:  954485  Function: 2 
+POCSAG1200: Address:  959222  Function: 1 
+POCSAG1200: Address: 1974278  Function: 0 
+POCSAG2400: Address: 1812086  Function: 1 
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   17:45-87 INC ALERT No: 16879608 Cardi1c<ENQ>Arrest -, AT: 7 LODGE CLOSE, YATTON BRISTOL, BS49 4DX, Time of Call: 03/12/2021 17:36:48, Co-ords: 51.38670985 -2.825641393<NUL><NUL>
+POCSAG1200: Address: 1730409  Function: 2  Alpha:   319 390896<NUL>
 POCSAG1200: Address: 1942266  Function: 1 
 POCSAG2400: Address:  952919  Function: 2 
 POCSAG2400: Address:   67969  Function: 1  Alpha:   NN
@@ -991,10 +998,3 @@ POCSAG1200: Address: 2018032  Function: 0
 POCSAG1200: Address: 2089810  Function: 0 
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   10:47-35 5839<NUL>
 POCSAG2400: Address: 1913929  Function: 2  Alpha:   10:47-95 4479<NUL>
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   9<BS><SYN>LL
-POCSAG1200: Address:  471248  Function: 2  Alpha:   <VT>(3qS"Qt<DC4>hS<DC1><BS>4
-POCSAG1200: Address: 2077688  Function: 2 
-POCSAG2400: Address: 1215089  Function: 0 
-POCSAG2400: Address:  583580  Function: 2  Alpha:   10:45-34 80300
-POCSAG2400: Address: 1323792  Function: 2  Alpha:   10:45-39 2767<NUL>
-POCSAG1200: Address: 2009685  Function: 1 
