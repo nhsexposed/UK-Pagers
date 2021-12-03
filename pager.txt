@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1323992  Function: 2  Alpha:   14:14-32 4297<NUL>
+POCSAG2400: Address:  941999  Function: 3  Alpha:   <FF><EOT>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a tes
+POCSAG1200: Address:  421148  Function: 1  Alpha:   <EM><DLE>
+POCSAG1200: Address:  276067  Function: 1  Alpha:   vf
+POCSAG1200: Address: 1132128  Function: 2 
+POCSAG1200: Address: 1032061  Function: 2  Alpha:   <ETX>B
 POCSAG1200: Address: 1855752  Function: 1 
 POCSAG2400: Address: 1484496  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3A<NUL><NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1484499  Function: 3
 POCSAG1200: Address:  321464  Function: 2 
 POCSAG1200: Address:  791402  Function: 1  Alpha:   ,$
 POCSAG1200: Address:  180988  Function: 3  Alpha:   *F''<SUB><ENQ>!I
-POCSAG1200: Address:  592056  Function: 0  Alpha:   ZH
-POCSAG1200: Address:  758378  Function: 1 
-POCSAG1200: Address:  925741  Function: 3  Alpha:   K<DC3><LF> G
-POCSAG1200: Address:  915009  Function: 0 
-POCSAG1200: Address: 1948546  Function: 3  Alpha:   ~e
-POCSAG1200: Address: 1156288  Function: 3 
-POCSAG1200: Address: 1407241  Function: 1 
