@@ -1,3 +1,12 @@
+POCSAG1200: Address: 1400904  Function: 0  Alpha:   <ETX><SUB>C"<VT>^C<ETX>
+POCSAG2400: Address: 1324305  Function: 2  Alpha:   15:58-59 80300
+POCSAG1200: Address: 1052892  Function: 2 
+POCSAG2400: Address: 1942192  Function: 3 
+POCSAG2400: Address:  926819  Function: 0 
+POCSAG1200: Address:  958548  Function: 0 
+POCSAG2400: Address:   28927  Function: 0  Alpha:   15:56-26 4201<NUL>
+POCSAG1200: Address:  269059  Function: 2 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN>!
 POCSAG2400: Address: 2025489  Function: 0 
 POCSAG2400: Address: 2007600  Function: 2 
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   15:54-89 03/12/2021 15:48:57 INC 24762133 06E01O 25 DUNDALK ROAD, WIDNES WA8, WA8 8DF Female 90Y 90 YO F - DIB GRD 349936 385935
@@ -989,12 +998,3 @@ POCSAG2400: Address:  475784  Function: 3
 POCSAG2400: Address:  549165  Function: 2  Alpha:   09:30-09 80300|<DEL><DEL>
 POCSAG2400: Address: 1474620  Function: 1 
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:30-26 2182<NUL>
-POCSAG2400: Address:  583541  Function: 2  Alpha:   09:30-93 80300
-POCSAG2400: Address: 1323337  Function: 2  Alpha:   09:30-37 80300
-POCSAG1200: Address: 1894480  Function: 3 
-POCSAG1200: Address: 1349434  Function: 1 
-POCSAG2400: Address:   28906  Function: 0  Alpha:   09:29-49 3211<NUL>
-POCSAG2400: Address:  583537  Function: 2  Alpha:   09:29-02 80300
-POCSAG2400: Address: 1022563  Function: 0  Alpha:   09::7=70 71393
-POCSAG2400: Address: 2024317  Function: 2 
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:26-72 5203<NUL>
