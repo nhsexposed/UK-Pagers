@@ -1,3 +1,12 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1313031221+++TIME=1313031221<NUL>
+POCSAG1200: Address: 2027254  Function: 2 
+POCSAG1200: Address: 1681272  Function: 0  Alpha:   `h^d``d@<ACK><DC1>g<STX><SOH><NUL>
+POCSAG1200: Address: 1737236  Function: 1 
+POCSAG1200: Address: 1099730  Function: 1  Alpha:   App2A
+POCSAG1200: Address:  610745  Function: 2 
+POCSAG1200: Address:  213709  Function: 1  Alpha:   <LF>[
+POCSAG2400: Address:   41594  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:09-34 03/12/2021 13:08:12 INC 24761343 18C02 78 HOPWOOD ROAD, HOPWOOD MANCHESTER, M24 6HY Male 63Y HEADACHE GRD 387205 407800
 POCSAG1200: Address: 1620560  Function: 3  Alpha:   h<DC1>
 POCSAG2400: Address:  750288  Function: 2  Alpha:   +TIME=1308031221<NUL>
 POCSAG1200: Address: 2007930  Function: 2 
@@ -989,12 +998,3 @@ POCSAG2400: Address:  140079  Function: 1  Alpha:   g<DC2>T|<SUB>
 POCSAG2400: Address: 1837499  Function: 2  Alpha:   <DC4><FS>:Y<<DC1>(<VT> <DC1><CAN>9x<FS>
 POCSAG2400: Address:  339155  Function: 2 
 POCSAG2400: Address: 1021618  Function: 1 
-POCSAG2400: Address: 1671937  Function: 0  Alpha:   $<VT>
-POCSAG2400: Address:  200369  Function: 1 
-POCSAG2400: Address:  421048  Function: 2 
-POCSAG2400: Address:  959537  Function: 2 
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   06:05-96 03/12/2021 06:02:56 INC 24759785 25B03 HARTSHORNE COURT - FLAT 10, GRANTHAM STREET, MOSS SIDE MANCHESTER, M1
-POCSAG1200: Address: 1966608  Function: 0 
-POCSAG2400: Address:  829810  Function: 0 
-POCSAG2400: Address:  216272  Function: 2  Alpha:   06:05-28 PROBLEM: vSphere - Datast
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:54-52 4156<NUL>
