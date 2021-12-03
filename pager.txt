@@ -1,3 +1,14 @@
+POCSAG1200: Address: 2028259  Function: 0 
+POCSAG2400: Address: 1492603  Function: 1 
+POCSAG1200: Address: 1747023  Function: 2 
+POCSAG1200: Address: 1757494  Function: 0  Alpha:   S 
+POCSAG1200: Address: 1262613  Function: 2  Alpha:   <DC4>r
+POCSAG1200: Address: 1149059  Function: 3  Alpha:   f(
+POCSAG1200: Address:  396698  Function: 0  Alpha:   <FS><DLE>
+POCSAG1200: Address:  266849  Function: 1  Alpha:   vf
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  109359  Function: 3  Alpha:   O%(08
+POCSAG1200: Address:  200287  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0803031221+++TIME=0803031221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0803031221+++TIME=0803031221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   19o<DC1>5/2002 CH3B<NUL><NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1312633  Function: 2  Alpha:   19:21:42 S03L2 Fire call 150
 POCSAG1200: Address: 1483606  Function: 2 
 POCSAG1200: Address: 1352291  Function: 0 
 POCSAG1200: Address:  600938  Function: 0 
-POCSAG1200: Address: 1981041  Function: 2 
-POCSAG2400: Address: 2027632  Function: 1 
-POCSAG2400: Address: 1998950  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:17-23 2008<NUL>
-POCSAG1200: Address: 1993464  Function: 0 
-POCSAG1200: Address:  214093  Function: 2  Alpha:   19:10
-POCSAG1200: Address:  958548  Function: 0 
-POCSAG1200: Address:  696948  Function: 0 
-POCSAG1200: Address:  600824  Function: 0  Alpha:   <DLE><DC2>T,<CAN>l0f
-POCSAG1200: Address: 1352289  Function: 0 
-POCSAG1200: Address:  265256  Function: 3  Alpha:   <DC2>C<ENQ><ESC>L
