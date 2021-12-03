@@ -1,3 +1,12 @@
+POCSAG1200: Address: 1942266  Function: 1 
+POCSAG2400: Address:  952919  Function: 2 
+POCSAG2400: Address:   67969  Function: 1  Alpha:   NN
+POCSAG2400: Address: 1069879  Function: 2 
+POCSAG2400: Address:  365406  Function: 1  Alpha:   pd
+POCSAG2400: Address: 1324445  Function: 2  Alpha:   <DC1>;
+POCSAG1200: Address: 1483366  Function: 0 
+POCSAG1200: Address: 2025461  Function: 1 
+POCSAG2400: Address: 2072696  Function: 1 
 POCSAG1200: Address: 1594926  Function: 2  Alpha:   17:37-33 PLS CALL ON 0161 206 5575 <NUL><NUL>
 POCSAG1200: Address: 2009184  Function: 1 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:34-31
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1215089  Function: 0
 POCSAG2400: Address:  583580  Function: 2  Alpha:   10:45-34 80300
 POCSAG2400: Address: 1323792  Function: 2  Alpha:   10:45-39 2767<NUL>
 POCSAG1200: Address: 2009685  Function: 1 
-POCSAG1200: Address: 2008952  Function: 0 
-POCSAG1200: Address: 1500190  Function: 2  Alpha:   10:45-28
-POCSAG1200: Address: 1815006  Function: 0  Alpha:   10
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   10:44-49 4908<NUL>
-POCSAG1200: Address:  532594  Function: 0 
-POCSAG1200: Address: 1059192  Function: 2 
-POCSAG2400: Address:  752582  Function: 3  Alpha:   e0
-POCSAG1200: Address:  278826  Function: 1  Alpha:   a<SOH>QAIIEY
-POCSAG1200: Address: 1761872  Function: 0 
