@@ -1,3 +1,14 @@
+POCSAG1200: Address:  778854  Function: 0 
+POCSAG1200: Address: 2026354  Function: 2 
+POCSAG1200: Address: 2008802  Function: 0 
+POCSAG1200: Address: 1090560  Function: 2  Alpha:   11:38-81 03/<NAK>0
+POCSAG1200: Address:  290120  Function: 3  Alpha:   ^Z
+POCSAG1200: Address:  790656  Function: 3 
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   v`
+POCSAG1200: Address: 1220702  Function: 0 
+POCSAG1200: Address: 2007149  Function: 0 
+POCSAG1200: Address: 1746529  Function: 0 
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   11:35-54 4262<NUL>
 POCSAG2400: Address:  431164  Function: 0 
 POCSAG512: Address:  959222  Function: 0 
 POCSAG2400: Address:  549033  Function: 2  Alpha:   11:31-12 CT 8920<NUL>
@@ -987,14 +998,3 @@ POCSAG2400: Address: 1221488  Function: 2
 POCSAG1200: Address: 2044531  Function: 0 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:09-41 4316<NUL>
 POCSAG2400: Address: 1993312  Function: 0 
-POCSAG2400: Address: 1487446  Function: 0 
-POCSAG2400: Address:  101638  Function: 0 
-POCSAG2400: Address:  975419  Function: 0 
-POCSAG1200: Address: 1071849  Function: 0  Alpha:   Sk<SOH>=Z<SYN>J<STX>Y<SOH>!JN<STX><CR>&R<STX>5<SOH>Q"
-POCSAG1200: Address:  695322  Function: 2  Alpha:   00:05-89
-POCSAG2400: Address: 1990976  Function: 1  Alpha:   iS
-POCSAG1200: Address:  688743  Function: 0 
-POCSAG2400: Address: 1884768  Function: 1 
-POCSAG2400: Address:  696530  Function: 2 
-POCSAG2400: Address:  216268  Function: 2  Alpha:   00:02-06 PROBLEM:
-POCSAG1200: Address:  592865  Function: 3 
