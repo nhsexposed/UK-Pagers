@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG2400: Address:   16008  Function: 0 
+POCSAG2400: Address:  583414  Function: 2  Alpha:   11:03-29 80300
+POCSAG2400: Address: 1659880  Function: 0 
+POCSAG2400: Address: 1323880  Function: 2  Alpha:   11:02-58 5076<NUL>
+POCSAG2400: Address:  584097  Function: 2  Alpha:   11:02-88 80300
+POCSAG1200: Address: 1746530  Function: 0 
+POCSAG1200: Address:  265228  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  678665  Function: 2 
+POCSAG2400: Address: 1454320  Function: 0 
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   11:00-86 2182<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   10:59-53 6411<NUL>
 POCSAG2400: Address: 1913954  Function: 2  Alpha:   10:58-20 4312<NUL>
 POCSAG2400: Address: 1745239  Function: 0 
 POCSAG2400: Address: 1913761  Function: 2  Alpha:   10:58-85 2799<NUL>
@@ -986,15 +998,3 @@ POCSAG2400: Address: 2008641  Function: 0
 POCSAG1200: Address: 2009981  Function: 0 
 POCSAG1200: Address: 1039156  Function: 0 
 POCSAG1200: Address: 1039266  Function: 0  Alpha:   J<EM>
-POCSAG1200: Address:  553706  Function: 0 
-POCSAG1200: Address:  901457  Function: 0 
-POCSAG2400: Address: 1958522  Function: 0 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:45-32 3507<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:45-40 5201<NUL>
-POCSAG1200: Address: 1245768  Function: 2  Alpha:   71
-POCSAG512: Address:  195464  Function: 1 
-POCSAG1200: Address:   64622  Function: 0  Alpha:   <NAK>S
-POCSAG1200: Address:  345285  Function: 0 
-POCSAG1200: Address: 1887493  Function: 3 
-POCSAG1200: Address:  176900  Function: 3 
-POCSAG1200: Address:  658011  Function: 1  Alpha:   <CAN>h
