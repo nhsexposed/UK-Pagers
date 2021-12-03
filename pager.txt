@@ -1,3 +1,11 @@
+POCSAG1200: Address:  371490  Function: 2  Alpha:   @@<SUB><ETX><GS>3A(<DC1><ETX><GS><ETB>'Y@<ACK><US><GS>)%<US><EM>A<NUL><NUL>
+POCSAG1200: Address: 2011248  Function: 2 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   09:07-74 03/12/2021 09:06ZE<SYN>TX<EM>
+POCSAG1200: Address:   40141  Function: 0 
+POCSAG1200: Address:  434741  Function: 0 
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG2400: Address: 1614396  Function: 0 
+POCSAG2400: Address: 1913804  Function: 2  Alpha:   09:05-31 5202<NUL>
 POCSAG1200: Address:  778848  Function: 0 
 POCSAG2400: Address:   79936  Function: 2  Alpha:   %<EM>
 POCSAG2400: Address: 1399368  Function: 2 
@@ -990,11 +998,3 @@ POCSAG2400: Address:  695173  Function: 1  Alpha:   +k;TIME=2003021221+++TIME=20
 POCSAG1200: Address: 1092762  Function: 2  Alpha:   20:01-96 02/12/2021 19:57:08 IN
 POCSAG1200: Address: 2001489  Function: 0 
 POCSAG2400: Address:   28916  Function: 0  Alpha:   19:58-89  <STX>83<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1998949  Function: 0 
-POCSAG1200: Address: 1630966  Function: 0 
-POCSAG2400: Address: 1913751  Function: 2  Alpha:   19:54-91 4462<NUL>
-POCSAG2400: Address: 2000625  Function: 1 
-POCSAG1200: Address: 1581365  Function: 3 
-POCSAG1200: Address:   68004  Function: 2  Alpha:   reFor
-POCSAG1200: Address: 1570539  Function: 3 
