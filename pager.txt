@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1502428  Function: 1  Alpha:   <ESC><EM>
+POCSAG1200: Address:   36419  Function: 1  Alpha:   <BS>4
+POCSAG2400: Address:  149113  Function: 2  Alpha:   10:13-91 5002<NUL>
+POCSAG1200: Address: 2023541  Function: 3 
+POCSAG1200: Address:   33922  Function: 2  Alpha:   <DC1><DC1>
+POCSAG512: Address: 2025461  Function: 1 
+POCSAG1200: Address: 1151834  Function: 1  Alpha:   nj
+POCSAG2400: Address: 1974841  Function: 1 
+POCSAG2400: Address: 1737587  Function: 0 
+POCSAG1200: Address: 1780562  Function: 0 
+POCSAG2400: Address: 1913699  Function: 2  Alpha:   10:10-74 5202<NUL>
+POCSAG2400: Address: 1254794  Function: 0 
 POCSAG1200: Address:  930644  Function: 0 
 POCSAG2400: Address: 2007636  Function: 0 
 POCSAG2400: Address: 1487441  Function: 0 
@@ -986,15 +998,3 @@ POCSAG1200: Address: 1255003  Function: 3
 POCSAG1200: Address:  631640  Function: 0  Alpha:   jr
 POCSAG1200: Address: 1255007  Function: 3  Alpha:   O%
 POCSAG1200: Address:  786438  Function: 0  Alpha:   WH<ETX>!<GS>
-POCSAG1200: Address: 1138901  Function: 3  Alpha:   cC
-POCSAG1200: Address:  231204  Function: 2  Alpha:   hr
-POCSAG1200: Address: 1516112  Function: 0 
-POCSAG1200: Address: 1090112  Function: 0 
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   22:20-31 please call 5201
-POCSAG1200: Address: 1188314  Function: 0  Alpha:   3CC<ETX>"<VT><VT>#CC<ETX>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   18/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   22:16-28 4376<NUL>
-POCSAG1200: Address:  629250  Function: 0 
-POCSAG1200: Address:  334513  Function: 2  Alpha:   L<FF>
-POCSAG1200: Address: 1840544  Function: 2 
-POCSAG1200: Address: 1718888  Function: 3 
