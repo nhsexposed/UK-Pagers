@@ -1,3 +1,6 @@
+POCSAG1200: Address: 2011135  Function: 0 
+POCSAG1200: Address:   64622  Function: 0  Alpha:   %R
+POCSAG1200: Address: 2024122  Function: 0 
 POCSAG2400: Address: 1876027  Function: 2 
 POCSAG1200: Address:  950848  Function: 0 
 POCSAG2400: Address: 2081396  Function: 0 
@@ -995,6 +998,3 @@ POCSAG1200: Address:  585063  Function: 2  Alpha:   16
 POCSAG1200: Address: 2024040  Function: 0 
 POCSAG1200: Address: 1746530  Function: 0 
 POCSAG1200: Address: 2025456  Function: 1 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>c<EOT><SOH>L
-POCSAG1200: Address: 1058499  Function: 2  Alpha:   16:53-60 Call 24757263 - 
-POCSAG2400: Address: 1913907  Function: 2  Alpha:   16:53-59 4314<NUL>
