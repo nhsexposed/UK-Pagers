@@ -1,3 +1,22 @@
+POCSAG1200: Address:  295511  Function: 0 
+POCSAG1200: Address:  657979  Function: 2  Alpha:   <BS>$Fvf&<SYN><BEL>G<ACK><DC4>vF<BS>Fv<BS><EOT>Y<CAN>(J
+POCSAG1200: Address: 1673066  Function: 3  Alpha:   dlthf
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828031221+++TIME=1828031221<NUL>
+POCSAG1200: Address: 2027120  Function: 1 
+POCSAG1200: Address: 1147724  Function: 2  Alpha:   @frbp`d<NUL>
+POCSAG1200: Address:  535606  Function: 1 
+POCSAG1200: Address:  421531  Function: 1 
+POCSAG1200: Address:  433595  Function: 0 
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1996200  Function: 1 
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>#<GS>2y
+POCSAG1200: Address: 1406889  Function: 2 
+POCSAG1200: Address:  954386  Function: 0  Alpha:   *<BS><SI><FF><CR>
+POCSAG1200: Address: 1881331  Function: 1 
+POCSAG2400: Address:  216264  Function: 2 
+POCSAG2400: Address:  694928  Function: 1  Alpha:   emSGKu@<RS>agmSKoAZ@<DLE>_kgKWKKaS]OA<ACK>e_]U_EA<SUB>_]Si_e<ESC><DC4><DLE>_giu@ZC]gIa[_m_abZ<SOH><NUL>
+POCSAG2400: Address: 1351762  Function: 0 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><FF>
 POCSAG1200: Address:  489265  Function: 3 
 POCSAG1200: Address: 1420288  Function: 1 
 POCSAG1200: Address:   89072  Function: 1 
@@ -979,22 +998,3 @@ POCSAG2400: Address:  848502  Function: 0
 POCSAG2400: Address: 2003572  Function: 0 
 POCSAG2400: Address: 2028154  Function: 1 
 POCSAG1200: Address: 1532659  Function: 0 
-POCSAG2400: Address:  549963  Function: 2  Alpha:   11:16-84 NHSBT - DONOR REFERRAL
-POCSAG2400: Address: 1751798  Function: 0 
-POCSAG1200: Address: 1153884  Function: 0  Alpha:   dh
-POCSAG1200: Address: 1998946  Function: 0  Alpha:   G<BS><DC3>AC<ACK><SYN>&
-POCSAG2400: Address:   46443  Function: 0  Alpha:   F<ACK>
-POCSAG2400: Address:  595841  Function: 2  Alpha:   11:15-07
-POCSAG1200: Address:  943737  Function: 0 
-POCSAG1200: Address: 1868339  Function: 0 
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   11:13-76 GP 6207<LF><LF><NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1113031221+++TIME=111303$321<NUL>
-POCSAG2400: Address: 1323880  Function: 2  Alpha:   11:14-59 5076<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1113031221+++TIME=1113031221<NUL>
-POCSAG1200: Address: 1540656  Function: 0 
-POCSAG2400: Address: 1913907  Function: 2  Alpha:   11:12-61 4269<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:12-69 2033<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1324556  Function: 2  Alpha:   11:12-98 INC A
-POCSAG1200: Address: 1815072  Function: 0  Alpha:   <DC3><BS>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   11:11-07 4140<NUL>
