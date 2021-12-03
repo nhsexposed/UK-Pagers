@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1485632  Function: 0 
+POCSAG1200: Address:  459342  Function: 3 
+POCSAG1200: Address:  266853  Function: 1  Alpha:   vf<ACK>FF
+POCSAG1200: Address: 1349436  Function: 1 
+POCSAG1200: Address:  371499  Function: 3  Alpha:   `j
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:48-36 03/12/20
+POCSAG1200: Address: 2014839  Function: 3 
+POCSAG1200: Address:  959479  Function: 2 
+POCSAG2400: Address: 2018038  Function: 0 
+POCSAG1200: Address:  758570  Function: 0 
+POCSAG1200: Address: 1511977  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1321241  Function: 2  Alpha:   16:44-41 Please call 888000<NUL>
+POCSAG1200: Address: 1606195  Function: 0 
 POCSAG1200: Address:  269168  Function: 2  Alpha:   16
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1643031221+++TIME=1643031221<NUL>
 POCSAG1200: Address: 2005624  Function: 2 
@@ -985,16 +998,3 @@ POCSAG1200: Address: 2045548  Function: 0
 POCSAG1200: Address: 1285945  Function: 2 
 POCSAG1200: Address: 1254977  Function: 1 
 POCSAG1200: Address:  411934  Function: 0  Alpha:   hI
-POCSAG1200: Address: 1349438  Function: 1 
-POCSAG1200: Address: 1845637  Function: 0 
-POCSAG1200: Address:   33061  Function: 0 
-POCSAG1200: Address:  108345  Function: 3  Alpha:   j`Zpn@Pd^fR@&)
-POCSAG1200: Address: 1534161  Function: 2 
-POCSAG1200: Address: 1441905  Function: 0 
-POCSAG2400: Address: 1913936  Function: 2  Alpha:   09:49-52 5839<NUL>
-POCSAG1200: Address: 1122500  Function: 0  Alpha:   <SUB>K#+#<ESC><ETX><NUL>
-POCSAG1200: Address: 1718896  Function: 1 
-POCSAG1200: Address: 1741685  Function: 1 
-POCSAG1200: Address: 1032158  Function: 3  Alpha:   <EOT><DC1>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0948031221+++TIME=0948031221<NUL>
