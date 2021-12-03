@@ -1,3 +1,13 @@
+POCSAG2400: Address: 2089648  Function: 0 
+POCSAG1200: Address: 1474619  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2148031221+++TIME=2148031221<NUL>
+POCSAG1200: Address:   25187  Function: 2  Alpha:   06<SUB><SOH><DC1><ACK>J^
+POCSAG1200: Address: 1974480  Function: 0 
+POCSAG1200: Address:  295507  Function: 0 
+POCSAG1200: Address: 1714754  Function: 0 
+POCSAG1200: Address: 2026613  Function: 2 
+POCSAG1200: Address:  691195  Function: 2 
+POCSAG1200: Address:       2  Function: 1 
 POCSAG1200: Address:  574251  Function: 2  Alpha:   a 
 POCSAG1200: Address:  210930  Function: 2 
 POCSAG1200: Address: 2030101  Function: 2 
@@ -988,13 +998,3 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:15-52 2343<NUL>
 POCSAG1200: Address: 2009970  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1313031221+++TIME=1313031221<NUL>
 POCSAG1200: Address: 2027254  Function: 2 
-POCSAG1200: Address: 1681272  Function: 0  Alpha:   `h^d``d@<ACK><DC1>g<STX><SOH><NUL>
-POCSAG1200: Address: 1737236  Function: 1 
-POCSAG1200: Address: 1099730  Function: 1  Alpha:   App2A
-POCSAG1200: Address:  610745  Function: 2 
-POCSAG1200: Address:  213709  Function: 1  Alpha:   <LF>[
-POCSAG2400: Address:   41594  Function: 0 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   13:09-34 03/12/2021 13:08:12 INC 24761343 18C02 78 HOPWOOD ROAD, HOPWOOD MANCHESTER, M24 6HY Male 63Y HEADACHE GRD 387205 407800
-POCSAG1200: Address: 1620560  Function: 3  Alpha:   h<DC1>
-POCSAG2400: Address:  750288  Function: 2  Alpha:   +TIME=1308031221<NUL>
-POCSAG1200: Address: 2007930  Function: 2 
