@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1360000  Function: 0  Alpha:   I^
+POCSAG1200: Address:   39112  Function: 2 
+POCSAG1200: Address:  559669  Function: 3  Alpha:   <EOT><DC2>d<FF><FS>L<EOT>}|ddz,B
+POCSAG1200: Address: 1116229  Function: 1 
+POCSAG1200: Address:  266855  Function: 1  Alpha:   vfrg<DC2>
+POCSAG1200: Address: 1349438  Function: 1 
+POCSAG1200: Address:  434741  Function: 0 
+POCSAG1200: Address: 1484917  Function: 1 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:47-62 2343<NUL>
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address: 1322009  Function: 2  Alpha:   14:46-55 3208<NUL>
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN>(
+POCSAG1200: Address:  418417  Function: 0 
+POCSAG1200: Address: 2007649  Function: 0 
+POCSAG2400: Address: 1913540  Function: 2  Alpha:   14:45-69 <!64<NUL>
 POCSAG1200: Address:  301099  Function: 3  Alpha:   <NAK>(3<CAN>;<EM>(-
 POCSAG1200: Address:  330851  Function: 0 
 POCSAG1200: Address:  762090  Function: 1 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1782848  Function: 2
 POCSAG1200: Address: 2028259  Function: 0 
 POCSAG2400: Address: 1492603  Function: 1 
 POCSAG1200: Address: 1747023  Function: 2 
-POCSAG1200: Address: 1757494  Function: 0  Alpha:   S 
-POCSAG1200: Address: 1262613  Function: 2  Alpha:   <DC4>r
-POCSAG1200: Address: 1149059  Function: 3  Alpha:   f(
-POCSAG1200: Address:  396698  Function: 0  Alpha:   <FS><DLE>
-POCSAG1200: Address:  266849  Function: 1  Alpha:   vf
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:  109359  Function: 3  Alpha:   O%(08
-POCSAG1200: Address:  200287  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0803031221+++TIME=0803031221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0803031221+++TIME=0803031221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   19o<DC1>5/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1783208  Function: 2  Alpha:   QT52q<NAK>hpS<NAK>4u1q<DC4><VT>h<DC1>sstt<DC3><DC4><VT>ht2l<FF>H<CR><SYN><DC1>(3<CAN>;<EM>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   08:00-72 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  555968  Function: 2  Alpha:   P#)"P<EM>\[<ESC><EM><EM><DLE><SUB><SUB><ESC><SUB><CAN><EM><NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3B<NUL><NUL>
