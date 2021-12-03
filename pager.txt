@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0803031221+++TIME=0803031221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0803031221+++TIME=0803031221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   19o<DC1>5/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1783208  Function: 2  Alpha:   QT52q<NAK>hpS<NAK>4u1q<DC4><VT>h<DC1>sstt<DC3><DC4><VT>ht2l<FF>H<CR><SYN><DC1>(3<CAN>;<EM>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   08:00-72 Case ref 11276206 Fill in tick sheet
 POCSAG1200: Address:  555968  Function: 2  Alpha:   P#)"P<EM>\[<ESC><EM><EM><DLE><SUB><SUB><ESC><SUB><CAN><EM><NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 2077425  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address:  696948  Function: 0
 POCSAG1200: Address:  600824  Function: 0  Alpha:   <DLE><DC2>T,<CAN>l0f
 POCSAG1200: Address: 1352289  Function: 0 
 POCSAG1200: Address:  265256  Function: 3  Alpha:   <DC2>C<ENQ><ESC>L
-POCSAG1200: Address: 1190640  Function: 0 
-POCSAG1200: Address:  819735  Function: 1  Alpha:   UE
-POCSAG1200: Address:  156468  Function: 3 
-POCSAG1200: Address: 2003024  Function: 1 
-POCSAG1200: Address: 1836661  Function: 0 
