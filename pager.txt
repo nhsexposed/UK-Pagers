@@ -1,3 +1,12 @@
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   <ACK>P
+POCSAG1200: Address: 1562596  Function: 2  Alpha:   14:58-21 2521<NUL>
+POCSAG1200: Address:  906782  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1512730  Function: 3 
+POCSAG1200: Address: 1394693  Function: 1 
+POCSAG1200: Address:    4252  Function: 2  Alpha:   14:57
+POCSAG1200: Address:  580747  Function: 0  Alpha:   <CAN><SUB>
+POCSAG1200: Address:  396443  Function: 0  Alpha:   <SUB><NUL>
+POCSAG1200: Address:  959080  Function: 1 
 POCSAG1200: Address:  696948  Function: 0 
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>j
 POCSAG1200: Address: 2077689  Function: 2 
@@ -989,12 +998,3 @@ POCSAG1200: Address:  959331  Function: 3
 POCSAG1200: Address: 1313221  Function: 2  Alpha:   08:29-67 Destination: Parkin
 POCSAG2400: Address:   28907  Function: 0  Alpha:   08:28-33 4876<NUL>
 POCSAG1200: Address:  200287  Function: 2 
-POCSAG1200: Address:  668155  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1563640  Function: 2 
-POCSAG1200: Address:  234810  Function: 2  Alpha:   08:26-37 MEDICAL BED ESCALATION PLEASE CALL EXTENSIO<ACK>!55002<NUL>
-POCSAG1200: Address:  303665  Function: 2 
-POCSAG1200: Address: 1454705  Function: 0 
-POCSAG1200: Address: 2008957  Function: 0 
-POCSAG1200: Address: 1474597  Function: 1  Alpha:   @,
-POCSAG1200: Address: 1487387  Function: 0 
