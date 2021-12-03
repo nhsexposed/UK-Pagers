@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   19:59-40 pl call x5446
+POCSAG2400: Address: 2007872  Function: 0 
+POCSAG1200: Address: 2007933  Function: 2 
+POCSAG1200: Address: 1484498  Function: 3 
 POCSAG1200: Address:  600915  Function: 0 
 POCSAG2400: Address: 1978736  Function: 0 
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:46-59 2581<NUL>
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1208031221+++TIME=12
 POCSAG2400: Address:  960738  Function: 0 
 POCSAG2400: Address: 1880689  Function: 0 
 POCSAG1200: Address: 1487681  Function: 2  Alpha:   12:07-55
-POCSAG1200: Address: 1446448  Function: 0 
-POCSAG1200: Address: 1779438  Function: 0  Alpha:   V<ACK>
-POCSAG1200: Address: 1737440  Function: 1 
-POCSAG1200: Address: 2077824  Function: 0  Alpha:   <DC3><ETX>=;<ETX>Q"VJ:<SYN><STX>]<ACK>J<DC2><STX><ENQ>N<ACK>B<STX>
