@@ -1,3 +1,14 @@
+POCSAG1200: Address: 1013798  Function: 1  Alpha:   l<SO>
+POCSAG1200: Address: 2025459  Function: 1 
+POCSAG2400: Address: 1453200  Function: 1 
+POCSAG2400: Address: 1913745  Function: 2  Alpha:   09:41-80 4269<NUL>
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG1200: Address:  343317  Function: 0  Alpha:   09:41-41 Engine 4 Shutdown, Engine_4_OnLoa
+POCSAG2400: Address:  583528  Function: 2  Alpha:   09:40-14 80300
+POCSAG1200: Address: 1058610  Function: 1 
+POCSAG1200: Address:  948504  Function: 1 
+POCSAG1200: Address:  712973  Function: 1  Alpha:    POrt
+POCSAG2400: Address:  995955  Function: 3 
 POCSAG1200: Address: 2011893  Function: 0 
 POCSAG1200: Address: 2028148  Function: 2 
 POCSAG1200: Address: 1511872  Function: 3  Alpha:   V<STX>
@@ -987,14 +998,3 @@ POCSAG2400: Address: 1324564  Function: 2  Alpha:   20:46-99 Rtc -a386 SILVERTON
 POCSAG2400: Address: 1746671  Function: 0 
 POCSAG2400: Address:   33739  Function: 2  Alpha:   20:46-89 Rtc -a386 SILVERTON Devon <NUL><NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   20:46-40 Call or Calls waiting at Switchboard
-POCSAG2400: Address:  926244  Function: 0 
-POCSAG2400: Address:   23552  Function: 0 
-POCSAG1200: Address: 1718903  Function: 1 
-POCSAG1200: Address: 1311359  Function: 0 
-POCSAG1200: Address:  696869  Function: 0 
-POCSAG1200: Address: 1932114  Function: 1 
-POCSAG1200: Address: 1204377  Function: 0 
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   20:42-22 4155<NUL>
-POCSAG1200: Address: 2041585  Function: 3 
-POCSAG1200: Address:  234318  Function: 1  Alpha:   A<FF>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2038021221+++TIME=2038021221<NUL>
