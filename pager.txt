@@ -1,3 +1,15 @@
+POCSAG2400: Address: 2025458  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1528031221+++T
+POCSAG2400: Address: 1583740  Function: 0 
+POCSAG1200: Address:  390119  Function: 2 
+POCSAG2400: Address: 1979003  Function: 3 
+POCSAG2400: Address: 1994992  Function: 0  Alpha:   &<SI>f<ACK>j
+POCSAG2400: Address: 1098207  Function: 0  Alpha:   X<SUB>]g<DC2>
+POCSAG2400: Address:  295511  Function: 0 
+POCSAG1200: Address: 1993466  Function: 0  Alpha:   +<DC1>
+POCSAG1200: Address: 1500025  Function: 3 
+POCSAG1200: Address: 2025040  Function: 0 
+POCSAG1200: Address: 2024288  Function: 1 
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 1328359  Function: 0  Alpha:   WH
 POCSAG1200: Address:  934800  Function: 3 
@@ -986,15 +998,3 @@ POCSAG2400: Address:   79936  Function: 2  Alpha:   %<EM>
 POCSAG2400: Address: 1399368  Function: 2 
 POCSAG2400: Address: 2076705  Function: 0 
 POCSAG2400: Address: 1221488  Function: 2 
-POCSAG2400: Address: 2091643  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   19/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:02-26 3246<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><STX>
-POCSAG1200: Address: 1843744  Function: 2 
-POCSAG1200: Address: 1039333  Function: 3  Alpha:   <DC2>`
-POCSAG1200: Address:  549843  Function: 2  Alpha:   09:01-03 ~FOR INFO - BOOKED ON AS DUTY AREA<NUL><NUL>
-POCSAG1200: Address: 1015477  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032060  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032608  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  153784  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   08:58-27 5839<NUL>
