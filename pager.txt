@@ -1,3 +1,8 @@
+POCSAG1200: Address: 1999640  Function: 0 
+POCSAG1200: Address:  108097  Function: 0  Alpha:   03:03-23 please call ext 3570<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0303031221+++TIME=0303031221<NUL>
+POCSAG1200: Address: 1450867  Function: 3 
+POCSAG1200: Address: 2010707  Function: 0 
 POCSAG1200: Address: 1875970  Function: 0 
 POCSAG1200: Address:  918618  Function: 2  Alpha:   <HT>zyMa<ENQ>d<CAN><ESC><ACK>T&i<HT>dX\<GS>L]<FF>T<ACK><ETB><VT><EOT>Y*J:<LF>t<LF>Yh<HT>$(Z<CAN><BS>I<SUB>iy<BS>t(J<BS>46<SYN>&&<ACK><BEL>D6F<ACK><BEL><SYN><ACK><NUL>
 POCSAG1200: Address:  403226  Function: 1  Alpha:   <DLE><NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1976402  Function: 0
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:50-17 61373
 POCSAG1200: Address:  679608  Function: 2  Alpha:   16:50-87 61373
 POCSAG1200: Address: 2007564  Function: 0 
-POCSAG1200: Address: 1565298  Function: 1 
-POCSAG1200: Address:  565576  Function: 3  Alpha:   ACT SM<NUL><NUL>
-POCSAG1200: Address: 2012028  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:48-01 5114<NUL>
-POCSAG2400: Address:  549145  Function: 2 
