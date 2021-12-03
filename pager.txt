@@ -1,3 +1,8 @@
+POCSAG2400: Address:   28894  Function: 0  Alpha:   21:13-33 4160<NUL>
+POCSAG1200: Address:  697137  Function: 2 
+POCSAG1200: Address:  109352  Function: 3  Alpha:   jn
+POCSAG1200: Address: 1263192  Function: 2 
+POCSAG1200: Address: 1878272  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=210803
 POCSAG2400: Address: 2028153  Function: 1 
 POCSAG1200: Address:  592408  Function: 2 
@@ -993,8 +998,3 @@ POCSAG1200: Address:  472599  Function: 1  Alpha:    397317<NUL>
 POCSAG1200: Address:  678481  Function: 2  Alpha:   12:51-44 03/12/2021 12:50:10 INC 24761255 12D02 AMADEUS RESIDENTIAL 
 POCSAG2400: Address: 1323179  Function: 2  Alpha:   12
 POCSAG1200: Address: 1958521  Function: 0 
-POCSAG1200: Address: 1613934  Function: 0  Alpha:   "<ACK>Z<SYN>:
-POCSAG1200: Address: 2008954  Function: 0 
-POCSAG2400: Address: 1321585  Function: 2  Alpha:   12:50-69 pls call 36484<NUL><NUL>
-POCSAG1200: Address: 1807466  Function: 3 
-POCSAG1200: Address: 1933938  Function: 1 
