@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1323476  Function: 2  Alpha:   10:19-95 PLEASE CALL THE 
+POCSAG1200: Address:  262872  Function: 3  Alpha:   +++<EOT><BS>AE=1018041221+++TIME=10180<DC4> 201<NUL>
+POCSAG1200: Address:    8192  Function: 1 
+POCSAG1200: Address: 1978738  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1013041221+++TIME=1013041221<NUL>
 POCSAG1200: Address: 1084282  Function: 3  Alpha:   10:13-35
 POCSAG1200: Address: 1201270  Function: 1  Alpha:   <CAN><CAN>
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1845795  Function: 0
 POCSAG1200: Address: 1263195  Function: 2 
 POCSAG1200: Address:  432763  Function: 1 
 POCSAG1200: Address: 1944355  Function: 1 
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   2(:14-52 33715
-POCSAG2400: Address:   28894  Function: 0  Alpha:   21:13-33 4160<NUL>
-POCSAG1200: Address:  697137  Function: 2 
-POCSAG1200: Address:  109352  Function: 3  Alpha:   jn
