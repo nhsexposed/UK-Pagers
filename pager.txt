@@ -1,3 +1,9 @@
+POCSAG2400: Address:  584009  Function: 2  Alpha:   05:32-01 4157<NUL>
+POCSAG1200: Address: 1868128  Function: 3 
+POCSAG1200: Address: 2008952  Function: 0 
+POCSAG1200: Address:  742988  Function: 3 
+POCSAG1200: Address: 1631795  Function: 0 
+POCSAG1200: Address:   52488  Function: 1  Alpha:   <SOH><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0528041221+++TIME=0528041221<NUL>
 POCSAG2400: Address:  519216  Function: 1  Alpha:   XUU<NAK>jdfb<RS>X<SUB><EM><FS><CAN>Z<CAN><EM>Y<CAN><NUL>
 POCSAG2400: Address: 1324550  Function: 2  Alpha:   05:18-71 INS$SMERT No: 16881741 Falls - FALLEN FROM 15FT WINDOW, AT: 8 ROBERTS COURT, NORTH ROAD, LEIGH WOODS BRISTOL, BS8 3PN, Time of Call: 04/12/2021 05:15:09, Co-ords: 51.4542048 -2.6349047<NUL>
@@ -992,9 +998,3 @@ POCSAG2400: Address:   28896  Function: 0  Alpha:   17:21-68 4114<NUL>
 POCSAG1200: Address:  631643  Function: 0  Alpha:   `j
 POCSAG1200: Address:  720002  Function: 1  Alpha:   X<ESC>
 POCSAG1200: Address:  266848  Function: 1  Alpha:   vf<ACK>f<SYN>
-POCSAG1200: Address: 1076444  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX>;S
-POCSAG1200: Address: 1352290  Function: 0 
-POCSAG1200: Address: 1745649  Function: 0 
-POCSAG2400: Address: 1022475  Function: 0  Alpha:   17:19-11 All donors to SETP are required to produce a nuclear safety timeline for the inability to discharge to SETP by 06:00 4th Dec.  Please send timelines to SSM inbox - SSM<NUL>
-POCSAG1200: Address: 1940865  Function: 1 
-POCSAG1200: Address: 2073205  Function: 0 
