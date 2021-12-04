@@ -1,3 +1,14 @@
+POCSAG1200: Address: 2012130  Function: 0 
+POCSAG1200: Address: 2016816  Function: 2 
+POCSAG2400: Address: 2007161  Function: 0 
+POCSAG1200: Address:  812193  Function: 3  Alpha:   Nv
+POCSAG1200: Address:  844533  Function: 0 
+POCSAG1200: Address: 1604818  Function: 2 
+POCSAG1200: Address: 1484917  Function: 1 
+POCSAG1200: Address: 2074182  Function: 0 
+POCSAG1200: Address: 1747066  Function: 0 
+POCSAG1200: Address: 1712758  Function: 1 
+POCSAG1200: Address: 1204300  Function: 2  Alpha:   <ESC>3<DC3>C;
 POCSAG512: Address: 1747581  Function: 0 
 POCSAG512: Address: 1970746  Function: 2 
 POCSAG1200: Address:  735079  Function: 2  Alpha:   n&Tg<DC2>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 2089509  Function: 1
 POCSAG1200: Address:  951155  Function: 2 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   15:41-81 5013<NUL>
 POCSAG2400: Address:   28906  Function: 0  Alpha:   15:41-63 5531<NUL>
-POCSAG1200: Address: 1992562  Function: 0 
-POCSAG1200: Address:  222971  Function: 0 
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   15:39-36 Switch - Call Waiting please
-POCSAG2400: Address: 1877604  Function: 2 
-POCSAG2400: Address: 1107669  Function: 2  Alpha:   <ETX>C<VT><ETX>j<SUB>s";#<DC3><ETX><DC3><DC3><ETX><NUL><NUL>
-POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   15:36
-POCSAG1200: Address: 1511972  Function: 3  Alpha:   <ACK>#
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   15:35-79 03/12/2021 15
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>CA;L
-POCSAG2400: Address: 1474622  Function: 1 
