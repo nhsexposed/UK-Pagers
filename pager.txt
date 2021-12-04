@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1717057  Function: 0 
+POCSAG1200: Address:  346010  Function: 0  Alpha:   16:12?<<q<DC2><
+POCSAG1200: Address: 1483120  Function: 0 
+POCSAG1200: Address: 1718898  Function: 1 
+POCSAG1200: Address: 2027634  Function: 1 
+POCSAG512: Address:  620102  Function: 1  Alpha:   Vfv<ACK><ETB>
+POCSAG1200: Address: 2066020  Function: 3 
 POCSAG1200: Address: 2073329  Function: 2  Alpha:   WM
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:08-43 04/12/2021 
 POCSAG1200: Address: 2007929  Function: 1 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1751668  Function: 2
 POCSAG2400: Address: 1008210  Function: 2  Alpha:   05:15-63 PLEASE CALL 01227 507 203
 POCSAG1200: Address: 1578026  Function: 1  Alpha:   6<ACK>wV<ACK>
 POCSAG2400: Address: 2011748  Function: 1 
-POCSAG1200: Address: 1999602  Function: 0 
-POCSAG1200: Address:  835634  Function: 0 
-POCSAG1200: Address: 2007146  Function: 0 
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address:   40089  Function: 2  Alpha:   05:09-51 04/12/2021 05:06:11 INC 24765756 09E02 83,
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508041221+++TIME=0508041221<NUL>
-POCSAG1200: Address: 1572870  Function: 0 
