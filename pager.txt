@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1089935  Function: 3 
+POCSAG1200: Address: 1717324  Function: 1  Alpha:   2<SOH>
+POCSAG1200: Address:  954481  Function: 2 
+POCSAG1200: Address: 1546016  Function: 1 
+POCSAG1200: Address: 1888921  Function: 0  Alpha:   <FF><BS>M<FF>M<CR>N<GS>
+POCSAG1200: Address: 1296897  Function: 0 
+POCSAG1200: Address: 1999601  Function: 0 
+POCSAG1200: Address: 2011866  Function: 1 
 POCSAG1200: Address: 2009969  Function: 1 
 POCSAG1200: Address:  800817  Function: 0 
 POCSAG1200: Address: 1601961  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:24-90 04/12/2021
 POCSAG1200: Address: 1878869  Function: 0 
 POCSAG2400: Address: 1753345  Function: 2 
 POCSAG1200: Address: 1625373  Function: 2 
-POCSAG1200: Address:  959359  Function: 0 
-POCSAG1200: Address: 2041974  Function: 0 
-POCSAG1200: Address: 2015862  Function: 1 
-POCSAG1200: Address: 1290855  Function: 0 
-POCSAG1200: Address:  585224  Function: 2  Alpha:   00:20-72 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
-POCSAG2400: Address: 1978737  Function: 0 
-POCSAG1200: Address: 2012019  Function: 1 
-POCSAG1200: Address:  837556  Function: 3  Alpha:   e 22Y HIT BA*CCR - JUMPED INFRONT OF Ai[ GRD 369104h5<SYN>2238<NUL><NUL>
