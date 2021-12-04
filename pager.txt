@@ -1,3 +1,5 @@
+POCSAG1200: Address: 1462044  Function: 3 
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   <DLE>FP2<ACK><NUL>0f
 POCSAG2400: Address:  893492  Function: 0 
 POCSAG1200: Address:  627509  Function: 2 
 POCSAG1200: Address: 1068132  Function: 1 
@@ -996,5 +998,3 @@ POCSAG1200: Address:  959479  Function: 2
 POCSAG2400: Address: 2018038  Function: 0 
 POCSAG1200: Address:  758570  Function: 0 
 POCSAG1200: Address: 1511977  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1321241  Function: 2  Alpha:   16:44-41 Please call 888000<NUL>
-POCSAG1200: Address: 1606195  Function: 0 
