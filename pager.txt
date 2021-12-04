@@ -1,3 +1,8 @@
+POCSAG1200: Address: 1565296  Function: 1 
+POCSAG1200: Address: 1532657  Function: 0 
+POCSAG1200: Address: 1502555  Function: 0  Alpha:   <EM><DLE>
+POCSAG1200: Address: 1491059  Function: 2 
+POCSAG1200: Address: 1415267  Function: 2  Alpha:   .<ACK>
 POCSAG2400: Address: 1974381  Function: 0 
 POCSAG1200: Address: 1483646  Function: 0 
 POCSAG1200: Address: 2008954  Function: 0 
@@ -993,8 +998,3 @@ POCSAG2400: Address:  546712  Function: 3  Alpha:   EEa<SOH>5M9AAMMAEU
 POCSAG2400: Address:   28895  Function: 0  Alpha:   15:07-02 2184<NUL>
 POCSAG512: Address:  267813  Function: 0 
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:06-60 3157<NUL>
-POCSAG2400: Address: 1830626  Function: 0 
-POCSAG1200: Address: 1817289  Function: 2  Alpha:   15:05-92 991<NUL><NUL>
-POCSAG1200: Address: 1511980  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1999729  Function: 1 
-POCSAG2400: Address:  548053  Function: 2  Alpha:   15:05-39 VPS: PF<NUL>
