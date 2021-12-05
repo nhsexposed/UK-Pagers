@@ -1,3 +1,15 @@
+POCSAG2400: Address:  255682  Function: 1  Alpha:   <DC4><NAK>
+POCSAG2400: Address: 1404969  Function: 3 
+POCSAG2400: Address: 1058849  Function: 3 
+POCSAG2400: Address:  944734  Function: 2 
+POCSAG2400: Address:  958547  Function: 0 
+POCSAG2400: Address:  123562  Function: 0  Alpha:   6<ACK>&2<STX>
+POCSAG2400: Address:  696912  Function: 0 
+POCSAG2400: Address: 2008617  Function: 0 
+POCSAG2400: Address: 2066016  Function: 3 
+POCSAG1200: Address: 1679756  Function: 0 
+POCSAG2400: Address: 2075249  Function: 2 
+POCSAG2400: Address: 2089808  Function: 0 
 POCSAG2400: Address: 1909431  Function: 0 
 POCSAG2400: Address: 1762036  Function: 2 
 POCSAG2400: Address: 2076210  Function: 0 
@@ -986,15 +998,3 @@ POCSAG2400: Address:  208936  Function: 1
 POCSAG1200: Address: 1647064  Function: 0 
 POCSAG1200: Address: 1745492  Function: 0 
 POCSAG1200: Address:  525348  Function: 0 
-POCSAG1200: Address: 1353028  Function: 3 
-POCSAG2400: Address: 1716776  Function: 0 
-POCSAG1200: Address: 1179729  Function: 0 
-POCSAG1200: Address:  699324  Function: 2 
-POCSAG1200: Address: 2062179  Function: 0 
-POCSAG1200: Address: 1533250  Function: 0  Alpha:   ay<DEL>kn
-POCSAG1200: Address: 1835889  Function: 0 
-POCSAG1200: Address: 1469041  Function: 1 
-POCSAG1200: Address:  420375  Function: 0 
-POCSAG2400: Address: 1324001  Function: 2  Alpha:   12:16-56 AG@ERzpU
-POCSAG2400: Address: 2023792  Function: 2 
-POCSAG2400: Address: 1581667  Function: 0 
