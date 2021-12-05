@@ -1,3 +1,12 @@
+POCSAG1200: Address:  755875  Function: 1 
+POCSAG1200: Address:  422917  Function: 2  Alpha:   @l
+POCSAG1200: Address: 2010100  Function: 0 
+POCSAG1200: Address: 2077264  Function: 0 
+POCSAG1200: Address:  678839  Function: 0  Alpha:   O%(<DEL><ACK>
+POCSAG1200: Address: 1913447  Function: 0 
+POCSAG1200: Address: 2001526  Function: 1 
+POCSAG1200: Address:  200957  Function: 2  Alpha:   19:54-76 TEST CALL <NUL>
+POCSAG1200: Address:  200957  Function: 2  Alpha:   19:54-75 PLS BLEEP 1726 URG 
 POCSAG1200: Address:  627236  Function: 1 
 POCSAG1200: Address:  268049  Function: 2 
 POCSAG2400: Address: 2007632  Function: 1 
@@ -989,12 +998,3 @@ POCSAG1200: Address:  958544  Function: 0
 POCSAG1200: Address:  480851  Function: 3 
 POCSAG1200: Address: 2007162  Function: 1  Alpha:   <DEL>H<ETX>f^
 POCSAG1200: Address:  959089  Function: 3 
-POCSAG1200: Address: 2012009  Function: 0 
-POCSAG2400: Address: 1958521  Function: 0 
-POCSAG1200: Address:  180995  Function: 2 
-POCSAG1200: Address:  678434  Function: 0 
-POCSAG2400: Address: 2007805  Function: 0 
-POCSAG1200: Address:  102528  Function: 2  Alpha:   A<STX>
-POCSAG1200: Address: 1337026  Function: 1 
-POCSAG1200: Address:  266855  Function: 1  Alpha:   vvVg<DC2>
-POCSAG1200: Address: 1245770  Function: 3 
