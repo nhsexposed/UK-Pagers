@@ -1,3 +1,11 @@
+POCSAG1200: Address:   20692  Function: 2  Alpha:   tz
+POCSAG1200: Address: 2012784  Function: 0 
+POCSAG512: Address: 2008658  Function: 0 
+POCSAG1200: Address: 1344115  Function: 3 
+POCSAG1200: Address: 1925368  Function: 2  Alpha:   15:12-40 please call 8880<DLE><NUL><EOT>
+POCSAG1200: Address:  585538  Function: 2  Alpha:   15:11-96 2505<NUL>
+POCSAG1200: Address:  766209  Function: 1 
+POCSAG1200: Address: 1548339  Function: 0 
 POCSAG1200: Address: 1188418  Function: 0 
 POCSAG1200: Address:  553809  Function: 3  Alpha:   U*
 POCSAG1200: Address:   75368  Function: 2 
@@ -990,11 +998,3 @@ POCSAG1200: Address:  959088  Function: 2
 POCSAG1200: Address: 1609879  Function: 2 
 POCSAG2400: Address: 2010224  Function: 1 
 POCSAG1200: Address:  105859  Function: 2  Alpha:   21:41-08 04
-POCSAG1200: Address: 2018032  Function: 0 
-POCSAG1200: Address:  645588  Function: 3 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   21:37-50 04/12/2021 
-POCSAG1200: Address: 1983266  Function: 2 
-POCSAG2400: Address: 1794774  Function: 0 
-POCSAG1200: Address: 2023542  Function: 3 
-POCSAG2400: Address: 2007873  Function: 0 
-POCSAG2400: Address: 1532656  Function: 0 
