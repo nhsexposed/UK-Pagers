@@ -1,3 +1,8 @@
+POCSAG1200: Address:  941099  Function: 2  Alpha:   <ACK><SYN><VT>$J:)tQX<EM>HY<BS>4<LF><EM>8Yh<HT>T<LF>J<ENQ><EOT>yh<LF><DC4>hI<BS>4<CAN>(<LF>t(J<BS>4vVv<ACK>w<ACK>D<ACK>&fv<SYN><ACK><NUL><NUL>
+POCSAG1200: Address:  959218  Function: 1 
+POCSAG1200: Address:  940540  Function: 2  Alpha:   11:39
+POCSAG1200: Address: 1586388  Function: 1 
+POCSAG2400: Address: 1241088  Function: 0  Alpha:   L<FF>l<CR>(<FF>,<SO><BS>NM<FF><CR>(<VT>H4q<DC1>h0<DLE><DC1>HlM<FF><SO>hS<DC1><BS>m+L<FF><NUL>
 POCSAG2400: Address: 1221491  Function: 2 
 POCSAG1200: Address:  269168  Function: 2  Alpha:   11:33
 POCSAG1200: Address: 2011890  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 2079349  Function: 1
 POCSAG1200: Address: 1476340  Function: 0 
 POCSAG1200: Address: 1484401  Function: 0 
 POCSAG2400: Address: 1323477  Function: 2  Alpha:   17:29-00 PLEASE CALL01227 594 733<NUL>
-POCSAG1200: Address:  955187  Function: 0 
-POCSAG2400: Address: 2091640  Function: 0 
-POCSAG2400: Address: 1442089  Function: 0 
-POCSAG512: Address: 1573745  Function: 0 
-POCSAG1200: Address:  959600  Function: 0 
