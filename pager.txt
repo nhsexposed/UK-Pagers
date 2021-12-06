@@ -1,3 +1,13 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=092306122<DC1>k7kW{fb
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBB
+POCSAG1200: Address: 1764147  Function: 0 
+POCSAG1200: Address: 1995633  Function: 0 
+POCSAG1200: Address:  164753  Function: 2  Alpha:   l.<ACK>&P
+POCSAG1200: Address:  148688  Function: 0 
+POCSAG1200: Address: 1115333  Function: 2  Alpha:    i<ACK><SYN><DLE>
+POCSAG1200: Address: 2073401  Function: 3 
+POCSAG1200: Address: 1081331  Function: 1  Alpha:   <ESC><DC4>
+POCSAG1200: Address: 1283955  Function: 2 
 POCSAG1200: Address: 1746665  Function: 0 
 POCSAG1200: Address:  733408  Function: 0 
 POCSAG1200: Address:  987767  Function: 0  Alpha:   O%
@@ -988,13 +998,3 @@ POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
 POCSAG2400: Address: 1880698  Function: 1 
 POCSAG1200: Address: 2003580  Function: 0 
 POCSAG1200: Address: 1877872  Function: 2 
-POCSAG1200: Address:  940732  Function: 1 
-POCSAG1200: Address: 1067372  Function: 1 
-POCSAG1200: Address: 1712289  Function: 2 
-POCSAG1200: Address: 1749043  Function: 0 
-POCSAG1200: Address:  553809  Function: 3  Alpha:   U2
-POCSAG1200: Address:   20692  Function: 2  Alpha:   tz
-POCSAG1200: Address: 2012784  Function: 0 
-POCSAG512: Address: 2008658  Function: 0 
-POCSAG1200: Address: 1344115  Function: 3 
-POCSAG1200: Address: 1925368  Function: 2  Alpha:   15:12-40 please call 8880<DLE><NUL><EOT>
