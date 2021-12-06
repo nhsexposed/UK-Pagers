@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1843251  Function: 1 
+POCSAG1200: Address: 1388391  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1258598  Function: 3  Alpha:   2<SOH>
+POCSAG2400: Address: 1895592  Function: 2  Alpha:   O<RS><RS><BEL>J<RS><BEL><SUB>
+POCSAG1200: Address:  955184  Function: 0 
+POCSAG2400: Address: 1022672  Function: 0  Alpha:   19:00-71 E.R. DAILY PAGER TEST<NUL>
+POCSAG1200: Address: 2008692  Function: 1 
+POCSAG1200: Address: 2090217  Function: 0 
+POCSAG1200: Address: 2076664  Function: 1 
+POCSAG1200: Address: 1876202  Function: 2 
 POCSAG1200: Address:  199091  Function: 2 
 POCSAG2400: Address: 1883768  Function: 0 
 POCSAG1200: Address: 1072734  Function: 2 
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1868481  Function: 0
 POCSAG1200: Address:  734336  Function: 2  Alpha:   <SUB><FS>PY<FS><CAN>Y\<ESC><NUL><NUL>
 POCSAG1200: Address: 1317617  Function: 2  Alpha:   ~?
 POCSAG1200: Address: 1295366  Function: 2 
-POCSAG1200: Address: 1878864  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   ++
-POCSAG2400: Address:  434808  Function: 0 
-POCSAG1200: Address: 1946168  Function: 0 
-POCSAG1200: Address:  959222  Function: 1 
-POCSAG1200: Address:  743973  Function: 3  Alpha:   ,L
-POCSAG1200: Address:  688736  Function: 0 
-POCSAG1200: Address: 1749840  Function: 2 
-POCSAG1200: Address:  413096  Function: 2  Alpha:   01:23-91 01173421903
-POCSAG1200: Address: 2077816  Function: 0 
