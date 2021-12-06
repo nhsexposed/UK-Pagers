@@ -1,3 +1,7 @@
+POCSAG1200: Address: 2009939  Function: 0 
+POCSAG1200: Address: 2011843  Function: 2 
+POCSAG1200: Address: 1912814  Function: 2  Alpha:   <STX>+
+POCSAG1200: Address:  296909  Function: 1 
 POCSAG1200: Address:  959334  Function: 3 
 POCSAG1200: Address:    9560  Function: 0  Alpha:   b<STX>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   05:59-00 06
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1844210  Function: 0
 POCSAG2400: Address: 1501598  Function: 0  Alpha:   <DLE>d
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   13:00-90 RE<ETX>[UERY: Virtual Centre Datastov
 POCSAG2400: Address: 1499765  Function: 0 
-POCSAG1200: Address: 2024499  Function: 0 
-POCSAG2400: Address: 1715946  Function: 2  Alpha:   <ETX>%;+W
-POCSAG2400: Address:  434809  Function: 0 
-POCSAG1200: Address: 1876531  Function: 0 
