@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ><FF>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   22/04/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  616476  Function: 1 
+POCSAG1200: Address: 1524091  Function: 1 
+POCSAG1200: Address:  960092  Function: 1 
+POCSAG1200: Address: 2077424  Function: 0 
+POCSAG1200: Address: 2077923  Function: 1 
 POCSAG1200: Address: 1255016  Function: 1 
 POCSAG1200: Address: 2027687  Function: 0  Alpha:   , AGS
 POCSAG2400: Address: 2011893  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1839843  Function: 0
 POCSAG1200: Address: 1669883  Function: 1 
 POCSAG1200: Address:  980561  Function: 0 
 POCSAG1200: Address:  979825  Function: 1 
-POCSAG1200: Address: 2040417  Function: 1 
-POCSAG1200: Address: 2040368  Function: 2 
-POCSAG1200: Address: 1927040  Function: 2 
-POCSAG1200: Address: 2008645  Function: 0  Alpha:   <US><NAK>
-POCSAG1200: Address: 1347602  Function: 3 
-POCSAG1200: Address: 1296364  Function: 2 
-POCSAG1200: Address:  804866  Function: 1 
