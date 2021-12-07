@@ -1,3 +1,39 @@
+POCSAG1200: Address:  878033  Function: 2 
+POCSAG1200: Address:  553832  Function: 3  Alpha:   F0
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:28-80 5540<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1528071221+++TIME=1528071221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1528071221+++TIME=1528071221<NUL>
+POCSAG1200: Address: 1022870  Function: 2  Alpha:   15:28-66 Device is Down (FPS Alerts)., FPS_Alert_4-Out-Response-over-3-minutes is Down on Device: FPS Alerts (10.100.31.180).<CR><LF><CR><LF>Details:<CR><LF>Monitors that are down include: FPS_Alert_4-Out-Response-over-3-minutes<CR><LF>Monitors that are up include: FPS_Ale<NUL><NUL>
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN><DC2>
+POCSAG1200: Address: 1000405  Function: 3  Alpha:   F<EOT>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:28-68 4156<NUL>
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   F<EM>
+POCSAG1200: Address: 1000405  Function: 3  Alpha:   F<NUL>
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   &0
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>+dA<NAK>r
+POCSAG1200: Address:   22104  Function: 2  Alpha:   15:27-20 07/12/2021 15:23:41 INC 24784279 23B01I 137 MARLED HEY, STOCKBRIDGE VILLAGE L28, L28 0QR Female 16Y OVERDOSE GRD 342128 393652<NUL><NUL>
+POCSAG1200: Address: 1032918  Function: 3  Alpha:   VF
+POCSAG1200: Address:  528635  Function: 1 
+POCSAG1200: Address:  105473  Function: 3 
+POCSAG1200: Address:  646313  Function: 1 
+POCSAG1200: Address:  250016  Function: 1 
+POCSAG2400: Address: 1101072  Function: 1 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:26-67 3507<NUL>
+POCSAG1200: Address:  585452  Function: 2  Alpha:   15:27-30 4819<NUL>
+POCSAG1200: Address:  585393  Function: 2  Alpha:   15:26-89 (2/2) F3.0.0.P FIRE - RESIDENTIAL Map ref  486863,179647 Details  ELECTRICAL CONTROL 
+POCSAG1200: Address:  216338  Function: 2  Alpha:   15:26-70 Destination: Parking\D78 Ext TP, Booking Ref#: SHP21100427, Vehicle: SOC620. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<NUL><NUL>
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   15:26-03 07/12/2021 15:24:04 INC 24784281 06E01 6 HALSALLS COTTAGES, WIDNES WA8, WA8 8NN Male 78Y CHEST INFECTION - DIB GRD 347463 384448
+POCSAG1200: Address:  334075  Function: 2  Alpha:   15:26-84 07/12/2021 15:24:44 INC 24784286 06E01 90 THE KNOLL, PALACEFIELDS RUNCORN WA7, WA7 2UH Male 68Y GASPING FOR AIR GRD 353988 381090<NUL><NUL>
+POCSAG1200: Address: 2011697  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   15:26-69 07/12/2021 15:24:44 INC 24784286 06E01 90 THE KNOLL, PALACEFIELDS RUNCORN WA7, WA7 2UH Male 68Y GASPING FOR AIR GRD 353988 381090<NUL><NUL>
+POCSAG2400: Address: 2024307  Function: 0 
+POCSAG1200: Address: 1485625  Function: 3  Alpha:   <SYN><DC2>
+POCSAG1200: Address: 1313221  Function: 2  Alpha:   15:25-83 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: mk67ntt. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  211873  Function: 2 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   15:25-39 07/12/2021 15:23:36 INC 24784278 01D01 73 MERSEY DRIVE, WHITEFIELD MANCHESTER, M45 8LN Female 45Y PAIN - RIGHT SIDE ABDO GRD 381863 406533<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   15:24-85 07/12/2021 15:22:59 INC 24784274 25B03 28 BEVIN DRIVE, PENDLEBURY SWINTON, M27 8BY Female 20Y WELFARE CONCERN GOING TO KILL HERSELF ON SNAPCHAT GRD 380511 401437<NUL>
+POCSAG1200: Address:  426791  Function: 3  Alpha:   IB GRD 372195 395222
 POCSAG1200: Address: 1814700  Function: 2  Alpha:   15:24-96 07/12/2021 15:23:24 INC 24784277 06D04 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 37Y DIB GRD 372195 39522
 POCSAG1200: Address: 1312984  Function: 2  Alpha:   15:24-93 (1/2)031977-07122021; F3.0.0.P FIRE - RESIDENTIAL; 71 WESSEX WAY,MAIDENHEAD,SL6 3DW; 486863,179647; ELECTRICAL CONTROL; Assigned: JY19P1, JY17P2, JY21P1;
 POCSAG1200: Address: 1312984  Function: 2  Alpha:   15:24-93 (2/2) Roles    JY21P1:Main P
@@ -962,39 +998,3 @@ POCSAG2400: Address:  549206  Function: 2  Alpha:   12:55-10 NHSBT - DONOR REFER
 POCSAG1200: Address: 1032022  Function: 3  Alpha:   F0
 POCSAG1200: Address: 1324588  Function: 2  Alpha:   12:56-50 PLEASE CALL JESSICA EXT: : 212
 POCSAG2400: Address:  755311  Function: 3 
-POCSAG2400: Address: 2006582  Function: 1  Alpha:   <SO>D
-POCSAG2400: Address: 1120621  Function: 0 
-POCSAG2400: Address:  708650  Function: 3 
-POCSAG2400: Address:  825890  Function: 0 
-POCSAG2400: Address: 1719897  Function: 3 
-POCSAG2400: Address: 1714518  Function: 1  Alpha:   <ACK>2:<SOH>A"<ETB><BEL>wY<EOT>eKADCYXAX
-POCSAG2400: Address:  354324  Function: 0 
-POCSAG2400: Address: 1378643  Function: 1 
-POCSAG2400: Address: 1282363  Function: 0 
-POCSAG2400: Address: 1420122  Function: 0  Alpha:   pj
-POCSAG2400: Address:  950561  Function: 3 
-POCSAG2400: Address: 1233153  Function: 3 
-POCSAG2400: Address: 1322868  Function: 2  Alpha:   12:55-98 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Nulr<ENQ><BEL><STX>
-POCSAG2400: Address: 1322870  Function: 2  Alpha:   12:55-90 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Number 02476 153 300 Hospital GEORGE ELIOT HOSPITAL, NUNEATON Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address:  149221  Function: 2  Alpha:   12:55-01 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Number 02476 153 300 Hospital GEORGE ELIOT HOSPITAL, NUNEATON Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address:  183324  Function: 0 
-POCSAG2400: Address:  875316  Function: 1 
-POCSAG2400: Address: 1683499  Function: 0 
-POCSAG2400: Address:  755305  Function: 3 
-POCSAG2400: Address: 2006576  Function: 1  Alpha:   <SO>D
-POCSAG2400: Address: 1120623  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1889614  Function: 0  Alpha:   SE<NUL>on
-POCSAG2400: Address:  677389  Function: 0  Alpha:   Q<DC1>
-POCSAG2400: Address:  708652  Function: 3 
-POCSAG2400: Address:  825892  Function: 0 
-POCSAG2400: Address: 1719899  Function: 3 
-POCSAG2400: Address:  616631  Function: 1  Alpha:   O%
-POCSAG2400: Address: 1176294  Function: 3  Alpha:   ')
-POCSAG2400: Address:  354326  Function: 0 
-POCSAG2400: Address: 1378645  Function: 1 
-POCSAG2400: Address: 1282365  Function: 0 
-POCSAG2400: Address: 1420124  Function: 0  Alpha:   f`
-POCSAG2400: Address: 1322884  Function: 2  Alpha:   12:55-79 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Number 02476 153 300 Hospital GEORGE ELIOT HOSPITAL, NUNEATON Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1015204  Function: 2  Alpha:   12:55-01 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Number 02476 153 300 Hospital GEORGE ELIOT HOSPITAL, NUNEATON Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address:  549066  Function: 2  Alpha:   12:55-32 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Number 02476 153 300 Hospital GEORGE ELIOT HOSPITAL, NUNEATON Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1322760  Function: 2  Alpha:   12:55-93 NHSBT - DONOR REFERRAL. Please call LEONIE - STAFF NURSE on Direct Dial Number 02476 153 300 Hospital GEORGE ELIOT HOSPITAL, NUNEATON Dept INTENSIVE CARE . Regards Donor Referral Line<NUL><NUL>
