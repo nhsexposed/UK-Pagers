@@ -1,3 +1,48 @@
+POCSAG2400: Address: 2007889  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1213071221+++TIME=1213071221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1213071221+++TIME=1213071221<NUL>
+POCSAG1200: Address:  549811  Function: 2  Alpha:   12:13-43 ~W13 STATION CLEANING COMPLETE
+POCSAG2400: Address: 1324072  Function: 2  Alpha:   12:13-38 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1323941  Function: 2  Alpha:   12:13-69 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324078  Function: 2  Alpha:   12:13-56 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324028  Function: 2  Alpha:   12:13-92 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324026  Function: 2  Alpha:   12:13-90 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324054  Function: 2  Alpha:   12:13-39 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324056  Function: 2  Alpha:   12:13-41 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1323926  Function: 2  Alpha:   12:13-95 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324073  Function: 2  Alpha:   12:13-68 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324071  Function: 2  Alpha:   12:13-45 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1324023  Function: 2  Alpha:   12:13-30 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG1200: Address: 1323611  Function: 2  Alpha:   12:13-78 ~W13 STATION CLEANING COMPLETE
+POCSAG1200: Address:  549851  Function: 2  Alpha:   12:13-72 ~W13 STATION CLEANING COMPLETE
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>V<HT>L
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  585568  Function: 2  Alpha:   12:13-87 SEL 111 is in CAS escalation - Level 1 - For info only, 02082536951/07557565895. SEL Ops ND
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   12:12-71 4034<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:12-13 07/12/2021 12:10:01 INC 24783322 30D03 ROCK HOLE FARM, CRIMES LANE, BEESTON, CW6 9UB Female 60Y HORSE FELL ON HER GRD 353137 359457
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:12-12 07/12/2021 12:10:01 INC 24783322 30D03 ROCK HOLE FARM, CRIMES LANE, BEESTON, CW6 9UB Female 60Y HORSE FELL ON HER GRD 353137 359457
+POCSAG1200: Address: 1147688  Function: 2  Alpha:   `b
+POCSAG1200: Address: 1076957  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><DC3>S<DEL>,B
+POCSAG1200: Address:  131075  Function: 0 
+POCSAG1200: Address: 1566891  Function: 1  Alpha:   YYX<SUB><DLE><CAN><ESC>"<CAN><EM><DLE>e*a$fb"<DLE>dgji"<SYN><DLE>f ga`)d$i"P"'j")(idi"<DLE>aji$gbi)<DLE>h i%<SYN><DLE>fb,f '"<SYN><DLE>()<EM><ESC><DLE><ESC>*)<DLE>crv0v2P<ESC>Z,Pa'k$"<DLE>k`aa$g jd'gVi j)<DLE>fgk<SYN>j$g#f$gc<SYN>P#)"PY<SUB><SUB><EM>Z<FS><DLE><SUB>Y<EM><ESC>\<ESC><NUL><NUL>
+POCSAG1200: Address: 1856151  Function: 1  Alpha:   g<DC2>
+POCSAG1200: Address: 1676006  Function: 2  Alpha:   c<SYN>
+POCSAG1200: Address: 1238926  Function: 2 
+POCSAG1200: Address: 1495389  Function: 0 
+POCSAG1200: Address: 1154877  Function: 2 
+POCSAG1200: Address: 1227076  Function: 3 
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:12-66 5254<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   12:11-70 Call or Calls waiting at Switchboard
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   12:11-98 please call 888000<NUL>
+POCSAG1200: Address:  619020  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:11-42 4688<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:11-55 3140<NUL>
+POCSAG1200: Address:  548164  Function: 2  Alpha:   12:10-56 2010<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS>V<HT>L
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:10-16 4156<NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   12:10-85 07/12/2021 12:08:12 INC 24783317 31E01 65 ARNO ROAD, OXTON BIRKENHEAD, CH43 5SL Female 92Y UNABLE TO WAKE UP GRD 330708 387314<NUL><NUL>
+POCSAG1200: Address: 1323595  Function: 2  Alpha:   12:09-91 ~FOR INFO, ROBERT IRVINE HAS BOOKED SICK FOR SET, GC MCBRIDE INFD <NUL><NUL>
+POCSAG1200: Address:  549855  Function: 2  Alpha:   12:09-97 ~FOR INFO, ROBERT IRVINE HAS BOOKED SICK FOR SET, GC MCBRIDE INFD <NUL><NUL>
 POCSAG2400: Address: 1320359  Function: 2  Alpha:   12:09-83 4765<NUL>
 POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:09-65 4688<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:09-10 07/12/2021 12:07:43 INC 24783312 29B05 4A MOUGHLAND LANE, RUNCORN WA7, WA7 4SE Female 80Y RTC INTO TREE GRD 351017 381975<NUL>
@@ -953,48 +998,3 @@ POCSAG1200: Address:  269024  Function: 2  Alpha:   10:55-19 Testing/Testing Pri
 POCSAG1200: Address: 1781946  Function: 2  Alpha:   10:55-65 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
 POCSAG1200: Address:  135483  Function: 2  Alpha:   10:55-36 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
 POCSAG1200: Address: 1022128  Function: 2  Alpha:   10:55-10 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address: 1322003  Function: 2  Alpha:   10:55-59 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 ob<DLE>2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address: 1500190  Function: 2  Alpha:   10:55-34 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address: 1317894  Function: 2  Alpha:   10:55-37 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address:  696608  Function: 2  Alpha:   10:55-36 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address:  468571  Function: 0  Alpha:   2y<HT><DLE>dg9x
-POCSAG1200: Address:  678931  Function: 1 
-POCSAG1200: Address: 1583210  Function: 2  Alpha:   &<ACK>
-POCSAG1200: Address: 1508488  Function: 0  Alpha:   <PP94s79
-POCSAG1200: Address: 1002975  Function: 1  Alpha:   g<DC2>
-POCSAG1200: Address:  956463  Function: 3 
-POCSAG1200: Address:  586467  Function: 0 
-POCSAG1200: Address: 1098177  Function: 1  Alpha:   U <DEL>n 
-POCSAG1200: Address: 1570313  Function: 0 
-POCSAG1200: Address: 1851312  Function: 3  Alpha:   M<FF>
-POCSAG1200: Address: 1211007  Function: 3  Alpha:   g<DC2>
-POCSAG1200: Address: 1249181  Function: 2 
-POCSAG1200: Address: 1467982  Function: 1  Alpha:   <CAN><CAN>
-POCSAG1200: Address: 1560392  Function: 0 
-POCSAG1200: Address:  399743  Function: 0  Alpha:   g<DC2><DC4>F~
-POCSAG1200: Address: 1912927  Function: 3 
-POCSAG1200: Address: 2078563  Function: 1 
-POCSAG1200: Address:  548156  Function: 2  Alpha:   10:55-18 Destination: Parking\D78 Ext TP, Booking Ref#: 803944, Vehicle: EY64TKA. If no more Booking Ref to un|9<SYN>!
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   10:54-77 07/12/2021 10:52:47 INC 24782965 23B01I 6 OLD ORCHARD PLACE, CREWE, CW1 3LS Female 33Y TAKEN TABLETS GRD 370021 356043<NUL>
-POCSAG2400: Address: 1913799  Function: 2  Alpha:   10:54-21 4269<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:54-49 4687<NUL>
-POCSAG1200: Address: 1058636  Function: 2  Alpha:   10:54-19 07/12/2021 10:52:14 INC 24782963 29B01 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   10:54-56 07/12/2021 10:52:14 INC 24782963 29B01 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address: 1814758  Function: 0 
-POCSAG1200: Address:  396476  Function: 2  Alpha:   <SUB><EM>
-POCSAG1200: Address:  396472  Function: 2  Alpha:   <SUB>Z
-POCSAG1200: Address: 1483185  Function: 2  Alpha:   10:54-49 07/12/2021 10:52:14 INC 24782963 29B01 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address:  336423  Function: 2  Alpha:   10:54-95 07/12/2021 10:52:14 INC 24782963 29B01 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   10:54-66 07/12/2021 10:52:14 INC 24782963 29B01 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address: 1761418  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  940540  Function: 2  Alpha:   10:53-99 07/12/2021 10:52:14 INC 24782963 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address:  747017  Function: 1 
-POCSAG1200: Address: 1512615  Function: 3 
-POCSAG1200: Address: 1718598  Function: 1 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   10:53-83 07/12/2021 10:52:14 INC 24782963 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address: 1551419  Function: 2  Alpha:   10:53-37 07/12/2021 10:52:14 INC 24782963 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1053071221+++TIME=1053071221<NUL>
-POCSAG1200: Address: 1573775  Function: 2  Alpha:   10:53-77 07/12/2021 10:52:14 INC 24782963 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   10:53-63 07/12/2021 10:52:14 INC 24782963 56 BLACKPOOL ROAD, RIBBLETON PRESTON, PR2 6NX Male 70Y RTC-2 VEHICLES GRD 356031 430508<NUL><NUL>
-POCSAG1200: Address: 1812483  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1053071221+++TIME=1053071221<NUL>
