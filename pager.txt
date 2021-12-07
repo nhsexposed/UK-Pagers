@@ -1,3 +1,11 @@
+POCSAG2400: Address: 2063496  Function: 0  Alpha:   bi2oA
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313071221+++TIME=0313071221<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:13-30 2664<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:10-29 2182<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   03:10-31 MEDICAL EMERGENCY WARD 32 DMH 
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   03:10-05 5013<NUL>
+POCSAG1200: Address:  842680  Function: 3 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:09-70 4554<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308071221+++TIME=0308071221<NUL>
 POCSAG1200: Address: 1789137  Function: 3 
 POCSAG1200: Address:  303671  Function: 2  Alpha:   <DEL><DEL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 2040899  Function: 1
 POCSAG1200: Address:  543995  Function: 1 
 POCSAG1200: Address: 1884336  Function: 0  Alpha:   9R
 POCSAG1200: Address:   33447  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1165910  Function: 3  Alpha:   ''
-POCSAG1200: Address:  267566  Function: 2 
-POCSAG1200: Address:  494869  Function: 0 
-POCSAG1200: Address:  214093  Function: 2  Alpha:   22:33-27 06/12/2021 22:28:42 INC 24780808 13D01 ALSTON VIEW NURSING HOME, FELL BROW, LONGRI
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2233061221+++TIME=2233061221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   22/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address: 2009840  Function: 0 
