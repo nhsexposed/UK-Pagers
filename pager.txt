@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1299240  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443071221+++TIME=0443071221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1381123  Function: 1  Alpha:   <SOH>r '<DLE>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0438071221+++TIME=0438071221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
@@ -994,7 +998,3 @@ POCSAG2400: Address:  149253  Function: 2  Alpha:   23:01-90 PLS CALL PILGRIMS H
 POCSAG1200: Address: 1384056  Function: 1 
 POCSAG1200: Address: 1313124  Function: 2  Alpha:   23:01-77 PLS CALL PILGRIMS HOSPICE ON 01233 504 133
 POCSAG1200: Address:   33964  Function: 1 
-POCSAG1200: Address: 1330703  Function: 2 
-POCSAG1200: Address: 1312286  Function: 0 
-POCSAG1200: Address: 1615742  Function: 2 
-POCSAG1200: Address:  360296  Function: 2  Alpha:   23:01-25 NS2404 Cardex Technical Failure,  nt time:2021-12-06 23:01:42 <CR><LF>Action required from Cardex Tech Support<NUL>
