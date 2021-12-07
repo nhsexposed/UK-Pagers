@@ -1,3 +1,52 @@
+POCSAG2400: Address: 1913533  Function: 2  Alpha:   FIRE ALERT -FIRE WOODLANDS LESNEY    MAIN ENT CORRI  CP Zone 008 502-3-86/0 FIRE ALERT<NUL><NUL>
+POCSAG1200: Address: 1321700  Function: 2  Alpha:   08:39-83 Destination: D105 SSC In\113, Booking Ref#: 803619, Vehicle: WU68OKW. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0838071221+++TIME=0838071221<NUL>
+POCSAG2400: Address: 1814971  Function: 0  Alpha:   08:38-45 STROKE EMERGENCY GLOUCESTER WARD BED 6 EPSOM TIME: 08:35 <NUL><NUL>
+POCSAG1200: Address:  858118  Function: 1  Alpha:   BM
+POCSAG2400: Address: 1913533  Function: 2  Alpha:   FIRE ALERT -FIRE WOODLANDS HOLBROOK  CORRIDOR EXIT CP Zone 003 502-2-100/0 FIRE ALERT
+POCSAG2400: Address: 1320364  Function: 2  Alpha:   08:37-80 2065<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:37-01 2616<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  549855  Function: 2  Alpha:   08:36<CR>y0$~ANNE-MARIE HAS CONFIRMED SHE HAS TESTED POSITIVE ON PCR TEST. GC MCBRIDE INFD. ATTEMPTING TO GET OVERTIME TO COVER. FYI<NUL><NUL>
+POCSAG2400: Address: 1487950  Function: 2 
+POCSAG2400: Address:  283342  Function: 0 
+POCSAG2400: Address: 1239301  Function: 1 
+POCSAG2400: Address: 1446195  Function: 2 
+POCSAG2400: Address: 1412226  Function: 2  Alpha:   dr
+POCSAG2400: Address:  483594  Function: 2 
+POCSAG2400: Address:  918681  Function: 3 
+POCSAG2400: Address:  891569  Function: 1 
+POCSAG2400: Address: 1814752  Function: 0 
+POCSAG2400: Address: 1684270  Function: 3 
+POCSAG2400: Address:  200286  Function: 2 
+POCSAG2400: Address: 1076956  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX>
+POCSAG2400: Address: 1678171  Function: 1  Alpha:   jf
+POCSAG2400: Address:  200282  Function: 2 
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   08:36-39 4954<NUL>
+POCSAG1200: Address:  779546  Function: 2 
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   08:35-39 2206<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   08:35-39 07/12/2021 08:32:51 INC 24782355 29D02M O/S, WOODYARD SEVICE STATION, EDENFIELD ROAD, NORDEN ROCHDALE ROCHDALE, OL11 5XR Female 66Y RTC - PED VS CAR GRD 386989 413976<NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   08:35-95 07/12/2021 08:32:51 INC 24782355 29D02M O/S, WOODYARD SEVICE STATION, EDENFIELD ROAD, NORDEN ROCHDALE ROCHDALE, OL11 5XR Female 66Y RTC - PED VS CAR GRD 386989 413976<NUL><NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   08:35-67 07/12/2021 08:32:51 INC 24782355 O/S, WOODYARD SEVICE STATION, EDENFIELD ROAD, NORDEN ROCHDALE ROCHDALE, OL11 5XR Female 66Y RTC - PED VS CAR GRD 386989 413976
+POCSAG1200: Address: 1815006  Function: 0  Alpha:   08:35-78 12505
+POCSAG1200: Address:  267831  Function: 2  Alpha:   08:34-15 12
+POCSAG1200: Address:  957467  Function: 0 
+POCSAG1200: Address: 1837875  Function: 0 
+POCSAG1200: Address: 1467602  Function: 0  Alpha:   <DC3>+
+POCSAG1200: Address: 1352769  Function: 1 
+POCSAG1200: Address: 1213072  Function: 0  Alpha:   T 
+POCSAG1200: Address: 1462438  Function: 2  Alpha:   Lt$<ENQ>*u3<HT>:<DC2><SYN>
+POCSAG1200: Address: 1193030  Function: 0 
+POCSAG1200: Address:  271884  Function: 2  Alpha:   <DC4><BS>r33<DC1>(3
+POCSAG1200: Address:  267683  Function: 1 
+POCSAG1200: Address: 1153595  Function: 3 
+POCSAG1200: Address: 1913922  Function: 0 
+POCSAG1200: Address:  176897  Function: 3 
+POCSAG1200: Address:  473896  Function: 0 
+POCSAG1200: Address:  973936  Function: 1 
+POCSAG1200: Address: 1186092  Function: 0 
+POCSAG1200: Address: 1750595  Function: 0 
+POCSAG1200: Address: 1898946  Function: 0  Alpha:   TO
 POCSAG1200: Address:   11707  Function: 0  Alpha:   5hXbL
 POCSAG2400: Address:  422192  Function: 1 
 POCSAG2400: Address: 1913533  Function: 2  Alpha:   FIRE ALERT -FIRE Panel Input 9 - Input 9 121 - BOILER HOUSE FIRE 1-0-37/15 FIRE ALERT
@@ -949,52 +998,3 @@ POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:13-30 2664<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:10-29 2182<NUL>
 POCSAG1200: Address:   49263  Function: 2  Alpha:   03:10-31 MEDICAL EMERGENCY WARD 32 DMH 
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   03:10-05 5013<NUL>
-POCSAG1200: Address:  842680  Function: 3 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:09-70 4554<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308071221+++TIME=0308071221<NUL>
-POCSAG1200: Address: 1789137  Function: 3 
-POCSAG1200: Address:  303671  Function: 2  Alpha:   <DEL><DEL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   03:00-62 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0258071221+++TIME=0258071221<NUL>
-POCSAG1200: Address:  678795  Function: 2  Alpha:   02:58-18 (2/2) MILKFLOAT ON SIDE- DRIVER TRAPPED ; WILTS OPS 3 - 1040* ; ATTENDING WITH ANDOVER FROM HAMPSHIRE; Assigned: JY05P1, JYG148; Roles    JY05P1:Main Pump<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   02:58-70 07/12/2021 02:56:58 INC 24781636 17D03 57 SANDY LANE, SKELMERSDALE, WN8 8LA Female 81Y FALLEN DOWN THE STAIRS, INTOXICATED GRD 346666 406222<NUL><NUL>
-POCSAG1200: Address: 1294780  Function: 1  Alpha:   III<SOH><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   02:58-26 07/12/2021 02:53:08 INC 24781627 04B02A MAPLE HOUSE REHABILITATION UNIT, NORRIS STREET, WARRINGTON WA2, WA2 7RP Male 56Y Assault GRD 361517 389565<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1896704  Function: 2 
-POCSAG2400: Address:   11729  Function: 0  Alpha:   02:56-16 PLEASE CALL 7rs0<426 <NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   02:56-67 PLEASE CALL A&E MAJORS 4 ON 20303 <NUL><NUL>
-POCSAG1200: Address:   64643  Function: 2 
-POCSAG1200: Address: 1321711  Function: 2  Alpha:   02:55-91 Destination: Parking\D78 Ext TP, Bookin
-POCSAG2400: Address:   28899  Function: 0  Alpha:   02:53-29 4183<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this  r a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0248071221+++TIME=0248071221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1816733  Function: 2  Alpha:   02:47-52 (3/3) 1040*           ATTENDING WITH ANDOVER FROM HAMPSHIRE  INFORMING AS DUTY OFFICER RBFRS RESOURCE GOING OVER THE BORDER<NUL><NUL>
-POCSAG1200: Address: 1882850  Function: 1 
-POCSAG1200: Address:  549740  Function: 2  Alpha:   02:47-03 ** PROBLEM Host Alert: 243105859-TV2DK-PRD-TV2-Sport-DASH-ARN-AKAMAI-EUW1H012-ON is DOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF>Host: 243105859-TV2DK-PRD-TV2-Sport-DASH-ARN-AKAMAI-EUW1H012-ON<CR><LF>State: DOWN<CR><LF>Address: 
-POCSAG1200: Address: 1065301  Function: 1  Alpha:   <SYN>Z&>V
-POCSAG1200: Address: 1474885  Function: 3 
-POCSAG1200: Address:  133892  Function: 2  Alpha:   $'
-POCSAG1200: Address: 1627057  Function: 3  Alpha:   ale 3%Y CIDNEY
-POCSAG1200: Address:  594440  Function: 1 
-POCSAG1200: Address:  789296  Function: 0 
-POCSAG1200: Address:  592407  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1324374  Function: 1  Alpha:   :2
-POCSAG1200: Address:   74037  Function: 1  Alpha:   AC
-POCSAG1200: Address:   74349  Function: 1 
-POCSAG1200: Address:  301004  Function: 2 
-POCSAG1200: Address:  428948  Function: 0 
-POCSAG1200: Address:   33986  Function: 1 
-POCSAG1200: Address:  174817  Function: 2  Alpha:   $*
-POCSAG1200: Address: 1263529  Function: 0 
-POCSAG1200: Address:  758304  Function: 3  Alpha:   ,4
-POCSAG1200: Address:  379726  Function: 3  Alpha:   e - Pe3<HT>
-POCSAG1200: Address:  841765  Function: 0  Alpha:   <EM>l<GS><FS><
-POCSAG1200: Address: 2062804  Function: 1  Alpha:   'S
-POCSAG1200: Address: 1169227  Function: 3  Alpha:   n 
-POCSAG1200: Address:  247722  Function: 3 
-POCSAG1200: Address:  296154  Function: 3 
-POCSAG1200: Address:  678795  Function: 2  Alpha:   02:45-15 (1/2)031914-07122021; T10.1.0.P TRANSPORT - RTC PERSONS TRAPPED SMALL VE; (STREET RECORD),SMAYDOWN LANE,OXENWOOD; 430510,159118;
