@@ -1,3 +1,6 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:53-29 4183<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this  r a test message on A side 012345678901234567890<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0248071221+++TIME=0248071221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
 POCSAG1200: Address: 1816733  Function: 2  Alpha:   02:47-52 (3/3) 1040*           ATTENDING WITH ANDOVER FROM HAMPSHIRE  INFORMING AS DUTY OFFICER RBFRS RESOURCE GOING OVER THE BORDER<NUL><NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address: 1219077  Function: 3
 POCSAG1200: Address:  140940  Function: 3  Alpha:   <DC4>5
 POCSAG1200: Address:   43234  Function: 1 
 POCSAG1200: Address:  150497  Function: 2  Alpha:    "
-POCSAG1200: Address: 1477200  Function: 0  Alpha:   Xj
-POCSAG1200: Address: 1935495  Function: 2  Alpha:   j@dg<DC2>41 
-POCSAG1200: Address:  400414  Function: 1  Alpha:   <EM>P
