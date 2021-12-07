@@ -1,3 +1,40 @@
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   cp
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1433071221+++TIME=1433071221<NUL>
+POCSAG2400: Address: 1321854  Function: 2  Alpha:   14:33-79 mobile 07795123100 Ross, Lancaster Med Practice, NHS No 6046038529 UTI
+POCSAG1200: Address:   79312  Function: 1 
+POCSAG512: Address: 1976692  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  754015  Function: 2 
+POCSAG1200: Address: 1123710  Function: 1 
+POCSAG1200: Address: 1069174  Function: 1 
+POCSAG1200: Address:  738956  Function: 3 
+POCSAG1200: Address: 1714530  Function: 1 
+POCSAG1200: Address:  429648  Function: 1  Alpha:   ZH
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   14:32-90 call 8013<NUL><NUL>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   14:32-34 2610<NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
+POCSAG1200: Address:  901976  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23o 4*2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:32-74 4940<NUL>
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address:  269168  Function: 2  Alpha:   14:31-26 07/12/2021 14:29:47 INC 24784015 28C01G 1 WELCOMB WALK, PARK LANE WHITEFIELD MANCHESTER, M45 7HE Female 80Y COVID POSITIVE - Q-STROKE GRD 380687 40518
+POCSAG1200: Address: 1534130  Function: 2  Alpha:   14:31-26 BOSS Mobile: https://bossd.nfcsp.org.uk
+POCSAG1200: Address:  336053  Function: 2  Alpha:   14:30-72 07/12/2021 14:30:23 INC 24784018 DX012 18 KESTREL DRIVE, FERNGROVE BURY, BL9 6JE Female 33 111 NWAS/Cough Temperature Chest Hurting GRD 381721 411714<NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   14:30-10 31071
+POCSAG1200: Address: 1309000  Function: 0 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX><SOH>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   14:29-79 3298<NUL>
+POCSAG2400: Address: 1913945  Function: 2  Alpha:   14:29-55 5440<NUL>
+POCSAG2400: Address: 1913785  Function: 2  Alpha:   14:29-53 4462<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:29-76 4099<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   14:29-23 4156<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   14:29-02 07/12/2021 14:24:34 INC 24783991 11D02U J F RENSHAW LTD, 229 CROWN STREET, L7, L8 7RF Female 61Y PASSED OUT - HAS VACCINE YESTERDAY GRD 336538 389570<NUL>
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   14:29-99 07/12/2021 14:24:34 INC 24783991 11D02U J F RENSHAW LTD, 229 CROWN STREET, L7, L8 7RF Female 61Y PASSED OUT - HAS VACCINE YESTERDAY GRD 336538 389570<NUL>
+POCSAG1200: Address:  533685  Function: 1 
+POCSAG1200: Address: 1149060  Function: 3  Alpha:   F*1J 
+POCSAG1200: Address:  625448  Function: 2  Alpha:   fh
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 1426600  Function: 0 
 POCSAG1200: Address: 1002832  Function: 1 
 POCSAG1200: Address:  553832  Function: 3  Alpha:   F0
@@ -961,40 +998,3 @@ POCSAG1200: Address: 1652077  Function: 1
 POCSAG1200: Address:  194860  Function: 0  Alpha:   AS
 POCSAG1200: Address:  214093  Function: 2  Alpha:   12:34-71 07/12/2021 12:33:16 INC 24783441 26C02 2 BARRINGTON COURT, CHURCH ACCRINGTON, BB5 4AN Female 76Y SHAKING AND COLD GRD 374826 429234
 POCSAG1200: Address: 1321642  Function: 2  Alpha:   12:34-28 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: PN71JGV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address:  340124  Function: 0  Alpha:   12:34-99 07/12/2021 12:33:02 INC 24783439 06D02 23 STONEY LANE, GALGATE LANCASTER, LA2 0JY Female 75Y STRUGGLING TO BREATH GRD 348520 455302
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   12:34-23 61877
-POCSAG1200: Address: 1511856  Function: 2  Alpha:   Vr
-POCSAG1200: Address: 1812433  Function: 3  Alpha:   Uj
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:33-67 2097<NUL>
-POCSAG1200: Address: 1032918  Function: 3  Alpha:   F<DC2>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1233071221+++TIME=1233071221<NUL>
-POCSAG2400: Address: 1913814  Function: 2  Alpha:   12:33-73 4002<NUL>
-POCSAG2400: Address:   28903  Function: 0  Alpha:   12:33-23 4373<NUL>
-POCSAG1200: Address:  269111  Function: 2  Alpha:   12:33-48 07/12/2021 12:30:21 INC 24783425 10C04 99 NEW BANK ROAD, BLACKBURN, BB2 6JJ Male 52Y CHEST PAINS GRD 366687 428722<NUL><NUL>
-POCSAG1200: Address:  733413  Function: 2 
-POCSAG1200: Address:  676396  Function: 3 
-POCSAG1200: Address: 1319100  Function: 1 
-POCSAG1200: Address: 1906273  Function: 3 
-POCSAG1200: Address: 1848169  Function: 3 
-POCSAG1200: Address:  312672  Function: 0  Alpha:   12:32-84 07/12/2021 12:30:47 INC 24783428 17D04G MOORHOUSE CP SCHOOL, CROSSLEY STREET, MILNROW ROCHDALE, OL16 4DR Male 4Y FALL TRIPPED OVER GRD 392233 412941
-POCSAG1200: Address:  302822  Function: 2  Alpha:   12:32-81 2112002243 FOR INFORMATION AS DUTY GM - DANGEROUS STRUCTURE, 31 MAIN ROAD WINDERMERE LA231DX, NWOPS11<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on
-POCSAG2400: Address:   11729  Function: 0  Alpha:   12:33-20 PLEASE CALL JOHANNA ENT SHO ON 7238305<NUL>
-POCSAG2400: Address: 1323338  Function: 2  Alpha:   12:32-67 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   12:32-88 2561<NUL>
-POCSAG2400: Address:  816936  Function: 2  Alpha:   12:32-25 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33649  Function: 2  Alpha:   12:32-00 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address: 1537039  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1821556  Function: 2  Alpha:   ce<SO>modt@fhs.ne
-POCSAG1200: Address:   33708  Function: 2  Alpha:   12:32-84 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33653  Function: 2  Alpha:   12:32-61 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33663  Function: 2  Alpha:   12:32-58 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33661  Function: 2  Alpha:   12:32-75 Major Incident Pager Test please contact Vince Mott within two hours by phone text or email on 07920 246658 or vince.mott@nhs.net. Thank you.<NUL>
-POCSAG1200: Address:   33707  Function: 2  Alpha:   12:32-21 Major Inciden
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   12:32-95 3025<NUL>
-POCSAG1200: Address:  420486  Function: 3  Alpha:   <ACK>`
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  328837  Function: 2 
-POCSAG1200: Address:  328833  Function: 2 
-POCSAG1200: Address: 1442832  Function: 2 
-POCSAG1200: Address:  328838  Function: 2 
