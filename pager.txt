@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153071221+++TIME=0153071221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153071221+++TIME=0153071221<NUL>
+POCSAG2400: Address: 1022657  Function: 2  Alpha:   01:53-30 PLEASE CALL 07469 124 119 JESSICA HOUGH <NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1605921  Function: 1 
+POCSAG1200: Address: 1651688  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  216478  Function: 2  Alpha:   01:51-64 Got time for a survey?B <NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0148071221+++TIME=0148071221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1324318  Function: 2  Alpha:   01:46-20 NHSBT - DONOR REFERRAL. Please call SN BINUMAL  on Direct Dial Number 01268394628 Hospital Basildon University Hospital Dept CC . Regards Donor Referral Line<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1072277  Function: 1
 POCSAG1200: Address: 1873156  Function: 0 
 POCSAG1200: Address:  739115  Function: 2  Alpha:   43
 POCSAG1200: Address:  659035  Function: 2 
-POCSAG1200: Address:  271340  Function: 2  Alpha:   21:59-09 FAST TRACK 
-POCSAG1200: Address:  916310  Function: 2  Alpha:   21:59-11 FAST TRACK OFFER OF LEFT KIDNEY: Donor: 153249, Hospital: MORRISTON HOSP, HW8010, DOB: 0
-POCSAG512: Address:  114437  Function: 2  Alpha:   21:59-37 <NULL><NUL><NUL>
-POCSAG2400: Address:  549112  Function: 2  Alpha:   21:59-67 FAST TRACK OFFER OF LEFT KIDNEY: Donor: 153249, Hospital: MORRISTON HOSP, HW8010, DOB: 04/08/1972, DBD, Organ location: SHEFFIELD, X-Clamp: 06:20, Offer made with HLA, Fast track trigger point met: CIT - THIS OFFER EXPIRES AT 22:4
-POCSAG1200: Address:  183055  Function: 2 
-POCSAG1200: Address: 1477905  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2158061221+++TIME=2158061221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   22/04/2002 CH3A<NUL><NUL>
