@@ -1,3 +1,30 @@
+POCSAG2400: Address:   28926  Function: 0  Alpha:   14:59-45 5128<NUL>
+POCSAG2400: Address: 1320359  Function: 2  Alpha:   14:59-85 4557<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   14:59-93 2097<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1458071221+++TIME=1458071221<NUL>
+POCSAG2400: Address:   28868  Function: 0  Alpha:   14:58-04 PLEASE CALL A&E TUNBRIDGE WELLS EXT 35457 
+POCSAG1200: Address:  553832  Function: 3  Alpha:   F0
+POCSAG1200: Address: 1219074  Function: 0 
+POCSAG2400: Address: 1322772  Function: 2  Alpha:   14:57-20 NHSBT - DONOR REFERRAL. Please call   ELIZABETH on Direct Dial Number 0121 5073606 Hospital SANDWELL HOSPITAL  BIRMINGHAM  Dept   ITU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:  331031  Function: 1  Alpha:   O%(E<EOT>jv<ACK>
+POCSAG2400: Address:  824759  Function: 1 
+POCSAG2400: Address:  616626  Function: 1 
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   <ACK><STX>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   V0
+POCSAG1200: Address:  135469  Function: 2  Alpha:   14:57-22 2141<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1330696  Function: 2 
+POCSAG2400: Address: 1330696  Function: 2 
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   v0
+POCSAG2400: Address: 1324676  Function: 2  Alpha:   14:56-98 CALL OUT 13616 BROOMFIELD PLS CALL THE OFFICE
+POCSAG2400: Address:  225480  Function: 2  Alpha:   14:56-97 CALL OUT 13616 BROOMFIELD PLS CALL THE OFFICE
+POCSAG2400: Address: 1008325  Function: 2  Alpha:   14:56-43 CALL OUT 13616 BROOMFIELD PLS CALL THE OFFICE
+POCSAG2400: Address:   28926  Function: 0  Alpha:   14:56-44 5128<NUL>
+POCSAG2400: Address:   28869  Function: 0  Alpha:   14:55-90 PLEASE CALL 07449 332238 - MAIDSTONE <NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:55-65 4554<NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   14:55-75 4155<NUL>
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   14:55-98 2999<NUL>
+POCSAG1200: Address:  420501  Function: 3  Alpha:   <SYN>R
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   14:54-80 3119<NUL>
 POCSAG2400: Address: 1966838  Function: 0 
 POCSAG2400: Address:  963165  Function: 0 
@@ -971,30 +998,3 @@ POCSAG1200: Address:  420227  Function: 2  Alpha:   12:45-83 3668<NUL>
 POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN>(
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   12:44-74 2018<NUL>
 POCSAG1200: Address:  378152  Function: 0 
-POCSAG1200: Address: 1411856  Function: 1 
-POCSAG2400: Address: 1913906  Function: 2  Alpha:   12:44-08 2447<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   12:44-36 5400<NUL>
-POCSAG2400: Address:  216261  Function: 2  Alpha:   12:43-72 PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A, <CR><LF>PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A<CR><LF>Service: nimbleReplPartnerSyncFail<CR><LF>Host: PRNIM01-A<CR><LF>Alias: Nimble SAN Controller A<CR><LF>Address: 192.168.16.6<NUL><NUL>
-POCSAG2400: Address: 1808138  Function: 3  Alpha:   9<GS>
-POCSAG2400: Address: 1758233  Function: 0  Alpha:   !<DC1>
-POCSAG2400: Address:  889040  Function: 0 
-POCSAG2400: Address: 1355360  Function: 2 
-POCSAG2400: Address: 1593382  Function: 2  Alpha:   w9:<GS><DLE>x3<HT>
-POCSAG2400: Address:  470238  Function: 3 
-POCSAG2400: Address: 1264459  Function: 2 
-POCSAG2400: Address:  646330  Function: 0  Alpha:   -L
-POCSAG2400: Address: 1914305  Function: 1 
-POCSAG2400: Address: 1665440  Function: 2  Alpha:   mS
-POCSAG2400: Address:  429423  Function: 0  Alpha:   O%(0C
-POCSAG2400: Address:  535126  Function: 3  Alpha:   <EM>Y
-POCSAG2400: Address:  679539  Function: 1 
-POCSAG2400: Address:  216664  Function: 3 
-POCSAG2400: Address:  945192  Function: 3 
-POCSAG2400: Address:  863543  Function: 0  Alpha:   O%
-POCSAG2400: Address: 1717111  Function: 2 
-POCSAG2400: Address:  347109  Function: 3 
-POCSAG2400: Address:  352580  Function: 0 
-POCSAG2400: Address:  551123  Function: 3  Alpha:   <LF>d
-POCSAG2400: Address: 1957173  Function: 2 
-POCSAG2400: Address:  161578  Function: 3  Alpha:   61V2i286h09
-POCSAG2400: Address: 1070265  Function: 3  Alpha:   <DC4>d<FF>lT
