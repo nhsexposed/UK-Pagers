@@ -1,3 +1,42 @@
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1133071221+++TIME=1133071221<NUL>
+POCSAG1200: Address:  678651  Function: 2  Alpha:   11:33-15 PORTER TO STEFANO LEVIERI UNIT TO COLLECT BLOOD SAMPLES<NUL>
+POCSAG1200: Address:  270086  Function: 2  Alpha:   11:33-30 8B CONDITION A<NUL><NUL>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   <SYN>R
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1133071221+++TIME=1133071221<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:33-64 5010<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:33-63 5897<NUL>
+POCSAG1200: Address: 1816751  Function: 2  Alpha:   11:33-85 (3/3) Additional_Data Address Classification Office / Work Studio
+POCSAG1200: Address: 1816751  Function: 2  Alpha:   11:33-83 (1/3)031950-07122021; A1.0.0.P ALARM - INDUSTRIAL / COMMERCIAL; KOWA PHARMACUTICAL EUROPE,UNIT 105,WHARFEDALE ROAD,WINNERSH,RG41 5RB; 477210,171488;
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   F<EM>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28870  Function: 0  Alpha:   11:32-52 PLS CALL NURSE IN CHARGE  EXT 7253229 <NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   11:32-19 REFER PATIENT JOHN  HARRISON BED 7 DISCUSSED YESTERDAY  FOR A PSYCH REVIEW  5332 <NUL>
+POCSAG2400: Address: 1321510  Function: 2  Alpha:   11:32-74 3257 urgent
+POCSAG2400: Address: 1913869  Function: 2  Alpha:   11:32-97 2307<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:32-62 5907<NUL>
+POCSAG1200: Address:  549912  Function: 2  Alpha:   11:32-59 ATTEND:<LF>HOUSE<LF>172 HILL STREET,.,LURGAN,.<LF>0P 2T<LF>34475211<LF>J 07961 57913<LF>S1402 S1471 SO05 SO12<LF>END<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:31-55 5082<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   11:31-18 PLS CONTACT ALAN FROM WILL ADAMS WARD ON EXT 3999 RE WANTING TO REFER PATIENT, PHYSIOTHERAPY DEPARTMENT ARE REFERRING THE PATIENT.<NUL>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   <BEL>J
+POCSAG2400: Address:   28895  Function: 0  Alpha:   11:31-67 5010<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   11:31-91 07/12/2021 11:29:23 INC 24783149 06D02 564 BURY ROAD, BAMFORD ROCHDALE, OL11 4DN Female 75Y BREATHLESS GRD 387379 412877<NUL><NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   11:30-47 Boiler lock out ALERT<NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   11:30-46 Boiler lock out ALERT<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:31-61 4554<NUL>
+POCSAG1200: Address: 1761388  Function: 3  Alpha:   E2
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   11:30-82 07/12/2021 11:28:02 INC 24783140 23C01I 6 OLD ORCHARD PLACE, CREWE, CW1 3LS Female 33Y O/D - NOW DROWSY GRD 370021 356043<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:30-60 4554<NUL>
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   11:30-09 4554<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:29-34 5204<NUL>
+POCSAG1200: Address:  549772  Function: 2  Alpha:   11:30-90 ATTEND:<LF>HOUSE<LF>172 HILL STREET,.,LURGAN,.<LF>0P 1T<LF>34475211<LF>J 07961 57913<LF>S1402 SOr3<LF>END<NUL>
+POCSAG1200: Address: 1894131  Function: 0 
+POCSAG1200: Address: 1761418  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   11:29-45 Boiler lock out ALERT<NUL>
+POCSAG2400: Address:   11796  Function: 0  Alpha:   11:29-44 Boiler lock out ALERT<NUL>
+POCSAG2400: Address:   28901  Function: 0  Alpha:   11:29-28 3211<NUL>
 POCSAG1200: Address:  791078  Function: 2  Alpha:   <STX>:-<FS>%u3<HT>
 POCSAG1200: Address: 1067390  Function: 3 
 POCSAG1200: Address:  886914  Function: 2  Alpha:   b@Dp@<ACK><DC3><EM><GS>A<DLE>
@@ -959,42 +998,3 @@ POCSAG1200: Address: 1534246  Function: 2  Alpha:   10:20-35 (2/2)   SOUTHAMPTON
 POCSAG1200: Address: 1072208  Function: 2  Alpha:   <DC2><STX>
 POCSAG1200: Address:  287904  Function: 2 
 POCSAG1200: Address: 1246623  Function: 2  Alpha:   Z,p3<HT>
-POCSAG1200: Address:  625982  Function: 1  Alpha:   <GS>L
-POCSAG1200: Address: 1597604  Function: 1  Alpha:   p@p <NAK>
-POCSAG1200: Address: 1874436  Function: 3 
-POCSAG1200: Address:  315760  Function: 3  Alpha:   SI
-POCSAG1200: Address: 1127432  Function: 2 
-POCSAG2400: Address:  857352  Function: 3  Alpha:   V>
-POCSAG2400: Address: 1376813  Function: 2  Alpha:   brZjp@fj`p<NUL>x<DEL><DEL>
-POCSAG2400: Address: 1320373  Function: 2 
-POCSAG1200: Address:   41432  Function: 2  Alpha:   10:19-83 07/12/2021 10:17:15 INC 24782798 17B02G 4 HORNING CRESCENT, LANEHEAD BURNLEY, BB10 2NT Female 93Y FALL GRD 385846 434696<NUL><NUL>
-POCSAG1200: Address:  754995  Function: 0 
-POCSAG1200: Address: 1652690  Function: 1 
-POCSAG1200: Address:  108034  Function: 0  Alpha:   10:19-10 07/12/2021 10:15:42 B7COLDWELL_LEVEL Status : B7 Coldwell Level<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   10:19-64 2183<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:19-79 07/12/2021 10:18:17 INC 24782804 10D02 19 GRASMERE AVENUE, LITTLE LEVER BOLTON, BL3 1DR Male 75Y PAINS IN CHEST GRD 375072 407476<NUL><NUL>
-POCSAG2400: Address:  583472  Function: 2  Alpha:   10:19-77 80300
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1000100  Function: 2  Alpha:   10:18-63 ATTEND:<LF>RTA<LF>93 ACADEMY ROAD,NORTHLAND,LONDONDERRY,LONDONDERRY<LF>0P 4T<LF>34454211<LF>C 43100 17400<LF>W1101 W1174 W1201 W12><LF>END<NUL><NUL>
-POCSAG1200: Address: 1147717  Function: 0  Alpha:   p`~bd
-POCSAG1200: Address:  549236  Function: 2  Alpha:   10:18-64 ** PROBLEM Service Alert: harro-us-west-2-001-receiver2/gearman Module TCP Port is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: gearman Module TCP Port<CR><LF>Host: harro-us-west-2-001-receiver2<CR><LF>Address: har
-POCSAG1200: Address: 1324655  Function: 2  Alpha:   10:18-39 ** PROBLEM Service Alert: harro-us-west-2-001-receiver2/gearman Module TCP Port is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: gearman Module TCP Port<CR><LF>Host: harro-us-west-2-001-receiver2<CR><LF>Address: har
-POCSAG1200: Address:  549740  Function: 2  Alpha:   10:18-17 ** PROBLEM Service Alert: harro-us-west-2-001-receiver2/gearman Module TCP Port is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: gearman Module TCP Port<CR><LF>Host: harro-us-west-2-001-receiver2<CR><LF>Address: har
-POCSAG2400: Address:  583434  Function: 2  Alpha:   10:17-35 80300
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   10:17-54 07/12/2021 10:15:16 INC 24782788 31D01 28 CLOCKHOUSE AVENUE, LANEHEAD BURNLEY, BB10 2SU Female 68Y DIFFICULTY IN BREATHING GRD 385887 435275<NUL><NUL>
-POCSAG1200: Address: 1494325  Function: 2 
-POCSAG1200: Address:  707636  Function: 3  Alpha:   L,
-POCSAG1200: Address: 1491107  Function: 0  Alpha:   9<DC2>
-POCSAG1200: Address:   45802  Function: 2 
-POCSAG1200: Address: 1217842  Function: 1 
-POCSAG1200: Address: 1115286  Function: 1  Alpha:   g 2<SYN>P
-POCSAG1200: Address:  611508  Function: 2 
-POCSAG1200: Address:  419878  Function: 0  Alpha:   <CAN>X
-POCSAG1200: Address:  758581  Function: 3 
-POCSAG1200: Address: 1256805  Function: 2 
-POCSAG1200: Address:  360772  Function: 2 
-POCSAG1200: Address: 1321707  Function: 2  Alpha:   10:17-18 Destination: D105 SSC In\124, Booking Ref#: 804665, Vehicle: dk09fym. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>_______________________<DEL>{{y{{
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   10:17-14 07/12/2021 10:15:21 INC 24782790 30D03 ST BEDES R C HIGH SCHOOL, GREEN LANE, CHERRY TREE BLACKBURN, BB2 4SR Male 16Y SLICED KNEE - RAN INTO FENCE GRD 366109 425833<NUL><NUL>
-POCSAG1200: Address: 1321535  Function: 2  Alpha:   10:17-54 07/12/2021 10:15:21 INC 24782790 30D03 ST BEDES R C HIGH SCHOOL, GREEN LANE, CHERRY TREE BLACKBURN, BB2 4SR Male 16Y SLICED KNEE - RAN INTO FENCE GRD 366109 425833<NUL><NUL>
-POCSAG1200: Address: 1058636  Function: 2  Alpha:   10:17-17 07/12/2021 10:15:21 INC 24782790 30D03 ST BEDES R C HIGH SCHOOL, GREEN LANE, CHERRY TREE BLACKBURN, BB2 4SR Male 16Y SLICED KNEE - RAN INTO FENCE GRD 366109 425833<NUL><NUL>
