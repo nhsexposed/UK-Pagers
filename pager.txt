@@ -1,3 +1,28 @@
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   18:34-44 pls call Toni & Guy 34400
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   18:34-37 2616<NUL>
+POCSAG1200: Address:  172640  Function: 2 
+POCSAG1200: Address: 1770637  Function: 0  Alpha:   <DLE>,$H<DLE>!0f
+POCSAG1200: Address:  600635  Function: 2  Alpha:   18:33-29 BMAG 5010 2375 - PLS CALL 0844 879 1911
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1833071221+++TIME=1833071221<NUL>
+POCSAG1200: Address: 1817164  Function: 2  Alpha:   18:33-56 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: WX15KVL. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   18:33-28 3104<NUL>
+POCSAG1200: Address: 1000740  Function: 2  Alpha:   '<DLE>a *$P<SYN>Pa'&f hi""P#)"P<EM><ESC>[<FS>[<SUB><DLE><SUB>XY\<CAN><FS><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1500150  Function: 2  Alpha:   18:32-73 07/12/2021 18:31:48 INC 24785214 26D01 14 BRADBURN STREET, ECCLES MANCHESTER, M30 0UB Female 86Y CONFUSED FEMALE GRD 376802 398385<NUL>
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   18:32-03 07/12/2021 18:31:48 INC 24785214 26D01 14 BRADBURN STREET, ECCLES MANCHESTER, M30 0UB Female 86Y CONFUSED FEMALE GRD 376802 398385<NUL>
+POCSAG1200: Address:  678481  Function: 2  Alpha:   18:32-67 07/12/2021 18:31:48 INC 24785214 26D01 14 BRADBURN STREET, ECCLES MANCHESTER, M30 0UB Female 86Y CONFUSED FEMALE GRD 376802 398385<NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1039073  Function: 3  Alpha:   1(
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   18:32-63 07/12/2021 18:28:53 INC 24785202 31E01 1 APPLEBY GREEN, WEST DERBY L12, L12 9LT Female 50Y F - UNCONSCIOUS - CANT WAKE UP - Q OVERDOSE GRD 340832 392586<NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   18:32-15 07/12/2021 18:28:53 INC 24785202 31E01 1 APPLEBY GREEN, WEST DERBY L12, L12 9LT Female 50Y F - UNCONSCIOUS - CANT WAKE UP - Q OVERDOSE GRD 340832 392586<NUL>
+POCSAG1200: Address:  829297  Function: 1 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:32-32 07/12/2021 18:28:53 INC 24785202 31E01 1 APPLEBY GREEN, WEST DERBY L12, L12 9LT Female 50Y F - UNCONSCIOUS -f<DC2>
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   18:31-11 07/12/2021 18:28:36 INC 24785201 26D01 189 PRESTON ROAD, LYTHAM LYTHAM ST ANNES, FY8 5AY Male 80Y CANCER PT DETERIORATING - WEAKNESS GRD 338146 427969
+POCSAG2400: Address:   28894  Function: 0  Alpha:   18:31-12 5125<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   18:30-43 pls call Toni & Guy 34400
+POCSAG1200: Address: 1512731  Function: 3  Alpha:   %2
+POCSAG2400: Address: 1322031  Function: 2  Alpha:   18:29-95 07813189908 - Sheena Barry : Dolesfoot v><CR>`0y6<DLE>b7vr9sw7:<DLE>f0w2<DLE>gr;q7ywz34<DLE>a:9z7wV7w<SYN>*y27:P)z03s79r9t4y2<DLE>bbX<EM><DLE>\)(<DLE>d7yy2P)z4z14P<EM><CAN>P<y9P{4:4P1twu2<DLE>8t7w2Pq066<DLE>yrxzr9z22<NUL><NUL>
 POCSAG1200: Address: 1646224  Function: 0 
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   18:29-99 4876<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828071221+++TIME=1828071221<NUL>
@@ -973,28 +998,3 @@ POCSAG2400: Address: 1323918  Function: 2  Alpha:   17:00-99 Green: This is the 
 POCSAG2400: Address: 1323988  Function: 2  Alpha:   17:00-38 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1323981  Function: 2  Alpha:   17:00-61 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1323941  Function: 2  Alpha:   17:00-71 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324028  Function: 2  Alpha:   17:00-94 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323963  Function: 2  Alpha:   17:00-89 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324111  Function: 2  Alpha:   17:00-33 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323984  Function: 2  Alpha:   17:00-33 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323958  Function: 2  Alpha:   17:00-88 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323948  Function: 2  Alpha:   17:00-61 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323974  Function: 2  Alpha:   17:00-38 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   17:00-66 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323972  Function: 2  Alpha:   17:00-74 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323945  Function: 2  Alpha:   17:00-01 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1321069  Function: 2  Alpha:   17:00-87 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323910  Function: 2  Alpha:   17:00-06 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1321198  Function: 2  Alpha:   17:00-78 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324000  Function: 2  Alpha:   17:00-79 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324067  Function: 2  Alpha:   17:00-12 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324106  Function: 2  Alpha:   17:00-28 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323913  Function: 2  Alpha:   17:00-80(Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323906  Function: 2  Alpha:   17:00-87 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324073  Function: 2  Alpha:   17:00-70 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323956  Function: 2  Alpha:   17:00-90 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324064  Function: 2  Alpha:   17:00-06 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   17:00-49 5531<NUL>
-POCSAG2400: Address: 1324015  Function: 2  Alpha:   17:00-71 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324071  Function: 2  Alpha:   17:00-47 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323970  Function: 2  Alpha:   17:00-89 Green: This is the daily pager test. Please take no further action.<NUL>
