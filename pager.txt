@@ -1,3 +1,34 @@
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:19-92 4769<NUL>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG2400: Address:  225757  Function: 2  Alpha:   10:17-76 (sent at 10:15). M MORRIS (PoC), D RILEY (SLO) on duty WEF 08-12-2021 10:15<NUL>
+POCSAG2400: Address: 1319787  Function: 2  Alpha:   10:17-35 4769<NUL>
+POCSAG2400: Address: 1913648  Function: 2  Alpha:   10:17-41 2182<NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   10:17-76 2183<NUL>
+POCSAG2400: Address: 1320171  Function: 2  Alpha:   10:17-41 80300
+POCSAG1200: Address:  696528  Function: 2  Alpha:   10:17-34 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address: 1913759  Function: 2  Alpha:   10:16-82 4483<NUL>
+POCSAG2400: Address: 1322512  Function: 2  Alpha:   10:17-92 80300
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   <ACK>d
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   10:16-03 Please call Ian Wood on 01243937988 
+POCSAG2400: Address:  585918  Function: 2  Alpha:   10:16-94 Please call Ian Wood on 01243937988 
+POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK><ACK>
+POCSAG2400: Address: 1913792  Function: 2  Alpha:   10:15-48 3509<NUL>
+POCSAG1200: Address: 1475216  Function: 1 
+POCSAG2400: Address: 2078432  Function: 1 
+POCSAG2400: Address: 1001186  Function: 2  Alpha:   10:15-99 80300
+POCSAG1200: Address: 1022677  Function: 2  Alpha:   10:15-34 MANCHESTER AIRPORT RESET-*SA09,SR1,#
+POCSAG1200: Address:  549077  Function: 2  Alpha:   10:15-08 666<NUL><NUL>
+POCSAG1200: Address:  568193  Function: 0 
+POCSAG1200: Address: 1067866  Function: 2  Alpha:   10:15-29 08/12/2021 10:14:08 INC 24788457 13C01 38 WINDERMERE STREET, LUNTS HEATH WIDNES WA8, WA8 9LL Female 88Y DIABETIC 1, BLOOD SUGARS 29,KEYTONES 7 GRD 351891 387602<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:15-64 08/12/2021 10:14:08 INC 24788457 13C01 38 WINDERMERE STREET, LUNTS HEATH WIDNES WA8, WA8 9LL Female 88Y DIABETIC 1, BLOOD SUGARS 29,KEYTONES 7 GRD 351891 387602<NUL><NUL>
+POCSAG1200: Address: 1067597  Function: 2  Alpha:   10:15-16 01173421916
+POCSAG2400: Address:  583420  Function: 2  Alpha:   10:14-01 80300
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <NAK><ACK>
+POCSAG2400: Address:  583414  Function: 2  Alpha:   10:14-31 80300
+POCSAG2400: Address: 2079991  Function: 2 
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG2400: Address:  583468  Function: 2  Alpha:   10:14-35 80300
 POCSAG1200: Address:  432776  Function: 2  Alpha:   10:14-74 08/12/2021 10:13:30 INC 24788451 09E01 IN GARDEN, 12 GREENHILL WALK, DISLEY, SK12 2EX Unknown UnknownY NOT BREATHING MALE FOUND IN GARDEN STIFF GRD 397808 384718<NUL>
@@ -967,34 +998,3 @@ POCSAG1200: Address:  880862  Function: 2  Alpha:   08:49-38 PLS CALL SILVIA ON 
 POCSAG1200: Address:  432413  Function: 2  Alpha:   08:49-34 PLS CALL SILVIA ON 07590 352 301<NUL>
 POCSAG1200: Address: 1512731  Function: 3  Alpha:   %2
 POCSAG1200: Address: 1058499  Function: 2  Alpha:   08:49-30 Call 24788006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG2400: Address: 1913851  Function: 2  Alpha:   08:49-96 4387<NUL>
-POCSAG2400: Address: 1913972  Function: 2  Alpha:   08:49-79 5202<NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   08:49-02 Call 24788006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  334075  Function: 2  Alpha:   08:49-32 Call 24788006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1092710  Function: 2  Alpha:   08:49-41 Call 24788006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   08:49-07 Call 24788006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  181225  Function: 3 
-POCSAG1200: Address:   87414  Function: 3  Alpha:   safe.p3<HT>
-POCSAG1200: Address: 1275726  Function: 2 
-POCSAG1200: Address:  366365  Function: 2 
-POCSAG1200: Address: 1599964  Function: 2 
-POCSAG1200: Address: 1474931  Function: 2 
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   08:49-30 Call 24788006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0848081221+++TIME=0848081221<NUL>
-POCSAG2400: Address: 1008256  Function: 2  Alpha:   08:48-34 Switch - Call Waiting please
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   08:48-71 INC ALERT No: 16900741 Dangerous Bleed - NOT EATEN SINCE SUNDAY - CONFUSED, VOMITING BLOOD, AT: 84 HAPIL CLOSE, SANDFORD WINSCOMBE, BS25 5AA, Time of Call: 08/12/2021 08:46:20, Co-ords: 51.3327377 -2.839745<NUL><NUL>
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   08:47-87 4550<NUL>
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   08:47-00 4193<NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   08:47-04 08/12/2021 08:42
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   08:47-21 69000
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   08:47-53 08/12/2021 08:42:18`MNG 24788023 06E01 44 CORNWALL WAY, AINSDALE SOUTHPORT PR8, PR8 3SH Male 91Y CAN'T BREATHE- CANT BREATH GRD 331079 410894<NUL>
-POCSAG1200: Address:  739352  Function: 2 
-POCSAG1200: Address: 1572824  Function: 3 
-POCSAG1200: Address: 1512731  Function: 3  Alpha:   %2
-POCSAG2400: Address:  154637  Function: 1  Alpha:   aabaf
-POCSAG2400: Address:  997756  Function: 2  Alpha:   -^
-POCSAG2400: Address:  799476  Function: 1 
-POCSAG2400: Address:  901922  Function: 3  Alpha:   m On 
-POCSAG1200: Address: 1485641  Function: 3  Alpha:   <DC1>"
-POCSAG2400: Address: 1913839  Function: 2  Alpha:   08:44-07 5676<NUL>
-POCSAG2400: Address: 1323893  Function: 2  Alpha:   08:43-11 22
