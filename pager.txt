@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403081221+++TIME=0403081221<NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   04:03-34 2415<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:03-94 4155<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   04:03-53 5201<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1184563  Function: 1 
+POCSAG1200: Address: 1189506  Function: 0 
+POCSAG1200: Address:   71371  Function: 3 
 POCSAG1200: Address: 1875634  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0358081221+++TIME=0358081221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1259126  Function: 2  Alpha:   23:47-85 07/12/2021 23:45:49
 POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  585393  Function: 2  Alpha:   23:46-95 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
 POCSAG1200: Address:  585393  Function: 2  Alpha:   23:46-94 (2/2) RG1 8FJ Type     R3.0.0.P RESCUE - RESCUE FROM WATER Map ref  472227,173968 Details  POTENTIAL PERSON IN THE RIVER  INFORMING AS DO<NUL><NUL>
-POCSAG1200: Address: 1816735  Function: 2  Alpha:   23:45-06 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
-POCSAG1200: Address: 1816735  Function: 2  Alpha:   23:45-05 (2/2) RG1 8FJ Type     R3.0.0.P RESCUE - RESCUE FROM WATER Map ref  472227,173968 Details  POTENTIAL PERSON IN THE RIVER  INFORMING AS IMO<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
-POCSAG1200: Address:  413130  Function: 2  Alpha:   23:44-16 (1/3)032025-07122021; R3.0.0.P RESCUE - RESCUE FROM WATER; KINGS MEADOW,NAPIER ROAD,READING,RG1 8FJ; 472227,173968; POTENTIAL PERSON IN THE RIVER; ;
-POCSAG1200: Address:  413130  Function: 2  Alpha:   23:44-16 (2/3) Assigned: JY01P1, JY02P1, JY20P1, JY01R1, JYS146; Roles    JY01R1:Water Rescue; Talkgrp  FBER-OPS01 (38*) (DGNA);
-POCSAG1200: Address: 1816808  Function: 2  Alpha:   23:44-42 (2/3) Assigned: JY01P1, JY02P1, JY20P1, JY01R1, JYS146; Roles    JYS146:Water Incident Management DEFRA Level 5; Talkgrp  FBER-OPS01 (38*) (DGNA);<NUL><NUL>
-POCSAG1200: Address: 1816808  Function: 2  Alpha:   23:44-42 (1/3)032025-07122021; R3.0.0.P RESCUE - RESCUE FROM WATER; KINGS MEADOW,NAPIER ROAD,READING,RG1 8FJ; 472227,173968; POTENTIAL PERSON IN THE RIVER; ;
-POCSAG1200: Address:  413198  Function: 2  Alpha:   23:44-70 (3/3) Additional_Data Address Classification Playground 
