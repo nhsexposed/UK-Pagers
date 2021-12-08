@@ -1,3 +1,34 @@
+POCSAG1200: Address:   40161  Function: 2  Alpha:   23:09-14 please call rfh BLP 2608<NUL>
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   23:09-72 please call rfh BLP 2608<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2308081221+++TIME=2308081221<NUL>
+POCSAG1200: Address: 1975392  Function: 2 
+POCSAG2400: Address: 1976691  Function: 2 
+POCSAG2400: Address:  549123  Function: 2  Alpha:   23:07-48 2415<NUL>
+POCSAG1200: Address: 1330697  Function: 2 
+POCSAG1200: Address: 1330697  Function: 2 
+POCSAG1200: Address: 1330696  Function: 2 
+POCSAG1200: Address: 1330703  Function: 2 
+POCSAG1200: Address: 1330702  Function: 2 
+POCSAG1200: Address:  625680  Function: 3  Alpha:   I<HT><<EOT>|
+POCSAG1200: Address:  807364  Function: 0  Alpha:   <STX>:
+POCSAG1200: Address: 2024977  Function: 1 
+POCSAG1200: Address:  167315  Function: 3 
+POCSAG1200: Address:  165554  Function: 1 
+POCSAG1200: Address:  614185  Function: 2  Alpha:   d<STX>
+POCSAG1200: Address: 1650297  Function: 1 
+POCSAG1200: Address:  852608  Function: 1  Alpha:   CC
+POCSAG1200: Address: 1349434  Function: 1 
+POCSAG1200: Address: 1139916  Function: 1  Alpha:   ;3
+POCSAG1200: Address:  557771  Function: 0 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:04-10 08/12/2021 23:01:26 INC 24792245 06E01 58 HIGH STREET, HARRISEAHEAD STOKE-ON-TRENT, ST7 4JT Male 52Y DIB GRD 386186 356038
+POCSAG1200: Address: 1491760  Function: 0 
+POCSAG1200: Address: 1487751  Function: 2  Alpha:   23:04-31 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address: 1487681  Function: 2  Alpha:   23:04-68 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address:  149169  Function: 2  Alpha:   23:04-33 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address: 1320079  Function: 2  Alpha:   23:04-12 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address: 1765468  Function: 2  Alpha:   23:04-20 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address: 1242610  Function: 2  Alpha:   23:04-05 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
+POCSAG1200: Address:  618757  Function: 2  Alpha:   23:04-04 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:03-17 3157<NUL>
 POCSAG2400: Address:  583556  Function: 2  Alpha:   23:03-05 73338
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test
@@ -967,34 +998,3 @@ POCSAG2400: Address:  216272  Function: 2  Alpha:   20:01-83 PROBLEM: SSH proces
 POCSAG2400: Address:   28899  Function: 0  Alpha:   20:01-28 5056<NUL>
 POCSAG1200: Address:  678665  Function: 2  Alpha:   20:00-04 Case ref 11276206 Fill in tick sheet
 POCSAG1200: Address:  695845  Function: 2  Alpha:   19:59-35 2<NUL>
-POCSAG1200: Address: 2075377  Function: 1 
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   19:59-77 TEST CALL<NUL><NUL>
-POCSAG1200: Address: 1972864  Function: 3 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   19:59-32 Please Call Switchboard<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1958081221+++TIME=1958081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1958081221+++TIME=1958081221<NUL>
-POCSAG1200: Address:  695065  Function: 2  Alpha:   19:58-07 33879
-POCSAG1200: Address: 1880950  Function: 3 
-POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  741151  Function: 2  Alpha:   O%
-POCSAG2400: Address:  705159  Function: 2 
-POCSAG2400: Address:  742446  Function: 1 
-POCSAG2400: Address: 1225398  Function: 0 
-POCSAG2400: Address:  558413  Function: 1 
-POCSAG2400: Address: 1253893  Function: 2 
-POCSAG2400: Address: 1265164  Function: 0 
-POCSAG2400: Address: 1502876  Function: 2 
-POCSAG2400: Address:  384827  Function: 1 
-POCSAG2400: Address: 1683539  Function: 3 
-POCSAG2400: Address: 1990018  Function: 1  Alpha:   <ACK>C
-POCSAG2400: Address:  934921  Function: 1  Alpha:   <SYN><DLE>
-POCSAG2400: Address:  858800  Function: 2 
-POCSAG2400: Address:  164543  Function: 3  Alpha:   O%(k<SOH>
-POCSAG2400: Address:  370446  Function: 3  Alpha:   r@
-POCSAG2400: Address:  400541  Function: 1  Alpha:   Y<EM>
-POCSAG2400: Address:  343996  Function: 0  Alpha:   -<BEL>
-POCSAG2400: Address:  361740  Function: 2 
-POCSAG2400: Address:  594467  Function: 2 
-POCSAG2400: Address:  568363  Function: 0 
-POCSAG2400: Address: 1874737  Function: 3  Alpha:   <FF><CR><CR><SO>.
