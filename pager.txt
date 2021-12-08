@@ -1,3 +1,21 @@
+POCSAG1200: Address: 1799823  Function: 3  Alpha:   O%
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2313081221+++TIME=2313081221<NUL>
+POCSAG1200: Address:  975472  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:11-28 4654<NUL>
+POCSAG1200: Address: 2033160  Function: 0 
+POCSAG1200: Address:   33724  Function: 2  Alpha:   23:11-43 TWILIGHT NURSE AT NEW ROMNEY RE PATIENT FOR STAT DOSE WHO THEY HAVE JUST NOTICED ON LIST, PLEASE CALL PATIENT DIRECTLY ON 01797 362 704<NUL>
+POCSAG1200: Address: 1238433  Function: 1  Alpha:    A
+POCSAG1200: Address:  160592  Function: 2 
+POCSAG1200: Address:  665928  Function: 1  Alpha:   <BS>I
+POCSAG1200: Address: 1271389  Function: 2 
+POCSAG2400: Address: 1324614  Function: 2  Alpha:   23:10-07 23:10-06 PLEASE CALL 07900 248 773<NUL><NUL>
+POCSAG2400: Address:  225057  Function: 2  Alpha:   23:10-42 PLEASE CALL 07900 248 773
+POCSAG2400: Address: 1324621  Function: 2  Alpha:   23:10-38 PLEASE CALL 07900 248 773
+POCSAG2400: Address: 1959536  Function: 2 
+POCSAG2400: Address: 1324616  Function: 2  Alpha:   23:10-51 PLEASE CALL 07900 248 773
+POCSAG2400: Address: 1324610  Function: 2  Alpha:   23:10-64 PLEASE CALL 07900 248 773
+POCSAG1200: Address:   40088  Function: 2  Alpha:   23:10-25 PLEASE CALL SEUD 6D ON 21821 <NUL>
 POCSAG1200: Address:   40161  Function: 2  Alpha:   23:09-14 please call rfh BLP 2608<NUL>
 POCSAG1200: Address: 1322125  Function: 2  Alpha:   23:09-72 please call rfh BLP 2608<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2308081221+++TIME=2308081221<NUL>
@@ -980,21 +998,3 @@ POCSAG2400: Address:  315852  Function: 0  Alpha:   TN
 POCSAG2400: Address: 1476651  Function: 2 
 POCSAG2400: Address:  176896  Function: 3 
 POCSAG2400: Address:  197832  Function: 0 
-POCSAG2400: Address:  103262  Function: 1  Alpha:   fl
-POCSAG2400: Address: 1246813  Function: 3 
-POCSAG2400: Address:   79565  Function: 3 
-POCSAG2400: Address:  862908  Function: 1 
-POCSAG2400: Address:  268179  Function: 2  Alpha:   <HT>T
-POCSAG2400: Address:  315849  Function: 0  Alpha:   TN
-POCSAG2400: Address: 1639809  Function: 3 
-POCSAG2400: Address:   28919  Function: 0  Alpha:   20:02-53 2664<NUL>
-POCSAG2400: Address: 1324614  Function: 2  Alpha:   20:02-05 CLINICAL MANAGER, PLEASE CALL CHESTNUT WARD ON EXT: 634146<NUL>
-POCSAG1200: Address: 1713775  Function: 0  Alpha:   <SYN>2
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   20:02-37 08/12/2021 20:00:49 INC 24791426 06E01 19 KIDBROOKE A
-POCSAG2400: Address:   11754  Function: 0  Alpha:   20:01-38 PLS CALL REFER A PATIENT. 07454 109 405 <NUL><NUL>
-POCSAG2400: Address:  669136  Function: 1  Alpha:   <EM>z
-POCSAG2400: Address:  216263  Function: 2  Alpha:   20:01-99 PROBLEM: SSH processes
-POCSAG2400: Address:  216272  Function: 2  Alpha:   20:01-83 PROBLEM: SSH processes is CRITICAL on host SLGA-CEF-COL, <CR><LF>PROBLEM: SSH processes is CRITICAL on host SLGA-CEF-COL<CR><LF>Service: SSH processes<CR><LF>Host: SLGA-CEF-COL<CR><LF>Alias: <CR><LF>Address: SLGA-CEF-COL.staffline.co.uk<CR><LF>Host Group Hierarchy: Opsview > <NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   20:01-28 5056<NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   20:00-04 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  695845  Function: 2  Alpha:   19:59-35 2<NUL>
