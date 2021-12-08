@@ -1,3 +1,95 @@
+POCSAG1200: Address: 1614688  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708081221+++TIME=0708081221<NUL>
+POCSAG1200: Address:  325886  Function: 3  Alpha:   <DC2>C<BS> L
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0708081221+++TIME=0708081221<NUL>
+POCSAG2400: Address: 2060354  Function: 1 
+POCSAG2400: Address: 1322342  Function: 2  Alpha:   07:08-42 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322399  Function: 2  Alpha:   07:08-93 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322220  Function: 2  Alpha:   07:08-61 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322617  Function: 2  Alpha:   07:08-58 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1357665  Function: 1 
+POCSAG2400: Address: 1224768  Function: 1 
+POCSAG2400: Address: 1147152  Function: 1 
+POCSAG2400: Address:  339422  Function: 0 
+POCSAG2400: Address:  306198  Function: 0 
+POCSAG2400: Address:  155717  Function: 3 
+POCSAG2400: Address: 1236356  Function: 0  Alpha:   <LF><HT>
+POCSAG2400: Address:  313386  Function: 2 
+POCSAG2400: Address: 1544370  Function: 2 
+POCSAG2400: Address:  100185  Function: 0  Alpha:   dl
+POCSAG2400: Address:  226904  Function: 2 
+POCSAG2400: Address:  434143  Function: 3  Alpha:   |<FS>Hg<DC2><DC4>LM<ENQ><DC4>,^<FS><<FF><NUL><NUL>.<DC1><BEL>WHC+da<NAK>rp<LF>98E<FS>\"<SO>.<DC1><BEL>WHC+da<NAK>rp<LF>9x,B<LF>:!
+POCSAG2400: Address: 1840190  Function: 3 
+POCSAG2400: Address: 1718894  Function: 0 
+POCSAG2400: Address: 1880946  Function: 3 
+POCSAG2400: Address: 1066584  Function: 3  Alpha:   |<CAN><SUB>X|)<EM><BS>T|[
+POCSAG2400: Address:  765988  Function: 1  Alpha:   <GS>L
+POCSAG2400: Address: 2060355  Function: 1 
+POCSAG2400: Address:  300697  Function: 0 
+POCSAG2400: Address:  907568  Function: 0 
+POCSAG2400: Address:  169710  Function: 2 
+POCSAG2400: Address:  941885  Function: 1 
+POCSAG2400: Address: 1781797  Function: 1 
+POCSAG2400: Address:  627988  Function: 1 
+POCSAG2400: Address: 1236355  Function: 0  Alpha:   <RS>!
+POCSAG2400: Address:  780035  Function: 2 
+POCSAG2400: Address:  723225  Function: 0  Alpha:   *<DC1><SYN><ACK><EOT>
+POCSAG2400: Address: 1094497  Function: 1 
+POCSAG2400: Address: 1224768  Function: 1 
+POCSAG2400: Address: 1147152  Function: 1 
+POCSAG2400: Address:  133895  Function: 2  Alpha:   a*Eg<DC2>
+POCSAG2400: Address:  339422  Function: 0 
+POCSAG2400: Address:  306198  Function: 0 
+POCSAG2400: Address:  155717  Function: 3 
+POCSAG2400: Address: 1236356  Function: 0  Alpha:   <LF><HT>
+POCSAG2400: Address:  704772  Function: 2 
+POCSAG2400: Address:  827699  Function: 3  Alpha:   <FF><BS>
+POCSAG2400: Address:  313386  Function: 2 
+POCSAG2400: Address:  210543  Function: 1 
+POCSAG2400: Address: 1022998  Function: 0 
+POCSAG2400: Address:  868286  Function: 3 
+POCSAG2400: Address: 1880945  Function: 3 
+POCSAG2400: Address: 1322264  Function: 2  Alpha:   07:08-51 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322201  Function: 2  Alpha:   07:08-85 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>1
+POCSAG2400: Address:  159151  Function: 3  Alpha:   y9P066P0yrp9<NUL><NUL>
+POCSAG2400: Address: 1322206  Function: 2  Alpha:   07:08-69 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322315  Function: 2  Alpha:   07:08-30 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322209  Function: 2  Alpha:   07:07-06 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1147152  Function: 1 
+POCSAG2400: Address:  339422  Function: 0 
+POCSAG2400: Address:  306198  Function: 0 
+POCSAG2400: Address:  184580  Function: 2 
+POCSAG2400: Address: 1544370  Function: 2 
+POCSAG2400: Address: 1322230  Function: 2  Alpha:   07:07-35 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 qU,<RS>]<n
+POCSAG2400: Address: 1322233  Function: 2  Alpha:   07:07-43 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322213  Function: 2  Alpha:   07:07-51 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322617  Function: 2  Alpha:   07:07-57 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322676  Function: 2  Alpha:   07:07-25 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 1322218  Function: 2  Alpha:   07:07-38 OPEL 3<LF>23 DTA in ED<LF>2 DTA in PACU<LF>1 DTA in CDU<LF>13 pts in OPAL<LF>13 pts in ITU amber and Red<LF>BEDS: 0 now  7 later and 13 queries<LF>Discharge profile poor<LF>Staffing amber across all areas<NUL><NUL>
+POCSAG2400: Address: 2060353  Function: 1 
+POCSAG1200: Address: 2080632  Function: 1  Alpha:   ~~n~~n~~~~~~~~:~?
+POCSAG1200: Address:   71667  Function: 0  Alpha:    tHe 
+POCSAG1200: Address: 1287755  Function: 1 
+POCSAG1200: Address: 1044250  Function: 2 
+POCSAG1200: Address:  790642  Function: 0 
+POCSAG1200: Address: 1324897  Function: 3 
+POCSAG1200: Address: 1288095  Function: 2  Alpha:   g<DC2>
+POCSAG1200: Address: 1002519  Function: 1 
+POCSAG1200: Address:  909238  Function: 3 
+POCSAG1200: Address: 1059198  Function: 2 
+POCSAG1200: Address: 1503131  Function: 0 
+POCSAG1200: Address: 2006463  Function: 1  Alpha:   O%h<ENQ><DC4>
+POCSAG1200: Address: 1477740  Function: 1 
+POCSAG1200: Address:  809076  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   07:05-04 4312<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:05-22 08/12/2021 06:57:40 INC 24787695 32B04 ACL MATCHING 96%, 7 DURHAM AVENUE, NETHERTON L30, L30 1RE Male UnknownY LANG BARRIER UNKNOWN PROBLEM NO INTERP AVAILABLE GRD 335999 398443<NUL><NUL>
+POCSAG1200: Address: 1147188  Function: 1 
+POCSAG1200: Address: 1684714  Function: 0 
+POCSAG1200: Address: 1716262  Function: 0 
+POCSAG1200: Address: 1204430  Function: 0 
+POCSAG1200: Address:  420307  Function: 2  Alpha:   07:05-34 1(<DC4>&6
+POCSAG1200: Address: 1554320  Function: 2  Alpha:   B|<FS><ENQ>M$<CR>d<EOT><DC2>L<ENQ><LF>l<DC4>,e<FF>t<FS>,<EOT><LF><FS><ENQ><STX><NAK>-<FS><FF>,%M|t<EOT><NUL>
 POCSAG1200: Address: 1321748  Function: 2  Alpha:   07:03-11 KCI ACTIVATION PATIENT IN ED ETA NOW CONTACT 01438 285 094 
 POCSAG1200: Address: 1321744  Function: 2  Alpha:   07:03-09 KCI ACTIVATION PATIENT IN ED ETA NOW CONTACT 01438 285 094 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0703081221+++TIME=0703081221<NUL>
@@ -906,95 +998,3 @@ POCSAG1200: Address: 1923378  Function: 0  Alpha:   L<FF>`+da<NAK>rp<LF>98E<FS>\
 POCSAG1200: Address: 1578602  Function: 1 
 POCSAG1200: Address:  735422  Function: 1 
 POCSAG1200: Address: 1948262  Function: 1 
-POCSAG1200: Address:  378325  Function: 0  Alpha:   Ah
-POCSAG1200: Address: 1470107  Function: 1 
-POCSAG1200: Address:  573371  Function: 1 
-POCSAG1200: Address:  853448  Function: 2  Alpha:   w4w3<DLE>j7<DLE>2t2
-POCSAG1200: Address:  367536  Function: 2 
-POCSAG1200: Address:  221339  Function: 2  Alpha:   02:20-31 08/12/2021 02:18:19 INC 24787046 26D01 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 37Y going to the toilet all the time shivering GRD 372195 395222
-POCSAG2400: Address:   28899  Function: 0  Alpha:   02:20-44 2168<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0213081221+++TIME=0213081221<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   02:13-70 08/12/2021 02:09:15 INC 24787024 01A03 THORNTON HOUSE RESIDENTIAL HOME, 94 CHESTER ROAD, CHILDER THORNTON ELLESMERE PORT CH66, CH66 1QL Male 88Y DEMENTIA PT, STOMACH GROIN SIDE GRD 336411 378004<NUL><NUL>
-POCSAG512: Address: 1098244  Function: 2 
-POCSAG512: Address: 2047035  Function: 1  Alpha:   \<FF>Dm<CR>
-POCSAG512: Address: 1423994  Function: 3 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBB<STX><BS>5}<FS><GS>
-POCSAG1200: Address: 1321542  Function: 2  Alpha:   02:12-43 PLEASE CONTACT CONTROL
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   02:11-98 08/12/2021 02:09:41 INC 24787027 06D01 529 DEVONSHIRE ROAD, BLACKPOOL, FY2 0JX Male 80Y M- DIB GRD 331619 439654<NUL>
-POCSAG1200: Address:  600638  Function: 0  Alpha:   02:10-57 PLEASE CALL ANNA ST GEORGES ON CALL 020 8725 6757 <NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208081221+++TIME=0208081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0208081221+++TIME=0208081221<NUL>
-POCSAG1200: Address: 1511969  Function: 3  Alpha:   V.
-POCSAG1200: Address: 1033009  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323655  Function: 2  Alpha:   02:06-06 34113
-POCSAG1200: Address:  269168  Function: 2  Alpha:   02:05-49 08/12/2021 02:00:48 INC 24787007 06D01 408 MANCHESTER ROAD, ACCRINGTON, BB5 2QG Male 56Y M -DIB GRD 376996 426823
-POCSAG1200: Address:   90529  Function: 1  Alpha:   NT
-POCSAG1200: Address:  813072  Function: 2  Alpha:   l,
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   02:05-20 08/12/2021 02:00:05 INC 24787006 07D01F FLAT 2, 339 CENTRAL DRIVE, BLACKPOOL, FY1 5JN Unknown UnknownY FIRE GRD 331206 434896
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203081221+++TIME=0203081221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203081221+++TIME=0203081221<NUL>
-POCSAG1200: Address:  433067  Function: 2  Alpha:   02:01-24 08/12/2021 01:57:48 INC 24786998 06D01 4 ALDER CLOSE, NEWTON WITH SCALES NR KIRKHAM, PR4 3TQ Female 20Y DIB, SHAKING GRD 345084 430891<NUL><NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   02:00-41 4155<NUL>
-POCSAG1200: Address:  993345  Function: 0  Alpha:   <US>s
-POCSAG1200: Address:   40074  Function: 2  Alpha:   01:59-49 07/12/2021 23:30:37 INC 24786556 26O01 HIBISCUS COURT - FLAT 21, 16 SEDGEBOROUGH ROAD, WHALLEY RANGE MANCHESTER, M16 7HU Female 74Y ProQA Overridden - Call Escalated - LEG PAIN GRD 383003 395601<NUL><NUL>
-POCSAG2400: Address: 1681736  Function: 3 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:58-90 5082<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158081221+++TIME=0158081221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158081221+++TIME=0158081221<NUL>
-POCSAG1200: Address:  360002  Function: 0  Alpha:   01:57-99 08/12/2021 01:54:26 INC 24786989 10C01 585 WHEATLEY LANE ROAD, FENCE NR BURNLEY, BB12 9EE Female 78Y PAIN IN UPPER BACK GRD 382504 437104<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1494197  Function: 3 
-POCSAG1200: Address: 1716260  Function: 0  Alpha:   <SYN>%
-POCSAG1200: Address: 1204428  Function: 0 
-POCSAG1200: Address: 1486178  Function: 0 
-POCSAG1200: Address:  548039  Function: 2  Alpha:   01:55-58 08/12/2021 01:52:25 INC 24786982 04B02A O/S MCCOOLEYS, MATHEW STREET, LIVERPOOL CITY CENTRE L2, L2 6RE Male UnknownY ASSAULTED - HEAD INJURY KICK TO HEAD GRD 334512 390414
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153081221+++TIME=0153081221<NUL>
-POCSAG2400: Address: 1582129  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153081221+++TIME=0153081221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  216337  Function: 2  Alpha:   01:51-49 Resource comment received for Incident 2112002576;  MALE IS PARALYSED<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:51-66 08/12/2021 01:48:12 INC 24786970 30A03 107 ELEANOR ROAD, BIDSTON BIRKENHEAD, CH43 7QP Female 84Y BANGED HEAD ON STEEL BEAM GRD 328496 389866<NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   01:51-46 08/12/2021 01:43:16 INC 24786957 02D02 JUBILEE HOUSE - 53, GAS STREET, BOLTON TOWN CENTRE BOLTON, BL1 4TU Male 66Y SPASMS, PINS AND NEEDLES, TWITCHING GRD 371250 409008
-POCSAG1200: Address: 2056680  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0148081221+++TIME=0148081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0148081221+++TIME=0148081221<NUL>
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   01:48-89 08/12/2021 01:42:41 INC 24786956 23C07I 116 CARTWRIGHT STREET, SANKEY GREEN WARRINGTON WA5, WA5 1TH Female 45Y OVERDOSE GRD 359469 388532<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/200~ CH3B<NUL><NUL>
-POCSAG1200: Address:  238944  Function: 2 
-POCSAG1200: Address:   14950  Function: 0  Alpha:   01:45-71 08/12/2021 01:38:03 INC 24786941 13C01 52 DALTON STREET, STOOPS BURNLEY, BB11 5HY Male 43Y bladder cancer diabetic collapsed and groaning GRD 382675 431248<NUL>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   01:44-73 50795
-POCSAG1200: Address:  269054  Function: 2  Alpha:   01:44-27 08/12/2021 01:42:36 INC 24786954 21D05M 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 57Y SUB CALL - WHOLE BODY SHAKING GRD 372195 395222<NUL>
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   01:44-85 08/12/2021 01:42:36 INC 24786954 21D05M 40 HAWK ROAD, IRLAM MANCHESTER, M44 6LE Female 57Y SUB CALL - WHOLE BODY SHAKING GRD 372195 395222<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0143081221+++TIME=0143081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0143081221+++TIME=0143081221<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   01:43-67 courier waiting outside Pharmacy stores
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   01:43-87 08/12/2021 01:41:19 INC 24786951 25O01 O/S, 61 ACKERS ROAD, WOODCHURCH BIRKENHEAD, CH49 7LD Female 41Y SCHIZOPHRENIA FEELS UNSAFE AT HOUSE GRD 328204 386750
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:43-64 08/12/2021 01:41:19 INC 24786951 25O01 O/S, 61 ACKERS ROAD, WOODCHURCH BIRKENHEAD, CH49 7LD Female 41Y SCHIZOPHRENIA FEELS UNSAFE AT HOUSE GRD 328204 386750
-POCSAG1200: Address:  227361  Function: 0  Alpha:   01:43-72 50795
-POCSAG1200: Address:  227361  Function: 0  Alpha:   01:42-71 59
-POCSAG1200: Address:  123384  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   01:42-67 08/12/2021 01:33:12 INC 24786926 06E01 TOP FLOOR, WATERSIDE COURT - FLAT G, WHIPCORD LANE, CHESTER, CH1 4GD Male 25Y ABDO PAIN GRD 339918 366686<NUL>
-POCSAG1200: Address: 1560400  Function: 0 
-POCSAG1200: Address:  216478  Function: 2  Alpha:   01:40-72 Got time for a survey?B <NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   01:39-07 08/12/2021 01:38:03 INC 24786941 13D01 52 DALTON STREET, STOOPS BURNLEY, BB11 5HY Male 43Y bladder cancer diabetic collapsed and groaning GRD 382675 431248<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0138081221+++TIME=0138081221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0138081221+++TIME=0138081221<NUL>
-POCSAG1200: Address: 1322192  Function: 3  Alpha:   W<DLE>
-POCSAG1200: Address: 2097056  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  340148  Function: 0  Alpha:   01:37-48 08/12/2021 01:33:03 INC 24786925 06D01 12 SHOWLEY COURT, CLAYTON LE DALE BLACKBURN, BB1 9HS Male 94Y SUB CALL DIB, CHEST INFECTIONS GRD 368074 432699<NUL>
-POCSAG1200: Address: 1115264  Function: 0 
-POCSAG1200: Address: 1680766  Function: 1 
-POCSAG1200: Address: 1592517  Function: 3 
-POCSAG1200: Address:  694789  Function: 2 
-POCSAG2400: Address:   28916  Function: 0  Alpha:   01:36-26 5415<NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <ACK>/
-POCSAG2400: Address:   28894  Function: 0  Alpha:   01:35-15 5201<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0133081221+++TIME=0133081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0133081221+++TIME=0133081221<NUL>
