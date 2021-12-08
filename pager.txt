@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   15:29-33 2300<NUL>
+POCSAG2400: Address: 1913545  Function: 2  Alpha:   15:29-13 5807<NUL>
+POCSAG1200: Address:   80069  Function: 3  Alpha:   "<DLE>a<BS>L
+POCSAG2400: Address: 1913941  Function: 2  Alpha:   15:28-90 4936<NUL>
+POCSAG1200: Address:  464012  Function: 0 
+POCSAG1200: Address: 1032098  Function: 0 
+POCSAG2400: Address:  583946  Function: 2  Alpha:   15:27-94 80971
+POCSAG1200: Address: 1031732  Function: 3  Alpha:   v<NUL>
+POCSAG1200: Address: 1700805  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
+POCSAG1200: Address: 1512700  Function: 3  Alpha:   F<SO>
+POCSAG2400: Address: 1321546  Function: 2  Alpha:   15:24-32 call x38655
 POCSAG1200: Address: 1485526  Function: 3  Alpha:   e<DLE>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   15:23-23 Please Call Switchboard<NUL><NUL>
 POCSAG1200: Address:  790610  Function: 2  Alpha:   LL,ljj<LF>5231/,Ml<FF><FF>.LL,<FF>
@@ -986,15 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1328081221+++TIME=13
 POCSAG2400: Address: 1913951  Function: 2  Alpha:   13:28-58 2638<NUL>
 POCSAG2400: Address: 2023805  Function: 1 
 POCSAG1200: Address: 1511868  Function: 2  Alpha:   VL
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   13:28-85 Please call 01535 293915<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1349437  Function: 1 
-POCSAG1200: Address:  625452  Function: 2  Alpha:   bh
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN>3L
-POCSAG2400: Address: 2014834  Function: 3 
-POCSAG1200: Address: 1511980  Function: 3  Alpha:   F,
-POCSAG2400: Address: 1321021  Function: 2  Alpha:   13:26-92 3576<NUL>x}?
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:26-30 08/12/2021 13:23:42 INC 24789415 10D01 195 WENSLEY ROAD, BLACKBURN, BB2 6SU Female 54Y CHEST PAINS - DIB GRD 366729 427806
-POCSAG1200: Address: 1028729  Function: 0 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:26-75 2300<NUL>
-POCSAG2400: Address: 1913708  Function: 2  Alpha:   13:25-31 5356<NUL>
