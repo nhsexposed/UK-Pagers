@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1618081221+++TIME=1618081221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1618081221+++TIME=1618081221<NUL>
+POCSAG2400: Address: 1260220  Function: 2  Alpha:   16:18-60 4754<NUL>
+POCSAG2400: Address: 1913700  Function: 2  Alpha:   16:18-20 3103<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
+POCSAG2400: Address: 1913676  Function: 2  Alpha:   16:16-07 3103<NUL>
+POCSAG1200: Address:  809330  Function: 3 
+POCSAG1200: Address: 1032652  Function: 3  Alpha:   E<STX>
+POCSAG2400: Address: 1995639  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:15-31 5204<NUL>
+POCSAG1200: Address: 2008955  Function: 0 
+POCSAG1200: Address: 1829188  Function: 1  Alpha:   <GS>J<DC2><STX>MMAeeA<SOH>QM]aME<SOH><NUL><NUL>
+POCSAG1200: Address: 1578178  Function: 1  Alpha:   <DC2><STX>MUEAAe<SOH>QIEUUY<SOH><NUL>
+POCSAG1200: Address:    4749  Function: 0  Alpha:   <BS>1r<DC4>U4r<DLE><NAK>h1Q3Q4<DLE><DC3><BS><VT><BS>r7<FF><FF>><SI><VT><BS>qSP<SO>ll<VT>lm+,N<CR><FF>(<VT>h<DC2>uT<SO>(,M.<CR><SO><NUL><NUL>
+POCSAG1200: Address: 1089955  Function: 2  Alpha:   16:14-13 KTS TIME - Donor: 153286, Hospital: GOOD HOPE DISTRICT GENERAL , HM1401, DOB:03/07/1960 - KTS: 15:58<NUL><NUL>
+POCSAG1200: Address:  433784  Function: 2  Alpha:   16:14-29 KTS TIME - Donor: 153286, Hospital: GOOD HOPE DISTRICT GENERAL , HM1401, DOB:03/07/1960 - KTS: 15:58<NUL><NUL>
 POCSAG2400: Address:  585333  Function: 2  Alpha:   16:14-54 This is a test call please call 4002
 POCSAG1200: Address: 1352291  Function: 0 
 POCSAG2400: Address: 1913889  Function: 2  Alpha:   16:14-35 5070<NUL>
@@ -981,20 +998,3 @@ POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:04-14 2300<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1403081221+++TIME=1403081221<NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:02-13 5440<NUL>
 POCSAG2400: Address: 1323923  Function: 2  Alpha:   14:02-92 GREEN: UCH ARE ON BLUE LIGHT REDIRECT UNTIL 14:20, WILL ACCEPT PAEDS AND CARDIAC ARRESTS. THANKS GH EOC LONDON SOUTH.<NUL><NUL>
-POCSAG2400: Address: 1320348  Function: 2  Alpha:   14:02-21 3510<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403081221+++TIME=1403081221<NUL>
-POCSAG1200: Address:   64660  Function: 0  Alpha:   14:03-46 CALL 3113<NUL><NUL>
-POCSAG1200: Address:  696528  Function: 2  Alpha:   14:03
-POCSAG1200: Address: 1512669  Function: 3  Alpha:   &<STX>
-POCSAG1200: Address:  548159  Function: 2  Alpha:   14:03-29 3518<NUL>
-POCSAG1200: Address:  553838  Function: 3  Alpha:   Fl
-POCSAG1200: Address: 1528443  Function: 2 
-POCSAG1200: Address:  557794  Function: 0  Alpha:   OO
-POCSAG1200: Address:  631393  Function: 3 
-POCSAG1200: Address:  724880  Function: 0  Alpha:   Ih
-POCSAG1200: Address: 1746255  Function: 0  Alpha:   O%(<US><GS>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913655  Function: 2  Alpha:   14:01-92 4858<NUL>
-POCSAG1200: Address:  959478  Function: 2 
-POCSAG1200: Address: 2096272  Function: 2  Alpha:   )<DC1>]<NUL><NUL>
-POCSAG2400: Address: 1913712  Function: 2  Alpha:   14:01-47 4314<NUL>
