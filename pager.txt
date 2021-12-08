@@ -1,3 +1,20 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1925348  Function: 2  Alpha:   21:01-39 33960
+POCSAG2400: Address: 1022657  Function: 2  Alpha:   21:01-35 PLS CALL - 07384 915 784<NUL>
+POCSAG2400: Address: 1323067  Function: 2  Alpha:   21:01-76 PLS CALL - 07384 915 784<NUL>
+POCSAG1200: Address:  433594  Function: 0 
+POCSAG1200: Address:  414545  Function: 2  Alpha:   @` /A
+POCSAG1200: Address: 1716261  Function: 0 
+POCSAG1200: Address: 1263115  Function: 3 
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   21:01
+POCSAG1200: Address: 1022662  Function: 0  Alpha:   21:00-59 *TEST FIRE TEST*
+POCSAG1200: Address: 1022663  Function: 0  Alpha:   21:00-23 *TEST FIRE TEST*
+POCSAG2400: Address:   28894  Function: 0  Alpha:   21:00-40 4167<NUL>
+POCSAG1200: Address:  549077  Function: 2  Alpha:   21:00-09 *TEST FIRE TEST*
+POCSAG1200: Address: 1543600  Function: 1 
+POCSAG1200: Address:  842704  Function: 3 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   21:00-05 Case ref 11276206 Fill in tick sheet
 POCSAG2400: Address:   11729  Function: 0  Alpha:   20:59-35 PLS CALL EXT 7234426<NUL><NUL>
 POCSAG1200: Address:  600772  Function: 2  Alpha:   pr <EM>dj0f
 POCSAG2400: Address:   28896  Function: 0  Alpha:   20:59-10 4157<NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address:  234377  Function: 2  Alpha:   18:06-43 08/12/2021 18:05:46
 POCSAG1200: Address: 1596853  Function: 3  Alpha:   18:06-49 Please call ext 771798
 POCSAG2400: Address: 1814978  Function: 0  Alpha:   18:06-52 45455
 POCSAG1200: Address: 1817214  Function: 2  Alpha:   18:05-78 PLS CALL 0787 9661 655
-POCSAG1200: Address:  585270  Function: 2  Alpha:   18:05-08 TEST PAGE <NUL>
-POCSAG1200: Address:  504690  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803081221+++TIME=1803081221<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <EM>D
-POCSAG1200: Address: 1761473  Function: 3  Alpha:   U2
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803081221+++TIME=1803081221<NUL>
-POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS><NUL>0f
-POCSAG1200: Address: 2045640  Function: 2 
-POCSAG2400: Address: 1323755  Function: 2  Alpha:   18:03-41 12345
-POCSAG2400: Address: 1323770  Function: 2  Alpha:   18:03-24 12345
-POCSAG2400: Address: 1323779  Function: 2  Alpha:   18:03-02 12345
-POCSAG2400: Address: 1323708  Function: 2  Alpha:   18:03-21 12345
-POCSAG2400: Address: 1324552  Function: 2  Alpha:   18:03-16 INC ALERT No: 16902606 Unconscious/Fainting (Near) - VOMITED AND PASSED OUT, AT: FLAT 1, 377 TORQUAY ROAD, PAIGNTON, TQ3 2BT, Time of Call: 08/12/2021 17:56:24, Co-ords: 50.4484054 -3.557116
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   18:02-54 INC ALERT No: 16902611 Falls - F - FALLEN OVER, AT: 9 HAMILTON AVENUE, EXETER, EX2 6BQ, Time of Call: 08/12/2021 17:58:11, Co-ords: 50.707974853 -3.505593561<NUL><NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:02-98 2581<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
