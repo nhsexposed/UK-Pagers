@@ -1,3 +1,31 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1823081221+++TIME=1823081221<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   18:23-18 2415<NUL>
+POCSAG1200: Address:  695065  Function: 2  Alpha:   18:23-02 33867
+POCSAG1200: Address: 1714557  Function: 2 
+POCSAG1200: Address: 1438395  Function: 0 
+POCSAG1200: Address: 1070266  Function: 3  Alpha:   <FS>,<FF>$<EOT>
+POCSAG1200: Address: 1098184  Function: 1  Alpha:   <CAN><FS>
+POCSAG1200: Address: 1975931  Function: 2 
+POCSAG1200: Address: 1321095  Function: 2  Alpha:   18:22-08 Test: Line 1 of 4<LF>Test: Line 2 of 4<LF>Test: Line 3 of 4<LF>Test: Line 4 of 
+POCSAG1200: Address: 1321099  Function: 2  Alpha:   18:22-35 Test: Line 1 of 4<LF>Test: Line 2 of 4<LF>Test: Line 3 of 4<LF>Test: Line 4 of 
+POCSAG1200: Address: 1321191  Function: 2  Alpha:   18:22-27 Test: Line 1 of 4<LF>Test: Line 2 of 4<LF>Test: Line 3 of 4<LF>Test: Line 4 of 
+POCSAG1200: Address: 1321195  Function: 2  Alpha:   18:22-89 Test: Line 1 of 4<LF>Test: Line 2 of 4<LF>Test: Line 3 of 4<LF>Test: Line 4 of 
+POCSAG1200: Address: 1321093  Function: 2  Alpha:   18:22-75 Test: Line 1 of 4<LF>Test: Line 2 of 4<LF>Test: Lin
+POCSAG2400: Address: 1994974  Function: 0  Alpha:   <ETX>j<SO>v<RS>'<ACK>o6&<BEL><BEL><VT>{vNnP<BS>dN<SO><RS>W<ETX>jP<BS>$&<SYN>/<RS><US>W<ETX><LF><ETX>s"<VT>s"s<DC2><ETX>kP@|<RS>'<BEL>:<DC4><DEL>.<BEL><BEL>BL.<SYN><SI><SYN><US>FNW<ETX>z<EOT><US>7O.><BEL>r<ETX><STX><NUL>
+POCSAG1200: Address:  445499  Function: 3 
+POCSAG1200: Address:  367218  Function: 3 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:21-90 08/12/2021 18:18:34 INC 24790872 06E01 67 BURFORD AVENUE, LISCARD WALLASEY CH44, CH44 3EH Female 36Y INFECT BREATHING GRD 329951 391384<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:21-22 08/12/2021 18:18:34 INC 24790872 06E01 67 BURFORD AVENUE, LISCARD WALLASEY CH44, CH44 3EH Female 36Y INFECT BREATHING GRD 329951 391384<NUL>
+POCSAG1200: Address: 2074228  Function: 2 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  708509  Function: 3 
+POCSAG1200: Address:  938660  Function: 0 
+POCSAG1200: Address: 1147187  Function: 1  Alpha:   @.
+POCSAG1200: Address: 1773835  Function: 1 
+POCSAG1200: Address: 1442970  Function: 1 
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address: 1156956  Function: 0  Alpha:   dj
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   18
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   18:19-09 2161<NUL>
 POCSAG1200: Address: 1560771  Function: 3  Alpha:   <SYN>S
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   <NAK>`
@@ -970,31 +998,3 @@ POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN>s
 POCSAG2400: Address: 1913869  Function: 2  Alpha:   15:40-07 3119<NUL>
 POCSAG1200: Address:   80170  Function: 3  Alpha:   <DC2>CH<SUB>L
 POCSAG1200: Address:  121825  Function: 3 
-POCSAG1200: Address:  585224  Function: 2  Alpha:   15:40-03 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
-POCSAG2400: Address: 1993469  Function: 0 
-POCSAG2400: Address: 1604770  Function: 2 
-POCSAG2400: Address: 1547568  Function: 0  Alpha:   k8{<DLE>I=y<ESC>
-POCSAG2400: Address:  255837  Function: 3 
-POCSAG2400: Address:  732765  Function: 3 
-POCSAG1200: Address: 1512691  Function: 3  Alpha:   FF
-POCSAG1200: Address: 1511856  Function: 2  Alpha:   V"
-POCSAG2400: Address: 1913679  Function: 2  Alpha:   15:38-96 4269<NUL>
-POCSAG1200: Address:  619026  Function: 2  Alpha:   V<STX>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   15:38-54 08/12/2021 15:35:38 INC 24790089 31E01 O/S INDOOR MARKET ENTRANCE IN NHS STUDY UNIT, GREEN OAKS SHOPPING CENTRE, WIDNES WA8, WA8fvUB Male 62Y WAS UNCONSCIOUS - DIB GRD 351928 385885<NUL>
-POCSAG1200: Address: 1568242  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913882  Function: 2  Alpha:   15:37-99 4373<NUL>
-POCSAG1200: Address:  313754  Function: 1 
-POCSAG1200: Address: 1466033  Function: 2 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:36-21 5090<NUL>
-POCSAG2400: Address: 1978738  Function: 0 
-POCSAG1200: Address: 1572973  Function: 0 
-POCSAG1200: Address:  688867  Function: 1  Alpha:   RD<NUL>38'28
-POCSAG1200: Address: 1680019  Function: 3 
-POCSAG1200: Address:  642962  Function: 0  Alpha:   <LF><DC4>
-POCSAG1200: Address:  811160  Function: 0 
-POCSAG1200: Address: 1246527  Function: 1  Alpha:   O%(,<SYN>
-POCSAG1200: Address:  625982  Function: 0  Alpha:   <GS>L
-POCSAG1200: Address:   44197  Function: 2  Alpha:   h@L<DC4><GS>
-POCSAG1200: Address: 1165908  Function: 3  Alpha:   ")
-POCSAG1200: Address:  707603  Function: 2  Alpha:   9<BS>
