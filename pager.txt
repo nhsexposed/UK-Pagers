@@ -1,3 +1,29 @@
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   08:24-19 69000
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0823081221+++TIME=0823081221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0823081221+++TIME=0823081221<NUL>
+POCSAG2400: Address:  585918  Function: 2  Alpha:   08:23-93 Please call Peter Axson on 07808392353 regarding ooh pharmacy not receiving prescription for medication <NUL>
+POCSAG1200: Address: 1321848  Function: 2  Alpha:   08:22-25 PLS CALL VLAD G SERVICE DESK ON 08453 510 082 <NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324567  Function: 2  Alpha:   08:22-26 INC ALERT No: 16900671 Traffic/Transportation Accidents - CAR HIT WOMAN FALLEN ON FLOOR, AT: OUTSIDE THE GEORGE INN, SOUTH STREET, BRAUNTON, EX33 2AA, Time of Call: 08/12/2021 08:16:54, Co-ords: 51.107946 -4.1614362<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:   28897  Function: 0  Alpha:   08:20-73 4140<NUL>
+POCSAG2400: Address: 1324552  Function: 2  Alpha:   08:20-00 INC ALERT No: 16900674 Chest Pain (Non Traumatic) - HCP- CHEST PAINS, AT: 47 GOLDEN CLOSE, BRIXHAM, TQ5 9QT, Time of Call: 08/12/2021 08:18:15, Co-ords: 50.3827919 -3.5185496<NUL><NUL>
+POCSAG1200: Address: 1312917  Function: 2  Alpha:   08:20-44 FOR INFO 2112002625 ADD: 8 GRANT DRIVE WHITEHAVEN CA286JS INC TYPE: NWAS GAINING ENTRY TG: FNWR-OPS03  FOR INFO ONLY AS: NEAREST SM
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   08:20-47 2081<NUL>
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   08:20-70 INC ALERT No: 16900676 Cardiac or Respirat'y Arrest/Death - F NOT RESPONDING, AT: 1A, 1 EXETER ROAD, WESTON-SUPER-MARE, BS23 4DA, Time of Call: 08/12/2021 08:18:31, Co-ords: 51.3380743 -2.972119<NUL><NUL>
+POCSAG2400: Address:  584614  Function: 2  Alpha:   08:20-12 80300
+POCSAG2400: Address: 1323291  Function: 2  Alpha:   08:20-67 80300
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address: 1469791  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address:  789175  Function: 0 
+POCSAG1200: Address: 1683822  Function: 1 
+POCSAG1200: Address: 1469654  Function: 0 
+POCSAG1200: Address: 1352773  Function: 3 
+POCSAG1200: Address:  189899  Function: 3  Alpha:   <DC3><NAK>
+POCSAG1200: Address:  790610  Function: 3  Alpha:   <STX><SUB>
+POCSAG1200: Address: 1221225  Function: 3 
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG2400: Address:  216258  Function: 2  Alpha:   08:18-81 PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A, <CR><LF>PROBLEM: nimbleReplPart
 POCSAG2400: Address:  216261  Function: 2  Alpha:   08:18-87 PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A, <CR><LF>PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A<CR><LF>Service: nimbleReplPartn-vSyncFail<CR><LF>Host: PRNIM01-A<CR><LF>Alias: Nimble SAN Controller A<CR><LF>Address: 192.168.16.6<NUL><NUL>
@@ -972,29 +998,3 @@ POCSAG2400: Address: 1323475  Function: 2  Alpha:   03:31-54 PLEASE CALL RE DORI
 POCSAG1200: Address:  768521  Function: 0  Alpha:   <DC1><ACK>q}[
 POCSAG1200: Address:  909536  Function: 1 
 POCSAG1200: Address: 1930368  Function: 2  Alpha:   <SUB>+3<VT>;K<ETX>"<DC3>K;#<ETX><ETX>
-POCSAG1200: Address:  745936  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323081221+++TIME=0323081221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323081221+++TIME=0323081221<NUL>
-POCSAG2400: Address: 1323145  Function: 2  Alpha:   03:23-81 NHSBT - DONOR REFERRAL. Please call JOVAL on Direct Dial Number 01772 521 471 Hospital ROYAL PRESTON HOSP Dept ITU . Regards Donor Referral Line<NUL>
-POCSAG512: Address: 1764800  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  860504  Function: 2 
-POCSAG2400: Address:  406177  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   03:16-35 Call 24787166 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  181230  Function: 3 
-POCSAG1200: Address:  494782  Function: 1 
-POCSAG1200: Address: 1275723  Function: 2 
-POCSAG1200: Address:  366362  Function: 2 
-POCSAG1200: Address:  791970  Function: 0 
-POCSAG1200: Address: 1881977  Function: 2 
-POCSAG1200: Address: 1599961  Function: 2 
-POCSAG1200: Address: 1474928  Function: 2 
-POCSAG1200: Address:  809911  Function: 1 
-POCSAG1200: Address: 1448038  Function: 3  Alpha:   f<ACK>
-POCSAG1200: Address: 1153885  Function: 0  Alpha:   `j
-POCSAG1200: Address:  222812  Function: 2 
-POCSAG1200: Address: 1915251  Function: 0 
-POCSAG1200: Address: 2010979  Function: 0 
-POCSAG1200: Address: 1079904  Function: 2 
-POCSAG1200: Address:   40088  Function: 2  Alpha:   03:16-98 PLEASE CALL 34890 <NUL>
