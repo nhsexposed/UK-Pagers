@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1913842  Function: 2  Alpha:   12:24-53 2343<NUL>
+POCSAG1200: Address: 1850170  Function: 0  Alpha:   5N
+POCSAG1200: Address: 1750024  Function: 0 
+POCSAG1200: Address:  858135  Function: 3  Alpha:   O%
+POCSAG1200: Address:  602215  Function: 2 
+POCSAG1200: Address:  366341  Function: 3  Alpha:   j@<LF>)<BEL>
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG1200: Address:  931129  Function: 2  Alpha:   12:23-60 Wed Dec 8 12:23:55 UTC 2021 -- PROBLEM : core3-thn-0/0/2-linx on core3-thn is CRITICAL (SNMP TRAP CRITICAL - Interface core3-thn-0/0/2-linx [1128] on core3-thn is currently up/down)<NUL>
+POCSAG1200: Address: 2024123  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1223081221+++TIME=1223081221<NUL>
+POCSAG2400: Address: 1683507  Function: 2 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:23-66 3294<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   12:23-39 5202<NUL>
+POCSAG1200: Address: 2044770  Function: 0 
+POCSAG2400: Address: 1913974  Function: 2  Alpha:   12:22-31 4167<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:22-91 5202<NUL>
+POCSAG2400: Address:   28895  Function: 0  Alpha:   12:22-85 5128<NUL>
+POCSAG2400: Address:  384296  Function: 3  Alpha:   W(<ACK>5S<DC3>a3
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   12:21-00 3104<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:21-65 4839<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   12:21-38 5202<NUL>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   &<STX>
+POCSAG2400: Address:   28868  Function: 0  Alpha:   12:20-12 07522 192 814 <NUL><NUL>
 POCSAG2400: Address: 1323889  Function: 2  Alpha:   12:19-65 5205<NUL>
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG1200: Address:  950896  Function: 0 
@@ -975,26 +998,3 @@ POCSAG2400: Address:  575808  Function: 0
 POCSAG2400: Address:  825648  Function: 2 
 POCSAG2400: Address: 1585391  Function: 1  Alpha:   O%
 POCSAG2400: Address: 1718182  Function: 0  Alpha:   AM
-POCSAG2400: Address:  353502  Function: 1 
-POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   10:33-29 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1001130  Function: 2  Alpha:   10:33-31 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1001129  Function: 2  Alpha:   10:33-30 Paeds cardiac arrest  WXH   7<RS>!`W"<DLE>iryz9P<CAN><CAN>W<EM><EM>4y9<NUL><NUL>
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   10:33-36 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1001131  Function: 2  Alpha:   10:33-31 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1312437  Function: 2  Alpha:   10:33-34 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   10:33-44 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   10:33-35 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   10:33-74 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address: 1312441  Function: 2  Alpha:   10:33-04 Paeds cardiac arrest  WXH   A/E Resus 10.32hrs<NUL><NUL>
-POCSAG1200: Address:  695397  Function: 2  Alpha:   10:33-29 08/12/2021 10:30:35 INC 247885660:6E01A 9 WEST VIEW, STACKSTEADS BACUP, OL13 0NX Male 86Y BREATHING PROBS GRD 3845g4$421704<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   10:32-25 08/12/2021 10:30:37 INC 24788561 06E01 1 GREENFIELD ROAD, FLEETWOOD, FY7 7LT Female 60Y HARDLY BREATHING GRD 332639 446880
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   10:32-74 08/12/2021 10:30:37 INC 24788561 06E01 1 GREENFIELD ROAD, FLEETWOOD, FY7 7LT Olmale 60Y HARDLY BREATHING GRD 332639 446880
-POCSAG1200: Address: 1322074  Function: 2  Alpha:   10:32-90 3761<NUL>
-POCSAG1200: Address:  502184  Function: 0  Alpha:   $N
-POCSAG1200: Address: 1877319  Function: 0 
-POCSAG1200: Address:  961756  Function: 1 
-POCSAG1200: Address:  266851  Function: 1  Alpha:   v<ACK>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address: 1671978  Function: 3  Alpha:   fj
