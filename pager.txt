@@ -1,3 +1,34 @@
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>c<EOT><DLE>L
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   14:04-89 08/12/2021 14:00:59 INC 24789615 06D01 7 DALE MEWS, GATEACRE L25, L25 3SN Female 92Y SATS DROPPING TO 79 GRD 342641 387615
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:04-14 2300<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1403081221+++TIME=1403081221<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:02-13 5440<NUL>
+POCSAG2400: Address: 1323923  Function: 2  Alpha:   14:02-92 GREEN: UCH ARE ON BLUE LIGHT REDIRECT UNTIL 14:20, WILL ACCEPT PAEDS AND CARDIAC ARRESTS. THANKS GH EOC LONDON SOUTH.<NUL><NUL>
+POCSAG2400: Address: 1320348  Function: 2  Alpha:   14:02-21 3510<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403081221+++TIME=1403081221<NUL>
+POCSAG1200: Address:   64660  Function: 0  Alpha:   14:03-46 CALL 3113<NUL><NUL>
+POCSAG1200: Address:  696528  Function: 2  Alpha:   14:03
+POCSAG1200: Address: 1512669  Function: 3  Alpha:   &<STX>
+POCSAG1200: Address:  548159  Function: 2  Alpha:   14:03-29 3518<NUL>
+POCSAG1200: Address:  553838  Function: 3  Alpha:   Fl
+POCSAG1200: Address: 1528443  Function: 2 
+POCSAG1200: Address:  557794  Function: 0  Alpha:   OO
+POCSAG1200: Address:  631393  Function: 3 
+POCSAG1200: Address:  724880  Function: 0  Alpha:   Ih
+POCSAG1200: Address: 1746255  Function: 0  Alpha:   O%(<US><GS>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913655  Function: 2  Alpha:   14:01-92 4858<NUL>
+POCSAG1200: Address:  959478  Function: 2 
+POCSAG1200: Address: 2096272  Function: 2  Alpha:   )<DC1>]<NUL><NUL>
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   14:01-47 4314<NUL>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   v 
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   14:00-01 5205<NUL>
+POCSAG2400: Address: 1913561  Function: 2  Alpha:   14:00-88 5205<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:00-12 4971<NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   14:00-45 08/12/2021 13:58:15 INC 24789597 06D02 BELSFIELD HOUSE, 4 CARLIN GATE, NORTH SHORE BLACKPOOL, FY2 9QX Female 59Y BREATHLESS - VOMITED - UNWELL - DIB GRD 330776 438667<NUL><NUL>
+POCSAG1200: Address: 1141959  Function: 1  Alpha:   33[g<DC2>T<SOH><NUL>p<LF>9
+POCSAG1200: Address: 1672054  Function: 3  Alpha:   nl
+POCSAG1200: Address:  173454  Function: 2  Alpha:   13:59-12 PLEASE CALL THE OFFICE WHEN YOU RECEIVE THIS MESSAGE 
 POCSAG1200: Address: 1975163  Function: 0 
 POCSAG2400: Address: 1913561  Function: 2  Alpha:   13:58-87 5205<NUL>
 POCSAG1200: Address: 2010231  Function: 1 
@@ -967,34 +998,3 @@ POCSAG1200: Address: 1750024  Function: 0
 POCSAG1200: Address:  858135  Function: 3  Alpha:   O%
 POCSAG1200: Address:  602215  Function: 2 
 POCSAG1200: Address:  366341  Function: 3  Alpha:   j@<LF>)<BEL>
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG1200: Address:  931129  Function: 2  Alpha:   12:23-60 Wed Dec 8 12:23:55 UTC 2021 -- PROBLEM : core3-thn-0/0/2-linx on core3-thn is CRITICAL (SNMP TRAP CRITICAL - Interface core3-thn-0/0/2-linx [1128] on core3-thn is currently up/down)<NUL>
-POCSAG1200: Address: 2024123  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1223081221+++TIME=1223081221<NUL>
-POCSAG2400: Address: 1683507  Function: 2 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:23-66 3294<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12:23-39 5202<NUL>
-POCSAG1200: Address: 2044770  Function: 0 
-POCSAG2400: Address: 1913974  Function: 2  Alpha:   12:22-31 4167<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   12:22-91 5202<NUL>
-POCSAG2400: Address:   28895  Function: 0  Alpha:   12:22-85 5128<NUL>
-POCSAG2400: Address:  384296  Function: 3  Alpha:   W(<ACK>5S<DC3>a3
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   12:21-00 3104<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:21-65 4839<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12:21-38 5202<NUL>
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   &<STX>
-POCSAG2400: Address:   28868  Function: 0  Alpha:   12:20-12 07522 192 814 <NUL><NUL>
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   12:19-65 5205<NUL>
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address:  950896  Function: 0 
-POCSAG2400: Address: 1324551  Function: 2  Alpha:   12:18-29 INC ALERT No: 16901423 Burns (Scalds)/Explosion - hot water poured over baby, AT: 5 SOUTH SANDS, CLIFF PARK ROAD, PAIGNTON, TQ4 6NB, Time of Call: 08/12/2021 12:14:57, Co-ords: 50.420162065 -3.559977249
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1218081221+++TIME=1218081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1218081221+++TIME=1218081221<NUL>
-POCSAG2400: Address: 1913992  Function: 2  Alpha:   12:18-53 5460<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12:18-37 2441<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  625368  Function: 0 
-POCSAG1200: Address:  931129  Function: 2  Alpha:   12:17-57 Wed Dec 8 12:17:07 UTC 2021 -- PROBLEM : ospf-status on internal1-pbo is CRITICAL (SNMP TRAP CRITICAL - OSPF neighbor change with 10.0.198.1 to state down)<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:16-00 4769<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12:17-36 3409<NUL>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   12:16-28 08/12/2021 12:14:12 INC 24789073 19C04 23 STROYAN STREET, FULLEDGE BURNLEY, BB10 4DP Female 79Y EXHAUSTED. Q HEART FAILURE GRD 385273 432417<NUL><NUL>
