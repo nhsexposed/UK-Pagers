@@ -1,3 +1,21 @@
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0813081221+++TIME=0813081221<NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   08:13-00 Please call Nicola Page on 07823880559<NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   08:13-79 Please call ext 0295<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  585538  Function: 2  Alpha:   08:12-19 81616906
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   08:10-60 08/12/2021 08:06:21 INC 24787892 10C01 91 NEW LANE, BURSCOUGH ORMSKIRK, L40 0RX Male 89Y CHEST PAIN GRD 342795 412926<NUL><NUL>
+POCSAG1200: Address: 1251051  Function: 2 
+POCSAG1200: Address:  535769  Function: 3 
+POCSAG1200: Address: 1393280  Function: 1  Alpha:   <SO>%
+POCSAG1200: Address: 1447982  Function: 2  Alpha:   $<ENQ>:<CR>\
+POCSAG1200: Address: 1070725  Function: 0 
+POCSAG1200: Address:  557620  Function: 0  Alpha:   IP
+POCSAG1200: Address: 1115328  Function: 2  Alpha:   rv0v2P[Y,<DLE>!bj"
+POCSAG1200: Address:  268552  Function: 2 
+POCSAG1200: Address: 1225814  Function: 1  Alpha:   2<SOH>5NIa3<HT>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   08:09-47 08/12/2021 08:08:31 INC 24787900 09E01 56 THIRLMERE AVENUE, STRETFORD MANCHESTER, M32 0BE Female 73Y BLUE AROUND LIPS - CANT WAKE HER UP GRD 379141 395247<NUL><NUL>
+POCSAG1200: Address: 1534145  Function: 2  Alpha:   08:09-53 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
 POCSAG1200: Address:  350223  Function: 2  Alpha:   08:09-37 Stop Message received for Incident 2112002616;  [STOP] 08/12/21 08:09:19 STOP MESSAGE RECEIVED FROM L94P1 (OIC 41217 IN L94P1)<NUL><NUL>
 POCSAG2400: Address:  549128  Function: 2  Alpha:   08:08-40 TEST MESSAGE 08/12/2021 AT 08:08AM<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808081221+++TIME=0808081221<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1991289  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1039240  Function: 0 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:04-93 3106<NUL>
-POCSAG2400: Address:  567888  Function: 0 
-POCSAG1200: Address:  433067  Function: 2  Alpha:   03:04-25 08/12/2021 02:58:31 INC 24787155 10D01 15 COTTAM GREEN, COTT@<FF>"PRESTOZ<BS> PR4 0AB Male 44Y PAIN IN ARM AND LEG GRD 350502 432556<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0303081221+++TIME=0303081221<NUL>
-POCSAG2400: Address: 1325505  Function: 0 
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   03:03-71 Please call Hub Operations on 0117 975 7580 regarding Donor number -153279 , Donor hospital - LONDON, NORTH MIDDLESEX HOSPITAL, Donor DOB -25-07-1956 
-POCSAG2400: Address: 1275551  Function: 3  Alpha:   O%
-POCSAG2400: Address:  437663  Function: 0 
-POCSAG2400: Address:  920278  Function: 2 
-POCSAG2400: Address: 1577594  Function: 1  Alpha:   |<FS>,N<FS>
-POCSAG2400: Address: 2044322  Function: 3 
-POCSAG2400: Address: 1078921  Function: 1  Alpha:   Mi
-POCSAG2400: Address: 1330688  Function: 3 
-POCSAG2400: Address: 1330696  Function: 2 
-POCSAG2400: Address: 1323218  Function: 2  Alpha:   03:03-67 Please call Hub Operations on 0117 975 7580 regarding Donor number -153279 , Donor hospital - LONDON, NORTH MIDDLESEX HOSPITAL, Donor DOB -25-07-1956 
-POCSAG2400: Address: 1022279  Function: 0  Alpha:   03:03-91 Please call Hub Operations on 0117 975 7580 regarding Donor number -153279 , Donor hospital - LONDON, NORTH MIDDLESEX HOSPITAL, Donor DOB -25-07-1956 
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   03:03-92 Please call Hub Operations on 0117 975 7580 regarding Donor number -153279 , Donor hospital - LONDON, NORTH MIDDLESEX HOSPITAL, Donor DOB -25-07-1956 
-POCSAG2400: Address: 1323253  Function: 2  Alpha:   03:03-83 Please call Hub Operations on 0117 975 7580 regarding Donor number -153279 , Donor hospital - LONDON, NORTH MIDDLESEX HOSPITAL, Donor DOB -25-07-1956 
-POCSAG2400: Address: 1323228  Function: 2  Alpha:   03:03-36 Please call Hub Operations on 0117 975 7580 regarding Donor number -153279 , Donor hospital - LONDON, NORTH MIDDLESEX HOSPITAL, Donor DOB -25-07-1956 
