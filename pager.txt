@@ -1,3 +1,32 @@
+POCSAG1200: Address: 1485526  Function: 3  Alpha:   e<DLE>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:23-23 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address:  790610  Function: 2  Alpha:   LL,ljj<LF>5231/,Ml<FF><FF>.LL,<FF>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=152
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   15:23-61 2300<NUL>
+POCSAG2400: Address:  583600  Function: 2  Alpha:   15:23-78 71157
+POCSAG1200: Address: 1522832  Function: 0  Alpha:   BLACKLEY MANCHESTER, M9 0QF Female 67Y FOUND UNRESPONSIVE GRD 384104 404216<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <EM><EOT>$bL
+POCSAG2400: Address: 1913817  Function: 2  Alpha:   15:22-04 5276<NUL>
+POCSAG1200: Address: 1323538  Function: 2  Alpha:   15:22-60 Please call Dr Khan on 07422576703<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913643  Function: 2  Alpha:   15:22-84 2233<NUL>
+POCSAG1200: Address: 1261176  Function: 2 
+POCSAG1200: Address: 1261863  Function: 0  Alpha:   O%
+POCSAG1200: Address:   71343  Function: 2 
+POCSAG1200: Address:  210766  Function: 3 
+POCSAG1200: Address:  133838  Function: 2 
+POCSAG1200: Address:  603741  Function: 0 
+POCSAG1200: Address:  144195  Function: 2  Alpha:   ,f<NUL>'"<ACK><DLE>()Y<SUB>
+POCSAG1200: Address:  461977  Function: 1 
+POCSAG1200: Address:  874865  Function: 3 
+POCSAG1200: Address:  100215  Function: 0  Alpha:   bdVY<EOT>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>c<BS>CL
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:21-20 2018<NUL>
+POCSAG1200: Address:  615552  Function: 0  Alpha:   <SO>%<HT>Aflrdhd@fjj`jd
+POCSAG2400: Address: 1052908  Function: 2  Alpha:   15:20-85 6372<NUL>
+POCSAG2400: Address: 1913985  Function: 2  Alpha:   15:20-21 4457<NUL>
+POCSAG1200: Address:   14950  Function: 0  Alpha:   15:20-89 08/12/2021 15:17:04 INC 24789996 10D04 36 REYNOLDS STREET, BURNLEY, BB11 2NL Male 69Y PAIN IN STOMACH, GULL BLADDER, SEPSIS BLOOD THINNERS GRD 383488 430901
 POCSAG2400: Address:  983706  Function: 2 
 POCSAG2400: Address:  536697  Function: 2  Alpha:   e8
 POCSAG2400: Address: 1323041  Function: 2  Alpha:   15:19-96 DAY UNIT 8263
@@ -969,32 +998,3 @@ POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:26-30 08/12/2021 13:23:42
 POCSAG1200: Address: 1028729  Function: 0 
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:26-75 2300<NUL>
 POCSAG2400: Address: 1913708  Function: 2  Alpha:   13:25-31 5356<NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   13:25-27 2581<NUL>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   13:25-24 08/12/2021 13:23:18 INC 24789410 26D01 12 EVERARD CLOSE, ELLENBROOK MANCHESTER, M28 7TY Female 83Y IMMOBILE GRD 373005 402042
-POCSAG1200: Address: 1778816  Function: 2 
-POCSAG2400: Address:   11729  Function: 0  Alpha:   13:25-31 PLS PHONE SAME DAY EMERGENCY CARE WILLIAM HARVEY HOSP 7233034 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:25-74 4379<NUL>
-POCSAG2400: Address: 1913786  Function: 2  Alpha:   13:25-34 5440<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:25-98 4165<NUL>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   13:24-86 08/12/2021 13:23:12 INC 24789409 26C01 17 KENTON CLOSE, BELLE VALE L25, L25 2YS Female 89Y CONFUSED PAT GRD 342793 389139<NUL>
-POCSAG1200: Address: 2069728  Function: 2  Alpha:   <SOH><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   13:24-94 4163<NUL>
-POCSAG2400: Address: 1323880  Function: 2  Alpha:   13:24-64 5070<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1323081221+++TIME=1323081221<NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   3<BS>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1323081221+++TIME=1323081221<NUL>
-POCSAG1200: Address: 2014833  Function: 3 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:23-07 08/12/2021 13:19:41 INC 24789393 05A01 5 NETLEY STREET, WALTON L4, L4 3QT Male 23Y MALE - BACK PAIN - UNABLE TO MOVE GRD 335460 393906<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   13:22-18 Call or Calls waiting at Switchboard
-POCSAG2400: Address: 1913902  Function: 2  Alpha:   13:22-20 2111<NUL>
-POCSAG1200: Address:  433067  Function: 2  Alpha:   13:22-32 08/12/2021 13:18:33 INC 24789388 12D02 GREENBANK BUILDING, UNIVERSITY OF CENTRAL LANCASHIRE, VICTORIA STREET, PRESTON, PR1 7AY Female 20Y FITTING GRD 353366 430063<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1725459  Function: 0 
-POCSAG2400: Address: 1224777  Function: 2 
-POCSAG2400: Address: 1680176  Function: 2 
-POCSAG2400: Address:  678446  Function: 3  Alpha:   $<ENQ>2<CR>dt3<HT>
-POCSAG2400: Address: 1066086  Function: 0 
-POCSAG2400: Address:  819541  Function: 1 
-POCSAG2400: Address:   82181  Function: 2 
-POCSAG2400: Address:   11705  Function: 0  Alpha:   13:22-79 PLS CONTACT
-POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
