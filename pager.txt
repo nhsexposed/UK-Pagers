@@ -1,3 +1,33 @@
+POCSAG2400: Address:   28894  Function: 0  Alpha:   21:14-41 4157<NUL>
+POCSAG2400: Address: 2009941  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2113081221+++TIME=2113081221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   <SI>))TIME=2113081221+++TIME=2113081221<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:13-23 2097<NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   21:13-17 PLS CALL CTW 21850<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1761473  Function: 3  Alpha:   UJ
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  688740  Function: 0 
+POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF>A3l0f
+POCSAG2400: Address:  627430  Function: 3  Alpha:   #<SYN>
+POCSAG2400: Address:  592477  Function: 0  Alpha:   <CAN>H
+POCSAG2400: Address:  629157  Function: 0 
+POCSAG2400: Address: 1583436  Function: 1 
+POCSAG2400: Address: 1298015  Function: 3  Alpha:   O%h<VT>1)<CAN><GS><SUB>(<VT>
+POCSAG2400: Address:  171327  Function: 3 
+POCSAG2400: Address:  686126  Function: 1 
+POCSAG2400: Address:  616933  Function: 3  Alpha:   aSeCi
+POCSAG2400: Address:  247308  Function: 1  Alpha:   79
+POCSAG2400: Address:  937563  Function: 2 
+POCSAG2400: Address:  724019  Function: 3 
+POCSAG2400: Address: 1153865  Function: 2  Alpha:   `f`hn
+POCSAG2400: Address: 1377504  Function: 2  Alpha:   7<GS>
+POCSAG2400: Address:  267287  Function: 1  Alpha:   O%h,<DC4>
+POCSAG2400: Address: 1349439  Function: 1 
+POCSAG2400: Address: 1147742  Function: 1  Alpha:   nl
+POCSAG2400: Address: 1263197  Function: 2 
+POCSAG1200: Address: 1959542  Function: 2 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   21:10-36 08/12/2021 21:08:53 INC 24791762 17A04G 52 SOUTH DRIVE, UPTON WIRRAL CH49, CH49 6JJ Female 75Y FALLEN GRD 327509 388615
 POCSAG1200: Address:  350338  Function: 0  Alpha:   21:08-96
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2108081221+++TIME=2108081221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108081221+++TIME=2108081221<NUL>
@@ -968,33 +998,3 @@ POCSAG2400: Address: 1324072  Function: 2  Alpha:   18:17-53 SEL 111 is in CAS e
 POCSAG2400: Address: 1324027  Function: 2  Alpha:   18:17-19 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
 POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:17-55 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
 POCSAG2400: Address: 1324068  Function: 2  Alpha:   18:17-78 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
-POCSAG2400: Address: 1324071  Function: 2  Alpha:   18:17-60 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:16-89 08/12/2021 18:15:49 INC 24790863 06E01 16 ST ANDREWS VIEW, TOWER HILL KIRKBY L33, L33 1ZF Male 74Y AGGITATED AND LIMP GRD 341509 400494<NUL>
-POCSAG1200: Address: 2001468  Function: 0 
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   18:15-22 2415<NUL>
-POCSAG1200: Address: 1581799  Function: 0  Alpha:   O%(<ETB><ETX><GS><ACK>S
-POCSAG1200: Address: 1309638  Function: 2  Alpha:   eed t
-POCSAG1200: Address: 1246237  Function: 3 
-POCSAG1200: Address:  751566  Function: 3 
-POCSAG1200: Address: 2078453  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   18:15-20 08/12/2021 18:13:44 INC 24790855 31E01 1 GAWSWORTH AVENUE, CREWE CW2, CW2 8PB Female 52Y COLLAPSED ON SOFA GRD 368632 355238<NUL>
-POCSAG1200: Address:  197834  Function: 0 
-POCSAG1200: Address: 1151744  Function: 2  Alpha:   .)
-POCSAG1200: Address: 1312587  Function: 2  Alpha:   18:15-12 NOTIFY - DATE: 08.12.21    TIME: 18:15 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 5 MAX 5 MIN 
-POCSAG1200: Address:  380748  Function: 0  Alpha:   <ENQ>T<ENQ><EOT><ACK>tiY5<CAN>HI<HT>T<ENQ>T<ACK>T<EM><BS><VT>T<ACK>T<EM>i<HT><EOT>
-POCSAG1200: Address: 1032690  Function: 0 
-POCSAG1200: Address: 1528480  Function: 0 
-POCSAG2400: Address:  225851  Function: 2  Alpha:   18:14-44 107204<NUL><NUL>
-POCSAG2400: Address:   11773  Function: 0  Alpha:   18:14-75 4165<NUL>
-POCSAG1200: Address: 1944515  Function: 3  Alpha:   oo<ACK>E<ACK><ENQ>aw7z9<DLE><NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1813081221+++TIME=1813081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=181308y7Z1+++TIME=1813081221<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:13-02 4163<NUL>
-POCSAG2400: Address: 1975394  Function: 2 
-POCSAG1200: Address:  930489  Function: 2  Alpha:   18:13-52 08/12/2021 18:09:37 INC 24790835 06E01 DRIVE THR
-POCSAG1200: Address:  966771  Function: 0 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   18:12-37 5201<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   18:12-08 3164<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   18:11-36 69000
