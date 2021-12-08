@@ -1,3 +1,48 @@
+POCSAG2400: Address: 2008803  Function: 0 
+POCSAG1200: Address:   25120  Function: 3 
+POCSAG1200: Address: 1917203  Function: 2  Alpha:   10:49-80 APT ALARM IP AT 10:37AM INPUT 3 ALARM <NUL>
+POCSAG1200: Address:  290200  Function: 1 
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN>+L
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1048081221+++TIME=1048081221<NUL>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   10:48-93 out p room 10
+POCSAG1200: Address:  108034  Function: 0  Alpha:   10:48-10 08/12/2021 10:22:32 B9AHS01HASALout Status : AHS01 COMMON LOCKOUT POIN
+POCSAG1200: Address:   83052  Function: 2  Alpha:   10:48-48 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
+POCSAG1200: Address: 1390296  Function: 0  Alpha:   <CAN><CAN>
+POCSAG1200: Address: 1313081  Function: 2  Alpha:   10:48-74 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
+POCSAG1200: Address: 1258680  Function: 2  Alpha:   10:48-48 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 32
+POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
+POCSAG1200: Address:  600751  Function: 2  Alpha:   10:48-43 out p room 10
+POCSAG2400: Address: 1008256  Function: 2  Alpha:   10:48-35 out p room 10
+POCSAG2400: Address:  549033  Function: 2  Alpha:   10:48-36 out p room 10
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   10:48-06 out p room 10
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:48-86 4114<NUL>
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   10:48-60 out p room 10
+POCSAG1200: Address:   94520  Function: 2 
+POCSAG1200: Address:  733992  Function: 2  Alpha:   10:48-52 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   10:48-47 08/12/2021 10:38:02 INC 24788610 31D01 67 CHURCH STREET, FAILSWORTH MANCHESTER, M35 9JN Female 55Y FALLEN ON FLOOR UNCONSCIOUS GRD 390004 401630<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   10:47-97 4163<NUL>
+POCSAG1200: Address:   80173  Function: 2  Alpha:   9<BS><SYN>+L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1091770  Function: 2  Alpha:   10:47-93 PLEASE RING FIRE CONTROL<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:47-66 5201<NUL>
+POCSAG1200: Address: 1511876  Function: 2  Alpha:   <DC1>"
+POCSAG2400: Address:  657449  Function: 1 
+POCSAG2400: Address: 1587567  Function: 1  Alpha:   O%
+POCSAG2400: Address:   85207  Function: 0 
+POCSAG2400: Address:  571910  Function: 3 
+POCSAG2400: Address:  150342  Function: 2 
+POCSAG2400: Address:  234541  Function: 1 
+POCSAG2400: Address: 1558573  Function: 3 
+POCSAG2400: Address:  593988  Function: 2 
+POCSAG2400: Address: 2043244  Function: 1 
+POCSAG2400: Address:  311659  Function: 0  Alpha:   E 
+POCSAG2400: Address:  428625  Function: 3 
+POCSAG2400: Address: 1317673  Function: 0 
+POCSAG2400: Address: 1746241  Function: 3 
+POCSAG2400: Address: 1323787  Function: 2  Alpha:   10:46-77 AMBER: EOC HAVE MOVED TO CSP RED. PLEASE JOIN A CSP MEETING AT 11:10. AN MS TEAMS LINK WILL FOLLOW VIA E-MAIL. EOC SOUTH. KD<NUL>
+POCSAG2400: Address: 1913951  Function: 2  Alpha:   10:45-53 5140<NUL>
+POCSAG2400: Address: 1913905  Function: 2  Alpha:   10:45-78 2326<NUL>
+POCSAG1200: Address:   22104  Function: 2  Alpha:   10:44-45 08/12/2021 10:39:31 INC 24788618 17A02G 483 WOODCHURCH ROAD, PRENTON BIRKENHEAD, CH43 0SH Male 83Y FALL GRD 329954 386673<NUL>
 POCSAG2400: Address: 1320201  Function: 2  Alpha:   10:44-12 4954<NUL>
 POCSAG2400: Address: 1913746  Function: 2  Alpha:   10:44-83 2400<NUL>
 POCSAG1200: Address: 1313140  Function: 2  Alpha:   10:44-40 (2/2) Roles    JY10P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA)
@@ -953,48 +998,3 @@ POCSAG1200: Address: 1022198  Function: 2  Alpha:   09:21-81 08/12/2021 09:13:59
 POCSAG1200: Address:  334075  Function: 2  Alpha:   09:21-42 08/12/2021 09:13:59 INC 24788159 24D05 INGLESIDE BIRTH CENTRE, INGLESIDE, SWINTON PARK ROAD, SALFORD, M6 7PA Female 29Y OBSTETRIC EMERGANCY GRD 379149 400576<NUL><NUL>
 POCSAG1200: Address: 1817112  Function: 2  Alpha:   09:21-34 Destination: D105 SSC In\112, Booking Ref#: 803574, Vehicle: dk09fym. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG2400: Address: 1322081  Function: 2  Alpha:   09:21-50 08/12/2021 09:16:57 INC 24788175 06E01 8 BEECH CROFT, BRAITHWAITE KESWICK, CA12 5TH Male 89Y UNCONCIOUS GRD 323257 523676<NUL>
-POCSAG1200: Address: 1022027  Function: 2  Alpha:   09:21-55 08/12/2021 09:16:57 INC 24788175 06E01 8 BEECH CROFT, BRAITHWAITE KESWICK, CA12 5TH Male 89Y UNCONCIOUS GRD 323257 523676<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:21-49 08/12/2021 09:18:08 INC 24788180 26A01 ST NICHOLAS CARE HOME, 21 ST NICHOLAS DRIVE, NETHERTON L30, L30 2RG Male 72Y CATHETER BLOCKED - SUPA PUBIC GRD 334891 399523<NUL><NUL>
-POCSAG1200: Address: 1650240  Function: 3  Alpha:   l5
-POCSAG1200: Address: 1454705  Function: 0 
-POCSAG1200: Address: 1485588  Function: 3  Alpha:   5.
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   09:20-63 5201<NUL>
-POCSAG1200: Address:  549690  Function: 2  Alpha:   09:19-79 ~PLEASE CONTACT CONTROLS AT YOUR CONVENIENCE<NUL>
-POCSAG2400: Address: 1324556  Function: 2  Alpha:   09:19-11 Confirmed End of Shift Thank you<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   09:19-76 5076<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0918081221+++TIME=0918081221<NUL>
-POCSAG2400: Address: 1022635  Function: 2  Alpha:   09:17-96 01603711132
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   09:16-25 Contractors SE Building Controllers Test - 0957<NUL>
-POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-85 0913 Area Controllers Test pag
-POCSAG2400: Address: 1022473  Function: 0  Alpha:   09:16-89 SECC team test<NUL><NUL>
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   09:16-43 SECC team test<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   09:16-39 08/12/2021 09:14:19 INC 24788161 29D02S NEAR RAILWAY BRIDGE, CROSSLEY ROAD, STOCKPORT, SK4 5DZ Unknown UnknownY IN FLOOD WATERS GRD 387634 393088
-POCSAG1200: Address: 1534211  Function: 2  Alpha:   09:15-25 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1189573  Function: 2  Alpha:   <LF><VT>+<ETX><VT>#[<ETX>
-POCSAG1200: Address:  549806  Function: 2  Alpha:   09:15-43 ~PLEASE ACKNOWLEDGE; W22 STN REQUIRES 4 BA CYLINDERS & DEFECTIVE SET FOR COLLECTION<NUL><NUL>
-POCSAG1200: Address: 1091770  Function: 2  Alpha:   09:15-91 FYI HOWLE MANOR HO - 4BA 2 HRJ 1COV JET IN USE INC REM AT L1 WTH SM JACKSON MONITORING<NUL><NUL>
-POCSAG2400: Address: 1349432  Function: 1 
-POCSAG2400: Address: 1149791  Function: 0  Alpha:   bn@g<DC2>
-POCSAG2400: Address: 1324566  Function: 2  Alpha:   4<DC1>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   09:14-20 08/12/2021 09:12:59 INC 24788153 26D01 15 CAMPBELL ROAD, SWINTON MANCHESTER, M27 5QG Male 87Y CHEST INFECTION-LEGS MOTTLED AND PURPLE GRD 377322 40086
-POCSAG1200: Address: 1534276  Function: 2  Alpha:   09:14-81 PLEASE PHONE CONTROL REF DCM <NUL>
-POCSAG2400: Address: 1321021  Function: 2  Alpha:   09:14-86 5083<NUL>|<DEL><DEL>
-POCSAG1200: Address:  216665  Function: 3 
-POCSAG1200: Address:  625344  Function: 0 
-POCSAG1200: Address:  585538  Function: 2  Alpha:   09:14-22 2961<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0913081221+++TIME=0913081221<NUL>
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   09:13-02 Please Call Rawinder Paddam 07920011715
-POCSAG2400: Address: 1022477  Function: 0  Alpha:   09:13-24 Station Gate turnstiles CORRECTION  only available for OUT bound use. SSM
-POCSAG2400: Address: 1048765  Function: 3  Alpha:   ;3g<ETX><ENQ>[<BEL>'3<BEL><VT>3<ETB><ETX><EM>?K<ETX>=VR<STX><HT>?W;<DC3><ETX>UO<ETB>;<SOH>MN6<STX>
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   09:13-56 Station Gate turnstiles CORRECTIO
-POCSAG2400: Address: 1022475  Function: 0  Alpha:   09:13-60 Station Gate turnstiles CORRECTION  only available for OUT bound use. SSM
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   09:12-91 4165<NUL>
-POCSAG2400: Address: 1320363  Function: 2  Alpha:   09:12-04 4201<NUL>
-POCSAG2400: Address: 1913542  Function: 2  Alpha:   09:12-20 5499<NUL>
-POCSAG2400: Address: 1323755  Function: 2  Alpha:   09:11-37 test<LF>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0913081221+++TIME=0913081221<NUL>
-POCSAG1200: Address:  363884  Function: 2  Alpha:   09:13-47 PLEASE CONTACT FIRE CONTROL<NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   09:12-53 08/12/2021 09:10:26 INC 24788145 29D01B O/S MCCOLLS LATE SHOP, 163 CENTRAL DRIVE, BLACKPOOL, FY1 5ED Female 50Y bus vs cyclist rtc GRD 331149 435358
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   09:13-52 01616229870
-POCSAG1200: Address: 1321866  Function: 2  Alpha:   09:12-12 08/12/2021 09:10:26 INC 24788145 O/S MCCOLLS LATE SHOP, 163 CENTRAL DRIVE, BLACKPOOL, FY1 5ED Female 50Y bus vs cyclist rtc GRD 331149 435358<NUL>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   09:13-22 01616229870
