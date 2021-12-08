@@ -1,3 +1,37 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803081221+++TIME=1803081221<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <EM>D
+POCSAG1200: Address: 1761473  Function: 3  Alpha:   U2
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803081221+++TIME=1803081221<NUL>
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS><NUL>0f
+POCSAG1200: Address: 2045640  Function: 2 
+POCSAG2400: Address: 1323755  Function: 2  Alpha:   18:03-41 12345
+POCSAG2400: Address: 1323770  Function: 2  Alpha:   18:03-24 12345
+POCSAG2400: Address: 1323779  Function: 2  Alpha:   18:03-02 12345
+POCSAG2400: Address: 1323708  Function: 2  Alpha:   18:03-21 12345
+POCSAG2400: Address: 1324552  Function: 2  Alpha:   18:03-16 INC ALERT No: 16902606 Unconscious/Fainting (Near) - VOMITED AND PASSED OUT, AT: FLAT 1, 377 TORQUAY ROAD, PAIGNTON, TQ3 2BT, Time of Call: 08/12/2021 17:56:24, Co-ords: 50.4484054 -3.557116
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   18:02-54 INC ALERT No: 16902611 Falls - F - FALLEN OVER, AT: 9 HAMILTON AVENUE, EXETER, EX2 6BQ, Time of Call: 08/12/2021 17:58:11, Co-ords: 50.707974853 -3.505593561<NUL><NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:02-98 2581<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2040368  Function: 2 
+POCSAG1200: Address:  269068  Function: 2  Alpha:   18:01-03 08/12/2021 18:00:15 INC 24790787 07C01F 1 OLD SCHOOL ROW, DORSET STREET, ROSEGROVE BURNLEY, BB12 6HT Female 72Y FIRE - SMOKE INHALATION GRD 381554 432585
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:01-97 5070<NUL>
+POCSAG1200: Address:  428347  Function: 2  Alpha:   18:01-81 08/12/2021 18:00:21 INC 24790788 29D02M O/S, FINESSE KITCHENS, 185 CAMBRIDGE ROAD, NEWTOWN ST HELENS WA10, WA10 4HA Male 50Y CAR V PEDESTRIAN GRD 350122 395364
+POCSAG1200: Address: 1127514  Function: 3 
+POCSAG2400: Address: 1323766  Function: 2  Alpha:   18:01-24 PLS CONTACT SCOTT BARNYARD FROM AMBULANCE ON 07871 981 731<NUL>
+POCSAG2400: Address: 1323755  Function: 2  Alpha:   18:01-40 PLS CONTACT SCOTT BARNYARD FROM AMBULANCE ON 07871 981 731<NUL>
+POCSAG2400: Address: 1323770  Function: 2  Alpha:   18:01-23 PLS CONTACT SCOTT BARNYARD FROM AMBULANCE ON 07871 981 731<NUL>
+POCSAG1200: Address: 1321566  Function: 2  Alpha:   18:01-08 PLS DVH SWITCHBOARD <NUL><NUL>
+POCSAG1200: Address: 1844985  Function: 0 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:00-82 08/12/2021 17:59:15 INC 24790783 09E02 112 MORNINGSIDE ROAD, NORRIS GREEN L11, L11 1AX Female 65Y NOISY BREATHING - UNCONCIOUS GRD 338662 393801<NUL>
+POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:India's Top Military Official Dies in Helicopter Crash<NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   18:00-02 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address: 1070694  Function: 1 
+POCSAG1200: Address:  623301  Function: 0 
+POCSAG1200: Address: 1705428  Function: 2  Alpha:   `<CAN>
+POCSAG1200: Address: 1925282  Function: 2 
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   17:59-71 08/12/2025117:56:58 INC 24790775 OUTSIDE, PURE GYM, FENNEL STREET, WARRINGTON WA1, WA1 2PA Male 62Y MOTORCYCLIST HIT BY CAR GRD 361057 3883
+POCSAG1200: Address: 1032147  Function: 2  Alpha:   B<BS><NUL>`L
 POCSAG1200: Address: 1552499  Function: 0 
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   17:58-17 3106<NUL>
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   17:58-21 4283<NUL>
@@ -964,37 +998,3 @@ POCSAG2400: Address: 1323884  Function: 2  Alpha:   15:29-33 2300<NUL>
 POCSAG2400: Address: 1913545  Function: 2  Alpha:   15:29-13 5807<NUL>
 POCSAG1200: Address:   80069  Function: 3  Alpha:   "<DLE>a<BS>L
 POCSAG2400: Address: 1913941  Function: 2  Alpha:   15:28-90 4936<NUL>
-POCSAG1200: Address:  464012  Function: 0 
-POCSAG1200: Address: 1032098  Function: 0 
-POCSAG2400: Address:  583946  Function: 2  Alpha:   15:27-94 80971
-POCSAG1200: Address: 1031732  Function: 3  Alpha:   v<NUL>
-POCSAG1200: Address: 1700805  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
-POCSAG1200: Address: 1512700  Function: 3  Alpha:   F<SO>
-POCSAG2400: Address: 1321546  Function: 2  Alpha:   15:24-32 call x38655
-POCSAG1200: Address: 1485526  Function: 3  Alpha:   e<DLE>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   15:23-23 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address:  790610  Function: 2  Alpha:   LL,ljj<LF>5231/,Ml<FF><FF>.LL,<FF>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=152
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   15:23-61 2300<NUL>
-POCSAG2400: Address:  583600  Function: 2  Alpha:   15:23-78 71157
-POCSAG1200: Address: 1522832  Function: 0  Alpha:   BLACKLEY MANCHESTER, M9 0QF Female 67Y FOUND UNRESPONSIVE GRD 384104 404216<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <EM><EOT>$bL
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   15:22-04 5276<NUL>
-POCSAG1200: Address: 1323538  Function: 2  Alpha:   15:22-60 Please call Dr Khan on 07422576703<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913643  Function: 2  Alpha:   15:22-84 2233<NUL>
-POCSAG1200: Address: 1261176  Function: 2 
-POCSAG1200: Address: 1261863  Function: 0  Alpha:   O%
-POCSAG1200: Address:   71343  Function: 2 
-POCSAG1200: Address:  210766  Function: 3 
-POCSAG1200: Address:  133838  Function: 2 
-POCSAG1200: Address:  603741  Function: 0 
-POCSAG1200: Address:  144195  Function: 2  Alpha:   ,f<NUL>'"<ACK><DLE>()Y<SUB>
-POCSAG1200: Address:  461977  Function: 1 
-POCSAG1200: Address:  874865  Function: 3 
-POCSAG1200: Address:  100215  Function: 0  Alpha:   bdVY<EOT>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>c<BS>CL
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:21-20 2018<NUL>
-POCSAG1200: Address:  615552  Function: 0  Alpha:   <SO>%<HT>Aflrdhd@fjj`jd
