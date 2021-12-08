@@ -1,3 +1,34 @@
+POCSAG1200: Address:   49263  Function: 2  Alpha:   22:03-59 MEDICAL EMERGENCY WARD 2 AT UHND<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   22:03-82 08/12/2021 22:00:47 INC 24792003 10D02 1 FOXFIELD DRIVE, WHITEWELL BOTTOM, BB4 9LS Male 71Y CHEST PAINS / ARM PAINS GRD 383582 423776
+POCSAG1200: Address:  695952  Function: 2  Alpha:   22:03-70 08/12/2021 21:59:40 INC 24791993 29D02L WEST TOWER O/S, CHESTER ROAD, MANCHESTER, M15 4SD Male 25Y RAN OVER BY A TAXI GRD 383250 397456<NUL>
+POCSAG1200: Address: 2026097  Function: 0 
+POCSAG1200: Address: 2008952  Function: 0 
+POCSAG1200: Address:   66640  Function: 0  Alpha:    l<DC4>P#
+POCSAG1200: Address:  209936  Function: 3 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  271950  Function: 0 
+POCSAG2400: Address:  379157  Function: 1 
+POCSAG2400: Address:  757845  Function: 1 
+POCSAG2400: Address: 1255020  Function: 1 
+POCSAG2400: Address:   39108  Function: 1 
+POCSAG2400: Address:  177163  Function: 1  Alpha:   &P
+POCSAG2400: Address:  625714  Function: 1  Alpha:   M=
+POCSAG2400: Address: 1594968  Function: 2  Alpha:   22:02-29 Clear From INC: 16903300 Acknowledged.<NUL>
+POCSAG1200: Address: 1815006  Function: 0  Alpha:   22:02-95 3712034<NUL>
+POCSAG2400: Address: 1814997  Function: 0  Alpha:   22:01-75 Adult trauma A/E Resus ETA 7mins<NUL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   22:01-23 08/12/2021 21:57:43 INC 24791979 06E01 92 MARGARET ROAD, PENWORTHAM, PR1 9RU Female 77Y FEM DIB - SHAKY - CANT STAND GRD 353498 427929<NUL><NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   22:00-06 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:   28908  Function: 0  Alpha:   21:59-21 5201<NUL>
+POCSAG2400: Address:   33736  Function: 2  Alpha:   21:59-12 21:59-11 ON-CALL MANAGER PLEASE CALL DEB ON TEL:0300 421 8942<NUL>
+POCSAG1200: Address: 1044800  Function: 2  Alpha:   21:59-49 ON-CALL MANAGER PLEASE CALL DEB ON TEL:0300 421 8942<NUL>
+POCSAG1200: Address: 1258593  Function: 0 
+POCSAG1200: Address: 1671911  Function: 3  Alpha:   O%(p1Q<DC4><BS>
+POCSAG1200: Address: 1546038  Function: 3  Alpha:   <SUB><FF>Dd<EOT>
+POCSAG1200: Address:  549140  Function: 2  Alpha:   21:59-39
+POCSAG1200: Address:  851267  Function: 2  Alpha:   21:59-58 ON-CALL MANAGER PLEASE CALL DEB ON TEL:0300 421 8942<NUL>
+POCSAG1200: Address:  851269  Function: 2  Alpha:   21:59-27 ON-CALL MANAGER PLEASE CALL DEB ON TEL:0300 421 8942<NUL>
+POCSAG1200: Address: 1321866  Function: 2  Alpha:   21:59-28 08/12/2021 21:58:11 INC 24791984 24 WILSON GROVE, HEYSHAM MORECAMBE, LA3 2PQ Female 93Y BARELY BREATHING GRD 341421 461540
 POCSAG1200: Address:  143333  Function: 0 
 POCSAG1200: Address: 2088508  Function: 1  Alpha:   \L
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:58-36 4314<NUL>
@@ -967,34 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1903081221+++TIME=19
 POCSAG1200: Address:   28883  Function: 3  Alpha:   19:03-99 TEST<NUL>
 POCSAG1200: Address: 1321745  Function: 2  Alpha:   19:02-10 PPCI test call please respond to 0143828474u<FF>
 POCSAG1200: Address: 1321744  Function: 2  Alpha:   19:02-10 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address: 1321728  Function: 2  Alpha:   19:02-82 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address: 1321726  Function: 2  Alpha:   19:02-65 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address: 1321730  Function: 2  Alpha:   19:02-31 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address: 1321725  Function: 2  Alpha:   19:02-88 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address: 1321740  Function: 2  Alpha:   19:02-09 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address: 1321727  Function: 2  Alpha:   19:02-72 PPCI test call please respond to 01438284745<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   19:01-02 08/12/2021 18:56:51 INC 24791089 21D02T O/S GAP PERSONAL, WISTASTON ROAD, CREWE, CW2 7RP Male UnknownY ON THE FLOOR - FULL OF BLOOD GRD 369923 355552<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:01-05 3164<NUL>
-POCSAG1200: Address: 1606197  Function: 0 
-POCSAG1200: Address: 1989791  Function: 1  Alpha:   Z<ESC>
-POCSAG2400: Address:   28916  Function: 0  Alpha:   19:00-32 4167<NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   19:00-02 TEST FROM SWITCH
-POCSAG1200: Address: 1552498  Function: 0 
-POCSAG1200: Address:  678665  Function: 2  Alpha:   19:00-03 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  312672  Function: 0  Alpha:   19:00-32 08/12/2021 18:57:41 INC 24791092 17D0 <EOT>AACHSTEP BLACKLA<DC1>  198 CHARLESTOWN ROAD, BLACKLEY MANCHESTER, M9 7ED Female 90Y SUSPEC
-POCSAG1200: Address: 1312626  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
-POCSAG1200: Address: 1312622  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
-POCSAG1200: Address:  149307  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
-POCSAG2400: Address: 1312557  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
-POCSAG2400: Address: 1312558  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
-POCSAG1200: Address: 1942388  Function: 0 
-POCSAG1200: Address:  625847  Function: 0  Alpha:   g<DC2>
-POCSAG1200: Address:  369414  Function: 1  Alpha:   &aJ c
-POCSAG1200: Address:  743005  Function: 0 
-POCSAG1200: Address:  433341  Function: 2 
-POCSAG1200: Address: 1055828  Function: 1 
-POCSAG1200: Address:  196612  Function: 2 
-POCSAG1200: Address:  366707  Function: 1  Alpha:   <CR>l
-POCSAG1200: Address: 1683554  Function: 2 
-POCSAG1200: Address:  688648  Function: 0  Alpha:   AI
