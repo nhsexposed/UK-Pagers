@@ -1,3 +1,32 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0658081221+++TIME=0658081221<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   06:57-03 4935<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1685090  Function: 1 
+POCSAG1200: Address: 1201743  Function: 0  Alpha:   5<DC1>Hg<DC2>t(J<NUL>4F6fF<EOT><ACK><ACK>
+POCSAG1200: Address: 1560158  Function: 0 
+POCSAG1200: Address:  593990  Function: 1 
+POCSAG1200: Address:  315652  Function: 2 
+POCSAG1200: Address: 1147476  Function: 3 
+POCSAG1200: Address:  296235  Function: 2 
+POCSAG1200: Address: 1975906  Function: 3 
+POCSAG1200: Address:   91433  Function: 0  Alpha:   RU
+POCSAG1200: Address:  433456  Function: 3 
+POCSAG1200: Address:  973879  Function: 1  Alpha:   O%h.<ACK>
+POCSAG1200: Address:  329154  Function: 3 
+POCSAG1200: Address:  271946  Function: 0 
+POCSAG1200: Address:  679737  Function: 1  Alpha:   ,t
+POCSAG1200: Address: 1705159  Function: 2  Alpha:    &Fg<DC2>4Q<DC3> <DC4>H
+POCSAG1200: Address:  333963  Function: 0 
+POCSAG1200: Address: 1225809  Function: 1  Alpha:   2<SOH>5JA
+POCSAG1200: Address: 1679884  Function: 1  Alpha:    k"gj
+POCSAG1200: Address:  510811  Function: 0  Alpha:   H<CAN>
+POCSAG1200: Address: 1941634  Function: 3  Alpha:   f@bh@
+POCSAG1200: Address:  197257  Function: 2 
+POCSAG1200: Address: 1413934  Function: 2  Alpha:   jl
+POCSAG1200: Address:  210526  Function: 3 
+POCSAG1200: Address: 1411931  Function: 0  Alpha:   ll
+POCSAG1200: Address:  210522  Function: 3 
+POCSAG1200: Address:   80154  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0653081221+++TIME=0653081221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0653081221+++TIME=0653081221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -969,32 +998,3 @@ POCSAG1200: Address: 1001130  Function: 2  Alpha:   01:21-29 ADULT CARDIAC ARRES
 POCSAG1200: Address: 1001133  Function: 2  Alpha:   01:21-33 ADULT CARDIAC ARREST CURIE WARD WHIPPS CROSS HOSPITAL AT 01;18
 POCSAG1200: Address: 1001132  Function: 2  Alpha:   01:21-34 ADULT CARDIAC ARREST CURIE WARD WHIPPS CROSS HOSPITAL AT 01;18
 POCSAG1200: Address: 1312441  Function: 2  Alpha:   01:21-02 ADULT CARDIAC ARREST CURIE WARD WHIPPS CROSS HOSPITAL AT 01;18
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   01:21-33 ADULT CARDIAC ARREST CURIE WARD WHIPPS CROSS HOSPITAL AT 01;18
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   01:21-65 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1001124  Function: 2  Alpha:   01:21-76 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   01:21-27 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   01:21-26 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1001131  Function: 2  Alpha:   01:21-28 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   01:21-33 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   01:21-32 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   01:21-40 ADULT CARDIAC ARREST CURIE WARD BED 8 WHIPPS CROSS HOSPITAL AT 00;20
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   01:21
-POCSAG2400: Address:   28868  Function: 0  Alpha:   01:20-11 38172 <NUL><NUL>
-POCSAG1200: Address:  265352  Function: 3  Alpha:   ER
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   01:19-58 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   01:19-89 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   01:19-73 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
-POCSAG1200: Address:  471657  Function: 2 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0118081221+++TIME=0118081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0118081221+++TIME=0118081221<NUL>
-POCSAG2400: Address: 1322764  Function: 2  Alpha:   01:18-06 NHCBu!- DONOR REFERRAL. Please call JENNIFER on Direct Dial Number 0117 342 8018 Hospital BRISTOL CHILDRENS HOSP Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 2008818  Function: 0 
-POCSAG2400: Address: 1322897  Function: 2  Alpha:   01:18-96 NHSBT - DONOR REFERRAL. Please call JENNIFER on Direct Dial Number 0117 342 8018 Hospital BRISTOL CHILDRENS HOSP Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1500779  Function: 0 
-POCSAG2400: Address: 1322836  Function: 2  Alpha:   01:18-54 NHSBT - DONOR REFERRAL. Please call JENNIFER on Direct Dial Number 0117 342 8018 Hospital BRISTOL CHILDRENS HOSP Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  549083  Function: 2  Alpha:   01:18-97 NHSBT - DONOR REFERRAL. Please call JENNIFER on Direct Dial Number 0117 342 8018 Hospital BRISTOL CHILDRENS HOSP Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1322866  Function: 2  Alpha:   01:18-47 NHSBT - DONOR REFERRAL. Please call JENNIFER on Direct Dial Number 0117 342 8018 Hospital BRISTOL CHILDRENS HOSP Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  429535  Function: 1 
-POCSAG2400: Address:  919606  Function: 2 
-POCSAG2400: Address: 1284853  Function: 3  Alpha:   <SYN>.
-POCSAG2400: Address: 1152667  Function: 3  Alpha:   r1<SUB><DLE>bt06
