@@ -1,3 +1,20 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0713081221+++TIME=0713081221<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   07:13-64 2182<NUL>
+POCSAG2400: Address:  255148  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   3x/04o2<02 CH3B<NUL><NUL>
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   07:11-20 Reminder, strictly NO discharges to SETP via the LA Drain without prior permission from the Effluents SCo on 71594 - SSM<NUL><NUL>
+POCSAG1200: Address: 2073186  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   07:09-94 08/12/2021 07:07:58 INC 24787719 31D04 43 NORMANBY STREET, DAUBHILL BOLTON, BL3 3QR Male 79Y FALLEN GRD 370042 406879<NUL><NUL>
+POCSAG1200: Address: 1091783  Function: 2  Alpha:   07:09-08 RTC B4371 NEAR EAST WALL 1 CAR ON SIDE 1 FEM TRAPPED 
+POCSAG1200: Address: 1258733  Function: 2  Alpha:   07:08-08 08/12/2021 07:07:33 INC 24787717 06D02 8 VICTORIA STREET, WHEELTON CHORLEY, PR6 8HG Male 64Y COPD DIB GRD 360075 421173
+POCSAG1200: Address:  922299  Function: 2  Alpha:   <DC4>M
+POCSAG1200: Address:  622858  Function: 2  Alpha:   @,
+POCSAG1200: Address: 1773834  Function: 1 
+POCSAG1200: Address: 1814760  Function: 3  Alpha:   v<SYN>v<ACK><EOT>
+POCSAG1200: Address:  226910  Function: 3 
+POCSAG1200: Address: 1336540  Function: 1  Alpha:   <DC2><ETX>
+POCSAG1200: Address: 1781396  Function: 2  Alpha:   07:08-28 08/12/2021 07:04:11 INC 24787709 02C01 17 RAWLINSON LANE, HEATH CHARNOCK, PR6 9JU Female 77Y FEELS AS THOUGH SHES ABOUT TO PASS OUT GRD 359961 414148<NUL>
 POCSAG1200: Address: 1614688  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708081221+++TIME=0708081221<NUL>
 POCSAG1200: Address:  325886  Function: 3  Alpha:   <DC2>C<BS> L
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1470106  Function: 1
 POCSAG1200: Address:  573370  Function: 1 
 POCSAG1200: Address:  367543  Function: 2 
 POCSAG1200: Address:  843062  Function: 1 
-POCSAG1200: Address: 1088285  Function: 3 
-POCSAG1200: Address:  677515  Function: 0  Alpha:   <DC4><VT><BS><DC3><CR>
-POCSAG1200: Address:  281883  Function: 3 
-POCSAG1200: Address:  792378  Function: 0 
-POCSAG1200: Address: 1777834  Function: 2 
-POCSAG1200: Address:  852625  Function: 0  Alpha:   RL
-POCSAG1200: Address: 1181992  Function: 3  Alpha:   3<DLE>
-POCSAG1200: Address:  886918  Function: 2  Alpha:   b@h`@<DLE><ETX>/<DEL>Y<EOT>
-POCSAG1200: Address: 1770061  Function: 2 
-POCSAG1200: Address: 1148714  Function: 3  Alpha:   br
-POCSAG1200: Address:  623455  Function: 0  Alpha:   dp@g<DC2>
-POCSAG1200: Address:  206430  Function: 3 
-POCSAG1200: Address:  538110  Function: 1 
-POCSAG1200: Address: 1923378  Function: 0  Alpha:   L<FF>`+da<NAK>rp<LF>98E<FS>\"<SO>
-POCSAG1200: Address: 1578602  Function: 1 
-POCSAG1200: Address:  735422  Function: 1 
-POCSAG1200: Address: 1948262  Function: 1 
