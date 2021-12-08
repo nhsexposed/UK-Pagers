@@ -1,3 +1,35 @@
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   18:19-09 2161<NUL>
+POCSAG1200: Address: 1560771  Function: 3  Alpha:   <SYN>S
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <NAK>`
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1818081221+++TIME=1818081221<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   18:18-42 08/12/2021 18:00:38 INC 24790789 12C01 LITTLE MANOR, ASHBROOK HEY LANE, ROCHDALE, OL12 9AH Female 35Y MENTAL HEALTH CRISIS GRD 391398 415738<NUL><NUL>
+POCSAG1200: Address:  819460  Function: 1 
+POCSAG1200: Address: 1312603  Function: 2  Alpha:   18:17-70 Wed Dec 8 18:17:56 UTC 2021 -- PROBLEM : ospf-status on edge1-tca is CRITICAL (SNMP TRAP CRITICAL - OSPF IP interface 10.77.26.1 reports state down)
+POCSAG1200: Address: 1999440  Function: 3 
+POCSAG2400: Address: 1324021  Function: 2  Alpha:   18:17-01 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
+POCSAG2400: Address: 1324072  Function: 2  Alpha:   18:17-53 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
+POCSAG2400: Address: 1324027  Function: 2  Alpha:   18:17-19 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
+POCSAG2400: Address: 1324056  Function: 2  Alpha:   18:17-55 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
+POCSAG2400: Address: 1324068  Function: 2  Alpha:   18:17-78 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
+POCSAG2400: Address: 1324071  Function: 2  Alpha:   18:17-60 SEL 111 is in CAS escalation - Level 2 - For info only 02082536951/07557565895. SEL Ops SK<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:16-89 08/12/2021 18:15:49 INC 24790863 06E01 16 ST ANDREWS VIEW, TOWER HILL KIRKBY L33, L33 1ZF Male 74Y AGGITATED AND LIMP GRD 341509 400494<NUL>
+POCSAG1200: Address: 2001468  Function: 0 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   18:15-22 2415<NUL>
+POCSAG1200: Address: 1581799  Function: 0  Alpha:   O%(<ETB><ETX><GS><ACK>S
+POCSAG1200: Address: 1309638  Function: 2  Alpha:   eed t
+POCSAG1200: Address: 1246237  Function: 3 
+POCSAG1200: Address:  751566  Function: 3 
+POCSAG1200: Address: 2078453  Function: 0 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:15-20 08/12/2021 18:13:44 INC 24790855 31E01 1 GAWSWORTH AVENUE, CREWE CW2, CW2 8PB Female 52Y COLLAPSED ON SOFA GRD 368632 355238<NUL>
+POCSAG1200: Address:  197834  Function: 0 
+POCSAG1200: Address: 1151744  Function: 2  Alpha:   .)
+POCSAG1200: Address: 1312587  Function: 2  Alpha:   18:15-12 NOTIFY - DATE: 08.12.21    TIME: 18:15 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 5 MAX 5 MIN 
+POCSAG1200: Address:  380748  Function: 0  Alpha:   <ENQ>T<ENQ><EOT><ACK>tiY5<CAN>HI<HT>T<ENQ>T<ACK>T<EM><BS><VT>T<ACK>T<EM>i<HT><EOT>
+POCSAG1200: Address: 1032690  Function: 0 
+POCSAG1200: Address: 1528480  Function: 0 
+POCSAG2400: Address:  225851  Function: 2  Alpha:   18:14-44 107204<NUL><NUL>
+POCSAG2400: Address:   11773  Function: 0  Alpha:   18:14-75 4165<NUL>
 POCSAG1200: Address: 1944515  Function: 3  Alpha:   oo<ACK>E<ACK><ENQ>aw7z9<DLE><NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1813081221+++TIME=1813081221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=181308y7Z1+++TIME=1813081221<NUL>
@@ -966,35 +998,3 @@ POCSAG1200: Address:  625982  Function: 0  Alpha:   <GS>L
 POCSAG1200: Address:   44197  Function: 2  Alpha:   h@L<DC4><GS>
 POCSAG1200: Address: 1165908  Function: 3  Alpha:   ")
 POCSAG1200: Address:  707603  Function: 2  Alpha:   9<BS>
-POCSAG1200: Address:  165097  Function: 0 
-POCSAG1200: Address:  823601  Function: 3 
-POCSAG1200: Address:  946282  Function: 2  Alpha:   2<SYN>:<STX>5<SOH>9>R<STX><ENQ>2<SYN>JR<STX><GS>J<DC2><STX>Ma
-POCSAG1200: Address: 2014834  Function: 3 
-POCSAG1200: Address: 1216770  Function: 2 
-POCSAG1200: Address: 1377730  Function: 3 
-POCSAG1200: Address: 1263401  Function: 0 
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   15:35-09 4179<NUL>
-POCSAG1200: Address:  664466  Function: 2  Alpha:   15:35-28 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
-POCSAG2400: Address: 1913670  Function: 2  Alpha:   15:35-46 4268<NUL>
-POCSAG2400: Address: 1913682  Function: 2  Alpha:   15:35-42 2445<NUL>
-POCSAG1200: Address: 1512691  Function: 3  Alpha:   F<DLE>
-POCSAG1200: Address: 1676077  Function: 3  Alpha:   fh
-POCSAG1200: Address: 1073627  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX>+S
-POCSAG1200: Address: 1682266  Function: 1  Alpha:   hl
-POCSAG1200: Address: 1860985  Function: 0  Alpha:   X<SUB>
-POCSAG1200: Address:   98304  Function: 1  Alpha:   WH
-POCSAG1200: Address:  183615  Function: 1  Alpha:   <ESC><EM>{g<DC2>
-POCSAG1200: Address:  907958  Function: 0 
-POCSAG1200: Address: 1601894  Function: 2 
-POCSAG1200: Address: 1072213  Function: 0  Alpha:   <DC2><STX>
-POCSAG1200: Address:  438769  Function: 1  Alpha:   RD<NUL>RO
-POCSAG1200: Address:  333872  Function: 2  Alpha:   <FF>h
-POCSAG1200: Address:  668064  Function: 0 
-POCSAG1200: Address:  823975  Function: 1  Alpha:   O%
-POCSAG2400: Address:  216748  Function: 2  Alpha:   15:35-34 GREAT HEYWOOD ROAD, BETWEEN TIXALL COURT AND TIXALL ROAD, STORM DRAINS ON ANGLE OF 45 DEGREES IN CARRIAGEWAY
-POCSAG1200: Address:  333872  Function: 2  Alpha:   <FF>h
-POCSAG1200: Address:  668064  Function: 0 
-POCSAG1200: Address:  836279  Function: 3  Alpha:   O%
-POCSAG1200: Address:  153357  Function: 0 
-POCSAG1200: Address: 1027236  Function: 2  Alpha:   <STX>B
-POCSAG1200: Address:  100483  Function: 3  Alpha:   f@
