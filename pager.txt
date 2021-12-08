@@ -1,4 +1,27 @@
 POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:  216258  Function: 2  Alpha:   08:18-81 PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A, <CR><LF>PROBLEM: nimbleReplPart
+POCSAG2400: Address:  216261  Function: 2  Alpha:   08:18-87 PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A, <CR><LF>PROBLEM: nimbleReplPartnerSyncFail is CRITICAL on host PRNIM01-A<CR><LF>Service: nimbleReplPartn-vSyncFail<CR><LF>Host: PRNIM01-A<CR><LF>Alias: Nimble SAN Controller A<CR><LF>Address: 192.168.16.6<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   08:18-76 5440<NUL>
+POCSAG2400: Address:  216255  Function: 2  Alpha:   08
+POCSAG1200: Address: 1031784  Function: 3  Alpha:   B<CAN>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0818081221+++TIME=0818081221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0818081221+++TIME=0818081221<NUL>
+POCSAG2400: Address:   28900  Function: 0  Alpha:   08:18-37 2183<NUL>
+POCSAG1200: Address: 1313824  Function: 3 
+POCSAG1200: Address:  454248  Function: 2 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1913636  Function: 2  Alpha:   08:18-93 2097<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   08:17-04 33945
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:17-58 4140<NUL>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   08:17-85 08/12/2021 08:16:07 INC 24787924 06D04 15 DAVIS STREET, LONGRIDGE, PR3 3NL Male 82Y DIB - CANT GET BREATH GRD 360189 437753<NUL><NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address: 1022580  Function: 0  Alpha:   08:17-72 440<NUL><NUL>
+POCSAG1200: Address: 1321713  Function: 2  Alpha:   08:16-59 Destination: Parking\D78 Ext TP, Booking Ref#: 804784, Vehicle: WX67VJG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  269101  Function: 2  Alpha:   08:15-02 08/12/2021 08:14:12 INC 24787919 06D01 9 MILL GARDENS, HARTLEY ROAD, KIRKBY STEPHEN, CA17 4RU Female 92Y FALLEN -BREATHING COMPROMISED GRD 377526 508985<NUL>
+POCSAG2400: Address:  549010  Function: 2  Alpha:   08:15-17 Please call 888000<NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0813081221+++TIME=0813081221<NUL>
 POCSAG2400: Address: 1814983  Function: 2  Alpha:   08:13-00 Please call Nicola Page on 07823880559<NUL>
 POCSAG1200: Address:  108097  Function: 0  Alpha:   08:13-79 Please call ext 0295<NUL><NUL>
@@ -975,26 +998,3 @@ POCSAG1200: Address: 1915251  Function: 0
 POCSAG1200: Address: 2010979  Function: 0 
 POCSAG1200: Address: 1079904  Function: 2 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   03:16-98 PLEASE CALL 34890 <NUL>
-POCSAG2400: Address:  170798  Function: 1 
-POCSAG2400: Address: 1192543  Function: 2  Alpha:   03:15-70 NHSBT - DONOR REFERRAL. Please call S/N ON WARD on Direct Dial Number 0191 404 3121 Hospital SOUTH TYNESIDE Dept ITU . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   03:15-27 NHSBT - DONOR REFERRAL. Please call S/N ON WARD on Direct Dial Number 0191 404 3121 Hospital SOUTH TYNESIDE Dept ITU . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   03:14-55 08/12/2021 03:05:22 INC 24787166 27D03Y 11 EDWARD STREET, SALE, M33 3HL Male 55Y suiciddal GRD 380029 391612
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   03:14-03 08/12/2021 03:05:22 INC 24787166 27D03Y 11 EDWARD STREET, SALE, M33 3HL Male 55Y suiciddal GR
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0313081221+++TIME=0313081221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313081221+++TIME=0313081221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  585053  Function: 2  Alpha:   03:12-96 PLEASE CALL SECURITAS RE ENVIRONMENTAL ALARM ON 01908 658 100<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   03:10-50 5201<NUL>
-POCSAG2400: Address:   28916  Function: 0  Alpha:   03:09-27 4374<NUL>
-POCSAG2400: Address: 1409045  Function: 0 
-POCSAG1200: Address:  218838  Function: 0  Alpha:   J<EM>
-POCSAG1200: Address: 1039156  Function: 0 
-POCSAG1200: Address: 1039266  Function: 0  Alpha:   J<EM>
-POCSAG1200: Address:  553706  Function: 0 
-POCSAG1200: Address: 1039167  Function: 0 
-POCSAG1200: Address:  906687  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0308081221+++TIME=0308081221<NUL>
-POCSAG1200: Address: 1991289  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1039240  Function: 0 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:04-93 3106<NUL>
