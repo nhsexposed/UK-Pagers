@@ -1,3 +1,35 @@
+POCSAG1200: Address: 1055828  Function: 1 
+POCSAG1200: Address:  196612  Function: 2 
+POCSAG1200: Address:  366707  Function: 1  Alpha:   <CR>l
+POCSAG1200: Address: 1683554  Function: 2 
+POCSAG1200: Address:  688648  Function: 0  Alpha:   AI
+POCSAG1200: Address:  631703  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1706767  Function: 0 
+POCSAG1200: Address:  149316  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address:  149329  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address:  216595  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1312628  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address:  216521  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1312619  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address:   34211  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1312620  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1015278  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1015277  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1312615  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1015280  Function: 2  Alpha:   19:01:41 S17P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1015273  Function: 2  Alpha:   19
+POCSAG2400: Address: 1883825  Function: 3 
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG2400: Address:   28904  Function: 0  Alpha:   18:57-56 2233<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  700624  Function: 1 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:57-04 5531<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:56-99 08/12/2021 18:52:31 INC 24791064 31E01 50 MARYVILLE ROAD, PRESCOT L34, L34 2TA Female 76Y FALLEN GRD 347359 392718<NUL><NUL>
+POCSAG1200: Address: 2045568  Function: 2  Alpha:   <BS>$Fv<SYN><ETB><ACK>fF<ACK>4<SYN>V<BS><SYN><ACK>T<ACK><ACK>T<EM>(<SUB>k<SUB>IIY<BS>$z<EM>HH<ENQ><EOT>*Z8:xI<LF>D9FF<ENQ>D9F<ACK>$F<SUB><BS>dX\<GS>L]<FF>tf<SYN><VT>d<CAN>HIYh<HT>t(J<BS>4Fv6V<SYN><BEL>4<SYN>'v<SYN><ACK><BEL><NUL><NUL>
+POCSAG1200: Address: 1089603  Function: 2  Alpha:   18:56-44 08/12/2021 18:53:01 INC 24791068 19 CLOWES STREET, MANCHESTER, M12 5FY Male 24Y CYCLING AND GO DRAGED BY CAR GRD 386622 396755<NUL><NUL>
+POCSAG2400: Address:  585269  Function: 2  Alpha:   18:55-35 PLS CALL NADINE RE: KING COLLINS 07958 589 009<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:55-08 5128<NUL>
+POCSAG1200: Address:  695065  Function: 2  Alpha:   18:55-05 33887
 POCSAG1200: Address:  836222  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1853081221+++TIME=1853081221<NUL>
 POCSAG2400: Address:  992384  Function: 2 
@@ -966,35 +998,3 @@ POCSAG2400: Address: 1913906  Function: 2  Alpha:   16:07-13 2071<NUL>
 POCSAG2400: Address: 1320387  Function: 2  Alpha:   16:05-53 3104<NUL>
 POCSAG2400: Address: 1913840  Function: 2  Alpha:   16:05-20 3510<NUL>
 POCSAG2400: Address: 1913686  Function: 2  Alpha:   16:04-64 2560<NUL>
-POCSAG2400: Address: 1913657  Function: 2  Alpha:   16:04-17 3510<NUL>
-POCSAG2400: Address:  840120  Function: 0 
-POCSAG2400: Address: 1913906  Function: 2  Alpha:   16:04-12 2956<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603081221+++TIME=1603081221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603081221+++TIME=1603081221<NUL>
-POCSAG1200: Address:  602989  Function: 1 
-POCSAG1200: Address: 1686116  Function: 1 
-POCSAG1200: Address: 1734372  Function: 1 
-POCSAG1200: Address:   71299  Function: 1  Alpha:   W 
-POCSAG1200: Address:   80173  Function: 2  Alpha:   <DC2>C<DC4><SOH>L
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:02-61 08/12/2021 13:54:25 INkhz4789574 25B03 25 CROSSWAY, WITHINGTON
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   16:02-50 08/12/2021 16:01:09 INC 24790205 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:02-65 2233<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>B
-POCSAG2400: Address: 1324545  Function: 2  Alpha:   16:02-84 INC ALERT No: 16902187 Traffic/Transportation Accidents - RTC, AT: OUTSIDE, THE DUKE HOTEL, SWINDON ROAD, HILMARTON CALNE, SN11 8SD, Time of CahD: 08/12/2021 15:54:35, Co-ords: 51.4769177 -1.9738383<NUL>
-POCSAG1200: Address: 1786342  Function: 0  Alpha:   #<ETX>%O<ETX><CR>WKK<ETB>;S3g<ETX>UC?<DC1>?_;'<SOH><NUL>
-POCSAG1200: Address: 2024046  Function: 0 
-POCSAG1200: Address: 1511969  Function: 3  Alpha:   &D
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   16:00-39 4269<NUL>
-POCSAG2400: Address: 1716488  Function: 2 
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   16:00-67 5204<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:00-52 5042<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   15:59-53 2581<NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-00 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address: 1783712  Function: 2  Alpha:   <SUB>hIY<CAN><VT>t<SUB>y<CAN>hI<ENQ>tj9<ACK>d&)<HT>dX\<GS>L]<FF><DC4><BEL><SYN><VT>D<CAN>)<BS>t(J<BS>4VVFv&<ACK>D<ACK>&vf<ACK><ACK>
-POCSAG1200: Address: 1509880  Function: 2  Alpha:   15:59-04 08/12/2021 15:49:41 INC 24790160 09D01 14 BRAEMORE CLOSE, WINSTANLEY WIGAN, WN3 6JJ Female 90Y DIB GRD 355472 402760
-POCSAG1200: Address:  659674  Function: 0  Alpha:   <CAN>H<BS><DC4>i)<HT>$(Z<CAN>H<LF><EM>iy<BS>tz):Z<BS>t(J<BS>4vffVf<ACK>4<SYN>'&Vf<ACK><NUL>
-POCSAG1200: Address:  695980  Function: 2  Alpha:   15:59-37 08/12/2021 15:56:50 INC 24790188 17D05 1 TAVISTOCK ROAD, SALE, M33 5JA Female 74Y FALLEN 2 HRS AGO - HEAD INJ BREATHING WORSE GRD 376656 392256<DC4>@
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:58-96 4140<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1558081221+++TIME=1558081221<NUL>
-POCSAG1200: Address: 1512691  Function: 3  Alpha:   FF
-POCSAG1200: Address:  656577  Function: 0 
