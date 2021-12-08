@@ -1,3 +1,37 @@
+POCSAG2400: Address: 1453410  Function: 3 
+POCSAG2400: Address: 1355664  Function: 0  Alpha:   d<STX>
+POCSAG2400: Address:  678200  Function: 1 
+POCSAG2400: Address: 1515671  Function: 1  Alpha:   O%
+POCSAG2400: Address:  419877  Function: 3 
+POCSAG2400: Address: 1525376  Function: 1 
+POCSAG2400: Address: 1460566  Function: 1 
+POCSAG2400: Address: 1974413  Function: 1  Alpha:   ><STX>
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   20:54-96 INC ALERT No: 16903197 Falls - FELL TO THE FLOOR AS0*Al$
+POCSAG2400: Address:  792957  Function: 3 
+POCSAG2400: Address: 1937029  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:53-50 4155<NUL>
+POCSAG2400: Address: 1913861  Function: 2  Alpha:   20:53-58 3509<NUL>
+POCSAG1200: Address:  695397  Function: 2  Alpha:   20:52-44 08/12/2021 20:51:02 INC 24791663 29D02M 32 QUEENS PARK ROAD, AUDLEY BLACKBURN, BB1 1RF Male 20Y M - RTC GRD 369358 427519<NUL>
+POCSAG1200: Address:  269068  Function: 2  Alpha:   20:52-07 08/12/2021 20:51:02 INC 24791663 29D02M 32 QUEENS PARK ROAD, AUDLEY BLACKBURN, BB1 1RF Male 20Y M - RTC GRD 369358 427519<NUL>
+POCSAG1200: Address: 1214121  Function: 0  Alpha:   T<DC3>
+POCSAG1200: Address: 1258592  Function: 3  Alpha:   <STX><HT><DC2><ACK><SO>
+POCSAG1200: Address: 1075863  Function: 1  Alpha:   O%
+POCSAG1200: Address:  563719  Function: 3 
+POCSAG1200: Address:  535573  Function: 2 
+POCSAG1200: Address:  760997  Function: 1 
+POCSAG1200: Address: 1746665  Function: 0 
+POCSAG1200: Address: 1321866  Function: 2  Alpha:   20:52-26 08/12/2021 20:51:02 INC 24791663 32 QUEENS PARK ROAD, AUDLEY BLACKBURN, BB1 1RF Male 20Y M - RTC GRD 369358 427519<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   20:51-07 RECOVERY: Opsview NSClient Windows Agent x64 is OK on host GMMHACLVDA26A, <CR><LF>RECOVERY: Opsview NSClient Windows Agent x64 is OK on host GMMHACLVDA26A<CR><LF>Service: Opsview NSClient Windows Agent x64<CR><LF>Host: GMMHACLVDA26A<CR><LF>Alias: <CR><LF>Address: 192.16<NUL><NUL>
+POCSAG1200: Address:   45803  Function: 1 
+POCSAG1200: Address: 1217842  Function: 2 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   20:51-08 3508<NUL>
+POCSAG2400: Address: 1484837  Function: 3  Alpha:   b&UbL
+POCSAG1200: Address: 1089914  Function: 2  Alpha:   20:51-47 CAN PROFpDARGEN CALL PATSY IN THE  NEWCASTLE OFF 0300 123 1307
+POCSAG2400: Address: 1497720  Function: 3  Alpha:   <US>o
+POCSAG2400: Address:  225851  Function: 2  Alpha:   20:50-48 107205<NUL><NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   20:50-34 PLS CALL 7238826  WHH 
+POCSAG2400: Address: 1024758  Function: 0 
 POCSAG1200: Address: 1442568  Function: 2 
 POCSAG1200: Address: 1762560  Function: 0 
 POCSAG1200: Address:  394649  Function: 2  Alpha:   I<NUL>
@@ -964,37 +998,3 @@ POCSAG1200: Address:  678665  Function: 2  Alpha:   18:00-02 Case ref 11276206 F
 POCSAG1200: Address: 1070694  Function: 1 
 POCSAG1200: Address:  623301  Function: 0 
 POCSAG1200: Address: 1705428  Function: 2  Alpha:   `<CAN>
-POCSAG1200: Address: 1925282  Function: 2 
-POCSAG1200: Address: 1092710  Function: 2  Alpha:   17:59-71 08/12/2025117:56:58 INC 24790775 OUTSIDE, PURE GYM, FENNEL STREET, WARRINGTON WA1, WA1 2PA Male 62Y MOTORCYCLIST HIT BY CAR GRD 361057 3883
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   B<BS><NUL>`L
-POCSAG1200: Address: 1552499  Function: 0 
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   17:58-17 3106<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   17:58-21 4283<NUL>
-POCSAG1200: Address: 1915703  Function: 0  Alpha:   O%
-POCSAG1200: Address:  733415  Function: 0 
-POCSAG1200: Address:   94541  Function: 0  Alpha:   D 337860
-POCSAG1200: Address:  792243  Function: 1  Alpha:   t<
-POCSAG1200: Address:  366920  Function: 0  Alpha:   <DC4>(3<CAN>;<EM><BS>--<SYN><BS>
-POCSAG1200: Address: 1217870  Function: 1  Alpha:   EE L15, |Y<EOT>eX<SUB>
-POCSAG1200: Address:   92997  Function: 3 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   17:57-88 08/12/2021 17:43:35 INC 24790713 21D01T AISLE 23, ASDA STORES LTD, 126 SMITHDOWN ROAD<DC4>Pk
-POCSAG1200: Address: 2075377  Function: 1 
-POCSAG1200: Address: 2066046  Function: 0 
-POCSAG1200: Address:  346010  Function: 0  Alpha:   17:57-44 08/12/2021 17:55:07 INC 24790768 28C01J 8 CARR BARN BROW, CLAYTON BROOK NR LEYLAND, PR5 8LB Male 77Y Q STROKE GRD 358386 424470<NUL>
-POCSAG1200: Address:  557771  Function: 3 
-POCSAG1200: Address:  189075  Function: 0 
-POCSAG1200: Address: 1584481  Function: 2 
-POCSAG1200: Address: 1261832  Function: 3 
-POCSAG1200: Address:   71336  Function: 2 
-POCSAG1200: Address:  733846  Function: 0 
-POCSAG1200: Address:  813766  Function: 3 
-POCSAG1200: Address:  418645  Function: 2  Alpha:   X@
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   17:57-49 5201<NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   17:56-67 08/12/2021 17:55:17 INC 24790769 31D04 31 SOMERSET GROVE, CHURCH NR ACCRINGTON, BB5 4AJ Female 37Y SUFFERS INSOMNIA - COLLAPSED AND DELUSION GRD 374964 429285<NUL>
-POCSAG2400: Address: 1335517  Function: 3 
-POCSAG2400: Address: 1416028  Function: 0  Alpha:   hf
-POCSAG2400: Address:  451707  Function: 1  Alpha:   X<ESC>
-POCSAG2400: Address: 1716225  Function: 1  Alpha:   WHC+d
-POCSAG2400: Address: 1206473  Function: 2 
-POCSAG1200: Address: 1092710  Function: 2  Alpha:   17:56-70 08/12/2021 17:54:39 INC 24790763 JUNCTION 2 TO 1 WESTBOUND, M602, M41 7FN Male UnknownY rtc motorway slumped over wheel GRD 375438 399226<NUL><NUL>
