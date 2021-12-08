@@ -1,3 +1,41 @@
+POCSAG1200: Address: 2045160  Function: 2 
+POCSAG1200: Address: 2074496  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:44-94 08/12/2021 18:42:54 INC 24791018 29D02M OS, FINESSE KITCHENS, 185 CAMBRIDGE ROAD, NEWTOWN ST HELENS WA10, WA10 4HA Male 50Y HIT BY CAR GRD 350122 395364<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843081221+++TIME=1843081221<NUL>
+POCSAG1200: Address: 1311770  Function: 0 
+POCSAG1200: Address:  108161  Function: 1  Alpha:   <DLE><DC3>)A<EOT>
+POCSAG1200: Address: 1577319  Function: 0 
+POCSAG1200: Address: 1680100  Function: 3  Alpha:   )PK`<CAN><CAN><SYN>Pc`<CAN>
+POCSAG1200: Address:  272012  Function: 1 
+POCSAG1200: Address:  731475  Function: 1 
+POCSAG1200: Address: 1005347  Function: 1 
+POCSAG1200: Address: 2008442  Function: 2 
+POCSAG1200: Address:   40146  Function: 1 
+POCSAG1200: Address:  150497  Function: 2  Alpha:    "
+POCSAG1200: Address:  339088  Function: 0  Alpha:   xX
+POCSAG1200: Address:  793391  Function: 1  Alpha:   O%
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843081221+++TIME=1843081221<NUL>
+POCSAG1200: Address:  858129  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   18:43-61 4179<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#Y(L
+POCSAG1200: Address:   42299  Function: 2  Alpha:   18:42-97 GYNECOLOGY PLEASE CALL EXT: 22001
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   18:42-13 GYNECOLOGY PLEASE CALL EXT: 22001
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1092709  Function: 2  Alpha:   18:42-19 08/12/2021 18:38:11 INC 24790984 p6D$1 21 FIR TREE CLOSE, LOWER BURGH WAY CHORLEY, PR7 3TB Male 74Y DIABETIC, DISORIENTATED, HANDS, LEGS SWELLING, DIB GRD 358198 415353
+POCSAG1200: Address: 2012243  Function: 1  Alpha:   <STX><HT>
+POCSAG1200: Address:   36091  Function: 2 
+POCSAG1200: Address:  567897  Function: 2  Alpha:   X<BS><EOT>Hy9ZH
+POCSAG1200: Address: 1249551  Function: 0 
+POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF>A3l0f
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   18:41-13 4179<NUL>
+POCSAG1200: Address: 1022840  Function: 2  Alpha:   18:41-66 52
+POCSAG2400: Address:  921040  Function: 3 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   18:40-27 33867
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:40-03 4157<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   18:40-57 OBETRIC EMERGNECY LABOUR WARD DMH <NUL><NUL>
+POCSAG2400: Address:  380098  Function: 1  Alpha:   :Z
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:40-03 2447<NUL>
 POCSAG2400: Address:   11678  Function: 0  Alpha:   18:39-28 Ian is responding<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1838081221+++TIME=1838081221<NUL>
 POCSAG2400: Address: 1260220  Function: 2  Alpha:   18:37-63 PLS CALL EXT 4902<NUL><NUL>
@@ -960,41 +998,3 @@ POCSAG1200: Address:   26011  Function: 3  Alpha:   <LF><DC3>[<DC1>K<DC3><VT><ET
 POCSAG1200: Address: 1422170  Function: 1  Alpha:   fr
 POCSAG1200: Address: 1974105  Function: 0  Alpha:   X<SUB>
 POCSAG1200: Address: 1683685  Function: 1 
-POCSAG1200: Address: 1912897  Function: 1  Alpha:   <DC3>K
-POCSAG1200: Address: 1249664  Function: 1  Alpha:    FEma
-POCSAG1200: Address:  859151  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1316654  Function: 3  Alpha:   ,<FS>e<STX>2
-POCSAG1200: Address: 1315859  Function: 2  Alpha:   iY<CAN><LF>D<HT>K<LF><EM>X<HT>0J<LF>
-POCSAG1200: Address: 1060002  Function: 2 
-POCSAG1200: Address: 1750090  Function: 2 
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   15:53-09 08/12/2021 15:50:03 INC 24790162 28C03L 11 SANDHURST AVENUE, ST ANNES LYTHAM ST ANNES, FY8 2DA Female 82Y Q STROKE GRD 332068 429335<NUL>
-POCSAG2400: Address: 1323902  Function: 2  Alpha:   15:51-00 GREEN: THE TRUST HAS DE-ESCALATED TO CSP RED AS OF 15:45. THE PLANNED REVIEW CALL AT 17:00 WILL STILL BE GOING AHEAD. THANKS GH EOC LONDON SOUTH.
-POCSAG2400: Address: 1323933  Function: 2  Alpha:   15:51<CR>1t GREEN: THE TRUST HAS DE-ESCALATED TO CSP RED AS OF 15:45. THE PLANNED REVIEW CALL AT 17:00 WILL STILL BE GOING AHEAD. THANKS GH EOC LONDON SOUTH.
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:51-04 4387<NUL>
-POCSAG2400: Address: 1814997  Function: 0  Alpha:   15:50-71 Adult trauma to AE Resus ETA 8mins<NUL><NUL>
-POCSAG1200: Address:   99075  Function: 2  Alpha:   `R
-POCSAG1200: Address:  198154  Function: 3 
-POCSAG1200: Address:  396314  Function: 1 
-POCSAG2400: Address: 1913678  Function: 2  Alpha:   15:50-37 4901<NUL>
-POCSAG1200: Address: 1939742  Function: 0 
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:49-51 4179<NUL>
-POCSAG1200: Address:  269456  Function: 3  Alpha:   Ed
-POCSAG1200: Address: 1812350  Function: 3  Alpha:   <SYN>!
-POCSAG2400: Address:   28896  Function: 0  Alpha:   15:49-00 5128<NUL>
-POCSAG2400: Address: 1913679  Function: 2  Alpha:   15:49-97 4269<NUL>
-POCSAG1200: Address: 2096272  Function: 2  Alpha:   <RS><ACK>&:NR<STX>]<ACK>22<STX><GS>J<DC2><STX>MMa]]A<SOH>Me]UAe<SOH><NUL>
-POCSAG1200: Address: 1474618  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1548081221+++TIME=1548081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1548081221+++TIME=1548081221<NUL>
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   15z<RS>8/63 2619<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:48-03 4387<NUL>
-POCSAG1200: Address:  197437  Function: 3  Alpha:   <DLE><FF><FF><DC2>#<ACK>1f
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address: 1913678  Function: 2  Alpha:   15:48-36 2169<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:47-86 4399<NUL>
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   15:47-93 3116<NUL>
-POCSAG2400: Address: 1487445  Function: 0 
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   15:47-84 2233<NUL>
-POCSAG1200: Address: 1512691  Function: 3  Alpha:   FF
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  949398  Function: 2 
