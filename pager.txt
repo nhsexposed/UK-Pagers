@@ -1,3 +1,47 @@
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   11:54-17 2183<NUL>
+POCSAG2400: Address: 1323896  Function: 2  Alpha:   11:54-84 2584<NUL>
+POCSAG1200: Address: 2073207  Function: 1 
+POCSAG1200: Address:  959357  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1153081221+++TIME=1153081221<NUL>
+POCSAG1200: Address: 1039333  Function: 3  Alpha:   <DC2>F
+POCSAG1200: Address:  360002  Function: 0  Alpha:   11:53-15 08/12/2021 11:52:44 INC 24788971 06D02 37 VILLIERS STREET, BURNLEY, BB11 5ER Male 86Y M - DR ADVISED TO CALL - COUGHING - CANT GET OUT OF BED - DIB GRD 382388 432215
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   11:52-19 08/12/2021 11:48:58 INk` 4788952 26D01 21 KNOWL GAP AVENUE, HASLINGDEN, BB4 4DA Female 78Y CANT WALK COLOUR CHANGE HYPOGLYCEMIC GRD 378363 422278
+POCSAG1200: Address:  269168  Function: 2  Alpha:   11:52-50 08/12/2021 11:48:58 INC 24788952 26D01 21 KNOWL GAP AVENUE, HASLINGDEN, BB4 4DA Female 78Y CANT WALK COLOUR CHANGE HYPOGLYCEMIC GRD 378363 422278
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  430632  Function: 1 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:51-94 3119<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:51-80 5540<NUL>
+POCSAG1200: Address:  135328  Function: 2  Alpha:   11:50-84 08/12/2021 11:48:08 INC 24788948 17D04 5 ST HILDAS CLOSE, WELD BANK CHORLEY, PR7 3NU Male 83Y FALL, DELERIOUS GRD 358315 415873<NUL>
+POCSAG1200: Address: 1092709  Function: 2  Alpha:   11:50-01 08/12/2021 11:48:08 INC 24788948 17D04 5 ST HILDAS CLOSE, WELD BANK CHORLEY, PR7 3NU Male 83Y FALL, DELERIOUS GRD 358315 415873<NUL>
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   11:50-59 Station Gate turnstile work now complete, available for both in & out use. SSM<LF>
+POCSAG2400: Address:  769971  Function: 3 
+POCSAG2400: Address: 1582661  Function: 1 
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   11:50-87 Station Gate turnstile work now complete, available for both in & out use. SSM<LF>
+POCSAG2400: Address: 2074230  Function: 2 
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   11:50-96 2581<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   #<FF>
+POCSAG1200: Address:  924990  Function: 2  Alpha:   ,%
+POCSAG1200: Address: 1595006  Function: 3 
+POCSAG1200: Address: 1241290  Function: 0  Alpha:   WO
+POCSAG1200: Address:  850857  Function: 3  Alpha:   t 
+POCSAG1200: Address:  627502  Function: 3  Alpha:   fd
+POCSAG1200: Address: 1073628  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><ETX>S
+POCSAG1200: Address:  370523  Function: 0  Alpha:   dp
+POCSAG1200: Address:  216066  Function: 0  Alpha:   X<CAN>
+POCSAG1200: Address: 1274070  Function: 1  Alpha:   7<ETX>@+da<NAK>rpY<EOT>=E<FS>\"<SO>.<DC1><BEL>WH
+POCSAG1200: Address:  918884  Function: 3  Alpha:   4w79P
+POCSAG1200: Address:  140852  Function: 2 
+POCSAG1200: Address:  618539  Function: 1 
+POCSAG1200: Address: 1241290  Function: 0  Alpha:   WO
+POCSAG1200: Address: 1294641  Function: 2  Alpha:   m 
+POCSAG1200: Address:  751593  Function: 3 
+POCSAG1200: Address:  867016  Function: 2 
+POCSAG1200: Address: 1073628  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><VT>S
+POCSAG1200: Address:  370523  Function: 0  Alpha:   dn
+POCSAG1200: Address:  216066  Function: 0  Alpha:   X<CAN>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:49-32 MSG02-RD 364635 377626
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   11:49-31 08/12/2021 11:46:00 INC 24788937 10C01 24 LOTHIAN AVENUE, FLEETWOOD, FY7 8BY Female 40Y CHEST PAINS GRD 331825 447208<NUL><NUL>
 POCSAG2400: Address:   28895  Function: 0  Alpha:   11:49-84 2339<NUL>
 POCSAG1200: Address: 1259126  Function: 2  Alpha:   11:49-28 08/12/2021 11:46:00 INC 24788937 10C01 24 LOTHIAN AVENUE, FLEETWOOD, FY7 8BY Female 40Y CHEST PAINS GRD 331825 447208<NUL><NUL>
 POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><ENQ>
@@ -954,47 +998,3 @@ POCSAG1200: Address: 1089955  Function: 2  Alpha:   10:12-08 2ND PAGE - Please c
 POCSAG1200: Address: 1318345  Function: 2  Alpha:   10:12-34 2ND PAGE - Please call Hub Operations on 0117 975 7580 regarding Don
 POCSAG1200: Address: 1443290  Function: 0  Alpha:   <SUB><FS>
 POCSAG1200: Address:  342961  Function: 2 
-POCSAG1200: Address: 1718113  Function: 1 
-POCSAG1200: Address: 1581264  Function: 0 
-POCSAG1200: Address:  544117  Function: 3 
-POCSAG1200: Address: 1684325  Function: 1 
-POCSAG1200: Address:  170915  Function: 2  Alpha:   asE c
-POCSAG1200: Address:  177163  Function: 1 
-POCSAG1200: Address:  247434  Function: 1 
-POCSAG1200: Address:  433020  Function: 2  Alpha:   10:12-46 2ND PAGE - Please call Hub Operations on 0117 975 7580 regarding Donor number - 153245, Donor hospital - LEEDS GENERAL, Donor DOB - 10/10/2001.<NUL><NUL>
-POCSAG1200: Address: 1032697  Function: 3  Alpha:   <DC1>"
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG2400: Address:   28924  Function: 0  Alpha:   10:12-42 2188<NUL>
-POCSAG2400: Address: 1913961  Function: 2  Alpha:   10:12-51 3298<NUL>
-POCSAG2400: Address:  549067  Function: 2  Alpha:   10:12-92 NHSBT - DONOR REFERRAL. Please call  WALID on Direct Dial Number  07888 673456 Hospital DORSET COUNTY Dept  INTENSIVE CARE . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1322760  Function: 2  Alpha:   10:12-06 NHSBT - DONOR REFERRAL. Please call  WALID on Direct Dial Number  07888 673456 Hospital DORSET COUNTY Dept  INTENSIVE CARE . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   10:12-65 2320<NUL>
-POCSAG2400: Address: 1749687  Function: 2 
-POCSAG2400: Address:  420886  Function: 0 
-POCSAG2400: Address:  866942  Function: 0 
-POCSAG2400: Address:  216651  Function: 2  Alpha:   9<DLE>b7w79<DLE>i2s
-POCSAG2400: Address:  741275  Function: 2 
-POCSAG2400: Address:  643106  Function: 2 
-POCSAG2400: Address:  619088  Function: 3  Alpha:   "gi$k
-POCSAG2400: Address: 1322778  Function: 2  Alpha:   10:12-97 NHSBT`/)DONOR REFERRAL. Please call  WALID on Direct Dial Number  07888 673456 Hospital DORSET COUNTY Dept  INTENSIVE CARE . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  584222  Function: 2  Alpha:   10:12-52 80300
-POCSAG2400: Address: 1913707  Function: 2  Alpha:   10:12-16 4155<NUL>
-POCSAG1200: Address:  432413  Function: 2  Alpha:   10:12-38 2ND PAGE - Please call Hub Operations on 0117 975 7580 regarding Donor number - 153245, Donor hospital - LEEDS GENERAL, Donor DOB - 10/10/2001.<NUL><NUL>
-POCSAG1200: Address: 1312629  Function: 2  Alpha:   10:14:36 S19H1 Fire call 15238<NUL>
-POCSAG1200: Address:  216569  Function: 2  Alpha:   10:14:36 S19H1 Fire call 15238<NUL>
-POCSAG1200: Address: 1312637  Function: 2  Alpha:   10:14:36 S19H1 Fire call 15238<NUL>
-POCSAG1200: Address:  216567  Function: 2  Alpha:   10:14:36 S19H1 Fire call 15238<NUL>
-POCSAG1200: Address: 1511903  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1022273  Function: 0  Alpha:   10:12-66 NHSBT - DONOR REFERRAL. Please call  WALID on Direct Dial Number  07888 673456 Hospital DORSET COUNTY Dept  INTENSIVE CARE . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  149245  Function: 2  Alpha:   10:12-28 80300
-POCSAG2400: Address:  280152  Function: 0  Alpha:   <y
-POCSAG2400: Address:  777143  Function: 0  Alpha:   O%
-POCSAG2400: Address:  823847  Function: 1 
-POCSAG2400: Address:  616626  Function: 1 
-POCSAG2400: Address: 1176289  Function: 3  Alpha:   ')
-POCSAG2400: Address:  354321  Function: 0 
-POCSAG2400: Address: 1378640  Function: 1 
-POCSAG2400: Address: 1282360  Function: 0 
-POCSAG2400: Address: 1151839  Function: 1  Alpha:   bn@g<DC2>
-POCSAG2400: Address: 1677035  Function: 2  Alpha:   2<NUL>@+da<NAK>rp<LF>98E<FS><BS>z"10z
