@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2223081221+++TIME=2223081221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2223081221+++TIME=2223081221<NUL>
+POCSAG1200: Address: 1823552  Function: 2  Alpha:    T_mc
+POCSAG512: Address: 1343505  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2063528  Function: 3 
+POCSAG1200: Address:  779565  Function: 2 
+POCSAG1200: Address:  855325  Function: 3 
+POCSAG1200: Address:  760996  Function: 2 
+POCSAG1200: Address: 1358204  Function: 0 
+POCSAG1200: Address:   33491  Function: 0 
+POCSAG1200: Address: 1692769  Function: 0  Alpha:   <ENQ><LF>T<CAN>)B<BS>T
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   66400  Function: 3 
+POCSAG1200: Address: 1313140  Function: 2  Alpha:   22:21-44 (2/2) Assigned: JY10P1, JY16P1, JY02P1, JY20P1; Roles    JY10P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Terraced
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   22:21-52 (2/2) Assigned: JY10P1, JY16P1, JY02P1, JY2<NUL>A1; Roles    JY16P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Terraced
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   22:21-51 (1/2)032113-08122021; F4.0.1.P FIRE - PERSONS REPORTED DOMESTIC; 5 BELL HOUSE GARDENS,WOKINGHAM,RG41 2BD; 480706,168782;<NUL><NUL>
+POCSAG1200: Address: 1770120  Function: 3 
+POCSAG1200: Address:  994928  Function: 0 
+POCSAG1200: Address:  678458  Function: 2  Alpha:   22:20-12 08/12/2021 22:19:08 INC 24792076 19D01 1 MERE AVENUE, FLEETWOOD, FY7 8LX Male 75Y HEART RATE 172,/03 GRD 331671 446246<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  940678  Function: 2  Alpha:   22:19-25 08/12/2021 22:17:18 INC 24792067 09E01 114B, 114 CENTRAL DRIVE, BLACKPOOL, FY1 5DY Female 51Y NOT SURE IF THE PT IS BREATHING GRD 331019 435572<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2218081221+++TIME=2218081221<NUL>
 POCSAG2400: Address: 1346160  Function: 1  Alpha:   <HT>K
@@ -976,25 +998,3 @@ POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:19-03 4660<NUL>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CA;L
 POCSAG1200: Address: 2012753  Function: 2 
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   19:18-54 4114<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1918081221+++TIME=1918081221<NUL>
-POCSAG1200: Address:  420486  Function: 3  Alpha:   <SYN>r
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:   40161  Function: 2  Alpha:   19:17-10 please call 33965<NUL><NUL>
-POCSAG1200: Address: 1322125  Function: 2  Alpha:   19:17-68 please call 33965<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:17-27 3507<NUL>
-POCSAG1200: Address: 1261734  Function: 1 
-POCSAG1200: Address: 1868365  Function: 0  Alpha:   OA
-POCSAG1200: Address:  346010  Function: 0  Alpha:   19:17-47 08/12/2021 19:15:22 INC 24791187 06D01 97 kABRIN'{?
-POCSAG1200: Address:   40088  Function: 2  Alpha:   19:17-04 31312
-POCSAG2400: Address:  383448  Function: 3 
-POCSAG2400: Address:  216263  Function: 2  Alpha:   19:16-97 RECOVERY: Windows - Drive: C is OK on host EORRABLADM01MC1, <CR><LF>RECOVERY: Windows - Drive: C is OK on host EORRABLADM01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: EORRABLADM01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.12.142<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF><NUL><NUL>
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   19:16-49 CIDAS testing in B 205 from  20:30 hrs - SSM  <NUL><NUL>
-POCSAG1200: Address:  924893  Function: 1  Alpha:   <EM><DLE>
-POCSAG1200: Address:  367028  Function: 3 
-POCSAG1200: Address:  338196  Function: 0 
-POCSAG1200: Address: 1003611  Function: 3 
-POCSAG1200: Address: 1068667  Function: 2 
-POCSAG1200: Address:  843056  Function: 1 
-POCSAG1200: Address:  867184  Function: 1 
-POCSAG1200: Address: 1220767  Function: 1  Alpha:   O%
-POCSAG1200: Address:   35623  Function: 0 
