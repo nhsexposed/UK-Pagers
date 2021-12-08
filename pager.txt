@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408081221+++TIME=0408081221<NUL>
+POCSAG1200: Address: 1770056  Function: 2 
+POCSAG1200: Address:  101165  Function: 3  Alpha:   `h
+POCSAG1200: Address:  202333  Function: 3 
+POCSAG1200: Address: 1147456  Function: 2 
+POCSAG1200: Address:  857894  Function: 1 
+POCSAG1200: Address: 1582670  Function: 2 
+POCSAG1200: Address: 1261877  Function: 1 
+POCSAG1200: Address:   75469  Function: 3 
+POCSAG1200: Address:  210764  Function: 3 
+POCSAG1200: Address:  476892  Function: 3 
+POCSAG1200: Address: 1476643  Function: 2 
+POCSAG1200: Address: 1127538  Function: 0  Alpha:   "&
+POCSAG1200: Address:  321032  Function: 0  Alpha:   <DC3>u<NAK>r<DLE><STX><VT>h
+POCSAG1200: Address: 1517984  Function: 0 
+POCSAG1200: Address: 1417023  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1221191  Function: 0 
+POCSAG1200: Address:  149389  Function: 3 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:07-95 2581<NUL>
+POCSAG1200: Address:  774016  Function: 3 
+POCSAG1200: Address: 1002040  Function: 3 
+POCSAG1200: Address: 2076255  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1031762  Function: 3  Alpha:   A<EM>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0403081221+++TIME=0403081221<NUL>
 POCSAG2400: Address:   28900  Function: 0  Alpha:   04:03-34 2415<NUL>
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:03-94 4155<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address:  444953  Function: 0  Alpha:   H<ENQ>
 POCSAG1200: Address: 1233319  Function: 0  Alpha:   T,`g<DC2>Tf'aba
 POCSAG1200: Address:  182870  Function: 2 
 POCSAG1200: Address: 1400925  Function: 3  Alpha:   D5|<DC4>%
-POCSAG1200: Address:  362628  Function: 3  Alpha:   h<STX>
-POCSAG1200: Address:  266850  Function: 1  Alpha:   v<ACK>Gf&f<ACK><EOT>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1058636  Function: 2  Alpha:   23:54-36 07/12/2021 23:50:<DC1>=
-POCSAG1200: Address:  336389  Function: 2  Alpha:   23:53-03 Alarm#32016 23:53 Error=1 Late=0, <CR><LF>Reuters\IndexRics [Error]<CR><LF>----------------<CR><LF>Reuters\IndexRics: SSL failing!<NUL>
-POCSAG1200: Address: 1483265  Function: 2  Alpha:   23:53-64 Alarm#32016 23:53 Error=1 Late=0, <CR><LF>Reuters\IndexRics [Error]<CR><LF>----------------<CR><LF>Reuters\IndexRics: SSL failing!<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  214093  Function: 2  Alpha:   23:52-05 07/12/2021 23:50:40 INC 24786628 31D02 22 WHITEHALL STREET, NELSON, BB9 9JB Male 55Y PASSED OUT GRD 386827 438003
-POCSAG1200: Address: 1322174  Function: 2  Alpha:   23:52-10 HELLO JULIAN, I AM ON SITE BUT THERE IS A PROBLEM WITH THE BALER<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1925348  Function: 2  Alpha:   23:51-35 33458
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   23:51-46 07/12/2021 23:46:13 INC 24786618 06C01E Clatterbridge Hospital Wirral Merseyside -, CLATTERBRIDGE ROAD, RABY MERE WIRRAL CH63, CH63 4JY Female 58Y COPD, HAVING 4L O2, SATS DROPPED GRD 331780 382196<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2348071221+++TIME=2348071221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2348071221+++TIME=2348071221<NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   23:48-96  PLEASE CALL SSIP ON 34890<NUL><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:47-85 2182<NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   23:47-88 07/12/2021 23:45:49 INC 24786616 10D01 227 DINMORE AVENUE, LAYTON BLACKPOOL, FY3 7QT Female 19Y CHEST PAIN GRD 333568 437889<NUL>
-POCSAG1200: Address: 1271387  Function: 2 
-POCSAG1200: Address:  987049  Function: 2  Alpha:   23:47-72 07/12/2021 23:45:49 INC 24786616 10D01 227 DINMORE AVENUE, LAYTON BLACKPOOL, FY3 7QT Female 19Y CHEST PAIN GRD 333568 437889<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   23:47-85 07/12/2021 23:45:49 INC 24786616 10D01 227 DINMORE AVENUE, LAYTON BLACKPOOL, FY3 7QT Female 19Y CHEST PAIN GRD 333568 437889<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  585393  Function: 2  Alpha:   23:46-95 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
-POCSAG1200: Address:  585393  Function: 2  Alpha:   23:46-94 (2/2) RG1 8FJ Type     R3.0.0.P RESCUE - RESCUE FROM WATER Map ref  472227,173968 Details  POTENTIAL PERSON IN THE RIVER  INFORMING AS DO<NUL><NUL>
