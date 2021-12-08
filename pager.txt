@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1505138  Function: 0 
+POCSAG2400: Address:  153552  Function: 3  Alpha:   8<CAN>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:03-05 5204<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1303081221+++TIME=1303081221<NUL>
+POCSAG1200: Address: 1878753  Function: 1 
+POCSAG1200: Address:  987049  Function: 2  Alpha:   13:03-22 08/12/2021 13:00:10 INC 24789299 10D02 18 BRIERCLIFFE AVENUE, MARTON BLACKPOOL, FY3 9LY Female 41Y CHEST PAIN - DIB - HAD A BABY 5 DAYS AGO GRD 332699 434837<NUL><NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   13:03-91 08/12/2021 13:00:10 INC 24789299 10D02 18 BRIERCLIFFE AVENUE, MARTON BLACKPOOL, FY3 9LY Female 41Y CHEST PAIN - DIB - HAD A BABY 5 DAYS AGO GRD 332699 434837<NUL><NUL>
+POCSAG2400: Address: 1913722  Function: 2  Alpha:   13:03-10 2427<NUL>
+POCSAG1200: Address:  585450  Function: 2  Alpha:   13:03-35 4188<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:03-64 08/12/2021 13:00:23 INC 24789301 06E01 21 WORDSWORTH AVENUE, RADCLIFFE MANCHESTER, M26 3GX Female 74Y COPD, CAN HARDLY BREATHE GRD 377185 407561<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:02-72 5202<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:02-16 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:02-15 Please Call Switchboard<NUL><NUL>
+POCSAG2400: Address: 1913928  Function: 2  Alpha:   13:01-06 4158<NUL>
+POCSAG1200: Address:  619020  Function: 3  Alpha:   VD
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   13:01-73 2320<NUL>
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
+POCSAG1200: Address:  678665  Function: 2  Alpha:   13:00-97 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  600597  Function: 0  Alpha:   13:00-01 PLEASE CALL HELEN MILLINGTON TEL: 07786 719 944 RE: CHRISTIAN MUMS SAID THE PHONE HAS BEEN CONFISCATED SO COULD YOU PLEASE USE HIS MUM'S NUMBER TO CONTACT HIM 
 POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:59-51 4379<NUL>
 POCSAG1200: Address:  106110  Function: 2  Alpha:   12:59-91 MSG02-6 428128<NUL><NUL>
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
@@ -976,25 +998,3 @@ POCSAG1200: Address:   33756  Function: 2  Alpha:   11:32-24 TEST<LF>This is a t
 POCSAG1200: Address: 1015546  Function: 3  Alpha:   ((LcL
 POCSAG1200: Address: 1925683  Function: 2  Alpha:   11:31-60 08/12/2021 11:28:13 INC 24788852 06E01 3 WHITEHALL AVENUE, SHEVINGTON VALE WIGA
 POCSAG1200: Address:  721418  Function: 3 
-POCSAG1200: Address:  632623  Function: 2  Alpha:   O%(30
-POCSAG1200: Address: 1512707  Function: 3  Alpha:   <ACK>d
-POCSAG1200: Address:  360002  Function: 0  Alpha:   11:29m;6(08/12/2021 11:28:03 INC 24788849 06D01 THE GROVE, 40 OWEN STREET, BURNLEY, BB12 6HW Female 89Y PT ON NG TUBE DIB GRD 381395 432425<NUL>
-POCSAG1200: Address: 2008675  Function: 0 
-POCSAG1200: Address: 1032929  Function: 3  Alpha:   &0
-POCSAG1200: Address: 1734246  Function: 1 
-POCSAG1200: Address:  600587  Function: 0  Alpha:   #)<STX>P<EM>Z<CAN>\Q<FS>P
-POCSAG1200: Address:  594002  Function: 0  Alpha:   t<EOT><DC2>}l
-POCSAG1200: Address: 1261177  Function: 2 
-POCSAG1200: Address:  313712  Function: 0  Alpha:   G 
-POCSAG1200: Address: 1147472  Function: 3 
-POCSAG1200: Address:  296239  Function: 2  Alpha:   O%
-POCSAG1200: Address: 1914078  Function: 0  Alpha:   |>'N<SYN>
-POCSAG1200: Address: 1080005  Function: 1 
-POCSAG1200: Address:  853220  Function: 3  Alpha:   '*
-POCSAG1200: Address:  317556  Function: 2 
-POCSAG1200: Address:  843059  Function: 1 
-POCSAG1200: Address:   34570  Function: 3 
-POCSAG1200: Address:  837161  Function: 2 
-POCSAG1200: Address: 1455113  Function: 1 
-POCSAG1200: Address:   34574  Function: 3 
-POCSAG1200: Address:  837165  Function: 2 
