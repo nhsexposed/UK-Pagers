@@ -1,3 +1,30 @@
+POCSAG2400: Address:  840120  Function: 0 
+POCSAG2400: Address: 1913906  Function: 2  Alpha:   16:04-12 2956<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603081221+++TIME=1603081221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1603081221+++TIME=1603081221<NUL>
+POCSAG1200: Address:  602989  Function: 1 
+POCSAG1200: Address: 1686116  Function: 1 
+POCSAG1200: Address: 1734372  Function: 1 
+POCSAG1200: Address:   71299  Function: 1  Alpha:   W 
+POCSAG1200: Address:   80173  Function: 2  Alpha:   <DC2>C<DC4><SOH>L
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:02-61 08/12/2021 13:54:25 INkhz4789574 25B03 25 CROSSWAY, WITHINGTON
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   16:02-50 08/12/2021 16:01:09 INC 24790205 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:02-65 2233<NUL>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>B
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   16:02-84 INC ALERT No: 16902187 Traffic/Transportation Accidents - RTC, AT: OUTSIDE, THE DUKE HOTEL, SWINDON ROAD, HILMARTON CALNE, SN11 8SD, Time of CahD: 08/12/2021 15:54:35, Co-ords: 51.4769177 -1.9738383<NUL>
+POCSAG1200: Address: 1786342  Function: 0  Alpha:   #<ETX>%O<ETX><CR>WKK<ETB>;S3g<ETX>UC?<DC1>?_;'<SOH><NUL>
+POCSAG1200: Address: 2024046  Function: 0 
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   &D
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   16:00-39 4269<NUL>
+POCSAG2400: Address: 1716488  Function: 2 
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   16:00-67 5204<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:00-52 5042<NUL>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   15:59-53 2581<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-00 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address: 1783712  Function: 2  Alpha:   <SUB>hIY<CAN><VT>t<SUB>y<CAN>hI<ENQ>tj9<ACK>d&)<HT>dX\<GS>L]<FF><DC4><BEL><SYN><VT>D<CAN>)<BS>t(J<BS>4VVFv&<ACK>D<ACK>&vf<ACK><ACK>
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   15:59-04 08/12/2021 15:49:41 INC 24790160 09D01 14 BRAEMORE CLOSE, WINSTANLEY WIGAN, WN3 6JJ Female 90Y DIB GRD 355472 402760
+POCSAG1200: Address:  659674  Function: 0  Alpha:   <CAN>H<BS><DC4>i)<HT>$(Z<CAN>H<LF><EM>iy<BS>tz):Z<BS>t(J<BS>4vffVf<ACK>4<SYN>'&Vf<ACK><NUL>
+POCSAG1200: Address:  695980  Function: 2  Alpha:   15:59-37 08/12/2021 15:56:50 INC 24790188 17D05 1 TAVISTOCK ROAD, SALE, M33 5JA Female 74Y FALLEN 2 HRS AGO - HEAD INJ BREATHING WORSE GRD 376656 392256<DC4>@
 POCSAG2400: Address:   28899  Function: 0  Alpha:   15:58-96 4140<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1558081221+++TIME=1558081221<NUL>
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   FF
@@ -971,30 +998,3 @@ POCSAG1200: Address:  445627  Function: 0  Alpha:   ZZ
 POCSAG1200: Address: 1076243  Function: 3 
 POCSAG1200: Address:  334075  Function: 2  Alpha:   13:55-18 08/12/2021 13:48
 POCSAG1200: Address: 1816808  Function: 2  Alpha:   13:55-47 22222
-POCSAG1200: Address:   41512  Function: 2  Alpha:   13:55-19 33945
-POCSAG1200: Address: 2043458  Function: 1 
-POCSAG1200: Address:  940540  Function: 2  Alpha:   13:55-21 08/12/2021 13:48:17 INC 24789546 BY B19.5 MARKER AB
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1353081221+++TIME=1353081221<NUL>
-POCSAG2400: Address: 1322475  Function: 2  Alpha:   13:53-68 PLEASE CALL IAN WRIGHT 01638 782020<NUL>
-POCSAG1200: Address: 1511973  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1975907  Function: 1 
-POCSAG2400: Address: 1140933  Function: 0  Alpha:   ;<BEL>P<NAK>r`<VT>)T,h
-POCSAG2400: Address: 1658085  Function: 0  Alpha:   WH
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   <ACK>h
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2031732  Function: 1 
-POCSAG1200: Address:  216478  Function: 2  Alpha:   13:52-76 Got time for a survey?B <NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   13:51-99 5072<NUL>
-POCSAG2400: Address: 1913903  Function: 2  Alpha:   13:50-91 2111<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:50-76 5205<NUL>
-POCSAG1200: Address:  350338  Function: 0  Alpha:   13:50-80 08/12/2021 13:49:06 INC 24789550 31D03 DEEPDALE DENTAL CENTRE, SMART DENTAL, 73C ST GREGORY ROAD, PRESTON, PR1 6YA Female 18Y HAS HAD TEETH REMOVED AND PASSING OUT GRD 354789 430631<NUL>
-POCSAG1200: Address:  301502  Function: 3  Alpha:   (<LF>D<EM>hYH<ENQ>d<CAN>(jyz)J<LF><HT>$xIIziI<ENQ>$HI<ACK><EOT>&(<LF>T<EM>L]<FF>Tj=m}}n<GS><VT>$J:<BS>t(J<BS>4v&&F6<ACK>D<ACK>V<ACK><BEL>w<ACK><NUL>
-POCSAG1200: Address:  360827  Function: 3 
-POCSAG2400: Address: 1321022  Function: 2  Alpha:   13:50-44 4153<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:50-75 4399<NUL>
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   13:50-76 69004
-POCSAG1200: Address:  679608  Function: 2  Alpha:   13:50-46 69004
-POCSAG1200: Address: 2025458  Function: 1 
-POCSAG1200: Address: 1258970  Function: 2  Alpha:   13:50-18 Call or Calls waiting at Switchboard
-POCSAG1200: Address:  585540  Function: 2  Alpha:   13:49-69 3119<NUL>
-POCSAG1200: Address: 1512707  Function: 3  Alpha:   V<STX>
