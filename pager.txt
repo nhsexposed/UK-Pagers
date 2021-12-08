@@ -1,3 +1,28 @@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:49-99 5201<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913859  Function: 2  Alpha:   14:49-27 4554<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1448081221+++TIME=1448081221<NUL>
+POCSAG1200: Address:  269100  Function: 2  Alpha:   14:48-05 08/12/2021 14:47:39 INC 24789868 26D01 16 CHATSWORTH STREET, SYKE ROCHDALE, OL12 0SL Female 64Y CONFUSED GRD 389496 415122
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   14:48-18 3510<NUL>
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 2075382  Function: 1 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:47-91 4183<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  298624  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:47-03 08/12/2021 14:45:52 INC 24789862 06E01 SAYERS BAKERY 6 PARTINGTON SHOPPING CENTRE, CENTRAL ROAD, PARTINGTON MANCHESTER, M31 4EL Male 26Y AHTMA ATTACK GRD 371807 391423<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   14:47-47 08/12/2021 14:45:52 INC 24789862 06E01 SAYERS BAKERY 6 PARTINGTON SHOPPING CENTRE, CENTRAL ROAD, PARTINGTON MANCHESTER, M31 4EL Male 26Y AHTMA ATTACK GRD 371807 391423<NUL>
+POCSAG1200: Address:  420455  Function: 2  Alpha:   <DC2>#<CR>*L
+POCSAG2400: Address: 1913859  Function: 2  Alpha:   14:46-26 4554<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:46-97 4167<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   14:45-53 4428<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:45-81 4553<NUL>
+POCSAG1200: Address:  585538  Function: 2  Alpha:   14:45-26 2076<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   14:45-07 3164<NUL>
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   14:45-91 4002<NUL>
+POCSAG1200: Address: 1323839  Function: 2  Alpha:   14:45-50 EG021 GM ROSE (DUTY GM) - PLEASE CONTACT CONTROL - THANK YOU<NUL><NUL>
+POCSAG1200: Address: 1511996  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   14:44-72 3119<NUL>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   14:44-47 08/12/2021 14:43:27 INC 24789846 09E01 92 LONGFIELD CRESCENT, WATERHEAD OLDHAM, OL4 2SD Male 89Y NO RESPONSE FROM DOOR - ?DECEASED GRD 394561 406110
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   14:44-46 08/12/2021 14:42:49 INC 24789844 32B02 4 WESTOVER ROAD, MAGHULL L31, L31 7BT Male 89Y NO RESPONSE ON ALARM GRD 337252 402440<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443081221+++TIME=1443081221<NUL>
@@ -973,28 +998,3 @@ POCSAG2400: Address: 1913849  Function: 2  Alpha:   12:51-44 4231<NUL>
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address:  584929  Function: 2  Alpha:   12:51-13 76362
 POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  413198  Function: 2  Alpha:   12:50-74 (2/2) Talkgrp  FBER-OPS01 (38*) (DGNA)<NUL>
-POCSAG1200: Address:  413198  Function: 2  Alpha:   12:50-73 (1/2)032060-08122021; A3.0.0.P ALARM - RESIDENTIAL; OAKLANDS,5 THE GREEN,THEALE,READING,RG7 5DR; 463639,171023; Assigned: JY22P1; Roles    JY22P1:Main Pump;
-POCSAG1200: Address: 1032948  Function: 2  Alpha:   "<DLE>a<BS>L
-POCSAG1200: Address: 1001125  Function: 2  Alpha:   12:50-33 Adult Cardiac arrest, Health Central, zone 6 area B
-POCSAG1200: Address: 1409880  Function: 1  Alpha:   ff
-POCSAG1200: Address: 2002255  Function: 0  Alpha:   <CAN><EM>}g<DC2>
-POCSAG1200: Address:  433818  Function: 3 
-POCSAG1200: Address:  634921  Function: 0 
-POCSAG1200: Address: 1817185  Function: 0 
-POCSAG1200: Address:  170300  Function: 1 
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   12:50-32 Adult Cardip<ACK>
-POCSAG1200: Address: 1001129  Function: 2  Alpha:   12:50-33 Adult Cardiac arrest, Health Central, zone 6 area B
-POCSAG1200: Address: 1001131  Function: 2  Alpha:   12
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   12:50-77 Adult Cardiac arrest, Health Central, zone 6 area B
-POCSAG1200: Address: 1001133  Function: 2  Alpha:   12:50-38 Adult Cardiac arrest, Health Central, zone 6 area B
-POCSAG1200: Address: 1330703  Function: 2  Alpha:   ,B
-POCSAG1200: Address: 1330703  Function: 2 
-POCSAG1200: Address: 1330701  Function: 2 
-POCSAG1200: Address: 1330701  Function: 2 
-POCSAG1200: Address: 1330700  Function: 2 
-POCSAG1200: Address: 1312441  Function: 2  Alpha:   12:50-07 Adult Cardiac arrest, Health Central, zone 6 ares2B
-POCSAG2400: Address: 1913974  Function: 2  Alpha:   12:50-33 4167<NUL>
-POCSAG2400: Address: 1913821  Function: 2  Alpha:   12:50-76 4560<NUL>
-POCSAG1200: Address: 1700805  Function: 3  Alpha:   F 
-POCSAG1200: Address: 1551474  Function: 2  Alpha:   12:50-38 PLEASE CALL CATHERINE BIN<BEL>KMM ON 32785<NUL>
