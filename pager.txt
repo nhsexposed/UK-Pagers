@@ -1,3 +1,13 @@
+POCSAG1200: Address: 1875634  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0358081221+++TIME=0358081221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1602918  Function: 0 
+POCSAG1200: Address: 1468877  Function: 0 
+POCSAG1200: Address: 1681172  Function: 3  Alpha:   hn
+POCSAG1200: Address:  557772  Function: 3 
+POCSAG1200: Address:  189075  Function: 2 
+POCSAG1200: Address: 1213152  Function: 0  Alpha:   OI
+POCSAG1200: Address:  623392  Function: 3 
 POCSAG1200: Address: 1784554  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353081221+++TIME=0353081221<NUL>
 POCSAG2400: Address:   11729  Function: 0  Alpha:   03:52-26 723 8711
@@ -988,13 +998,3 @@ POCSAG1200: Address:  413130  Function: 2  Alpha:   23:44-16 (2/3) Assigned: JY0
 POCSAG1200: Address: 1816808  Function: 2  Alpha:   23:44-42 (2/3) Assigned: JY01P1, JY02P1, JY20P1, JY01R1, JYS146; Roles    JYS146:Water Incident Management DEFRA Level 5; Talkgrp  FBER-OPS01 (38*) (DGNA);<NUL><NUL>
 POCSAG1200: Address: 1816808  Function: 2  Alpha:   23:44-42 (1/3)032025-07122021; R3.0.0.P RESCUE - RESCUE FROM WATER; KINGS MEADOW,NAPIER ROAD,READING,RG1 8FJ; 472227,173968; POTENTIAL PERSON IN THE RIVER; ;
 POCSAG1200: Address:  413198  Function: 2  Alpha:   23:44-70 (3/3) Additional_Data Address Classification Playground 
-POCSAG1200: Address:  413198  Function: 2  Alpha:   23:44-69 (2/3) Assigned: JY01P1, JY02P1, JY20P1, JY01R1, JY22P1, JYS146; Roles    JY22P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA);<NUL>
-POCSAG1200: Address:  413198  Function: 2  Alpha:   23:44-68 (1/3)032025-07122021; R3.0.0.P RESCUE - RESCUE FROM WATER; KINGS MEADOW,NAPIER ROAD,READING,RG1 8FJ; 472227,173968; POTENTIAL PERSON IN THE RIVER; ;
-POCSAG1200: Address: 1849192  Function: 0  Alpha:   <CAN>u
-POCSAG1200: Address:  216379  Function: 2  Alpha:   23:43-26 (3/3) Additional_Data Address Classification Playground 
-POCSAG1200: Address:  413130  Function: 2  Alpha:   23:43-14 (2/3) Assigned: JY01P1, JY02P1, JY20P1, JY01R1, JYS146; Roles    JY01P1:Main Pump,RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS01 (38*) (DGNA);<NUL><NUL>
-POCSAG1200: Address:  413079  Function: 2  Alpha:   23:43-70 (3/3) Additional_Data Address Classification Playground 
-POCSAG2400: Address: 1324556  Function: 2  Alpha:   23:43-09 STAND DOWN FROM INC: 16899451 ,  OPPOSITE NEAR THE GB MURIAL, CITYPOINT - THE OLD MILL INTERIORS, TEMPLE GATE, LAWRENCE HILL BRISTOL, BS1 6PL ,<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2343071221+++TIME=2343071221<NUL>
-POCSAG1200: Address:  413130  Function: 2  Alpha:   23:43-15 (3/3) Additional_Data Address Classification Playground 
-POCSAG1200: Address:  413130  Function: 2  Alpha:   23:43-13 (1/3)032025-07122021; R3.0.0.P RESCUE - RESCUE FROM WATER; KINGS MEADOW,NAPIER ROAD,READING,RG1 8FJ; 472227,173968; POTENTIAL PERSON IN THE RIVER; ;
