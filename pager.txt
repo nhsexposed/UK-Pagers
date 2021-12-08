@@ -1,3 +1,33 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1903081221+++TIME=1903081221<NUL>
+POCSAG1200: Address:   28883  Function: 3  Alpha:   19:03-99 TEST<NUL>
+POCSAG1200: Address: 1321745  Function: 2  Alpha:   19:02-10 PPCI test call please respond to 0143828474u<FF>
+POCSAG1200: Address: 1321744  Function: 2  Alpha:   19:02-10 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address: 1321728  Function: 2  Alpha:   19:02-82 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address: 1321726  Function: 2  Alpha:   19:02-65 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address: 1321730  Function: 2  Alpha:   19:02-31 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address: 1321725  Function: 2  Alpha:   19:02-88 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address: 1321740  Function: 2  Alpha:   19:02-09 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address: 1321727  Function: 2  Alpha:   19:02-72 PPCI test call please respond to 01438284745<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   19:01-02 08/12/2021 18:56:51 INC 24791089 21D02T O/S GAP PERSONAL, WISTASTON ROAD, CREWE, CW2 7RP Male UnknownY ON THE FLOOR - FULL OF BLOOD GRD 369923 355552<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:01-05 3164<NUL>
+POCSAG1200: Address: 1606197  Function: 0 
+POCSAG1200: Address: 1989791  Function: 1  Alpha:   Z<ESC>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   19:00-32 4167<NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   19:00-02 TEST FROM SWITCH
+POCSAG1200: Address: 1552498  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   19:00-03 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  312672  Function: 0  Alpha:   19:00-32 08/12/2021 18:57:41 INC 24791092 17D0 <EOT>AACHSTEP BLACKLA<DC1>  198 CHARLESTOWN ROAD, BLACKLEY MANCHESTER, M9 7ED Female 90Y SUSPEC
+POCSAG1200: Address: 1312626  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1312622  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address:  149307  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG2400: Address: 1312557  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG2400: Address: 1312558  Function: 2  Alpha:   19:01:41 S05P1 Fire call 15260<NUL>
+POCSAG1200: Address: 1942388  Function: 0 
+POCSAG1200: Address:  625847  Function: 0  Alpha:   g<DC2>
+POCSAG1200: Address:  369414  Function: 1  Alpha:   &aJ c
+POCSAG1200: Address:  743005  Function: 0 
+POCSAG1200: Address:  433341  Function: 2 
 POCSAG1200: Address: 1055828  Function: 1 
 POCSAG1200: Address:  196612  Function: 2 
 POCSAG1200: Address:  366707  Function: 1  Alpha:   <CR>l
@@ -968,33 +998,3 @@ POCSAG1200: Address: 1352291  Function: 0
 POCSAG2400: Address: 1913889  Function: 2  Alpha:   16:14-35 5070<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1613081221+++TIME=1613081221<NUL>
 POCSAG1200: Address: 1032180  Function: 3  Alpha:   <ENQ>B
-POCSAG1200: Address: 2007890  Function: 2 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:12-66 4114<NUL>
-POCSAG1200: Address:  421053  Function: 3  Alpha:   <CAN><CAN>
-POCSAG1200: Address:  858132  Function: 0 
-POCSAG1200: Address: 1336539  Function: 1  Alpha:   <DC2><ETX>
-POCSAG1200: Address:  570991  Function: 3  Alpha:   g<DC2><DC4><ESC><ETX>
-POCSAG1200: Address: 1823045  Function: 3 
-POCSAG1200: Address: 1880949  Function: 3 
-POCSAG2400: Address: 1260220  Function: 2  Alpha:   16:12-58 4754<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:11-05 5202<NUL>
-POCSAG2400: Address: 1320373  Function: 2  Alpha:   16:11-77 2415<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:12-27 08/12/2021 16:09:14 INC 24790255 17D03 LITTLE HEATON RESIDENTIAL HOME, WALKER STREET, RHODES MANCHESTER, M24 4QF Male 68Y NOT AWAKE - FALLEN BANGED HEAD GRD 385088 405264<NUL>
-POCSAG1200: Address:  212255  Function: 3  Alpha:   U(
-POCSAG1200: Address: 1032688  Function: 3  Alpha:   <ACK><SI>
-POCSAG2400: Address: 1913660  Function: 2  Alpha:   16:10-02 4387<NUL>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:09-63 08/12/2021 16:07:14 INC 24790247 25B03 17 DOVECOTE, ASHTON MANCHESTER, M43 7TP Male 17Y M- SUICIDAL GRD 391592 399232<NUL><NUL>
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   16:09-19 08/12/2021 16:07:14 INC 24790247 25B03 17 DOVECOTE, ASHTON MANcZUSTER, M43 7TP Male 17Y M- SUICIDAL GRD 391592 399232<NUL><NUL>
-POCSAG1200: Address:  420460  Function: 3  Alpha:   <DC2>CA<ETX>L
-POCSAG2400: Address:  569144  Function: 3 
-POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>Cd1L
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:08-97 2304<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   16:07-24 3119<NUL>
-POCSAG2400: Address: 1913840  Function: 2  Alpha:   16:07-21 4387<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913906  Function: 2  Alpha:   16:07-13 2071<NUL>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   16:05-53 3104<NUL>
-POCSAG2400: Address: 1913840  Function: 2  Alpha:   16:05-20 3510<NUL>
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   16:04-64 2560<NUL>
