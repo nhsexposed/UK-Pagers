@@ -1,3 +1,8 @@
+POCSAG1200: Address:  337704  Function: 1 
+POCSAG1200: Address:  338263  Function: 3  Alpha:   g<DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508091221+++TIME=0508091221<NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   05:08-62 4155<NUL>
+POCSAG1200: Address:  216342  Function: 2  Alpha:   05:05-94 Destination: Parking\D78 Ext TP, Booking Ref#: 804340, Vehicle: j50get. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503091221+++TIME=0503091221<NUL>
 POCSAG1200: Address:  269054  Function: 2  Alpha:   05:03-54 09/12/2021 05:02:17 INC 24793300 10D04 FLAT 5, 5 GOLDEN WAY, URMSTON MANCHESTER, M41 0AB Female 46Y CHEST PAINS GRD 376532 394754<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1925680  Function: 2  Alpha:   22:52-70 08/12/2021 22:51:25
 POCSAG2400: Address: 1323650  Function: 2  Alpha:   22:52-47 80300
 POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  548039  Function: 2  Alpha:   22:52-73 08/12/2021 22:50:05 INC 24792205 06E01 89 HARLOW CLOSE, SUTTON HEATH ST HELENS WA9, WA9 5EX Female 83Y STROKE GRD 350687 393463<NUL>
-POCSAG2400: Address:  549199  Function: 2  Alpha:   22:51-21 80300
-POCSAG1200: Address: 1422825  Function: 3 
-POCSAG2400: Address:  583520  Function: 2  Alpha:   22:50-31 80300
-POCSAG2400: Address: 1323006  Function: 2  Alpha:   22:50-02 80300
-POCSAG1200: Address:   40074  Function: 2  Alpha:   22:49-69 08/12/2021 22:47:03 INC 24792188 13C01 37 GREENHILL ROAD, T
