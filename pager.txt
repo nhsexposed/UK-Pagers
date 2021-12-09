@@ -1,3 +1,16 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453091221+++TIME=0453091221<NUL>
+POCSAG1200: Address:  328921  Function: 2 
+POCSAG1200: Address: 1058544  Function: 2  Alpha:   <SYN>/
+POCSAG1200: Address: 1111463  Function: 1  Alpha:   g<DC2>
+POCSAG1200: Address:   98631  Function: 1 
+POCSAG1200: Address:  400670  Function: 0  Alpha:   <ESC><DC2>
+POCSAG1200: Address:  438869  Function: 3  Alpha:   <CAN>H
+POCSAG1200: Address:  664466  Function: 2  Alpha:   04:52-32 1: 00
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:52-39 3157<NUL>
+POCSAG1200: Address: 1075408  Function: 1 
+POCSAG1200: Address: 1413983  Function: 1  Alpha:   rp`g<DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  721744  Function: 1 
 POCSAG1200: Address:  585004  Function: 2  Alpha:   04:48-78 1: 001MAFAL1718020 Area Fire Alarm CP17 ****FIRE**** 01<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address:  347412  Function: 2  Alpha:   <CR>H
 POCSAG1200: Address:  328067  Function: 1 
 POCSAG1200: Address:  938675  Function: 3 
 POCSAG1200: Address: 1843818  Function: 0 
-POCSAG1200: Address: 1466554  Function: 0 
-POCSAG1200: Address:  619089  Function: 3  Alpha:   ''
-POCSAG1200: Address: 1204023  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1714503  Function: 0 
-POCSAG1200: Address: 1892630  Function: 1  Alpha:   ES
-POCSAG1200: Address:  176901  Function: 3 
-POCSAG1200: Address:  800821  Function: 0 
-POCSAG1200: Address:  315436  Function: 0 
-POCSAG1200: Address: 1023780  Function: 2 
-POCSAG1200: Address: 1515651  Function: 3 
-POCSAG1200: Address:  197194  Function: 0  Alpha:   OB
-POCSAG1200: Address:  311704  Function: 1  Alpha:   <SOH><NUL>
-POCSAG1200: Address: 1288089  Function: 3 
