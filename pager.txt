@@ -1,3 +1,54 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1608091221+++TIME=1608091221<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   16:08-45 09/12/2021 16:05:25 INC 24796075 06E01 WINGATE MEDICAL CENTRE, 79 BIGDALE DRIVE, NORTHWOOD KIRKBY L33, L33 6YJ Female 55Y NEWS SCORE 8 SATS 75% RESPS 31 GRD 342062 399430<NUL>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   16:08-58 5076<NUL>
+POCSAG1200: Address:  872969  Function: 0 
+POCSAG1200: Address: 1066615  Function: 0  Alpha:   M1Ag<DC2>
+POCSAG1200: Address: 1058620  Function: 2  Alpha:   <DC4>%
+POCSAG1200: Address: 1487947  Function: 3 
+POCSAG1200: Address:  283339  Function: 0 
+POCSAG1200: Address:  839938  Function: 3 
+POCSAG1200: Address:  296521  Function: 3  Alpha:   <DC1>1
+POCSAG1200: Address:  767201  Function: 1 
+POCSAG1200: Address: 1516880  Function: 0  Alpha:   <SYN>2
+POCSAG1200: Address:  266850  Function: 1  Alpha:   v<SYN>g<ACK>vV<ACK><EOT>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address:  109352  Function: 3  Alpha:   dj
+POCSAG1200: Address: 1075678  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX>rY<EOT>EYi
+POCSAG1200: Address:  100189  Function: 0  Alpha:   ll
+POCSAG1200: Address: 1353034  Function: 1  Alpha:   ^<US>*<DC2><STX>
+POCSAG1200: Address:   52402  Function: 1 
+POCSAG1200: Address: 1304377  Function: 3 
+POCSAG1200: Address: 1133345  Function: 0 
+POCSAG1200: Address:  304720  Function: 3  Alpha:   Y<BS>
+POCSAG2400: Address: 1913916  Function: 2  Alpha:   16:07-37 5002<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   16:07-13 Call 24796063 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  210522  Function: 2 
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   16:07-92 4155<NUL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   16:07-48 09/12/2021 16:02:47 INC 24796062 30D03 ON STREET, WARREN DRIVE, THORNTON CLEVELEYS, FY5 3TG Female 21Y o<BS>- dislocated hip GRD 332359 441526
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  306187  Function: 2  Alpha:   16:07-90 2589<NUL>
+POCSAG2400: Address: 1907632  Function: 0 
+POCSAG2400: Address: 1337039  Function: 1  Alpha:   O%h<SOH>A
+POCSAG2400: Address: 2003718  Function: 2  Alpha:   db
+POCSAG2400: Address:  134461  Function: 0  Alpha:   W<CAN>
+POCSAG2400: Address:  724020  Function: 0  Alpha:   M-
+POCSAG2400: Address: 1352056  Function: 3 
+POCSAG2400: Address:   35583  Function: 1  Alpha:   O%
+POCSAG2400: Address:  150502  Function: 2  Alpha:    "
+POCSAG2400: Address: 1287790  Function: 0 
+POCSAG2400: Address: 1324542  Function: 2  Alpha:   16:06-99 INC ALERT No: 16906249 Traffic/Transportation Accidents - CRUSHED BETWEEN TWO CARS, AT: O/S, SAINSBURYS SUPERMARKETS LTD, ANTONY ROAD, TORPOINT, PL11 2JW, Time of Call: 09/12/2021 16:01:17, Co-ords: 50.376907 -4.1994427
+POCSAG2400: Address:   28919  Function: 0  Alpha:   16:06-63 4396<NUL>
+POCSAG2400: Address: 1323883  Function: 2  Alpha:   16:06-23 4156<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   16:06-10 4179<NUL>
+POCSAG1200: Address: 1716259  Function: 2  Alpha:   |-
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   16:06-84 5203<NUL>
+POCSAG2400: Address:   28903  Function: 0  Alpha:   16:05-36 5204<NUL>
+POCSAG2400: Address:  874496  Function: 3 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:05-17 2008<NUL>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<EM><L
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:05-67 4114<NUL>
+POCSAG1200: Address: 1537746  Function: 3 
 POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>B
 POCSAG1200: Address: 1058636  Function: 2  Alpha:   16:03-55 09/12/2021 16:00:43 INC 24796051 17D05 39, CHATSWORTH ROAD, MORECAMBE, LA4 4JQ Male 62Y FALLEN GRD 342741 463624<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603091221+++TIME=1603091221<NUL>
@@ -947,54 +998,3 @@ POCSAG2400: Address:  660180  Function: 0  Alpha:   g_keG
 POCSAG2400: Address:  886619  Function: 3  Alpha:   l@
 POCSAG2400: Address:   28895  Function: 0  Alpha:   13:51-92 5125<NUL>
 POCSAG2400: Address: 2011512  Function: 0  Alpha:   BGiSmCis_d_dKg
-POCSAG2400: Address:  473775  Function: 3  Alpha:   O%
-POCSAG2400: Address:  218350  Function: 3  Alpha:   &f<ENQ><SYN>g
-POCSAG2400: Address:  754380  Function: 2 
-POCSAG2400: Address: 1357666  Function: 2 
-POCSAG2400: Address: 1930494  Function: 0 
-POCSAG2400: Address: 1735166  Function: 3 
-POCSAG2400: Address: 1446949  Function: 2 
-POCSAG2400: Address: 1640972  Function: 0  Alpha:   V<ACK>
-POCSAG2400: Address: 2022707  Function: 3  Alpha:   M<SO>
-POCSAG2400: Address: 1703779  Function: 1 
-POCSAG1200: Address:  878779  Function: 2  Alpha:   88
-POCSAG1200: Address:  173552  Function: 0  Alpha:   BL
-POCSAG1200: Address:  602215  Function: 2 
-POCSAG1200: Address:  931129  Function: 2  Alpha:   13:50-67 Thu Dec 9 13:50:23 UTC 2021 -- PROBLEM : ospf-status on core5-in2 is CRITICAL (SNMP TRAP CRITICAL - OSPF IP interface 10.77.26.2 reports state down)
-POCSAG2400: Address: 1320366  Function: 2  Alpha:   13:50-84 42 3<NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   13:50-29 Alert from MANSDPMSFS02B, bay 1 - All links down in adapter in slot 3., <!-- (C) Copyright 2016 Hewlett Packard Enterprise Development LP --><CR><LF>Resource MANSDPMSFS02B, bay 1<CR><LF>https://172.29.8.5/#/activity/r/rest/server-hardware/39313738-3034<NUL><NUL>
-POCSAG1200: Address: 1639617  Function: 1  Alpha:   <DC4><DC1>H,-
-POCSAG1200: Address:  677921  Function: 2 
-POCSAG2400: Address:  549209  Function: 2  Alpha:   13:50-20 nU> Receipt for your payment to Freshfields Animal Rescue, <CR><LF><CR><LF>Mr Stelios Kimpriktzis, LL.M, BA (Hons) (Open), Dip.H.E., Cert.H.E.<CR><LF><CR><LF>Tel: 07541 444 974<CR><LF>Pager: 07623 382 780<CR><LF>Pager email: 382780.pageone@p1c.net<CR><LF><CR><LF><CR><LF><CR><LF>From: servi
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   13:49-70 call 8009<NUL><NUL>
-POCSAG2400: Address: 1913633  Function: 2  Alpha:   13:49-78 2120<NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   13:49-18 09/12/2021 13:47:54 INC 24795364 12D02 25 MACBETH ROAD, FLEETWOOD, FY7 7HR Male 28Y fitting GRD 332443 447936<NUL>
-POCSAG1200: Address:  858134  Function: 0 
-POCSAG1200: Address: 1156868  Function: 3  Alpha:   `r
-POCSAG1200: Address:  741043  Function: 1 
-POCSAG1200: Address:  569705  Function: 3  Alpha:   <SYN>7F<ACK><NUL>
-POCSAG1200: Address:  751526  Function: 3 
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address: 1321706  Function: 2  Alpha:   13:49-81 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: NX16LWV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
-POCSAG1200: Address: 1312984  Function: 2  Alpha:   13:48-99 (2/3) Assigned: JY19P1, JY21P1, JY17P6.$JY20A1; Roles    JY21P1:Main Pump,RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS01 (38*) (DGNA);<NUL><NUL>
-POCSAG1200: Address: 1312984  Function: 2  Alpha:   13:48-98 (3/3) Additional_Data Address Classification Detached <NUL><NUL>
-POCSAG1200: Address:  678663  Function: 2  Alpha:   13:48-93 (2/2) Assigned: JY19P1, JY21P1, JY17P2, JY20A1; Roles    JY19P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Detached <NUL><NUL>
-POCSAG1200: Address:  216321  Function: 2  Alpha:   13:48-38 (1/2)032159-09122021; F4.0.2.P FIRE - ROOF DOMESTIC; ORCHARD HOUSE,MONKEY ISLAND LANE,BRAY,MAIDENHEAD,SL6 2EA; 491313,178000;
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   13:48-07 3518<NUL>
-POCSAG2400: Address:  433538  Function: 2  Alpha:   13:48-12 6630<NUL>
-POCSAG2400: Address:   28868  Function: 0  Alpha:   13:48-28 PLS CONTACT MARIANNA ON EXT 35604 OR 2415 FOR A REFERRAL <NUL><NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:48-21 5201<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:47-27 4935<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CACL
-POCSAG1200: Address: 1238922  Function: 0 
-POCSAG1200: Address: 1461657  Function: 1 
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   13:47-89 4238<NUL>
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   13:46-50 4156<NUL>
-POCSAG1200: Address: 2076800  Function: 3  Alpha:   h)<DLE>!fj"P#)"P<EM><SUB>X\<CAN><ESC>PY\<EM>\Y<CAN>
-POCSAG1200: Address: 2024150  Function: 0 
-POCSAG1200: Address:  150500  Function: 2  Alpha:    "
-POCSAG1200: Address: 1494105  Function: 1  Alpha:   <SUB><DLE>
-POCSAG1200: Address: 1330703  Function: 2 
-POCSAG1200: Address: 1330702  Function: 2 
