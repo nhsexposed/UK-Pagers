@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:18-63 3254<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:18-62 4283<NUL>
+POCSAG1200: Address: 1822785  Function: 1  Alpha:   I<SOH>MA<SOH>e<SYN>^<STX>QJ<SYN><SYN><STX><ENQ>Z<SYN>:V<SYN>2<SOH>5>NN<STX>M&<DC2><SYN><STX>5<ACK>:<SO>"<SYN>NR<SYN>J2<SOH>5FQ<SOH>])B<STX><EM><SYN>7<BEL>3<ETB><ETX>UEe<STX>!<ACK><DC2><STX>A<ACK>2B&R<ACK>R&>:N2<SOH>U:^<SYN>222<SOH><EM>J>R"&:<RS><STX><ENQ>R<STX>5>VR"<STX><GS>J<DC2><STX>MaQAYa<SOH>MeQeUe<SOH>
+POCSAG1200: Address:  930489  Function: 2  Alpha:   15:18-96 09/12/2021 15:16:19 INC 24795821 
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   15:17-95 2417<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   15:17-48 2441<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  549033  Function: 2  Alpha:   15:17-50 call 6152<NUL><NUL>
+POCSAG1200: Address:    1768  Function: 2 
+POCSAG1200: Address:  688740  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
+POCSAG2400: Address:  584943  Function: 2  Alpha:   15:15-53 71321
+POCSAG2400: Address: 1032539  Function: 3  Alpha:   F<SO>
+POCSAG1200: Address: 1813678  Function: 3  Alpha:   ?wn'd
+POCSAG1200: Address: 1263403  Function: 1 
+POCSAG1200: Address:  459275  Function: 2 
+POCSAG1200: Address: 1448986  Function: 1 
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1159976  Function: 2  Alpha:   db
+POCSAG1200: Address:  269059  Function: 2  Alpha:   15:14-62 09/12/2021 99]g<DC2>
+POCSAG1200: Address:  975472  Function: 0 
 POCSAG2400: Address: 1321200  Function: 2  Alpha:   15:14-16 38245 <NUL><NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   15:14-51 Call 24795715 - Warning - Scene Unsafe. Contract Control for further advice.
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1513091221+++TIME=1513091221<NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address: 1322225  Function: 2  Alpha:   13:03-17 ALERT STATUS: OPEL 
 POCSAG2400: Address: 1322230  Function: 2  Alpha:   13:03-39 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
 POCSAG2400: Address: 1322620  Function: 2  Alpha:   13:03-88 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
 POCSAG2400: Address: 1322618  Function: 2  Alpha:   13:03-95 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG1200: Address:  714090  Function: 3 
-POCSAG1200: Address:  183041  Function: 3 
-POCSAG1200: Address: 1947744  Function: 3  Alpha:   .<ACK>:KK
-POCSAG1200: Address: 1068143  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   13:03-20 09/12/2021 12:59:50 INC 24795098 06E01 BLUEBELL COURT NURSING HOME, WELLINGTON STREET WEST, SALFORD 7 SALFORD, M7 2FH Female 79Y SATS 68-69 GRD 382579 400704<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1303091221+++TIME=1303091221<NUL>
-POCSAG1200: Address: 1500150  Function: 2  Alpha:   13:03-14 09/12/2021 12:59:56 INC 24795099 28C03J WALDEN MANOR NURSING HOME, 41 MANCHESTER ROAD, WALKDEN MANCHESTER, M28 3WS Female 87Y Q.STROKE GRD 373924 402928<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:03-23 5820<NUL>
-POCSAG2400: Address: 1322624  Function: 2  Alpha:   13:03-28 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322263  Function: 2  Alpha:   13:03-52 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322233  Function: 2  Alpha:   13:03-47 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322399  Function: 2  Alpha:   13:03-95 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322202  Function: 2  Alpha:   13:03-79 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322204  Function: 2  Alpha:   13:03-78 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322206  Function: 2  Alpha:   13:03-73 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322207  Function: 2  Alpha:   13:03-03 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG2400: Address: 1322639  Function: 2  Alpha:   13:03-15 ALERT STATUS: OPEL 4 All healthcare groups to ensure they are following OPEL 4 Action Cards.<NUL>
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   13:03-44 09/12/2021 12:59:56 INC 24795099 28C03J WALDEN MANOR NURSING HOME, 41 MANCHESTER ROAD, WALKDEN MANChPSUER, M28 3WS Female 87Y Q.STROKE GRD 373924 402928<NUL>
-POCSAG512: Address:  114434  Function: 2  Alpha:   13:03-72 Please Respond to Station
-POCSAG1200: Address:  214093  Function: 2  Alpha:   13:03-27 09/12/2021 12:50:59 INC 24795055 06D04 120 ACCRINGTON ROAD, BLACKBURN, BB1 2AE Female 30Y CANT BREATH GRD 370172 428037
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   13:02-87 NHSBT - DONOR REFERRAL. Please call KIRSTEN MORRIS on Direct Dial Number 01925 662510 Hospital WARRINGTON GENERAL  Dept ICU  . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1022276  Function: 0  Alpha:   13:02-78 NHSBT - DONOR REFERRAL. Please call KIRSTEN MORRIS on Direct Dial Number 01925 662510 Hospital WARRINGTON GENERAL  Dept ICU  . Regards Donor Referral Line<NUL><NUL>
