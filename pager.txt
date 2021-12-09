@@ -1,3 +1,12 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0013091221+++TIME=0013091221<NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   00:13-23 4155<NUL>
+POCSAG1200: Address: 1322161  Function: 3  Alpha:   00:13-01 07376379222
+POCSAG2400: Address:  549123  Function: 2  Alpha:   00:12-49 5204<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   00:11-24 33459
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:11-24 09/12/2021 00:08:04 INC 24792483 06E01 56 NORTH PARK ROAD, BRAMHALL STOCKPORT, SK7 3LQ Female 41Y COVID POSITIVE - RESTRICTED BREATHING, ASTHMA GRD 389114 387040<NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   00:11-24 PROBLEM: Commvault Client Manager Service Instance001 is CRITICAL on host whehouloap01oni, <CR><LF>PROBLEM: Commvault Client Manager Service Instance001 is CRITICAL on host whehouloap01oni<CR><LF>Service: Commvault Client Manager Service Instance001<CR><LF>H<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   00:10-01 Nimble Alarm on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Thu Dec  9 00:10:16 2021<CR><LF><CR><LF>Object: SP.2.610653.1639008271CommVault<CR><LF>Status: Open<CR><LF>Acknowledged By: N/A<CR><LF>Acknowledged ti<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0008091221+++TIME=0008091221<NUL>
 POCSAG1200: Address:  776816  Function: 3 
 POCSAG1200: Address:  331769  Function: 2 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1155595  Function: 3
 POCSAG2400: Address: 1323100  Function: 2  Alpha:   20:32-44 NHSBT - DONOR REFERRAL. Please call LUCY - STAFF NURSE on Direct Dial Number 01472 874 111 ext 304567 Hospital DIANA PRINCESS OF WALES, GRI<CR><DC3>@X Dept INTENSIVE CARE . Regards Donor Referral Line
 POCSAG2400: Address: 1748722  Function: 0 
 POCSAG2400: Address: 1322785  Function: 2  Alpha:   20:32-13 NHSBT - DONOR REFERRAL. Please call LUCY - STAFF NURSE on Direct Dial Number 01472 874 111 ext 304567 Hospital DIANA PRINCESS OF WALES, GRIMSBY Dept INTENSIVE CARE . Regards Donor Referral Line
-POCSAG2400: Address: 1323103  Function: 2  Alpha:   20:32-75 NHSBT - DONOR REFERRAL. Please call LUC
-POCSAG2400: Address:  600826  Function: 0  Alpha:   20:32-37 WEEKLY PAGER TEST Hinkley Point B - Please Respond<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:30-30 4935<NUL>
-POCSAG1200: Address: 1545765  Function: 1 
-POCSAG1200: Address: 1746245  Function: 1 
-POCSAG1200: Address:  825764  Function: 3  Alpha:   N 
-POCSAG2400: Address: 1095186  Function: 2 
-POCSAG2400: Address: 1323933  Function: 2  Alpha:   20:30-19 AMBER: CROYDON AMB STN. 1x FRU ON FIRE IN STN YARD DUE TO FIREWORKS THROWN. LGM AND CTM ON WAY. MPS AND LFB ADVISED. PJC - TOC ODM<NUL>
-POCSAG2400: Address: 1031477  Function: 0 
