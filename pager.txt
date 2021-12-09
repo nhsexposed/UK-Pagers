@@ -1,3 +1,42 @@
+POCSAG2400: Address:  225375  Function: 2  Alpha:   08:54-27 Exercise message: please go to FDS building at HYB<NUL>
+POCSAG1200: Address:  721421  Function: 3 
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN><ETB><ACK>G
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  370474  Function: 3  Alpha:   jp
+POCSAG1200: Address:  200282  Function: 2 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   08:53-54 5201<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0853091221+++TIME=0853091221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0853091221+++TIME=0853091221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   08:52-72 5201<NUL>
+POCSAG2400: Address: 1858980  Function: 1  Alpha:   f<NAK>V<SYN>wv6<ACK>
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   08:51-32 09/12/2021 08:49:47 INC 24793843 10D01 2 CAMBERLEY DRIVE, HALEWOOD L25, L25 9PU Female 56Y F - LEG PAINFUL AND CHANGING COLOUR - TROUBLE BREATHING - CHEST PAIN GRD 343371 385944<NUL><NUL>
+POCSAG1200: Address:  325912  Function: 2 
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   08:51-56 INC ALERT No: 16904764 Cardiac Arrest -, AT: 6-10 ST PETERS ROAD, PARKSTONE POOLE, BH14 0PA, Time of Call: 09/12/2021 08:49:37, Co-ords: 50.725826 -1.9543529<NUL><NUL>
+POCSAG1200: Address: 1617964  Function: 3 
+POCSAG1200: Address:  742985  Function: 2  Alpha:   0<DC2><DC1><DLE><DC3>
+POCSAG1200: Address: 1686117  Function: 1 
+POCSAG1200: Address:  157848  Function: 1 
+POCSAG1200: Address: 1261709  Function: 1  Alpha:   >^:<STX><CR><ACK>:RB<SYN><STX>y,B&)A
+POCSAG1200: Address:  730251  Function: 3  Alpha:   1<DC1>H<DC4>U41<DC1>
+POCSAG1200: Address:  857250  Function: 2  Alpha:   <STX><DC2>
+POCSAG1200: Address: 1584714  Function: 0 
+POCSAG1200: Address:  557769  Function: 0  Alpha:   AN
+POCSAG1200: Address:  193512  Function: 0 
+POCSAG1200: Address: 1316439  Function: 1  Alpha:   O%(}<EOT>
+POCSAG1200: Address: 1186239  Function: 1 
+POCSAG1200: Address: 1683590  Function: 3  Alpha:   b<DC2>
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN><ETB><ACK>7<ACK><BEL>$
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  362282  Function: 3  Alpha:   z*
+POCSAG1200: Address:  200282  Function: 2 
+POCSAG1200: Address: 1409887  Function: 1  Alpha:   pd@g<DC2>
+POCSAG1200: Address:  200286  Function: 2 
+POCSAG1200: Address: 2044462  Function: 1 
+POCSAG1200: Address: 1321358  Function: 2  Alpha:   08:50-97 231457<NUL><NUL>
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   08:50-47 01616229870
+POCSAG1200: Address: 1594925  Function: 2  Alpha:   08:50-77 01616229870
+POCSAG1200: Address: 1594926  Function: 2  Alpha:   08:50-46 69001
 POCSAG1200: Address: 1204425  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0848091221+++TIME=0848091221<NUL>
 POCSAG1200: Address:  695980  Function: 2  Alpha:   08:48-49 09/12/2021 08:46:12 INC 24793830 31D04 19 GREENWAY ROAD, TIMPERLEY ALTRINCHAM, WA15 6BD Male 48Y M - BOOSTER JAB YESTERDAY - COLLAPSED IN BATHROOM - BREATHING HEAVILY GRD 377788 389813<NUL>
@@ -943,45 +982,6 @@ POCSAG2400: Address:       0  Function: 0
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address: 2026359  Function: 2 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
