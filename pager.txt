@@ -1,3 +1,12 @@
+POCSAG2400: Address:  549123  Function: 2  Alpha:   07:54-58 2343<NUL>
+POCSAG1200: Address:  267831  Function: 2  Alpha:   07:53-32 34
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1258970  Function: 2  Alpha:   07:52-27 33460
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1500150  Function: 2  Alpha:   07:51-07 09/12/2021 07:49:32 INC 24793636 06E01 40 RUSSELL COURT, LITTLE HULTON MANCHESTER, M38 9NP Male 79Y CUT ON HEAD - FOUND ON FLOOR GRD 373124 403378<NUL><NUL>
+POCSAG1200: Address:  930510  Function: 2  Alpha:   07:51-71 09/12/2021 07:49:32 INC 24793636 06E01 40 RUSSELL COURT, LITTLE HULTON MANCHESTER, M38 9NP Male 79Y CUT ON HEAD - FOUND ON FLOOR GRD 373124 403378<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   07:51-35 33945
+POCSAG1200: Address: 2076816  Function: 3 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   07:48-07 09/12/202u&07:41:38 INC 24793621 29D03V BEFORE BIRCH SERVICE, JUNCTION 19 TO 18 WESTBOUND, M62, OL9 9PP Unknown UnknownY LORRY VS CAR RTC GRD 383402 406398<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0748091221+++TIME=0748091221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address: 2074224  Function: 2
 POCSAG1200: Address:  948834  Function: 2 
 POCSAG1200: Address: 1321666  Function: 2  Alpha:   05:49-90 Destination: D105 SSC In\120, Booking Ref#: 804738, Vehicle: ku62bzg. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG2400: Address:  907121  Function: 1 
-POCSAG2400: Address:  386089  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   11705  Function: 0  Alpha:   05:46-82 STAFF NURSE FROM DARENT VALLEY HOSPITAL ON EXT 8035 ASAP <NUL><NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   05:46-34 29758
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 1075744  Function: 3 
-POCSAG1200: Address: 1031573  Function: 3  Alpha:   "r
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1031573  Function: 3  Alpha:   "r
