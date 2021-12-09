@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0803091221+++TIME=0803091221<NUL>
+POCSAG1200: Address: 1815069  Function: 2  Alpha:   A <EOT>`L
+POCSAG1200: Address: 1317665  Function: 2 
+POCSAG1200: Address: 1879680  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0803091221+++TIME=0803091221<NUL>
+POCSAG1200: Address:  997024  Function: 2 
+POCSAG1200: Address:  712768  Function: 3 
+POCSAG1200: Address: 1716644  Function: 2 
+POCSAG512: Address: 2026101  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  678665  Function: 2  Alpha:   08:00-16 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1044842  Function: 2  Alpha:   08:00-54 4442<NUL>
+POCSAG1200: Address: 2026613  Function: 2 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   07:59-36 33887
 POCSAG1200: Address:  183768  Function: 0  Alpha:   X<ESC>
 POCSAG1200: Address: 1220742  Function: 0  Alpha:   <ACK>&:N<STX><CR>J<DC2>zY<EOT>
 POCSAG1200: Address:  858134  Function: 0 
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1595863  Function: 0
 POCSAG2400: Address: 1322200  Function: 2  Alpha:   06:05-18 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
 POCSAG2400: Address: 1322232  Function: 2  Alpha:   06:05-09 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
 POCSAG2400: Address: 1242653  Function: 2  Alpha:   06:05-80 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address: 1322209  Function: 2  Alpha:   06:05-09 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address:  280119  Function: 0  Alpha:   =Y<FS>(l<FF>(4=Y<:y\"l<FF>h<DC3>4<DLE><DC3><VT>(<FF><BS>4p0<NAK>H<HT>(<FF>h<DLE>1<NAK><BS>*y|8<CAN>;<CAN>=z[;<LF>H<STX><NUL>
-POCSAG2400: Address: 1322230  Function: 2  Alpha:   06:05-37 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6
-POCSAG2400: Address: 1322306  Function: 2  Alpha:   06:05-62 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address: 1322252  Function: 2  Alpha:   06:05-40 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address: 1322213  Function: 2  Alpha:   06:05-53 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address: 1322637  Function: 2  Alpha:   06:05-24 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address: 1546219  Function: 1 
-POCSAG2400: Address:   41728  Function: 2  Alpha:   <ACK><HT><ESC>AP
-POCSAG2400: Address: 1322218  Function: 2  Alpha:   06:05-40 OPEL 3<LF>19 unplaced DTA's<LF>Bed state 0 Now 6 Later 13 Queries<LF>13 OPAL, 1 PACU & 1 CDU (escalation) <LF><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603091221+++TIME=0603091221<NUL>
-POCSAG2400: Address:  149253  Function: 2  Alpha:   06:03-21 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   06:03-77 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
-POCSAG1200: Address:   33724  Function: 2  Alpha:   06:03-52 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
