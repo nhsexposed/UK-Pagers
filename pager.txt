@@ -1,3 +1,21 @@
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN>R
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:54-25 2798<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653091221+++TIME=1653091221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653091221+++TIME=1653091221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28903  Function: 0  Alpha:   16:53-37 4166<NUL>
+POCSAG2400: Address: 1913799  Function: 2  Alpha:   16:52-27 4269<NUL>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   V<STX>
+POCSAG2400: Address: 1324051  Function: 2  Alpha:   16:52-33 AMBER: CONFERENCE CALL RE ONGOING RADIO ISSUES IN EOC AT 17:15 TEAMS INVITE TO FOLLOW ON EMAIL. DJG WM EOC SOUTH.  <NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:52-06 5201<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   16:51-29 2616<NUL>
+POCSAG1200: Address: 1248776  Function: 2 
+POCSAG2400: Address:  149113  Function: 2  Alpha:   16:50-34 5400<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   16:50-29 5204<NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   16:50-43 09/12/2021 16:44:35 INC 24796280 26D01 JUBELEE GARDENS - NEXT TO HERONS, UNION 
+POCSAG1200: Address: 1259618  Function: 2  Alpha:   16:50-26 012361-09122021; Haz Mat - Gas Involved; 136 GALE LANE,YORK,YO24 3AE; 457367,450638<NUL><NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:50-05 5201<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:49-71 4156<NUL>
 POCSAG2400: Address: 1913536  Function: 2  Alpha:   16:49-12 5204<NUL>
 POCSAG2400: Address: 1320058  Function: 2  Alpha:   16:49-04 This is a test page from Edinburgh OC. Please contact control to confirm receipt of this test. <NUL>
 POCSAG2400: Address:  150086  Function: 0  Alpha:   16:48-60 5066<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1594937  Function: 2  Alpha:   14:33-43 Dr Bond from, DCH M
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1433091221+++TIME=1433091221<NUL>
 POCSAG1200: Address:  619026  Function: 2  Alpha:   <ACK><DLE>
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   14:33-92 09/12/2021 14:32:23 INC 24795581 06E01 2 ROCKWELL ROAD, WEST DERBY L12, L12 4XZ Female 46Y ASTHMA CANT BREATHE PROPERLY GRD 340857 393537<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   14:33-53 33835
-POCSAG1200: Address: 1511995  Function: 3  Alpha:   TC
-POCSAG1200: Address:  619092  Function: 3  Alpha:   &b
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323879  Function: 2  Alpha:   14:31-19 4908<NUL>
-POCSAG2400: Address:  583600  Function: 2  Alpha:   14:31-80 74463
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   14:31-66 09/12/2021 14:29:47 INC 24795574 01D01 1 BLAINSCOUGH ROAD, COPPULL, PR7 5HD Male 79Y SUB CALL - ABDO PAIN GRD 356172 413711<NUL><NUL>
-POCSAG1200: Address:  420271  Function: 2  Alpha:   14:31-88 2066<NUL>
-POCSAG1200: Address:  346010  Function: 0  Alpha:   14:31-90 09/12/2021 14:29:47 INC 24795574 01D01 1 BLAINSCOUGH ROAD, COPPULL, PR7 5HD Male 79Y SUB CALL - ABDO PAIN GRD 356172 413711<NUL><NUL>
-POCSAG2400: Address: 1913643  Function: 2  Alpha:   14:30-85 3111<NUL>
-POCSAG1200: Address: 2023644  Function: 0 
-POCSAG1200: Address: 1031707  Function: 3  Alpha:   U$
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   C<DC2>
-POCSAG1200: Address: 1594926  Function: 2  Alpha:   14:29-56 688994<NUL><NUL>
-POCSAG1200: Address: 1594925  Function: 2  Alpha:   14:29-87 688994<NUL><NUL>^n<SO>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>l
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:29-56 3240<NUL>
-POCSAG2400: Address:  383625  Function: 0 
