@@ -1,3 +1,32 @@
+POCSAG1200: Address:  183768  Function: 0  Alpha:   X<ESC>
+POCSAG1200: Address: 1220742  Function: 0  Alpha:   <ACK>&:N<STX><CR>J<DC2>zY<EOT>
+POCSAG1200: Address:  858134  Function: 0 
+POCSAG1200: Address:  221339  Function: 2  Alpha:   07:59-35 09/12/0@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0758091221+++TIME=0758091221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0758091221+++TIME=0758091221<NUL>
+POCSAG1200: Address:   74035  Function: 1  Alpha:   AC
+POCSAG1200: Address: 1460626  Function: 0 
+POCSAG1200: Address:  630873  Function: 3 
+POCSAG1200: Address: 2043977  Function: 0 
+POCSAG1200: Address:   80288  Function: 1  Alpha:   W 
+POCSAG1200: Address: 1680183  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1246415  Function: 0 
+POCSAG1200: Address: 1578838  Function: 1 
+POCSAG1200: Address: 1993314  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   07:58-60 5201<NUL>
+POCSAG1200: Address:  723069  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  930547  Function: 2  Alpha:   07:56-27 09/12/2021 07:52:59 INC 24793645 09D01 9 RUDGRAVE PLACE, EGREMONT WALLASEY CH44, CH44 0EJ Male 29Y CANT BREATHE GRD 331677 392018<NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   07:56-12 09/12/2021 07:52:59 INC 24793645 09D01 9 RUDGRAVE PLACE, EGREMONT WALLASEY CH44, CH44 0EJ Male 29Y CANT BREATHE GRD 331677 392018<NUL><NUL>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   07:56-14 09/12/2021 07:54:45 INC 24793651 10D02 1 SHOREY BANK WAY, DARWEN BLACKBURN, BB3 1BX Male 85Y VOMITING, DIBN CHEST TIGHTNESS GRD 369059 422749<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   07:56-48 09/12/2021 07:52:48 INC 24793644 17A01E PRINCESS DOCK BRIDGE ACROSS THE QUAY, WILLIAM JESSOP WAY, LIVERPOOL, L3 1AN Female 60Y FALLEN ON STEPS GRD 333716 390800<NUL><NUL>
+POCSAG1200: Address:  197261  Function: 2 
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN><ETB>fV
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address: 1411882  Function: 3  Alpha:   fj
+POCSAG1200: Address:  226906  Function: 2 
+POCSAG1200: Address: 1534233  Function: 2  Alpha:   07:55-32 026788-09122021; T10.1 RTC Persons Trapped Small Vehicle BC3; 86 BITTERNE ROAD WEST,SOUTHAMPTON,SO18 1AP; 443650,113335; BOSS Mobile: https://bossd.nfcsp.org.uk<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   07:54-09 09/12/2021 07:53:01 INC 24793646 09E01 DALE HOUSE, THE MEADOWS, CADISHEAD MANCHESTER, M44 5AP Male 46Y NO RESPONSE GRD 371028 392555<NUL>
 POCSAG2400: Address:  549123  Function: 2  Alpha:   07:54-58 2343<NUL>
 POCSAG1200: Address:  267831  Function: 2  Alpha:   07:53-32 34
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -969,32 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603091221+++TIME=06
 POCSAG2400: Address:  149253  Function: 2  Alpha:   06:03-21 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
 POCSAG2400: Address: 1323475  Function: 2  Alpha:   06:03-77 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
 POCSAG1200: Address:   33724  Function: 2  Alpha:   06:03-52 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   06:03-98 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
-POCSAG1200: Address: 1313126  Function: 2  Alpha:   06:03-04 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   06:03-08 MRS HALL RE ALEX HALL, PLEASE CALL 01843 835 579 ASAP
-POCSAG1200: Address: 1321712  Function: 2  Alpha:   06:03-88 Destination: Parking\D78 Ext TP, Booking Ref#: 803910, Vehicle: fj65bdx. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:59-43 4188<NUL>
-POCSAG1200: Address:   91672  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0558091221+++TIME=0558091221<NUL>
-POCSAG1200: Address:  873952  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  325972  Function: 2  Alpha:   E 
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   05:56-63 3164<NUL>
-POCSAG2400: Address:  999721  Function: 0 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:55-42 3105<NUL>
-POCSAG2400: Address:   28920  Function: 0  Alpha:   05:55-07 2183<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0553091221+++TIME=0553091221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0553091221+++TIME=0553091221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   05:51-14 09/12/2021 05:50:54 INC 24793389 06E01 18 WESTERN CIRCLE, BURNAGE MANCHESTER, M19 1HH Male 75Y EMPHASEMIA DIB GRD 386921 392636<NUL>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   05:51-28 09/12/2021 05:50:54 INC 24793389 06E01 18 WESTERN CIRCLE, BURNAGE MANCHESTER, M19 1HH
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   05:51-82 09/12/2021 05:50:54 INC 24793389 06E01 18 WESTERN CIRCLE, BURNAGE MANCHESTER, M19 1HH Male 75Y EMPHASEMIA DIB GRD 386921 392636<NUL>
-POCSAG1200: Address:  323250  Function: 3 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:50-54 4399<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:49-41 4379<NUL>
-POCSAG2400: Address: 2074224  Function: 2 
-POCSAG1200: Address:  948834  Function: 2 
-POCSAG1200: Address: 1321666  Function: 2  Alpha:   05:49-90 Destination: D105 SSC In\120, Booking Ref#: 804738, Vehicle: ku62bzg. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG2400: Address:  907121  Function: 1 
