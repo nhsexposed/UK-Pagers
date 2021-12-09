@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1321666  Function: 2  Alpha:   05:49-90 Destination: D105 SSC In\120, Booking Ref#: 804738, Vehicle: ku62bzg. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address:  907121  Function: 1 
+POCSAG2400: Address:  386089  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   11705  Function: 0  Alpha:   05:46-82 STAFF NURSE FROM DARENT VALLEY HOSPITAL ON EXT 8035 ASAP <NUL><NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   05:46-34 29758
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address: 1075744  Function: 3 
 POCSAG1200: Address: 1031573  Function: 3  Alpha:   "r
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1090108  Function: 2  Alpha:   23:02-60 08/12/2021 22:58:45
 POCSAG2400: Address: 1324449  Function: 2  Alpha:   23:01-83 PLEASE CALL KINGS VIROLOGY ON 07890 251 939<NUL><NUL>
 POCSAG2400: Address:  185124  Function: 3 
 POCSAG2400: Address:  793778  Function: 3 
-POCSAG2400: Address: 1671937  Function: 0  Alpha:    <EM>
-POCSAG2400: Address:  214705  Function: 2 
-POCSAG2400: Address: 2026357  Function: 2 
-POCSAG2400: Address: 1069876  Function: 2 
-POCSAG2400: Address:  107355  Function: 1  Alpha:   bd
-POCSAG2400: Address: 1271386  Function: 2 
