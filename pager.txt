@@ -1,3 +1,58 @@
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   13:59-22 5072<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1358091221+++TIME=1358091221<NUL>
+POCSAG1200: Address: 1816972  Function: 2  Alpha:   13:58-07 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
+POCSAG1200: Address: 1032213  Function: 2  Alpha:   R@
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN><DC2>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   13:57-60 4398<NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   13:57-87 4262<NUL>
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN>R
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<DC1> L
+POCSAG1200: Address:  854034  Function: 2  Alpha:   ,.<FF>m,
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:57-49 Call or Calls waiting at Switchboard
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<CR>LL
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
+POCSAG1200: Address:  268048  Function: 2 
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
+POCSAG2400: Address:  826418  Function: 2 
+POCSAG2400: Address:   78432  Function: 2 
+POCSAG2400: Address:  396895  Function: 1  Alpha:   O%(<EOT><SUB>
+POCSAG2400: Address: 1069879  Function: 2 
+POCSAG2400: Address: 1416030  Function: 0  Alpha:   pf
+POCSAG2400: Address: 1147147  Function: 3  Alpha:   hhh<NUL><NUL>p<NAK>r XqAMi
+POCSAG2400: Address:   71242  Function: 3 
+POCSAG2400: Address:  826416  Function: 2 
+POCSAG2400: Address:   74119  Function: 0  Alpha:   NK`g<DC2>T'#
+POCSAG2400: Address:   78438  Function: 2 
+POCSAG2400: Address: 1069877  Function: 2 
+POCSAG2400: Address: 1416028  Function: 0  Alpha:   pd
+POCSAG2400: Address: 1254922  Function: 2 
+POCSAG2400: Address: 1324611  Function: 2  Alpha:   13:56-82 PLEASE <BS>
+POCSAG2400: Address: 1324601  Function: 2  Alpha:   13:56-82 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG1200: Address:   22062  Function: 2  Alpha:   13:56-30 2<NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   13:56-15 09
+POCSAG2400: Address: 1324600  Function: 2  Alpha:   13:56-83 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG2400: Address: 1324602  Function: 2  Alpha:   13:56-31 13:56-30 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG2400: Address: 1324604  Function: 2  Alpha:   13:56-84 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG2400: Address: 1008313  Function: 2  Alpha:   13:56-83 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG2400: Address: 1324606  Function: 2  Alpha:   13:56-82 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG2400: Address: 1008260  Function: 2  Alpha:   13:56-05 PLEASE CALL BANK OFFICE ON 0300 421 8444<NUL><NUL>
+POCSAG1200: Address: 1587042  Function: 0  Alpha:   <ACK>4
+POCSAG1200: Address: 1467090  Function: 0 
+POCSAG1200: Address: 1352769  Function: 1 
+POCSAG1200: Address: 1330591  Function: 0 
+POCSAG1200: Address: 1318054  Function: 2 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   13:56-91 09/12/2021 13:52:56 INC 2479
+POCSAG1200: Address: 1089773  Function: 2  Alpha:   13:56-(< 399u<DLE>
+POCSAG2400: Address: 1058994  Function: 2 
+POCSAG2400: Address: 1881161  Function: 3 
+POCSAG2400: Address:  163025  Function: 2 
+POCSAG2400: Address: 2022789  Function: 1  Alpha:   <NUL><EM>
+POCSAG2400: Address: 1913997  Function: 2  Alpha:   13:56-65 5160<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:55-99 5400<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:55-53 4283<NUL>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   13:54-57 4457<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address:   28870  Function: 0  Alpha:   13:54-73 PLEASE CALL AISHA TEL: 07719 6505 34
 POCSAG2400: Address:   28926  Function: 0  Alpha:   13:54-59 2317<NUL>
@@ -943,58 +998,3 @@ POCSAG1200: Address:  420501  Function: 3  Alpha:   6<STX>
 POCSAG1200: Address: 1512707  Function: 3  Alpha:   Fj
 POCSAG1200: Address: 1001124  Function: 2  Alpha:   12:18-92 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
 POCSAG1200: Address: 1001123  Function: 2  Alpha:   12:18-80 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address:   84343  Function: 0  Alpha:    CAg<DC2>
-POCSAG1200: Address:   78662  Function: 3 
-POCSAG1200: Address:  446501  Function: 2  Alpha:   XX
-POCSAG1200: Address: 1200829  Function: 1 
-POCSAG1200: Address:  156491  Function: 3  Alpha:   v0v2P<EM>Y,
-POCSAG1200: Address: 1552418  Function: 3  Alpha:   F<BS>
-POCSAG1200: Address: 1056937  Function: 1 
-POCSAG1200: Address: 1717065  Function: 3 
-POCSAG1200: Address:   90384  Function: 0  Alpha:   OR
-POCSAG1200: Address: 1438439  Function: 3  Alpha:   O%
-POCSAG1200: Address: 1529910  Function: 1  Alpha:   e<STX><LF>,E
-POCSAG1200: Address: 1877317  Function: 1 
-POCSAG1200: Address:   47829  Function: 1 
-POCSAG1200: Address:   66308  Function: 3  Alpha:   ''
-POCSAG1200: Address:  365739  Function: 3 
-POCSAG1200: Address: 1647970  Function: 2  Alpha:   <STX><EM>&J<SYN>
-POCSAG1200: Address:  723103  Function: 2  Alpha:   O%h<DC4>e
-POCSAG1200: Address:  938823  Function: 1 
-POCSAG1200: Address: 1282182  Function: 3  Alpha:   b@
-POCSAG1200: Address: 1449373  Function: 0  Alpha:   <CAN><DLE>
-POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address: 1155882  Function: 2  Alpha:   dr
-POCSAG1200: Address: 1148767  Function: 0  Alpha:   bh`g<DC2>
-POCSAG1200: Address: 1668195  Function: 1  Alpha:   <ACK><NUL>@+da<NAK>rp<LF>9h]E`dt
-POCSAG1200: Address: 1069258  Function: 1  Alpha:   <ETX>E
-POCSAG1200: Address:  948362  Function: 1 
-POCSAG1200: Address: 1282817  Function: 3 
-POCSAG1200: Address:  191241  Function: 3 
-POCSAG1200: Address: 1526968  Function: 0 
-POCSAG1200: Address: 1315441  Function: 3 
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   12:18-41 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address: 1312437  Function: 2  Alpha:   12:18-46 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address:  269456  Function: 3  Alpha:   UP
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   12:19-62 3246<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:18-19 5070<NUL>
-POCSAG2400: Address: 1913673  Function: 2  Alpha:   12:18-11 5212<NUL>
-POCSAG1200: Address: 1001131  Function: 2  Alpha:   12:18-43 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   12:18-48 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address: 1001133  Function: 2  Alpha:   12:18-47 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   12:18-56 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1218091221+++TIME=1218091221<NUL>
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   12:18-86 Adult Cardiac Arrest Plashet Ward NGH at 12:14<NUL><NUL>
-POCSAG1200: Address:  865416  Function: 3  Alpha:    IN CAR MALE IN VAN GRD 356693 418614
-POCSAG1200: Address: 1449368  Function: 0  Alpha:   <CAN><DLE>
-POCSAG1200: Address:  266855  Function: 1  Alpha:   v<SYN>gg<DC2>
-POCSAG1200: Address: 1349438  Function: 1 
-POCSAG1200: Address: 1032213  Function: 2  Alpha:   GD<SOH>dL
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   12:18-03 4313<NUL>
-POCSAG1200: Address: 1355672  Function: 3 
-POCSAG1200: Address:  839768  Function: 1 
-POCSAG1200: Address: 1713775  Function: 0  Alpha:   O%
-POCSAG1200: Address: 1329399  Function: 1 
-POCSAG1200: Address:  563718  Function: 3 
-POCSAG1200: Address:  222229  Function: 1  Alpha:   q<DC3>
