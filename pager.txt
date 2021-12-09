@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1978097  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0133091221+++TIME=0133091221<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:30-31 &<SYN>06<NUL>
+POCSAG2400: Address: 1468624  Function: 0 
 POCSAG2400: Address:  220128  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0128091221+++TIME=0128091221<NUL>
 POCSAG1200: Address:   41432  Function: 2  Alpha:   01:28-65 09/12/2021 01:21:57 INC 24792753 12D03 59 WESTMORLAND STREET, BURNLEY, bv!1 4PN Male 38Y MALE FITTING GRD 382929 432289
@@ -994,7 +998,3 @@ POCSAG1200: Address:  672786  Function: 3  Alpha:   l-
 POCSAG1200: Address: 1220737  Function: 0  Alpha:   <ACK>&:<STX><GS>
 POCSAG1200: Address:  158879  Function: 0  Alpha:   O%(<SYN>h<NUL>2q
 POCSAG1200: Address:  421535  Function: 1 
-POCSAG1200: Address: 1233285  Function: 0 
-POCSAG1200: Address:  190219  Function: 0 
-POCSAG1200: Address: 1258050  Function: 3  Alpha:   R><SUB><STX>5
-POCSAG1200: Address:  590992  Function: 3  Alpha:   g <STX><SYN><DLE>
