@@ -1,3 +1,24 @@
+POCSAG2400: Address:  433538  Function: 2  Alpha:   08:44-08 6630<NUL>
+POCSAG2400: Address: 1881334  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0843091221+++TIME=0843091221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0843091221+++TIME=0843091221<NUL>
+POCSAG1200: Address: 1312575  Function: 2  Alpha:   08:43-54 NOTIFY  DATE:     09.12.21    TIME: 0900 HRS  DPO B<SYN> AC WATTS DGC + NILO B<SYN> GC NOLAN - 07968832272 DSC B<SYN> SC PRIME - 07800621946   THANK YOU CONTROL  
+POCSAG1200: Address: 1652595  Function: 0 
+POCSAG1200: Address: 1594911  Function: 2  Alpha:   08:43-31 NOTIFY  DATE:     09.12.21    TIME: 0900 HRS  DPO B<SYN> AC WATTS DGC + NILO B<SYN> GC NOLAN - 07968832272 DSC B<SYN> SC PRIME - 07800621946   THANK YOU CONTROL  
+POCSAG1200: Address:  229785  Function: 0  Alpha:   h<HT>T<ENQ><EOT>v<SYN>g<ACK><BEL>7&&v&<ACK>D8:<BS>$h<STX>4:<BS><EOT>*<SUB>YY<BS>T<ENQ><EOT>v<ACK><BEL><ACK>f&<SYN><SYN>Gf<ACK><EOT><EOT>D<LF><EM>h9<HT><DC4>{Y<LF>4xiI*zI<HT><EOT><EOT>
+POCSAG1200: Address:  931119  Function: 2  Alpha:   08:42-46 NOTIFY  DATE:     09.12.21    TIME: 0900 HRS  DPO B<SYN> AC WATTS DGC + NILO B<SYN> GC NOLAN - 07968832272 DSC B<SYN> SC PRIME - 07800621946   THANK YOU CONTROL  
+POCSAG1200: Address: 1488072  Function: 2 
+POCSAG1200: Address: 1594916  Function: 2  Alpha:   08:42-22 NOTIFY  DATE:     09.12.21    TIME: 0900 HRS  DPO B<SYN> AC WATTS DGC + NILO B<SYN> GC NOLAN - 07968832272 DSC B<SYN> SC PRIME - 07800621946   THANK YOU CONTROL  
+POCSAG1200: Address: 1312580  Function: 2  Alpha:   08:42-24 NOTIFY  DATE:     09.12.21    TIME: 0900 HRS  DPO B<SYN> AC WATTS DGC + NILO B<SYN> GC NOLAN - 07968832272 DSC B<SYN> SC PRIME - 07800621946   THANK YOU CONTROL  
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1905153  Function: 0  Alpha:   08:42-55 4248<NUL>
+POCSAG1200: Address:  585632  Function: 2  Alpha:   08:42-46 PLS CALL LAUREN - 07835 175 13
+POCSAG1200: Address:  961932  Function: 0  Alpha:   \<FS><SUB><DLE>Z<CAN><FS>[[<SUB><NUL>
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address: 1102104  Function: 2 
+POCSAG1200: Address: 1087088  Function: 1 
+POCSAG2400: Address: 1322778  Function: 2  Alpha:   08:41-00 NHSBT - DONOR REFERRAL. Please call DR THOMAS GERROM  on Direct Dial Number 07771897959 Hospital BRISTOL ROYAL INFIRMARY  Dept CHILDRENS - PICU  . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1992563  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0838091221+++TIME=0838091221<NUL>
 POCSAG1200: Address: 1672813  Function: 2  Alpha:   2P
 POCSAG1200: Address:  758805  Function: 2 
@@ -971,27 +992,6 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address: 1975270  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  852000  Function: 1 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
