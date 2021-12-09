@@ -1,3 +1,34 @@
+POCSAG1200: Address:  334075  Function: 2  Alpha:   02:39-65 09/12/2021 02:35:40 INC 24792977 23D01I 48A FELTWOOD ROAD, WEST DERBY L12, L12 6RQ Male 46Y OVERDOES X30 TABLE GRD 341672 393439
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:38-33 4935<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0238091221+++TIME=0238091221<NUL>
+POCSAG2400: Address: 1022648  Function: 0  Alpha:   02:38-35 PRIMARY PCI
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0238091221+++TIME=0238091221<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   02:37-47 09/12/2021 02:34:11 INC 24792971 23C06I 11 CHEVERTON CLOSE, WOODCHURCH BIRKENHEAD, CH49 8JN Female 18Y OD GRD 327871 38'<STX>12<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1058792  Function: 1 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   02:35-23 PROBLEM: Netscaler vServe
+POCSAG2400: Address:  361771  Function: 2 
+POCSAG2400: Address:  520152  Function: 1 
+POCSAG2400: Address:  929518  Function: 0 
+POCSAG1200: Address: 1682267  Function: 1  Alpha:   hj
+POCSAG1200: Address:  206426  Function: 3 
+POCSAG1200: Address: 1349439  Function: 1  Alpha:   O%
+POCSAG1200: Address:  629550  Function: 2  Alpha:   jp
+POCSAG1200: Address:  206430  Function: 3 
+POCSAG1200: Address: 1075676  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address: 1674075  Function: 1  Alpha:   `b
+POCSAG1200: Address:  206410  Function: 3 
+POCSAG1200: Address:   80154  Function: 1 
+POCSAG1200: Address: 1275629  Function: 3 
+POCSAG1200: Address: 1122491  Function: 0 
+POCSAG1200: Address:  631441  Function: 3 
+POCSAG1200: Address: 1316632  Function: 1  Alpha:   H<LF>
+POCSAG1200: Address: 1704998  Function: 3  Alpha:   W'
+POCSAG1200: Address:  437853  Function: 1  Alpha:   H<BS>
+POCSAG1200: Address: 1021740  Function: 3 
+POCSAG1200: Address:  660498  Function: 1  Alpha:   19<ESC><CAN>;<EM>(.$<SYN>h
+POCSAG1200: Address: 1251745  Function: 0  Alpha:   <ETX>"
+POCSAG1200: Address: 1877632  Function: 0 
 POCSAG2400: Address: 1424484  Function: 2 
 POCSAG2400: Address: 1283738  Function: 2  Alpha:   r1Z7y<ACK>61
 POCSAG1200: Address:  269168  Function: 2  Alpha:   02:32-18 09/12/2021 02:31:39 INC 24792967 10D04 9 THURSBY ROAD, NELSON, BB9 8LR Female 37Y CHEST PAIN LEFT ARM PAIN GRD 386543 438570<NUL>
@@ -967,34 +998,3 @@ POCSAG2400: Address: 1323200  Function: 2  Alpha:   21:47-86 07890251939
 POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  707598  Function: 1  Alpha:   9<BS>
 POCSAG2400: Address:   28895  Function: 0  Alpha:   21:46-90 4167<NUL>
-POCSAG2400: Address:  926176  Function: 1 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   21:45-11 4167<NUL>
-POCSAG2400: Address:   28904  Function: 0  Alpha:   21:44-60 5400<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2143081221+++TIME=2143081221<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:43-89 Please call Marjorie warren ward on 33301.
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:43-26 3157<NUL>
-POCSAG512: Address:  603080  Function: 3 
-POCSAG1200: Address:   40088  Function: 2  Alpha:   21:42-21 31761 WARD 5B <NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:40-35 2233<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   21:40-88 08/12/2021 21:38:52 INC 24791892 31D01 Leighton Hospital Crewe Cheshire -, GENERAL AREA OF, LEIGHTON CREWE, CW1 4QJ Female 53Y PT CURRENTLY BEING INTUBATED GRD 368189 357846
-POCSAG1200: Address: 1749113  Function: 2 
-POCSAG1200: Address:  678610  Function: 2  Alpha:   21:39-73 PLEASE CALL HAIRMYRES HELP DES
-POCSAG1200: Address: 1912992  Function: 2  Alpha:   Jt<FS><EOT><DC2>#;K<VT>CC;<ETX><STX>3+<EOT><VT><ETX><SUB>+<ETX>j<FF>d$E|,<GS>-<EOT>:<CR>Le<STX><STX>-t<}<DC4>%E<FF>ld<STX><STX><NAK><CR><ETX>JC,<EOT>2,n<SO>f.<ACK>B<DC3>K<ENQ><SUB>|<EOT>%<EOT>"L<DC4><EOT>:<DC4>%<EOT><SUB>+<DC3>;<ETX>;<ETX>"<DC3>;<DC3>;C<ETX><NUL><NUL>
-POCSAG1200: Address: 1686319  Function: 2  Alpha:   hp`g<DC2>
-POCSAG1200: Address: 1263198  Function: 2 
-POCSAG1200: Address: 1073628  Function: 2  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX>
-POCSAG1200: Address:  692018  Function: 1 
-POCSAG1200: Address:       2  Function: 1 
-POCSAG1200: Address: 1275417  Function: 3 
-POCSAG1200: Address: 1461721  Function: 0 
-POCSAG1200: Address:  907280  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138081221+++TIME=2138081221<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   21:38-39 4312<NUL>
-POCSAG1200: Address: 1469042  Function: 1 
-POCSAG1200: Address: 1748722  Function: 0 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   21:35-08 4167<NUL>
-POCSAG1200: Address: 2064096  Function: 2  Alpha:   f<ACK>ab@<FF><VT><GS><BEL><VT>A<SO><ETX>)<VT>A<CAN><US><HT><SI><VT>Y@PjrfR@.<DC1><VT><ETX>)<EM><VT>3A<CAN><ETX><GS><VT>A$<US><ETX><HT>Y@<FF><VT><GS><BEL><VT>A<FS>%A<EOT>+%<GS><EM><VT>3Y@<EOT><ENQ>cd@r<LF>!A<SUB>CYKAh`2A<BS><DC3><ETX><ENQ><VT>)<DC3><BEL>AZ@<SO>%<HT>Afpdhdr@hfn`rd<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   21:35-77 08/12/2021 21:34:24 INC 24791872 
-POCSAG1200: Address: 1511903  Function: 0 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:34-33 3157<NUL>
