@@ -1,3 +1,10 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   06:29-34 Call or Calls waiting at Switchboard
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0628091221+++TIME=0628091221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0628091221+++TIME=0628091221<NUL>
+POCSAG1200: Address:  950833  Function: 1 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   06:26-62 4694<NUL>
+POCSAG1200: Address: 1615433  Function: 3 
+POCSAG1200: Address:  664649  Function: 0 
 POCSAG1200: Address:  339864  Function: 0 
 POCSAG1200: Address: 1246621  Function: 1  Alpha:   ^.
 POCSAG1200: Address:  625980  Function: 0  Alpha:   <GS>L
@@ -991,10 +998,3 @@ POCSAG2400: Address: 1324611  Function: 2  Alpha:   23:35-80 PLEASE CALL GARY DO
 POCSAG2400: Address: 1324601  Function: 2  Alpha:   23:35-80 PLEASE CALL GARY DOBSON ON 07773 034 354<NUL><NUL>
 POCSAG2400: Address: 1324600  Function: 2  Alpha:   23:35-81 PLEASE CALL GARY DOBSON ON 07773 034 354<NUL><NUL>
 POCSAG2400: Address: 1324604  Function: 2  Alpha:   23:35-82 PLEASE CALL GARY DOBSON ON 07773 034 354<NUL><NUL>
-POCSAG2400: Address: 1324607  Function: 2  Alpha:   23:35-80 PLEASE CALL GARY DOBSON ON 07773 034 354<NUL><NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   23:35-29 PLEASE CALL SEU TRIAGE ON 2323
-POCSAG2400: Address:  216251  Function: 2  Alpha:   23:34-19 PROBLEM: Commvault Client Manager Service Instance001 is CRITICAL on host whehouloap01oni, <CR><LF>PROBLEM: Commvault Client Manager Service Instance001 is CRITICAL on host whehnp~oap01oni<CR><LF>Service: Commvault Client Manager Service Instance001<CR><LF>H<NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   23:34-08 PROBLEM: Commvault Client Manager Service Instance001 is CRITICAL on host whehouloap01oni, <CR><LF>PROBLEM: Commvault Client Manager Service Instance001 is CRITICAL on host whehouloap01oni<CR><LF>Service: Commvault Client Manager Service Instance001<CR><LF>H<NUL><NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:34-31 2097<NUL>
-POCSAG1200: Address: 2007161  Function: 0 
-POCSAG1200: Address: 2065525  Function: 0 
