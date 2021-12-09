@@ -1,3 +1,9 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0433091221+++TIME=0433091221<NUL>
+POCSAG1200: Address: 1781946  Function: 2  Alpha:   04:31-68 Primary PCI Call, Cath Lab ETA *05* Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)<NUL>
+POCSAG1200: Address: 1022128  Function: 2 
+POCSAG1200: Address:  202335  Function: 3 
+POCSAG1200: Address:  993286  Function: 0  Alpha:   v<EOT>
+POCSAG1200: Address: 1098693  Function: 1  Alpha:   egA<DLE>_gaSiCYgS<NUL>
 POCSAG2400: Address:  447912  Function: 1  Alpha:   <NAK>jDfb<RS><CAN><SUB>Y<EM>X\<CAN><EM>
 POCSAG2400: Address:  825648  Function: 2 
 POCSAG2400: Address: 1586415  Function: 0  Alpha:   O%
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1817185  Function: 2  Alpha:   2"
 POCSAG1200: Address: 1565498  Function: 2  Alpha:   22:41-67 08/12/2021 22:40:25 INC 24792157 06E01 20 PENNINGTON AVENUE, ORMSKIRK, L39 1NQ Female 85Y COPD - DIB GRD 341441 408583<NUL>
 POCSAG1200: Address:   40074  Function: 2  Alpha:   22:41-68 08/12/2021 22:38:49 INC 24792154 26O01 RATCLIFFE TOWERS - 94, GENERAL AREA OF, STOCKPORT, SK1 3PD Male 20Y GUM ABSESS GETTING BIGGER GRD 389760 389824
 POCSAG2400: Address:   28916  Function: 0  Alpha:   22:40-35 4166<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2238081221+++TIME=2238081221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1959543  Function: 2 
-POCSAG2400: Address: 1913691  Function: 2  Alpha:   22:35-98 9509<NUL>
-POCSAG2400: Address:  216736  Function: 2  Alpha:   22:34-13 PLEASE CALL STAFFORDSHIRE POLICE ON 101 RE 685 OF 08/12/21<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2233081221+++TIME=2233081221<NUL>
