@@ -1,3 +1,20 @@
+POCSAG1200: Address:  618313  Function: 3  Alpha:   &b
+POCSAG2400: Address: 1761439  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1533091221+++TIME=1533091221<NUL>
+POCSAG1200: Address:  549765  Function: 2  Alpha:   15:33-38 ~TEST MESSAGE
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   15:32-26 4387<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   15:32-98 4163<NUL>
+POCSAG1200: Address: 1015418  Function: 3  Alpha:   V<NUL>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   15:32-32 NEUTRON ALARM SITE 116A PLS CALL - 01407 764 056 <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:31-87 4933<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:31-56 33954
+POCSAG1200: Address:  597706  Function: 2 
+POCSAG1200: Address: 1749737  Function: 3 
+POCSAG2400: Address: 1322734  Function: 2  Alpha:   15:30-22 (2/2) TRAPPED SMALL VEHICLE Map ref  424954,251993 
+POCSAG1200: Address: 1031774  Function: 3  Alpha:   b<STX>
+POCSAG1200: Address: 1031805  Function: 3  Alpha:   b<STX>
+POCSAG1200: Address: 1601768  Function: 1 
 POCSAG1200: Address: 1090118  Function: 2  Alpha:   15:29-18 33458
 POCSAG1200: Address: 1494127  Function: 0 
 POCSAG1200: Address:  891318  Function: 2 
@@ -981,20 +998,3 @@ POCSAG1200: Address:  708646  Function: 3  Alpha:   <CAN>H
 POCSAG1200: Address: 1377476  Function: 2  Alpha:   rv0v2P[[$<DLE>#
 POCSAG1200: Address:  285227  Function: 0 
 POCSAG1200: Address:  630866  Function: 3  Alpha:   <FS><ESC>
-POCSAG1200: Address: 1582698  Function: 1 
-POCSAG1200: Address: 1889697  Function: 1  Alpha:   , 
-POCSAG1200: Address:   92992  Function: 3 
-POCSAG1200: Address:  470559  Function: 3  Alpha:   O%h$<ENQ>
-POCSAG1200: Address: 1149062  Function: 3  Alpha:   h@jj@
-POCSAG1200: Address: 1477725  Function: 0  Alpha:   <CAN>P
-POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>
-POCSAG1200: Address: 1349435  Function: 1 
-POCSAG1200: Address:  100138  Function: 3  Alpha:   `h
-POCSAG1200: Address: 1075672  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
-POCSAG1200: Address:  108383  Function: 0  Alpha:   pd@g<DC2>
-POCSAG1200: Address:  538222  Function: 0  Alpha:   X<EM>
-POCSAG1200: Address:  429468  Function: 0 
-POCSAG1200: Address:  367220  Function: 2 
-POCSAG1200: Address: 1732963  Function: 0 
-POCSAG1200: Address: 1188018  Function: 1  Alpha:   ]Y
-POCSAG1200: Address:  315721  Function: 0  Alpha:    G
