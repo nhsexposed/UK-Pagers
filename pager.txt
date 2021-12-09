@@ -1,3 +1,49 @@
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>B
+POCSAG1200: Address: 1058636  Function: 2  Alpha:   16:03-55 09/12/2021 16:00:43 INC 24796051 17D05 39, CHATSWORTH ROAD, MORECAMBE, LA4 4JQ Male 62Y FALLEN GRD 342741 463624<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603091221+++TIME=1603091221<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:03-04 4311<NUL>
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   F<EM>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><DC3>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   v<SO>
+POCSAG1200: Address:  420485  Function: 3  Alpha:   F<DC2>
+POCSAG1200: Address: 1562596  Function: 2  Alpha:   16:03-27 2201<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   &"
+POCSAG1200: Address:  598509  Function: 3 
+POCSAG1200: Address:  585566  Function: 2  Alpha:   16:02-89 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: dg65axp. If no more Booking Ref tg<DC2>T<CR>T
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  306187  Function: 2  Alpha:   16:02-89 3290<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   16:01-78 3504<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-24 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address: 2025456  Function: 1 
+POCSAG1200: Address:  696528  Function: 2  Alpha:   16:00-52 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   16:00-44 09/12/2021 15:58:03 INC 24796032 17A02E O/S, 11 PRINCES PLACE, WIDNES WA8, WA8 7NJ Female 88Y FALL GRD 350118 386435
+POCSAG1200: Address:  615225  Function: 0 
+POCSAG1200: Address: 1288323  Function: 2  Alpha:   b@h@<STX>
+POCSAG1200: Address: 1410863  Function: 3  Alpha:   O%(1~
+POCSAG1200: Address: 1075677  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX>+S
+POCSAG1200: Address:   99164  Function: 1  Alpha:   dh
+POCSAG1200: Address:  856699  Function: 0  Alpha:   <CAN><ESC>
+POCSAG1200: Address:  726532  Function: 1  Alpha:   WHC+da<NAK>rp<LF>98m<FF>
+POCSAG1200: Address: 1814762  Function: 3 
+POCSAG1200: Address: 1469642  Function: 0 
+POCSAG1200: Address: 1352769  Function: 1 
+POCSAG1200: Address:  313712  Function: 0  Alpha:   G 
+POCSAG1200: Address: 1147472  Function: 3 
+POCSAG1200: Address:  296239  Function: 2  Alpha:   O%
+POCSAG1200: Address:  868876  Function: 0 
+POCSAG1200: Address:  789300  Function: 3 
+POCSAG1200: Address:  280931  Function: 2 
+POCSAG1200: Address: 1123730  Function: 0  Alpha:   1<SOH>
+POCSAG1200: Address:  206120  Function: 3  Alpha:   2Q
+POCSAG1200: Address: 1476640  Function: 2 
+POCSAG1200: Address:  891439  Function: 0  Alpha:   O%
+POCSAG1200: Address: 1355871  Function: 2 
+POCSAG1200: Address: 1288323  Function: 2  Alpha:   b@h@<STX>
+POCSAG1200: Address:  266849  Function: 1  Alpha:   v<SYN>g<ACK>6f<ACK><EOT>
+POCSAG1200: Address: 1349432  Function: 1 
+POCSAG1200: Address:  945628  Function: 1 
+POCSAG1200: Address:  789300  Function: 0 
+POCSAG1200: Address: 1352770  Function: 1 
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:59-19 4114<NUL>
 POCSAG2400: Address: 1913979  Function: 2  Alpha:   15:59-86 2619<NUL>
 POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
@@ -952,49 +998,3 @@ POCSAG1200: Address:  150500  Function: 2  Alpha:    "
 POCSAG1200: Address: 1494105  Function: 1  Alpha:   <SUB><DLE>
 POCSAG1200: Address: 1330703  Function: 2 
 POCSAG1200: Address: 1330702  Function: 2 
-POCSAG1200: Address: 1330702  Function: 2 
-POCSAG2400: Address: 1913673  Function: 2  Alpha:   13:46-13 4906<NUL>
-POCSAG1200: Address:   69146  Function: 2 
-POCSAG1200: Address:  210761  Function: 3 
-POCSAG1200: Address: 1747275  Function: 0  Alpha:   "<STX>
-POCSAG1200: Address:  371549  Function: 0  Alpha:   db
-POCSAG2400: Address: 2074420  Function: 1 
-POCSAG2400: Address: 1913721  Function: 2  Alpha:   13:45-41 4418<NUL>
-POCSAG2400: Address: 1913798  Function: 2  Alpha:   13:45-85 5070<NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   13:44-60 4262<NUL>
-POCSAG1200: Address: 2011869  Function: 1 
-POCSAG1200: Address:  428347  Function: 2  Alpha:   13:44-21 09/12/2021 13:41:28 INC 24795325 09E01 KIRKBY TOWN CENTRE BUS STATION, CHERRYFIELD DRIVE, SOUTHDENE KIRKBY L32, L32 8RX Unknown UnknownY FOUND ON BUS GRD 341079 398690<NUL>
-POCSAG1200: Address:  619457  Function: 0  Alpha:   )<SYN>
-POCSAG1200: Address:  267672  Function: 0  Alpha:   y)
-POCSAG1200: Address: 1134903  Function: 1  Alpha:   g<DC2>
-POCSAG1200: Address:  413140  Function: 2  Alpha:   13:44-19 Web 18 test
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address: 1487684  Function: 2  Alpha:   13:44-83 call on  69000<NUL><NUL>
-POCSAG1200: Address:  679608  Function: 2  Alpha:   13:44-53 call on  69000<NUL><NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:44-61 09/12/2021 13:41:51 INC 24795328 31D04 49 HUFLING LANE, BURNLEY, BB11 3QH Female 85Y FALL GRD 384651 431593<NUL>
-POCSAG2400: Address:  825648  Function: 2 
-POCSAG2400: Address: 1718182  Function: 0  Alpha:   MQ
-POCSAG2400: Address:  353502  Function: 1 
-POCSAG2400: Address: 2045733  Function: 2  Alpha:   UU
-POCSAG1200: Address:  696060  Function: 2  Alpha:   13:43-23 3<NUL>
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address: 1511888  Function: 2  Alpha:   <SYN>&
-POCSAG1200: Address: 1321709  Function: 2 
-POCSAG1200: Address:  174993  Function: 0 
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   13:42-98 09/12/2021 13:39:11 INC 24795312 10D05 JAH JIREH REST HOME, 127-131 READS AVENUE, BLACKPOOL, FY1 4JH Female 76Y CHEST PAIN AND PAIN IN HEAD GRD 331497 435896<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1032517  Function: 3  Alpha:   6<NUL>
-POCSAG1200: Address:   80161  Function: 3  Alpha:   <DLE>,H<FF><DC4>r0f
-POCSAG1200: Address:  334075  Function: 2  Alpha:   13:41-04 09/12/2021 13:38:28 INC 24795306 06E01 57 HEATH LANE, BOUGHTON CHESTER CH3, CH3 5SX Male 66Y BREATHING PROBLEMS - HF - NEEDS 02 GRD 342371 365696
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:41-19 09/12/2021 13:38:28 INC 24795306 06E01 57 HEATH LANE, BOUGHTON CHESTER CH3, CH3 5SX Male 66Y BREATHING PROBLEMS - HF - NEEDS 02 GRD 342371 365696
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   13:40-96 4289<NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   13:40-46 EXT 6810 -PATIENT REFERRAL <NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:40-51 4283<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   13:40-47 2427<NUL>
-POCSAG1200: Address: 1446705  Function: 2 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   13:40-29 09/12/2021 13:32:46 INC 24795277 31D04 OS ICELAND, VICTORIA ROAD WEST, THORNTON CLEVELEYS, FY5 1AJ Male 80Y COLLAPSED GRD 331563 442871<NUL>
-POCSAG1200: Address:  678458  Function: 2  Alpha:   13:40-18 09/12/2021 13:32:46 INC 24795277 31D04 OS ICELAND, VICTORIA ROAD WEST, THORNTON CLEVELEYS, FY5 1AJ Male 80Y COLLAPSED GRD 331563 442871<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:39-98 4399<NUL>
-POCSAG1200: Address: 1761879  Function: 0 
-POCSAG1200: Address: 1028412  Function: 0  Alpha:    SK10 1GE Female 29Y overdose GRD 392057 373827<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   5J
