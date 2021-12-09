@@ -1,3 +1,42 @@
+POCSAG2400: Address: 1790000  Function: 0 
+POCSAG1200: Address:  696530  Function: 2 
+POCSAG1200: Address: 2036144  Function: 2 
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   12:13-07 09/12/2021 12:11:43 INC 24794833 GOING OVER THE M62, WINWICK ROAD, WARRINGTON WA2, WA2 8QJ Male UnknownY male - rtc elderly male unconcious not breathing currently 3 shock no change GRD 360411 391686
+POCSAG512: Address:  273040  Function: 3  Alpha:   BB<STX>CBF Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323200  Function: 2  Alpha:   12:12-92 Good Afternoon, LODST CC on ELSE number please. TT<NUL>
+POCSAG1200: Address:   80161  Function: 3  Alpha:   "<DLE>
+POCSAG2400: Address: 1127312  Function: 3  Alpha:   "<DLE><ETB>z4
+POCSAG2400: Address: 1078131  Function: 3 
+POCSAG2400: Address: 1323214  Function: 2  Alpha:   12:12-34 Good Afternoon, LODST CC on ELSE number please. TT<NUL>
+POCSAG2400: Address: 1323183  Function: 2  Alpha:   12:12-82 Good Afternoon, LODST CC on ELSE number please. TT<NUL>
+POCSAG2400: Address: 1323218  Function: 2  Alpha:   12:12-80 Good Afternoon, LODST CC on ELSE number please. TT<NUL>
+POCSAG2400: Address: 1323237  Function: 2  Alpha:   12:12-82 Good Afternoon, LODST CC on ELSE number please. TT<NUL>
+POCSAG1200: Address:  696528  Function: 2  Alpha:   12:12-49 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   &<ACK>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1761307  Function: 3  Alpha:   E<STX>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   <ACK>o
+POCSAG2400: Address: 1324072  Function: 2  Alpha:   12:11-56 SEL 111 is in DMP4 front end escalation - For more information please call us on 02082536951 or 07557565895. SEL OPs SK
+POCSAG2400: Address: 1324054  Function: 2  Alpha:   12:11-58 SEL 111 is in DMP4 front end escalation - For more information please call us on 02082536951 or 07557565895. SEL OPs SK
+POCSAG2400: Address: 1323926  Function: 2  Alpha:   12:11-15 SEL 111 is in DMP4 front end escalat
+POCSAG2400: Address: 2074230  Function: 2 
+POCSAG1200: Address:  354249  Function: 2  Alpha:   SEL 111 is in DMP4 front end escalation - For more information please call us on 02082536951 or 07557565895. SEL OPs SK
+POCSAG1200: Address:   42847  Function: 2  Alpha:   12:11-50 4438<NUL>
+POCSAG1200: Address: 1818193  Function: 2 
+POCSAG1200: Address:  585568  Function: 2  Alpha:   12:11-04 SEL 111 is in DMP4 front end escalation - For more information please call us on 02082536951 or 07557565895. SEL OPs SK
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:10-88 5179<NUL>
+POCSAG1200: Address:  212202  Function: 3  Alpha:   <ACK>b
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   12:10-61 4660<NUL>
+POCSAG1200: Address:  363815  Function: 2  Alpha:   12:10-99 6242<NUL>
+POCSAG1200: Address:  269111  Function: 2  Alpha:   12:09-08 09/12/2021 12:05:26 INC 24794796 10D01 37 SHAKESHAFT STREET, AUDLEY BLACKBURN, BB1 1JT Female 67Y SUSPECTED HEART ATTACK GRD 369371 427867<NUL>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:  592285  Function: 1  Alpha:   X<BS>
+POCSAG2400: Address:  629925  Function: 0 
+POCSAG2400: Address: 1405571  Function: 2 
+POCSAG2400: Address:  156879  Function: 1 
+POCSAG2400: Address: 1316382  Function: 0 
+POCSAG2400: Address: 1069886  Function: 1 
+POCSAG2400: Address:   57732  Function: 0  Alpha:   <CAN><EM>
 POCSAG2400: Address:   28870  Function: 0  Alpha:   12:08-72 PLEASE CALL TEL: 07742 527 137
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   12:08-60 3508<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1208091221+++TIME=1208091221<NUL>
@@ -959,42 +998,3 @@ POCSAG1200: Address: 1052820  Function: 2  Alpha:   10:28-49 09/12/2021 10:25:48
 POCSAG1200: Address:  200975  Function: 3 
 POCSAG1200: Address:  918942  Function: 2 
 POCSAG1200: Address:  158436  Function: 2  Alpha:   A<BS><VT><ESC><VT><GS>)<DC3><ETX>A<SO>%<HT>Afhfj`h@hbhb`p<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1028091221+++TIME=1028091221<NUL>
-POCSAG1200: Address:  267831  Function: 2  Alpha:   10:28-39 24
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
-POCSAG2400: Address:  549105  Function: 2  Alpha:   10:28-73 REGARDING DONOR 153306, READING ROYAL BERKSHIRE HOSPITAL, DOB 07.03.1988, THE NORS TEAM WILL BE ARRIVING AT 14:30. THANK YOU.
-POCSAG2400: Address:  549110  Function: 2  Alpha:   10:28-79 REGARDING DONOR 153306, READING ROYAL BERKSHIRE HOSPITAL, DOB 07.03.1988, THE NORS TEAM WILL BE ARRIVING AT 14:30. THANK YOU.
-POCSAG2400: Address:  549111  Function: 2  Alpha:   10:28-95 REGARDING DONOR 153306, READING ROYAL BERKSHIRE HOSPITAL, DOB 07.03.1988, THE NORS TEAM WILL BE ARRIVING AT 14:30. THANK YOU.
-POCSAG2400: Address:   28893  Function: 0  Alpha:   10:28-61 5202<NUL>
-POCSAG2400: Address: 1323880  Function: 2  Alpha:   10:28-68 4535<NUL>
-POCSAG1200: Address: 1749846  Function: 2 
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   10:27-41 09/12/2021 10:25:56 INC 24794270 26C02 63 PENMANN CRESCENT, HALEWOOD L26, L26 0UF Female 76Y KIDNEY PAIN - GONE FUNNY COLOUR GRD 344885 385485
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   10:26-48 4157<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>
-POCSAG2400: Address: 1389793  Function: 2 
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   10:26-41 4312<NUL>
-POCSAG1200: Address:  197437  Function: 3  Alpha:   <DLE><FF><FF><DC2>#<ACK>1f
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:25-51 3576<NUL>
-POCSAG2400: Address: 2082600  Function: 0 
-POCSAG2400: Address: 1032492  Function: 3  Alpha:   gH
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   10:24-16 3508<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   10:24-34 09/12/2021 10:22:53 INC 24794250 17A01 55 ASCOT AVENUE, SALE, M33 4QT Female 77Y FALLEN GRD 376594 391136
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:24-13 2300<NUL>
-POCSAG1200: Address:  269354  Function: 3  Alpha:   <SYN>@
-POCSAG1200: Address:  873125  Function: 0  Alpha:   <EOT>:
-POCSAG1200: Address: 1790220  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1023091221+++TIME=1023091221<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:23-75 09/12/2021 10:21:30 INC 24794247 31D04 201 FAIRFIELD ROAD, MIDDLETON MANCHESTER, M24 4FQ Female 75Y KEEPS LOSING CONSCIOUSNESS GRD 386099 406481<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1248193  Function: 2 
-POCSAG2400: Address: 1322742  Function: 2  Alpha:   10:22-69 015665-08122021; WFRS Crew Availability; FS02 Service Control Fire and Rescue HQ,Warwick Street,Leamington Spa,CV32 5LH; 431441,266044<NUL><NUL>`=<DEL>O><ESC>b0,
-POCSAG2400: Address: 1322742  Function: 2  Alpha:   10:22-68 09.12.21
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  420221  Function: 2  Alpha:   10:22-75 FYI - 18P1 OFF THE RUN FOR REPAIR
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:22-50 4554<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:21-37 4283<NUL>
-POCSAG1200: Address: 1058636  Function: 2  Alpha:   10:21-50 09/12/2021 10:17:03 INC 24794229 09E01 34 WALTON AVENUE, BARE MORECAMBE, LA4 6SH Female 98Y UNRESPOSNIVE GRD 345628 464303
-POCSAG1200: Address:  693426  Function: 2 
