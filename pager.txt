@@ -1,3 +1,35 @@
+POCSAG1200: Address:  413130  Function: 2  Alpha:   12:59-23 (2/2) Assigned: JY01P1; Roles    JY01P1:Main Pump; Talkgrp  FBER-OPS01 (38*) (DGNA); Additional_Data Address Classification Property Shell<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   12:58-41 5400<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1258091221+++TIME=1258091221<NUL>
+POCSAG2400: Address:   33738  Function: 2  Alpha:   12:58-73 INC ALERT No: 16905585 Falls - FEMALE FALLEN OFF THE COMODE, AT: 28 SPINDLEBURY, CULLOMPTON, EX15 1SY, Time of Call: 09/12/2021 12:52:11, Co-ords: 50.8496972 -3.4004111
+POCSAG1200: Address: 1253526  Function: 1 
+POCSAG1200: Address:  825749  Function: 1  Alpha:   WE
+POCSAG1200: Address: 1020707  Function: 1 
+POCSAG1200: Address: 1843835  Function: 2 
+POCSAG1200: Address:  269059  Function: 2  Alpha:   12:56-36 09/12/2021 12:55:02 INC 24795068 09E01 11 SEFTON CO
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>l
+POCSAG1200: Address:  930510  Function: 2  Alpha:   12:56-86 09/12/2021 12:55:02 INC 24795068 09E01 11 SEFTON COURT, SCHOOL HILL, HALLIWELL BOLTON, BL1 2NJ Unknown UnknownY FIRE ON SCN, Q FATAL, NO OTHER DETS GRD 371382 409857|E<SYN>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   12:56-94 09/12/2021 12:55:02 INC 24795068 09E01 11 SEFTON COURT, SCHOOL HILL, HALLIWELL BOLTON, BL1 2NJ Unknown UnknownY FIRE ON SCN, Q FATAL, NO OTHER DETS GRD 371382 409857
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  534338  Function: 0 
+POCSAG2400: Address: 1583466  Function: 1 
+POCSAG2400: Address:  326602  Function: 3  Alpha:   piTal
+POCSAG2400: Address:  924681  Function: 1 
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   12:57-22 4555<NUL>
+POCSAG2400: Address:  549964  Function: 2  Alpha:   12:56-12 NHSBT - DONOR REFERRAL. Please call EMMA CARBERRY/SISTER on Direct Dial Number 01215075098 Hospital SANDWELL GEN HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1322898  Function: 2  Alpha:   12:56-30 NHSBT - DONOR REFERRAL. Please call EMMA CARBERRY/SISTER on Direct Dial Number 01215075098 Hospital SANDWELL GEN HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1424982  Function: 0 
+POCSAG2400: Address:  298445  Function: 0  Alpha:   <CAN><EM>
+POCSAG2400: Address: 1972657  Function: 0 
+POCSAG2400: Address: 1914089  Function: 0 
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   12:56-91 5201<NUL>
+POCSAG2400: Address: 1322884  Function: 2  Alpha:   12:56-91 NHSBT - DONOR REFERRAL. Please call EMMA CARBERRY/SISTER on Direct Dial N5g"er 01215075098 Hospital SANDWELL GEN HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL>
+POCSAG2400: Address:  549065  Function: 2  Alpha:   12:56-30 NHSBT - DONOR REFERRAL. Please call EMMA CARBERRY/SISTER on Direct Dial Number 01215075098 Hospital SANDWELL GEN HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1322889  Function: 2  Alpha:   12:56-78 NHSBT - DONOR REFERRAL. Please call EMMA CARBERRY/SISTER on Direct Dial Number 01215075098 Hospital SANDWELL GEN HOSPITAL Dept CRITICAL CARE . Regards Donor Referral Line<NUL>
+POCSAG1200: Address:  298776  Function: 3  Alpha:   P4Rs<DC1>uS<DC3>Ht3<DLE><DC1><VT>H<DLE>3ppR0UT<DC3><VT>HP0<FF>H,0<DC1>H19;<CAN>;<EM>h<FF>,<SYN>h0P<DC3><NAK>HP41<DLE><NAK><DC2>hQ<DC4><DC1>hl<CR>,lM<FF><BS>M<FF><SO>ll<CR>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   12:55-10 09/12/2021 12:50:59 INC 24795055 06D04 120 ACCRINGTON ROAD, BLACKBURN, BB1 2AE Female 30Y CANT BREATH GRD 370172 428037
+POCSAG1200: Address:  214093  Function: 2  Alpha:   12:55-26 09/12/2021 12:50:59 INC 24795055 06D04 120 ACCRINGTON ROAD, BLACKBURN, BB1 2AE Female 30Y CANT BREATH GRD 370172 428037
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   12:55-51 2289<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253091221+++TIME=1253091221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253091221+++TIME=1253091221<NUL>
 POCSAG1200: Address: 1511996  Function: 3  Alpha:   <SYN>@
@@ -966,35 +998,3 @@ POCSAG1200: Address:  174993  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1133091221+++TIME=1133091221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1133091221+++TIME=1133091221<NUL>
 POCSAG2400: Address: 1913794  Function: 2  Alpha:   11:33-29 3120<NUL>
-POCSAG2400: Address: 1756845  Function: 1  Alpha:   (X<Y<VT><VT>(C"CB0X{:Z{<EM>(z<FS>(Y=Y<ESC>(9x<:Y<FS>h=<SUB><GS><SUB>(~;]<FS>H;y<GS>(xxx;]<ESC>]<VT>(C<STX>u<ESC><BS>:<EM><ESC><FS>(~;<GS>h<FS>|<ESC><GS>(<CAN>h9Y;=Z;<EM>(9;8<SUB><ESC>HY|;<ESC>(}<FS><VT>h=Y<CAN> <ACK><ESC><ESC>(<CAN>{=8~<FS>hY<9<EM><GS>(~;<GS>h=<SUB><GS><SUB>(~;]<FS><BS>=<SUB><GS>;<EM>(X<ESC><EM><BS>;x<FS><GS>H;8;<EM><VT>(X<ESC><EM>h=<EM>(Z{<CAN>;<GS>9<EM><BS><X<FS><GS>h[<EM>(~;]<FS><BS>|{<FS>
-POCSAG2400: Address: 1324316  Function: 2  Alpha:   11:33-53 Mr Kimpriktzis, now you can bank wherever 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:33-18 5820<NUL>
-POCSAG1200: Address:  135429  Function: 2  Alpha:   11:33-82 6018<NUL>
-POCSAG1200: Address: 1474618  Function: 1 
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   11:32-23 pls call beth on dawson ward ext 33877 urgent
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:32-76 5204<NUL>
-POCSAG2400: Address:  833718  Function: 0 
-POCSAG2400: Address: 1668710  Function: 0 
-POCSAG2400: Address:  134112  Function: 1 
-POCSAG2400: Address:  957127  Function: 3  Alpha:   Y<EOT>
-POCSAG2400: Address: 1038439  Function: 0 
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   11:32-91 4765<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1216773  Function: 2 
-POCSAG1200: Address:   11771  Function: 0  Alpha:   11:32-28 TEST CALL REPLY TO  2002 OR 2998 
-POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
-POCSAG1200: Address:  585538  Function: 2  Alpha:   11:32-36 6709<NUL>
-POCSAG2400: Address: 1749683  Function: 2 
-POCSAG2400: Address: 1913671  Function: 2  Alpha:   11:31-37 5204<NUL>
-POCSAG2400: Address: 1321543  Function: 2  Alpha:   11:31-22 Please ring PRH 01444441881 extension 68190. Many thanks
-POCSAG1200: Address:  426342  Function: 0 
-POCSAG1200: Address:  940892  Function: 1 
-POCSAG1200: Address: 1022661  Function: 0  Alpha:   11:31-72 FIRE<NUL>
-POCSAG1200: Address: 1581667  Function: 0 
-POCSAG1200: Address:  166064  Function: 1 
-POCSAG1200: Address:       6  Function: 1  Alpha:   WHC+da<NAK>rpY<EOT>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   11:30-77 4166<NUL>
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:29-75 5204<NUL>
-POCSAG1200: Address: 2041929  Function: 2 
-POCSAG1200: Address:   33441  Function: 3 
-POCSAG1200: Address:  250712  Function: 2 
