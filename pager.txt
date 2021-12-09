@@ -1,3 +1,39 @@
+POCSAG1200: Address:  216338  Function: 2  Alpha:   09:04-77 Destination: D105 SSC In\123, Booking Ref#: 804218, Vehicle: fj67zmz<6#<ETB>P$3<DLE>w7Pv7y2<DLE>awwu4w3<DLE>i23<DLE>z7P:7vw02<SYN>Pt3w7y2<DLE>rr9z4w0zt77P072<DLE>8ywqr22<DLE>z7<DLE>:t2Pc0z2twzy2<ETB>Eoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo<ACK>E<ACK><ENQ>aw7<NUL><NUL>
+POCSAG2400: Address:  549165  Function: 2  Alpha:   09:04-22 80300
+POCSAG2400: Address:  216402  Function: 2  Alpha:   09:04-55 1667<NUL>
+POCSAG1200: Address: 1321700  Function: 2  Alpha:   09:04-02 Destination: Parking\D78 Ext TP, Booking Ref#: SHP21110266, Vehicle: ULRG1913. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>______________________________________________________________________________<NUL><NUL>
+POCSAG1200: Address: 1067846  Function: 2  Alpha:   09:03-73 Destination: BCM\D25 North\01, Booking Ref#: SHP21120080, Vehicle: WU67XAE. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><NUL><NUL>
+POCSAG1200: Address: 1032167  Function: 2  Alpha:   <STX>`
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903091221+++TIME=0903091221<NUL>
+POCSAG2400: Address:  583557  Function: 2  Alpha:   09:03-07 8030<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++}I]E=0903091221+++TIME=0903091221<NUL>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   09:03-78 3120<NUL>
+POCSAG2400: Address:  549033  Function: 2  Alpha:   09:03-45 ED 8161<NUL>
+POCSAG1200: Address:   95772  Function: 2 
+POCSAG1200: Address:  112459  Function: 3 
+POCSAG1200: Address:  801142  Function: 1 
+POCSAG1200: Address: 1716261  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  960112  Function: 0 
+POCSAG2400: Address:  549979  Function: 2  Alpha:   09:02-86 80300
+POCSAG2400: Address: 1324229  Function: 2  Alpha:   09:02-92 80300
+POCSAG2400: Address: 1913985  Function: 2  Alpha:   09:02-23 4880<NUL>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:01-57 2206<NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   #$
+POCSAG2400: Address: 1323495  Function: 2  Alpha:   09:00-33 01224833999
+POCSAG1200: Address: 1032614  Function: 3  Alpha:   !(
+POCSAG1200: Address:  325925  Function: 2  Alpha:   !(
+POCSAG1200: Address:  619075  Function: 2  Alpha:   !(
+POCSAG2400: Address:  642273  Function: 1 
+POCSAG2400: Address: 2063576  Function: 3 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   09:00-30 4687<NUL>
+POCSAG2400: Address:   28925  Function: 0  Alpha:   09:00-56 5201<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   09:00-40 4156<NUL>
+POCSAG2400: Address:  583537  Function: 2  Alpha:   09:00-10 80300
+POCSAG1200: Address:  678665  Function: 2  Alpha:   09:00-17 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1320364  Function: 2  Alpha:   09:00-87 2065<NUL>
+POCSAG2400: Address: 1913646  Function: 2  Alpha:   09:00-59 5193<NUL>
 POCSAG1200: Address: 1313208  Function: 2  Alpha:   08:59-30 65182
 POCSAG2400: Address:  585013  Function: 2  Alpha:   08:59-14 PLS CALL EMRAN ON 07932 866 632 <NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0858091221+++TIME=0858091221<NUL>
@@ -959,42 +995,6 @@ POCSAG2400: Address:       0  Function: 0
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address: 1882868  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
