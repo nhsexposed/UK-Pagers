@@ -1,3 +1,9 @@
+POCSAG1200: Address:  664466  Function: 2  Alpha:   04:39-30 1: 001PAFAL4B29020 Area Fire Alarm CP4B ****FIRE**** 01<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0438091221+++TIME=0438091221<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   04:38-63 MEDICAL EMERGENCY WARD 43 DMH 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   04:37-50 4954<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   04:37-62 4376<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0433091221+++TIME=0433091221<NUL>
 POCSAG1200: Address: 1781946  Function: 2  Alpha:   04:31-68 Primary PCI Call, Cath Lab ETA *05* Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)<NUL>
 POCSAG1200: Address: 1022128  Function: 2 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1206295  Function: 2
 POCSAG1200: Address: 1147169  Function: 0  Alpha:   `@0<VT><GS><GS><DC3><GS><VT>)<US><CR>Q<STX>
 POCSAG1200: Address: 1349438  Function: 1 
 POCSAG1200: Address:  361261  Function: 2  Alpha:   dj
-POCSAG1200: Address: 1255005  Function: 3 
-POCSAG1200: Address:  369498  Function: 1  Alpha:   `r
-POCSAG1200: Address: 1817185  Function: 2  Alpha:   2"
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   22:41-67 08/12/2021 22:40:25 INC 24792157 06E01 20 PENNINGTON AVENUE, ORMSKIRK, L39 1NQ Female 85Y COPD - DIB GRD 341441 408583<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   22:41-68 08/12/2021 22:38:49 INC 24792154 26O01 RATCLIFFE TOWERS - 94, GENERAL AREA OF, STOCKPORT, SK1 3PD Male 20Y GUM ABSESS GETTING BIGGER GRD 389760 389824
-POCSAG2400: Address:   28916  Function: 0  Alpha:   22:40-35 4166<NUL>
