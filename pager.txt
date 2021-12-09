@@ -1,3 +1,47 @@
+POCSAG1200: Address:  987049  Function: 2  Alpha:   12:39-14
+POCSAG1200: Address: 1065467  Function: 2 
+POCSAG1200: Address:  231243  Function: 3 
+POCSAG1200: Address:  905986  Function: 2 
+POCSAG1200: Address: 1292042  Function: 2 
+POCSAG1200: Address:  602201  Function: 2  Alpha:   <BS>d
+POCSAG1200: Address: 1258596  Function: 3  Alpha:   N<STX>
+POCSAG1200: Address:   90419  Function: 0  Alpha:   EV
+POCSAG1200: Address:  105066  Function: 0 
+POCSAG1200: Address:  886912  Function: 2  Alpha:   b@h`@<STX><GS><SI><EM><VT>/
+POCSAG1200: Address: 1482207  Function: 1  Alpha:   <SUB><DLE>Yg<DC2>
+POCSAG1200: Address:  266854  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address: 1686316  Function: 2  Alpha:   ``
+POCSAG1200: Address: 1075674  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><DC3>S
+POCSAG1200: Address:  401608  Function: 0  Alpha:   <CAN><EM>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   12:39-01 09/12/2021 12:37:19 INC 24794977 23C07I 27 TINTAGEL ROAD, CROXTETH L11, L11 6LA Male 34Y SUICIDAL MALE - OVERDOSE TAKEN GRD 340859 396164<NUL><NUL>
+POCSAG1200: Address: 1484996  Function: 3  Alpha:   <ACK>o
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238091221+++TIME=1238091221<NUL>
+POCSAG2400: Address:  549441  Function: 2  Alpha:   12:38-48 Medic 1 & Fire 1 Deployed to HAW Building - 1x Casualty feeling unwell, Awaiting more information  
+POCSAG2400: Address: 1673049  Function: 1  Alpha:   dh
+POCSAG2400: Address: 1098936  Function: 1  Alpha:   <CAN><EM>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   12:38-64 3164<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:38-79 4099<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:38-21 2464<NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   12:37-13 09/12/2021 12:35:32 INC 24794967 12D02E O/S HOUSE AESTHETICS ON, 2A BEACH ROAD, THORNTON CLEVELEYS, FY5 1EF Male 28Y SEIZURE GRD 331747 443382
+POCSAG2400: Address: 1320384  Function: 2  Alpha:   12:37-16 3241<NUL>
+POCSAG1200: Address: 1153795  Function: 0  Alpha:   `r
+POCSAG1200: Address:  678458  Function: 2  Alpha:   12:3w
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   12:36-81 09/12/2021 12:35:30 INC 24794966 06D02 5 MILL DYKE CLOSE, BLACKPOOL, FY4 5PB Female 64Y DIB GRD 332698 432872<NUL>
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   12:36-25 09/12/2021 12:35:30 INC 24794966 06D02 5 MILL DYKE CLOSE, BLACKPOOL, FY4 5PB Female 64Y DIB GRD 332698 432872<NUL>
+POCSAG1200: Address:  420157  Function: 2  Alpha:   12:36-95 6865<NUL>
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   12:36-01 5790<NUL>
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   12:36-20 5092<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:35-84 4462<NUL>
+POCSAG1200: Address: 1880634  Function: 0 
+POCSAG2400: Address: 1913841  Function: 2  Alpha:   12:35-94 2427<NUL>
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   12:34-04 2289<NUL>
+POCSAG1200: Address: 1001123  Function: 2  Alpha:   12:34-81 cardiac arrest.. jasmine ward side room,,, 12.28 pm
+POCSAG1200: Address: 1001125  Function: 2  Alpha:   12:34-43 cardiac arrest.. jasmine ward side room,,, 12.28 pm
+POCSAG1200: Address:   14950  Function: 0  Alpha:   12:34-17 09/12/2021 12:30:20 INC 24794935 31D04 MAGISTRATES COURT COURT HOUSE, PARKER LANE, BURNLEY, BB11 2BS Female 58Y FAINTED, BANGED HEAD, CONFUSED, DIZZY, HOT GRD 384145 432333<NUL>
+POCSAG1200: Address: 1001127  Function: 2  Alpha:   12:34-43 cardiac arrest.. jasmine ward side room,,, 12.28 pm
+POCSAG1200: Address: 1001128  Function: 2  Alpha:   12:34-42 cardiac arrest.. jasmine ward side room,,, 12.28 pm
+POCSAG1200: Address:  360002  Function: 0  Alpha:   12:34-61 09/12/2021 12:30:20 INC 24794935 31D04 MAGISTRATES COURT COURT HOUSE, PARKER LANE, BURNLEY, BB11 2BS Female 58Y FAINTED, BANGED HEAD, CONFUSED, DIZZY, HOT GRD 384145 432333<NUL>
 POCSAG1200: Address: 1619299  Function: 1 
 POCSAG1200: Address: 1001129  Function: 2  Alpha:   12:34-43 cardiac arrest.. jasmine ward<NUL><DC3>ide room,,, 12.28 pm
 POCSAG1200: Address: 1001131  Function: 2  Alpha:   12:34-44 cardiac arrest.. jasmine ward side room,,, 12.28 pm
@@ -954,47 +998,3 @@ POCSAG2400: Address: 1913985  Function: 2  Alpha:   11:07-24 4457<NUL>
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   V.
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   V.
 POCSAG2400: Address:   28907  Function: 0  Alpha:   11:06-19 4157<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   11:05-13 3144<NUL>
-POCSAG2400: Address: 1320383  Function: 2  Alpha:   11:05-85 2182<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   11:05-20 56
-POCSAG1200: Address:  987428  Function: 0 
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   11:05-69
-POCSAG1200: Address:  618382  Function: 2  Alpha:   Er
-POCSAG1200: Address:  420445  Function: 3  Alpha:   <DC2>#A(L
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   11:04-82 2999<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:04-40 4283<NUL>
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   11:04-05 4535<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1103091221+++TIME=1103091221<NUL>
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   11:03-74 5201<NUL>
-POCSAG2400: Address: 1323880  Function: 2  Alpha:   11:03-69 5423<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:03-70 5460<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:  176940  Function: 3 
-POCSAG1200: Address:  108034  Function: 0  Alpha:   11:03-57 09/12/2021 10:06:23 Gb02_ST1Dpx006 Status : <NUL>
-POCSAG1200: Address:  108034  Function: 0  Alpha:   11:03-56 09/12/2021 10:07:02 B2DmpkMajorAlarm Status : B2 DMPK Major Alarm Activated<NUL>
-POCSAG1200: Address: 1812356  Function: 3  Alpha:   UR
-POCSAG2400: Address: 1913823  Function: 2  Alpha:   11:02-17 2182<NUL>
-POCSAG2400: Address: 1976692  Function: 2 
-POCSAG1200: Address: 1066360  Function: 3 
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   11:02-19 09/12/2021 10:59:52 INC 24794438 19D01 Whitegate Health Centre Blackpool -, WHITEGATE DRIVE, BLACKPOOL, FY3 9ES Male 75y,B
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   11:02-16 09/12/2021 10:59:52 INC 24794438 19D01 Whitegate Health Centre Blackpool -, WHITEGATE DRIVE, BLACKPOOL, FY3 9ES Male 75Y TOOK A FUNNY TURN- LOW OXY- CLAMMY GRD 332062 435580
-POCSAG2400: Address: 1313209  Function: 2  Alpha:   11:02-07 PLS CALL EVELYN WARD <NUL>
-POCSAG1200: Address: 1163160  Function: 3 
-POCSAG1200: Address: 1812356  Function: 3  Alpha:   UR
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   U<LF>
-POCSAG2400: Address: 1913841  Function: 2  Alpha:   11:01-93 2182<NUL>
-POCSAG2400: Address: 1913670  Function: 2  Alpha:   11:01-47 2145<NUL>
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   11:01-81 3119<NUL>
-POCSAG1200: Address: 1092709  Function: 2 
-POCSAG1200: Address:  594759  Function: 1 
-POCSAG1200: Address:  563717  Function: 3 
-POCSAG1200: Address:  792379  Function: 3 
-POCSAG1200: Address: 1261707  Function: 2 
-POCSAG1200: Address:  819778  Function: 0  Alpha:   AR
-POCSAG1200: Address:  623201  Function: 3 
-POCSAG1200: Address:  338264  Function: 2  Alpha:   i<HT>
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   11:01-62 09/12/2021 10:57:43 INC 24794425 06D04 ATHERTON HALL BARN, LANGDALE ROAD, LEYLAND, PR25 3DE Male 50Y chest tightness - dib - exposed to PALY - TOXIN GRD 354826 420751<NUL><NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   11:01-51 4377<NUL>
-POCSAG1200: Address: 1745492  Function: 0 
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   11:00-00 ***TEST CRASH TEST ***
