@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   r<BS>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1323091221+++TIME=1323091221<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:23-67 3119<NUL>
+POCSAG2400: Address:  149113  Function: 2  Alpha:   13:23-31 5064<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1323091221+++TIME=1323091221<NUL>
+POCSAG1200: Address: 1077545  Function: 3 
+POCSAG1200: Address: 1032675  Function: 2  Alpha:   <DC2>C<GS>:L
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:23-16 09/12/2021 13:20:43 INC 24795205 10C01 99 LONG STREET, BOARSHAW MANCHESTER, M24 6UN Male 28Y CHEST PAINS - GRD 387035 406213<NUL>
+POCSAG512: Address: 1297857  Function: 0 
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:22-96 5202<NUL>
+POCSAG1200: Address: 1092123  Function: 2  Alpha:   13:22-43 6708<NUL>
+POCSAG2400: Address: 1913664  Function: 2  Alpha:   13:22-99 5514<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:22-13 09/12/2021 13:18:50 INC 24795194 12D01E 138 BRIDGE STREET, WARRINGTON WA1, WA1 2RU Female 46Y FIT GRD 360694 387868<NUL>
+POCSAG1200: Address:  420237  Function: 2  Alpha:   13:21-53 09/12/2021 13:19:26 INC 24795196 17B01 BRAITHWAITE LODGE, GENERAL AREA OF, BRAITHWAITE KESWICK, CA12 5ST Female 75Y SOS TEXT 75YOF SLIPPED AND FALLEN GRD 323286 523190<NUL>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   13:21-59 4398<NUL>
+POCSAG1200: Address: 1032061  Function: 2  Alpha:   <ETX>B
+POCSAG1200: Address: 2011891  Function: 0 
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   13:20-05 5056<NUL>
+POCSAG1200: Address: 1500150  Function: 2  Alpha:   13:20-18 09/12/2021 13:17:53 INC 24795189 10D04 LINNYSHAW <CR><VT>LL, MANCHESTER ROAD, WALKDEN MANCHESTER, M28 3TR Male 52Y ARM LEG AND BACK PAIN GRD 374617 403088
+POCSAG1200: Address: 1745490  Function: 0 
+POCSAG1200: Address:  412680  Function: 1 
+POCSAG1200: Address:  420263  Function: 1 
+POCSAG1200: Address:   14950  Function: 0  Alpha:   13:19-19 09/12/2021 13:18:07 INC 24795191 09E01 56 CARTER STREET, BURNLEY, BB12 6EB Female 70Y NOT BREATHING GRD 382201 433092<NUL><NUL>
+POCSAG1200: Address:  360002  Function: 0  Alpha:   13:19-63 09/12/2021 13:18:07 INC 24795191 09E01 56 CARTER STREET, BURNLEY, BB12 6EB Female 70Y NOT BREATHING GRD 382201 433092<NUL><NUL>
 POCSAG2400: Address: 1320279  Function: 2  Alpha:   13:19-24 5204<NUL>
 POCSAG1200: Address:   82734  Function: 2  Alpha:   13:19-15 09/12/2021 13:17:34 INC 24795188 31D04 THE RIVINGTON, STATION ROAD, BLACKROD BOLTON, BL6 5JF Male 80Y M - WENT UNCONSCIOUS GRD 362396 410530<NUL><NUL>
 POCSAG1200: Address: 1511916  Function: 2  Alpha:   <DC2>C<DC4><ESC>L
@@ -974,27 +998,3 @@ POCSAG1200: Address:  276576  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:   80183  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  290213  Function: 3  Alpha:   <DC1>4<EM><SO>2
 POCSAG1200: Address: 1512784  Function: 3  Alpha:   +F
-POCSAG1200: Address:   80103  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906542  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1761397  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619140  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761496  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  269326  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017537  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619136  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039231  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80022  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032199  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512758  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039189  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  265196  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619137  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1700760  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  642751  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039318  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  553861  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  325980  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  600250  Function: 3  Alpha:   <DC1>4Y>AC<FF>b
-POCSAG1200: Address: 1032681  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420512  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017543  Function: 3  Alpha:   !<ACK>
