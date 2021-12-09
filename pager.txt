@@ -1,3 +1,73 @@
+POCSAG2400: Address: 1913649  Function: 2  Alpha:   13:14-40 2195<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1313091221+++TIME=1313091221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1313091221+++TIME=1313091221<NUL>
+POCSAG1200: Address:  478907  Function: 2  Alpha:   <EM><STX>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   13:12-59 2180<NUL>
+POCSAG1200: Address:  930510  Function: 2  Alpha:   13:12-87 09/12/2021 13:10:40 INC 24795151 06E01 29 EDINBURGH DRIVE, OSWALDTWISTLE NR ACCRINGTON, BB5 3AR Female 67Y CAN'T GET BREATH- GRD 374541 427257
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:12-56 09/12/2021 13:10:40 INC 24795151 06E01 29 EDINBURGH DRIVE, OSWALDTWISTLE NR ACCRINGTON, BB5 3AR Female 67Y CAN'T GET BREATH- GRD 374541 427257
+POCSAG1200: Address: 1147694  Function: 2  Alpha:   <BS>d
+POCSAG1200: Address: 2065521  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:12-13 09/12/2021 13:10:40 INC 24795151 06E01 29 EDINBURGH DRIVE, OSWALDTWISTLE NR ACCRINGTON, BB5 3AR Female 67Y CAN'T GET BREATH- GRD 374541 427257
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   TN
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:12-16 09/12/2021 13:06:17 INC 24795134 12A01E 37 RYEGATE ROAD, GRASSENDALE L19, L19 9AL MalA&<DC1>4Y SEIZURE GRD 339756 385675
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   13:12-77 4660<NUL>
+POCSAG2400: Address: 1913985  Function: 2  Alpha:   13:12-26 2616<NUL>
+POCSAG1200: Address: 2079736  Function: 3 
+POCSAG1200: Address: 1288091  Function: 3 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:11-24 2018<NUL>
+POCSAG1200: Address:   90832  Function: 3  Alpha:   <HT>_<FF><VT><EM>)A<BS><DC3>553_<DLE><DC3>)A<DLE><VT><ETX><HT>A<SO>%<HT>Afphbhj@hfdfff
+POCSAG1200: Address:  315782  Function: 1  Alpha:   D 
+POCSAG1200: Address:   24759  Function: 1  Alpha:   <VT>Y@<EOT>+%<GS><EM><VT>3Y@<EOT><ENQ>cb@d<EOT>'A<FF>K[CYKAjp2A<ACK><US><EM><EM><ETX>!'<VT><HT>_<FF><VT><EM>)A<BS><DC3>553_<DLE><DC3>)A<DLE><VT><ETX><HT>A<SO>%<HT>Afphbhj@hfdfff
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   2@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   13:11-25 2183<NUL>
+POCSAG2400: Address: 1323792  Function: 2  Alpha:   13:11-75 5065<NUL>
+POCSAG2400: Address: 2016821  Function: 2 
+POCSAG2400: Address: 1913891  Function: 2  Alpha:   13:10-21 2798<NUL>
+POCSAG1200: Address: 1032689  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   r<BS>
+POCSAG2400: Address:  954088  Function: 2  Alpha:   Lg
+POCSAG2400: Address: 1092936  Function: 0 
+POCSAG1200: Address: 1395283  Function: 3 
+POCSAG1200: Address: 1706378  Function: 2 
+POCSAG1200: Address: 1349417  Function: 0  Alpha:   ,<NAK>
+POCSAG1200: Address: 1258561  Function: 0 
+POCSAG1200: Address: 1072360  Function: 1 
+POCSAG1200: Address:   88576  Function: 3 
+POCSAG1200: Address: 1680103  Function: 3  Alpha:   O%
+POCSAG1200: Address:  708646  Function: 3  Alpha:   <CAN>H
+POCSAG1200: Address: 1377476  Function: 2  Alpha:   rv0v2P[[$<DLE>#
+POCSAG1200: Address:  285227  Function: 0 
+POCSAG1200: Address:  630866  Function: 3  Alpha:   <FS><ESC>
+POCSAG1200: Address: 1582698  Function: 1 
+POCSAG1200: Address: 1889697  Function: 1  Alpha:   , 
+POCSAG1200: Address:   92992  Function: 3 
+POCSAG1200: Address:  470559  Function: 3  Alpha:   O%h$<ENQ>
+POCSAG1200: Address: 1149062  Function: 3  Alpha:   h@jj@
+POCSAG1200: Address: 1477725  Function: 0  Alpha:   <CAN>P
+POCSAG1200: Address:  266852  Function: 1  Alpha:   v<SYN>
+POCSAG1200: Address: 1349435  Function: 1 
+POCSAG1200: Address:  100138  Function: 3  Alpha:   `h
+POCSAG1200: Address: 1075672  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX><STX><ESC>S
+POCSAG1200: Address:  108383  Function: 0  Alpha:   pd@g<DC2>
+POCSAG1200: Address:  538222  Function: 0  Alpha:   X<EM>
+POCSAG1200: Address:  429468  Function: 0 
+POCSAG1200: Address:  367220  Function: 2 
+POCSAG1200: Address: 1732963  Function: 0 
+POCSAG1200: Address: 1188018  Function: 1  Alpha:   ]Y
+POCSAG1200: Address:  315721  Function: 0  Alpha:    G
+POCSAG1200: Address: 1395281  Function: 3 
+POCSAG1200: Address: 1706376  Function: 2 
+POCSAG1200: Address: 1349423  Function: 0  Alpha:   O%(VJ
+POCSAG1200: Address: 1258567  Function: 0 
+POCSAG1200: Address: 1072366  Function: 1 
+POCSAG1200: Address:   88582  Function: 3 
+POCSAG1200: Address:  695980  Function: 2  Alpha:   13:09-59 09/12/2021 13:08:04 INC 24795141 31D04 55 ASCOT AVENUE, SALE, M33 4QT Female@[[$<DLE>#
+POCSAG2400: Address: 1322867  Function: 2  Alpha:   13:09-59 NHSBT - DONOR REFERRAL. Please call CHARIS BANKS on Direct Dial Number 01225 825011  Hospital BATH ROYAL UNITED HOSPITAL  Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1323268  Function: 2  Alpha:   13:09-06 NHSBT - DONOR REFERRAL. Please call CHARIS BANKS on Direct Dial Number 01225 825011  Hospital BATH ROYAL UNITED HOSPITAL  Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1322836  Function: 2  Alpha:   13:09-60 NHSBT - DONOR REFERRAL. Please call CHARIS BANKS on Direct Dial Number 01225 825011  Hospital BATH ROYAL UNITED HOSPITAL  Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1322772  Function: 2  Alpha:   13:09-40 NHSBT - DONOR REFERRAL. Please call CHARIS BANKS on Direct Dial Number 01225 825011  Hospital BATH ROYAL UNITED HOSPITAL  Dept ICU . Regards Donor Referral Line<NUL><NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   13:09-24 2195<NUL>
 POCSAG2400: Address:   28896  Function: 0 
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   13:08-74 2195<NUL>
@@ -928,73 +998,3 @@ POCSAG1200: Address: 1812346  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1512761  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  619128  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 2008416  Function: 2  Alpha:   qB
-POCSAG1200: Address: 1761349  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80076  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032947  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031880  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761453  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1485500  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761493  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1700684  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325810  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1700759  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031461  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906580  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  414106  Function: 3  Alpha:   <DC1>4Y&CC<FF>b
-POCSAG1200: Address: 1015505  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015519  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  553925  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761452  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032103  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015501  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039292  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031883  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212194  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80193  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80200  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812367  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80126  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  265197  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  265188  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032706  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015512  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512765  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212136  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031694  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812405  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1832644  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039291  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906880  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1484967  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  325814  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032181  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032052  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619059  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017570  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812409  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212240  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761479  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1484974  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  269349  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290212  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420499  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1512762  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  553769  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  269352  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   11:57-45 2304<NUL>
-POCSAG1200: Address: 1043790  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032053  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1321535  Function: 2  Alpha:   11:56-88 09/12/2021 11:55:35 INC 24794728 29B05V SANDY LANE, BRINDLE CHORLEY, PR6 7RD Unknown UnknownY RTC - 5PTS, 2 VEH GRD 358077 423263<NUL><NUL>
-POCSAG1200: Address:  906572  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  600182  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1031525  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761324  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039083  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812433  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290206  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761325  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512756  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1039099  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  647577  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1546264  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  553806  Function: 3  Alpha:   !<ACK>
