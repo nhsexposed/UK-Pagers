@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1323006  Function: 2  Alpha:   22:34-21 80300
+POCSAG1200: Address:  150552  Function: 3 
+POCSAG1200: Address:  114427  Function: 0  Alpha:   22:33-00 01173421903
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2233201221+++TIME=2233201221<NUL>
+POCSAG1200: Address:  360216  Function: 2  Alpha:   22:33-58 33960
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   22:32-52 20/12/2021 22:18:01 INC 24854255 11E01U FLAT 2, 38 SPRINGFIELD ROAD, BLACKPOOL, FY1 2AU Male 57Y CAN'T GET UP, SWOLLEN KNEES GRD 330872 436684
+Enabled demodulators: POCSAG512 POCSAG1200 POCSAG2400
 POCSAG2400: Address:  945112  Function: 3  Alpha:   <RS>]
 POCSAG2400: Address:  101648  Function: 2 
 POCSAG2400: Address: 1574944  Function: 2  Alpha:   <HT>"
@@ -991,10 +998,3 @@ POCSAG2400: Address: 1806184  Function: 2
 POCSAG2400: Address:  924984  Function: 2 
 POCSAG2400: Address: 1583663  Function: 3  Alpha:   &/vg<DC2>
 POCSAG2400: Address: 1812061  Function: 2 
-POCSAG2400: Address: 1265596  Function: 0 
-POCSAG2400: Address: 1683492  Function: 0 
-POCSAG2400: Address: 1859813  Function: 3 
-POCSAG2400: Address:  314683  Function: 3  Alpha:   ;<ESC>(3Pc<DC4><DC1>
-POCSAG2400: Address:  866674  Function: 0 
-POCSAG2400: Address: 1312626  Function: 2 
-POCSAG2400: Address: 1673049  Function: 1  Alpha:   h`
