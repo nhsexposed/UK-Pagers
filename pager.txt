@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2313201221+++TIME=2313201221<NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   23:12-68 4167<NUL>
+POCSAG1200: Address: 1999613  Function: 0 
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>CA;L
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   23:10-58 20/12/2021 23:08:04 INC 24854407 02C01 FLAT 9, 76-80 ST ANDREWS ROAD SOUTH, ST ANNES LYTHAM ST ANNES, FY8 1PS Female 31Y DIB THROAT HURTS GRD 332500 428688<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:10-87 5002<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   23:09-16 UHND MEDICAL EMERGENCY WARD 2 
 POCSAG1200: Address:   64653  Function: 2 
 POCSAG1200: Address:  227441  Function: 0 
 POCSAG1200: Address:  600915  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1409836  Function: 2  Alpha:   fr
 POCSAG1200: Address: 1411929  Function: 0  Alpha:   rf
 POCSAG1200: Address:   82872  Function: 0  Alpha:   <CAN><ESC>
 POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN>R
-POCSAG2400: Address: 1913891  Function: 2  Alpha:   16:54-25 2798<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653091221+++TIME=1653091221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653091221+++TIME=1653091221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:   28903  Function: 0  Alpha:   16:53-37 4166<NUL>
-POCSAG2400: Address: 1913799  Function: 2  Alpha:   16:52-27 4269<NUL>
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   V<STX>
