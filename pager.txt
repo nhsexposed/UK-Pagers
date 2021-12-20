@@ -1,3 +1,26 @@
+POCSAG1200: Address:   64653  Function: 2 
+POCSAG1200: Address:  227441  Function: 0 
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2308201221+++TIME=2308201221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2308201221+++TIME=2308201221<NUL>
+POCSAG2400: Address:  225334  Function: 2  Alpha:   23:07-83 PLS CALL PRIORY WARD ON 01452 894 500<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1876136  Function: 0 
+POCSAG2400: Address:   59080  Function: 0 
+POCSAG2400: Address:  683782  Function: 2  Alpha:   <DLE><DC3><DC3><BS>T4rS4<SYN>h5P<DC4><DC1>hS<DC3><BS>,<FF>-M<FF><BS>.<SO><CR>(<CR><FF><FF><NUL><NUL>
+POCSAG2400: Address:  225057  Function: 2  Alpha:   23:07-84 PLS CALL PRIORY WARD ON 01452 894 500<NUL><NUL>
+POCSAG2400: Address: 1324617  Function: 2  Alpha:   23:07-18 23:07-17 PLS CALL PRIORY WARD ON 01452 894 500<NUL><NUL>
+POCSAG2400: Address:  531636  Function: 2  Alpha:   <EOT>zt<EOT><STX><VT>#+<DC3><ETX>BK#<ETX>*<ETX><ETX><ETX><NUL><NUL>
+POCSAG2400: Address: 1324624  Function: 2  Alpha:   23:07-79 PLS CALL PRIORY WARD ON 01452 894 500<NUL><NUL>
+POCSAG2400: Address: 1324614  Function: 2  Alpha:   23:07-49 PLS CALL PRIORY WARD ON 01452 894 500<NUL><NUL>
+POCSAG2400: Address: 1324610  Function: 2  Alpha:   23:07-08 PLS CALL PRIORY WARD ON 01452 894 500<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:07-86 3508<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:07-85 4379<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:06-58 20/12/2021 23:01:21 INC 24854385 32D01 IN THE STREET, MAYFIELD ROAD, CHORLEY, PR6 0DG Male UnknownY CALLAOPSE MALE GRD 358797 417964<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:06-84 3181<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:06-60 4140<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:05-83 3157<NUL>
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   23:04-25 INC ALERT No: 16951569 Traffic/Transportation Accidents - CAR CRASH, ON A MOTORBIKE, AT: RODFORD WAY JUNCTION WITH WITCOMBE, WITCOMBE, YATE BRISTOL, BS37 8SA, Time of Call: 20/12/2021 23:01:11, Co-ords: 51.5283957 -2.4261775<NUL>
 POCSAG1200: Address:  167296  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address:       0  Function: 0 
@@ -975,26 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG2400: Address:   28903  Function: 0  Alpha:   16:53-37 4166<NUL>
 POCSAG2400: Address: 1913799  Function: 2  Alpha:   16:52-27 4269<NUL>
 POCSAG1200: Address: 1039321  Function: 2  Alpha:   V<STX>
-POCSAG2400: Address: 1324051  Function: 2  Alpha:   16:52-33 AMBER: CONFERENCE CALL RE ONGOING RADIO ISSUES IN EOC AT 17:15 TEAMS INVITE TO FOLLOW ON EMAIL. DJG WM EOC SOUTH.  <NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:52-06 5201<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   16:51-29 2616<NUL>
-POCSAG1200: Address: 1248776  Function: 2 
-POCSAG2400: Address:  149113  Function: 2  Alpha:   16:50-34 5400<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   16:50-29 5204<NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   16:50-43 09/12/2021 16:44:35 INC 24796280 26D01 JUBELEE GARDENS - NEXT TO HERONS, UNION 
-POCSAG1200: Address: 1259618  Function: 2  Alpha:   16:50-26 012361-09122021; Haz Mat - Gas Involved; 136 GALE LANE,YORK,YO24 3AE; 457367,450638<NUL><NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:50-05 5201<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:49-71 4156<NUL>
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   16:49-12 5204<NUL>
-POCSAG2400: Address: 1320058  Function: 2  Alpha:   16:49-04 This is a test page from Edinburgh OC. Please contact control to confirm receipt of this test. <NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   16:48-60 5066<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   16:48-64 4155<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   Fd
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:47-65 5204<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<DLE>
-POCSAG1200: Address:  758704  Function: 0  Alpha:   <DC4>lM<FF><EOT>.~=\\L<FF>D~<CR>D<SO>]<FF>t<CAN>L^<FF>}]>^l%q{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{[!Q!!x}<CR><NUL>
-POCSAG1200: Address:  270259  Function: 2  Alpha:   16:47-63 Regarding Donor number - 153304, Donor hospital - WORTHING, Donor DOB - 06/01/1972<LF>** ETA  PANCREAS ( FOR ISLETS )  19:15 **<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   25/04/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   67181  Function: 3 
-POCSAG1200: Address:  280524  Function: 0  Alpha:   <DLE>(
-POCSAG1200: Address: 1705425  Function: 2  Alpha:   ')<LF>d$
