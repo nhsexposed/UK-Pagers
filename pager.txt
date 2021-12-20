@@ -1,3 +1,18 @@
+POCSAG1200: Address:   40088  Function: 2  Alpha:   23:53-90 PLS CALL MATILDA LVL 5 ON EXT 21114<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2353201221+++TIME=2353201221<NUL>
+POCSAG1200: Address: 2008953  Function: 0 
+POCSAG1200: Address:   33723  Function: 2  Alpha:   23:52-75 23:52-74 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   06/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   23:52-56 BLOCKED CATHETER PLEASMdvHNG IC24 <NUL><NUL>
+POCSAG2400: Address:  115792  Function: 2 
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   23:52-82 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
+POCSAG2400: Address:  149253  Function: 2  Alpha:   23:52-73 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   23:52-31 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
+POCSAG2400: Address:  537854  Function: 0  Alpha:   23:52-34 5201<NUL>
+POCSAG1200: Address: 1489620  Function: 0 
+POCSAG1200: Address:  543865  Function: 1  Alpha:   <CAN><SUB>\<CAN>PY\YY\<SUB>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   23:50-70 5201<NUL>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1193440  Function: 2
 POCSAG1200: Address:  144242  Function: 1  Alpha:   #d&d2
 POCSAG1200: Address: 1238910  Function: 0 
 POCSAG1200: Address:  428349  Function: 0 
-POCSAG1200: Address: 1058595  Function: 1 
-POCSAG1200: Address: 2047222  Function: 2 
-POCSAG1200: Address:  105123  Function: 0  Alpha:   <SYN>P<DC2>(`
-POCSAG1200: Address: 1558624  Function: 1  Alpha:   z<HT>
-POCSAG1200: Address: 1120800  Function: 1 
-POCSAG1200: Address:  258935  Function: 2 
-POCSAG1200: Address: 1553024  Function: 1  Alpha:   8K
-POCSAG1200: Address: 1372242  Function: 0 
-POCSAG1200: Address: 1352897  Function: 0  Alpha:   iA
-POCSAG1200: Address: 1096088  Function: 1 
-POCSAG1200: Address: 1729430  Function: 2 
-POCSAG1200: Address: 1074633  Function: 1 
-POCSAG1200: Address:  602608  Function: 3 
-POCSAG1200: Address:  761313  Function: 1 
-POCSAG1200: Address: 1255944  Function: 1  Alpha:   f`
