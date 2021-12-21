@@ -1,3 +1,12 @@
+POCSAG1200: Address: 2074176  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:54-60 2097<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953211221+++TIME=1953211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1953211221+++TIME=1953211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   19:51-96 AAU 21818<NUL><NUL>
+POCSAG1200: Address:  618374  Function: 3  Alpha:   U*
+POCSAG2400: Address: 2088952  Function: 3 
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   19:51-60 4379<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1948211221+++TIME=1948211221<NUL>
 POCSAG1200: Address:  413064  Function: 2  Alpha:   19:47-93 PLSE CALL X4262<NUL>
 POCSAG2400: Address: 1320116  Function: 2  Alpha:   19:47-67 346742<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  216428  Function: 2  Alpha:   14:29-70 6983
 POCSAG2400: Address:   28907  Function: 0  Alpha:   14:29-43 3414<NUL>
 POCSAG1200: Address: 1321960  Function: 0 
 POCSAG1200: Address: 1321960  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1428211221+++TIME=1428211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1428211221+++TIME=1428211221<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   14:28-42 4960<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:28-96 4188<NUL>
-POCSAG1200: Address: 1512713  Function: 3  Alpha:   <ACK><DLE>
-POCSAG2400: Address: 1913902  Function: 2  Alpha:   14:28-42 2111<NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   14:27-62 MIKE MEDICAL SHO SAPPHIRE WARD EXT 6489 <NUL><NUL>
-POCSAG2400: Address: 1913758  Function: 2  Alpha:   14:27-75 2331<NUL>
