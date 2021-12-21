@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1032113  Function: 2  Alpha:   B<EM>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:29-59 2097<NUL>
+POCSAG2400: Address:   11695  Function: 0  Alpha:   19:28-07 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1928211221+++TIME=1928211221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1928211221+++TIME=1928211221<NUL>
+POCSAG1200: Address: 1390032  Function: 3  Alpha:   J<BS>46<ACK><ETB>F<SYN><BEL>4<SYN><ETB>&<SYN>G<ACK><NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address:   28916  Function: 0  Alpha:   19:26-46 4283<NUL>
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX>&
+POCSAG2400: Address: 1896055  Function: 0 
+POCSAG1200: Address: 1188418  Function: 0 
+POCSAG1200: Address: 2009798  Function: 0 
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   19:24-59 4165<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1923211221+++TIME=1923211221<NUL>
 POCSAG1200: Address: 1708066  Function: 0  Alpha:   <BS>9<SYN><BS><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/20
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1913774  Function: 2  Alpha:   14:24-36 3164<NUL>
 POCSAG1200: Address:  273681  Function: 0  Alpha:   Y9
 POCSAG1200: Address:  339208  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1423211221+++TIME=1423211221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1423211221+++TIME=1423211221<NUL>
-POCSAG512: Address: 1088712  Function: 2 
-POCSAG1200: Address:  585540  Function: 2  Alpha:   14:23-29 991<NUL><NUL>
-POCSAG1200: Address: 1322009  Function: 2  Alpha:   14:23-71 3493<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:23-95 5140<NUL>
-POCSAG2400: Address:   11678  Function: 0  Alpha:   14:22-04 Greg is responding<NUL>
-POCSAG2400: Address: 1320361  Function: 2  Alpha:   14:22-00 5201<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   14:22-05 4960<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   14:22-78 5440<NUL>
-POCSAG1200: Address: 1032180  Function: 3  Alpha:   %$
-POCSAG1200: Address: 1145431  Function: 2  Alpha:   P<EM>\<CAN>YZ<EM><DLE>ZYX[Y<FS>
-POCSAG2400: Address: 1320364  Function: 2  Alpha:   14:21-29 2065<NUL>
-POCSAG2400: Address: 1913876  Function: 2  Alpha:   14:19-61 3103<NUL>
