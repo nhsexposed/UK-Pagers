@@ -1,3 +1,16 @@
+POCSAG2400: Address:  352848  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2223211221+++TIME=2223211221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1031728  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:22-79 2097<NUL>
+POCSAG1200: Address:  149176  Function: 2  Alpha:   22:21-80 PMA Staff Required on WHITLINGHAM
+POCSAG1200: Address: 1487681  Function: 2  Alpha:   22:21-84 PMA Staff Required on WHITLINGHAM
+POCSAG1200: Address: 1487751  Function: 2  Alpha:   22:21-47 PMA Staff Required on WHITLINGHAM
+POCSAG1200: Address: 1487769  Function: 2  Alpha:   22:21-38 PMA Staff Required on WHITLINGHAM
+POCSAG1200: Address: 1487772  Function: 2  Alpha:   r<DEL><21-60 PMA Staff Required on WHITLINGHAM
+POCSAG1200: Address: 1001165  Function: 2  Alpha:   22:21-85 PMA Staff Required on WHITLINGHAM
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   22:20-12 2233<NUL>
 POCSAG1200: Address: 1319029  Function: 2 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 2032009  Function: 3 
@@ -985,16 +998,3 @@ POCSAG1200: Address:   56209  Function: 2  Alpha:   16:25-52 test<NUL>
 POCSAG1200: Address: 1039184  Function: 3  Alpha:   VD
 POCSAG1200: Address: 1509880  Function: 2  Alpha:   16:24-43 21/12/2021 16:21:43 INC 24857200 08D06 37 FLEET STREET, PEMBERTON WIGAN, WN5 0DS Female 57Y 57YOF - SMOKE INHALATION GRD 354732 404764<NUL><NUL>
 POCSAG1200: Address: 1321864  Function: 2  Alpha:   16:24-58 21/12/2021 16:21:43 INC 24857200 08D06 37 FLEET STREET, PEMBERTON WIGAN, WN5 0DS Female 57Y 57YOF - SMOKE INHALATION GRD 354732 404764<NUL><NUL>
-POCSAG1200: Address: 1875973  Function: 0 
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   <ACK><VT>
-POCSAG1200: Address:  221452  Function: 2  Alpha:   16:24-30 test<NUL>
-POCSAG1200: Address: 1322006  Function: 2  Alpha:   16:24-20 test<NUL>
-POCSAG2400: Address: 1320348  Function: 2  Alpha:   16:23-49 4275<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1623211221+++TIME=1623211221<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:23-41 4193<NUL>
-POCSAG1200: Address: 1534104  Function: 2  Alpha:   16:23-08 PLEASE CONTACT CONTROL THANKS 
-POCSAG1200: Address:  216378  Function: 2  Alpha:   16:23-15 N1: zbx4 blmputpv71 Minor: CPU idle Very Low (<5% 5 min avg) 1.34 %<LF>
-POCSAG1200: Address: 1032979  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323879  Function: 2  Alpha:   16:22-46 4392<NUL>
-POCSAG1200: Address: 1067985  Function: 2  Alpha:   16:22-57 Destination: D105 SSC In\102, Booking Ref#: 806220, Vehicle: AY69RJZ. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
