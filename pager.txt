@@ -1,3 +1,13 @@
+POCSAG1200: Address:   40088  Function: 2  Alpha:   21:29-07 PLS CALL 21970. 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2128211221+++TIME=2128211221<NUL>
+POCSAG2400: Address: 1323883  Function: 2  Alpha:   21:28-66 4<DC1>26<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3r <DLE>
+POCSAG1200: Address:  198107  Function: 2  Alpha:   <DLE>2q<DC4>5Q<DC4><VT>(<DC3><CR><FF><BS>L2<DC4>(U{Z{{]<ESC>(U{Z{{];<SYN>H<DC4>u<DLE>hQ<DC4><DC1>h<FF><SO>.-m<FF><BS><CR>l,,l<CR><NUL><NUL>
+POCSAG1200: Address:  678570  Function: 3  Alpha:   t<EOT>
+POCSAG2400: Address: 1323991  Function: 2  Alpha:   21:26-25 2561<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:26-24 3117<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:25-16 3157<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   21:25-00 4166<NUL>
 POCSAG2400: Address: 1032033  Function: 0 
 POCSAG1200: Address: 1740660  Function: 2 
 POCSAG1200: Address: 1286931  Function: 0 
@@ -988,13 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   15:45-41 2097<NUL>
 POCSAG2400: Address: 1978099  Function: 0 
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   15:44-83 5242<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1543211221+++TIME=1543211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1543211221+++TIME=1543211221<NUL>
-POCSAG2400: Address:   28919  Function: 0  Alpha:   15:43-44 3509<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   15:43-74 4399<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   15:43-71 21/12/2021 15:40:50 INC 24<EM>5zp52 25O01 STRAND HOUSE - FLAT 98, WASHINGTON PARADE, BOOTLE L20, L20 4SL Male 63Y MENTAL BREAKDOWN GRD 334150 395394
-POCSAG1200: Address: 1092803  Function: 2  Alpha:   15:42-66 3208<NUL>
-POCSAG1200: Address: 1761499  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1484836  Function: 2  Alpha:   <DC2><ETX>a1L
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   15:42-45 8013 IP1 please<NUL>
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   15:41-25 3508<NUL>
