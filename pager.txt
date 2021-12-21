@@ -1,3 +1,31 @@
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   11:44-23 3246<NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   6<FF>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS><SYN> L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1143211221+++TIME=1143211221<NUL>
+POCSAG2400: Address:  216440  Function: 2  Alpha:   11:43-38 3438<NUL>
+POCSAG2400: Address: 1907678  Function: 0  Alpha:   <VT>#<ESC><DC3><VT><VT><DC3><DC3><VT>[ZZ"Ml,l<VT><VT>#<ESC><DC3><VT><VT><DC3><DC3><VT><ETX>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TI
+POCSAG2400: Address:   28906  Function: 0  Alpha:   11:43-02 5002<NUL>
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   11:43-30 INC ALERT No: 16953118 Cardiac Arrest -, AT: 8 ARNOLDS MEAD, CORSHAM, SN13 0BJ, Time of Call: 21/12/2021 y5 42:56, Co-ords: 51.4345182 -2.1875341
+POCSAG2400: Address: 1814698  Function: 2  Alpha:   11:43-85 4188<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   11:42-16 Planned UAV flight will take place at 12:00hrs in the vicinity of B38. No action is required. SSM<NUL><NUL>
+POCSAG2400: Address: 2053248  Function: 3  Alpha:   <ACK>J<RS><BEL><DC2>/<SO>/O<SYN>/&v<STX><SUB><GS>m<EOT><NUL><NUL>
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   11:42-39 Planned UAV flight will take place at 12:00hrs in the vicinity of B38. No actio
+POCSAG2400: Address:   28926  Function: 0  Alpha:   11:42-70 5202<NUL>
+POCSAG1200: Address: 1817164  Function: 2  Alpha:   11:42-62 Destination: Parking\D78 Ext TP, Booking Ref#: S11216007-A, Vehicle: MA12AEF. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>_______________________________________________________________________________<NUL><NUL>
+POCSAG1200: Address: 1312583  Function: 2  Alpha:   11:41-80 Proceed to: 044522-21122021 RTC PERSONS TRAPPED LARGE VEHICLE  CATHEDRAL TO DENNIS ROUNDABOUT,NORTHBOUND,A3<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN>q
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   11:40-67 21/12/2021 11:39:14 INC 24856101 06D04 7 MOUNSEY ROAD, BAMBER BRIDGE PRESTON, PR5 6LS Female 39Y DIB GRD 356581 425717A
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1811330  Function: 2  Alpha:   11:39-63 FAST TRACK OFFER OF RIGHT KIDNEY: Donor: 153448, Hospital: UHW, CARDIFF, HW7001, DOB: 05-04-1955, DCD, Organ location: NOT YET RETRIEVED, Offer made with HLA, Fast track trigger point met: 5 DECLINES- THIS OFFER EXPIRES AT 12:25 - NORS TEAM MOBILISED YES ETA 11:00. PLEASE SEE EOS. IMPORTANT A COPY OF THE SARS COV 2 ASSESSMENT AND SCREENING IS AVAILABLE FROM HUB OPERATIONS.<NUL>
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  197371  Function: 2  Alpha:   <DC2>C<BS>LL
+POCSAG1200: Address: 1812471  Function: 2  Alpha:   <DC1>"
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   11:39-90 5201<NUL>
+POCSAG1200: Address:  548118  Function: 2  Alpha:   11:39-09 direct  test Craig<NUL>
 POCSAG2400: Address:  902496  Function: 1 
 POCSAG1200: Address: 1511969  Function: 3  Alpha:   &0
 POCSAG2400: Address: 1324548  Function: 2  Alpha:   11:39-10 INC ALERT No: 16953090 Traffic/Transportation Accidents - FIRE- UPDATE, AT: WHITINGS FARM, ST JAMES COMMON TO HIGHER GREEN FARM, TWYFORD SHAFTESBURY, SP7 0JF, Time of Call: 21/12/2021 11:34:06, Co-ords: 50.9826009 -2.2161616<NUL>
@@ -970,31 +998,3 @@ POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:40-56 5090<NUL>
 POCSAG1200: Address: 1090257  Function: 2  Alpha:   08:39-51 CREWING HAS BEEN SENT<NUL>
 POCSAG1200: Address: 1511970  Function: 3  Alpha:   V"
 POCSAG1200: Address:   41512  Function: 2  Alpha:   08:39-94 Call or Calls waiting at Switchboard
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0838211221+++TIME=0838211221<NUL>
-POCSAG1200: Address: 1032158  Function: 3  Alpha:   Sb
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   11745  Function: 0  Alpha:   08:38-54 FIRE ALERT -FIRE WOODLANDS RECEPTION RECEPTION LOBBY Zone 002 502-1-91/0 FIRE ALERT<NUL><NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   08:37-57 4399<NUL>
-POCSAG1200: Address: 1500181  Function: 2  Alpha:   08:38-30 21/12/2021 08:35:49 INC 24855456 17B01A 20 THOMAS WINDER COURT, KIRKDALE L5, L5 2SW Female 82Y FALLEN. PAIN IN BACK GRD 334966 392836
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   08:36-52 4554<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:36-03 21/12/2021 08:34:39 INC 24855450 11E01 17 SOLLY AVENUE, ROCK FERRY BIRKENHEAD CH42, CH42 4QR Male 1Y CHOKING GRD 332317 386536<NUL><NUL>
-POCSAG1200: Address: 1712759  Function: 1 
-POCSAG1200: Address: 1321666  Function: 2  Alpha:   08:35-63 Destination: D105 SSC In\103, Booking Ref#: 806211, Vehicle: sv21mku. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG1200: Address: 1778289  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   `cCAAA this(ip a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   08:32-56 4398<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   08:31-86 21o 2-2021 08:29:54 INC 24855437 17A03 20 HEATHWOOD ROAD, BURNAGE MANCHESTER, M19 1NX Male 91Y 91YOM - FALLEN - INJURED HIS BACK GRD 386147 39q<EM>64<NUL><NUL>
-POCSAG1200: Address:  307411  Function: 2  Alpha:   <GS>)A&)<ETX><GS><HT>A<SO>%<HT>Affbfdd@hfj`jr<NUL><NUL>
-POCSAG2400: Address:  549031  Function: 2  Alpha:   08:30-58 **TEST TEST**
-POCSAG2400: Address:  549012  Function: 2  Alpha:   08:30-74 **TEST TEST**
-POCSAG2400: Address:  549008  Function: 2  Alpha:   08:30-46 **TEST TEST**
-POCSAG1200: Address: 1321555  Function: 2  Alpha:   08:30-00 **TEST TEST**
-POCSAG1200: Address: 1925368  Function: 2  Alpha:   08:30-45 **TEST TEST**
-POCSAG2400: Address:  549001  Function: 2  Alpha:   08:30-61 **TEST TEST**
-POCSAG2400: Address: 1745143  Function: 1 
-POCSAG1200: Address: 1974800  Function: 0 
-POCSAG1200: Address: 1534257  Function: 2  Alpha:   08:29-86 PLEASE CONTACT CONTROL THANKS<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1580753  Function: 3  Alpha:   <BEL><DEL>
-POCSAG1200: Address:  732937  Function: 3 
