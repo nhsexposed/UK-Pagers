@@ -1,3 +1,12 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1923211221+++TIME=1923211221<NUL>
+POCSAG1200: Address: 1708066  Function: 0  Alpha:   <BS>9<SYN><BS><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/20
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:23-76 2427<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   19:23-44 4155<NUL>
+POCSAG1200: Address: 1736361  Function: 2 
+POCSAG2400: Address:  265306  Function: 0 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:20-94 2018<NUL>
+POCSAG1200: Address: 1548531  Function: 0 
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   19:19-98
 POCSAG1200: Address:  455520  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1918211221+++TIME=1918211221<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1032180  Function: 3  Alpha:   %$
 POCSAG1200: Address: 1145431  Function: 2  Alpha:   P<EM>\<CAN>YZ<EM><DLE>ZYX[Y<FS>
 POCSAG2400: Address: 1320364  Function: 2  Alpha:   14:21-29 2065<NUL>
 POCSAG2400: Address: 1913876  Function: 2  Alpha:   14:19-61 3103<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:19-94 4153<NUL>
-POCSAG1200: Address:  216428  Function: 2  Alpha:   14:19-69 6983 
-POCSAG1200: Address:  964736  Function: 2 
-POCSAG1200: Address:  618313  Function: 3  Alpha:   C<EM>
-POCSAG2400: Address:  583813  Function: 2  Alpha:   14:18-31 76869
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   14:18-23 5897<NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   14:18-81 21/12/2021 14:15:52 INC 24856714 30D02 THE MANOR HOUSE, BRIDGE ROAD, CHATBURN CLITHEROE, BB7 4AW Male 95Y M; DISLOCATED SHOULDER AND NOT AWAKE GRD 376898 444110<NUL><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   14:18-41 3414<NUL>
-POCSAG1200: Address: 1001133  Function: 2  Alpha:   14:18-40 Adult cardiac arrest  WXH  A/E  Resus  14.16hrs<LF><LF><NUL><NUL>
