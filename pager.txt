@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1032539  Function: 3  Alpha:   60
+POCSAG1200: Address:  585543  Function: 2  Alpha:   16:44-51 3999<NUL>
+POCSAG1200: Address: 1730096  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1643211221+++TIME=1643211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:  216740  Function: 2  Alpha:   16:41-38 LIGHT IN GARAGE AREA IS OUT -  WS13 7JL BLOOMFIELD CRESCENT <NUL><NUL>
+POCSAG2400: Address: 2079604  Function: 0 
+POCSAG1200: Address: 1295433  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:39-84 Call 24857191 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:39-40 Call 24857191 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  470202  Function: 1  Alpha:   Z[X\<CAN>P<SYN>Pk09w4w3P<SYN>Piq2w2P*wy0s2<ETB>Pa77:yp1:Pa77:y76<DLE>s79<DLE>s:9:t29P02{tq2<ETB>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:39-46 Call 
 POCSAG2400: Address:   28909  Function: 0  Alpha:   16:39-31 9<NUL>
 POCSAG1200: Address: 1485611  Function: 3  Alpha:   6$
 POCSAG2400: Address:  585333  Function: 2  Alpha:   16:38-90 Please Call - 07713801803
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1913904  Function: 2  Alpha:   12:38-94 5002<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238211221+++TIME=1238211221<NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   12:38-36 5201<NUL>
 POCSAG2400: Address: 1323896  Function: 2  Alpha:   12:38-23 5632<NUL>
-POCSAG2400: Address: 1913848  Function: 2  Alpha:   12:37-25 2616<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1022833  Function: 0  Alpha:   12:37-12 PLS CALL RICHARD 07789 745 037
-POCSAG1200: Address:  585367  Function: 2  Alpha:   12:36-08 8386<NUL>
-POCSAG1200: Address: 2040564  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1233211221+++TIME=1233211221<NUL>
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   12:33-70 21/12/2021 12:31:00 INC 2
-POCSAG1200: Address:  346010  Function: 0  Alpha:   12:33-18 21/12/2021 12:31:00 IN
-POCSAG512: Address: 1483415  Function: 0 
-POCSAG2400: Address:  131752  Function: 1  Alpha:   <DLE>h<DC3>4Q4<DLE>5rSsT<VT><NUL>
-POCSAG2400: Address:    9474  Function: 0  Alpha:   EMiIA<SOH>5<SOH><HT>&>NBf<STX>5<SOH>]A<NAK><SOH>MR<SYN><ACK>R>N&N2<SOH>5&
-POCSAG2400: Address:  549110  Function: 2  Alpha:   12:32-22 FAST TRACK LIVER OFFER: Donor 153446, Hospital COVENTRY UNIV, HM1701, DOB 18/11/1964, DBD, Organ Location: KINGS, X-Clamp: 07:11, Fast track trigger point met: X CLAMP 07;11. THIS OFFER EXPIRES
