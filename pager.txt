@@ -1,3 +1,22 @@
+POCSAG1200: Address: 1312441  Function: 2  Alpha:   15:29-22 Adult Cardiac Arrest A&E Resus NGH at 14:21<NUL><NUL>
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   15:29-25 5092<NUL>
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   F<FF>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>VAL
+POCSAG2400: Address: 1022570  Function: 0  Alpha:   15:28-50 75820
+POCSAG1200: Address: 2000629  Function: 1 
+POCSAG2400: Address: 1324161  Function: 2  Alpha:   15:28-15 PageOne test message please ignore 929551<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913724  Function: 2  Alpha:   15:27-23 4855<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   15:27-50 5204<NUL>
+POCSAG1200: Address: 1562659  Function: 2  Alpha:   15:27-53 2076<NUL>
+POCSAG1200: Address:  679608  Function: 2  Alpha:   15:27-15 call on 69001
+POCSAG1200: Address: 1022833  Function: 0  Alpha:   15:27-13 PLS CALL RE : UPS SYSTEMS. JOHN RADCLIFFE. ADAM JONES. 01892 836 096. EMAIL : AJONES@AVENUEBUILDING.CO.UK <NUL><NUL>
+POCSAG1200: Address:   42847  Function: 2  Alpha:   15:26-66 5185<NUL>
+POCSAG1200: Address:   42847  Function: 2  Alpha:   15:26-65 8<NUL>
+POCSAG2400: Address: 1913643  Function: 2  Alpha:   15:26-28 5536<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   15:25-62 v7:5<NUL>
+POCSAG2400: Address:  274497  Function: 2  Alpha:   <CR>g
+POCSAG2400: Address:  269128  Function: 1  Alpha:   <ETB><SUB>
 POCSAG1200: Address: 1260023  Function: 2  Alpha:   15:24-20 3694<NUL>
 POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523211221+++TIME=1523211221<NUL>
@@ -979,22 +998,3 @@ POCSAG2400: Address: 1913643  Function: 2  Alpha:   11:31-23 5204<NUL>
 POCSAG1200: Address: 1039184  Function: 3  Alpha:   VD
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:31-60 21/12/2021 11:29:52 INC 24856068 30D03 ST EDWARDS COLLEGE, NORTH DRIVE, SANDFIELD PARK WEST DERBY L12, L12 1LF Male 13Y DISLOCATED WRIST - DIB GRD 339607 392388<NUL><NUL>
 POCSAG1200: Address:  312672  Function: 0  Alpha:   11:31-59 21/12/2021 11:29:09 INC 24856065 27D03S 22 BELA GROVE, CENTRAL BLACKPOOL, FY1 5JZ Male 50Y BLEEDING FROM STOMACH GRD 331514 434962<NUL>
-POCSAG1200: Address: 1141489  Function: 2  Alpha:   Jt<FS><EOT><DC2>#C+3<VT>3<DC3><ETX><SUB><VT>#<EOT><DC3><ETX><DC2>M4-<DC4><GS>M$,<EOT>r,<NAK><GS>Mt<<EOT>B|l,d<STX>j<FF>t<FS>D,<FS>%-<DC4><ENQ><DC2>}<FF>$d<STX>BL%,d<STX><SUB>]<FF>#<ETX><DC2>#,<EOT>j<FF>f.<ACK>:<ESC>K<ENQ>r|$<ENQ><DC2>-<FS><ENQ>}t$Lt<d<STX><SUB><FF>t$<ENQ>:<CR>\,<EOT>BLl<EOT>*<ENQ><ENQ>:<DC4>%<EOT><SUB>K<ESC>C<DC3>C<ETX><SUB>K+<ESC>CK<ETX><NUL><NUL>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   11:30-06 21/12/2021 11:28
-POCSAG2400: Address:   28924  Function: 0  Alpha:   11:30-20 4330<NUL>
-POCSAG1200: Address: 1394472  Function: 2  Alpha:   `KjA2
-POCSAG1200: Address:  548120  Function: 2  Alpha:   11:30-03 Direct test for John<NUL><NUL>
-POCSAG1200: Address:  200792  Function: 0 
-POCSAG1200: Address: 1067866  Function: 2  Alpha:   11:29-83 21/12/2021 11:27:27 INC 24856055 06D01 23 LARCH ROAD, RUNCORN WA7, WA7 5HY Female 73Y DIB GRD 352416 381264<NUL>
-POCSAG1200: Address:  269044  Function: 2  Alpha:   11:28-34 21/12/2021 11:27:09 INC 24856051 06D02 16 LYON STREET, SWINTON MANCHESTER, M27 5SG Male 49Y DIB / CIROSIS/ CHEST PAIN GRD 377427 401063<NUL>
-POCSAG2400: Address: 2024294  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1128211221+++TIME=1128211221<NUL>
-POCSAG2400: Address: 1321280  Function: 2  Alpha:   11:28-92 31809
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:28-74 3104<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:27-65 2616<NUL>
-POCSAG2400: Address: 1814698  Function: 2  Alpha:   11:27-84 4188<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:26-73 2018<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   11:26-07 4158<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   <ACK>b
-POCSAG2400: Address: 1966692  Function: 2 
-POCSAG2400: Address: 2045128  Function: 2  Alpha:   4w
