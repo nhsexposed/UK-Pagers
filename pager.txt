@@ -1,3 +1,12 @@
+POCSAG2400: Address:   28927  Function: 0  Alpha:   07:23-42 5125<NUL>
+POCSAG1200: Address: 1323358  Function: 2  Alpha:   07:23-50 (2/2) Type     S1.2.1 Medical - Co Responding IRS Map ref  233547.03,103204.77  KVG072;INFORMING YOU AS DEFUSING CRITERIA MET <NUL><NUL>
+POCSAG1200: Address:  549872  Function: 2  Alpha:   07:24-81 ~PLEASE CONTACT CONTROLS<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0723211221+++TIME=0723211221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1650814  Function: 3  Alpha:   <NAK>&v%<ACK>&<SYN><ACK><EOT>v&<ETB>v&G<ACK><ACK><DC4>i9<BS>$F<ACK>WV&ff<ACK><EOT><SYN>6<BS>V<ACK>$6<ACK>TXY(:zi<HT>4J*ZXHJ<ENQ>Dz<HT>KZH<LF><HT>D<HT>G<ENQ>D<HT><BEL><DC4><SYN>;<LF>T<EM>L]<FF>Tf<SYN><VT><DC4>(Hx<HT><EOT><SUB><CAN>iI<ENQ>dzY<EM>I<SUB>iy<BS>t(J<BS>46Vvf&<ACK>4<ACK><ETB><BEL>F&<ACK><NUL>
+POCSAG1200: Address: 2007567  Function: 0 
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   07:19-93 O/S ON JUNCTION, SHAH OF PERSIA, 173 LONGFLEET ROAD, POOLE, BH15 2HS . Traffic/Transportation Accidents , 21/12/2021 07:19:35 EMG AHnbcation 16952413 ,  RTC - CAR V MOTORBIKE ,
 POCSAG2400: Address:   28895  Function: 0  Alpha:   07:19-20 5125<NUL>
 POCSAG2400: Address:  829301  Function: 1 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0718211221+++TIME=0718211221<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  945252  Function: 2
 POCSAG1200: Address: 1923176  Function: 1 
 POCSAG1200: Address:  602160  Function: 3 
 POCSAG1200: Address: 1843238  Function: 1 
-POCSAG1200: Address:  125519  Function: 1 
-POCSAG1200: Address: 1569134  Function: 0 
-POCSAG1200: Address:  369040  Function: 1  Alpha:   >Q
-POCSAG1200: Address: 1667904  Function: 3 
-POCSAG1200: Address:   76083  Function: 2  Alpha:   <RS>+LnK
-POCSAG1200: Address: 1611744  Function: 1  Alpha:   'a$whPyl
-POCSAG1200: Address:  469477  Function: 2  Alpha:   i<HT><STX>1Rs<DC1>(<VT><BS>3Pp3U4<DC1><DC1>HP41<DLE><NAK>2R<DC3>h<DC1>hQ<DC4><DC1>hl<CR><CR>lm<FF><BS>M<FF><SO>-l<CR><NUL>
-POCSAG1200: Address:  165241  Function: 0  Alpha:    m<ACK>N?I z
-POCSAG1200: Address:  354596  Function: 0  Alpha:   <DC1>3
