@@ -1,3 +1,22 @@
+POCSAG2400: Address: 2073425  Function: 3 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:14-88 4660<NUL>
+POCSAG2400: Address: 1913959  Function: 2  Alpha:   13:14-26 5056<NUL>
+POCSAG1200: Address: 2022120  Function: 3 
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   13:13-44 5114<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   13:13-61 5201<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   13:13-19 2339<NUL>
+POCSAG2400: Address: 1323140  Function: 2  Alpha:   13:12-32 NHSBT - DONOR REFERRAL. Please call HOLLY on Direct Dial Number 0161 291 6403 Hospital WYTHENSHAWE HOSPITAL, MANCHESTER Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 2011730  Function: 3 
+POCSAG1200: Address:  665898  Function: 2  Alpha:   13:12-93 HI SCOTT, PLEASE CONTACT CONTROL<NUL>
+POCSAG1200: Address: 1534131  Function: 2  Alpha:   13:12-16 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
+POCSAG1200: Address:  354553  Function: 2  Alpha:   <DLE><DC1>
+POCSAG2400: Address: 1322309  Function: 2  Alpha:   13:12-05 Please call Medical SHO on Mob: 07944 042926.<LF>Thank You<NUL>
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   13:11-92 5204<NUL>
+POCSAG2400: Address: 2009723  Function: 0 
+POCSAG2400: Address: 2000625  Function: 1 
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   13:10-06 4163<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   13:10-79 2427<NUL>
 POCSAG2400: Address: 1913772  Function: 2  Alpha:   13:09-08 2304<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   13:09-21 5330<NUL>
 POCSAG2400: Address: 1913884  Function: 2  Alpha:   13:09-67 2427<NUL>
@@ -979,22 +998,3 @@ POCSAG2400: Address: 1320153  Function: 2  Alpha:   09:58-50 NHSBT - DONOR REFER
 POCSAG2400: Address:  583548  Function: 2  Alpha:   09:58-42 80300
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0958211221+++TIME=0958211221<NUL>
 POCSAG1200: Address:  290120  Function: 3  Alpha:   <SYN><DC2>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0958211221+++TIME=0958211221<NUL>
-POCSAG2400: Address:  583530  Function: 2  Alpha:   09:58-16 80300
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   09:58-30 please call david riley on 01756 799782,thanks.<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  265228  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1505826  Function: 2  Alpha:   09:57-93 HI, SY CONFIRMED RIDING 4 AND 4 TODAY <NUL>
-POCSAG1200: Address: 1000041  Function: 2  Alpha:   09:57-24 PLEASE CONTACT CONTROL URGENTLY THANKS<NUL>
-POCSAG2400: Address:   28901  Function: 0  Alpha:   09:57-96 5415<NUL>|<DEL><DEL>
-POCSAG2400: Address: 1321597  Function: 2  Alpha:   09:57-57 X64132<NUL><NUL>
-POCSAG1200: Address:   80161  Function: 3  Alpha:   <DC2>C<DC1>0L
-POCSAG1200: Address: 1752438  Function: 2  Alpha:   09:56-20 Signallers please note Emergency Alarm test is mandatory between 10:00 and 11:00 each day.<NUL>
-POCSAG2400: Address:  584089  Function: 2  Alpha:   09:56-48 80300
-POCSAG2400: Address:  980691  Function: 3 
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG1200: Address:  600635  Function: 2  Alpha:   09:55-31 TEST CALL 0121 348 8030<NUL><NUL>
-POCSAG1200: Address: 1761472  Function: 3  Alpha:   <DLE>D<FF><STX><DLE>P0f
-POCSAG2400: Address: 1324305  Function: 2  Alpha:   09:55-70 80300
-POCSAG2400: Address: 1260220  Function: 2  Alpha:   09:55-35 3481<NUL>
-POCSAG2400: Address:  583520  Function: 2  Alpha:   09:55-70 80300
