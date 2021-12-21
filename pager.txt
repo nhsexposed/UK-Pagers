@@ -1,3 +1,21 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:29-97 4042<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:29-14 4114<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:28-56 3507<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   09:28-56 2427<NUL>
+POCSAG2400: Address: 1321504  Function: 2  Alpha:   09:28-52 PLS CALL MARIE ON 07792 739 629 <NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0928211221+++TIME=0928211221<NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   09:27-19 2057<NUL>
+POCSAG1200: Address:  269046  Function: 2  Alpha:   09:27-54 21/12/2021 09:26:18 INC 24855629 10D02 11 OAK AVENUE, PENWORTHAM, PR1 0XQ Male 93Y NOT WELL / CHEST PAIN / DIB GRD 351979 427227
+POCSAG1200: Address:  269400  Function: 3  Alpha:   <ACK>"
+POCSAG2400: Address:   28893  Function: 0  Alpha:   09:26-37 5201<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   09:26-31 5204<NUL>
+POCSAG1200: Address:  209785  Function: 2  Alpha:   09:26-40 21/12/2021 09:25:26 INC 24855625 10C01 FLAT 44 WELL COURT, WELL TERRACE, CLITHEROE, BB7 2AD Female 80Y chest pain and vomitting GRD 374593 442207
+POCSAG1200: Address:  269168  Function: 2  Alpha:   09:26-36 21/12/2021 09:25:26 INC 24855625 10C01 FLAT 44 WELL COURT, WELL TERRACE, CLITHEROE, BB7 2AD Female 80Y chest pain and vomitting GRD 374593 442207
+POCSAG1200: Address:  269400  Function: 3  Alpha:   <ACK><EM>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:26-13 2427<NUL>
+POCSAG2400: Address:   28920  Function: 0  Alpha:   09:26-21 2642<NUL>
+POCSAG1200: Address: 1511864  Function: 3  Alpha:   <SYN>q
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:24-55 3508<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   09:24-96 4156<NUL>
 POCSAG1200: Address:  548160  Function: 2  Alpha:   09:23-14 4404<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0923211221+++TIME=0923211221<NUL>
@@ -980,21 +998,3 @@ POCSAG2400: Address: 1713136  Function: 0
 POCSAG1200: Address: 1966072  Function: 3 
 POCSAG1200: Address:  733005  Function: 1  Alpha:   <DC3>(R<DC3>h<DC4>u33p<DLE>2<VT><BS>1RQ1r0<NAK><DC3>5<SYN>HP41<DLE><NAK>2Rs<DC1>hQ<DC4><DC1>h<FF>N<CR>Ml<CR><BS><CR>,,<CR><CR><CR><NUL><NUL>
 POCSAG1200: Address: 1796332  Function: 0 
-POCSAG1200: Address:  930489  Function: 2  Alpha:   03:34-28 21/12/2021 03:32:26 INC 24854928 06E01 31 AUGUSTINE WEBSTER CLOSE, MOSTON MANCHESTER, M9 4DG Male 3
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333211221+++TIME=0333211221<NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   03:33-16 2057<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   03:32-41 2183<NUL>
-POCSAG1200: Address:  108097  Function: 0  Alpha:   03:31-07 1222<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328211221+++TIME=0328211221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0328211221+++TIME=0328211221<NUL>
-POCSAG1200: Address:  352586  Function: 2  Alpha:   03:28-55 6159<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323211221+++TIME=0323211221<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:23-10 4316<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address: 2011773  Function: 0 
-POCSAG1200: Address:  548160  Function: 2  Alpha:   03:22-13 2395<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 1441911  Function: 0 
