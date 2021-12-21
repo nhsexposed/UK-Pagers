@@ -1,3 +1,30 @@
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   10:14-99 Paula 8128<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:14-62 4187<NUL>
+POCSAG1200: Address: 1710187  Function: 2  Alpha:   10:14-40 1234<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   10:13-16 2218<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:13-57 2183<NUL>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   10:13-20 3246<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  679754  Function: 2  Alpha:   10:13-92 0000<NUL>
+POCSAG1200: Address: 1710187  Function: 2  Alpha:   10:13-39 0000<NUL>
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   10:12-39 3507<NUL>
+POCSAG2400: Address:  549203  Function: 2  Alpha:   10:11-29 PLS CALL LEANNE 
+POCSAG2400: Address: 1073603  Function: 0 
+POCSAG2400: Address: 1357891  Function: 1 
+POCSAG2400: Address:  144193  Function: 2  Alpha:    'l"<DLE>
+POCSAG2400: Address: 1712947  Function: 0 
+POCSAG2400: Address: 1322819  Function: 2  Alpha:   10:11-41 PLS CALL LEANNE NRC 0800 432 0559 OPTION 2 REGARDING DONOR 153446
+POCSAG2400: Address: 1322877  Function: 2  Alpha:   10:11-85 PLS CALL LEANNE NRC 0800 432 0559 OPTION 2 REGARDING DONOR 153446
+POCSAG1200: Address:  269047  Function: 2  Alpha:   10:12-44 21/12/2021 10:11:18 INC 24855795 10D04 ARROWSCROFT COURT - FLAT 7, HIGHFIELD GARDENS, HOLLINGWORTH HYDE, SK14 8PH Female 84Y CHEST PAIN GRD 400537 396138
+POCSAG2400: Address: 1322884  Function: 2  Alpha:   10:11-91 PLS CALL LEANNE NRC 0800 432 0559 OPTION 2 REGARDING DONOR 153446
+POCSAG2400: Address: 1015204  Function: 2  Alpha:   10:11-13 PLS CALL LEANNE NRC 0800 432 0559 OPTION 2 REGARDING DONOR 153446
+POCSAG2400: Address: 1322886  Function: 2  Alpha:   10:11-36 PLS CALL LEANNE NRC 0800 432 0559 OPTION 2 REGARDING DONOR 153446
+POCSAG2400: Address:  549065  Function: 2  Alpha:   10:11-30 PLS CALL LEANNE NRC 0800 432 0559 OPTION 2 REGARDING DONOR 153446
+POCSAG1200: Address: 1512669  Function: 3  Alpha:   F.
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>a
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   10:11-07 21/12/2021 10:09:50 INC 24855787 25B03 34 WESTMORLAND ROAD, WITHINGTON MANCHESTER, M20 2TA Female UnknownY SUICIDAL GRD 384135 390880
+POCSAG2400: Address: 1260202  Function: 2  Alpha:   10:10-58 2564<NUL>
+POCSAG2400: Address:  585961  Function: 2  Alpha:   10:10-60 34665
 POCSAG1200: Address: 1032929  Function: 3  Alpha:   &0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1008211221+++TIME=1008211221<NUL>
 POCSAG2400: Address: 1913651  Function: 2  Alpha:   10:08-88 4885<NUL>
@@ -964,33 +991,6 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353211221+++TIME=03
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353211221+++TIME=0353211221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
