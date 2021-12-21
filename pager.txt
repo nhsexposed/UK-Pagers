@@ -1,3 +1,6 @@
+POCSAG2400: Address: 2007796  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1475096  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address: 1321707  Function: 2  Alpha:   07:32-19 Destination: Parking\D78 Ext TP, Booking Ref#: 806793, Vehicle: FD17ORG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
 POCSAG1200: Address: 1321243  Function: 2  Alpha:   07:30-72 Please call AGH switchboard on 01535 652511<NUL><NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address: 1478012  Function: 2
 POCSAG1200: Address: 1782055  Function: 1  Alpha:   &&
 POCSAG1200: Address: 1071356  Function: 1  Alpha:   Q!
 POCSAG1200: Address: 1856233  Function: 0 
-POCSAG1200: Address:   94385  Function: 0 
-POCSAG1200: Address:  627370  Function: 3 
-POCSAG1200: Address:  592480  Function: 2  Alpha:   <CAN><BS>
