@@ -1,3 +1,14 @@
+POCSAG1200: Address: 1319029  Function: 2 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 2032009  Function: 3 
+POCSAG2400: Address:   87105  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:18-78 3157<NUL>
+POCSAG1200: Address:  510499  Function: 3  Alpha:   X\<GS>L]<FF>D<ACK><ETB><VT>$HYZ<BS>D<EM><HT>:<LF>t(J<BS>4<ACK>W6vF<ACK>4<ACK>w<ACK><BEL><ACK><ACK><NUL>
+POCSAG1200: Address: 1322184  Function: 2  Alpha:   22:17-85 Resource comment received for Incident 2112007430;  TO MDT - FURTHER CALL FROM ORIGINAL CALLER - STATING PEOPLE ARE INSIDE BEFORE CLEARING THE LINE<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:16-77 3157<NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   Xf
+POCSAG1200: Address: 1999650  Function: 2 
+POCSAG1200: Address: 1089611  Function: 2  Alpha:   22:14-92 21/12/2021 22:13:46 INC 24858552 17 PEEL STREET, LEIGH, WN7 1XF Male 64Y STABBED IN THE HEAD GRD 365335 400528
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   22:14-17 3298<NUL>
 POCSAG2400: Address: 2011264  Function: 3  Alpha:   <BS>5:;<EM>h[<EM>h0<CAN><ESC>[<SO>H,l+LlK<FF>L,<FF>HLL.<FF>L.<FF><CR><VT>hp;k[<FS>y\<SO>(<CR>Lk<CR>mLm-<CR><CR>(+L<VT><SO>NLmmL
 POCSAG2400: Address: 1814995  Function: 0  Alpha:   f<STX>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1032979  Function: 3  Alpha:   V<STX>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1323879  Function: 2  Alpha:   16:22-46 4392<NUL>
 POCSAG1200: Address: 1067985  Function: 2  Alpha:   16:22-57 Destination: D105 SSC In\102, Booking Ref#: 806220, Vehicle: AY69RJZ. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG2400: Address: 1913756  Function: 2  Alpha:   16:21-95 3181<NUL>
-POCSAG1200: Address:  548160  Function: 2  Alpha:   16:21-19 2935<NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   16:21-51 4316<NUL>
-POCSAG2400: Address: 1913762  Function: 2  Alpha:   16:20-16 3181<NUL>
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   16:19-03 8013 IP1 please<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:19-44 4316<NUL>
-POCSAG1200: Address: 1032983  Function: 2  Alpha:   &l
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   v`
-POCSAG2400: Address: 1913542  Function: 2  Alpha:   16:16-56 3259<NUL>
-POCSAG2400: Address: 1913949  Function: 2  Alpha:   16:18-28 2233<NUL>
-POCSAG2400: Address:  295505  Function: 0 
