@@ -1,3 +1,34 @@
+POCSAG1200: Address: 1512730  Function: 3  Alpha:   E<EM>
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   11:13-65 2304<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1113211221+++TIME=1113211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  548082  Function: 2  Alpha:   11:12-07 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address: 1516112  Function: 0 
+POCSAG1200: Address:  548099  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548080  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548067  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548114  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548127  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548103  Function: 2  Alpha:   11:12-52 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548089  Function: 2  Alpha:   11:12-07 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548118  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548060  Function: 2  Alpha:   11:12-09 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548079  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address:  548104  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
+POCSAG1200: Address: 2044534  Function: 0 
+POCSAG1200: Address: 1761309  Function: 3  Alpha:   <DC3>P
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:11-64 5042<NUL>
+POCSAG2400: Address:  149113  Function: 2  Alpha:   11:11-01 5202<NUL>
+POCSAG2400: Address: 1324160  Function: 2 
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   11:11-47 4457<NUL>
+POCSAG2400: Address: 1323205  Function: 2  Alpha:   11:10-01 PLS CONTACT CONTROL TO CONFIRM IF YOU ARE ON DUTY TODAY .... EOM<NUL>
+POCSAG2400: Address: 1321287  Function: 2  Alpha:   11:10-96 34995
+POCSAG2400: Address:  549199  Function: 2  Alpha:   11:09-48 80300
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:09-58 Call 24855975 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:09-79 Call 24855975 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1502130  Function: 2  Alpha:   11:09-26 Call 24855975 - Warnin
+POCSAG1200: Address: 1511844  Function: 2  Alpha:   <SYN><ACK>
+POCSAG1200: Address: 1032147  Function: 2  Alpha:   B<BS><NUL>`L
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1108211221+++TIME=1108211221<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   11:08-64 4155<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
@@ -967,34 +998,3 @@ POCSAG1200: Address:   92456  Function: 2  Alpha:   .<DEL>
 POCSAG1200: Address: 2001526  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  855512  Function: 1 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   06:05-87 4140<NUL>
-POCSAG1200: Address:  549799  Function: 2  Alpha:   06:05-07 ATTEND:<LF>BUILDING<LF>GREAT JAMES STREET,NORTHLAND,LONDONDERRY,LONDONDERRY<LF>0P 2T<LF>35677211<LF>C 43200 17100<LF>W1201 W1202 WO22<LF>END
-POCSAG1200: Address: 1817712  Function: 2  Alpha:   06:03-36 RE DO
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603211221+++TIME=0603211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1022230  Function: 2  Alpha:    ?202-34 21/12/2021 05:57:48 INC 24855156 25A01V 11 GREEN LANE, TUEBROOK L13, L13 7DT Male 42Y ATTACKED WITH A FIRE EXTIGUSHER, AFTER ATTACKING OTHERS GRD 338371 392393
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0558211221+++TIME=0558211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   05:57-51 21/12/2021 05:54:39 INC 24855150 29D06 JUNCT WITH DERBY ST, ST HELENS ROAD, BOLTON, BL3 3PA Unknown UnknownY 3 VEHICLE RTC - PERSON TRAPPED GRD 370258 407513<NUL><NUL>
-POCSAG1200: Address:   40100  Function: 2  Alpha:   05:57-14 21/12/2021 05:54:39 INC 24855150 JUNCT WITH DERBY ST, ST HELENS ROAD, BOLTON, BL3 3PA Unknown UnknownY 3 VEHICLE RTC - PERSON TRAPPED GRD 370258 40751
-POCSAG1200: Address:  100697  Function: 2 
-POCSAG1200: Address:  518672  Function: 1 
-POCSAG1200: Address: 1765712  Function: 3 
-POCSAG2400: Address: 1320366  Function: 2  Alpha:   05:55-16 4155<NUL>
-POCSAG1200: Address:  930489  Function: 2  Alpha:   05:54-32 21/12/2021 05:52:48 INC 24855147 09E02 CORNER OF PLANT HILL ROAD, A JS FOOD BOX, 182 CHAPEL LANE, BLACKLEY MANCHESTER, M9 8LZ Male 45Y MALE ON FLOOR- COME OFF BIKE GRD 385082 403397<NUL>
-POCSAG1200: Address: 1801664  Function: 2  Alpha:   A<RS><CR><CR>A<EOT><DC3><ETB><VT>A<SO>%<HT>Afpj`pd@h`ffrn<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:53-85 4373<NUL>
-POCSAG2400: Address: 1484369  Function: 0 
-POCSAG2400: Address: 1717069  Function: 1  Alpha:   (<DC3><ESC><VT>{`jjfdbbddbVVV(<DC3><ESC><VT>{`jjfdbbddb<NUL>
-POCSAG2400: Address: 1022869  Function: 1 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   05:51-96 21/12/2021 05:49:22 INC 24855143 29D05V 427 ALSO, 425 WIGAN ROAD, DAUBHILL BOLTON, BL3 4QJ Unknown UnknownY RTC GRD 369201 407861<NUL><NUL>
-POCSAG1200: Address: 1687721  Function: 1  Alpha:   A]aYE
-POCSAG1200: Address: 2074227  Function: 2 
-POCSAG1200: Address: 2044288  Function: 2  Alpha:   <ACK>K;';<US><ETX>5<SOH>M<SO><ETB>;<ETB><ETX>U:O<BEL><ESC><ETB>;<SOH><CR>>;SK<BEL><SI>S<ETX><CR>>;SK?3<ETX><EM>?K<ETX><EM>WKS#<ETB>K<ETX><ENQ><DC3>['<SI><BEL>c<SOH>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   05:49-95 Call 24855139 - 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   05:49-24 4155<NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   05:48-46 3119<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   05:47-54 3119<NUL>
