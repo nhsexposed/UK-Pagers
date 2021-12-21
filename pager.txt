@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   &0
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1008211221+++TIME=1008211221<NUL>
+POCSAG2400: Address: 1913651  Function: 2  Alpha:   10:08-88 4885<NUL>
+POCSAG2400: Address: 1913585  Function: 2  Alpha:   10:08-99 3243<NUL>
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   10:06-24 2307<NUL>
+POCSAG2400: Address:  549007  Function: 2  Alpha:   10:06-32 IP1 8013
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   Fj
+POCSAG1200: Address: 1489776  Function: 1 
+POCSAG2400: Address: 1260202  Function: 2  Alpha:   10:05-57 2564<NUL>
+POCSAG1200: Address: 1262593  Function: 3  Alpha:   1<CAN>=<EM>z;}<YKbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww7C"C<STX><NUL><NUL>
+POCSAG1200: Address: 1534145  Function: 2  Alpha:   10:04-67 BOSS Mobile: https://bossd.nfcsp.org.uk
 POCSAG1200: Address: 1534145  Function: 2  Alpha:   10:04-66 (2/2) NEWPORT          PO30 1JQ Type     M8 Notifications Map ref  450154,89067 <NUL><NUL>
 POCSAG1200: Address: 1032691  Function: 3  Alpha:   &<ACK>
 POCSAG2400: Address: 1323145  Function: 2  Alpha:   10:03-52 PLS CALL GEMMA DAVIS 0800 432 0559 OPTION 2 TISSUE DONATION REGARDING DONOR 153444
@@ -952,18 +964,6 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353211221+++TIME=03
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353211221+++TIME=0353211221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
