@@ -1,3 +1,38 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 2011699  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:  394291  Function: 2  Alpha:   l<NUL>
+POCSAG1200: Address:  270378  Function: 2 
+POCSAG1200: Address: 1305574  Function: 2 
+POCSAG1200: Address:  632777  Function: 0 
+POCSAG1200: Address: 1705314  Function: 3  Alpha:   g)gg1
+POCSAG1200: Address:  372020  Function: 0  Alpha:   Y:
+POCSAG1200: Address:  856291  Function: 2 
+POCSAG1200: Address: 1192161  Function: 2 
+POCSAG1200: Address:  852649  Function: 1  Alpha:   OS
+POCSAG1200: Address:  133238  Function: 1  Alpha:   3<DLE>
+POCSAG1200: Address: 1187880  Function: 1  Alpha:   <DC4><CR>
+POCSAG1200: Address:  915017  Function: 3 
 POCSAG1200: Address: 1976739  Function: 3  Alpha:   A<NAK>
 POCSAG1200: Address:  465839  Function: 2  Alpha:   bt
 POCSAG1200: Address: 1717624  Function: 1 
@@ -963,38 +998,3 @@ POCSAG1200: Address:   33723  Function: 2  Alpha:   23:52-75 23:52-74 BLOCKED CA
 POCSAG1200: Address:  273040  Function: 3  Alpha:   06/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
 POCSAG1200: Address: 1313126  Function: 2  Alpha:   23:52-56 BLOCKED CATHETER PLEASMdvHNG IC24 <NUL><NUL>
-POCSAG2400: Address:  115792  Function: 2 
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   23:52-82 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
-POCSAG2400: Address:  149253  Function: 2  Alpha:   23:52-73 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
-POCSAG2400: Address: 1323475  Function: 2  Alpha:   23:52-31 BLOCKED CATHETER PLEASE RING IC24 <NUL><NUL>
-POCSAG2400: Address:  537854  Function: 0  Alpha:   23:52-34 5201<NUL>
-POCSAG1200: Address: 1489620  Function: 0 
-POCSAG1200: Address:  543865  Function: 1  Alpha:   <CAN><SUB>\<CAN>PY\YY\<SUB>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   23:50-70 5201<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
