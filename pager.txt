@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1001191  Function: 2  Alpha:   15:09-97 Good afternoon, this is the Gold Pager Test Call.  Please respond to 0207 2819000<LF><LF>Thank you.<LF><LF>Suzanne <NUL><NUL>
+POCSAG2400: Address: 1913724  Function: 2  Alpha:   15:09-21 5057<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1508211221+++TIME=1508211221<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:08-30 4387<NUL>
+POCSAG1200: Address:  600697  Function: 0  Alpha:   15:08-63 DUTY OFFICE PLEASE <ETX><ETX><BS>H PAM 0795 8005290<NUL><NUL>
+POCSAG2400: Address: 1913774  Function: 2  Alpha:   15:07-39 5324<NUL>
+POCSAG1200: Address:  585286  Function: 2  Alpha:   15:07-42 12
+POCSAG2400: Address: 1324316  Function: 2  Alpha:   15:07-94 Payment confirmation, <CR><LF><CR><LF>Dear Mr Kimpriktzis,<CR><LF><CR><LF>Thank you for your payment of &pound;11.99.<CR><LF><CR><LF>This amount is currently being processed through our systems. Subject<CR><LF>to clearance this will be credited to your account and shown o
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913643  Function: 2  Alpha:   15:06-26 2182<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   15:06-00 4555<NUL>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   15:06-38 21/12/2021 15:03:40 INC 24856902 25B03V FLAT 1, VICTORIA HOUSE, 33 STANLEY ROAD, WHALLEY RANGE MANCHESTER, M16 9XJ Female 35Y VOICES GETTING LOUDER FEELS LIKE SELF HARMING AND HURT OTHERS GRD 381967 396197
+POCSAG1200: Address:  433159  Function: 2  Alpha:   15:06-88 992<NUL><NUL>
+POCSAG1200: Address:  466773  Function: 1 
+POCSAG1200: Address: 1978970  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:04-38 4379<NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   15:05-27 3117<NUL>
+POCSAG1200: Address: 2072817  Function: 1 
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   15:04-89 Please call Mr Stern on 07904639644<NUL>
+POCSAG2400: Address:  585918  Function: 2  Alpha:   15:04-25 Please call Mr Stern on 07904639644<NUL>
 POCSAG2400: Address: 1320200  Function: 2  Alpha:   15:04-54 2581<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 1506625  Function: 3 
@@ -977,24 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:     512  Function: 0 
-POCSAG1200: Address: 1965633  Function: 3  Alpha:   <FF><DLE>
-POCSAG1200: Address:  634355  Function: 0  Alpha:   h`<VT><VT>g2s2)L<SYN>/<RS>&+/<NUL>
-POCSAG1200: Address: 1910193  Function: 0  Alpha:   <CAN>}
-POCSAG1200: Address: 1429832  Function: 0 
-POCSAG1200: Address: 1581431  Function: 1 
-POCSAG1200: Address: 1066296  Function: 3 
-POCSAG1200: Address: 1329961  Function: 2 
-POCSAG1200: Address: 1938163  Function: 0 
-POCSAG1200: Address: 1581681  Function: 3  Alpha:   <RS>N"O.o<ACK>r
-POCSAG1200: Address: 1671219  Function: 3  Alpha:   S<HT>
-POCSAG1200: Address:  925741  Function: 0 
-POCSAG1200: Address: 1959330  Function: 1 
-POCSAG1200: Address: 1259647  Function: 0  Alpha:   R<BEL>bjF',<STX>R7K<ESC><SI><ETX>
-POCSAG1200: Address:  336328  Function: 2 
-POCSAG1200: Address: 1370814  Function: 1 
-POCSAG1200: Address: 1111456  Function: 1 
-POCSAG1200: Address: 1878612  Function: 2 
-POCSAG1200: Address:   43183  Function: 2 
-POCSAG1200: Address:  274852  Function: 1  Alpha:   NE<HT>cA
