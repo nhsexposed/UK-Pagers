@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1648211221+++TIME=1648211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1648211221+++TIME=1648211221<NUL>
+POCSAG2400: Address:  564456  Function: 0 
+POCSAG2400: Address:   28909  Function: 0  Alpha:   16:48-32 9<NUL>
+POCSAG2400: Address: 1913907  Function: 2  Alpha:   16:48-98 2581<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>#MDL
+POCSAG1200: Address:  227361  Function: 0  Alpha:   16:46-47 50795
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   16:44-47 8013 IP1 please<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   16:44-79 5010<NUL>
 POCSAG2400: Address: 1032539  Function: 3  Alpha:   60
 POCSAG1200: Address:  585543  Function: 2  Alpha:   16:44-51 3999<NUL>
 POCSAG1200: Address: 1730096  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address:  216321  Function: 2  Alpha:   12:40-50 (2/2) Roles    JY17
 POCSAG1200: Address:  548159  Function: 2  Alpha:   12:40-69 2565<NUL>
 POCSAG1200: Address: 1511870  Function: 2  Alpha:   v<EOT>
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   12:40-31 2581<NUL>
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:39-54 2387<NUL>
-POCSAG2400: Address: 1913884  Function: 2  Alpha:   12:39-66 4269<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1238211221+++TIME=1238211221<NUL>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   12:38-03 5201<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   12:38-94 5002<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238211221+++TIME=1238211221<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   12:38-36 5201<NUL>
-POCSAG2400: Address: 1323896  Function: 2  Alpha:   12:38-23 5632<NUL>
