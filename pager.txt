@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1260023  Function: 2  Alpha:   15:24-20 3694<NUL>
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523211221+++TIME=1523211221<NUL>
+POCSAG2400: Address: 2077694  Function: 2 
+POCSAG2400: Address: 2011251  Function: 2 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:23-10 5202<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1323879  Function: 2  Alpha:   15:22-45 4908<NUL>
+POCSAG2400: Address: 1242697  Function: 2  Alpha:   15:23-24 RE: paging Account V49277
+POCSAG1200: Address: 1565272  Function: 2  Alpha:   15:22-03 21/12/2021 15:19:56 INC 24856978 23B01I O/S, 138 BROOKHOUSE ROAD, BROOKHOUSE LANCASTER, LA2 9NP Female 40Y OVERDOSE GRD 353628 464432
+POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V<FF>L
+POCSAG2400: Address:   28895  Function: 0  Alpha:   15:21-27 2185<NUL>
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   15:21-31 INC ALERT No: 16953704 Falls - M- HEAD WOUND, FALLEN IN THE ROAD, AT: O/S, ENTERPRISE RENT A CAR, 460 PINHOE ROAD, EXETER, EX4 8HN, Time of Call: 21/12/2021 15:20:05, Co-ords: 50.7367048 -3.4770799<NUL><NUL>
+POCSAG1200: Address: 1761388  Function: 3  Alpha:   Un
+POCSAG2400: Address: 1581073  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:21-09 5202<NUL>
+POCSAG2400: Address: 1321952  Function: 2  Alpha:   15:20-65 Please Call - 39853
+POCSAG2400: Address: 1320282  Function: 2  Alpha:   15:20-99 5204<NUL>
+POCSAG2400: Address:  433538  Function: 2  Alpha:   15:20-24 6603<NUL>
+POCSAG1200: Address:  233568  Function: 2 
+POCSAG1200: Address:  350338  Function: 0  Alpha:   15:19-09 21/12/2021 15:16:43 INC 24856967 12D02E ROOM 124, UNIVERSITY OF CENTRAL LANCASHIRE - STUDENT CENTRE, FYLDE ROAD, PRESTON, PR1 7AG Female 27Y FITTING GRD 353475 429851<NUL><NUL>
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   15:19-94 4952<NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:19-00 5440<NUL>
 POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V<FF>L
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1518211221+++TIME=1518211221<NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   11:26-07 4158<NUL>
 POCSAG1200: Address:  230853  Function: 3  Alpha:   <ACK>b
 POCSAG2400: Address: 1966692  Function: 2 
 POCSAG2400: Address: 2045128  Function: 2  Alpha:   4w
-POCSAG2400: Address:   28894  Function: 0  Alpha:   11:25-03 4155<NUL>
-POCSAG2400: Address:   28869  Function: 0  Alpha:   11:25-12 PLEASE CALL BLEEP: 1462<NUL><NUL>
-POCSAG1200: Address:  401693  Function: 2  Alpha:   11:25-45 PLS CALL MRS GROSS ASAP 07801 825 814 RE: APPOINTMENT TIME 
-POCSAG2400: Address:  225476  Function: 2  Alpha:   11:25-44 TEST MESSAGE FROM PageOne COMMUNICATIONS.<NUL>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   11:24-04 21/12/2021 11:18:06 INC 24856015 28C03J HEALEY AND SPROWSON LTD FACTORY - IN CANTEEN, STUART ROAD, BRINNINGTON STOCKPORT, SK6 2SR Male 45Y LACK OF SPEECH GRD 391910 392757
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
-POCSAG2400: Address:  993724  Function: 3  Alpha:   KQ
-POCSAG2400: Address:  671766  Function: 1  Alpha:   <SYN>2<STX>=BO<ETX><EM>:<EM>:
-POCSAG2400: Address: 1324027  Function: 2  Alpha:   11:21-28 AMBER:SEL 111 Is In Front End Escalation DMP 4 - For furt ax information please call <02082536951 or 07557565895> - SEL Ops F.F.
-POCSAG2400: Address:  583818  Function: 2  Alpha:   11:24-14 74003
-POCSAG1200: Address:  312672  Function: 0  Alpha:   11:24-57 21/12/2021 11:22:39 INC 24856031 04B02A ENTRANCE, BOUNDARY MILL STORES, VIVARY WAY, COLNE, BB8 9NW Male 62Y ASSULTED GRD 387934 439951<NUL><NUL>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   11:22-81 21/12/2021 11:18:08 INC 24856016 01D01 3 FERNBANK COURT, NELSON, BB9 0NA Female 32Y VOMITING, PAIN IN PANCREAS GRD 386359 437367
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1913941  Function: 2  Alpha:   11:23-03 5415<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:23-55 4687<NUL>
-POCSAG2400: Address: 1323926  Function: 2  Alpha:   11:21-15 AMBER:SEL 111 Is In Front End Escalation DMP 4 - For further information please call <02082536951 or 07557565895> - SEL Ops F.F.
-POCSAG2400: Address:  583493  Function: 2  Alpha:   11:23-53 80300
-POCSAG2400: Address: 1913937  Function: 2  Alpha:   11:23-48 3132<NUL>
-POCSAG1200: Address: 1032022  Function: 3  Alpha:   F<DC2>
-POCSAG1200: Address:  585568  Function: 2  Alpha:   11:21-98 AMBER:SEL 111 Is In Front End Escalation DMP 4 - For further info
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  433814  Function: 2  Alpha:   11:20-33 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
