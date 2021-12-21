@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1913679  Function: 2  Alpha:   14:04-34 3504<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1403211221+++TIME=1403211221<NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   FF
+POCSAG1200: Address:  269456  Function: 3  Alpha:   UP
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403211221+++TIME=1403211221<NUL>
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN>R
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   14:02-44 3132<NUL>
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   14:02-43 3133<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:02-91 4514<NUL>
+POCSAG1200: Address: 1763049  Function: 2 
+POCSAG1200: Address: 1852808  Function: 0 
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>B
+POCSAG1200: Address:  434743  Function: 0 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   14:01-34 5203<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   14:01-48 21/12/2021 14:00:15 INC 24856650 06E01 47 FRANCIS ROAD, IRLAM MANCHESTER, M44 6AX Female 22Y BREATHLESS AND CHEST PAIN GRD 371917 394121
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:01-99 21/12/2021 14:00:15 INC 24856650 06E01 47 FRANCIS ROAD, IRLAM MANCHESTER, M44 6AX Female 22Y BREATHLESS AND CHEST PAIN GRD 371917 394121
+POCSAG1200: Address:  420446  Function: 3  Alpha:   <DC2>C<CR><SUB>L
+POCSAG2400: Address: 1913794  Function: 2  Alpha:   14:00-54 2802<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   14:00-95 5001<NUL>
+POCSAG1200: Address: 1532658  Function: 0 
+POCSAG2400: Address: 1569488  Function: 1 
+POCSAG2400: Address: 1913790  Function: 2  Alpha:   13:59-74 5070<NUL>
 POCSAG1200: Address:  696060  Function: 2  Alpha:   13:59-43 4417<NUL>
 POCSAG1200: Address: 1534161  Function: 2  Alpha:   13:58-15 BOSS Mobile: https://bossd.nfcsp.org.uk
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1358211221+++TIME=1358211221<NUL>
@@ -975,26 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1033211221+++TIME=10
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG2400: Address: 1913954  Function: 2  Alpha:   10:32-29 2304<NUL>
 POCSAG1200: Address: 1745488  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:32-49 4114<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:32-45 5076<NUL>
-POCSAG2400: Address: 1321022  Function: 2  Alpha:   10:31-63 2304<NUL>
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:30-24 NHSBT - DONOR REFERRAL. Please call ASHA on Direct Dial Number 01234 792257 Hospital BEDFORD HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address: 1899744  Function: 1 
-POCSAG1200: Address: 1301560  Function: 0 
-POCSAG2400: Address: 1323253  Function: 2  Alpha:   10:30-39 NHSBT - DONOR REFERRAL. Please call ASHA on Direct Dial Number 01234 792257 Hospital BEDFORD HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address: 1534220  Function: 2  Alpha:   10:30-59 CONTACT CONTROL 
-POCSAG2400: Address:   28905  Function: 0  Alpha:   10:29-62 3117<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:29-65 3164<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:29-44 5076<NUL>
-POCSAG1200: Address: 1749604  Function: 1 
-POCSAG2400: Address: 1068369  Function: 2  Alpha:   BILL PLEASE CALL JANE 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1028211221+++TIME=1028211221<NUL>
-POCSAG2400: Address: 2094240  Function: 3  Alpha:   <DC2><ESC><ETX>#<ETX>
-POCSAG2400: Address: 1321022  Function: 2  Alpha:   10:27-62
-POCSAG2400: Address: 1913900  Function: 2  Alpha:   10:27-06 2111<NUL>
-POCSAG1200: Address: 1032022  Function: 3  Alpha:   FF
-POCSAG2400: Address: 2023585  Function: 0 
-POCSAG1200: Address:   40074  Function: 2  Alpha:   10:25-95 21/12/2021 10:21:14 INC 24855825 q;<SOH>03 20 HEATHWOODxZ_AD, BURNAGE MANCHESTER, M19 1NX Male 91Y SUB CALL - FALLEN GRD 386147 391964<NUL>
-POCSAG2400: Address:  583522  Function: 2  Alpha:   10:25-50 80300
-POCSAG2400: Address:  583514  Function: 2  Alpha:   10:25-30 80300
