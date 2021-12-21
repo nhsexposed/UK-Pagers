@@ -1,3 +1,11 @@
+POCSAG2400: Address: 2072817  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2253211221+++TIME=2253211221<NUL>
+POCSAG1200: Address: 1590177  Function: 0 
+POCSAG1200: Address:  393808  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message ;l0B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  719137  Function: 3 
+POCSAG2400: Address: 1999608  Function: 0 
 POCSAG2400: Address:   28908  Function: 0  Alpha:   22:48-47 5204<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2248211221+++TIME=2248211221<NUL>
 POCSAG2400: Address:  434302  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 2077268  Function: 0
 POCSAG1200: Address: 1476635  Function: 0  Alpha:   iy<BS>dy<EM>9Z8<LF>t(J<BS>4vf<ACK><BEL>6<ACK>4<SYN><BEL>WF<SYN><ACK>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   16:38-16 21/12/2065$q?+34:22 INC 24857255 09E02 JUNCTION TO O/S TRAFFIC LIGHTS, MILTON COURT - APARTMENT 1, 160 LIVERPOOL ROAD, ECCLES MANCHESTER, M30 0WZ Male 70Y MALE NEXT TO TRAFFIC LIGHT, NOT SPEAKING, GR
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   16:38-58 2233<NUL>
-POCSAG1200: Address:  361064  Function: 1 
-POCSAG1200: Address:  670848  Function: 0  Alpha:   oooooooo<ACK>E<ACK><ENQ><NUL><NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   16:36-10 5243<NUL>
-POCSAG2400: Address:  336080  Function: 2  Alpha:   16:34-18 6630<NUL>
-POCSAG2400: Address: 1324318  Function: 2  Alpha:   16:34-98 NHSBT - DONOR REFERRAL. Please call DR PETER NASH on Direct Dial Number 01733 678000 BLEEP 1506 Hospital PETERBOROUGH CITY Dept ITU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:   33713  Function: 2  Alpha:   16:34-47 NHSBT - DONOR REFERRAL. Please call DR PETER NASH on Direct Dial Number 01733 678000 BLEEP 1506 Hospital PETERBOROUGH CITY Dept ITU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323214  Function: 2  Alpha:   16:34-61 NHSBT - DONOR REFERRAL. Please call DR PETER NASH on Direct Dial Number 01733 678000 BLEEP 1506 Hospital PETERBOROUGH CITY Dept ITU . Regards Donor Referral Line<NUL>
