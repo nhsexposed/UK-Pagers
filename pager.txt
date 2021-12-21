@@ -1,3 +1,43 @@
+POCSAG1200: Address: 1745521  Function: 3 
+POCSAG1200: Address: 1433271  Function: 3  Alpha:   O%h~>gN<ENQ>
+POCSAG1200: Address: 1912919  Function: 3 
+POCSAG1200: Address: 1786853  Function: 3  Alpha:    FEma
+POCSAG1200: Address:  533296  Function: 1 
+POCSAG1200: Address:  575878  Function: 1  Alpha:   LS
+POCSAG1200: Address: 1651726  Function: 1 
+POCSAG1200: Address: 1254605  Function: 0 
+POCSAG1200: Address: 1888643  Function: 0  Alpha:   R 
+POCSAG1200: Address:   93194  Function: 0 
+POCSAG1200: Address: 1219241  Function: 3  Alpha:   <FS><EOT>Z4<EOT>
+POCSAG1200: Address: 1770063  Function: 2  Alpha:   O%
+POCSAG1200: Address: 1150764  Function: 3  Alpha:   hp
+POCSAG1200: Address: 2077720  Function: 0  Alpha:   A]
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:18-80 21/12/2021 18:15:24
+POCSAG1200: Address: 1089914  Function: 2  Alpha:   18:18-52 PLS CALL 0300 123 1307
+POCSAG1200: Address:  360002  Function: 0  Alpha:   18:17-13 21/12/2021 18:16
+POCSAG1200: Address:   70108  Function: 2  Alpha:   Z{{]<ESC>(U{Z{{];<SYN>h0P<DC4>(<NAK>t4<DC2>1<DC1><BS>qsU<DC3>hQ<DC4><DC1>h,.<FF><CR>M<CR>h<FF>nm-<SO><CR>
+POCSAG1200: Address: 1594528  Function: 0  Alpha:   A2<ETB><BEL>O<ETB><ETX><CR><BEL>33<ETX>AEQMa<SOH>IaQ]U<SOH><NUL>
+POCSAG1200: Address: 2040445  Function: 0 
+POCSAG1200: Address: 1999482  Function: 2 
+POCSAG1200: Address: 1321754  Function: 2  Alpha:   18:15-29 PPCI TEST CALL - Pl%#7a call 01438 28475<NUL><NUL>
+POCSAG1200: Address:  313737  Function: 2 
+POCSAG1200: Address: 1718608  Function: 2  Alpha:   <STX><CR>
+POCSAG1200: Address: 1321725  Function: 2  Alpha:   18:15-10 PPC<ENQ><NUL>e<DC2>T
+POCSAG1200: Address: 2026354  Function: 2 
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   18:14-24 21/12/2021 
+POCSAG1200: Address: 1321735  Function: 2  Alpha:   18:14-29 .<NUL>
+POCSAG1200: Address: 1746534  Function: 0 
+POCSAG1200: Address: 1321731  Function: 2  Alpha:   18:14-35 .<NUL>
+POCSAG1200: Address: 1321744  Function: 2  Alpha:   18:14-31 .<NUL>
+POCSAG1200: Address: 1321742  Function: 2  Alpha:   18:14-25 .<NUL>
+POCSAG1200: Address: 1321747  Function: 2  Alpha:   18:14-26 .<NUL>
+POCSAG1200: Address: 1321728  Function: 2  Alpha:   18:14-03 .<NUL>
+POCSAG1200: Address: 1321753  Function: 2  Alpha:   18:14-25 .<NUL>
+POCSAG1200: Address: 1321737  Function: 2  Alpha:   18:14-31 .<NUL>
+POCSAG1200: Address: 1321749  Function: 2  Alpha:   18:14m04!.<NUL>
+POCSAG1200: Address: 1321752  Function: 2  Alpha:   18:14-37 .<NUL>
+POCSAG1200: Address: 1321741  Function: 2  Alpha:   18:14-26 .<NUL>
+POCSAG1200: Address: 1321736  Function: 2  Alpha:   18:14-25 .<NUL>
 POCSAG1200: Address: 1321725  Function: 2  Alpha:   18:14-09 .<NUL>
 POCSAG1200: Address: 1321734  Function: 2  Alpha:   18:14-13 .<NUL>
 POCSAG1200: Address: 1321740  Function: 2  Alpha:   18:14-30 .<NUL>
@@ -958,43 +998,3 @@ POCSAG1200: Address: 1534250  Function: 2  Alpha:   13:57-73 (3/3) RED BC2 <NUL>
 POCSAG1200: Address: 1534115  Function: 2  Alpha:   13:57-92 (2/3) STATION          SOUTH STREET          NEWPORT          PO30 1JQ Type     M4 Business Continuity(<ENQ><DEL>dnt BC2 Map ref  450154,89067 DeuQils  HIWFRS IOW CODE
 POCSAG1200: Address: 1534252  Function: 2  Alpha:   13:57-64 (1/3)Incident Information for JHBAM9  Incident HH028006-21122021 To       21/12/2021 13:54:02 Address  HAMPSHIRE & IOW FIRE S<NAK>X<SYN>ICE          JH71 NEWPORT FIRE<NUL>
 POCSAG1200: Address: 1534250  Function: 2  Alpha:   13:57-73 (2/3) STATION          SOUTH STREET          NEWPORT          PO30 1JQ Type     M4 Business Continuity Event BC2 Map ref  450154,89067 Details  HIWFRS IOW CODE
-POCSAG1200: Address: 1534097  Function: 2  Alpha:   13:57-03 (3/3) RED BC2 <NUL><NUL>
-POCSAG1200: Address: 1534115  Function: 2  Alpha:   13:57-91 (1/3)Incident Information for JHBAM9  Incident HH028006-21122021 To       21/12/2021 13:54:02 Address  HAMPSHIRE & IOW FIRE SERVICE          JH71 NEWPORT FIRE<NUL>
-POCSAG1200: Address: 1534157  Function: 2  Alpha:   13:57-60 (3/3) RED BC2 <NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  340147  Function: 0  Alpha:   13:57-63 Code blue TEST page #226-4226<NUL>
-POCSAG1200: Address:   80176  Function: 3  Alpha:   )<EOT><NAK>9L
-POCSAG1200: Address: 1781959  Function: 2  Alpha:   13:55-80 TEST CALL FROM SWITCHBOARD<NUL><NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   13:55-71 21/12/2021 13:52:21 INC 24856618 17D02 32 DEVONPORT WAY, CHORLEY, PR6 0TE Male 58Y FELL BACKWARDS- BANGED HEAD GRD 359323 417589
-POCSAG1200: Address: 1483185  Function: 2  Alpha:   13:54-57 21/12/2021 13:52:21 INC 24856618 17D02 32 DEVONPORT WAY, CHORLEY, PR6 0TE Male 58Y FELL BACKWARDS- BANGED HEAD GRD 359323 417589
-POCSAG1200: Address: 2017494  Function: 2  Alpha:   U(
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1913540  Function: 2  Alpha:   13:54-16 3508<NUL>
-POCSAG2400: Address: 1913941  Function: 2  Alpha:   13:53-04 5415<NUL>|<DEL><DEL>
-POCSAG2400: Address: 1614448  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:53-29 4099<NUL>
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   13:52-72 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG2400: Address: 1913790  Function: 2  Alpha:   13:52-73 5070<NUL>
-POCSAG2400: Address: 1913681  Function: 2  Alpha:   13:52-09 4269<NUL>
-POCSAG1200: Address: 1001125  Function: 2  Alpha:   13:52-34 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   13:52-34 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address:  121588  Function: 3  Alpha:   oooooooooooooooooooooooooooo<ACK>E<ACK><ENQ><NUL><NUL>
-POCSAG1200: Address: 1001129  Function: 2  Alpha:   13:52-34 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   13:52-39 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address: 1001133  Function: 2  Alpha:   13:52-39 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address:  549772  Function: 2  Alpha:   13:52-97 ATTEND:<LF>SSC<LF>3 MUNRO VILLAS,.,KILKEEL,DOWN<LF>0P 2T<LF>35701211<LF>J 29596 14334<LF>S4201 S4471 SO05<LF>END
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   13:52-78 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address: 1312441  Function: 2  Alpha:   13:52-20 CARDIAC ARREST TEAM TO ZONE A (RLH)<NUL>
-POCSAG1200: Address:  958545  Function: 0 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:50-76 5820<NUL>
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   13:50-47 5075<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   13:49-45 21/12/2021 13:47:56 INC 24856600 06E01 30 CEDAR AVENUE, EUXTON, PR7 6BD Male 80Y CANT BREATHE, COPD GRD 355139 419719<NUL><NUL>
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG1200: Address: 2077917  Function: 2  Alpha:   13:49-03 21/12
-POCSAG1200: Address: 1441905  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:49-28 5203<NUL>
-POCSAG2400: Address: 1320359  Function: 2  Alpha:   13:48-24 4765<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1348211221+++TIME=1348211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1348211221+++TIME=1348211221<NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
