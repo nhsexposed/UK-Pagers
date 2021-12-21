@@ -1,3 +1,23 @@
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   F<SO>
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1817121  Function: 2  Alpha:   14:43-62 PLS CALL 6720
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1443211221+++TIME=1443211221<NUL>
+POCSAG1200: Address: 1322009  Function: 2  Alpha:   14:44-72 992<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1443211221+++TIME=1443211221<NUL>
+POCSAG2400: Address: 1913876  Function: 2  Alpha:   14:43-62 5440<NUL>
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   14:43-74 2018<NUL>
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN>R
+POCSAG2400: Address:  837824  Function: 0 
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   14:42-26 5201<NUL>
+POCSAG1200: Address:  322648  Function: 2  Alpha:   U"
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  585540  Function: 2  Alpha:   14:42-31 3903<NUL>
+POCSAG1200: Address:  401693  Function: 2  Alpha:   14:40-49 DR LEVENSON - PLS CALL GELLA KLIEN ON 07970 100 031 <NUL>
+POCSAG2400: Address: 1913542  Function: 2  Alpha:   14:40-55 5633<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   14:40-79 4156<NUL>
+POCSAG1200: Address:  267496  Function: 3 
+POCSAG1200: Address:  696528  Function: 2  Alpha:   14:39-65 Please call AGH switchboard on 01535 652511<NUL><NUL>
 POCSAG2400: Address: 1913774  Function: 2  Alpha:   14:39-38 5067<NUL>
 POCSAG1200: Address:  234377  Function: 2  Alpha:   14:39-15 21/12/2021 14:36:53 INC 24856786 31D04 98 COLLYHURST AVENUE, MARTON BLACKPOOL, FY4 3NQ Female 69Y NOT RESPONDING GRD 332296 432557<NUL>
 POCSAG1200: Address: 1092646  Function: 2  Alpha:   14:39-49 21/12/2021 14:36:53 INC 24856786 31D04 98 COLLYHURST AVENUE, MARTON BLACKPOOL, FY4 3Nu&female 69Y NOT RESPONDING GRD 332296 432557<NUL>
@@ -978,23 +998,3 @@ POCSAG1200: Address:  548079  Function: 2  Alpha:   11:12-08 TEST TEST. please t
 POCSAG1200: Address:  548104  Function: 2  Alpha:   11:12-08 TEST TEST. please text  07980 941913 with location and ETA to HP.
 POCSAG1200: Address: 2044534  Function: 0 
 POCSAG1200: Address: 1761309  Function: 3  Alpha:   <DC3>P
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:11-64 5042<NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   11:11-01 5202<NUL>
-POCSAG2400: Address: 1324160  Function: 2 
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   11:11-47 4457<NUL>
-POCSAG2400: Address: 1323205  Function: 2  Alpha:   11:10-01 PLS CONTACT CONTROL TO CONFIRM IF YOU ARE ON DUTY TODAY .... EOM<NUL>
-POCSAG2400: Address: 1321287  Function: 2  Alpha:   11:10-96 34995
-POCSAG2400: Address:  549199  Function: 2  Alpha:   11:09-48 80300
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:09-58 Call 24855975 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:09-79 Call 24855975 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1502130  Function: 2  Alpha:   11:09-26 Call 24855975 - Warnin
-POCSAG1200: Address: 1511844  Function: 2  Alpha:   <SYN><ACK>
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   B<BS><NUL>`L
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1108211221+++TIME=1108211221<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   11:08-64 4155<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   11:07-06 4158<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:07-"R 5202<NUL>
-POCSAG2400: Address: 1321445  Function: 2  Alpha:   11:07-92 please call laura neo natal reg ext 34564<NUL>
-POCSAG1200: Address:  959057  Function: 0 
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><DC1>
