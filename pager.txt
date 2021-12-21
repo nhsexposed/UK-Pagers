@@ -1,3 +1,34 @@
+POCSAG1200: Address: 1212999  Function: 1  Alpha:   <ENQ>T<HT><BEL><EOT>6Z<BS>dX\<GS>L]<FF>4<ACK><ETB><VT>D<CAN>)<BS>4<SUB>H:<LF><EOT><ETB><BEL>t(J<BS>4<ACK>G6v<SYN><BEL>D<ACK><ACK><ACK>W<ACK>
+POCSAG2400: Address:  302906  Function: 1 
+POCSAG2400: Address: 1320384  Function: 2  Alpha:   16:53-29 2427<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1653211221+++TIME=1653211221<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   16:53-27 5202<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   16:53-89 2018<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:53-75 4399<NUL>
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   16:52-46 3240<NUL>
+POCSAG1200: Address:    1973  Function: 2  Alpha:   16:52-43 Confi
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   16:51-38 5203<NUL>
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   16:52-96 3181<NUL>
+POCSAG1200: Address: 1539064  Function: 1 
+POCSAG1200: Address:  696953  Function: 2  Alpha:   16:51-39 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   FJ
+POCSAG1200: Address: 1313081  Function: 2  Alpha:   16:51-02 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address:  269024  Function: 2  Alpha:   16:51-49 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address:  135483  Function: 2  Alpha:   16:51-66 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address:  270614  Function: 2  Alpha:   16:51-74 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address: 1022128  Function: 2  Alpha:   16:51-40 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address: 1322003  Function: 2  Alpha:   16:51-89 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address:  526152  Function: 2  Alpha:   <DLE><DC3><DC3>hll<FF><SO><BS><NUL><NUL>
+POCSAG1200: Address: 1317894  Function: 2  Alpha:   16:51-67 PL
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   16:51-78 PLS CALL 3338 <NUL><NUL>
+POCSAG1200: Address:  733992  Function: 2  Alpha:   16:51-80 PLS CALL 3338 <NUL><NUL>
+POCSAG2400: Address: 1913993  Function: 2  Alpha:   16:51-03 5276<NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   16:51-48 2183<NUL>
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   16:51-96 2427<NUL>
+POCSAG1200: Address: 1512707  Function: 3  Alpha:   T.
+POCSAG2400: Address:   28926  Function: 0  Alpha:   16:51-80 5128<NUL>
+POCSAG1200: Address: 1843826  Function: 0 
+POCSAG2400: Address:  225851  Function: 2  Alpha:   16:50-76 107204<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1648211221+++TIME=1648211221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1648211221+++TIME=1648211221<NUL>
 POCSAG2400: Address:  564456  Function: 0 
@@ -967,34 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   12:45-19 5070<NUL>
 POCSAG1200: Address:  197371  Function: 2  Alpha:   <DC2>C<BS>LL
 POCSAG2400: Address: 1323140  Function: 2  Alpha:   12:45-31 PLS CALL MATTHEW WILSON 0191 282 4768 <NUL>
 POCSAG2400: Address: 1323101  Function: 2  Alpha:   12:45-54 PLS CALL MATTHEW WILSON 0191 282 4768 <NUL>
-POCSAG2400: Address: 1323102  Function: 2  Alpha:   12:45-95 PLS CALL MATTHEW WILSON 0191 282 4768 <NUL>
-POCSAG1200: Address: 1761388  Function: 3  Alpha:   UP
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
-POCSAG1200: Address:  532592  Function: 0 
-POCSAG512: Address:  114360  Function: 2  Alpha:   12:45-34 <NULL><NUL><NUL>
-POCSAG2400: Address: 1290243  Function: 1 
-POCSAG2400: Address: 1703793  Function: 3  Alpha:   1;<FS>N<BS>
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   12:45-29 3148<NUL>
-POCSAG1200: Address: 1816709  Function: 2 
-POCSAG2400: Address: 1735571  Function: 2  Alpha:   ords: 51.1278101 -2.7519727<NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   12:44-77 21/12/2021 12:43:02 INC 24856361 10D02 5 BRINDLE CLOSE, LONGRIDGE, PR3 3SJ Female 86Y CHEST PAIN GRD 360879 437084<NUL><NUL>
-POCSAG1200: Address: 1658764  Function: 2  Alpha:   :Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   12:44-59 5460<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1243211221+++TIME=1243211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1243211221+++TIME=1243211221<NUL>
-POCSAG2400: Address:  225476  Function: 2  Alpha:   12:43-46 TEST MESSAGE<NUL>
-POCSAG1200: Address: 1816808  Function: 2  Alpha:   12:43-51 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
-POCSAG2400: Address: 1320373  Function: 2  Alpha:   12:43-84 4157<NUL>
-POCSAG1200: Address: 1216598  Function: 0 
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   <ACK><VT>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913540  Function: 2  Alpha:   12:42-15 4268<NUL>
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:41-35 60707
-POCSAG2400: Address:  225476  Function: 2  Alpha:   12:41-45 TEST MESSAGE FROM PageOne
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:41-76 60707
-POCSAG1200: Address: 1218857  Function: 1  Alpha:   sE
-POCSAG1200: Address: 1313150  Function: 2  Alpha:   12:40-92 (2/2) Roles    JY17P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
-POCSAG1200: Address:  216321  Function: 2  Alpha:   12:40-50 (2/2) Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
-POCSAG1200: Address:  548159  Function: 2  Alpha:   12:40-69 2565<NUL>
-POCSAG1200: Address: 1511870  Function: 2  Alpha:   v<EOT>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
