@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=064321
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   06:42-66 Reminder steam controls remain in force, any variation in demand must be pre-agreed with the Infra SCo beforehand - SSM
+POCSAG1200: Address:  618883  Function: 2  Alpha:   06:42-34 Daily Test Message<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  981621  Function: 0 
+POCSAG1200: Address:  116904  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0638211221+++TIME=0638211221<NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   06:38-90 Please Call Switchboard<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1274624  Function: 3
 POCSAG1200: Address:  210963  Function: 1 
 POCSAG1200: Address:  197817  Function: 2  Alpha:   <DC2>Hc3e/<DC1>K
 POCSAG1200: Address:  627319  Function: 1  Alpha:   tD
-POCSAG1200: Address: 1327671  Function: 1  Alpha:   @<DLE>
-POCSAG1200: Address:  401452  Function: 0 
-POCSAG1200: Address: 1698573  Function: 3  Alpha:   vi
-POCSAG1200: Address: 1942030  Function: 0  Alpha:   1<ESC>
-POCSAG1200: Address: 1536366  Function: 0 
-POCSAG1200: Address:  336272  Function: 1  Alpha:   <RS>Q
