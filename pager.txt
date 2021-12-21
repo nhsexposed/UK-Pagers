@@ -1,3 +1,21 @@
+POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
+POCSAG2400: Address: 1032515  Function: 3  Alpha:   Fn
+POCSAG2400: Address:  150086  Function: 0  Alpha:   10:19-05 3104<NUL>
+POCSAG2400: Address: 1913794  Function: 2  Alpha:   10:19-51 5204<NUL>
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   10:18-40 3507<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:18-75 5201<NUL>
+POCSAG1200: Address: 2009041  Function: 2  Alpha:   10:18-19 PLS CALL SWITCHBOARD ON EXT 33491
+POCSAG2400: Address: 2007283  Function: 0 
+POCSAG2400: Address: 1913949  Function: 2  Alpha:   10:18-23 2343<NUL>
+POCSAG1200: Address:  265348  Function: 0 
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   <SYN>R
+POCSAG2400: Address: 1404876  Function: 0  Alpha:   <<EM>(Z[y[<;<CAN>=z[<ESC><BS><FS>;9x<<EM>h8<CAN><ESC><ESC>h[<ESC><BS>L<FF>lm<CR>nL-.m<FF>h[<FS><BS>l-<SO>,,.<SO>.,nM<VT>H3<DC1><DC3>(2u<DLE>h<ESC>|<SYN>HR<DLE><BS><NUL>
+POCSAG2400: Address:  549199  Function: 2  Alpha:   10:17-46 73338
+POCSAG2400: Address:   28894  Function: 0  Alpha:   10:17-98 5204<NUL>
+POCSAG2400: Address:  583513  Function: 2  Alpha:   10:16-90 73338
+POCSAG2400: Address:  583513  Function: 2  Alpha:   10:16-89 733<NUL><NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   10:15-11 2150<NUL>
+POCSAG2400: Address: 1746670  Function: 0 
 POCSAG2400: Address: 1323041  Function: 2  Alpha:   10:14-99 Paula 8128<NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:14-62 4187<NUL>
 POCSAG1200: Address: 1710187  Function: 2  Alpha:   10:14-40 1234<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address:  827241  Function: 2
 POCSAG1200: Address: 1761640  Function: 2 
 POCSAG1200: Address:  968456  Function: 2 
 POCSAG1200: Address:  678665  Function: 2  Alpha:   04:00-24 Case ref 11276206 Fill in tiio0sheet
-POCSAG2400: Address:   11705  Function: 0  Alpha:   04:00-61 PLEASE CALL EXT 8035 ON MAJOR 
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   03:58-06 DONNE WARD 36558
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   a 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   03:57-99 21/12/2021 03:55:15 INC 24854970 12D02 9 FAIRFIELD AVENUE, RAWTENSTALL, BB4 9TG Female 22Y HAD 9 FITS IN A ROW GRD 384001 <26579
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   03:55-65 21/12/2021 03:47:25 INC 24854952 06E01 11 FULL VIEW, LIVESEY BLACKBURN, BB2 4QB Male 64Y CHEST PAIN, BACK PAIN GRD 366753 425909
-POCSAG2400: Address:   28868  Function: 0  Alpha:   03:55-33 38172 <NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   03:54-78 4379<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353211221+++TIME=0353211221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353211221+++TIME=0353211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
