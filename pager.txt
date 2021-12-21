@@ -1,3 +1,23 @@
+POCSAG1200: Address: 1321725  Function: 2  Alpha:   18:14-09 .<NUL>
+POCSAG1200: Address: 1321734  Function: 2  Alpha:   18:14-13 .<NUL>
+POCSAG1200: Address: 1321740  Function: 2  Alpha:   18:14-30 .<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   18:13-83 21/12/2021 18:11
+POCSAG1200: Address:  600665  Function: 0  Alpha:   18:13-61 696955 <NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1813211221+++TIME=1813211221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   CvRBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  585450  Function: 2  Alpha:   18:13-04 4191<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1783808  Function: 2 
+POCSAG2400: Address: 1485433  Function: 1 
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   18:11-07 21/12
+POCSAG1200: Address: 2009847  Function: 0 
+POCSAG1200: Address:  397504  Function: 2  Alpha:   gVa &&P<SYN>P<SUB>Pf ,<DLE><EM>Pf$'<DLE><NUL>
+POCSAG1200: Address: 1312565  Function: 2  Alpha:   18:10-54 NOTIFY - DATE: 21.12.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 5 MAX 2 MIN <NUL>
+POCSAG1200: Address: 1257600  Function: 2  Alpha:   U<SOH>5<ACK>b<STX>I<SOH>5&:<STX><SOH><NUL>
+POCSAG1200: Address: 2008954  Function: 0 
+POCSAG1200: Address: 1312580  Function: 2 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:09-96 3157<NUL>
+POCSAG1200: Address: 1740659  Function: 2 
 POCSAG1200: Address: 1815072  Function: 0  Alpha:   $<FF>
 POCSAG1200: Address: 2008734  Function: 0 
 POCSAG2400: Address:   28902  Function: 0  Alpha:   18:08-38 2642<NUL>
@@ -978,23 +998,3 @@ POCSAG2400: Address: 1320359  Function: 2  Alpha:   13:48-24 4765<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1348211221+++TIME=1348211221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1348211221+++TIME=1348211221<NUL>
 POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>C<GS>:L
-POCSAG2400: Address:  411677  Function: 1  Alpha:   <SO>H,l+LlK<FF>L,<FF>(l
-POCSAG2400: Address: 1913681  Function: 2  Alpha:   13:47-08 4263<NUL>
-POCSAG2400: Address: 1321203  Function: 2  Alpha:   13:47-03 denise 32700<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   13:47-67 4114<NUL>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   13:46-45 2184<NUL>
-POCSAG2400: Address: 1323739  Function: 2  Alpha:   13:46-06 TEST<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:46-27 4105<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:45-75 2113<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:45-37`u212<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   13:44-51 4443<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   13:44-25 5203<NUL>
-POCSAG1200: Address:  647480  Function: 3  Alpha:   gF
-POCSAG2400: Address: 1320387  Function: 2  Alpha:   13:43-31 3116<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1343211221+++TIME=1343211221<NUL>
-POCSAG2400: Address: 1913811  Function: 2  Alpha:   13:43m/6(2300<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   13:43-06 Call or Calls waiting at Switchboard
-POCSAG2400: Address: 1031925  Function: 3  Alpha:   F<BS>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   13:41-26 2081<NUL>
-POCSAG2400: Address: 1913716  Function: 2  Alpha:   13:40-48 4156<NUL>
