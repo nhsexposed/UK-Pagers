@@ -1,3 +1,47 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0533211221+++TIME=0533211221<NUL>
+POCSAG1200: Address: 1869978  Function: 1 
+POCSAG1200: Address:  688649  Function: 0  Alpha:   AI
+POCSAG1200: Address:  631696  Function: 2 
+POCSAG1200: Address:  412183  Function: 0  Alpha:   O%h<STX><SUB>
+POCSAG1200: Address:  630855  Function: 2 
+POCSAG1200: Address: 2040142  Function: 1 
+POCSAG1200: Address: 1474918  Function: 0 
+POCSAG1200: Address:  839941  Function: 3 
+POCSAG1200: Address: 1159941  Function: 2 
+POCSAG1200: Address: 1706380  Function: 2 
+POCSAG1200: Address:  766188  Function: 0 
+POCSAG1200: Address: 1686115  Function: 1 
+POCSAG1200: Address:  101465  Function: 1 
+POCSAG1200: Address:  470608  Function: 1  Alpha:   <ENQ>D
+POCSAG1200: Address: 1068143  Function: 1  Alpha:   O%(%<GS>
+POCSAG1200: Address: 1243630  Function: 0  Alpha:    I
+POCSAG1200: Address:  697763  Function: 1  Alpha:   ET, S
+POCSAG1200: Address:  657809  Function: 3 
+POCSAG1200: Address:  100480  Function: 3  Alpha:   d@pfX
+POCSAG1200: Address: 1477919  Function: 0  Alpha:   <ESC>Pxg<DC2>
+POCSAG1200: Address:  266854  Function: 1  Alpha:   <ACK>W
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  624428  Function: 2  Alpha:   fh
+POCSAG1200: Address:  218716  Function: 2 
+POCSAG1200: Address: 1206490  Function: 3  Alpha:   <LF><DC3>[<DC2><ETX><DC3><VT><ETX>
+POCSAG1200: Address: 1445012  Function: 2  Alpha:   <HT>t(J<BS>$v<ACK>
+POCSAG1200: Address:  626755  Function: 1 
+POCSAG1200: Address: 1650275  Function: 0 
+POCSAG1200: Address:   82242  Function: 0  Alpha:   DO
+POCSAG1200: Address: 1494321  Function: 2 
+POCSAG1200: Address:  973872  Function: 1  Alpha:   ]<FF>
+POCSAG1200: Address:  534064  Function: 2 
+POCSAG1200: Address:  852550  Function: 0  Alpha:   L3 5Nn3<HT>
+POCSAG1200: Address:  858156  Function: 2  Alpha:   ,<EOT>
+POCSAG1200: Address: 1261708  Function: 1 
+POCSAG1200: Address:  567449  Function: 3  Alpha:   )j)<CAN>h)<HT>T<DLE>8J
+POCSAG1200: Address:  721423  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1477919  Function: 0 
+POCSAG1200: Address:  266854  Function: 1  Alpha:   <ACK>W
+POCSAG1200: Address: 1349437  Function: 1 
+POCSAG1200: Address:  218716  Function: 2 
+POCSAG2400: Address: 2070378  Function: 3  Alpha:   3tp6<DLE>b28:Pda*<DLE><ETB><DLE>irs09r9<DLE>b7w79<DLE>i2s29y06<DLE>f4w
+POCSAG2400: Address: 1323170  Function: 2  Alpha:   05:29-50 NHSBT - DONOR REFERRAL. Please call Nurse Michelle Slattery on Direct Dial Number 01634 833 967 Hospital Medway Hospital, Gil
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0528211221+++TIME=0528211221<NUL>
 POCSAG2400: Address: 1908896  Function: 3 
 POCSAG2400: Address:   28900  Function: 0  Alpha:   05:28-82 5056<NUL>
@@ -954,47 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  213000  Function: 0 
-POCSAG1200: Address:  856080  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 1461241  Function: 0  Alpha:   <CAN>y
-POCSAG1200: Address:  791979  Function: 1 
-POCSAG1200: Address: 1261996  Function: 1 
-POCSAG1200: Address:  354596  Function: 0  Alpha:   00<LF><DC1>Xa3k
-POCSAG1200: Address:  494833  Function: 0 
-POCSAG1200: Address: 1154800  Function: 1 
-POCSAG1200: Address: 1516704  Function: 2 
-POCSAG1200: Address:  189034  Function: 0  Alpha:    <BEL><DEL>" 
-POCSAG1200: Address: 1246764  Function: 2 
-POCSAG1200: Address: 1764151  Function: 0 
-POCSAG1200: Address:  128649  Function: 1 
-POCSAG1200: Address:  242785  Function: 0 
-POCSAG1200: Address: 1665805  Function: 3 
-POCSAG1200: Address: 1909262  Function: 0  Alpha:   <DC1><ESC>
-POCSAG1200: Address:   59979  Function: 1 
-POCSAG1200: Address: 1504366  Function: 1 
-POCSAG1200: Address: 1766146  Function: 0 
-POCSAG1200: Address: 1227379  Function: 2  Alpha:    <HT>Mt<CR>
-POCSAG1200: Address: 1243578  Function: 0  Alpha:   Dl<BEL>Pu
-POCSAG1200: Address: 1647522  Function: 0 
-POCSAG1200: Address: 1461113  Function: 0  Alpha:   <CAN>9
-POCSAG1200: Address:  791851  Function: 1 
-POCSAG1200: Address: 1516576  Function: 2 
-POCSAG1200: Address:    8241  Function: 2 
-POCSAG1200: Address:  502916  Function: 1  Alpha:   x%Cy<SI>
-POCSAG1200: Address: 2059238  Function: 2  Alpha:   2+
-POCSAG1200: Address: 2028257  Function: 0 
-POCSAG1200: Address:   95881  Function: 1 
-POCSAG1200: Address:  279347  Function: 2 
-POCSAG1200: Address: 1516012  Function: 1  Alpha:   R<LF><STX>-,$e<STX><DC2>d<FF><FS>\<EOT>}|dd<STX>2<FS>8
-POCSAG1200: Address:  852909  Function: 0  Alpha:   Ue
-POCSAG1200: Address: 1246583  Function: 0  Alpha:   3u
-POCSAG1200: Address: 1444223  Function: 0 
-POCSAG1200: Address: 1462567  Function: 2 
-POCSAG1200: Address:  279283  Function: 3  Alpha:   @>
