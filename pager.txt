@@ -1,3 +1,28 @@
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   15:04-54 2581<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1506625  Function: 3 
+POCSAG1200: Address: 1562573  Function: 2  Alpha:   15:03-79 Call 888000
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1503211221+++TIME=15p<DC3> 11221<NUL>
+POCSAG1200: Address: 1505680  Function: 2  Alpha:   15:03-55 (2/2) RIP(Ripon) DN11P1 as PMP-TRV from EAS(Easingwold)<NUL>
+POCSAG1200: Address: 1505680  Function: 2  Alpha:   15:03-53 (1/2)The following resources/officers have been assigned to incident DNDN012760-21122021: DN15P1 as PMP-TRV from NOR(Northallerton) DN35P1 as PMP-TRV from<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:03-36 3144<NUL>
+POCSAG2400: Address:  583556  Function: 2  Alpha:   15:02-23 80300
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:02-71 4399<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   15:02-80 4187<NUL>
+POCSAG2400: Address:  433538  Function: 2  Alpha:   15:01-23 6603<NUL>
+POCSAG1200: Address: 1997960  Function: 2  Alpha:   2 403980
+POCSAG1200: Address: 1725484  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   15:01-18 21/12/2021 14:59:29 INC 24856883 17D05 58 CYPRUS STREET, PRESCOT L34, L34 5RY Female 79Y FALL GRD 346854 39267
+POCSAG1200: Address:  212217  Function: 3  Alpha:   E`
+POCSAG2400: Address:   28900  Function: 0  Alpha:   15:01-89 4349<NUL>
+POCSAG2400: Address: 1322796  Function: 2  Alpha:   15:00-50 NHSBT - DON
+POCSAG1200: Address:  548014  Function: 2  Alpha:   15:00-51 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehiclez 9sup441. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <EM>,<EM>cL
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   15:00-53 5070<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:00-69 2343<NUL>
+POCSAG1200: Address:  216378  Function: 2  Alpha:   15:00-10 N1: zbx4 zabbix_server Information: Live zabbix server hostname is blzbxpv01.openans.co.uk<LF>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   15:00-35 Case ref 11276206 Fill in tick sheet
 POCSAG1200: Address:  290040  Function: 3  Alpha:   <ENQ>"
 POCSAG2400: Address:   28900  Function: 0  Alpha:   14:59-88 2447<NUL>
 POCSAG1200: Address:  883145  Function: 1 
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1111456  Function: 1
 POCSAG1200: Address: 1878612  Function: 2 
 POCSAG1200: Address:   43183  Function: 2 
 POCSAG1200: Address:  274852  Function: 1  Alpha:   NE<HT>cA
-POCSAG1200: Address: 1329665  Function: 3  Alpha:   <ACK><STX>Q?<ETX>!B:<SOH>@P
-POCSAG1200: Address: 1938419  Function: 0 
-POCSAG1200: Address: 1581937  Function: 3  Alpha:   <RS>n"O>o<ACK>z
-POCSAG1200: Address: 1671475  Function: 3  Alpha:   S)
-POCSAG1200: Address:  171236  Function: 2  Alpha:   X<
-POCSAG1200: Address: 1849570  Function: 1 
-POCSAG1200: Address:  538288  Function: 3 
-POCSAG1200: Address:  905791  Function: 0  Alpha:   s<ENQ><SI>tEmtP
-POCSAG1200: Address:  270368  Function: 0 
-POCSAG1200: Address: 1436350  Function: 1 
-POCSAG1200: Address: 1176992  Function: 1 
-POCSAG1200: Address: 1944148  Function: 2 
-POCSAG1200: Address:  108719  Function: 2 
-POCSAG1200: Address:  340388  Function: 1  Alpha:   ^E<HT>kA
-POCSAG1200: Address: 1116255  Function: 2 
-POCSAG1200: Address:  278489  Function: 0  Alpha:   @<DC3>
-POCSAG1200: Address: 1453072  Function: 0 
-POCSAG1200: Address: 1315313  Function: 2  Alpha:   8jk<ENQ><EOT><SOH><FS>;9x<<EM><BS>=<EM><RS><GS><BS><BS>l-<SO><SO><FF>(<SO>-,.l<FF>h=<SUB><GS><SUB><BS>{{8<CAN>=z[<ESC>(X<ESC><EM>(<DC1>
-POCSAG1200: Address: 1052943  Function: 0 
-POCSAG1200: Address:  759261  Function: 0  Alpha:   0<DC3>
-POCSAG1200: Address:  732640  Function: 0 
-POCSAG1200: Address: 1450414  Function: 0  Alpha:   "v
-POCSAG1200: Address:  164706  Function: 0  Alpha:   a'G,0
-POCSAG1200: Address:  189742  Function: 1 
-POCSAG1200: Address:  889065  Function: 1  Alpha:   <DC4>%
