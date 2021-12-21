@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253211221+++TIME=1253211221<NUL>
+POCSAG1200: Address: 1032664  Function: 2  Alpha:   Sh
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   12:52-39 5201<NUL>
+POCSAG2400: Address: 1321390  Function: 2  Alpha:   12:52-12 X65914<NUL><NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   X<ACK>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   12:51-48 5204<NUL>
+POCSAG1200: Address:  326441  Function: 2  Alpha:   12:51-40 6716<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN>R
+POCSAG2400: Address:  951155  Function: 2 
+POCSAG1200: Address: 2074172  Function: 0 
+POCSAG1200: Address: 1717879  Function: 0 
+POCSAG2400: Address: 1320282  Function: 2  Alpha:   12:50-98 5204<NUL>
+POCSAG1200: Address:   22104  Function: 2  Alpha:   12:49-02 21/12/2021 12:47:26 INC 24856381 23B01I 248 WARWICK ROAD, CARLISLE, CA1 1LH Male 35Y OVERDOSE GRD 341471 55588
 POCSAG1200: Address: 2009041  Function: 2  Alpha:   12:49-20 PLS BLEEP DR TURAGA 5503 
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   &<ACK>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   B<EM>
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:45-58 3104<NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   09:45-97 33886
 POCSAG2400: Address:  583507  Function: 2  Alpha:   09:45-69 80300
 POCSAG2400: Address: 1323325  Function: 2  Alpha:   09:45-07 80300
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   09:44-45 3116<NUL>
-POCSAG1200: Address:   80101  Function: 3  Alpha:   <ACK>F
-POCSAG2400: Address:  648889  Function: 1  Alpha:   <FF><BEL>
-POCSAG2400: Address:  583557  Function: 2  Alpha:   09:44-16 80300
-POCSAG2400: Address:   28894  Function: 0  Alpha:   09:44-97 5204<NUL>
-POCSAG2400: Address:  583523  Function: 2  Alpha:   09:44-41 80300
-POCSAG2400: Address:  583541  Function: 2  Alpha:   09:44-18 80300
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0943211221+++TIME=0943211221<NUL>
-POCSAG2400: Address:  549979  Function: 2  Alpha:   09:43-94 80300
-POCSAG2400: Address: 1323337  Function: 2  Alpha:   09:43-46 80300
-POCSAG2400: Address: 1321546  Function: 2  Alpha:   09:43-34 pls call 33232 <NUL>
-POCSAG2400: Address:  583513  Function: 2  Alpha:   09:43-88 80300
-POCSAG2400: Address:   28905  Function: 0  Alpha:   09:42-60 5012<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:42-15 2427<NUL>
-POCSAG1200: Address: 2077265  Function: 0 
