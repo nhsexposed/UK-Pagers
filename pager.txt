@@ -1,3 +1,9 @@
+POCSAG2400: Address:   28895  Function: 0  Alpha:   07:19-20 5125<NUL>
+POCSAG2400: Address:  829301  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0718211221+++TIME=0718211221<NUL>
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   07:17-92 INC ALERT No: 16952423 Cardiac Arrest -, AT: O/S, SHAH OF PERSIA, 173 LONGFLEET ROAD, POOLE, BH15 2HS, Time of Call: 21/12/2021 07:16:15, Co-ords: 50.7253484 -1.9674972
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   07:17-75 4935<NUL>|<DEL><DEL>
+POCSAG1200: Address: 1032637  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713211221+++TIME=0713211221<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   07:12-15 3508<NUL>
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   07:13-26 5002<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1611744  Function: 1  Alpha:   'a$whPyl
 POCSAG1200: Address:  469477  Function: 2  Alpha:   i<HT><STX>1Rs<DC1>(<VT><BS>3Pp3U4<DC1><DC1>HP41<DLE><NAK>2R<DC3>h<DC1>hQ<DC4><DC1>hl<CR><CR>lm<FF><BS>M<FF><SO>-l<CR><NUL>
 POCSAG1200: Address:  165241  Function: 0  Alpha:    m<ACK>N?I z
 POCSAG1200: Address:  354596  Function: 0  Alpha:   <DC1>3
-POCSAG1200: Address: 1115243  Function: 2  Alpha:   rV<SO>v"<BEL>\s+P9$(2
-POCSAG1200: Address:  284768  Function: 1 
-POCSAG1200: Address:  330802  Function: 3 
-POCSAG1200: Address: 1961745  Function: 1  Alpha:   <DEL>i<HT>@<NUL>
-POCSAG1200: Address:  372852  Function: 0  Alpha:   0K
-POCSAG1200: Address: 1404113  Function: 0 
