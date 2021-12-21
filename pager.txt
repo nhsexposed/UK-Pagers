@@ -1,3 +1,16 @@
+POCSAG1200: Address:  325987  Function: 3  Alpha:   f$
+POCSAG1200: Address: 1321706  Function: 2  Alpha:   11:19-40 Destination: Parking\D78 Ext TP, Booking Ref#: 806650, Vehicle: WU68OKZ. If no more Booking Ref to 
+POCSAG2400: Address:  961336  Function: 2 
+POCSAG2400: Address: 1108769  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1118211221+++TIME=1118211221<NUL>
+POCSAG2400: Address: 2012787  Function: 1 
+POCSAG2400: Address: 1022632  Function: 0  Alpha:   11:18-39 Medical Emergency/Adult Crash  amu<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:17-53 2182<NUL>
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:17-04 4160<NUL>
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:17-03 2304<NUL>
+POCSAG2400: Address: 1913920  Function: 2  Alpha:   11:17-67 4269<NUL>
+POCSAG2400: Address:  562784  Function: 3 
+POCSAG2400: Address: 1913722  Function: 2  Alpha:   11:17-33 5202<NUL>
 POCSAG1200: Address: 1512730  Function: 3  Alpha:   E<EM>
 POCSAG2400: Address: 1321022  Function: 2  Alpha:   11:13-65 2304<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1113211221+++TIME=1113211221<NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0623211221+++TIME=06
 POCSAG1200: Address:  986512  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1267456  Function: 3 
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   06:19
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   06:19-54  PLEASE CALL 01233 504 112 <NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0618211221+++TIME=0618211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0618211221+++TIME=0618211221<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   06:17-55 4166<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0613211221+++TIME=0613211221<NUL>
-POCSAG2400: Address: 1320366  Function: 2  Alpha:   06:11-170<SYN>145<NUL>
-POCSAG2400: Address:  583600  Function: 2  Alpha:   06:11-95 74463
-POCSAG1200: Address:  346010  Function: 0  Alpha:   06:11-06 21/12/2021 06:04:54 INC 24855162 28C01J ORINOCO, HALL LANE, MAWDESLEY ORMSKIRK, L40 2QZ Female 72Y DEHYDRATED, UNABLE TO MOVE, Q STROKE GRD 350260 415141
-POCSAG1200: Address:   92456  Function: 2  Alpha:   .<DEL>
-POCSAG1200: Address: 2001526  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  855512  Function: 1 
