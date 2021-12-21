@@ -1,3 +1,36 @@
+POCSAG1200: Address:   11845  Function: 0  Alpha:   10:54-58 5<NUL>
+POCSAG2400: Address:  549118  Function: 2  Alpha:   10:53-57 80300
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1053211221+++TIME=1053211221<NUL>
+POCSAG2400: Address: 1322512  Function: 2  Alpha:   10:53-04 80300
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1053211221+++TIME=1053211221<NUL>
+POCSAG1200: Address:  548153  Function: 2  Alpha:   10:53-44 Destination: D105 SSC 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   10:53-05 5201<NUL>
+POCSAG2400: Address: 2028152  Function: 1 
+POCSAG2400: Address:  583420  Function: 2  Alpha:   10:53-10 80300
+POCSAG2400: Address:  583468  Function: 2  Alpha:   10:52-43 80300
+POCSAG2400: Address:  584097  Function: 2  Alpha:   10:52-01 80300
+POCSAG2400: Address:  584222  Function: 2  Alpha:   10:51-66 80300
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   10:51-45 4387<NUL>
+POCSAG2400: Address: 1324622  Function: 2  Alpha:   10:51-79 TEST MESSAGE<NUL>
+POCSAG2400: Address: 1324624  Function: 2  Alpha:   10:51-80 TEST MESSAGE<NUL>
+POCSAG2400: Address:  583472  Function: 2  Alpha:   10:51-88 80300
+POCSAG2400: Address:  583450  Function: 2  Alpha:   10:51-92 80300
+POCSAG2400: Address:  584648  Function: 2  Alpha:   10:51-27 80300
+POCSAG2400: Address: 1324620  Function: 2  Alpha:   10:51-79 TEST MESSAGE<NUL>
+POCSAG2400: Address: 1324614  Function: 2  Alpha:   10:51-50 TEST MESSAGE<NUL>
+POCSAG2400: Address: 1324610  Function: 2  Alpha:   10:51-09 TEST MESSAGE<NUL>
+POCSAG2400: Address: 1324613  Function: 2  Alpha:   10:51-80 TEST MESSAGE<NUL>
+POCSAG2400: Address: 1324616  Function: 2  Alpha:   10:51-94 TEST MESSAGE<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   &2
+POCSAG2400: Address: 1321348  Function: 2  Alpha:   10:50-68 pls call liver reg 37385 
+POCSAG2400: Address:  584094  Function: 2  Alpha:   10:50-59 80300
+POCSAG2400: Address:  583437  Function: 2  Alpha:   10:50-41 80300
+POCSAG2400: Address:  583434  Function: 2  Alpha:   10:50-47 80300
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   10:50-41 4158<NUL>
+POCSAG2400: Address:  963162  Function: 0 
+POCSAG2400: Address: 1913907  Function: 2  Alpha:   10:49-97 4275<NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   F<EM>
+POCSAG1200: Address: 1511995  Function: 3  Alpha:   6"
 POCSAG2400: Address: 1977009  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1048211221+++TIME=1048211221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1048211221+++TIME=1048211221<NUL>
@@ -965,36 +998,3 @@ POCSAG2400: Address:  534070  Function: 1
 POCSAG2400: Address: 1831782  Function: 0  Alpha:   y%<CR>C<NUL>
 POCSAG2400: Address:  375012  Function: 0 
 POCSAG2400: Address: 1029076  Function: 1 
-POCSAG2400: Address: 1537038  Function: 0  Alpha:   Rw
-POCSAG2400: Address: 1761876  Function: 0 
-POCSAG2400: Address: 1454707  Function: 0 
-POCSAG2400: Address: 1649937  Function: 2  Alpha:   <DC2><ESC>
-POCSAG2400: Address:  189618  Function: 2 
-POCSAG2400: Address: 1862274  Function: 2  Alpha:   "Q
-POCSAG2400: Address:   27083  Function: 0 
-POCSAG2400: Address: 1022271  Function: 0  Alpha:   05:@fLaf
-POCSAG2400: Address: 1265647  Function: 0  Alpha:   0<SYN>H Line
-POCSAG2400: Address:  740857  Function: 0 
-POCSAG2400: Address: 1030066  Function: 3  Alpha:   <SYN>g
-POCSAG2400: Address: 1233722  Function: 3  Alpha:   a2OsP
-POCSAG2400: Address:  161058  Function: 0 
-POCSAG2400: Address:  535722  Function: 2 
-POCSAG2400: Address: 1583285  Function: 2 
-POCSAG2400: Address:  578162  Function: 0  Alpha:   t<NUL>
-POCSAG2400: Address: 1679906  Function: 0 
-POCSAG2400: Address: 1318958  Function: 1 
-POCSAG2400: Address:  503781  Function: 0 
-POCSAG2400: Address: 1058803  Function: 1 
-POCSAG2400: Address: 2079888  Function: 2 
-POCSAG2400: Address: 1583013  Function: 2 
-POCSAG2400: Address: 1024756  Function: 0 
-POCSAG2400: Address: 2041463  Function: 1 
-POCSAG2400: Address:   95075  Function: 0 
-POCSAG1200: Address: 1548534  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   05:35-63 21/12/2021 05:32:38 INC 24855122 30D03 ON CORNER ON PLANT HILL ROAD, A JS FOOD BOX, 182 CHAPEL LANE, BLACKLEY MANCHESTER, M9 8LZ Male 48Y FALLEN OFF BIKE GRD 385082 403397
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0533211221+++TIME=0533211221<NUL>
-POCSAG1200: Address: 1869978  Function: 1 
-POCSAG1200: Address:  688649  Function: 0  Alpha:   AI
-POCSAG1200: Address:  631696  Function: 2 
-POCSAG1200: Address:  412183  Function: 0  Alpha:   O%h<STX><SUB>
-POCSAG1200: Address:  630855  Function: 2 
