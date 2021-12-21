@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1913772  Function: 2  Alpha:   13:09-08 2304<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:09-21 5330<NUL>
+POCSAG2400: Address: 1913884  Function: 2  Alpha:   13:09-67 2427<NUL>
+POCSAG1200: Address:  585566  Function: 2  Alpha:   13:09-52 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: FJ67ZPL. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1308211221+++TIME=1308211221<NUL>
+POCSAG2400: Address: 1032944  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   13:07-33 21/12/2021 13:01:06`-NG 24856432 27D03S ALDI FOODSTORE LTD URBAN EXCHANGE, GREAT ANCOATS STREET, CITY MANCHESTER, M4 6DE Male 55Y STABBING GRD 384943 398349
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:07-82 21/12/2021 13:01:06 INC 24856432 27D03S ALDI FOODSTORE LTD URBAN EXCHANGE, GREAT ANCOATS STREET, CITY MANCHESTER, M4 6DE Male 55Y STABBING GRD 384943 398349
+POCSAG1200: Address: 1761383  Function: 3  Alpha:   <DC2>#<SOH><ETX>L
+POCSAG2400: Address:   28926  Function: 0  Alpha:   13:07-74 5201<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   13:07-95 44<DC1>1<DC3>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:06-85 4187<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:06-33 5201<NUL>
+POCSAG1200: Address:  326441  Function: 2  Alpha:   13:07-41 6716<NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   5<BS>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   F<NUL>
 POCSAG1200: Address: 1511985  Function: 3  Alpha:   V"
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:04-32 5201<NUL>
 POCSAG2400: Address: 1913932  Function: 2  Alpha:   13:03-27 5290<NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1761472  Function: 3  Alpha:   <DLE>D<FF><STX><DLE>P0f
 POCSAG2400: Address: 1324305  Function: 2  Alpha:   09:55-70 80300
 POCSAG2400: Address: 1260220  Function: 2  Alpha:   09:55-35 3481<NUL>
 POCSAG2400: Address:  583520  Function: 2  Alpha:   09:55-70 80300
-POCSAG2400: Address: 1323006  Function: 2  Alpha:   09:55-22 80300
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address:  583580  Function: 2  Alpha:   09:54-47 80300
-POCSAG2400: Address: 1323696  Function: 2  Alpha:   09:54-44 80300
-POCSAG1200: Address: 1312700  Function: 2  Alpha:   09:54-27 On Call Coordinator to contact Control Room on 01392 456726 x355026 regarding ongoing incident number 100 relating to High Risk Misper (nature of incident) at Crediton (Incident location)<NUL>
-POCSAG1200: Address: 1312703  Function: 2  Alpha:   09:54-03 On Call Coordinator to contact Control Room on 01392 456726 x355026 regarding ongoing incident number 100 relating to High Risk Misper (nature of incident) at Crediton (Incident location)<NUL>
-POCSAG2400: Address: 1913670  Function: 2  Alpha:   09:54-66 4269<NUL>
-POCSAG2400: Address:  583583  Function: 2  Alpha:   09:53-28 80300
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:53-00 4105<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>!
-POCSAG1200: Address:  432231  Function: 2  Alpha:   09:52-18 2268436<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:52-15 21/12/2021 09:49:03 INC 24855716 17A04G 49 GOLDFINCH FARM ROAD, SPEKE L24, L24 3UB Female 74Y FALLEN OVER, UNABLE TO GET UP GRD 343423 383517<NUL>
-POCSAG2400: Address: 1322513  Function: 2  Alpha:   09:52-29 80300
-POCSAG2400: Address:  583590  Function: 2  Alpha:   09:51-32 80300
-POCSAG2400: Address: 1324369  Function: 2  Alpha:   09:51-74 80300
-POCSAG1200: Address:   40074  Function: 2  Alpha:   09:51-92 21/12/2021 09:48:51 INC 24855715 30A02 7 HORNBY ROAD, STRETFORD MANCHESTER, M32 0RQ Female 89Y KNEE TWISTED AND GAVE WAY GRD 380954 395960<NUL>
