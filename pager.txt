@@ -1,3 +1,12 @@
+POCSAG2400: Address: 2091641  Function: 0 
+POCSAG1200: Address:  360216  Function: 2  Alpha:   22:42-72 31081
+POCSAG1200: Address: 1552500  Function: 0 
+POCSAG1200: Address: 1037738  Function: 2  Alpha:   UE<SOH>UA]eI
+POCSAG1200: Address: 1903569  Function: 1 
+POCSAG1200: Address:  972752  Function: 0 
+POCSAG1200: Address:  545425  Function: 2  Alpha:   QI<SOH>%:<SO><STX>IQaUaYIa<SOH>EA<DC1>BI<SOH>I]<SOH>]<SYN>NR<SYN>J:<STX>]<ACK>f2<SOH>9>JR"^&<SO>"2<SOH><CR>^b<SOH>Qe*<STX><EM><SYN>7<BEL>3<ETB><ETX>IYe<STX><CR>"<SYN>NR<STX>A<ACK>&:<STX><GS>J<DC2><STX>MYQA]E<SOH>M]MaEU<SOH>
+POCSAG1200: Address:  640109  Function: 2  Alpha:   22:40-49 21/12/2021 22
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:40-30 3157<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:38-29 5440<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   22:37-20 2616<NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1505401  Function: 3
 POCSAG2400: Address: 1323202  Function: 2  Alpha:   16:34-28 NHSBT - DONOR REFERRAL. Please call DR PETER NASH on Direct Dial Number 01733 678000 BLEEP 1506 Hospital PETERBOROUGH CITY Dept ITU . Regards Donor Referral Line<NUL>
 POCSAG2400: Address: 1323172  Function: 2  Alpha:   16:34-09 NHSBT - DONOR REFERRAL. Please call DR PETER NASH on Direct Dial Number 01733 678000 BLEEP 1506 Hospital PETERBOROUGH CITY Dept ITU . Regards Donor Referral Line<NUL>
 POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   16:32-16 5202<NUL>
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   <ACK>c
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   16:30-37 5202<NUL>
-POCSAG1200: Address: 1765503  Function: 2  Alpha:   16:30-74 You are now on call - put on by joe.
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   16:30-29 2560<NUL>
-POCSAG2400: Address:  549209  Function: 2  Alpha:   16:29-31 Please confirm your email address
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
