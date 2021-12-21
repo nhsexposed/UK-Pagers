@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333211221+++TIME=0333211221<NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   03:33-16 2057<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   03:32-41 2183<NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   03:31-07 1222<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328211221+++TIME=0328211221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0328211221+++TIME=0328211221<NUL>
 POCSAG1200: Address:  352586  Function: 2  Alpha:   03:28-55 6159<NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address:  270378  Function: 2
 POCSAG1200: Address:  653831  Function: 2 
 POCSAG1200: Address: 1305574  Function: 2 
 POCSAG1200: Address:  632777  Function: 0 
-POCSAG1200: Address:  353912  Function: 2  Alpha:   TS~X.
-POCSAG1200: Address: 1517725  Function: 1 
-POCSAG1200: Address: 1107204  Function: 2  Alpha:   <SYN>#
-POCSAG1200: Address:  174908  Function: 3  Alpha:   )<GS>epd
-POCSAG1200: Address:  156750  Function: 2 
