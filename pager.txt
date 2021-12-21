@@ -1,3 +1,23 @@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   12:44-59 5460<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1243211221+++TIME=1243211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1243211221+++TIME=1243211221<NUL>
+POCSAG2400: Address:  225476  Function: 2  Alpha:   12:43-46 TEST MESSAGE<NUL>
+POCSAG1200: Address: 1816808  Function: 2  Alpha:   12:43-51 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   12:43-84 4157<NUL>
+POCSAG1200: Address: 1216598  Function: 0 
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   <ACK><VT>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913540  Function: 2  Alpha:   12:42-15 4268<NUL>
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:41-35 60707
+POCSAG2400: Address:  225476  Function: 2  Alpha:   12:41-45 TEST MESSAGE FROM PageOne
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:41-76 60707
+POCSAG1200: Address: 1218857  Function: 1  Alpha:   sE
+POCSAG1200: Address: 1313150  Function: 2  Alpha:   12:40-92 (2/2) Roles    JY17P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
+POCSAG1200: Address:  216321  Function: 2  Alpha:   12:40-50 (2/2) Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
+POCSAG1200: Address:  548159  Function: 2  Alpha:   12:40-69 2565<NUL>
+POCSAG1200: Address: 1511870  Function: 2  Alpha:   v<EOT>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   12:40-31 2581<NUL>
 POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:39-54 2387<NUL>
 POCSAG2400: Address: 1913884  Function: 2  Alpha:   12:39-66 4269<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1238211221+++TIME=1238211221<NUL>
@@ -978,23 +998,3 @@ POCSAG1200: Address: 1876849  Function: 1
 POCSAG1200: Address:  334075  Function: 2  Alpha:   09:30-97 21/12/2021 09:27:10 INC 24855631 29O01 O/S, 12 NEW HALL LANE, MARKLAND HILL BOLTON, BL1 5LN Female 41Y RTC INVOLVING TWO VEHICLES GRD 369245 410172<NUL>
 POCSAG2400: Address: 1913761  Function: 2  Alpha:   09:30-51 2444<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   09:29-97 4042<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:29-14 4114<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:28-56 3507<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   09:28-56 2427<NUL>
-POCSAG2400: Address: 1321504  Function: 2  Alpha:   09:28-52 PLS CALL MARIE ON 07792 739 629 <NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0928211221+++TIME=0928211221<NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   09:27-19 2057<NUL>
-POCSAG1200: Address:  269046  Function: 2  Alpha:   09:27-54 21/12/2021 09:26:18 INC 24855629 10D02 11 OAK AVENUE, PENWORTHAM, PR1 0XQ Male 93Y NOT WELL / CHEST PAIN / DIB GRD 351979 427227
-POCSAG1200: Address:  269400  Function: 3  Alpha:   <ACK>"
-POCSAG2400: Address:   28893  Function: 0  Alpha:   09:26-37 5201<NUL>
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   09:26-31 5204<NUL>
-POCSAG1200: Address:  209785  Function: 2  Alpha:   09:26-40 21/12/2021 09:25:26 INC 24855625 10C01 FLAT 44 WELL COURT, WELL TERRACE, CLITHEROE, BB7 2AD Female 80Y chest pain and vomitting GRD 374593 442207
-POCSAG1200: Address:  269168  Function: 2  Alpha:   09:26-36 21/12/2021 09:25:26 INC 24855625 10C01 FLAT 44 WELL COURT, WELL TERRACE, CLITHEROE, BB7 2AD Female 80Y chest pain and vomitting GRD 374593 442207
-POCSAG1200: Address:  269400  Function: 3  Alpha:   <ACK><EM>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:26-13 2427<NUL>
-POCSAG2400: Address:   28920  Function: 0  Alpha:   09:26-21 2642<NUL>
-POCSAG1200: Address: 1511864  Function: 3  Alpha:   <SYN>q
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:24-55 3508<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:24-96 4156<NUL>
-POCSAG1200: Address:  548160  Function: 2  Alpha:   09:23-14 4404<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0923211221+++TIME=0923211221<NUL>
