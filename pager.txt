@@ -1,3 +1,18 @@
+POCSAG1200: Address:  930489  Function: 2  Alpha:   23:04-59 21/12/2021 23:01:48 INC 24858699 24C03 WALKABOUT THE PRINTWORKS, 27 WITHY GROVE, CITY MANCHESTER, M4 2BS Female 26Y PREGANT AND GIVING BIRTH GRD 384122 398744<NUL>
+POCSAG1200: Address: 1876722  Function: 2 
+POCSAG2400: Address:  583520  Function: 2  Alpha:   23:03-71 80300
+POCSAG2400: Address: 1320138  Function: 2  Alpha:   23:03-19 80300
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  582474  Function: 1 
+POCSAG1200: Address:  252546  Function: 1 
+POCSAG1200: Address: 1142497  Function: 2 
+POCSAG1200: Address:  169905  Function: 3 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   23:00-43 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  108034  Function: 0  Alpha:   23:00-93 21/12/2021 22:57:21 B2DmpkMajorAlarm Status : B2 DMPK Major Alarm Activated<NUL>
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   23:00-21 4167<NUL>
+POCSAG1200: Address:  531748  Function: 0  Alpha:   tV<SYN><VT>4<CAN>(ZH<EM>iY<BS>T<ENQ>d<CAN>HI<HT>t(J<BS>4<SYN><ETB><ACK>vv<ACK>4<ACK><ETB>7<ACK>'<ACK><NUL>
+POCSAG1200: Address:   30153  Function: 1  Alpha:   <DC3>H0Rt2Q<DC3>21<DLE><DC1><VT>h<DLE><DC2>m<FF><BS><FF><NAK><DC1>H19;<CAN>;<EM>h<FF>,<SYN><BS>5p2Q<DC3><BS>Q4uq<DC4>hQ<DC4><DC1>hL,.<SO><FF><SO>h<FF>N-lL
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   22:59-56 21/12/2021 22:58:32 INC 24858681 06E01 22 SHEFFIELD ROW, NEWTON LE WILLOWS WA12, WA12 8RZ Male 5Y MALE - COUGHING, DIB GRD 358616 393895
 POCSAG1200: Address: 1812479  Function: 3  Alpha:   'bI`L
 POCSAG2400: Address:  727849  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2258211221+++TIME=2258211221<NUL>
@@ -983,18 +998,3 @@ POCSAG2400: Address:   28909  Function: 0  Alpha:   16:48-32 9<NUL>
 POCSAG2400: Address: 1913907  Function: 2  Alpha:   16:48-98 2581<NUL>
 POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>#MDL
 POCSAG1200: Address:  227361  Function: 0  Alpha:   16:46-47 50795
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   16:44-47 8013 IP1 please<NUL>
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:44-79 5010<NUL>
-POCSAG2400: Address: 1032539  Function: 3  Alpha:   60
-POCSAG1200: Address:  585543  Function: 2  Alpha:   16:44-51 3999<NUL>
-POCSAG1200: Address: 1730096  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1643211221+++TIME=1643211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  216740  Function: 2  Alpha:   16:41-38 LIGHT IN GARAGE AREA IS OUT -  WS13 7JL BLOOMFIELD CRESCENT <NUL><NUL>
-POCSAG2400: Address: 2079604  Function: 0 
-POCSAG1200: Address: 1295433  Function: 1 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   16:39-84 Call 24857191 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:39-40 Call 24857191 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  470202  Function: 1  Alpha:   Z[X\<CAN>P<SYN>Pk09w4w3P<SYN>Piq2w2P*wy0s2<ETB>Pa77:yp1:Pa77:y76<DLE>s79<DLE>s:9:t29P02{tq2<ETB>
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   16:39-46 Call 
-POCSAG2400: Address:   28909  Function: 0  Alpha:   16:39-31 9<NUL>
