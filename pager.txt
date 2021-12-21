@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1322878  Function: 2  Alpha:   10:33-11
+POCSAG2400: Address:  549205  Function: 2  Alpha:   10:34-41 NHSBT
+POCSAG2400: Address:  844562  Function: 0 
+POCSAG2400: Address: 1323267  Function: 2  Alpha:   10:34-55 NHSBT - DONOR REFERRAL. Please call DR GOPAL on Direct Dial Number 01902 694264 Hospital NEW CROSS Dept ITU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:   80034  Function: 0  Alpha:   W CROSS Dept ITU . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address:  269400  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1033211221+++TIME=1033211221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913954  Function: 2  Alpha:   10:32-29 2304<NUL>
+POCSAG1200: Address: 1745488  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:32-49 4114<NUL>
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:32-45 5076<NUL>
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   10:31-63 2304<NUL>
+POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:30-24 NHSBT - DONOR REFERRAL. Please call ASHA on Direct Dial Number 01234 792257 Hospital BEDFORD HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address: 1899744  Function: 1 
+POCSAG1200: Address: 1301560  Function: 0 
+POCSAG2400: Address: 1323253  Function: 2  Alpha:   10:30-39 NHSBT - DONOR REFERRAL. Please call ASHA on Direct Dial Number 01234 792257 Hospital BEDFORD HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address: 1534220  Function: 2  Alpha:   10:30-59 CONTACT CONTROL 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   10:29-62 3117<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:29-65 3164<NUL>
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:29-44 5076<NUL>
 POCSAG1200: Address: 1749604  Function: 1 
 POCSAG2400: Address: 1068369  Function: 2  Alpha:   BILL PLEASE CALL JANE 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1028211221+++TIME=1028211221<NUL>
@@ -976,25 +998,3 @@ POCSAG1200: Address:  689104  Function: 2  Alpha:   Z<FF>~-N<SO>DXL<GS>m^,<RS><S
 POCSAG2400: Address:   28894  Function: 0  Alpha:   04:52-94 4411<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address:  650713  Function: 1 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:50-14 2233<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:50-23 4166<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0448211221+++TIME=0448211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  678610  Function: 2  Alpha:   04:46-00 CALL HAIRMYRES HOSPTIAL HELPDESK<NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   04:44-18 21/12/2021 04:42:54 INC 24855051 06D02 23 THE ROWANS, POULTON LE FYLDE, FY6 7UW Male 71Y DIB GRD 333485 438813
-POCSAG1200: Address:  234377  Function: 2  Alpha:   04:44-90 21/12/2021 04:42:54 INC 24855051 06D02 23 THE ROWANS, POULTON LE FYLDE, FY6 7UW Male 71Y DIB GRD 333485 438813
-POCSAG1200: Address:  987049  Function: 2  Alpha:   04:44-02 21/12/2021 04:42:54 INC 24855051 06D02 23 THE ROWANS, POULTON LE FYLDE, FY6 7UW Male 71Y DIB GRD 333485 438813
-POCSAG1200: Address:   14950  Function: 0  Alpha:   04:44-61 21/12/2021 04:40:38 INC 24855050 10C01 44 DALTON STREET, NELSON, BB9 7XY Male 21Y CHEST PAIN GRD 386130 438367
-POCSAG2400: Address: 1008256  Function: 2  Alpha:   04:44-39 8013<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443211221+++TIME=0443211221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0443211221+++TIME=0443211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:42-29 4166<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   04:41-82 4165<NUL>
-POCSAG1200: Address: 1127992  Function: 1 
-POCSAG1200: Address:   63216  Function: 2 
-POCSAG1200: Address: 1166504  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1068976  Function: 2 
-POCSAG2400: Address: 1999379  Function: 2 
-POCSAG2400: Address: 1913784  Function: 2  Alpha:   04:36-24 4374<NUL>
