@@ -1,3 +1,12 @@
+POCSAG2400: Address:  584348  Function: 2  Alpha:   07:29-56 1175<NUL>
+POCSAG1200: Address: 1321717  Function: 2  Alpha:   07:29-51 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: kt68pfe. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  360216  Function: 2  Alpha:   07:29-68 33960
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=072821
+POCSAG2400: Address:   28899  Function: 0  Alpha:   07:28-91 6144<NUL>
+POCSAG1200: Address: 1748726  Function: 0 
+POCSAG1200: Address: 1321535  Function: 2  Alpha:   07:28-29 21/12/2021 07:27:29 INC 24855286 09E01 3 NURSERY DRIVE, POYNTON, SK12 1WB Male 90Y NOT BREATHING GRD 391767 383559<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1322940  Function: 2  Alpha:   07:25-10 80300
 POCSAG2400: Address:   28927  Function: 0  Alpha:   07:23-42 5125<NUL>
 POCSAG1200: Address: 1323358  Function: 2  Alpha:   07:23-50 (2/2) Type     S1.2.1 Medical - Co Responding IRS Map ref  233547.03,103204.77  KVG072;INFORMING YOU AS DEFUSING CRITERIA MET <NUL><NUL>
 POCSAG1200: Address:  549872  Function: 2  Alpha:   07:24-81 ~PLEASE CONTACT CONTROLS<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  326050  Function: 0  Alpha:   <SYN><ETX>rO$<ENQ>5-,<SUB>}$
 POCSAG1200: Address: 1866351  Function: 0  Alpha:   Fq<DC3>Q<DC1>H(H<DC1>}<DC3>
 POCSAG1200: Address:  218149  Function: 0  Alpha:   )'<DLE>ig "<SYN>Pgik &"jkd)*f"P`a!i$g#j''<SYN><DLE>!a<SUB><DLE><SUB>h"<DLE>cr<SYN>`a,p 
 POCSAG1200: Address:  462828  Function: 0 
-POCSAG1200: Address: 1184752  Function: 1 
-POCSAG1200: Address:  197945  Function: 2  Alpha:   <DC2>(c3U/<DC1>[<SOH><CR>n
-POCSAG1200: Address:  627447  Function: 1  Alpha:   t$
-POCSAG1200: Address: 1327799  Function: 1  Alpha:   @P
-POCSAG1200: Address:   67246  Function: 0 
-POCSAG1200: Address:  945252  Function: 2 
-POCSAG1200: Address: 1923176  Function: 1 
-POCSAG1200: Address:  602160  Function: 3 
-POCSAG1200: Address: 1843238  Function: 1 
