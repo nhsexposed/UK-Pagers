@@ -1,3 +1,18 @@
+POCSAG1200: Address:  265245  Function: 2  Alpha:   <ENQ>"
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   12:29-51 4881<NUL>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   12:29-98 Marcia is responding<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1228211221+++TIME=1228211221<NUL>
+POCSAG2400: Address: 1320277  Function: 2  Alpha:   92:28-60 4555<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:28-69 4798<NUL>
+POCSAG1200: Address: 2080760  Function: 2 
+POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V<EOT>L
+POCSAG1200: Address:   41512  Function: 2  Alpha:   12:27-04 Please Call Switchboard<NUL><NUL>
+POCSAG2400: Address:   28925  Function: 0  Alpha:   12:26-04 2272<NUL>
+POCSAG2400: Address: 1913681  Function: 2  Alpha:   12:26-07 2300<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>CA;L
+POCSAG2400: Address:   28905  Function: 0  Alpha:   12:26-66 3117<NUL>
+POCSAG1200: Address: 1780312  Function: 0 
+POCSAG1200: Address:   49263  Function: 2  Alpha:   12:25-23 MEDICAL EMERGENCY WARD 41 AT DMH<NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   12:24-33 5202<NUL>
 POCSAG2400: Address:   28869  Function: 0  Alpha:   12:24-13 PLS CALL IRENE REDNALL WARD MANAGER CYGNET HOSP 01622 580 395 
 POCSAG2400: Address: 1814983  Function: 2  Alpha:   12:24-82 ravinder paddam  re kuldip paddam 07920011715 post transplant co ordinator<NUL><NUL>
@@ -983,18 +998,3 @@ POCSAG1200: Address:  325970  Function: 3  Alpha:   U`
 POCSAG1200: Address:  630329  Function: 2  Alpha:   $<EOT>Jt<EOT><SUB><FF>$E,<DC4>%-<DC4><ENQ>:<DC4>%<EOT><SUB>;#<DC3><ETX><VT><ETX><SUB>K++<ETX>;<ETX><NUL>
 POCSAG1200: Address:  325970  Function: 3  Alpha:   U<ACK>
 POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:16-67 0913 Area Controllers Test pag
-POCSAG2400: Address: 1022472  Function: 0  Alpha:   09:16-36 SECC team test<NUL><NUL>
-POCSAG2400: Address: 1321854  Function: 2  Alpha:   09:15-40 Craig test message<NUL>
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   09:15-37 MATY 8238<NUL><NUL>
-POCSAG1200: Address: 1594912  Function: 2  Alpha:   09:15-12 NOTIFY - DATE 21.12.21 TIME:09:12 *CORRECTION TO APPLIANCE AVAILABILITY*  WT AV IMMEDIATE - 18 WT AV RECALL (TRAINING) - 1 ON-CALL - 1 MAX 1 MIN<NUL>
-POCSAG1200: Address: 1237745  Function: 0 
-POCSAG1200: Address: 1485641  Function: 3  Alpha:   <DC1>"
-POCSAG2400: Address: 1913848  Function: 2  Alpha:   09:14-24 4885<NUL>
-POCSAG2400: Address: 1323792  Function: 2  Alpha:   09:14-85 4042<NUL>
-POCSAG1200: Address:  269153  Function: 2  Alpha:   09:14-24 6794<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:13-54 3507<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:13-10 2857<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1764151  Function: 0 
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   09:13-21 3508<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:12-95 5201<NUL>
