@@ -1,3 +1,27 @@
+POCSAG1200: Address:  269153  Function: 2  Alpha:   09:14-24 6794<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:13-54 3507<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:13-10 2857<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1764151  Function: 0 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   09:13-21 3508<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:12-95 5201<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   09:12-96 5203<NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   09:12-39 5277<NUL>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:12-18 2206<NUL>
+POCSAG2400: Address:  607400  Function: 3 
+POCSAG2400: Address: 1320371  Function: 2  Alpha:   09:12-66 5070<NUL>
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG2400: Address:   84824  Function: 1 
+POCSAG2400: Address: 1913774  Function: 2  Alpha:   09:11-33 5013<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   09:11-04 2343<NUL>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   09:11-49 3508<NUL>
+POCSAG2400: Address: 1913649  Function: 2  Alpha:   09:10-45 2965<NUL>
+POCSAG2400: Address: 1781400  Function: 1 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   09:09-60 5243<NUL>
+POCSAG2400: Address: 1404096  Function: 2 
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   09:09-17 2206<NUL>
+POCSAG1200: Address:  683424  Function: 0 
+POCSAG1200: Address: 1095312  Function: 0 
 POCSAG1200: Address:  678621  Function: 2  Alpha:   09:2q?34 Destination: Parking\D78 Ext TP, Booking Ref#: 806783, Vehicle: n13wnt. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>B<NUL><NUL>
 POCSAG1200: Address: 2024054  Function: 3 
 POCSAG1200: Address: 2011765  Function: 2 
@@ -974,27 +998,3 @@ POCSAG1200: Address: 1008085  Function: 1
 POCSAG1200: Address:  358788  Function: 3 
 POCSAG1200: Address:  340631  Function: 0 
 POCSAG1200: Address:  995591  Function: 2 
-POCSAG1200: Address:  339361  Function: 0 
-POCSAG1200: Address:   67366  Function: 3 
-POCSAG1200: Address:  957676  Function: 2 
-POCSAG1200: Address: 1923304  Function: 1 
-POCSAG1200: Address: 1843608  Function: 2  Alpha:   <BS>$
-POCSAG1200: Address: 1582582  Function: 2 
-POCSAG1200: Address:   39405  Function: 0 
-POCSAG1200: Address:  689069  Function: 1 
-POCSAG1200: Address: 1706870  Function: 0  Alpha:   3u
-POCSAG1200: Address:  396129  Function: 2 
-POCSAG1200: Address:  874295  Function: 1 
-POCSAG1200: Address:  279283  Function: 0  Alpha:   @$
-POCSAG1200: Address: 1923240  Function: 1 
-POCSAG1200: Address:  602224  Function: 3 
-POCSAG1200: Address: 1450038  Function: 1  Alpha:   p<NUL>
-POCSAG1200: Address:  385456  Function: 1  Alpha:   ~E
-POCSAG1200: Address:   92467  Function: 2  Alpha:   ^+L^K
-POCSAG1200: Address: 1365016  Function: 2  Alpha:   fa&ObPen
-POCSAG1200: Address: 1221137  Function: 2  Alpha:   l<FF><EOT><LF>$%<CR><FS>\<EOT>:<DC4>%<EOT><SUB><ESC><ESC><ESC><ETX>K<ETX>"<ESC>C<VT>+<ESC><ETX>
-POCSAG1200: Address:  739306  Function: 0  Alpha:    a
-POCSAG1200: Address: 1812390  Function: 0 
-POCSAG1200: Address:  354212  Function: 0 
-POCSAG1200: Address: 1617271  Function: 2 
-POCSAG1200: Address: 1671930  Function: 0  Alpha:   %H<DEL>'<SYN><ENQ><DLE>Kl<EM>4
