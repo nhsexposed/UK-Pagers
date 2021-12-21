@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   10:24-97 2008<NUL>
+POCSAG2400: Address: 1320098  Function: 2  Alpha:   10:24-39 80300
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:24-63 3106<NUL>
+POCSAG2400: Address: 1324371  Function: 2  Alpha:   10:24-10 80300
+POCSAG1200: Address: 1092442  Function: 2  Alpha:   10:23-59 21/12/2021 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1023211221+++TIME=1023211221<NUL>
+POCSAG2400: Address:  583556  Function: 2  Alpha:   10:23-22 80300
+POCSAG1200: Address:  284144  Function: 2 
+POCSAG2400: Address: 1322976  Function: 2  Alpha:   10:22-85 80300
+POCSAG2400: Address: 1925396  Function: 2  Alpha:   10:<SYN>0 98 01254263
+POCSAG1200: Address: 2073184  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   10:20-98 33867
+POCSAG2400: Address: 1913949  Function: 2  Alpha:   10:20-24 2343<NUL>\<DEL>?
+POCSAG2400: Address: 2012132  Function: 0 
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   10:20-27 3140<NUL>
+POCSAG2400: Address: 1829491  Function: 0 
+POCSAG1200: Address: 1147048  Function: 1 
+POCSAG1200: Address:  585540  Function: 2  Alpha:   10:19-24 6970<NUL>
 POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
 POCSAG2400: Address: 1032515  Function: 3  Alpha:   Fn
 POCSAG2400: Address:  150086  Function: 0  Alpha:   10:19-05 3104<NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423211221+++TIME=04
 POCSAG1200: Address:  165344  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAACKE this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:  360216  Function: 2  Alpha:   04:21-67 33886
-POCSAG2400: Address: 1815068  Function: 0  Alpha:   04:21-09 OBSTETRIC EMERGENCY LABOUR WARD ROOM 5 ST HELIR 04:17 <NUL><NUL>`<DEL><DEL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   04:21-58 Call 24855006 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:21-25 4166<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0418211221+++TIME=0418211221<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:17-22 4156<NUL>
-POCSAG1200: Address:  940431  Function: 2  Alpha:   04:14-04 21/12/2021 04:11:55 INC 24854997 12D02E FLAT 3, 70 THORNTON ROAD, MORECAMBE, LA4 5PJ Female 48Y SEIZURE GRD 344218 464574<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0413211221+++TIME=0413211221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413211221+++TIME=0413211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0408211221+++TIME=0408211221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408211221+++TIME=0408211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   04:07-79 4348<NUL>
-POCSAG1200: Address:  715729  Function: 2 
-POCSAG1200: Address:  827241  Function: 2 
-POCSAG1200: Address: 1761640  Function: 2 
-POCSAG1200: Address:  968456  Function: 2 
-POCSAG1200: Address:  678665  Function: 2  Alpha:   04:00-24 Case ref 11276206 Fill in tiio0sheet
