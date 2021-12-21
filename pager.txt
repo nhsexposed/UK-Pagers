@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1778080  Function: 1  Alpha:   <EM>+
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0308211221+++TIME=0308211221<NUL>
+POCSAG1200: Address: 1298455  Function: 3 
+POCSAG1200: Address: 1979622  Function: 2 
+POCSAG1200: Address:  514429  Function: 1  Alpha:   {<HT>
+POCSAG1200: Address:  426109  Function: 1 
+POCSAG1200: Address: 1616284  Function: 0 
+POCSAG1200: Address:  940431  Function: 2  Alpha:   03:07-01 21/12/2021 03:04:17 INC 24854885 26D01 27 WATER STREET, LANCASTER, LA1 1HF Male 48Y NEEDS REHAB - ALCHOLIC GRD 347668 462007<NUL>
+POCSAG1200: Address:  433067  Function: 2  Alpha:   03:06-29 21/12/2021 03:05:00 INC 24854887 12D02 120 PLUNGINGTON ROAD, PRESTON, PR1 7UE Female 85Y COLLAPSED - SHAKING ALL OVER - FALLEN GRD 353183 430761<NUL>
 POCSAG2400: Address: 1138648  Function: 2  Alpha:   Lc
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303211221+++TIME=0303211221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
@@ -987,14 +996,5 @@ POCSAG2400: Address:   28908  Function: 0  Alpha:   01:21-42 2343<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   01:20-48 2343<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0118211221+++TIME=0118211221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0118211221+++TIME=0118211221<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
