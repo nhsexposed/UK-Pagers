@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1138648  Function: 2  Alpha:   Lc
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303211221+++TIME=0303211221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   02:59-88 21/12/2021 02:55:10 INC 24854876 25B03V 15 SEARNESS ROAD, MIDDLETON MANCHESTER, M24 4JN Male 65Y THREATENING SUICIDE GRD 385405 406652<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0258211221+++TIME=0258211221<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   02:55-01 3157<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
@@ -983,10 +987,6 @@ POCSAG2400: Address:   28908  Function: 0  Alpha:   01:21-42 2343<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   01:20-48 2343<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0118211221+++TIME=0118211221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0118211221+++TIME=0118211221<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
