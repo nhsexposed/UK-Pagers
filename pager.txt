@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1749604  Function: 1 
+POCSAG2400: Address: 1068369  Function: 2  Alpha:   BILL PLEASE CALL JANE 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1028211221+++TIME=1028211221<NUL>
+POCSAG2400: Address: 2094240  Function: 3  Alpha:   <DC2><ESC><ETX>#<ETX>
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   10:27-62
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   10:27-06 2111<NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   FF
+POCSAG2400: Address: 2023585  Function: 0 
+POCSAG1200: Address:   40074  Function: 2  Alpha:   10:25-95 21/12/2021 10:21:14 INC 24855825 q;<SOH>03 20 HEATHWOODxZ_AD, BURNAGE MANCHESTER, M19 1NX Male 91Y SUB CALL - FALLEN GRD 386147 391964<NUL>
+POCSAG2400: Address:  583522  Function: 2  Alpha:   10:25-50 80300
+POCSAG2400: Address:  583514  Function: 2  Alpha:   10:25-30 80300
+POCSAG2400: Address:  583528  Function: 2  Alpha:   10:24-47 80300
+POCSAG2400: Address: 1323305  Function: 2  Alpha:   10:24-71 80300
+POCSAG2400: Address: 1913959  Function: 2  Alpha:   10:24-25 3180<NUL>
+POCSAG2400: Address: 1324304  Function: 2  Alpha:   10:24-29 80300
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   10:24-97 2008<NUL>
 POCSAG2400: Address: 1320098  Function: 2  Alpha:   10:24-39 80300
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:24-63 3106<NUL>
@@ -983,18 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address: 1068976  Function: 2 
 POCSAG2400: Address: 1999379  Function: 2 
 POCSAG2400: Address: 1913784  Function: 2  Alpha:   04:36-24 4374<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:35-28 4157<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0433211221+++TIME=0433211221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address:  295508  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:27-27 2343<NUL>
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   04:27-26 4166<NUL>
-POCSAG2400: Address: 1926712  Function: 0 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:26-12 3119<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   04:25-49 4155<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423211221+++TIME=0423211221<NUL>
-POCSAG1200: Address:  165344  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAACKE this is a test message on A side 012345678901234567890<NUL>
