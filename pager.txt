@@ -1,3 +1,14 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   05:53-85 4373<NUL>
+POCSAG2400: Address: 1484369  Function: 0 
+POCSAG2400: Address: 1717069  Function: 1  Alpha:   (<DC3><ESC><VT>{`jjfdbbddbVVV(<DC3><ESC><VT>{`jjfdbbddb<NUL>
+POCSAG2400: Address: 1022869  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   05:51-96 21/12/2021 05:49:22 INC 24855143 29D05V 427 ALSO, 425 WIGAN ROAD, DAUBHILL BOLTON, BL3 4QJ Unknown UnknownY RTC GRD 369201 407861<NUL><NUL>
+POCSAG1200: Address: 1687721  Function: 1  Alpha:   A]aYE
+POCSAG1200: Address: 2074227  Function: 2 
+POCSAG1200: Address: 2044288  Function: 2  Alpha:   <ACK>K;';<US><ETX>5<SOH>M<SO><ETB>;<ETB><ETX>U:O<BEL><ESC><ETB>;<SOH><CR>>;SK<BEL><SI>S<ETX><CR>>;SK?3<ETX><EM>?K<ETX><EM>WKS#<ETB>K<ETX><ENQ><DC3>['<SI><BEL>c<SOH>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   05:49-95 Call 24855139 - 
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   05:49-24 4155<NUL>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   05:48-46 3119<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   05:47-54 3119<NUL>
@@ -987,14 +998,3 @@ POCSAG2400: Address: 1643942  Function: 0
 POCSAG2400: Address:     392  Function: 3 
 POCSAG2400: Address: 1151667  Function: 0 
 POCSAG2400: Address:  226926  Function: 0 
-POCSAG2400: Address:  907818  Function: 1  Alpha:   <FF><BS>
-POCSAG2400: Address: 1303049  Function: 1  Alpha:   <CR><DC2>
-POCSAG2400: Address:  634002  Function: 2  Alpha:   pu
-POCSAG2400: Address:  733442  Function: 2  Alpha:   \a,n 7/Y
-POCSAG2400: Address: 1618618  Function: 3 
-POCSAG2400: Address:  305276  Function: 2 
-POCSAG2400: Address: 1468579  Function: 2 
-POCSAG2400: Address: 1079712  Function: 1 
-POCSAG2400: Address: 1581652  Function: 2 
-POCSAG2400: Address:  455283  Function: 0 
-POCSAG2400: Address:   67110  Function: 0  Alpha:   l<BS>ab@<SUB><VT><ETX><HT><US>/<ENQ><ETX><GS><ETB>A<DLE><US>+'<VT>A<ACK><ETX>%<VT>A<DLE><US><ESC><VT>Y@<SO>%<VT><VT><GS>A<CAN><ETX><GS><VT>Y@<SO> J
