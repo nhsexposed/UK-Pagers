@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1324711  Function: 3  Alpha:   .<SO><RS>/<ACK><SUB>~v&<SI><RS>&<BEL>j<FF><SYN>'Ov<ACK>B<FF>>_Nv><RS><BEL>2~<SYN><BEL><LF><ACK>B<SO>v&~6/<SYN><BEL><NUL>
+POCSAG2400: Address: 1323763  Function: 2  Alpha:   07:49-14 Joy, you are on call for BLMKH until 0900/22nd December.
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0748211221+++TIME=0748211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:   41432  Function: 2  Alpha:   07:47-77 21/12/2021 07:46:37 INC 24855338 06D02 25 CRONKSHAW STREET, DANESHOUSE BURNLEY, BB10 1AA Female 21Y DIB GRD 384082 433381<NUL>
+POCSAG1200: Address:   14950  Function: 0  Alpha:   07:47-62 21/12/2021 07:46:37 INC 24855338 06D02 25 CRONKSHAW STREET, DANESHOUSE BURNLEY, BB10 1AA Female 21Y DIB GRD 384082 433381<NUL>
+POCSAG1200: Address: 1188417  Function: 0 
+POCSAG1200: Address: 1942267  Function: 1 
+POCSAG1200: Address:  678759  Function: 2  Alpha:   07:44-39 Destination: Parking\D78 Ext TP, Booking$<DEL>ef#: 806357,%~ghicle: T500SAP. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
 POCSAG512: Address:  114360  Function: 2  Alpha:   07:44-33 <NULL><NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0743211221+++TIME=0743211221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  369276  Function: 2
 POCSAG1200: Address:  376044  Function: 0 
 POCSAG1200: Address:  614983  Function: 1 
 POCSAG1200: Address: 1274662  Function: 2 
-POCSAG1200: Address:  206793  Function: 0 
-POCSAG1200: Address:  209505  Function: 0 
-POCSAG1200: Address:  453076  Function: 2 
-POCSAG1200: Address: 1616653  Function: 3  Alpha:   fi
-POCSAG1200: Address: 1860110  Function: 0  Alpha:   !<ESC>
-POCSAG1200: Address:   27215  Function: 1 
-POCSAG1200: Address: 1454446  Function: 0 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   02:48-86 21/12/2021 02:@h
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
