@@ -1,3 +1,27 @@
+POCSAG1200: Address:  747366  Function: 1 
+POCSAG1200: Address: 1494309  Function: 2 
+POCSAG1200: Address: 1837861  Function: 1 
+POCSAG1200: Address: 1122032  Function: 3  Alpha:   ~V
+POCSAG1200: Address: 1354428  Function: 0 
+POCSAG1200: Address: 1143410  Function: 2  Alpha:   ,<DLE>;##
+POCSAG1200: Address:  370212  Function: 2 
+POCSAG1200: Address:  925730  Function: 0 
+POCSAG1200: Address:     596  Function: 0 
+POCSAG1200: Address:  384008  Function: 0 
+POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address:  223184  Function: 2 
+POCSAG1200: Address:     101  Function: 2 
+POCSAG1200: Address:  655362  Function: 0 
+POCSAG1200: Address: 1991288  Function: 0 
+POCSAG1200: Address: 1778512  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0338211221+++TIME=0338211221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  733990  Function: 2  Alpha:   03:36-67
+POCSAG2400: Address: 1713136  Function: 0 
+POCSAG1200: Address: 1966072  Function: 3 
+POCSAG1200: Address:  733005  Function: 1  Alpha:   <DC3>(R<DC3>h<DC4>u33p<DLE>2<VT><BS>1RQ1r0<NAK><DC3>5<SYN>HP41<DLE><NAK>2Rs<DC1>hQ<DC4><DC1>h<FF>N<CR>Ml<CR><BS><CR>,,<CR><CR><CR><NUL><NUL>
+POCSAG1200: Address: 1796332  Function: 0 
+POCSAG1200: Address:  930489  Function: 2  Alpha:   03:34-28 21/12/2021 03:32:26 INC 24854928 06E01 31 AUGUSTINE WEBSTER CLOSE, MOSTON MANCHESTER, M9 4DG Male 3
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333211221+++TIME=0333211221<NUL>
 POCSAG2400: Address:   28924  Function: 0  Alpha:   03:33-16 2057<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
@@ -974,27 +998,3 @@ POCSAG1200: Address:  295968  Function: 0  Alpha:   f<CAN>PZ<FS>
 POCSAG1200: Address:  627695  Function: 1  Alpha:   td
 POCSAG1200: Address: 1067426  Function: 3 
 POCSAG1200: Address: 1705314  Function: 3  Alpha:   g)gg1
-POCSAG1200: Address:  372020  Function: 0  Alpha:   Y:
-POCSAG1200: Address:  856291  Function: 2 
-POCSAG1200: Address: 1192161  Function: 2 
-POCSAG1200: Address:  852649  Function: 1  Alpha:   OS
-POCSAG1200: Address:  133238  Function: 1  Alpha:   3<DLE>
-POCSAG1200: Address: 1187880  Function: 1  Alpha:   <DC4><CR>
-POCSAG1200: Address:  915017  Function: 3 
-POCSAG1200: Address:  238778  Function: 3  Alpha:   p%
-POCSAG1200: Address:  484997  Function: 1  Alpha:   9<VT>
-POCSAG1200: Address:  746807  Function: 1 
-POCSAG1200: Address: 2041225  Function: 0  Alpha:   <SYN><DC1>
-POCSAG1200: Address: 1616693  Function: 3  Alpha:   &k<NUL>q+=8)
-POCSAG1200: Address: 1860110  Function: 0  Alpha:   A<ESC>
-POCSAG1200: Address:   10827  Function: 1 
-POCSAG1200: Address: 1651682  Function: 0  Alpha:   #<HT>BD 367686 409082<NUL><NUL>
-POCSAG1200: Address:  382948  Function: 0 
-POCSAG1200: Address: 1217850  Function: 2  Alpha:    -<BEL>CQI YITo
-POCSAG1200: Address: 1433325  Function: 1  Alpha:   }]o<GS><ESC>
-POCSAG1200: Address: 1399929  Function: 3  Alpha:   ]_z]!
-POCSAG1200: Address:  394291  Function: 2  Alpha:   l<NUL>
-POCSAG1200: Address:  270378  Function: 2 
-POCSAG1200: Address:  653831  Function: 2 
-POCSAG1200: Address: 1305574  Function: 2 
-POCSAG1200: Address:  632777  Function: 0 
