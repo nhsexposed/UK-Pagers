@@ -1,3 +1,22 @@
+POCSAG1200: Address: 1321864  Function: 2  Alpha:   16:24-58 21/12/2021 16:21:43 INC 24857200 08D06 37 FLEET STREET, PEMBERTON WIGAN, WN5 0DS Female 57Y 57YOF - SMOKE INHALATION GRD 354732 404764<NUL><NUL>
+POCSAG1200: Address: 1875973  Function: 0 
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   <ACK><VT>
+POCSAG1200: Address:  221452  Function: 2  Alpha:   16:24-30 test<NUL>
+POCSAG1200: Address: 1322006  Function: 2  Alpha:   16:24-20 test<NUL>
+POCSAG2400: Address: 1320348  Function: 2  Alpha:   16:23-49 4275<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1623211221+++TIME=1623211221<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:23-41 4193<NUL>
+POCSAG1200: Address: 1534104  Function: 2  Alpha:   16:23-08 PLEASE CONTACT CONTROL THANKS 
+POCSAG1200: Address:  216378  Function: 2  Alpha:   16:23-15 N1: zbx4 blmputpv71 Minor: CPU idle Very Low (<5% 5 min avg) 1.34 %<LF>
+POCSAG1200: Address: 1032979  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323879  Function: 2  Alpha:   16:22-46 4392<NUL>
+POCSAG1200: Address: 1067985  Function: 2  Alpha:   16:22-57 Destination: D105 SSC In\102, Booking Ref#: 806220, Vehicle: AY69RJZ. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   16:21-95 3181<NUL>
+POCSAG1200: Address:  548160  Function: 2  Alpha:   16:21-19 2935<NUL>
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   16:21-51 4316<NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   16:20-16 3181<NUL>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   16:19-03 8013 IP1 please<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   16:19-44 4316<NUL>
 POCSAG1200: Address: 1032983  Function: 2  Alpha:   &l
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   v`
@@ -979,22 +998,3 @@ POCSAG1200: Address:  333824  Function: 2  Alpha:   <EOT><STX><STX><STX><STX><ST
 POCSAG1200: Address: 1534252  Function: 2  Alpha:   12:21-62 (2/3) FIRE & POLICE SERVICE HEADQUARTERS          LEIGH 
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   12:21-58 4155<NUL>
 POCSAG1200: Address: 1534207  Function: 2  Alpha:   12:21-92 (1/3)Incident Information for JHBAM9  Incident HH027993-21122021 To       21/12/2021 11:44:01 Address  HAMPSHIRE & IOW FIRE & RESCUE SERVICE          HAMPSHIRE
-POCSAG2400: Address: 1031560  Function: 3  Alpha:   Qp
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   12:20-25 3104<NUL>
-POCSAG2400: Address:  271063  Function: 2  Alpha:   12:19-67 01444441881
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1218211221+++TIME=1218211221<NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <SYN>0
-POCSAG1200: Address: 1031672  Function: 3  Alpha:   m<NUL>
-POCSAG2400: Address:   14232  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:18-16 4183<NUL>
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   (D<CR>dL
-POCSAG1200: Address: 2069119  Function: 0 
-POCSAG1200: Address: 1500777  Function: 0 
-POCSAG1200: Address:  959328  Function: 3 
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   12:14-13 21/12/2021 12:11:17 INC 24856249 25B03 FLAT 6, 292 BURTON ROAD, WITHINGTON MANCHESTER, M20 2NB Female 66Y NO SLEEP- VOMITING GRD 383708 391896
-POCSAG1200: Address:  346010  Function: 0  Alpha:   12:13-17 21/12/2021 12:10:47 INC 24856245 01D01 2 BRIARY COURT, CLAYTON BROOK NR LEYLAND, PR5 8LE Female 101Y SEVERE ABDO PAINS VERY WEAK GRD 358269 424458<NUL><NUL>
-POCSAG1200: Address:  273032  Function: 0  Alpha:   +++TIME=1213211221+++TIME=1213211221<NUL>
-POCSAG2400: Address: 1322737  Function: 2  Alpha:   12:13-65 PLEASE CONTACT CONTROL ...EOM<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   12:13-80 5056<NUL>
-POCSAG2400: Address:   28919  Function: 0  Alpha:   12:13-41 2547<NUL>
