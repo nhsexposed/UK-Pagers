@@ -1,3 +1,19 @@
+POCSAG1200: Address:  633256  Function: 1 
+POCSAG1200: Address: 1608304  Function: 0 
+POCSAG2400: Address: 1942101  Function: 2 
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   18:43-97 4960<NUL>
+POCSAG1200: Address:  549876  Function: 2  Alpha:   18:43-69 ~PLEASE CONTACT CONTROLS RE OFFICER AVAILABILITY. MANY THANKS<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   18:42-91 4316<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   18:42-90 4156<NUL>
+POCSAG1200: Address:  108093  Function: 0  Alpha:   18:42-10 plse call ext 3197<NUL>
+POCSAG1200: Address:  493248  Function: 3 
+POCSAG1200: Address: 1882871  Function: 0 
+POCSAG2400: Address: 1925219  Function: 0 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:41-64 21/12/2021 18:38:35 INC 2485
+POCSAG2400: Address:  583268  Function: 2  Alpha:   18:40-16 Test<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:40-53 4379<NUL>
+POCSAG1200: Address: 1746578  Function: 0 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<SOH><STX><DC2>0f
 POCSAG2400: Address:   28899  Function: 0  Alpha:   18:39-52 4156<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1838211221+++TIME=18#<BS>b11221<NUL>
 POCSAG1200: Address: 2008401  Function: 2 
@@ -982,19 +998,3 @@ POCSAG1200: Address:   80176  Function: 3  Alpha:   X<ACK>
 POCSAG2400: Address: 1913794  Function: 2  Alpha:   14:07-55 2445<NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   2n
 POCSAG1200: Address:  585540  Function: 2  Alpha:   14:07-28 3977<NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:06-29 5400<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1323170  Function: 2  Alpha:   14:06-56 NHSBT - DONOR REFERRAL. Please call ULAINY DEODEN on Direct Dial Number 0300 613 2171  Hospital FRIMLEY PARK Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323200  Function: 2  Alpha:   14:06-32 NHSBT - DONOR REFERRAL. Please call ULAINY DEODEN on Direct Dial Number 0300 613 2171  Hospital FRIMLEY PARK Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1631799  Function: 0 
-POCSAG2400: Address: 1913766  Function: 2  Alpha:   14:05-84 5013<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>*
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   14:05-22 3508<NUL>
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   S"
-POCSAG2400: Address: 1913679  Function: 2  Alpha:   14:04-34 3504<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1403211221+++TIME=1403211221<NUL>
-POCSAG1200: Address: 1032022  Function: 3  Alpha:   FF
-POCSAG1200: Address:  269456  Function: 3  Alpha:   UP
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403211221+++TIME=1403211221<NUL>
-POCSAG1200: Address: 1511995  Function: 3  Alpha:   <SYN>R
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
