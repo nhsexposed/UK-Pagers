@@ -1,3 +1,28 @@
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   09:54-66 4269<NUL>
+POCSAG2400: Address:  583583  Function: 2  Alpha:   09:53-28 80300
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:53-00 4105<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>!
+POCSAG1200: Address:  432231  Function: 2  Alpha:   09:52-18 2268436<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:52-15 21/12/2021 09:49:03 INC 24855716 17A04G 49 GOLDFINCH FARM ROAD, SPEKE L24, L24 3UB Female 74Y FALLEN OVER, UNABLE TO GET UP GRD 343423 383517<NUL>
+POCSAG2400: Address: 1322513  Function: 2  Alpha:   09:52-29 80300
+POCSAG2400: Address:  583590  Function: 2  Alpha:   09:51-32 80300
+POCSAG2400: Address: 1324369  Function: 2  Alpha:   09:51-74 80300
+POCSAG1200: Address:   40074  Function: 2  Alpha:   09:51-92 21/12/2021 09:48:51 INC 24855715 30A02 7 HORNBY ROAD, STRETFORD MANCHESTER, M32 0RQ Female 89Y KNEE TWISTED AND GAVE WAY GRD 380954 395960<NUL>
+POCSAG1200: Address:  269456  Function: 3  Alpha:   E<STX>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   09:51-29 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address:  269400  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1913950  Function: 2  Alpha:   09:51-30 5201<NUL>
+POCSAG2400: Address:  583511  Function: 2  Alpha:   09:51-54`(0300
+POCSAG1200: Address: 1065300  Function: 0  Alpha:   ?G
+POCSAG1200: Address: 1943699  Function: 3 
+POCSAG1200: Address: 2043968  Function: 3 
+POCSAG1200: Address: 2040984  Function: 1  Alpha:   S 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   09:51-03 21/12/2021 09:47:31 INC 24855712 MAJOR DELTA POINT - APARTMENT 1A, 74 BLACKFRIARS ROAD, SALFORD, M3 7EL ProQA Overridden - Call Escalated GRD 383179 399055<NUL>
+POCSAG2400: Address: 1322940  Function: 2  Alpha:   09:51-11 80300
+POCSAG2400: Address:  584087  Function: 2  Alpha:   09:50-10 80300
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   09:50-61 5242<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>l
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   09:49-47 21/12/20<DC2>1<SOH>09:47
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:49-59 2233<NUL>
 POCSAG1200: Address:   80070  Function: 3  Alpha:   &0
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1115168  Function: 2  Alpha:   <SYN>a&oh@uh
 POCSAG1200: Address:   91641  Function: 2  Alpha:   R<ENQ><FS><VT><GS><DC3><GS><SI>A<DC2>'A<STX>-<ETX><DC3><EM><ETX><ENQ><EM><VT>A<FF>%<US><ESC>A<DLE>+<ENQ>A<RS>!<VT>%<ETX>)<DC3><US><GS>']
 POCSAG1200: Address:   95205  Function: 2 
 POCSAG1200: Address:  867626  Function: 3 
-POCSAG1200: Address: 1158387  Function: 3  Alpha:   b 
-POCSAG1200: Address: 1483943  Function: 0  Alpha:   <EM>]
-POCSAG1200: Address:    6287  Function: 2 
-POCSAG1200: Address: 1345826  Function: 1  Alpha:   [50k6<NUL>/9H73
-POCSAG1200: Address: 1353444  Function: 3  Alpha:   <STX>=
-POCSAG1200: Address:   66737  Function: 2  Alpha:   OP
-POCSAG1200: Address:  619195  Function: 2 
-POCSAG1200: Address:  339058  Function: 0 
-POCSAG1200: Address:  610343  Function: 2 
-POCSAG1200: Address:  924705  Function: 3 
-POCSAG1200: Address:  128421  Function: 0 
-POCSAG1200: Address:  128051  Function: 1 
-POCSAG1200: Address:  769176  Function: 0  Alpha:   8A
-POCSAG1200: Address:  619799  Function: 1 
-POCSAG1200: Address:   78187  Function: 1  Alpha:   <DLE>E<ACK>my
-POCSAG1200: Address:  193399  Function: 2 
-POCSAG1200: Address:  440450  Function: 1  Alpha:   hK
-POCSAG1200: Address: 1923104  Function: 0  Alpha:   Z<FS><ESC><CAN><DLE><CAN>["X<CAN>P<CAN><SUB><FS>P'&"d`&<DLE>ig "<SYN>Pf$fb)<DLE>(f *j$g#Pf <BEL>`C(PS,LR<NUL>&MB"6
-POCSAG1200: Address:  602608  Function: 3 
-POCSAG1200: Address:  761313  Function: 1 
-POCSAG1200: Address:  104371  Function: 1  Alpha:   p`
-POCSAG1200: Address:  394597  Function: 0  Alpha:   <EM>=
-POCSAG1200: Address: 1652540  Function: 1 
-POCSAG1200: Address: 1158323  Function: 1  Alpha:   r@Kbn
-POCSAG1200: Address:    7247  Function: 3  Alpha:   )<SI>CL.
