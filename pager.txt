@@ -1,3 +1,53 @@
+POCSAG1200: Address: 1594916  Function: 2  Alpha:   10:04-65 NOTIFY - DATE: 22.12.21   TIME: 0930 WT AV IMMEDIATE - 19 WT AV RECALL (TRAINING) - 1 ON-CALL - 2 MAX 1 MIN 
+POCSAG1200: Address: 1594912  Function: 2  Alpha:   10:04-15 NOTIFY - DATE: 22.12.21   TIME: 0930 WT AV IMMEDIATE - 19 WT AV RECALL (TRAINING) - 1 ON-CALL - 2 MAX 1 MIN 
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   10:03-07 IP1 8013
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1003221221+++TIME=1003221221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1003221221+++TIME=1003221221<NUL>
+POCSAG2400: Address:  718745  Function: 3  Alpha:   10:03-42 80300
+POCSAG512: Address: 1510680  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  583528  Function: 2  Alpha:   10:03-49 80300
+POCSAG1200: Address:  901461  Function: 2  Alpha:   10:02-70 Site Emergency Alarm Test
+POCSAG1200: Address:  265567  Function: 2  Alpha:   10:02-30 Site Emergency Alarm Test
+POCSAG1200: Address:  901451  Function: 2  Alpha:   10:02-64 Site Emergency Alarm Test
+POCSAG2400: Address:  225635  Function: 2  Alpha:   10:02-70 Site Emergency Alarm Test
+POCSAG2400: Address:  225601  Function: 2  Alpha:   10:02-71 Site Emergency Alarm Test
+POCSAG1200: Address:  265694  Function: 2  Alpha:   10:02-44 Site Emergency Alarm Test
+POCSAG1200: Address: 1022677  Function: 2  Alpha:   10:02-47 MANCHESTER AIRPORT RESET-*SA09,SR1,#
+POCSAG1200: Address:  820854  Function: 2  Alpha:   10:02-52 Site Emergency Alarm Test
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   10:02-62 4277<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   10:02-11 "2.12/2021 10:00:55 INC 24860167 17B01G 7 BEALE GROVE, CHORLTON CUM HARDY MANCHESTER, M21 9DD Female 37Y SINGLE MUM - FALLEN DOWN STAIRS GRD 381610 393785<NUL><NUL>
+POCSAG1200: Address: 1635623  Function: 3  Alpha:   Male 33Y HIGH TEMP, COUGH GRD 371231 403420<NUL><NUL>
+POCSAG1200: Address: 1500150  Function: 2  Alpha:   94:02-37 22/12/2021 10:01:12 INC 24860170 26D01 47 OWLWOOD DRIVE, LITTLE HULTON MANCHESTER, M38 0
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   10:02-67 22/12/2021 10:01:12 INC 24860170 26D01 47 OWLWOOD DRIVE, LITTLE HULTON MANCHESTER, M38 0FG Male 33Y HIGH TEMP, COUGH GRD 371231 403420<NUL><NUL>
+POCSAG2400: Address: 1323305  Function: 2  Alpha:   10:02-72 80300
+POCSAG2400: Address: 1324304  Function: 2  Alpha:   10:02-30 80300
+POCSAG2400: Address: 1320098  Function: 2  Alpha:   10:02-40 80300
+POCSAG2400: Address: 1324371  Function: 2  Alpha:   10:02-11 80300
+POCSAG2400: Address: 1322976  Function: 2  Alpha:   10:02-86 80300
+POCSAG2400: Address: 1913857  Function: 2  Alpha:   10:01-02 3164<NUL>
+POCSAG2400: Address:  645473  Function: 2  Alpha:   10:01-07 01254263555
+POCSAG2400: Address: 1913746  Function: 2  Alpha:   10:01-01 2999<NUL>
+POCSAG2400: Address:  583534  Function: 2  Alpha:   10:01-62 80300
+POCSAG1200: Address: 1022661  Function: 0  Alpha:   10:00-75 *TEST FIRE TEST*
+POCSAG1200: Address: 1022663  Function: 0  Alpha:   10:00-30 *TEST FIRE TEST*
+POCSAG1200: Address:  549077  Function: 2  Alpha:   10:00-36 *TEST FIRE TEST*
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   10:00-41 PLEASE CALL 0161 622 9870
+POCSAG2400: Address:  583553  Function: 2  Alpha:   10:00-36 80300
+POCSAG2400: Address:  583553  Function: 2  Alpha:   10:00-35 80300
+POCSAG1200: Address: 1067866  Function: 2  Alpha:   10:00-00 22/12/2021 09:57:54 INC 24860150 31D04 MOBILE UNIT FOR TESTING, WM MORRISON SUPERMARKETS PLC, GREEN OAKS WAY, WIDNES WA8, WA8 6UA Male 59Y FAINTED FOLLOWING BLOOD TEST GRD 351942 385859
+POCSAG1200: Address: 1560838  Function: 2  Alpha:   09:59-48 Site Emergency Alarm Test
+POCSAG2400: Address: 1913857  Function: 2  Alpha:   10:00-01 3164<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   10:00-62 5205<NUL>
+POCSAG1200: Address:  265567  Function: 2  Alpha:   09:59-29 Site Emergency Alarm Test
+POCSAG1200: Address:  901451  Function: 2  Alpha:   09:59-63 Site Emergency Alarm Test
+POCSAG1200: Address:  265694  Function: 2  Alpha:   09:59-43 Site Emergency Alarm Test
+POCSAG1200: Address:  618956  Function: 2  Alpha:   09:59-67 Site Emergency Alarm Test
+POCSAG1200: Address:  265571  Function: 2  Alpha:   09:7q?63 Site Emergency Alarm Test
+POCSAG1200: Address:  240728  Function: 2  Alpha:   09:59-81 Site Emergency Alarm Test
+POCSAG1200: Address:  820854  Function: 2  Alpha:   09:59-51 Site Emergency Alarm Test
+POCSAG1200: Address:  265572  Function: 2  Alpha:   09:59-30 Site Emergency Alarm Test
+POCSAG1200: Address:  618883  Function: 2  Alpha:   09:59-39 Site Emergency Alarm Test
 POCSAG2400: Address:  584088  Function: 2  Alpha:   09z=;=11 80300
 POCSAG1200: Address: 1500262  Function: 2  Alpha:   09:59-47 22/12/2021 09:57:50 INC 24860149 06E01 62 OWLWOOD DRIVE, LITTLE HULTON MANCHESTER, M38 0ER Female 77Y BAD CHEST NOT EATING DIB GRD 371210 403480<NUL>
 POCSAG1200: Address:  350338  Function: 0  Alpha:   09:59-28 22/12/2021 09:57:43 INC 24860148 10D01 12 HAIGHTON DRIVE, FULWOOD PRESTON, PR2 9LU Female 61Y CENTRAL CHEST PAINS BACK PAIN COVID PT GRD 356216 432601
@@ -948,53 +998,3 @@ POCSAG1200: Address:  548160  Function: 2  Alpha:   02:09-21 2110<NUL>
 POCSAG1200: Address: 1483359  Function: 0 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   02:09-16 21970
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0208221221+++TIME=0208221221<NUL>
-POCSAG1200: Address:  420486  Function: 3  Alpha:   F<EM>
-POCSAG2400: Address: 1880701  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  360216  Function: 2  Alpha:   02:06-80 33835
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   02:05-53 3117<NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   02:04-90 2616<NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   02:03-89 2097<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1876689  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158221221+++TIME=0158221221<NUL>
-POCSAG1200: Address:   22487  Function: 3  Alpha:   Z(Jx9Z<BS>t(J<BS>4fv<ACK><ACK><SYN><ACK>D&vFFv<ACK>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   01:58-94 22/12/2021 01:56:17 INC 24859138 23D02I 51 REDLAM, BLACKBURN, BB2 1UN Female 44Y OVERDOSE GRD 367001 427447<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153221221+++TIME=0153221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153221221+++TIME=0153221221<NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   01:53-88 2616<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   01:53-21 frank stansil 37720
-POCSAG2400: Address:   28896  Function: 0  Alpha:   01:52-72 2183<NUL>
-POCSAG1200: Address: 1032926  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1913753  Function: 2  Alpha:   01:50-42 3106<NUL>
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   01:48-19 22/12/2021 01:47:25 INC 24|%9115 06D04 60 WATERY LANE, ASHTON ON RIBBLE PRESTON, PR2 1AX Male 50Y M COVID - DIB GRD 352235 429898<NUL><NUL>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   01:48-54 5125<NUL>
-POCSAG1200: Address: 1022689  Function: 0  Alpha:   01:46-19 0117<NUL>
-POCSAG1200: Address:  832101  Function: 0 
-POCSAG1200: Address:  766218  Function: 2  Alpha:   01:45-45 PLEASE CALL BACK RIPLEY CUSTODY ON 0300 122 8328 <NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:44-88 22/12/2021 01:41:59 INC 24859108 09E01 25 WALLCROFT, WILLASTON NESTON CH64, CH64 2UE Female 82Y NOT BREATHING"#RD 333229 377451<NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   01:44-97 22/12/2021 01:41:59 INC 24859108 09E01 25 WAL
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0143221221+++TIME=0143221221<NUL>
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   01:38-65 22/12/2021 01:38:01 INC 24859094 09E01 136 WERNETH HALL ROAD, COPPICE OLDHAM, OL8 1QZ Unknown UnknownY CA TREATMENT, NOT BREATHING 
-POCSAG1200: Address: 1766263  Function: 0 
-POCSAG1200: Address: 1747068  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:37-85 22/12/2021 01:34:16 INC 24859085 17A02 3 MARITIME COURT, NETHERTON L30, L30 7PU Female 81Y FALL GRD 335775 400141
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   01:36-93 22/12/2021 01:34:28 INC 24859086 11D02U OUTSIDE, POPWORLD, 2A WOOD STREET, LIVERPOOL CITY CENTRE L1, L1 4AQ Male 19Y CH<DEL>O<HT>NG ON OWN SICK GRD 334823 390149<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0133221221+++TIME=0133221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1749044  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0128221221+++TIME=0128221221<NUL>
-POCSAG1200: Address: 1874665  Function: 0 
-POCSAG1200: Address: 2096952  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  413130  Function: 2 
-POCSAG1200: Address:   82734  Function: 2  Alpha:   01:26-01 22/12/2021 01:24:00 INC 24859069 10D01 127 MASON STREET, HORWICH BOLTON, BL6 5RB Male 45Y DIB, TIGHT ON RIGHT SIDE, COPD GRD 363397 411215<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0123221221+++TIME=0123221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3J<NUL><NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   01:22-26 3132<NUL>
-POCSAG2400: Address: 1519320  Function: 0 
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   01:20-17 Alarm alarm.HostCPUUsageAlarm on Host : paypodcesx01a.hosting.civica.com is Critical, This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Critical] Alarm alarm.HostCPUUsageAlarm on Host paypodcesx01a.hosting<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   01:20-51 Alarm alarm.HostCPUUsageAlarm on Host : paypodcesx01a.hosting.civica.com is Critical, This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Critical] Alarm alarm.HostCPUUsageAlarm on Host paypodcesx01a.hosting<NUL><NUL>
-POCSAG1200: Address: 1031728  Function: 0 
