@@ -1,3 +1,15 @@
+POCSAG1200: Address:   77279  Function: 2  Alpha:   08:09-51 Whitby FIRE CALL
+POCSAG1200: Address:  272374  Function: 2  Alpha:   08:09-25 The following resources/officers have been assigned to incident DNDN012773-22122021: DN77P1 as PMP from WHI(Whitby)<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0808221221+++TIME=0808221221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808221221+++TIME=0808221221<NUL>
+POCSAG1200: Address:  640109  Function: 2  Alpha:   08:08-50 22/12/2021 08:06:38 INC 24859782 31D04 5A MUSKETT DRIVE, NORTHWICH, CW8 4YP Male 28Y M- COLLAPSED, BANGED HEAD GRD 364286 374514
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2074225  Function: 2 
+POCSAG2400: Address: 1022493  Function: 0  Alpha:   08:04-48 Main Gate will be closed to outbound traffic from 08:30hrs - 14:30hrs. HGV access/egress will be unaffected during this period. Inbound traffic will be unaffected - SSM<LF><NUL><NUL>
+POCSAG2400: Address:  640392  Function: 2  Alpha:   08:04-39 110<NUL><NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:04-02 4312<NUL>
+POCSAG1200: Address: 1323354  Function: 2  Alpha:   08:04-94 ALL ON DUTY PERSONNEL TO RESPOND TO STN 60 FOR A MISPER<NUL>
+POCSAG1200: Address:  859363  Function: 2  Alpha:   "<DEL><ACK><SUB>~v<RS>.<ETB><ETB>/v<RS>N<BEL>"G<SYN>/<RS>G~f&<ACK>z^<ACK>J<RS><BEL><SUB><DC4>M$M<FS><FF>d<EOT>RRb<STX>RRRRR<STX>r<FF>>N~<RS><BEL>RRRRRjPhPp|&O6N<RS><SO>&O~v<ACK>"M<BEL>/V<ETX><STX><NAK>}<DC4>d,llPhP<CAN>-<SYN>7O<RS>.V<ETX>*<ETX><US>v&<BEL>*&>.<RS><BEL>"<DEL><ACK><SUB>~v<RS>.<ETB><ETB>/v<RS>N<BEL>"G<SYN>/<RS>G~f&<ACK>z^nP@|<RS>'W
 POCSAG1200: Address:  549740  Function: 2  Alpha:   08:04-80 ** PROBLEM Service Alert: Sky UK Prd VOD Edge Balancer Manager node/Upload poller is running is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Upload poller is running<CR><LF>Host: Sky UK Prd VOD Edge Balancer
 POCSAG2400: Address: 1323951  Function: 2  Alpha:   08:03-11 AMBER: PLEASE DIAL IN FOR A CLINICAL SAFETY REVIEW CALL AT 08:30hrs.  AN MS TEAMS LINK WILL BE EMAILED SHORTLY.  EOC-SOUTH. GRM<NUL>
 POCSAG2400: Address:  263315  Function: 2  Alpha:   fb`i"<DLE>bd &P$'<DLE>c')P P!f$gda &Pi c"j,<DLE>i"kdb+Pa &&P *<DLE><CAN><FS>]<EM><CAN>4y9<ETB><DLE>P 'Pf)<DLE>jb`f)<DLE>f$g%Pk$&&<DLE>a"Pbf`$f""P)d')*f,<ETB><DLE>PbgaVig**$<ETB>P#i&
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1881041  Function: 1
 POCSAG2400: Address:  990388  Function: 1 
 POCSAG2400: Address:  799338  Function: 3 
 POCSAG2400: Address:  222809  Function: 2  Alpha:   5=X_<CAN>z}<SO><CAN><US>|l<BS>p<DC4>_8x<SOH><SYN>
-POCSAG2400: Address:  992711  Function: 0  Alpha:   <DC1>K?mC
-POCSAG2400: Address:  833651  Function: 1  Alpha:   "MKt,<ETX>8r
-POCSAG2400: Address:  932311  Function: 3 
-POCSAG2400: Address: 1279866  Function: 2  Alpha:   3k
-POCSAG2400: Address: 1851172  Function: 2  Alpha:   <SYN>*jjQ
-POCSAG2400: Address:  660204  Function: 2 
-POCSAG2400: Address:  174758  Function: 0 
-POCSAG2400: Address:  339632  Function: 1 
-POCSAG2400: Address: 1318507  Function: 2  Alpha:   <STX><VT>
-POCSAG2400: Address: 1714213  Function: 3 
-POCSAG2400: Address: 1187885  Function: 3 
-POCSAG2400: Address: 1308794  Function: 2  Alpha:   s7
