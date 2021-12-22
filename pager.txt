@@ -1,3 +1,13 @@
+POCSAG1200: Address:  269059  Function: 2  Alpha:   20:54-30 22/12/2021 20:51:37 INC 24862770 07D05E 107 CRANBROOK STREET, GLODWICK OLDHAM, OL4 1QH Male 19Y E CIG BLOWN UP IN MOUTH GRD 394010 404538<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2053221221+++TIME=2053221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2053221221+++TIME=2053221221<NUL>
+POCSAG1200: Address: 1022230  Function: 2 
+POCSAG1200: Address:  227361  Function: 0  Alpha:   20:53-56 0<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   20:51-16 Please call ext 0388<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:51-76 4379<NUL>
+POCSAG1200: Address:  406368  Function: 0  Alpha:   <DC4><ACK>)<HT>T<EM>L]<FF><EOT><ETB><SYN><VT>4<LF>y)J<LF>ti<BS>$(Z<CAN>H<LF>Y<BS>t<ENQ>t<CAN>8<LF><SUB>iy<BS>t(J<BS>4vVF<ACK>g<ACK>D<ACK>VvV<ACK><BEL><NUL><NUL>
 POCSAG2400: Address:  549123  Function: 2  Alpha:   20:49-99 5204<NUL>
 POCSAG1200: Address: 1761342  Function: 2  Alpha:   J<EM>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2048221221+++TIME=2048221221<NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1646851  Function: 2
 POCSAG1200: Address: 2028368  Function: 2  Alpha:   <DC2>+
 POCSAG1200: Address: 1859743  Function: 0 
 POCSAG1200: Address: 1782821  Function: 1  Alpha:   <FF>4l<SO><NUL>
-POCSAG2400: Address:  183802  Function: 0 
-POCSAG2400: Address:  313764  Function: 1  Alpha:   (j
-POCSAG2400: Address:  678775  Function: 1 
-POCSAG2400: Address: 1068900  Function: 3 
-POCSAG2400: Address: 1213217  Function: 1  Alpha:   I+
-POCSAG2400: Address: 1712947  Function: 0 
-POCSAG2400: Address:   84723  Function: 2 
-POCSAG2400: Address:  266423  Function: 2  Alpha:   <HT>T
-POCSAG2400: Address:  680565  Function: 1 
-POCSAG2400: Address:  270380  Function: 3  Alpha:   '<LF>
