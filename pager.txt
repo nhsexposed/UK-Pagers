@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   14:14-23 4314<NUL>
+POCSAG2400: Address: 1913889  Function: 2  Alpha:   14:14-54 2168<NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   14:13-96 5359<NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   14:13-95 3408<NUL>
+POCSAG2400: Address: 1471186  Function: 2  Alpha:   <ESC><DC3><DC3><VT><DC3><DC3><VT><ETX>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1413221221+++TIME
+POCSAG1200: Address: 1373928  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1413221221+++TIME=1413221221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1534290  Function: 2  Alpha:   14:12-70 BOSS Mobile: https://bossd.nfcsp.org.uk
+POCSAG1200: Address: 1534147  Function: 2  Alpha:   14:12-83 CAN YOU CONTACT CONTROL. THANKS. 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:12-93 5128<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   14:12-27 33835
+POCSAG2400: Address: 1913700  Function: 2  Alpha:   14:12-47 4379<NUL>
+POCSAG2400: Address:   11674  Function: 0  Alpha:   14:12-10 Code Stroke farley rcu
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   14:12-00 4283<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>a
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   14:11-46 2616<NUL>
+POCSAG2400: Address: 2026356  Function: 2 
+POCSAG2400: Address:   28895  Function: 0  Alpha:   14:09-41 5128<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:10-03 5204<NUL>
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   14:09-11 Susan Smith 07736 585071<NUL>
 POCSAG1200: Address:  561163  Function: 0  Alpha:   41<DLE><DC3>3<SYN><BS>r<DC3><NAK>Hs<DC3><NAK>h5<DC2><NAK><DC2>(<DC2><NAK>hQ<DC4><DC1>h,N,<FF>N<CR><BS><CR><FF>-nM
 POCSAG1200: Address:  312672  Function: 0  Alpha:   14:09-42 22/12/2021 14:06:43 INC 24861182 20D01H OLDHAM LEISURE CENTRE, MIDDLETON ROAD, WERNETH OLDHAM, OL9 6AF Female 45Y BEEN IN SAUNA FOR OVER AN HO
 POCSAG1200: Address: 1868658  Function: 0 
@@ -975,26 +998,3 @@ POCSAG1200: Address: 1032925  Function: 3  Alpha:   &p
 POCSAG2400: Address:   28899  Function: 0  Alpha:   10:25-01 5201<NUL>
 POCSAG2400: Address: 1913981  Function: 2  Alpha:   10:25-39 2343<NUL>
 POCSAG2400: Address: 1321168  Function: 2  Alpha:   10:25-33 Test test test 3 please acknoedge to 07568 431597<NUL><NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:25-09 4377<NUL>
-POCSAG1200: Address: 1032982  Function: 3  Alpha:   &P
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
-POCSAG2400: Address: 1320282  Function: 2  Alpha:   10:25-00 5205<NUL>
-POCSAG2400: Address: 1324603  Function: 2  Alpha:   10:24-00 ON CALL PLEASE CALL BANK OFICEON 03004218444<NUL>
-POCSAG2400: Address:   28869  Function: 0  Alpha:   10:24-21 RAHUL - 01843 267 072<NUL>
-POCSAG2400: Address: 1324606  Function: 2  Alpha:   10:24-00 ON CALL PLEASE CALL BANK OFICEON 03004218444<NUL>
-POCSAG2400: Address: 1008313  Function: 2  Alpha:   10:24-01 ON CALL PLEASE CALL BANK OFICEON 03004218444<NUL>
-POCSAG2400: Address: 1032500  Function: 3  Alpha:   F,
-POCSAG2400: Address: 1008260  Function: 2  Alpha:   10:24-23 ON cELL PLEASE CALL BANK OFICEON 03004218444<NUL>
-POCSAG2400: Address: 1324612  Function: 2  Alpha:   10:24-18 ON CALL PLEASE CALL BANK OFICEON 03004218444<NUL>
-POCSAG2400: Address: 1913746  Function: 2  Alpha:   10:24-02 2999<NUL>
-POCSAG1200: Address: 1812483  Function: 0 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:23-36 3119<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1023221221+++TIME=1023221221<NUL>
-POCSAG1200: Address:  269400  Function: 3  Alpha:   FF
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:23-96 4398<NUL>
-POCSAG2400: Address:  583569  Function: 2  Alpha:   10:23-44 80300
-POCSAG1200: Address: 1483380  Function: 1 
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>p
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:22-50 5075<NUL>
-POCSAG1200: Address:  265256  Function: 3  Alpha:   <DC2>C<CR><LF>L
