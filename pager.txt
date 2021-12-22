@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1913746  Function: 2  Alpha:   10:24-02 2999<NUL>
+POCSAG1200: Address: 1812483  Function: 0 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:23-36 3119<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1023221221+++TIME=1023221221<NUL>
+POCSAG1200: Address:  269400  Function: 3  Alpha:   FF
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:23-96 4398<NUL>
+POCSAG2400: Address:  583569  Function: 2  Alpha:   10:23-44 80300
+POCSAG1200: Address: 1483380  Function: 1 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>p
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   10:22-50 5075<NUL>
+POCSAG1200: Address:  265256  Function: 3  Alpha:   <DC2>C<CR><LF>L
+POCSAG2400: Address:   28899  Function: 0  Alpha:   10:20-00 5201<NUL>
+POCSAG2400: Address: 1322786  Function: 2  Alpha:   10:20-63 NHSBT - DONOR REFERRAL. Please call    AMY on Direct Dial Number 01535 292121  EXT 2131 Hospital AIREDAL GENERAL HOSPITAL  Dept WARD 13  . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1008365  Function: 2  Alpha:   10:20-33 80300
+POCSAG2400: Address: 1022277  Function: 0  Alpha:   10:20-07 NHSBT - DONOR REFERRAL. Please call    AMY on Direct Dial Number 01535 292121  EXT 2131 Hospital AIREDAL GENERAL HOSPITAL  Dept WARD 13  . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1323100  Function: 2  Alpha:   10:20-44 NHSBT - DONOR REFERRAL. Please call    AMY on Direct Dial Number 01535 292121  EXT 2131 Hospital AIREDAL GENERAL HOSPITAL  Dept WARD 13  . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG1200: Address: 1812433  Function: 3  Alpha:   E@
+POCSAG2400: Address: 1323102  Function: 2  Alpha:   10:20-02 NHSBT - DONOR REFERRAL. Please call    AMY on Direct Dial Number 01535 292121  EXT 2131 Hospital AIREDAL GENERAL HOSPITAL  Dept WARD 13  . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1032521  Function: 3  Alpha:   Fn
+POCSAG2400: Address:  583718  Function: 2  Alpha:   10:20-63 80300
+POCSAG1200: Address:  212309  Function: 0 
+POCSAG2400: Address:  549118  Function: 2  Alpha:   10:20-58 80300
 POCSAG2400: Address: 1320377  Function: 2  Alpha:   10:19-08 5897<NUL>
 POCSAG2400: Address: 1568370  Function: 0 
 POCSAG2400: Address:   28925  Function: 0  Alpha:   10:19-14 2272<NUL>
@@ -974,27 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message
 POCSAG2400: Address:  549123  Function: 2  Alpha:   04:02-95 3117<NUL>
 POCSAG2400: Address:  149253  Function: 2  Alpha:   04:01-84 WILLOW PARK LODGE TO CONFIRM DEATH 07487 248 134 <NUL><NUL>
 POCSAG1200: Address:   33723  Function: 2  Alpha:   04:01-93 04:01-92 WILLOW PARK LODGE TO CONFIRM DEATH 07487 248 134 <NUL>
-POCSAG1200: Address:  343168  Function: 2  Alpha:    LODGE TO CONFIRM DEATH 07487 248 134 <NUL>
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   04:01-71 WILLOW PARK
-POCSAG1200: Address:  434739  Function: 0 
-POCSAG1200: Address:   14950  Function: 0  Alpha:   03:59-94 22/12/2021 03:57:55 INC 24859384 19D04 11 VICTORIA GARDENS, BARROWFORD NELSON, BB9 6DN Female 44Y HEART RACING GRD 385330 438549
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358221221+++TIME=0358221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  389644  Function: 0  Alpha:   Y<ESC>X<FS><CAN><FS>PY<FS><EM><SUB><CAN><SUB><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353221221+++TIME=0353221221<NUL>
-POCSAG1200: Address:  216478  Function: 2  Alpha:   03:52-46 Got time for a survey?B <NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0348221221+++TIME=0348221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0348221221+++TIME=0348221221<NUL>
-POCSAG1200: Address: 1877591  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0343221221+++TIME=0343221221<NUL>
-POCSAG2400: Address:   11773  Function: 0  Alpha:   03:42-72 4157<NUL>|<DEL><DEL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   03:41-25 22/12/2021 03:39:47 INC 24859353 29D02P SKYLINE DRIVE, GREAT SANKEY WARRINGTON, WA5 3TP Male UnknownY CRASHED HGV- ROLLED OVER GRD 356168 390706<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   03:41-74 2183<NUL>
-POCSAG1200: Address: 1511973  Function: 3  Alpha:   <ACK>&
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0338221221+++TIME=0338221221<NUL>
-POCSAG2400: Address: 2031731  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 2075376  Function: 1 
-POCSAG1200: Address:  269168  Function: 2  Alpha:   03:34-04 22/12/2021 03:31:10 INC 24859330 12D02 ARDEN INN, 85 ABBEY STREET, ACCRINGTON, BB5 1EH Male 75Y FIT GRD 376293 428436<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333221221+++TIME=0333221221<NUL>
