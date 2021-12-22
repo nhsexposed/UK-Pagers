@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:28-36 5440<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1928221221+++TIME=1928221221<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   19:28-14 22/12/2021 19:25:52 INC 24862420 29D02N NEARB
+POCSAG2400: Address: 2064648  Function: 1  Alpha:   Ye
+POCSAG2400: Address: 1323798  Function: 2  Alpha:   19:27-27 5013<NUL>
+POCSAG1200: Address:   40100  Function: 2  Alpha:   19:27-47 22/12/2021 19:25:52 INC 2486
+POCSAG1200: Address: 1321866  Function: 2 
+POCSAG1200: Address: 1729110  Function: 2 
+POCSAG2400: Address: 1022590  Function: 0  Alpha:   19:27-93 235<NUL><NUL>
+POCSAG1200: Address:   18937  Function: 2  Alpha:   19:26-45 9<NUL>
+POCSAG1200: Address: 1505826  Function: 2  Alpha:   19:26-05 FYI- FF STANTON BWTC HAS BOOKED SICK FOLLOWING 2 +LFT TEST<NUL>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:25-35 5440<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>CACL
+POCSAG1200: Address: 2011890  Function: 0 
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   19:24-20 Sorry the number for Mrs  Stabeler is 07305 118219.
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:24-34 4387<NUL>
 POCSAG1200: Address: 1817257  Function: 2  Alpha:   19:24-23 33835
 POCSAG1200: Address:   41512  Function: 2  Alpha:   19:24-49 33835
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -897,24 +915,6 @@ POCSAG1200: Address:  963186  Function: 0
 POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V1L
 POCSAG1200: Address:  548160  Function: 2  Alpha:   16:41-29 2608<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><DC1>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
