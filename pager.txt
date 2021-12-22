@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1814700  Function: 2  Alpha:   22:29-89 22/12/2021 22
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2228221221+++TIME=2228221221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2228221221+++TIME=2228221221<NUL>
+POCSAG1200: Address:  549778  Function: 2  Alpha:   22:27-59 ATTEND:<LF>SMOKE ALARM<LF>FAULKNER HEIGHTS,CLANMIL HOUSING,FAULKNER ROAD,.,BANGOR,DOWN<LF>0P 2T<LF>35814211<LF>J 49391 80380<LF>S2101 S2102 SO22<LF>END<NUL>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   22:27-85 PLS CALL ED ON 01295 229 415 RE IT ISSUES 
+POCSAG1200: Address: 2009842  Function: 0 
+POCSAG1200: Address:  549740  Function: 2  Alpha:   22:27-02 ** PROBLEM Service Alert: CDS Cupertino Stream Manager 1/CDS App Server Tomcat Threads is UNKNOWN **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: CDS App Server Tomcat Threads<CR><LF>Host: CDS Cupertino Stream Manager 1
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   22:26-98 22/12/2021 22:24:38 INC 24863075 09E02 MCDONALTQ RESTAURANTS LTD, 42 WELLINGTON ROAD SOUTH, PORTWOOD STOCKPORT, SK1 3SS Male 45Y UNCONCIOUS GRD 389415 390086<NUL><NUL>
 POCSAG2400: Address: 1322970  Function: 2  Alpha:   22:24-54 Call 6053<NUL><NUL>
 POCSAG1200: Address: 1321866  Function: 2  Alpha:   22:24-51 22/12/2021 22:23:21 INC 24863072 13 MAPLE DRIVE, KENDAL, LA9 5BN Female 57Y ASSAULT GRD 350715 491750<NUL>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   22:23-42 22/12/2021 22:15:38 INC 24863048 04D02A SOUTHWOOD HOSTEL, 24 SOUTHWOOD ROAD, AIGBURTH L17, L17 7BQ Male 28Y OVERDOSE GRD 336737 387049<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:     512  Function: 0 
-POCSAG1200: Address:       0  Function: 0  Alpha:   j<VT>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:   67058  Function: 2  Alpha:   2<SYN>B@p<FS><VT>A<SUB><SOH><NUL>
-POCSAG1200: Address: 1730470  Function: 0  Alpha:   <DC3>q
