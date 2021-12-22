@@ -1,3 +1,25 @@
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX><FF>
+POCSAG1200: Address: 1049969  Function: 2  Alpha:   <STX>5>Z<SYN>2<SOH>MB&:<ACK><LF>&<SUB>&<DC2><ACK><STX><GS>J<DC2><STX>MMUeQE<SOH>MeQa]A<SOH>
+POCSAG1200: Address: 1491058  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:33-17 22/12/2021 18:31:04 INC 24862229 30D03 2 THE YONNE, CHESTER CITY CENTRE, CH1 2NH Male 23Y POLICE FOUND LAY ON FLOOR, NOT MAKING SENSE ? HEAD INJ GRD 340108 366499
+POCSAG1200: Address: 2014049  Function: 0 
+POCSAG1200: Address: 1313140  Function: 2  Alpha:   18:33-19 (1/2)033592-22122021; A4.1.0.P ALARM - SMOKE ALARM ACT; 31 SIMONS LANE,WOKINGHAM,RG41 3HG; 479045,169618; Assigned: JY10P1; Roles    JY10P1:Main Pump;
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2047360  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913973  Function: 2  Alpha:   18:32-22 4462<NUL>
+POCSAG2400: Address: 1480593  Function: 2 
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   18:32-57 4114<NUL>
+POCSAG2400: Address: 1913953  Function: 2  Alpha:   18:31-44 4462<NUL>
+POCSAG1200: Address: 1321717  Function: 2  Alpha:   18:31-65 Destination: Parking\D78 Ext TP, Booking Ref#: 806647, Vehicle: nv70bhk. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG1200: Address: 2007161  Function: 0 
+POCSAG1200: Address: 1480305  Function: 0 
+POCSAG1200: Address:  290052  Function: 3  Alpha:   !<ACK>
+POCSAG2400: Address: 1913768  Function: 2  Alpha:   18:30-68 4187<NUL>
+POCSAG1200: Address: 1236704  Function: 0  Alpha:   <NUL><STX>
+POCSAG1200: Address: 1843872  Function: 0 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX>%
+POCSAG1200: Address: 1815072  Function: 0  Alpha:   <EOT>,
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:29-67 4165<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828221221+++TIME=1828221221<NUL>
 POCSAG1200: Address: 2022793  Function: 1 
@@ -976,25 +998,3 @@ POCSAG1200: Address:   43315  Function: 1  Alpha:   .+LvK
 POCSAG1200: Address:     588  Function: 3  Alpha:   <BS><NUL><NUL>@<NUL>(a<CAN>kYY4\<CAN>
 POCSAG1200: Address:  384008  Function: 0 
 POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address:  370640  Function: 2 
-POCSAG1200: Address:     269  Function: 0 
-POCSAG1200: Address:  655362  Function: 0 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   16:39-16 22/12/2021 16
-POCSAG1200: Address:  269168  Function: 2  Alpha:   16:39-14 22/12/2021 16:35:20 INC 24861796 26C01 26 WILLIAM GRIFFITHS COURT, MILL HILL BRIDGE STREET, BLACKBURN, BB2 2QY Female 76Y CONFUSED SHIVERING LYING ON THE BED GRD 366804 426976<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1638221221+++TIME=1638221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1638221221+++TIME=1638221221<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   p*L(B<DC2>1f
-POCSAG2400: Address:   28926  Function: 0  Alpha:   16:38-92 2339<NUL>
-POCSAG2400: Address: 1913772  Function: 2  Alpha:   16:38-14 2447<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   16:38-30 5243<NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   16:38-24 3508<NUL>
-POCSAG2400: Address:  585333  Function: 2  Alpha:   16:37-91 test call for ext 34002<NUL><NUL>
-POCSAG2400: Address: 1323650  Function: 2  Alpha:   16:37-84 555<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   16:38-39 Call or Calls waiting at Switchboard
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   16:37-19 2097<NUL>
-POCSAG1200: Address:  585450  Function: 2  Alpha:   16:37-19 6447<NUL>
-POCSAG2400: Address:  584658  Function: 2  Alpha:   16:37-79 555<NUL><NUL>
-POCSAG2400: Address:  549199  Function: 2  Alpha:   16:36-51 555<NUL><NUL>
-POCSAG2400: Address:  584089  Function: 2  Alpha:   16:36-52 555<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:36-93 4283<NUL>
-POCSAG1200: Address: 1022028  Function: 2  Alpha:   16:36-24 TEST MESSAGE FOR ON CALL ENGINEER <NUL><NUL>
