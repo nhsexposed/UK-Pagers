@@ -1,3 +1,22 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0818221221+++TIME=0818221221<NUL>
+POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK>&
+POCSAG1200: Address: 1001123  Function: 2  Alpha:   08:17-79 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1001124  Function: 2  Alpha:   08:17-91 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <NAK>&
+POCSAG1200: Address: 1001130  Function: 2  Alpha:   08:17-42 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1001129  Function: 2  Alpha:   08:17-41 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1001131  Function: 2  Alpha:   08:17-42 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1312437  Function: 2  Alpha:   08:17-45 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1001134  Function: 2  Alpha:   08:17-85 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   08:17-32 CARDIAC ARREST URGENT TREATMENT CENTRE CLINIC 1 RLH
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1745495  Function: 0 
+POCSAG2400: Address:  567893  Function: 0 
+POCSAG2400: Address:  150086  Function: 0  Alpha:   08:16-11 5066<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:16-23 22/12/2021 08:14:05 INC 24859799 21O02M`7 AVOCET AVENUE, ALLERTON, L19 7AD Male 1Y TEMP, NOSE BLEED GRD 340230 385598<NUL><NUL>
+POCSAG1200: Address: 1942098  Function: 2 
+POCSAG2400: Address:   11705  Function: 0  Alpha:   08:16-66 PLEASE CALL AMBER OAKLEY ON 07768 768 750 
+POCSAG1200: Address:  594164  Function: 0  Alpha:   g<SYN><ETB><BEL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0813221221+++TIME=0813221221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
@@ -979,22 +998,3 @@ POCSAG2400: Address: 1552630  Function: 1  Alpha:   ><SOH>
 POCSAG2400: Address: 1256808  Function: 0  Alpha:   UY<ACK>l 
 POCSAG2400: Address:  716089  Function: 2  Alpha:   <DC4>_
 POCSAG2400: Address:  441534  Function: 0  Alpha:   %!er<VT>
-POCSAG2400: Address:  663628  Function: 3  Alpha:   G<GS>]`(
-POCSAG2400: Address: 1766278  Function: 1  Alpha:   *!Y@<SUB><DC4>$<VT><BEL><US>-<VT>%3u@<DC2><BEL><US><GS>[ %/<VT><ENQ>)Kgi[<STX>iZ`b@RgA*!<ESC>@(
-POCSAG2400: Address: 1568815  Function: 0  Alpha:   sy
-POCSAG2400: Address: 1535016  Function: 0  Alpha:   1<NAK>P]g
-POCSAG2400: Address: 1517619  Function: 2  Alpha:   <DLE>)zi(
-POCSAG2400: Address:  441534  Function: 0  Alpha:   %!er<VT>Ey<STX>
-POCSAG2400: Address: 1338164  Function: 2  Alpha:   AQ
-POCSAG2400: Address:     448  Function: 1 
-POCSAG2400: Address:  578490  Function: 2  Alpha:    r<SYN> r
-POCSAG2400: Address: 1550179  Function: 0 
-POCSAG2400: Address: 1837421  Function: 1 
-POCSAG2400: Address: 1057582  Function: 1  Alpha:   n.
-POCSAG2400: Address:  286972  Function: 0  Alpha:   KA
-POCSAG2400: Address:  186533  Function: 2 
-POCSAG2400: Address:  417390  Function: 0  Alpha:   <SO>H
-POCSAG2400: Address:  654171  Function: 0  Alpha:   r<NAK>uB<NUL>ISE<SOH>Sp
-POCSAG2400: Address:  507070  Function: 0  Alpha:   5<US>
-POCSAG2400: Address: 1667598  Function: 0  Alpha:   QQ
-POCSAG2400: Address:  737207  Function: 3  Alpha:   <GS>u
