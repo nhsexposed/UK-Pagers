@@ -1,3 +1,30 @@
+POCSAG1200: Address:  413064  Function: 2  Alpha:   15:04-97 plse call x5430<NUL>
+POCSAG2400: Address: 2074226  Function: 2 
+POCSAG2400: Address: 1031920  Function: 3  Alpha:   #B
+POCSAG1200: Address: 2074384  Function: 3 
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>CA<DLE>L
+POCSAG2400: Address: 1913716  Function: 2  Alpha:   15:03-62 4188<NUL>
+POCSAG1200: Address: 1067510  Function: 2  Alpha:   15:03-37 please call ext 5643<NUL><NUL>
+POCSAG2400: Address: 1913727  Function: 2  Alpha:   15:03-79 3139<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2><ETX><SOH>9L
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   15:03-83 call on 69001
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:02-33 4660<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1276553  Function: 1 
+POCSAG2400: Address:  724072  Function: 0  Alpha:   n:a_]
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:02-66 3104<NUL>
+POCSAG2400: Address: 1913794  Function: 2  Alpha:   15:02-59 4377<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   15:02-49 2343<NUL>
+POCSAG1200: Address: 1264279  Function: 1  Alpha:   <DC3><ETX>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   15:01-22 4253<NUL>
+POCSAG1200: Address: 1816709  Function: 2  Alpha:   15:01-18 (2/2) LFB REF - 173353; Assigned: JY18P1, JY17P1, G561, JYG148; Roles    JY18P1:Main Pump; Talkgrp  FBUK-OPS02 (56*) (DGNA)<NUL><NUL>
+POCSAG1200: Address: 1313150  Function: 2  Alpha:   15:01-00 (1/2)033566-22122021; T12.0.0.P TRCJSPORT - RTC SCENE SAFETY; (MRD) M25 (N) CLOCK J15 - J16; 504431,179163; 4 CAR RTC, PETROL LEAKING FROM CARS.;
+POCSAG2400: Address:   28907  Function: 0  Alpha:   15:01-79 3129<NUL>
+POCSAG2400: Address: 1913633  Function: 2  Alpha:   15:01-82 3576<NUL>
+POCSAG1200: Address:  876770  Function: 2 
+POCSAG1200: Address: 1978417  Function: 0 
+POCSAG2400: Address: 1913823  Function: 2  Alpha:   15:00-47 4387<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   15:00-59 Case ref 11276206 Fill in tick sheet
 POCSAG2400: Address: 1913907  Function: 2  Alpha:   14:59-05 4316<NUL>
 POCSAG2400: Address: 1320283  Function: 2  Alpha:   14:59-31 2233<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   14:58-21 4954<NUL>
@@ -971,30 +998,3 @@ POCSAG1200: Address: 1259045  Function: 2  Alpha:   11:08-84 33371
 POCSAG2400: Address: 1015204  Function: 2  Alpha:   11:07-19 NHSBT - DONOR REFERRAL. Please call MARY RAJ - STAFF NURSE on Direct Dial Number 0121 424 2207 Hospital BIRMINGHAM HEARTLANDS Dept INTENSIVE CARE UNIT . Regards Donor Referral Line<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address: 1036624  Function: 1  Alpha:   <STX><DC2><FF><FS>\<EOT><STX><CR>Lt<EOT>:<DC4>%<EOT><SUB>;+<VT>3<ESC><ETX>"<DC3>C<DC3>K<DC3>
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
-POCSAG1200: Address:  930510  Function: 2  Alpha:   11:06-24 22/12/2021 11:05:29 INC 24860428 31E01 58 LEPP CRESCENT, BRANDLESHOLME BURY, BL8 1HX Unknown 93Y COLLAPSED. GRD 379269 412547
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   11:06-87 5113<NUL>
-POCSAG1200: Address: 1032929  Function: 3  Alpha:   &b
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   11:04-81 CARDIAC ARREST TEAM TO A/E ZONE A RLH<NUL><NUL>
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   11:04-43 CARDIAC ARREST TEAM TO A/E ZG<LF>a A RLH<NUL><NUL>
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   11:04-49 CARDIAC ARREST TEAM TO A/E ZONE A RLH<NUL><NUL>
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   11:04-42 CARDIAC ARREST TEAM TO A/E ZONE A RLH<NUL><NUL>
-POCSAG1200: Address: 1001129  Function: 2  Alpha:   11:04-43 CARDIAC ARREST TEAM TO A/E ZONE A RLH<NUL><NUL>
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   11:04-48 CARDIAC ARREST TEAM TO A/E ZONE A RLH<NUL><NUL>
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   11:04-57 CARDIAC ARREST TEAM TO A/E ZONE A RLH<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1103221221+++TIME=1103221221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1103221221+++TIME=1103221221<NUL>
-POCSAG2400: Address: 1913673  Function: 2  Alpha:   11:03-27 4906<NUL>
-POCSAG1200: Address: 1032692  Function: 3  Alpha:   VD
-POCSAG1200: Address: 1485637  Function: 3  Alpha:   <EOT>n
-POCSAG1200: Address:  135429  Function: 2  Alpha:   11:03-99 6349<NUL>
-POCSAG2400: Address: 1913675  Function: 2  Alpha:   11:03-04 3125<NUL>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   11:03-60 3117<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1321201  Function: 2  Alpha:   11:01-91 32187 pls call urgent<NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   11:00-55 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   11:00-08 ***TEST CRASH TEST ***
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:00-39 ***TEST CRASH TEST ***
-POCSAG1200: Address:  114391  Function: 0  Alpha:   11:00-70 Speech: Test: Only: Speech: Test: Only: Please: Dial: Zero: Too: Respond<NUL>
-POCSAG2400: Address: 1913766  Function: 2  Alpha:   10:59-85 4132<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   10:59-65 5002<NUL>
