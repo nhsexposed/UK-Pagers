@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0343221221+++TIME=0343221221<NUL>
+POCSAG2400: Address:   11773  Function: 0  Alpha:   03:42-72 4157<NUL>|<DEL><DEL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   03:41-25 22/12/2021 03:39:47 INC 24859353 29D02P SKYLINE DRIVE, GREAT SANKEY WARRINGTON, WA5 3TP Male UnknownY CRASHED HGV- ROLLED OVER GRD 356168 390706<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   03:41-74 2183<NUL>
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   <ACK>&
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0338221221+++TIME=0338221221<NUL>
 POCSAG2400: Address: 2031731  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1320116  Function: 2  Alpha:   18:59-66 346742<NUL><NUL>
 POCSAG2400: Address: 1829491  Function: 0 
 POCSAG1200: Address: 1761827  Function: 3  Alpha:   &fVV6
 POCSAG1200: Address:  216470  Function: 2  Alpha:   18:54-02 12006
-POCSAG2400: Address:   28899  Function: 0  Alpha:   18:54-58 4316<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   18:54-57 4099<NUL>
-POCSAG2400: Address: 2009724  Function: 0 
-POCSAG2400: Address: 1760697  Function: 2  Alpha:   eI<SOH>QUUQ<SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1853211221+++TIME=1853211221<NUL>
