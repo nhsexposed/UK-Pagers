@@ -1,3 +1,21 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>A
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   14:33-09 2111<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1433221221+++TIME=1433221221<NUL>
+POCSAG1200: Address:  565878  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1433221221+++TIME=1433221221<NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   14:33-61 22/12/2021 14:30
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   F0
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2000 BH3B<NUL><NUL>
+POCSAG2400: Address: 1913681  Function: 2  Alpha:   14:32-15 2427<NUL>
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   v0
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:30-25 4140<NUL>
+POCSAG2400: Address: 1323200  Function: 2  Alpha:   14:29-40 NHSBT - DONOR REFERRAL. Please call STAFF NURSE RUTH CORK on Direct Dial Number 01731 231 670 Hospital EAST SURREY, REDHILL Dept INTENSIVE CARE UNIT . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1323183  Function: 2  Alpha:   14
+POCSAG2400: Address: 1321021  Function: 2  Alpha:   14:29-82 3508<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:29-24 5204<NUL>
+POCSAG1200: Address: 1485572  Function: 3  Alpha:   VD
+POCSAG1200: Address:  350338  Function: 0  Alpha:   14:29-35 22/12/2021 14:26:15 INC 24861254 12B01E CARITAS CARE LTD, 218 TULKETH ROAD, ASHTON ON RIBBLE PRESTON, PR2 1ES Male 25Y FITTING NOW GRD 351711 <DC4>#<287
 POCSAG2400: Address: 1913848  Function: 2  Alpha:   14:29-27 5807<NUL>
 POCSAG1200: Address:  959092  Function: 2 
 POCSAG2400: Address: 1764150  Function: 0 
@@ -980,21 +998,3 @@ POCSAG1200: Address:  549841  Function: 2  Alpha:   10:41-07 ~FOR INFO - E2101 T
 POCSAG1200: Address:   80070  Function: 3  Alpha:   &b
 POCSAG1200: Address: 1761400  Function: 3  Alpha:   U&
 POCSAG2400: Address: 1913864  Function: 2  Alpha:   10:41-84 5204<NUL>
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   Fl
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:40-80 3504<NUL>
-POCSAG1200: Address: 1538201  Function: 2  Alpha:   xJ
-POCSAG2400: Address: 1321148  Function: 2  Alpha:   10:38-38 Test test test 4
-POCSAG2400: Address: 1321168  Function: 2  Alpha:   10:38-35 Test test test 4
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1038221221+++TIME=1038221221<NUL>
-POCSAG2400: Address:  583432  Function: 2  Alpha:   10:38-82 80300
-POCSAG1200: Address: 1565272  Function: 2  Alpha:   10:38-27 22/12/2021 10:36:30 INC 24860317 23B01I 4 LONGRIDGE AVENUE, STANDISH WIGAN, WN6 0ER Female 54Y OVERDOSE PARACETAMOL GRD 356615 409837
-POCSAG1200: Address: 1031705  Function: 2  Alpha:   O<EM>
-POCSAG2400: Address: 1321375  Function: 2  Alpha:   10:37-92 Please Call - 33522
-POCSAG1200: Address:  269414  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
-POCSAG1200: Address: 1812483  Function: 0 
-POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&H<VT><DC3><SOH>0f
-POCSAG2400: Address: 1913957  Function: 2  Alpha:   10:36-49 2187<NUL>
-POCSAG2400: Address: 1321168  Function: 2  Alpha:   10:35-34 Test test test<NUL><NUL>
-POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>C@$L
