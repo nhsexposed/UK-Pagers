@@ -1,3 +1,13 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2343221221+++TIME=2343221221<NUL>
+POCSAG1200: Address:  306142  Function: 2  Alpha:   23:43-34 01865
+POCSAG1200: Address:   42299  Function: 2  Alpha:   23:43-87 01865
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   23:43-03 01865
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   23:42-88 4316<NUL>
+POCSAG1200: Address: 1313150  Function: 2  Alpha:   23:41-02 (2/2) Roles    JY17P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
+POCSAG1200: Address: 1816970  Function: 2  Alpha:   23:41-68 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: RX67MMJ. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   23:40-06 2343<NUL>
+POCSAG1200: Address:   40089  Function: 2  Alpha:   23:39-41 22/12/2021 23:35:23 INc 76863283 17B02 26 CROOKALL CLOSE, FLEETWOOD, FY7 7FB Female 65Y FALL GRD 332492 446803
 POCSAG1200: Address:  411808  Function: 1 
 POCSAG1200: Address:  242295  Function: 2  Alpha:   5<NUL>
 POCSAG1200: Address: 1230680  Function: 0 
@@ -978,16 +988,6 @@ POCSAG1200: Address:  212256  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1723221221+++TIME=1723221221<NUL>
 POCSAG2400: Address: 1815068  Function: 0  Alpha:   17:22-17 ADULT CARDIAC ARREST AMU BED 15 EPSON HOSPITAL 17:20<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
