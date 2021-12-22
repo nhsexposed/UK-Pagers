@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0153221221+++TIME=0153221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153221221+++TIME=0153221221<NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   01:53-88 2616<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   01:53-21 frank stansil 37720
+POCSAG2400: Address:   28896  Function: 0  Alpha:   01:52-72 2183<NUL>
+POCSAG1200: Address: 1032926  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913753  Function: 2  Alpha:   01:50-42 3106<NUL>
 POCSAG1200: Address: 1483228  Function: 2  Alpha:   01:48-19 22/12/2021 01:47:25 INC 24|%9115 06D04 60 WATERY LANE, ASHTON ON RIBBLE PRESTON, PR2 1AX Male 50Y M COVID - DIB GRD 352235 429898<NUL><NUL>
 POCSAG2400: Address:   28927  Function: 0  Alpha:   01:48-54 5125<NUL>
 POCSAG1200: Address: 1022689  Function: 0  Alpha:   01:46-19 0117<NUL>
@@ -991,10 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   CvRBBB Test message on B3 sid
 POCSAG1200: Address:  585450  Function: 2  Alpha:   18:13-04 4191<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1783808  Function: 2 
-POCSAG2400: Address: 1485433  Function: 1 
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   18:11-07 21/12
-POCSAG1200: Address: 2009847  Function: 0 
-POCSAG1200: Address:  397504  Function: 2  Alpha:   gVa &&P<SYN>P<SUB>Pf ,<DLE><EM>Pf$'<DLE><NUL>
-POCSAG1200: Address: 1312565  Function: 2  Alpha:   18:10-54 NOTIFY - DATE: 21.12.21    TIME: 1800 WT AV IMMEDIATE - 12 WT AV RECALL (TRAINING) - 0 ON-CALL - 5 MAX 2 MIN <NUL>
-POCSAG1200: Address: 1257600  Function: 2  Alpha:   U<SOH>5<ACK>b<STX>I<SOH>5&:<STX><SOH><NUL>
-POCSAG1200: Address: 2008954  Function: 0 
