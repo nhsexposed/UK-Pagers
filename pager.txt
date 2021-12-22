@@ -1,3 +1,12 @@
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   07:39-50 22/12/2021 07:38:06 INC 24859721 31C01 18 ALDWYCH DRIVE, LOSTOCK HALL, PR5 5LF Female 95Y FEELING FAINT GRD 354977 425432<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   07:36-26 4954<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   07:36-19 2427<NUL>
+POCSAG1200: Address:  585004  Function: 2  Alpha:   07:36-77 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
+POCSAG1200: Address:  549077  Function: 2  Alpha:   07:36-35 666<NUL><NUL>|<DEL><DEL>
+POCSAG1200: Address:  504688  Function: 0 
+POCSAG1200: Address:  664466  Function: 2  Alpha:   07:35-33 1: 001INTPAGE32112 Diligenta Pager Test (?) 01<NUL><NUL>
+POCSAG1200: Address: 1264176  Function: 1 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  413096  Function: 2  Alpha:   07:32-21 01173421912
 POCSAG1200: Address: 1499272  Function: 1  Alpha:   ?<ETX>U;3?<BEL><DC3>3<SOH>%<US>;?K<ETB><ETX><DC1><ETB>OS';<BEL>S'?;<ETX><ENQ>;<DC3><ETX>AK?<SI><ETB><ETB><DC3><ETX>Q?<ETX>Q#<ETB><ETX><GS><ACK>S<ETB>#?WO<ETB>3)t
@@ -989,12 +998,3 @@ POCSAG1200: Address: 2007162  Function: 0
 POCSAG2400: Address:  216272  Function: 2  Alpha:   21:12-22
 POCSAG2400: Address: 1745492  Function: 0 
 POCSAG2400: Address: 1975904  Function: 1 
-POCSAG2400: Address:  327880  Function: 0 
-POCSAG2400: Address:  549123  Function: 2  Alpha:   21:12-79 3266<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   21:11-62 4167<NUL>
-POCSAG2400: Address: 1323991  Function: 2  Alpha:   21:10-24 2561<NUL>
-POCSAG2400: Address: 1761439  Function: 0 
-POCSAG1200: Address: 1511973  Function: 3  Alpha:   v 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108211221+++TIME=2108211221<NUL>
-POCSAG1200: Address: 1224204  Function: 0 
-POCSAG2400: Address: 1718899  Function: 1 
