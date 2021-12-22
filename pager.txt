@@ -1,3 +1,27 @@
+POCSAG1200: Address:  548039  Function: 2  Alpha:   13:14-27 22/12/2021 13:13:00 INC 24860944 29D03 JUNC STANLEY ROAD, PANSY STREET, KIRKDALE L5, L5 7RS Male UnknownY CAR GONE INTO SHOP GRD 334559 393328
+POCSAG1200: Address: 1761388  Function: 3  Alpha:   6P
+POCSAG1200: Address:  859264  Function: 3 
+POCSAG2400: Address: 1518016  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1313221221+++TIME=1313221221<NUL>
+POCSAG1200: Address: 1485637  Function: 3  Alpha:   $p
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:13-14 5202<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:13-18 2300<NUL>
+POCSAG1200: Address:  325898  Function: 3  Alpha:   F 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   13:12-82 22/12/2021 13:08:08 INC 24860927 31E01 5 BEECH WALK, ALKRINGTON MANCHESTER, M24 1JX Female 51Y OVERDOSE GRD 386983 404842<NUL>
+POCSAG1200: Address: 1761388  Function: 3  Alpha:   U2
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:11-83 22/12/2021 13:08:39 INC 24860931 26C02 5 KESWICK PLACE, BIRKENHEAD, CH43 7QD Male 56Y UNABLE TO PASS URINE KIDNEY INFECTION GRD 328964 389997<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>Ca<L
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <NAK><ACK>
+POCSAG2400: Address: 1324549  Function: 2  Alpha:   13:11-10 log 6511 ivybridge - unresponsive 2 week old baby crew ETA 20 mins call TG 145 if in the area
+POCSAG2400: Address: 1324562  Function: 2  Alpha:   13:11-10 log 6511 ivybridge - unresponsive 2 week old baby crew ETA 20 mins call TG 145 if in the area
+POCSAG2400: Address: 1594968  Function: 2  Alpha:   13:11-96 log 6511 ivybridge - unresponsive 2 week old baby crew ETA 20 mins call TG 145 if in the area
+POCSAG2400: Address:  216735  Function: 2  Alpha:   13:11-46 log 6511 ivybridge - unresponsive 2 week old baby crew ETA 20 mins call TG 145 if in the area
+POCSAG2400: Address: 1324555  Function: 2  Alpha:   13:11-98 log 6511 ivybridge - unresponsive 2 week old baby crew ETA 20 mins call TG 145 if in the area
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   13:10-67 5400<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:09-55 3508<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   13:09-08 22/12/2021 13:07:49 INC 24860924 09E01 FIRST FLOOR TRAETMENT CENTRE, WITHINGTON COMMUNITY HOSPITAL, NELL LANG<bWITHINGTON MANCHESTER, M20 2LR Unknown UnknownY CARDIAC ARREST GRD 383800 39207
 POCSAG1200: Address:   41512  Function: 2 
 POCSAG1200: Address: 1761388  Function: 3  Alpha:   U2
 POCSAG1200: Address: 1031732  Function: 3  Alpha:   <STX>!
@@ -974,27 +998,3 @@ POCSAG2400: Address:  584087  Function: 2  Alpha:   09:51-11 80300
 POCSAG2400: Address:  583564  Function: 2  Alpha:   09:51-19 80300
 POCSAG1200: Address:  149135  Function: 2  Alpha:   09:51-57 Please call Bentham MC on 01524261202. RSVP<NUL><NUL>
 POCSAG2400: Address:  583507  Function: 2  Alpha:   09:51-70 80300
-POCSAG2400: Address: 1323325  Function: 2  Alpha:   09:51-09 80300
-POCSAG2400: Address:  549165  Function: 2  Alpha:   09:50-42 80300
-POCSAG2400: Address:  583557  Function: 2  Alpha:   09:50-17 80300
-POCSAG1200: Address: 2017449  Function: 3  Alpha:   <ACK><STX>
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   V"
-POCSAG1200: Address:  548160  Function: 2  Alpha:   09:50-26 2091<NUL>
-POCSAG2400: Address:  583523  Function: 2  Alpha:   09:50-42 80300
-POCSAG2400: Address:  225757  Function: 2  Alpha:   09:50-79 (sent at 09:50). J. Blaker (PoC), S. Perryman (SLO) on duty WEF 22-12-2021 09:50<NUL><NUL>
-POCSAG2400: Address: 1323337  Function: 2  Alpha:   09:50-47 80300
-POCSAG1200: Address: 1442944  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:49-58 22/12/2021 09:47:56 INC 24860116 06E01 5 CHRISTLETON AVENUE, LEFTWICH NORTHWICH CW9, CW9 8EX Female 73Y PATIENT IS AWAKE, ON OXYGEN, NOISY BREATHING, SATS T^OP TO 54 OFF OXYGEN GRD 366162 37179
-POCSAG1200: Address: 1015383  Function: 3  Alpha:   F0
-POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN>b
-POCSAG2400: Address:  549979  Function: 2  Alpha:   09:49-95 80300
-POCSAG2400: Address: 1324229  Function: 2  Alpha:   09:49-02 80300
-POCSAG2400: Address:  583513  Function: 2  Alpha:   09:49-93 80300
-POCSAG2400: Address:  648689  Function: 3  Alpha:   09:49-30 80300
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0948221221+++TIME=0948221221<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   09:48-01 2283<NUL>
-POCSAG1200: Address:  646500  Function: 2  Alpha:   09:48-83 22/12/2021 09:42:00 INC 24860101 18C04U 280 STONEGARTH, CARLISLE, CA2 6PJ Male 77Y M- PAINS IN HEAD, BRAIN ISNT WORKING GRD 338110 554362<NUL><NUL>
-POCSAG2400: Address: 1320361  Function: 2  Alpha:   09:48-02 3125<NUL>
-POCSAG1200: Address: 1485549  Function: 3  Alpha:   U"
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:47-98 3157<NUL>
-POCSAG2400: Address: 1913542  Function: 2  Alpha:   09:46-57 5651<NUL>
