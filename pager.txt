@@ -1,3 +1,10 @@
+POCSAG2400: Address:  248384  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0003221221+++TIME=0003221221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0003221221+++TIME=0003221221<NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   00:03-49 5201<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1442944  Function: 0  Alpha:   <SUB><DC3>KC<ETX>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   00:00-25
 POCSAG2400: Address:   28927  Function: 0  Alpha:   23:59-52 2642<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2358211221+++TIME=2358211221<NUL>
 POCSAG1200: Address: 1321642  Function: 2  Alpha:   23
@@ -991,10 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   17:04-49 5066<NUL>
 POCSAG1200: Address:  265245  Function: 2  Alpha:   <ENQ>"
 POCSAG1200: Address: 1323869  Function: 2  Alpha:   17:04-99 Resource comment received for Incident 2112007338;  POLICE EN ROUTE<NUL>
 POCSAG1200: Address:  959330  Function: 3 
-POCSAG1200: Address: 2011770  Function: 0 
-POCSAG1200: Address: 2001522  Function: 1 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   17:03-17 21/12/2021 17:02:58 INC 24857353 06D02 105 JOHNSTON STREET, BLACKBURN, BB2 1HY Male 23Y dib GRD 367334 428062<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   17:03-65 4283<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  585450  Function: 2  Alpha:   17:03-02 6431<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
