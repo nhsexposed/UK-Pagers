@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   !8&09-48 please call ext. 3416<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1808221221+++TIME=1808221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  428496  Function: 2  Alpha:   18:07-16 31079
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC3><EOT>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   18:06-37 22/12/2021 18:04:05 INC 24862136 23D01I 6 RHYL STREET, FLEETWOOD, FY7 6BB Male 70Y OVERDOSE GRD 333620 448184<NUL>
+POCSAG1200: Address:  295508  Function: 0 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   18:05-32 2018<NUL>
+POCSAG2400: Address: 1323059  Function: 2  Alpha:   18:05-89 555<NUL><NUL>
+POCSAG2400: Address: 1323696  Function: 2  Alpha:   18:05-46 555<NUL><NUL>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   18
+POCSAG1200: Address:  269168  Function: 2  Alpha:   18:04-30 22/12/2021 18:03:17 INC 24862131 31D03 57 NEWCOMBE ROAD, HOLCOMBE BROOK BURY, BL0 9XD Male 74Y UNRESPONSIVE ON CHAIR GRD 378692 414591<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803221221+++TIME=1803221221<NUL>
 POCSAG1200: Address: 1509880  Function: 2  Alpha:   18:03-82 22/12/2021 18:00:32 INC 24862122 29D02L OWENS CORNER ROUNDABOUT / JUNCTION HILLSIDE ROAD, 332 LONDON ROAD, APPLETON WARRINGTON WA4, WA4 5DR Female 60Y RTA GRD 361789 383473<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -986,15 +998,3 @@ POCSAG1200: Address:  554811  Function: 2
 POCSAG1200: Address:  626720  Function: 0  Alpha:   $H<EM>88<HT>zyII<ENQ>d<CAN><ESC><ACK>D<SYN><CAN><BS>dX\<GS>L]<FF>T6<SYN><VT><EOT>Y<CAN>(J<LF>$<SUB>8<CAN>iy<BS>T<ENQ><EOT> 5<DC2>q<DC1>
 POCSAG1200: Address: 1223158  Function: 3 
 POCSAG1200: Address: 1599977  Function: 1 
-POCSAG1200: Address:  564129  Function: 0 
-POCSAG1200: Address:  279287  Function: 2  Alpha:   @.n@<DC4><NAK><ENQ>m<DLE><VT>5 <US>7
-POCSAG1200: Address:   83694  Function: 0 
-POCSAG1200: Address: 1890976  Function: 1  Alpha:   <CR>M
-POCSAG1200: Address:  602224  Function: 3 
-POCSAG1200: Address:  760929  Function: 1 
-POCSAG1200: Address:  867562  Function: 3  Alpha:   f<NUL>
-POCSAG1200: Address: 1289395  Function: 2  Alpha:   l@
-POCSAG1200: Address: 1781414  Function: 2 
-POCSAG1200: Address:    7248  Function: 2  Alpha:   j<VT>
-POCSAG1200: Address: 1290854  Function: 0 
-POCSAG1200: Address: 1780562  Function: 3  Alpha:   Vk$nd
