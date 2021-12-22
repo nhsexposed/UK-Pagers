@@ -1,3 +1,13 @@
+POCSAG1200: Address:  629648  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2153221221+++TIME=2153221221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:   40074  Function: 2  Alpha:   21:52-75 22/12/2021 21:51:15 INC 24862977 06E01 79 TURVES ROAD, CHEADLE HULME CHEADLE, SK8 6AE Female 79Y DIB GRD 386747 386453<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   21:52-48 22/12/2021 21:51:15 INC 24862977 06E01 79 TURVES ROAD, CHEADLE HULME CHEADLE, SK8 6AE Female 79Y DIB GRD 386747 386453<NUL>
+POCSAG1200: Address:  360216  Function: 2  Alpha:   21:51-86 33867
+POCSAG1200: Address: 1624769  Function: 0  Alpha:   <SUB><VT><ETX>C<ESC>
+POCSAG1200: Address:  360216  Function: 2  Alpha:   21:51
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DLE>,H<FF><ENQ>N1f
+POCSAG2400: Address:   11678  Function: 0  Alpha:   21:50-37 Marcia is responding<NUL><NUL>
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   21:49-60 22/12/2021 21:47:33 INC 24862965 18C02 2 PATTERDALE CLOSE, PRESTON, PR1 5TG Female 50Y MIGRAINE GRD 357081 430264
 POCSAG2400: Address:   11678  Function: 0  Alpha:   21:49-36 MARL, 01394 613 458, 110A
 POCSAG1200: Address:  549881  Function: 2  Alpha:   21:49-65 ~FOR INFO:  INCIDENT ON 13/12/21, WATER RESCUE, ATTEMPTED SUICIDE IN GLARRYFORD.  RCC BEEN INFORMED 61 YR OLD MALE PASSED AWAY ON 20/12/21 FROM INJURIES SUSTAIN<NUL><NUL>
@@ -985,16 +995,6 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:   73808  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
