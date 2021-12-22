@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0048221221+++TIME=0<DLE>08221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   00:46-32 22/12/2021 00:45:31 INC 24858984 06D02 263 COAL CLOUGH LANE, BURNLEY, BB11 4DH Female 75Y FEMALE HOT - COLD DIB GRD 382820 431574<NUL><NUL>
+POCSAG2400: Address: 1833144  Function: 2 
+POCSAG2400: Address: 2009971  Function: 1 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:45-88 4316<NUL>
+POCSAG2400: Address: 1748725  Function: 0 
+POCSAG2400: Address: 1095090  Function: 0 
 POCSAG2400: Address: 1044842  Function: 2  Alpha:   00:44-62 4442<NUL>
 POCSAG1200: Address: 1822207  Function: 1  Alpha:   ______________________<CR><LF><CR><LF>Boo<NUL><NUL>
 POCSAG1200: Address: 2011890  Function: 0 
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1733211221+++TIME=17
 POCSAG512: Address: 1521536  Function: 2  Alpha:   fhjlnpr`bdfhjlnpr`<NUL><NUL>
 POCSAG2400: Address:  525856  Function: 0 
 POCSAG2400: Address:   28904  Function: 0  Alpha:   17:32-98 2581<NUL>
-POCSAG2400: Address: 2025319  Function: 0 
-POCSAG1200: Address:   64660  Function: 0  Alpha:   17:30-74 PLSE CALL EXT 6082<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:29-93 2307<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   17:29-57 4179<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:28-92 2616<NUL>
-POCSAG1200: Address:  661426  Function: 2  Alpha:   ,d<EOT>B,<DC4><ENQ><DC2>|$L<ENQ>:<DC4>%<EOT><SUB>33;;<VT><ETX>"<DC3>;+<ESC>C<ETX><NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:27-43 4155<NUL>
-POCSAG1200: Address:  269059  Function: 2 
