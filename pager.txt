@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003221221+++TIME=2003221221<NUL>
+POCSAG1200: Address: 2025463  Function: 1 
+POCSAG1200: Address: 1594924  Function: 2  Alpha:   20:03-91 Subject: RESOURCE G15P2 DISPATCHED#Body: CALLSIGN:G15P2; INCIDENT ID:2112007726; TYPE:AIRCRAFT; SUB TYPE:AI05<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   20:02-14 4157<NUL>
+POCSAG1200: Address:  905839  Function: 1 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   20:02-13 4157<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:01-25 Test call.<NUL>
+POCSAG1200: Address: 2011750  Function: 1 
+POCSAG1200: Address:  695952  Function: 2  Alpha:   20:01-73 22/12/2021 19:58:27 INC 24862555 04D01A 7 STRINGER AVENUE, 
+POCSAG1200: Address: 1296862  Function: 2  Alpha:   K<ETX><SUB>K#CK;
+POCSAG1200: Address:  542312  Function: 2 
+POCSAG2400: Address: 1814969  Function: 0  Alpha:   20:00-07 CALL SWITCHBOARD
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   6<EOT>
 POCSAG1200: Address: 1816822  Function: 2  Alpha:   19:59-16 CALL 4085<NUL><NUL>
 POCSAG1200: Address: 1321531  Function: 2  Alpha:   19:58-69 992283363<NUL><NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <NAK><ACK>
@@ -968,19 +981,6 @@ POCSAG1200: Address:  963186  Function: 0
 POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V1L
 POCSAG1200: Address:  548160  Function: 2  Alpha:   16:41-29 2608<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><DC1>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
