@@ -1,3 +1,5 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358221221+++TIME=0358221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address:  389644  Function: 0  Alpha:   Y<ESC>X<FS><CAN><FS>PY<FS><EM><SUB><CAN><SUB><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353221221+++TIME=0353221221<NUL>
 POCSAG1200: Address:  216478  Function: 2  Alpha:   03:52-46 Got time for a survey?B <NUL>
@@ -996,5 +998,3 @@ POCSAG1200: Address:  549763  Function: 2  Alpha:   19:05-66 ~SC MCNAUGHTON - 07
 POCSAG1200: Address: 1259045  Function: 2  Alpha:   19:05-78 Call or Calls waiting at Switchboard
 POCSAG2400: Address: 2089011  Function: 2 
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:03-74 2097<NUL>
-POCSAG1200: Address: 1032113  Function: 2  Alpha:   B<BS><NUL>`L
-POCSAG1200: Address: 1978993  Function: 0 
