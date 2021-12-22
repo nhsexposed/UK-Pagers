@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   12:44-59 4387<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:43-12 5820<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1243221221+++TIME=1243221221<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:43-16 2300<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:43-42 2183<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  435600  Function: 2  Alpha:   12
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   12:42-48 69007 waiting over 40mins
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>j
+POCSAG1200: Address:  679608  Function: 2  Alpha:   12:42-18 69007 waiting over 40mins
+POCSAG2400: Address: 1913551  Function: 2  Alpha:   12:41-72 3240<NUL>
+POCSAG2400: Address:   28903  Function: 0  Alpha:   12:40-56 4399<NUL>
+POCSAG1200: Address:  828025  Function: 1 
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG1200: Address: 1488509  Function: 2 
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   Vr
+POCSAG1200: Address:  912857  Function: 3 
 POCSAG1200: Address: 1880950  Function: 3 
 POCSAG1200: Address:  108034  Function: 0  Alpha:   12:39-89 22/12
 POCSAG2400: Address: 1137377  Function: 3 
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1032022  Function: 3  Alpha:   <ACK><EM>
 POCSAG2400: Address: 1913678  Function: 2  Alpha:   09:29-69 2445<NUL>
 POCSAG2400: Address:   28906  Function: 0  Alpha:   09:29-13 4954<NUL>
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   09:28-91 5204<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0928221221+++TIME=0928221221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0928221221+++TIME=0928221221<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:28-31 4660<NUL>
-POCSAG1200: Address:  268510  Function: 0  Alpha:   <CAN><CAN>Z<CAN>PX<ESC>"<CAN>Z#P<ESC>[ <DLE>cg+f")<DLE>dbd#$*P!fgi"<SYN><DLE>f$kbib,<DLE>!f`a%a*)'<SYN><DLE>!!<EM><DLE><SUB>)%<DLE>crv0v2P<EM>X,<DLE>c &&P#)"P<EM><ESC>[\Y<SUB><DLE><SUB>YZ<EM>X<SUB>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   09:28-19 22/12/2021 09:23:10 INC 2
-POCSAG1200: Address:  600697  Function: 0  Alpha:   09:28-66 PLEASE CALL JOANNE 07729 491 067 
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   09:28-30 2444<NUL>
-POCSAG2400: Address: 1320384  Function: 2  Alpha:   09:28-30 4885<NUL>
-POCSAG1200: Address: 1323595  Function: 2  Alpha:   09:28-70 ~N11 STATION GETTING A DEEP CLEAN - MANY THANKS<NUL>
-POCSAG1200: Address:  549856  Function: 2  Alpha:   09:28-11 ~N11 STATION GETTING A DEEP CLEAN - MANY THANKS<NUL>
-POCSAG2400: Address: 1321119  Function: 2  Alpha:   09:27-23 Test test test. You are on call until 0900 23/12/21. Pager alerts must be responded to within 15 minutes. Please refer to the on call rota for on call colleagues. All on call are reminded to attend 1630 end of day call<NUL>
-POCSAG2400: Address: 1943065  Function: 3  Alpha:   . Pager alerts must be responded to within 15 minutes. Please refer to the on call rota for on call colleagues. All on call are reminded to attend 1630 end of day call<NUL>
-POCSAG2400: Address: 1321107  Function: 2  Alpha:   09:27-34 Test test test. Y<DEL>1 are on call until 0900 23/12/21. Pager alerts must be responded to within 15 minutes. Please refer to the on call rota for on call colleagues. All on call are reminded to attend 1630 end of day call<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   09:27-07 3157<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   09:27-42 22/12/2021 09:23:55 INC 24860043 09E01 12 SANDYBEDS CLOSE, BAXENDEN ACCRINGTON, BB5 2XG Male 70Y BLEEDING FROM MOUTH GRD 376945 426511<NUL><NUL>
-POCSAG1200: Address:  269068  Function: 2  Alpha:   09:27-39 22/12/2021 09:23:55 INC/p4860043 09E01 12 SANDYBEDS CLOSE, BAXENDEN ACCRINGTON, BB5 2XG Male 70Y BLEEDING FROM MOUTH GRD 376945 426511<NUL><NUL>
-POCSAG1200: Address:  549881  Function: 2  Alpha:   09:27-63 ~N11 STATION GETTING A DEEP CLEAN - MANY THANKS<NUL>
