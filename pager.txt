@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1749044  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0128221221+++TIME=0128221221<NUL>
+POCSAG1200: Address: 1874665  Function: 0 
+POCSAG1200: Address: 2096952  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  413130  Function: 2 
+POCSAG1200: Address:   82734  Function: 2  Alpha:   01:26-01 22/12/2021 01:24:00 INC 24859069 10D01 127 MASON STREET, HORWICH BOLTON, BL6 5RB Male 45Y DIB, TIGHT ON RIGHT SIDE, COPD GRD 363397 411215<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0123221221+++TIME=0123221221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3J<NUL><NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   01:22-26 3132<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address:  987049  Function: 2  Alpha:   18:06-37 21/12/2021 18:04:57
 POCSAG1200: Address: 1241041  Function: 3  Alpha:   {{{{{{{{{{{{{{{{{{{{{{;;;
 POCSAG1200: Address: 1512707  Function: 3  Alpha:   Fj
 POCSAG2400: Address: 1814968  Function: 0  Alpha:   99;04-40 4505<NUL>
-POCSAG1200: Address: 2034006  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803211221+++TIME=1803211221<NUL>
-POCSAG1200: Address:  690245  Function: 0  Alpha:   18
-POCSAG1200: Address: 1868336  Function: 0 
-POCSAG1200: Address: 2078656  Function: 2  Alpha:   ^<>.<BEL>4<^
-POCSAG1200: Address: 1548529  Function: 0 
-POCSAG1200: Address:  420370  Function: 0  Alpha:   t(J<BS>4F&<ACK>G<SYN><BEL>4<ACK><BEL><ETB><ACK>&<ACK><NUL><NUL>
-POCSAG1200: Address: 2009718  Function: 2 
