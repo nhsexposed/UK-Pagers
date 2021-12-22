@@ -1,3 +1,21 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <SYN>0
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1253221221+++TIME=1253221221<NUL>
+POCSAG2400: Address:  216440  Function: 2  Alpha:   12:53-41 3838<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1253221221+++TIME=1253221221<NUL>
+POCSAG1200: Address:  420349  Function: 3  Alpha:   %2
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <SYN><CAN>
+POCSAG2400: Address: 1914026  Function: 2  Alpha:   12:52-44 5013<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913752  Function: 2  Alpha:   12:52-73 4297<NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   12:51-02 22/12/2021 12:49:28 INC 24860847 28C04L LIGHTVIEW HOUSE, 42 CHATSWORTH AVENUE, FLEETWOOD Male 60Y UNABL[$UO MOVE RIGHT LEG AND ARM GRD 332022 446832
+POCSAG2400: Address: 1913696  Function: 2  Alpha:   12:50-90 2445<NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   12:50-18 5429<NUL>
+POCSAG1200: Address:  977778  Function: 1 
+POCSAG1200: Address:  987049  Function: 2  Alpha:   12:50-74 22/12/2021 12:48:35 INC 24860840 06D01 BERWICK HOUSE REST HOME, 1 BERWICK ROAD, BLACKPOOL, FY4 2PT Female 90Y SHALLOW BREATHING GRD 331236 432029
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   12:49-49 test call<NUL><NUL>
+POCSAG1200: Address:  679608  Function: 2  Alpha:   12:49-19 test call<NUL><NUL>
+POCSAG1200: Address:  649969  Function: 2  Alpha:   12:49-41 test call<NUL><NUL>
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   E.
 POCSAG1200: Address: 1511985  Function: 3  Alpha:   VD
 POCSAG1200: Address: 1560772  Function: 3  Alpha:   <DLE>DLJ6<SO>1f
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1248221221+++TIME=1248221221<NUL>
@@ -980,21 +998,3 @@ POCSAG2400: Address: 1321203  Function: 2  Alpha:   09:36-05 pls call 35758 deni
 POCSAG2400: Address: 1323202  Function: 2  Alpha:   09:35-36 NHSBT - DONOR REFERRAL. Please call    ANN BARNARD on Direct Dial Number   01737 768 511 EXT 6381 Hospital  EAST SURREY HOSPITAL  Dept   ITU . Regards Donor Referral Line<NUL>
 POCSAG2400: Address:   33713  Function: 2  Alpha:   09:35-55 NHSBT - DONOR REFERRAL. Please call    ANN BARNARD on Direct Dial Number   01737 768 511 EXT 6381 Hospital  EAST SURREY HOSPITAL  Dept   ITU . Regards Donor <DC2>dberral Line<NUL>
 POCSAG2400: Address: 1913818  Function: 2  Alpha:   09:36-04 5201<NUL>
-POCSAG2400: Address: 1913585  Function: 2  Alpha:   09:35-03 3243<NUL>
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   VD
-POCSAG2400: Address:    1482  Function: 2 
-POCSAG2400: Address: 1209978  Function: 2 
-POCSAG2400: Address: 1539008  Function: 0  Alpha:   `>
-POCSAG2400: Address: 1913815  Function: 2  Alpha:   09:35-12 5075<NUL>
-POCSAG1200: Address:  761416  Function: 1 
-POCSAG1200: Address:  549841  Function: 2  Alpha:   09:35-05 ~FYI - W1378 IS OFF THE RUN FOR APPROX 3 HOURS FOR A SAFETY INSPECTION
-POCSAG1200: Address: 1312565  Function: 2  Alpha:   09:35-58 (4/4) Additional_Data Number of Vehicles involved: 
-POCSAG1200: Address:  420486  Function: 3  Alpha:   <SOH><BS>
-POCSAG2400: Address: 1913746  Function: 2  Alpha:   09:34-99 2999<NUL>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   09:34-12 5201<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:34-97 3157<NUL>
-POCSAG1200: Address:  420237  Function: 2  Alpha:   09:34-45 22/12/2021 09:31:48 INC 24860069 06D01 HORN HOUSE FARM, GENERAL AREA OF, ABBEYTOWN WIGTON, CA7 4ST Male 81Y BREATHING PROBLEM GRD 316595 550921<NUL><NUL>
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   09:33-35 5440<NUL>
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   09:33-04 Surgeon 8170<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0933221221+++TIME=0933221221<NUL>
-POCSAG1200: Address: 1594961  Function: 2  Alpha:   09:33-91 54062-12
