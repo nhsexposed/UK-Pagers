@@ -1,3 +1,6 @@
+POCSAG1200: Address: 1489622  Function: 0 
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   05:51-34 RFH BLEEP 1032<NUL><NUL>
+POCSAG1200: Address:   40161  Function: 2  Alpha:   05:51-75 RFH BLEEP 1032<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0548221221+++TIME=0548221221<NUL>
 POCSAG2400: Address: 2084728  Function: 2 
 POCSAG2400: Address: 1613940  Function: 0 
@@ -995,6 +998,3 @@ POCSAG1200: Address: 1322175  Function: 2  Alpha:   20:02-98 TEST PAGER PLEASE R
 POCSAG2400: Address: 1324056  Function: 2  Alpha:   20:02-56 AMBY2:- APO
 POCSAG1200: Address:  585270  Function: 2  Alpha:   20:01-21 TEST MESSAGE<NUL>
 POCSAG1200: Address: 2007059  Function: 0 
-POCSAG1200: Address: 1511973  Function: 3  Alpha:   Fp
-POCSAG2400: Address: 2066020  Function: 3 
-POCSAG1200: Address: 1844352  Function: 3  Alpha:   <SUB><NUL>
