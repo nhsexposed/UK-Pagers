@@ -1,3 +1,8 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3a$<LF>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1500262  Function: 2  Alpha:   07:01-46 22/12/2021 06:57:00 IN
+POCSAG1200: Address:  678665  Function: 2  Alpha:   07:00-51 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  549839  Function: 2  Alpha:   07:00-18  ~FOR INFO - PERSONS REPORTED INC ANTRIM 0203HRS - EMERGENCY CALL HANDLING IN PROGRESS, NO11 AGC LOWRY MOB AS OIC
 POCSAG1200: Address: 1483636  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0658221221+++TIME=0658221221<NUL>
 POCSAG1200: Address:  306142  Function: 2  Alpha:   06:57-25 PLEASE CALL 72677, CARDIOLOGY 
@@ -993,8 +998,3 @@ POCSAG1200: Address:   61304  Function: 1  Alpha:   `j^d``d@<ACK><DC1>g<STX><SOH
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A si
 POCSAG1200: Address: 1511973  Function: 3  Alpha:   Fl
 POCSAG1200: Address: 2023802  Function: 1 
-POCSAG1200: Address:  311720  Function: 2 
-POCSAG1200: Address: 2047360  Function: 3 
-POCSAG2400: Address: 1445592  Function: 0 
-POCSAG1200: Address:   40088  Function: 2  Alpha:   20:40-00 AAU 21312<NUL><NUL>
-POCSAG2400: Address: 1022581  Function: 0  Alpha:   20:39-70 76217|<DEL><DEL>
