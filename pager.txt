@@ -1,3 +1,14 @@
+POCSAG1200: Address:  443679  Function: 0  Alpha:   <SOH><NUL>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   s,
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   vj
+POCSAG2400: Address: 1320201  Function: 2  Alpha:   18:45-06 4379<NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   18:45-15 (2/2) Roles    JY16P1:Main Pump; Talkgrp  FBER-OPS04 (41*) (DGNA)
+POCSAG1200: Address:  325974  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address: 1847908  Function: 0 
+POCSAG1200: Address: 1876081  Function: 2 
+POCSAG2400: Address: 1320160  Function: 2  Alpha:   18:44-31 Good Evening You are now on call for CCG. You should receive messages via email, SMS and pager bleeps. Kind regards Resilience Team
+POCSAG2400: Address: 1039544  Function: 1  Alpha:   U0
 POCSAG2400: Address: 2009655  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1843221221+++TIME=1843221221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1843221221+++TIME=1843221221<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1590259  Function: 2  Alpha:   @<EOT>BY<SOH>]&22&<ACK>6<STX
 POCSAG1200: Address:   75750  Function: 3 
 POCSAG1200: Address: 1891232  Function: 1  Alpha:   -n
 POCSAG1200: Address:  602480  Function: 3 
-POCSAG1200: Address:  761185  Function: 1 
-POCSAG1200: Address: 1781486  Function: 2 
-POCSAG1200: Address:  394485  Function: 0 
-POCSAG1200: Address:  792753  Function: 1 
-POCSAG1200: Address: 1652412  Function: 1 
-POCSAG1200: Address: 1289267  Function: 2  Alpha:   l<NUL>KdN
-POCSAG1200: Address:  389532  Function: 1  Alpha:   <SO><SOH>
-POCSAG1200: Address:  120832  Function: 1 
-POCSAG1200: Address:  535968  Function: 3  Alpha:   <CR>Y
-POCSAG1200: Address:  853355  Function: 2  Alpha:   rv<SO>v2G<ESC>{+P=$'<DC1>DUSED SHIVERING LYING ON THE BED GRD 366804 42
-POCSAG1200: Address:  301920  Function: 1 
