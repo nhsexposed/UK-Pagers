@@ -1,3 +1,14 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1838221221+++TIME=1838221221<NUL>
+POCSAG1200: Address: 1024759  Function: 0 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX>%
+POCSAG2400: Address: 1323214  Function: 2  Alpha:   18:37-79 18:37-78 CALL 07979 273 363<NUL>
+POCSAG2400: Address: 1323200  Function: 2  Alpha:   18:37-44 CALL 07979 273 363<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2041457  Function: 1 
+POCSAG1200: Address: 2009689  Function: 2 
+POCSAG1200: Address:  766980  Function: 2  Alpha:   P02{tq2<ETB>
+POCSAG1200: Address:  566025  Function: 1  Alpha:   OOL, L36 6FD Male 59Y COLLASPED - DIB - SHAKING GRD 345619 391000
+POCSAG1200: Address:  504522  Function: 2  Alpha:   91000
 POCSAG1200: Address: 1815072  Function: 0  Alpha:   <ETX><FF>
 POCSAG1200: Address: 1049969  Function: 2  Alpha:   <STX>5>Z<SYN>2<SOH>MB&:<ACK><LF>&<SUB>&<DC2><ACK><STX><GS>J<DC2><STX>MMUeQE<SOH>MeQa]A<SOH>
 POCSAG1200: Address: 1491058  Function: 2 
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1796758  Function: 2  Alpha:   R<ETB><DLE>^$&.<DLE>
 POCSAG1200: Address:  731289  Function: 2  Alpha:   <DLE>5
 POCSAG1200: Address:  437380  Function: 1  Alpha:   h%Sp<CR>
 POCSAG1200: Address:  571795  Function: 1 
-POCSAG1200: Address:  555441  Function: 0  Alpha:   N5
-POCSAG1200: Address:  144481  Function: 0 
-POCSAG1200: Address: 1942030  Function: 0  Alpha:   1<ESC><FS>l-N<CR>H<FF><DLE>[
-POCSAG1200: Address:   92747  Function: 1 
-POCSAG1200: Address: 1536614  Function: 0 
-POCSAG1200: Address:  340376  Function: 1  Alpha:   <RS>M
-POCSAG1200: Address: 1635136  Function: 3 
-POCSAG1200: Address:   43315  Function: 1  Alpha:   .+LvK
-POCSAG1200: Address:     588  Function: 3  Alpha:   <BS><NUL><NUL>@<NUL>(a<CAN>kYY4\<CAN>
-POCSAG1200: Address:  384008  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
