@@ -1,3 +1,16 @@
+POCSAG2400: Address:   11678  Function: 0  Alpha:   19:54-35 Marcia is responding<NUL><NUL>
+POCSAG1200: Address:  433067  Function: 2  Alpha:   19:54-43 22/12/2021 19:52:55 INC 24862533 10D01 15 COTTAM GREEN, COTTAM PRESTON, PR4 0AB Male 50Y CHEST PAINS,VOMIT GRD 350502 432556<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953221221+++TIME=1953221221<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>CA;L
+POCSAG1200: Address:   40088  Function: 2  Alpha:   19:53-25 PLS CALL 62107 <NUL>
+POCSAG1200: Address: 1442944  Function: 0  Alpha:   dd<EOT><DC2>|d$}td<STX><DC2>d<FF><ETX>*<ESC><ENQ><ENQ>j<FF>f.<ACK>";K<ENQ>B<FF>$<EOT><LF><EOT><SUB>-LT-<NAK>-<EOT><LF>t$<EOT><DC2><FF>t<,$<EOT>B,<FF>$<EOT>:<DC4>%<EOT><SUB>3C+3<ETX><ETX>"<VT><ETX>++K<ETX><NUL>
+POCSAG1200: Address:  216470  Function: 2  Alpha:   19:52-05 12027
+POCSAG2400: Address:   11678  Function: 0  Alpha:   19:52-34 GAMMA ALARM AT SITE 202A, 07467 233 560 <NUL><NUL>
+POCSAG2400: Address:  393657  Function: 1 
+POCSAG2400: Address:   11699  Function: 0  Alpha:   19:51-71 FIRE CALL<NUL><NUL>
+POCSAG1200: Address: 1878261  Function: 2 
+POCSAG1200: Address:  214093  Function: 2  Alpha:   19:50-78 22/12/2021 19:47:59 INC 24862514 10D02 26 WHITEWELL PLACE, BLACKBURN, BB1 6EY Male 91Y BREATHING HEAVILY GRD 368543 428972
+POCSAG1200: Address: 2023643  Function: 0 
 POCSAG1200: Address: 1745533  Function: 0 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   19:48-66 3157<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   19:46-10 4160<NUL>
@@ -946,19 +959,6 @@ POCSAG1200: Address:  963186  Function: 0
 POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V1L
 POCSAG1200: Address:  548160  Function: 2  Alpha:   16:41-29 2608<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><DC1>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
