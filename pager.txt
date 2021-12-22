@@ -1,3 +1,24 @@
+POCSAG1200: Address: 1031705  Function: 2 
+POCSAG1200: Address: 2046352  Function: 2  Alpha:   :<SOH>
+POCSAG1200: Address: 1026673  Function: 1 
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   FF
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   09:3#$88 5204<NUL>
+POCSAG2400: Address: 1913545  Function: 2  Alpha:   09:11-37 4042<NUL>
+POCSAG1200: Address:  352162  Function: 0  Alpha:   09:11-17 22/12/2021 09:10:54 INC 24859987 06D02 75 GISBURL!@OAD, BARNOLDSWICK, BB18 5HL Male 78Y SATS 55-56 GRD 387452 447170
+POCSAG1200: Address:  214093  Function: 2  Alpha:   09:11-41 22/12/2021 09:10:54 INC 24859987 06D02 75 GISBURN ROAD, BARNOLDSWICK, BB18 5HL Male 78Y SATS 55-56 GRD 387452 447170
+POCSAG2400: Address: 1876596  Function: 2 
+POCSAG1200: Address: 1324218  Function: 2  Alpha:   09:10-96 On Call Coordinator to contact Control Room on 01752 720226 x355036 regarding ongoing incident number 121 relating to suicidal person (nature of Incident) at Camborne (Incident Location)<NUL><NUL>
+POCSAG1200: Address: 1324220  Function: 2  Alpha:   09:10-87 On Call Coordinator to contact Control Room on 01752 720226 x355036 regarding ongoing incident number 121 relating to suicidal person (nature of Incident) at Camborne (Incident Location)<NUL><NUL>
+POCSAG1200: Address: 1324433  Function: 2  Alpha:   09:10-99 On Call Coordinator to contact Control Room on 01752 720226 x355036 regarding ongoing incident number 121 relating to suicidal person (nature of Incident) at Camborne (Incident Location)<NUL><NUL>
+POCSAG1200: Address: 1324434  Function: 2  Alpha:   09:10-62 On Call Coordinator to contact Control Room on 01752 720226 x355036 regarding ongoing incident number 121 relating to suicidal person (nature of Incident) at Camborne (Incident Location)<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   09:10-78 2642<NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   09:08-40 4179<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0908221221+++TIME=0908221221<NUL>
+POCSAG2400: Address: 1913696  Function: 2  Alpha:   09:08-88 4379<NUL>
+POCSAG2400: Address:  216456  Function: 2  Alpha:   09:08-01 PANCREAS POSITIVE VIROLOGY FAST TRACK OFFER FOR ANY RECIPIENT  Donor: 153461, Hospital: LUTON AND DUNSTABLE, HE0220, DOB: 02/01/1982, DCD, Kidney available, Positive Virology: HEP C ANTIBODY, THIS OFFER EXPIRES AT 09:55. - Please see EOS. IMPORTANT A COPY OF THE SARS COV 2 ASSESSMENT AND SCREENING IS AVAILABLE FROM HUB OPERATIONS.<NUL>
+POCSAG1200: Address: 1022870  Function: 2  Alpha:   09:08-88 Device is Down (FPS Alerts)., FPS_Alert_4-Out-Response-over-3-minutes is Down on Device: FPS Alerts (10.100.31.180).<CR><LF><CR><LF>Details:<CR><LF>Monitors that are down include: FPS_Alert_4-Out-Response-over-3-minutes<CR><LF>Monitors that are up include: FPS_Ale<NUL><NUL>
+POCSAG1200: Address:  413064  Function: 2  Alpha:   09:09-95 plse call x6540<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
 POCSAG1200: Address: 1090518  Function: 2  Alpha:   09:08
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1322785  Function: 2  Alpha:   09:07-18 NHSBT - DONOR REFERRAL. Please call NURSE JANE ROTHERHAM on Direct Dial Number 01517062406 Hospital ROYAL LIVERPOOL UNIVERSITY HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address:  360216  Function: 2  Alpha:   22:42-72 31081
 POCSAG1200: Address: 1552500  Function: 0 
 POCSAG1200: Address: 1037738  Function: 2  Alpha:   UE<SOH>UA]eI
 POCSAG1200: Address: 1903569  Function: 1 
-POCSAG1200: Address:  972752  Function: 0 
-POCSAG1200: Address:  545425  Function: 2  Alpha:   QI<SOH>%:<SO><STX>IQaUaYIa<SOH>EA<DC1>BI<SOH>I]<SOH>]<SYN>NR<SYN>J:<STX>]<ACK>f2<SOH>9>JR"^&<SO>"2<SOH><CR>^b<SOH>Qe*<STX><EM><SYN>7<BEL>3<ETB><ETX>IYe<STX><CR>"<SYN>NR<STX>A<ACK>&:<STX><GS>J<DC2><STX>MYQA]E<SOH>M]MaEU<SOH>
-POCSAG1200: Address:  640109  Function: 2  Alpha:   22:40-49 21/12/2021 22
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:40-30 3157<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:38-29 5440<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   22:37-20 2616<NUL>
-POCSAG2400: Address: 1814968  Function: 0  Alpha:   22:35-41 4316<NUL>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   22:34-86 21/12/2021 22:32:39 INC 24858604 26D01 STARBUCKS, UNIT 3 COPPICE LANE, TARBOCK PRESCOT, L35 1QT Female 33Y F D + V, UNABLE TO MOVE, FEELS DIZZY GRD 346078 389313<NUL>
-POCSAG1200: Address: 1745456  Function: 2 
-POCSAG1200: Address:  548039  Function: 2  Alpha:   22:34-85 21/12/2021 22:32:42 INC 24858605 06E01 13 KNOWSLEY PARK LANE, PRESCOT L34, L34 3NA Female 1Y F - STRUGGLING TO BREATHE - HIGH TEMP - LETHARGIC - GASPING GRD 346149 392967<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   22:32-49 3117<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   22:31-19 2233<NUL>
-POCSAG1200: Address:  428347  Function: 2  Alpha:   22:31-44 21/12/2021 22:30:44 INC 24858600 
-POCSAG2400: Address: 1323481  Function: 2  Alpha:   22:29-20 PLS CALL CAROL LATER ON 07896 133 275<NUL><NUL>
-POCSAG2400: Address: 1323488  Function: 2  Alpha:   22:29-47 22:29-46 PLS CALL CAROL LATER ON 07896 133 275<NUL><NUL>
-POCSAG2400: Address: 1323486  Function: 2  Alpha:   22:29-04 PLS CALL CAROL LATER ON 07896 133 275<NUL><NUL>
-POCSAG1200: Address: 1450548  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2228211221+++TIME=2228211221<NUL>
-POCSAG2400: Address: 2025083  Function: 0 
