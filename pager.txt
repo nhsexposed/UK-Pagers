@@ -1,3 +1,13 @@
+POCSAG1200: Address:  214093  Function: 2  Alpha:   02:24-34 22/12/2021 02:23:36 INC 24859186 06D
+POCSAG2400: Address:  549123  Function: 2  Alpha:   02:24-91 4114<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0223221221+++TIME=0223221221<NUL>
+POCSAG1200: Address:   33724  Function: 2  Alpha:   02:20-14 03003000044<DEL>}
+POCSAG1200: Address:  958835  Function: 0 
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:20-60 03003000044
+POCSAG2400: Address:  149253  Function: 2  Alpha:   02:20-83 03003000044
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   02:20-92 03003000044
+POCSAG1200: Address: 1313124  Function: 2  Alpha:   02:20-70 03003000044
+POCSAG1200: Address:   33723  Function: 2  Alpha:   02:20-91 03003000044
 POCSAG2400: Address: 1768022  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0218221221+++TIME=0218221221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1150764  Function: 3  Alpha:   hp
 POCSAG1200: Address: 2077720  Function: 0  Alpha:   A]
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:18-80 21/12/2021 18:15:24
 POCSAG1200: Address: 1089914  Function: 2  Alpha:   18:18-52 PLS CALL 0300 123 1307
-POCSAG1200: Address:  360002  Function: 0  Alpha:   18:17-13 21/12/2021 18:16
-POCSAG1200: Address:   70108  Function: 2  Alpha:   Z{{]<ESC>(U{Z{{];<SYN>h0P<DC4>(<NAK>t4<DC2>1<DC1><BS>qsU<DC3>hQ<DC4><DC1>h,.<FF><CR>M<CR>h<FF>nm-<SO><CR>
-POCSAG1200: Address: 1594528  Function: 0  Alpha:   A2<ETB><BEL>O<ETB><ETX><CR><BEL>33<ETX>AEQMa<SOH>IaQ]U<SOH><NUL>
-POCSAG1200: Address: 2040445  Function: 0 
-POCSAG1200: Address: 1999482  Function: 2 
-POCSAG1200: Address: 1321754  Function: 2  Alpha:   18:15-29 PPCI TEST CALL - Pl%#7a call 01438 28475<NUL><NUL>
-POCSAG1200: Address:  313737  Function: 2 
-POCSAG1200: Address: 1718608  Function: 2  Alpha:   <STX><CR>
-POCSAG1200: Address: 1321725  Function: 2  Alpha:   18:15-10 PPC<ENQ><NUL>e<DC2>T
-POCSAG1200: Address: 2026354  Function: 2 
