@@ -1,3 +1,16 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603221221+++TIME=1603221221<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:03-48 5201<NUL>
+POCSAG2400: Address:   28919  Function: 0  Alpha:   16:02-57 4301<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:02-62 4167<NUL>
+POCSAG2400: Address:  959472  Function: 2 
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   &p
+POCSAG1200: Address:  197437  Function: 3  Alpha:   <DLE><FF><FF><DC2>#<ACK>1f
+POCSAG1200: Address: 1511888  Function: 2  Alpha:   FB
+POCSAG2400: Address: 1913764  Function: 2  Alpha:   15:58-05 5202<NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   16:00-18 5507<NUL>
+POCSAG2400: Address: 1022276  Function: 0  Alpha:   15:57-04 NHSBT - DONOR REFERRAL. Please call NURSE ROSE FERNS on Direct Dial Number 0161 2913163 Hospital WYTHENSHAWE Dept CTCCU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address:  583905  Function: 2  Alpha:   15:58-31 80300
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1558221221+++TIME=1558221221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  108086  Function: 0  Alpha:   15:52-84 STROKE TEAM TO A&E 10 MINS <NUL>
 POCSAG1200: Address:  290108  Function: 3  Alpha:   V<STX>
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1976691  Function: 2
 POCSAG1200: Address: 1001134  Function: 2  Alpha:   12:01-88 PAEDIATRIC TEAM,, A/E PAED.. NGH 11.59 AM<NUL>
 POCSAG1200: Address: 1312440  Function: 2  Alpha:   12:01-35 PAEDIATRIC TEAM,, A/E PAED.. NGH 11.59 AM<NUL>
 POCSAG1200: Address: 1312441  Function: 2  Alpha:   12:01-30 PAEDIATRIC TEA=,/ A/E PAED.. NGH 11.59 AM<NUL>
-POCSAG1200: Address:  209948  Function: 3  Alpha:   7<DLE>
-POCSAG1200: Address: 1534259  Function: 2  Alpha:   12:00-84 PLEASE CONTACT CONTROL <NUL><NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   12:00-95 22/12/2021 11:58:22 INC 24860655 BY PETROL STATION, LADY MUCK, 434 QUEENS DRIVE, WEST DERBY L13, L13 0AR Male 80Y CRASH - RTC, LORRY INTO CAR GRD 339287 392133
-POCSAG2400: Address:   11678  Function: 0  Alpha:   12:00-22 Marcia is responding<NUL><NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   12:00-56 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   &<ACK>
-POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:Israel to Offer Fourth Covid-19 Shot to Over 60s<NUL><NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:59-82 3504<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:59-81 4283<NUL>
-POCSAG2400: Address: 1320381  Function: 2  Alpha:   11:59-60 4908<NUL>
-POCSAG2400: Address: 1320365  Function: 2  Alpha:   11:59-83 4268<NUL>
-POCSAG1200: Address: 1925680  Function: 2  Alpha:   11:58-68 22/12/2021 11:53:44 INC 24860634 17B04A 22 NEW BARN COURT, BLACKBURN, BB2 3AB Female 70Y FALLEN DOWN AND CANT GET UP. STUCK BEHIND THE DOOR. GRD 368567 426995<NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   11:58-89 22/12/2021 11:56:36
