@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:34-30 Please call A&E Resus on 32398 or 31884.<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2133221221+++TIME=2133221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2133221221+++TIME=2133221221<NUL>
+POCSAG1200: Address:  360216  Function: 2  Alpha:   21:33-84 33943
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  940431  Function: 2  Alpha:   21:33-37 22/12/2021 21:31:31 INC 24862912 06D02 16 BRYN GROVE, HEST BANK NR LANCASTER, LA2 6EX Male 87Y DIB GRD 347529 466617
+POCSAG1200: Address:   40088  Function: 2  Alpha:   21:32-28 PLS CALL RAU ON 72955<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  269111  Function: 2  Alpha:   21:32-01 22/12/2021 21:30:11 INC 24862907 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   21:31-72 22/12/2021 21:30Z99 INC 24862907 26D01 NEAR THE SPAR, NEW CHAPEL STREET, BLACKBURN BLACKBURN WITH DARWEN Female 40Y INTOXICATED GRD 366933 426608
+POCSAG2400: Address:  225851  Function: 2  Alpha:   21:31-83 107204<NUL><NUL>
+POCSAG1200: Address:  695910  Function: 2  Alpha:   21:31-50 22/12/2021 21:30:01 INC 24862906 10D04 35 WOODFIELD, CLAYTON BROOK NR LEYLAND, PR5 8EB Male 52Y TIGHT CHEST GRD 358045 424591
+POCSAG1200: Address:  346010  Function: 0  Alpha:   21:31-67 22/12/2021 21:30:01 INC 24862906 10D04 35 WOODFIELD, CLAYTON BROOK NR LEYLAND, PR5 8EB Male 52Y TIGHT CHEST GRD 358045 424591
+POCSAG1200: Address:  549138  Function: 2  Alpha:   21:29-89 CALL 0300 421 0555<NUL>
+POCSAG2400: Address:   33736  Function: 2  Alpha:   21:29-82 21:29-81 CALL 0300 421 0555<NUL>
+POCSAG1200: Address: 1312891  Function: 2  Alpha:   21:29-86 CALL 0300 421 0555<NUL>
+POCSAG1200: Address: 1044800  Function: 2  Alpha:   21:29-84 CALL 0300 421 0555<NUL>
+POCSAG1200: Address: 1044801  Function: 2  Alpha:   21:29-87 CALL 0300 421 0555<NUL>
+POCSAG1200: Address:  549140  Function: 2  Alpha:   21:29-74 CALL 0300 421 0555<NUL>
+POCSAG1200: Address:  851267  Function: 2  Alpha:   21:29-93 CALL 0300 421 0555<NUL>
+POCSAG1200: Address:  851268  Function: 2  Alpha:   21:29-58 CALL 0300 421 0555<NUL>
+POCSAG1200: Address:  851269  Function: 2  Alpha:   21:29-62 CALL 0300 421 0555<NUL>
 POCSAG1200: Address: 1318948  Function: 2  Alpha:   21:29-64 3991-0<NUL><NUL>
 POCSAG1200: Address:  600915  Function: 0 
 POCSAG2400: Address: 1324545  Function: 2  Alpha:   21:28-65 INC ALERT No: 16957810 Cardiac Arrest -, AT: 66 FAIRFIELD AVENUE, BATH, BA1 6NJ, Time of Call: 22/12/2021 21:28:12, Co-ords: 51.399553948 -2.35596446<NUL>
@@ -976,25 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 1966932  Function: 1 
-POCSAG1200: Address: 1048578  Function: 0 
-POCSAG1200: Address:  661484  Function: 0 
-POCSAG1200: Address: 1387937  Function: 0 
-POCSAG1200: Address: 1516916  Function: 2 
-POCSAG1200: Address:   84771  Function: 0  Alpha:   `!^$R
-POCSAG1200: Address: 1706738  Function: 0 
-POCSAG1200: Address:  635104  Function: 3 
-POCSAG1200: Address: 1686176  Function: 3 
