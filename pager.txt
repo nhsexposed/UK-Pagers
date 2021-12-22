@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:29-67 4165<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1828221221+++TIME=1828221221<NUL>
+POCSAG1200: Address: 2022793  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1828221221+++TIME=1828221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  432578  Function: 2  Alpha:   22/12/2021 18:25:10 INC 24862203 30B01 NR TO, 90 HOLMROOK ROAD, NORRIS GREEN L11, L11 3AQ Male 17Y HEAD INJ COME OFF ELECTRIC SCOOTER GRD 339086 395319
+POCSAG2400: Address: 1913902  Function: 2  Alpha:   18:26-47 2111<NUL>
+POCSAG1200: Address:  432776  Function: 2  Alpha:   18:26-60 22/12/2021 18:24:31 INC 24862200 17D02 LEHRI BROS LTD, 73 LOWFIELD ROAD, SHAW HEATH STOCKPORT, SK3 8JS Male 65Y FALLEN - HARDLY BREATHING GRD 389481 389023<NUL>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   18:26-95 22/12/2021 18:24:31 INC 24862200 17D
+POCSAG1200: Address:  269059  Function: 2  Alpha:   18:26-03 22/12/2021 18:24:31 INC 24862200 17D02 LEHRI BROS LTD, 73 LOWFIELD ROAD, SHAW HEATH STOCKPORT, SK3 8JS Male 65Y FALLEN - HARDLY BREATHING GRD 389481 389023<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1823221221+++TIME=1823221221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address: 1429453  Function: 3  Alpha:   {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{[!Q!!x}<CR><NUL>
@@ -988,13 +998,3 @@ POCSAG2400: Address:  549199  Function: 2  Alpha:   16:36-51 555<NUL><NUL>
 POCSAG2400: Address:  584089  Function: 2  Alpha:   16:36-52 555<NUL><NUL>
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:36-93 4283<NUL>
 POCSAG1200: Address: 1022028  Function: 2  Alpha:   16:36-24 TEST MESSAGE FOR ON CALL ENGINEER <NUL><NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   &F
-POCSAG2400: Address:   28905  Function: 0  Alpha:   16:36-93 4399<NUL>
-POCSAG2400: Address: 1320138  Function: 2  Alpha:   16:36-23 555<NUL><NUL>
-POCSAG1200: Address: 1022028  Function: 2  Alpha:   16:36-23 test<NUL>
-POCSAG1200: Address: 1032702  Function: 3  Alpha:   <DC2>C<DC1>$L
-POCSAG1200: Address:   18937  Function: 2  Alpha:   16:35-43 6269<NUL>
-POCSAG2400: Address: 1066356  Function: 1  Alpha:   ^<SOH>aAB2<SOH>Q&7<ETB><ETX>=<ESC><ETX><CR><ACK>33k<SOH>II=EI=IAIE<SOH>EYiMQiQA1<SOH><CR>>7=K<DC3>Ok<SOH>UE9EUY]UEY<SOH>5I9eMQ]Q]Y<SOH><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   16:35-67 Call 24861777 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:35-78 Call 24861777 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  312672  Function: 0  Alpha:   16:35-65 Call 24861777 - Warning - Scene Unsafe. Contract Control for further advice.
