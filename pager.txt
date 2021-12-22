@@ -1,3 +1,8 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0548221221+++TIME=0548221221<NUL>
+POCSAG2400: Address: 2084728  Function: 2 
+POCSAG2400: Address: 1613940  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0548221221+++TIME=0548221221<NUL>
+POCSAG1200: Address: 1323638  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0543221221+++TIME=0543221221<NUL>
 POCSAG2400: Address:  792979  Function: 1  Alpha:   ,<FF>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address: 2007059  Function: 0
 POCSAG1200: Address: 1511973  Function: 3  Alpha:   Fp
 POCSAG2400: Address: 2066020  Function: 3 
 POCSAG1200: Address: 1844352  Function: 3  Alpha:   <SUB><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1958211221+++TIME=1958211221<NUL>
-POCSAG2400: Address:  225851  Function: 2  Alpha:   19:58-79 107205<NUL><NUL>
-POCSAG1200: Address:   35108  Function: 1  Alpha:   $Fv<ACK>$<CAN>(:Y(<LF>yY:Z<BS>$z<EM>HH<ENQ>dYH9ziI<ENQ>$(<CAN><BEL><DC4>gI<HT>T<EM>L]<FF><DC4>'<SYN><VT><DC4>z<NAK>iiX8H<SUB>yi<HT>t(J<BS>4<ACK>wF<ACK>&<ACK>D6vv<SYN>f<ACK>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   19:58-53 21/12/20
-POCSAG1200: Address: 1092646  Function: 2  Alpha:   19:58-64 21/12/2021 19:57:02 INC 24858047 06E01 36 EXCHANGE STREET, BLACKPOOL, FY1 2DX Male 48Y DIB GRD 330909 436956
