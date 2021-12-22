@@ -1,3 +1,16 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2123221221+++TIME=2123221221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2123221221+++TIME=2123221221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  432776  Function: 2  Alpha:   21:22-66 22/12/2021 21:21:34 INC 24862885 09E01 23 KENSINGTON AVENUE, RUSHOLME MANCHESTER, M14 5PG Unknown UnknownY DIB GRD 385997 395517
+POCSAG1200: Address: 2015829  Function: 0 
+POCSAG1200: Address: 1813632  Function: 3 
+POCSAG1200: Address:  500334  Function: 0 
+POCSAG2400: Address: 1488552  Function: 3 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   21:19-68 4166<NUL>
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   21:19-56 22/12/2021 21:17:53 INC 24862876 19C02 1 RIMINGTON CLOSE, BLACKBURN, BB2 3DR Female 63Y FAST HEARTBEAT GRD 368638 426796<NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   21:19-70 22/12/2021 21:17:53 INC 24862876 19C02 1 RIMINGTON CLOSE, BLACKBURN, BB2 3DR Female 63Y FAST HEARTBEAT GRD 368638 426796<NUL><NUL>
+POCSAG1200: Address:  220909  Function: 2  Alpha:   21:19-84 704000<NUL><NUL>
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   21:19-81 22/12/2021 21:15:50 INC 2486287e 57D03 25 CIRCULAR ROAD WEST, NORRIS GREEN L11, L11 1AY Male 60Y FELL - GRD 338749 393998<NUL>
 POCSAG2400: Address:   28924  Function: 0  Alpha:   21:18-32 2052<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2118221221+++TIME=2118221221<NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address:  764534  Function: 2
 POCSAG1200: Address:  766077  Function: 0 
 POCSAG1200: Address:  751808  Function: 0 
 POCSAG1200: Address:  752073  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1844213  Function: 0 
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <ENQ><ACK>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  861044  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
