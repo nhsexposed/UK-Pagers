@@ -1,3 +1,9 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  413096  Function: 2  Alpha:   07:32-21 01173421912
+POCSAG1200: Address: 1499272  Function: 1  Alpha:   ?<ETX>U;3?<BEL><DC3>3<SOH>%<US>;?K<ETB><ETX><DC1><ETB>OS';<BEL>S'?;<ETX><ENQ>;<DC3><ETX>AK?<SI><ETB><ETB><DC3><ETX>Q?<ETX>Q#<ETB><ETX><GS><ACK>S<ETB>#?WO<ETB>3)t
+POCSAG1200: Address:  549839  Function: 2  Alpha:   07:31-19  ~FOR INFO DEL FIRE IN COMMUNAL HALLWAY FLATS ANTRIM 5 P<ENQ>HqLE LED TO SAFETY BY FRS, 1 PSNI OFFICER TREATED FOR SMOKE INHALATION, ECH BY RCC
+POCSAG1200: Address:   91000  Function: 3 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   07:30-18 5002<NUL>
 POCSAG1200: Address:  548206  Function: 2  Alpha:   07:28-10 01908658100
 POCSAG2400: Address: 1032460  Function: 3  Alpha:   <ETX><ENQ>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1511973  Function: 3  Alpha:   v
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108211221+++TIME=2108211221<NUL>
 POCSAG1200: Address: 1224204  Function: 0 
 POCSAG2400: Address: 1718899  Function: 1 
-POCSAG1200: Address:  931041  Function: 2  Alpha:   S';<US><ETX><ENQ>S<ETX>M^'S<SI>#<VT>?<BEL>K<DC3><ETX>
-POCSAG1200: Address:  149176  Function: 2  Alpha:   21:06-79 PMA Staff Required on THURNE
-POCSAG1200: Address: 1487681  Function: 2  Alpha:   21:06-83 PMA Staff Required on THURNE
-POCSAG1200: Address: 1487769  Function: 2  Alpha:   21:06-37 PMA Staff Required on THURNE
-POCSAG1200: Address: 1594901  Function: 2  Alpha:   21:06-51 PMA Staff Required on THURNE
-POCSAG1200: Address:  975418  Function: 0 
