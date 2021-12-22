@@ -1,3 +1,15 @@
+POCSAG1200: Address:  548166  Function: 2  Alpha:   07:43-82 3694<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:   49263  Function: 2  Alpha:   07:43-34 MEDICAL EMERGENCY WARD 16 UHND
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   07:43-44 2343<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   07:42-95 4312<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   07:42-36 please call 35543<NUL><NUL>
+POCSAG1200: Address:   40161  Function: 2  Alpha:   07:42-77 please call 35543<NUL><NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   X<ACK>
+POCSAG2400: Address: 1324557  Function: 2  Alpha:   07:41-17 INC ALERT No: 16955744 Cardiac Arrest -, AT: 20 BOND STREET BUILDINGS, TROWBRIDGE, BA14 0AN, Time of Call: 22/12/2021 07:40:53, Co-ords: 51.3153367 -2.2159015<NUL>
+POCSAG1200: Address: 2075376  Function: 1 
+POCSAG1200: Address:  549852  Function: 2  Alpha:   07:39-10 ~PLEASE CONTACT CONTROLS<NUL>
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   07:39-50 22/12/2021 07:38:06 INC 24859721 31C01 18 ALDWYCH DRIVE, LOSTOCK HALL, PR5 5LF Female 95Y FEELING FAINT GRD 354977 425432<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:   28894  Function: 0  Alpha:   07:36-26 4954<NUL>
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1913809  Function: 1
 POCSAG2400: Address: 1897332  Function: 3 
 POCSAG2400: Address:   43151  Function: 2  Alpha:   i=
 POCSAG2400: Address:  193124  Function: 0  Alpha:   9<ESC>OU<ETX>
-POCSAG2400: Address: 1522740  Function: 3 
-POCSAG2400: Address:  216251  Function: 2  Alpha:   21:13-45 RECOVERY: ICON-PRWEBTest-A4-01 is UP, <CR><LF>RECOVERY: ICON-PRWEBTest-A4-01 is UP<CR><LF><CR><LF>Host: ICON-PRWEBTest-A4-01<CR><LF>Alias: <CR><LF>Address: 192.168.1.63<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > ICON-ONI-SERVERS<CR><LF>State: UP<CR><LF>Date & Time: <NUL><NUL>
-POCSAG2400: Address: 1222859  Function: 1  Alpha:   <SYN>OS7<ENQ>R5AE5(<EOT>2'<BEL>Ok<SOH>5(<EOT><DC2><DC3>K<ETB>OOk<SOH>EeI9EYa9E9YM5( >OS<ETX><GS>J?WC<ETX>!&<ETB>K<BEL>K<SI>#gk<SOH>=BO['<ETB>_<ETX>y<SOH><DC1><ACK>S<BEL><SI><ETB>;SK<ETB>O<ETX>y<SOH>1VS?;7=:&<STX>y<SOH>%<SO>>:6=:&6M<SYN>JZ<SYN>JN6(LR<BEL>S<ETB>k<SOH>UB6(<DLE><ACK>S<ETB><ETX><EM><SOH>Q&7<ETB>k<SOH><SOH><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   21:13-71 RECOVERY: ICON-PRWEBTest-A4-01 is UP, <CR><LF>RECOVERY: ICON-PRWEBTest-A4-01 is UP<CR><LF><CR><LF>Host: ICON-PR
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   21:13-07 RECOVERY: ICON-PRWEB-A9-01 is UP, <CR><LF>RECOVERY: ICON-PRWEB-A9-01 is UP<CR><LF><CR><LF>Host: ICON-PRWEB-A9-01<CR><LF>Alias: <CR><LF>Address: 192.168.1.46<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > ICON-ONI-SERVERS<CR><LF>State: UP<CR><LF>Date & Time: Tue Dec 21 2<NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   21:13-04 RECOVERY: ICON-PRWEBTest-B5-01 is UP, <CR><LF>RECOVERY: ICON-PRWEBTest-B5-01 is UP<CR><LF><CR><LF>Host: ICON-PRWEBTest-B5-01<CR><LF>Alias: <CR><LF>Address: 192.168.1.73<CR><LF>Host Group Hierarchy: Opsview > Datacentres > Luton-ONI > ICON-ONI-SERVERS<CR><LF>State: UP<CR><LF>Date & Time: <NUL><NUL>
-POCSAG2400: Address: 1183973  Function: 2  Alpha:   <STX><DC3><ETX>J<RS><BEL>*<ENQ>mPhP@|<RS>'W<ETX>J<FS>|tl<STX><NAK>=-<DC4>l<DC2>$k<STX><DC3>kP<BS>dN<SO><RS>W<ETX>jP<BS>$&<SYN>/<RS><US>W<ETX><LF>K<DC3>S/3Cs<LF>s*+kP@|<RS>'<BEL>:<DC4><DEL>.<BEL><BEL>BL.<SYN><SI><SYN><US>FNW<ETX>z<EOT><US>7O.><BEL>r<ETX>"<FF>&<SI><RS>.v&<ETB>/<RS><BEL>r<ETX>b,'<DEL>v
-POCSAG1200: Address: 1890400  Function: 3 
-POCSAG1200: Address: 2007162  Function: 0 
-POCSAG2400: Address:  216272  Function: 2  Alpha:   21:12-22
-POCSAG2400: Address: 1745492  Function: 0 
-POCSAG2400: Address: 1975904  Function: 1 
