@@ -1,3 +1,30 @@
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   11:24-10 IP1 8013
+POCSAG1200: Address:  585450  Function: 2  Alpha:   11:24-09 6477<NUL>
+POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>CY,L
+POCSAG1200: Address: 1032979  Function: 3  Alpha:   <ACK>S
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1123221221+++TIME=1123221221<NUL>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   11:23-34 22/12/2021 11:21:41 INC 24860497 25B03 24 ARDERN ROAD, CRUMPSALL MANCHESTER, M8 4FB Female 34Y CONCERN FOR WELFARE - SUICIDAL GRD 383792 402489<NUL><NUL>
+POCSAG2400: Address:   28868  Function: 0  Alpha:   11:23-46 PLS CALL 35773<NUL><NUL>
+POCSAG2400: Address: 1324318  Function: 2  Alpha:   11:22-03 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1323191  Function: 2  Alpha:   11:22-54 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:   33713  Function: 2  Alpha:   11:22-56 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 2026080  Function: 2 
+POCSAG2400: Address: 1902208  Function: 2  Alpha:   <SYN>CS<ETX><CR>J&R<STX><CR><ACK>J<SYN><STX>9<SOH>I<SYN><US><BEL>K<DC3>O<ETX><DC1>>;?K<ETX>I<SYN><ESC><ETB>KK<BEL>3<ETX>1&;<ETB><ETX><NUL>
+POCSAG2400: Address: 1323202  Function: 2  Alpha:   11:22-37 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1031927  Function: 3  Alpha:   Cn
+POCSAG2400: Address: 1323179  Function: 2  Alpha:   11:22-50 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1323193  Function: 2  Alpha:   11:22-73 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
+POCSAG1200: Address:  585450  Function: 2  Alpha:   11:22-08 3484<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:21-05 4660<NUL>
+POCSAG1200: Address:   30642  Function: 2  Alpha:   11:21-19 PLEASE CAN YOU PHONE ANDY CREASEY. THANK YOU<NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   11:21-70 22/12/2021 11:18:35 INC 24860484 06D01 17 POULTON ROAD, LAYTON BLACKPOOL, FY3 7DS Male 79Y BREATHING BAD GRD 332368 437899
+POCSAG1200: Address: 1032928  Function: 0 
+POCSAG2400: Address: 1913918  Function: 2  Alpha:   11:20-85 2441<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:20-11 4660<NUL>
+POCSAG1200: Address:  696528  Function: 2  Alpha:   11:20-70 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address: 1067597  Function: 2  Alpha:   11:20-29 9901173421919
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:19-04 4187<NUL>
 POCSAG2400: Address: 1913963  Function: 2  Alpha:   11:19-13 2233<NUL>
 POCSAG1200: Address:  312672  Function: 0  Alpha:   11:19-30 22/12/2021 11:08:40 INC 24860441 04D03A O/S CALIFORNIA HOUSE, BACK LANE, GREAT ECCLESTON PRESTON, PR3 0XJ Male UnknownY MALE HIT BY CAR GRD 342769 440284
 POCSAG1200: Address:  585450  Function: 2  Alpha:   11:19-07 PLEASE CALL 4115
@@ -971,30 +998,3 @@ POCSAG2400: Address:   28896  Function: 0  Alpha:   08:09-77 2642<NUL>
 POCSAG1200: Address:   77279  Function: 2  Alpha:   08:09-51 Whitby FIRE CALL
 POCSAG1200: Address:  272374  Function: 2  Alpha:   08:09-25 The following resources/officers have been assigned to incident DNDN012773-22122021: DN77P1 as PMP from WHI(Whitby)<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0808221221+++TIME=0808221221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0808221221+++TIME=0808221221<NUL>
-POCSAG1200: Address:  640109  Function: 2  Alpha:   08:08-50 22/12/2021 08:06:38 INC 24859782 31D04 5A MUSKETT DRIVE, NORTHWICH, CW8 4YP Male 28Y M- COLLAPSED, BANGED HEAD GRD 364286 374514
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2074225  Function: 2 
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   08:04-48 Main Gate will be closed to outbound traffic from 08:30hrs - 14:30hrs. HGV access/egress will be unaffected during this period. Inbound traffic will be unaffected - SSM<LF><NUL><NUL>
-POCSAG2400: Address:  640392  Function: 2  Alpha:   08:04-39 110<NUL><NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:04-02 4312<NUL>
-POCSAG1200: Address: 1323354  Function: 2  Alpha:   08:04-94 ALL ON DUTY PERSONNEL TO RESPOND TO STN 60 FOR A MISPER<NUL>
-POCSAG1200: Address:  859363  Function: 2  Alpha:   "<DEL><ACK><SUB>~v<RS>.<ETB><ETB>/v<RS>N<BEL>"G<SYN>/<RS>G~f&<ACK>z^<ACK>J<RS><BEL><SUB><DC4>M$M<FS><FF>d<EOT>RRb<STX>RRRRR<STX>r<FF>>N~<RS><BEL>RRRRRjPhPp|&O6N<RS><SO>&O~v<ACK>"M<BEL>/V<ETX><STX><NAK>}<DC4>d,llPhP<CAN>-<SYN>7O<RS>.V<ETX>*<ETX><US>v&<BEL>*&>.<RS><BEL>"<DEL><ACK><SUB>~v<RS>.<ETB><ETB>/v<RS>N<BEL>"G<SYN>/<RS>G~f&<ACK>z^nP@|<RS>'W
-POCSAG1200: Address:  549740  Function: 2  Alpha:   08:04-80 ** PROBLEM Service Alert: Sky UK Prd VOD Edge Balancer Manager node/Upload poller is running is CRITICAL **, ***** Nagios *****<CR><LF><CR><LF>Notification Type: PROBLEM<CR><LF><CR><LF>Service: Upload poller is running<CR><LF>Host: Sky UK Prd VOD Edge Balancer
-POCSAG2400: Address: 1323951  Function: 2  Alpha:   08:03-11 AMBER: PLEASE DIAL IN FOR A CLINICAL SAFETY REVIEW CALL AT 08:30hrs.  AN MS TEAMS LINK WILL BE EMAILED SHORTLY.  EOC-SOUTH. GRM<NUL>
-POCSAG2400: Address:  263315  Function: 2  Alpha:   fb`i"<DLE>bd &P$'<DLE>c')P P!f$gda &Pi c"j,<DLE>i"kdb+Pa &&P *<DLE><CAN><FS>]<EM><CAN>4y9<ETB><DLE>P 'Pf)<DLE>jb`f)<DLE>f$g%Pk$&&<DLE>a"Pbf`$f""P)d')*f,<ETB><DLE>PbgaVig**$<ETB>P#i&
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0803221221+++TIME=0803221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0803221221+++TIME=0803221221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  108097  Function: 0  Alpha:   08:01-13 plse call x1004<NUL>
-POCSAG2400: Address:  433456  Function: 0 
-POCSAG2400: Address:  243640  Function: 3 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:01-01 4660<NUL>
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>CA;L
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   08:00-06 22/12/2021 07:59:33 IN
-POCSAG2400: Address:   28916  Function: 0  Alpha:   08:00-49 2054<NUL>
-POCSAG1200: Address: 1321642  Function: 2  Alpha:   07:58-28 Destination: Parking\D78 Ext TP, Booking Ref#: 806744, Vehicle: FH16ASE. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>___________________________________M^^__________________________________________<CR><LF><CR><LF><NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  893488  Function: 0 
-POCSAG2400: Address: 1412560  Function: 1 
