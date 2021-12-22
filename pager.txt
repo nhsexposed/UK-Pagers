@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1204842  Function: 2  Alpha:   <SYN>&&<SYN><ACK>
+POCSAG1200: Address:  832098  Function: 0 
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   18:17-55 PLEASE RING 62877<NUL><NUL>
+POCSAG1200: Address:  679608  Function: 2  Alpha:   18:17-25 PLEASE RING 62877<NUL><NUL>
+POCSAG1200: Address:  649969  Function: 2  Alpha:   18:17-47 PLEASE RING 62877<NUL><NUL>
+POCSAG2400: Address: 2028132  Function: 2 
+POCSAG2400: Address: 2011888  Function: 0 
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:17-05 5202<NUL>
+POCSAG1200: Address:  269056  Function: 1 
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS><NUL>0f
+POCSAG1200: Address: 1285924  Function: 3 
+POCSAG1200: Address: 1157979  Function: 0  Alpha:   bh
+POCSAG1200: Address: 1474934  Function: 2  Alpha:   @<SUB>
+POCSAG1200: Address:  825606  Function: 3 
+POCSAG1200: Address:  827476  Function: 3  Alpha:   <STX><STX>
+POCSAG1200: Address: 1650299  Function: 1 
+POCSAG1200: Address: 2005625  Function: 2 
+POCSAG1200: Address:  695952  Function: 2  Alpha:   18:14-67 22/12/2021 18:12:29 INC 24862164 09E01 O/S NR PURE GYM AND, K F C, ROSSALL WAY, SALFORD 6 SALFORD, M6 5JP Male 70Y FOUND UNRESPONSIVE GRD 381051 39927
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1980040  Function: 3  Alpha:   v2P<ESC>X,<DLE>cg*'"P*'ib)h'gi$k"P#)"P<EM>\<CAN>XZ<CAN>PY\<FS>Y<ESC>
+POCSAG1200: Address: 1817257  Function: 2  Alpha:   18:14-22 33886
 POCSAG1200: Address:  360002  Function: 0  Alpha:   18:14-41 22/12/2021 18:13:12 INC 24862169 06D02 TURNEY CROOK MEWS - FLAT 17, IVEGATE, COLNE, BB8 9BP Female 81Y 81YOF DIB GRD 388943 440163<NUL>
 POCSAG2400: Address: 1320359  Function: 2  Alpha:   18:13-32 4769<NUL>
 POCSAG2400: Address:  225851  Function: 2  Alpha:   18:12-81 107204<NUL><NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address: 1323899  Function: 2  Alpha:   16:33-02 4167<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1633221221+++TIME=1633221221<NUL>
 POCSAG1200: Address:   51747  Function: 3  Alpha:   Qa
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>A
-POCSAG2400: Address: 1320361  Function: 2  Alpha:   16:32-05 3530<NUL>
-POCSAG2400: Address: 1913794  Function: 2  Alpha:   16:32-60 4377<NUL>
-POCSAG1200: Address: 1814681  Function: 2  Alpha:   16:31-01 22/12/2021 16:26:09 INC 24861759 21D05M 25 CLIFTON DRIVE, FAIRHAVEN LYTHAM ST ANNES, FY8 5QY Male 52Y RIGHT LEG GIVES WAY - PAIN IN TENDONS GRD 334988 427334<NUL><NUL>
-POCSAG2400: Address: 1913542  Function: 2  Alpha:   16:31-60 3254<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX>'
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:31-92 4283<NUL>
-POCSAG2400: Address: 1913668  Function: 2  Alpha:   16:30-56 4268<NUL>
-POCSAG1200: Address: 1870581  Function: 0 
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   Vr
-POCSAG2400: Address: 1913675  Function: 2  Alpha:   16:30-06 3103<NUL>
-POCSAG1200: Address:  602144  Function: 0 
-POCSAG1200: Address:  761313  Function: 1 
-POCSAG1200: Address: 1781670  Function: 2 
-POCSAG1200: Address:  331637  Function: 0 
-POCSAG1200: Address:  792945  Function: 1 
-POCSAG1200: Address: 1652540  Function: 1 
-POCSAG1200: Address:  371955  Function: 0  Alpha:   `@Kd<RS>
-POCSAG1200: Address: 1781414  Function: 2 
-POCSAG1200: Address:   35383  Function: 3  Alpha:   j<LF>or@6HS
-POCSAG1200: Address:  385377  Function: 3 
-POCSAG1200: Address: 1552712  Function: 1 
-POCSAG1200: Address: 1944147  Function: 2 
