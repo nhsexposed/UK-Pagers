@@ -1,3 +1,49 @@
+POCSAG2400: Address:  439512  Function: 3 
+POCSAG2400: Address: 1913561  Function: 2  Alpha:   09:04-02 4885<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903221221+++TIME=0903221221<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   09:03-46 5204<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  108092  Function: 0  Alpha:   09:02-04 plse call ext 6540<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:02-33 22/12/2021 08:58:06 INC 24859941 09E01 3RD HOLE ON THE GREEN, LEE PARK GOLF CLUB, CHILDWALL VALLEY ROAD, CHILDWALL L16, L27 3YA Male 71Y FELL TO THE FLOOR CANT TALK GRD 343715 387941
+POCSAG1200: Address: 2089560  Function: 1 
+POCSAG1200: Address:   11845  Function: 0  Alpha:   09:02-63 3607<NUL>
+POCSAG1200: Address: 1312724  Function: 2  Alpha:   09:02-32 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1324228  Function: 2  Alpha:   09:02-37 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312710  Function: 2  Alpha:   09:02-34 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312722  Function: 2  Alpha:   09:02-33 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312723  Function: 2  Alpha:   09:02-32 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312709  Function: 2  Alpha:   09:02-35 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312729  Function: 2  Alpha:   09:02-34 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312725  Function: 2  Alpha:   09:02-33 This iK`` pager test<NUL><NUL>
+POCSAG1200: Address: 1312711  Function: 2  Alpha:   09:02-33 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312712  Function: 2  Alpha:   09:02-37 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312714  Function: 2  Alpha:   09:02-52 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312717  Function: 2  Alpha:   09:02-31 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312718  Function: 2  Alpha:   09:02-34 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312719  Function: 2  Alpha:   09:02-34 This is a pager test<NUL><NUL>
+POCSAG1200: Address: 1312720  Function: 2  Alpha:   09:02-33 This is a pager test<NUL><NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   09:02-59 22/12/2021 09:00:14 INC 24859949 06E01 37 CLAYTON CRESCENT, SOUTH SHORE BLACKPOOL, FY4 3PS Female 72Y ASTHMA, DIB GRD 332070 432640
+POCSAG2400: Address: 1913951  Function: 2  Alpha:   09:02-73 2618<NUL>
+POCSAG1200: Address: 1515986  Function: 0 
+POCSAG1200: Address:  678562  Function: 0 
+POCSAG1200: Address: 1949137  Function: 3  Alpha:   __
+POCSAG1200: Address:  108029  Function: 0  Alpha:   09:01-91 plse call x3188<NUL>
+POCSAG2400: Address: 1022474  Function: 0  Alpha:   09:01-78 ENCAPS require Camatu Flow Meter used to calibrate Lab Impex Beta in Air Monitors. Please contact (019467) 73240 or 07812002814 if you can help - SSM<LF>
+POCSAG2400: Address: 1022475  Function: 0  Alpha:   09:01-43 ENCAPS require Camatu Flow Meter used to calibrate Lab Impex Beta in Air Monitors. Please contact (019467) 73240 or 07812002814 if you can help - SSM<LF>
+POCSAG1200: Address:  290132  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1761516  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address:   80108  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address: 1512851  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032066  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290166  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512845  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290188  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290177  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031552  Function: 3  Alpha:   !<ACK>
+POCSAG2400: Address: 1323896  Function: 2  Alpha:   09:00-26 4262<NUL>
+POCSAG1200: Address: 1740656  Function: 2 
+POCSAG1200: Address:   80196  Function: 2  Alpha:   H<FF>
 POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0858221221+++TIME=0858221221<NUL>
 POCSAG2400: Address: 1913701  Function: 2  Alpha:   08:58-84 5201<NUL>
@@ -952,49 +998,3 @@ POCSAG1200: Address: 1319029  Function: 2
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 2032009  Function: 3 
 POCSAG2400: Address:   87105  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:18-78 3157<NUL>
-POCSAG1200: Address:  510499  Function: 3  Alpha:   X\<GS>L]<FF>D<ACK><ETB><VT>$HYZ<BS>D<EM><HT>:<LF>t(J<BS>4<ACK>W6vF<ACK>4<ACK>w<ACK><BEL><ACK><ACK><NUL>
-POCSAG1200: Address: 1322184  Function: 2  Alpha:   22:17-85 Resource comment received for Incident 2112007430;  TO MDT - FURTHER CALL FROM ORIGINAL CALLER - STATING PEOPLE ARE INSIDE BEFORE CLEARING THE LINE<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:16-77 3157<NUL>
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   Xf
-POCSAG1200: Address: 1999650  Function: 2 
-POCSAG1200: Address: 1089611  Function: 2  Alpha:   22:14-92 21/12/2021 22:13:46 INC 24858552 17 PEEL STREET, LEIGH, WN7 1XF Male 64Y STABBED IN THE HEAD GRD 365335 400528
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   22:14-17 3298<NUL>
-POCSAG2400: Address: 2011264  Function: 3  Alpha:   <BS>5:;<EM>h[<EM>h0<CAN><ESC>[<SO>H,l+LlK<FF>L,<FF>HLL.<FF>L.<FF><CR><VT>hp;k[<FS>y\<SO>(<CR>Lk<CR>mLm-<CR><CR>(+L<VT><SO>NLmmL
-POCSAG2400: Address: 1814995  Function: 0  Alpha:   f<STX>
-POCSAG1200: Address:  600638  Function: 0  Alpha:   22:13-11 PLEASE CALL LORELL WARD ON EXT 6696 
-POCSAG1200: Address: 1089611  Function: 2  Alpha:   22:12-91 21/12/2021 22:10:06 INC 24858539 OUTSIDE, 198 STATION ROAD, SWINTON MANCHESTER, M27 6BY Male 35Y RTC VAN CRASHED IN TO CAR GRD 377934 402399 <SOH>
-POCSAG1200: Address: 2008954  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   22:12-69 21/12/2021 22
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1034802  Function: 0  Alpha:   2'<BEL>Ok<SOH>5(
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   22:12-48 2343<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   22:11-66 21/12/2021 22:07:00 INC 24858526 10C01 73 PILKINGTON ROAD, KEARSLEY BOLTON, BL4 8JA Male 78Y M HEADACHES - PAIN IN NECK GRD 374682 404763<NUL><NUL>
-POCSAG1200: Address: 1085416  Function: 2 
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:09-16 Please call Fisk Ward 33298<NUL>
-POCSAG1200: Address: 2024976  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2208211221+++TIME=2208211221<NUL>
-POCSAG2400: Address: 1857843  Function: 3  Alpha:   ,<FF>
-POCSAG1200: Address: 1583741  Function: 0 
-POCSAG1200: Address: 2014836  Function: 3 
-POCSAG1200: Address:   42299  Function: 2  Alpha:   22:08-73 PLEASE CALL 07878 129 503 BLEEP 6609 <NUL><NUL>
-POCSAG1200: Address: 2026098  Function: 0 
-POCSAG1200: Address:  761041  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   07/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   22:06-11 21970
-POCSAG1200: Address:  514904  Function: 0 
-POCSAG1200: Address: 1016438  Function: 0 
-POCSAG2400: Address: 1322879  Function: 2  Alpha:   22:03-10 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address:  901450  Function: 2  Alpha:   22:04-75 2222<NUL>
-POCSAG2400: Address:  851304  Function: 2  Alpha:   22:03-81 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address:  149184  Function: 2  Alpha:   22:03-19 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address:  549203  Function: 2  Alpha:   22:03-33 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 2011865  Function: 1 
-POCSAG2400: Address:  549205  Function: 2  Alpha:   22:03-44 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 1323263  Function: 2  Alpha:   22:03-21 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 1322869  Function: 2  Alpha:   22:03-11 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 1322870  Function: 2  Alpha:   22:03-06 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 1242621  Function: 2  Alpha:   22:03-62 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 1322819  Function: 2  Alpha:   22:03-48 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
-POCSAG2400: Address: 1322883  Function: 2  Alpha:   22:03-46 VIROLOGY RESULTS NOW AVAILABLE VIA EMAIL <NUL>
