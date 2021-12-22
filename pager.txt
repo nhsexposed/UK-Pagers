@@ -1,3 +1,23 @@
+POCSAG1200: Address: 1511870  Function: 2  Alpha:   V<STX>
+POCSAG1200: Address: 2009786  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:23-37 2180<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN>q
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1032692  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  585450  Function: 2  Alpha:   15:22-16 2109<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:22-38 5205<NUL>
+POCSAG2400: Address: 1482996  Function: 0 
+POCSAG2400: Address: 1242697  Function: 2  Alpha:   15:21-29 PageOne Invoice Notification
+POCSAG1200: Address:  585540  Function: 2  Alpha:   15:21-44 6709<NUL>
+POCSAG2400: Address: 1913678  Function: 2  Alpha:   15:20-74 5070<NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <ACK>c
+POCSAG2400: Address: 1321586  Function: 2  Alpha:   15:20-49 63481
+POCSAG2400: Address: 1913884  Function: 2  Alpha:   15:20-68 4262<NUL>
+POCSAG1200: Address: 1512700  Function: 3  Alpha:   !p
+POCSAG2400: Address: 1458833  Function: 0  Alpha:   <SUB><VT>#C<ETX>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   15:20
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX>d
 POCSAG1200: Address: 1032982  Function: 3  Alpha:   &P
 POCSAG2400: Address:   11729  Function: 0  Alpha:   15:19-22 PLS CALL 7236111
 POCSAG1200: Address: 1220702  Function: 0 
@@ -978,23 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
 POCSAG2400: Address: 1323191  Function: 2  Alpha:   11:22-54 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
 POCSAG2400: Address:   33713  Function: 2  Alpha:   11:22-56 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
 POCSAG2400: Address: 2026080  Function: 2 
-POCSAG2400: Address: 1902208  Function: 2  Alpha:   <SYN>CS<ETX><CR>J&R<STX><CR><ACK>J<SYN><STX>9<SOH>I<SYN><US><BEL>K<DC3>O<ETX><DC1>>;?K<ETX>I<SYN><ESC><ETB>KK<BEL>3<ETX>1&;<ETB><ETX><NUL>
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   11:22-37 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1031927  Function: 3  Alpha:   Cn
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   11:22-50 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1323193  Function: 2  Alpha:   11:22-73 NHSBT - DONOR REFERRAL. Please call STAFF NURSE MARIA on Direct Dial Number 01284713130 Hospital WEST SUFFOLK HOSPITAL, BURY ST EDMUNDS Dept CRIT CARE . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address:  585450  Function: 2  Alpha:   11:22-08 3484<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   11:21-05 4660<NUL>
-POCSAG1200: Address:   30642  Function: 2  Alpha:   11:21-19 PLEASE CAN YOU PHONE ANDY CREASEY. THANK YOU<NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   11:21-70 22/12/2021 11:18:35 INC 24860484 06D01 17 POULTON ROAD, LAYTON BLACKPOOL, FY3 7DS Male 79Y BREATHING BAD GRD 332368 437899
-POCSAG1200: Address: 1032928  Function: 0 
-POCSAG2400: Address: 1913918  Function: 2  Alpha:   11:20-85 2441<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:20-11 4660<NUL>
-POCSAG1200: Address:  696528  Function: 2  Alpha:   11:20-70 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address: 1067597  Function: 2  Alpha:   11:20-29 9901173421919
-POCSAG2400: Address:   28899  Function: 0  Alpha:   11:19-04 4187<NUL>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   11:19-13 2233<NUL>
-POCSAG1200: Address:  312672  Function: 0  Alpha:   11:19-30 22/12/2021 11:08:40 INC 24860441 04D03A O/S CALIFORNIA HOUSE, BACK LANE, GREAT ECCLESTON PRESTON, PR3 0XJ Male UnknownY MALE HIT BY CAR GRD 342769 440284
-POCSAG1200: Address:  585450  Function: 2  Alpha:   11:19-07 PLEASE CALL 4115
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
-POCSAG2400: Address: 1322785  Function: 2  Alpha:   11:18-4#*NHSBT - DONOR REFERRAL. Please call STAFF NURSE LISA HORNDY on Direct Dial Number 01270278436 Hospital CREWE, LEIGHTON  Dept CRITICAL CARE POD 1  . Regards Donor Referral Line<NUL>
