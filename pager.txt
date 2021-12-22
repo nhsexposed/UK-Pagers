@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   F<EM>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   20
+POCSAG2400: Address:  583600  Function: 2  Alpha:   20:04-98 74508
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <NAK><ACK>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003221221+++TIME=2003221221<NUL>
 POCSAG1200: Address: 2025463  Function: 1 
 POCSAG1200: Address: 1594924  Function: 2  Alpha:   20:03-91 Subject: RESOURCE G15P2 DISPATCHED#Body: CALLSIGN:G15P2; INCIDENT ID:2112007726; TYPE:AIRCRAFT; SUB TYPE:AI05<NUL>
@@ -981,11 +986,6 @@ POCSAG1200: Address:  963186  Function: 0
 POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>V1L
 POCSAG1200: Address:  548160  Function: 2  Alpha:   16:41-29 2608<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><DC1>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
