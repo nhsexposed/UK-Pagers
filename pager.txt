@@ -1,3 +1,10 @@
+POCSAG2400: Address:   28927  Function: 0  Alpha:   06:04-56 2642<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603221221+++TIME=0603221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1322786  Function: 2  Alpha:   06:02-59 PLEASE COULD ONE OF THE YORKSHIRE SNODS CALL JESS (NORTH WEST SNOD) ON 07453 266 474. MANY THANKS, HUB OPERATIONS
+POCSAG2400: Address:   28896  Function: 0  Alpha:   06:01-76 2188<NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>CACL
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0558221221+++TIME=0558221221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
 POCSAG2400: Address:  549112  Function: 2  Alpha:   05:57-61 KTS TIME - Donor: 153463, Hospital: COUNTESS OF CHESTER HOSPITAL, HN1106, DOB: 29/09/1962 - KTS: 05:45
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1586516  Function: 0
 POCSAG1200: Address: 1976695  Function: 2 
 POCSAG1200: Address: 2008958  Function: 0 
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   20:06-80 Call 24858038 - Warning - Scenj Unsafe. Contract Control for further advice.
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:05-08 Test call<NUL><NUL>
-POCSAG2400: Address: 1469044  Function: 1 
-POCSAG2400: Address:  450977  Function: 0  Alpha:   <CR>NB<STX>I<SYN>Z&<SYN>^:<SOH><NAK>><SO><STX>M>VR":<SOH>-<DC2>
-POCSAG2400: Address: 1764147  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2003211221+++TIME=2003211221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address: 1322175  Function: 2  Alpha:   20:02-98 TEST PAGER PLEASE RESPOND YOUR NURSE IS SOPHIE <NUL>
