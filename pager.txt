@@ -1,3 +1,18 @@
+POCSAG1200: Address:  269100  Function: 2  Alpha:   20:44-71 22/12/2021 20:42:37 INC 24862733 06D02 47 NORTON ROAD, SYKE ROCHDALE, OL12 0BJ Male 38Y DIB GRD 389684 415283<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  334075  Function: 2  Alpha:   20:43-33 22/12/2021 20:40:11 INC 24862720 24C03 FLAT 37, 2 RIDGWAY STREET, MANCHESTER, M4 7LB Female 39Y 6 WKS PREGNANT - MISCARIAGE GRD 385597 398665<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:42-74 4187<NUL>
+POCSAG2400: Address: 1913772  Function: 2  Alpha:   20:42-16 4204<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  433973  Function: 2  Alpha:   20:42-26 Donor 153462. Please call Trudy the Midlands specialist nurse on 07385 388069 to discuss Pancreas. Unable to reach you. Thanks<SYN><STX>
+POCSAG1200: Address:  234186  Function: 2  Alpha:   20:42-48 Donor 153462. Please call Trudy the Midlands specialist nurse on 07385 388069 to discuss Pancreas. Unable to reach you. Thanks<NUL><NUL>
+POCSAG1200: Address: 1053274  Function: 2  Alpha:   W;<SOH>Q"<BEL>;/O<ETX><NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   20:41-52 3508<NUL>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   20:41-83 6380<NUL>
+POCSAG2400: Address: 1311569  Function: 0  Alpha:   &C
+POCSAG1200: Address:   80176  Function: 3  Alpha:   9<BS>VLL
+POCSAG1200: Address:   40074  Function: 2  Alpha:   20:39-67 22/12/2021 20:38:15 INC 24862715 06E01 11 GERRY WHEALE SQUARE, MANCHESTER, M14 4UY Female 48Y DIB FAINT GRD 384125 395139<NUL>
+POCSAG1200: Address: 1321863  Function: 2  Alpha:   20:39-97 22/12/2021 20:38:15 INC 24862715 06E01 11 GERRY WHEALE SQUARE, MANCHESTER, M14 4UY Female 48Y DIB FAINT GRD 384125 395139<NUL>
 POCSAG1200: Address:   40074  Function: 2  Alpha:   20:39-66 22/12/2021 20:37:33 INC 24862710 06E01 20 BROOKE AVENUE, HANDFORTH WILMSLOW SK9, SK9 3LS Female 2D GOING PURPLE AROUND MOUTH GRD 385899 383534
 POCSAG2400: Address: 1913772  Function: 2  Alpha:   20:39-15 4204<NUL>
 POCSAG2400: Address:   28894  Function: 0  Alpha:   20:37-44 5204<NUL>
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1419394  Function: 1
 POCSAG2400: Address:  716992  Function: 0 
 POCSAG2400: Address: 1095152  Function: 1 
 POCSAG2400: Address: 1487810  Function: 2 
-POCSAG2400: Address:  279475  Function: 0  Alpha:   @h
-POCSAG2400: Address:  957812  Function: 0 
-POCSAG2400: Address: 1891168  Function: 1 
-POCSAG2400: Address:  602416  Function: 3 
-POCSAG2400: Address:  761121  Function: 1 
-POCSAG2400: Address: 1152755  Function: 2  Alpha:   n@
-POCSAG2400: Address:  897315  Function: 1 
-POCSAG2400: Address: 1401825  Function: 2 
-POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&T91&1f
-POCSAG1200: Address: 1488032  Function: 2  Alpha:   ;<EM>H<CR>,<SYN>(R<DC1><NAK>hQ<DC4><DC1>hl-,<CR>m<CR><BS><CR>LmLm<FF>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:00-05 3181<NUL>
-POCSAG1200: Address:  980561  Function: 0 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   16:59-85 22/12/2021 16:57:01 INC 24861874 29D02L
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   &(
-POCSAG1200: Address: 1511985  Function: 3  Alpha:   <ACK>F
