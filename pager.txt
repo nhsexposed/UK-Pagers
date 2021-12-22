@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1743221221+++TIME=1743221221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   17:42-16 4554<NUL>
+POCSAG1200: Address: 1815006  Function: 0  Alpha:   17:42-32 12014
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &n
+POCSAG2400: Address: 2026484  Function: 0 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:40-26 4554<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   17:40-52 2304<NUL>
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   17:39-56 2343<NUL>
 POCSAG2400: Address: 1319802  Function: 2  Alpha:   17:39-48 pleasew call 6165 leya on AAU<NUL>
 POCSAG1200: Address:  325974  Function: 3  Alpha:   %2
@@ -990,11 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1618221221+++TIME=16
 POCSAG1200: Address: 1405763  Function: 0  Alpha:   ]<DC4>>???????????????????????????????????????????????????????????????????????????????<ESC><DC4><SUB><DC4><NUL><NUL>
 POCSAG1200: Address: 1534132  Function: 2  Alpha:   16:18-91 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
 POCSAG1200: Address: 1032925  Function: 3  Alpha:   Vl
-POCSAG2400: Address: 1322705  Function: 2  Alpha:   16:17-37 PLEASE CONTACT CONTROL
-POCSAG1200: Address:   80070  Function: 3  Alpha:   <SYN>R
-POCSAG1200: Address: 1692038  Function: 2  Alpha:   GRD 342961 384564
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   16:17-87 22/12/2021 16:16:09 INC 24861720 25B03W 85 ALDERMAN ROAD, SPEKE L24, L24 9LJ Male 43Y TENANT - DOWN AND LOW WANTS TO TAKE HIS LI
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   16:16-00 4167<NUL>
-POCSAG1200: Address:  585450  Function: 2  Alpha:   16:16-18 4188<NUL>
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   16:15-04 4379<NUL>
