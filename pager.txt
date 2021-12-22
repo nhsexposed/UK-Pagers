@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0813221221+++TIME=0813221221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  696528  Function: 2  Alpha:   08:12-68 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address: 1321712  Function: 2  Alpha:   08:10-86 Destination: D105 SSC In\114, Booking Ref#: 807153, Vehicle: NK67WDV. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   08:09-77 2642<NUL>
 POCSAG1200: Address:   77279  Function: 2  Alpha:   08:09-51 Whitby FIRE CALL
 POCSAG1200: Address:  272374  Function: 2  Alpha:   08:09-25 The following resources/officers have been assigned to incident DNDN012773-22122021: DN77P1 as PMP from WHI(Whitby)<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0808221221+++TIME=0808221221<NUL>
@@ -992,9 +998,3 @@ POCSAG2400: Address:  654171  Function: 0  Alpha:   r<NAK>uB<NUL>ISE<SOH>Sp
 POCSAG2400: Address:  507070  Function: 0  Alpha:   5<US>
 POCSAG2400: Address: 1667598  Function: 0  Alpha:   QQ
 POCSAG2400: Address:  737207  Function: 3  Alpha:   <GS>u
-POCSAG2400: Address:  189236  Function: 2 
-POCSAG2400: Address:  975007  Function: 3 
-POCSAG2400: Address: 1881041  Function: 1 
-POCSAG2400: Address:  990388  Function: 1 
-POCSAG2400: Address:  799338  Function: 3 
-POCSAG2400: Address:  222809  Function: 2  Alpha:   5=X_<CAN>z}<SO><CAN><US>|l<BS>p<DC4>_8x<SOH><SYN>
