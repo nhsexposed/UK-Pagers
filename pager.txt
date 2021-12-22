@@ -1,3 +1,35 @@
+POCSAG2400: Address: 1324306  Function: 2  Alpha:   09:54-98 80300
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0953221221+++TIME=0953221221<NUL>
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   09:53-61 4269<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0953221221+++TIME=0953221221<NUL>
+POCSAG2400: Address: 1324308  Function: 2  Alpha:   09:53-39 80300
+POCSAG2400: Address: 1324308  Function: 2  Alpha:   09:53-38 80300
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  583590  Function: 2  Alpha:   09:52-33 80300
+POCSAG2400: Address: 1320138  Function: 2  Alpha:   09:52-22 80300
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1321022  Function: 2  Alpha:   09:52-69 2304<NUL>
+POCSAG1200: Address:  414180  Function: 2  Alpha:   F*
+POCSAG2400: Address:  584087  Function: 2  Alpha:   09:51-11 80300
+POCSAG2400: Address:  583564  Function: 2  Alpha:   09:51-19 80300
+POCSAG1200: Address:  149135  Function: 2  Alpha:   09:51-57 Please call Bentham MC on 01524261202. RSVP<NUL><NUL>
+POCSAG2400: Address:  583507  Function: 2  Alpha:   09:51-70 80300
+POCSAG2400: Address: 1323325  Function: 2  Alpha:   09:51-09 80300
+POCSAG2400: Address:  549165  Function: 2  Alpha:   09:50-42 80300
+POCSAG2400: Address:  583557  Function: 2  Alpha:   09:50-17 80300
+POCSAG1200: Address: 2017449  Function: 3  Alpha:   <ACK><STX>
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   V"
+POCSAG1200: Address:  548160  Function: 2  Alpha:   09:50-26 2091<NUL>
+POCSAG2400: Address:  583523  Function: 2  Alpha:   09:50-42 80300
+POCSAG2400: Address:  225757  Function: 2  Alpha:   09:50-79 (sent at 09:50). J. Blaker (PoC), S. Perryman (SLO) on duty WEF 22-12-2021 09:50<NUL><NUL>
+POCSAG2400: Address: 1323337  Function: 2  Alpha:   09:50-47 80300
+POCSAG1200: Address: 1442944  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:49-58 22/12/2021 09:47:56 INC 24860116 06E01 5 CHRISTLETON AVENUE, LEFTWICH NORTHWICH CW9, CW9 8EX Female 73Y PATIENT IS AWAKE, ON OXYGEN, NOISY BREATHING, SATS T^OP TO 54 OFF OXYGEN GRD 366162 37179
+POCSAG1200: Address: 1015383  Function: 3  Alpha:   F0
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN>b
+POCSAG2400: Address:  549979  Function: 2  Alpha:   09:49-95 80300
+POCSAG2400: Address: 1324229  Function: 2  Alpha:   09:49-02 80300
+POCSAG2400: Address:  583513  Function: 2  Alpha:   09:49-93 80300
 POCSAG2400: Address:  648689  Function: 3  Alpha:   09:49-30 80300
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0948221221+++TIME=0948221221<NUL>
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   09:48-01 2283<NUL>
@@ -966,35 +998,3 @@ POCSAG1200: Address: 2024981  Function: 1
 POCSAG2400: Address:   28904  Function: 0  Alpha:   00:54-03 4187<NUL>
 POCSAG1200: Address:  306142  Function: 2  Alpha:   00:54-21 PLS CALL WARD 5EF ON 01865 221 672 RE IT ISSUES 
 POCSAG1200: Address: 1983266  Function: 2  Alpha:   00:54-90 PL+0GALL WARD 5EF ON 01865 221 672 RE IT ISSUES 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0053221221+++TIME=0053221221<NUL>
-POCSAG1200: Address:  433784  Function: 2  Alpha:   00:49-08 We are notifying you of an offer of a PANCREAS  from a 47 year old  av
-POCSAG1200: Address: 2077760  Function: 0  Alpha:   2.<ETB>'G.<SYN><BEL>".&<SI>Nf<RS>w<STX>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0048221221+++TIME=0<DLE>08221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   00:46-32 22/12/2021 00:45:31 INC 24858984 06D02 263 COAL CLOUGH LANE, BURNLEY, BB11 4DH Female 75Y FEMALE HOT - COLD DIB GRD 382820 431574<NUL><NUL>
-POCSAG2400: Address: 1833144  Function: 2 
-POCSAG2400: Address: 2009971  Function: 1 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:45-88 4316<NUL>
-POCSAG2400: Address: 1748725  Function: 0 
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address: 1044842  Function: 2  Alpha:   00:44-62 4442<NUL>
-POCSAG1200: Address: 1822207  Function: 1  Alpha:   ______________________<CR><LF><CR><LF>Boo<NUL><NUL>
-POCSAG1200: Address: 2011890  Function: 0 
-POCSAG1200: Address:  360216  Function: 2  Alpha:   00:42-77 33460
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B"<DC1>
-POCSAG1200: Address: 1479541  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   00:36-49 22/12/2021 00:33:14 INC 24858954 10C01 98 ELIZABETH STREET, CENTRAL BLACKPOOL, FY1 3NB Female 29Y CHEST PAIN GRD 331452 436475<NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   00:36-85 22/12/2021 00:33:05
-POCSAG1200: Address: 2007142  Function: 3 
-POCSAG1200: Address: 1761400  Function: 3  Alpha:   El
-POCSAG1200: Address: 1925560  Function: 0 
-POCSAG2400: Address: 1815068  Function: 0  Alpha:   00:35-15 OBSTETRIC EMERGENCY LABOUR WARD ST HELIER 00:31 THEATRE 1 <NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address:  758720  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0033221221+++TIME=0033221221<NUL>
-POCSAG1200: Address:  549755  Function: 2  Alpha:   00:33-30 INFORM:,BT28 0AJ CO ALARM,16 CHARLESTON HALL CRESCENT,GLENAVY ROAD,BAL^YMACASH,LISBURN,2P 2T,35752211 ,J 24064 65824,N4102 N4101 NO11 IO13 ,END,~~<NUL><NUL>
-POCSAG1200: Address:  549839  Function: 2  Alpha:   00:33-17 INFORM:,BT28 0AJ CO ALARM,16 CHARLESTON HALL CRE
-POCSAG1200: Address:  900728  Function: 0  Alpha:   j<DC3>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0028221221+++TIME=0028221221<NUL>
