@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <EM><FF>D`L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508221221+++TIME=0508221221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0508221221+++TIME=0508221221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   05:07-16 2008<NUL>
+POCSAG1200: Address:  108034  Function: 0  Alpha:   05:06-15 22/12/2021 04:35:25 B2DmpkMajorAlarm Status(<VT> B2 DMPK Major Alarm Activated<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   05:03-17 2664<NUL>
 POCSAG1200: Address:  548160  Function: 2  Alpha:   05:03-23 2505<NUL>
 POCSAG1200: Address:   42299  Function: 2  Alpha:   05:00-76 PLEASE CALL  <ENQ>865 221 721 <NUL><NUL>
@@ -992,9 +998,3 @@ POCSAG2400: Address:   28920  Function: 0  Alpha:   19:32-24 2339<NUL>
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:32-99 3164<NUL>
 POCSAG1200: Address: 1089611  Function: 2  Alpha:   19
 POCSAG1200: Address:  977109  Function: 0  Alpha:   Y@<ACK><DC1><US>%<EM><VT>3Y@ %o@f <ENQ>A<FF>K[CYKAnd2AHSEA<SO>%<HT>Afjnjrl@hblbff
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   19:31-07 21/12/2021 19:30:19 INC 24857952 06E01 7 HODDER AVE
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   19:31-91 21/12/2021 19:30:19 INC 24857952 06E01 7 HODDER AVENUE, CHORLEY, PR7 3PB Female 72Y dib GRD 357596 416133
-POCSAG2400: Address: 1814969  Function: 0  Alpha:   19:31-06 8399<NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<SOH><STX><DC2>0f
-POCSAG1200: Address: 1032113  Function: 2  Alpha:   B<EM>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:29-59 2097<NUL>
