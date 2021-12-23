@@ -1,3 +1,20 @@
+POCSAG1200: Address:   40089  Function: 2  Alpha:   20:44-58 23/12/2021 20:42:32 INC 24867248 28C01L PULSI PIZZA, 22 BRECK ROAD, POULTON LE FYLDE, FY6 7AA Male 55Y Q STROKE - LEFT SIDE FACIAL DROOP GRD 334894 439552<NUL><NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   20:44-56 23/12/2021 20:42:32 INC 24867248 28C01L PULSI PIZZA, 22 BRECK ROAD, POULTON LE FYLDE, FY6 7AA Male 55Y Q STROKE - LEFT SIDE FACIAL DROOP GRD 334894 439552<NUL><NUL>
+POCSAG1200: Address: 1313118  Function: 2  Alpha:   20:43-57 Resource comment received for Incident 2112008021;  TIDE TIMES - LOW WATER 23:26 23/12 - HIGH WATER IS 0203HRS 24/12 - TIDE IS ON ITS WAY OUT<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2043231221+++TIME=2043231221<NUL>
+POCSAG2400: Address: 1363921  Function: 0  Alpha:   `m
+POCSAG2400: Address: 2094400  Function: 1 
+POCSAG2400: Address: 1431224  Function: 0 
+POCSAG2400: Address: 1323883  Function: 2  Alpha:   20:43-77 2008<NUL>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   20:42-87 107204<NUL><NUL>
+POCSAG1200: Address: 1487687  Function: 2  Alpha:   20:42-00 FOR INFO 2112008013  ADD: FLAT 31 VICTORIA COURT BRIGHAM STREET MANCHESTER M112YA  INC TYPE:  PERSONS REPORTED - GM BOURNE PROCEEIDNG   TG:OPS01   FOR INFO ONLY AS: AM MENTORING OFFICER
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  695065  Function: 2  Alpha:   20:42-15 33715
+POCSAG1200: Address: 1814979  Function: 0  Alpha:   20:42-23 PLEASE CALL GRAHAM ON 07807 749 329<NUL>
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   20:41-42 23/12/2021 20:33:34 INC 24867205 31D03 2 BOW WOOD CLOSE, CHORLEY, PR7 2EG Male 61Y HALF AWAKE - HIGH BP - SUICIDLE MALE GRD 356999 416566<NUL><NUL>
+POCSAG1200: Address: 1811477  Function: 2  Alpha:   20:41-79 33867
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:39-26 3508<NUL>
 POCSAG2400: Address:   28870  Function: 0  Alpha:   20:39-65 LIASON PSYCH TO CALL 7253024 <NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   20:39-80 2343<NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   20:38-29 23/12/2021 20:36:41 INC 24867220 30A03 118 WOOLFALL HEATH AVENUE, HUYTON L36, L36 3TP Female 54Y INJURED PELVIS GRD 343754 392303<NUL><NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address:  221249  Function: 2  Alpha:   16:59-62 67678
 POCSAG1200: Address:  290120  Function: 3  Alpha:   F<NUL>
 POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-80 PROBLEM: Op<DC1>niew - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
 POCSAG2400: Address:  216251  Function: 2  Alpha:   16:56-74 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpcovc02a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpcovc02a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-71 PROBL
-POCSAG2400: Address:  216251  Function: 2  Alpha:   16:56-70 PROBLEM: Opsview - Scheduler - Collector Message Queue R
-POCSAG2400: Address: 1213037  Function: 0 
-POCSAG2400: Address: 2036912  Function: 2  Alpha:   <ACK><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-96 PROBLEM: Opsview - Scheduler - Co
-POCSAG2400: Address: 2008464  Function: 2  Alpha:   3<ETB>K<ETX>5<SOH><CR>>33<ETB><SI>S?K<ETX>5<SYN>OO<BEL><US><ETB><ETX><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-97 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc01a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc01a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-29 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-94 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc05b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc05b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 1816537  Function: 2  Alpha:   1z79Pfryyps2<NUL><NUL>
-POCSAG2400: Address: 1601679  Function: 0  Alpha:   KIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOK<SOH><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   16:55-83 Call or Calls waiting at Switchboard
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:55-02 5321<NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   16:55-07 5202<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   16:55-62 4876<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   16:54-12 5882<NUL>
