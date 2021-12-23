@@ -1,3 +1,28 @@
+POCSAG2400: Address: 1031859  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1508231221+++TIME=1508231221<NUL>
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   15:08-70 3157<NUL>
+POCSAG2400: Address:  549705  Function: 2  Alpha:   15:08-22 15:08-21 TEST
+POCSAG1200: Address:   90153  Function: 1  Alpha:   <ENQ>4<BS>Y8J<LF><EOT><SUB><CAN>i<HT>t(J<BS>4<ACK><BEL>F<ACK>g<ACK>4<SYN>W&<ACK><ACK><BEL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1508231221+++TIME=1508231221<NUL>
+POCSAG2400: Address:  549701  Function: 2  Alpha:   15:08-87 TEST<NUL>
+POCSAG2400: Address:  549697  Function: 2  Alpha:   15:08-85 TEST<NUL>
+POCSAG2400: Address:  549702  Function: 2  Alpha:   15:08-87 TEST<NUL>
+POCSAG2400: Address:  549699  Function: 2  Alpha:   15:08-86 TEST<NUL>
+POCSAG2400: Address:  549704  Function: 2  Alpha:   15:08-28 TEST<NUL>
+POCSAG1200: Address:  600628  Function: 0  Alpha:   15:08-75 TEST<NUL>
+POCSAG2400: Address: 1877587  Function: 0 
+POCSAG1200: Address: 1511856  Function: 2  Alpha:   Vr
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   15:07-84 23/12/2021 15:03:07 INC 24865860 06E01 6 ROYAL GROVE, TOLL BAR ST HELENS WA10, WA10 3NA Female 50Y CANT BREATHE GRD 349888 394246<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320200  Function: 2  Alpha:   15:07-80 5202<NUL>
+POCSAG1200: Address:  198706  Function: 1  Alpha:   <CR>N-<CR>N<CR><CR><BS>,l<DLE>,<CR>HM<FF>(r430<SYN>h<DC4>U41<DC1><NAK><VT>h5<DLE><DC3>uS<DC3><BS><DC3><CR><VT><BS><DC3><CR><BS>-Q<DC1>(3<CAN>;<EM><BS>N,<SYN>(3<VT>(P<DLE>q<DC3><BS>40R<DC3>hQ<DC4><DC1>hl,mM<CR><FF>h,<SO>M<FF>-<FF>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   15:06-51 23/12/2021 15:04:05 IN
+POCSAG1200: Address: 1630966  Function: 0 
+POCSAG1200: Address: 1259045  Function: 2  Alpha:   15:06-03 Call or Calls waiting at Switchboard
+POCSAG1200: Address:  265245  Function: 2  Alpha:   <DC2>c<EOT><ESC>L
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:05-00 5202<NUL>
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG2400: Address:  548053  Function: 2  Alpha:   15:05-69 VPS: PF<NUL>
 POCSAG2400: Address: 1913682  Function: 2  Alpha:   15:04-49 4263<NUL>
 POCSAG2400: Address: 1320721  Function: 2  Alpha:   15:03-50 2444<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1503231221+++TIME=1503231221<NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1880946  Function: 3
 POCSAG1200: Address: 1484954  Function: 0 
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   11:34-16 5205<NUL>
 POCSAG1200: Address: 1925683  Function: 2  Alpha:   11:33-75 23/12/2021 11:29:39 INC 24864982 06E01E 82 DARMONDS GREEN AVENUE, ANFIELD L6, L6 0DP Female 93Y STRUGGLING T
-POCSAG1200: Address:  618382  Function: 2  Alpha:   EP
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1747546  Function: 1 
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   11:32-13 2427<NUL>
-POCSAG2400: Address: 1913656  Function: 2  Alpha:   11:32-41 3119<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   11:32-60 2581<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   11:31-86 5201<NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   11:31-50 2432<NUL>
-POCSAG1200: Address: 1761383  Function: 3  Alpha:   <EM>D<DLE>dL
-POCSAG1200: Address: 2017494  Function: 2  Alpha:   <ETB>p
-POCSAG1200: Address:  697206  Function: 0 
-POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:29-17 3181<NUL>
-POCSAG2400: Address: 1032570  Function: 3  Alpha:   <ETX>A
-POCSAG2400: Address: 1913954  Function: 2  Alpha:   11:29-32 2304<NUL>
-POCSAG2400: Address:   28898  Function: 0  Alpha:   11:29-66 4180<NUL>
-POCSAG2400: Address: 1913696  Function: 2  Alpha:   11:29-91 4901<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address:   36793  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1128231221+++TIME=1128231221<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address:  958546  Function: 0 
-POCSAG1200: Address:  553840  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG2400: Address: 1913963  Function: 2  Alpha:   11:27-19 2233<NUL>
