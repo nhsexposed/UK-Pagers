@@ -1,3 +1,43 @@
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:29-17 3181<NUL>
+POCSAG2400: Address: 1032570  Function: 3  Alpha:   <ETX>A
+POCSAG2400: Address: 1913954  Function: 2  Alpha:   11:29-32 2304<NUL>
+POCSAG2400: Address:   28898  Function: 0  Alpha:   11:29-66 4180<NUL>
+POCSAG2400: Address: 1913696  Function: 2  Alpha:   11:29-91 4901<NUL>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG1200: Address:   36793  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1128231221+++TIME=1128231221<NUL>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG1200: Address:  958546  Function: 0 
+POCSAG1200: Address:  553840  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG2400: Address: 1913963  Function: 2  Alpha:   11:27-19 2233<NUL>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   11:27-55 PLS CALL DR BALA EXT:753080<NUL>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG1200: Address: 1475582  Function: 0 
+POCSAG1200: Address: 1032689  Function: 3  Alpha:   VD
+POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
+POCSAG1200: Address: 1875969  Function: 0 
+POCSAG1200: Address:  373336  Function: 3 
+POCSAG1200: Address: 1925483  Function: 2  Alpha:   11:26-56 123<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   11:26-67 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>+
+POCSAG2400: Address: 1323202  Function: 2  Alpha:   11:25-54 NHSBT - DONOR REFERRAL. Please call NURSE GAIL LEE on Direct Dial Number 01903285124 Hospital WORTHING HOSPIAL Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1323200  Function: 2  Alpha:   11:25-48 NHSBT - DONOR REFERRAL. Please call NURSE GAIL LEE on Direct Dial Number 01903285124 Hospital WORTHING HOSPIAL Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1323179  Function: 2  Alpha:   11:25-68 NHSBT - DONOR REFERRAL. Please call NURSE GAIL LEE on Direct Dial Number 01903285124 Hospital WORTHING HOSPIAL Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1323229  Function: 2  Alpha:   11:25-88 NHSBT - DONOR REFERRAL. Please call NURSE GAIL LEE on Direct Dial Number 01903285124 Hospital WORTHING HOSPIAL Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address:   33713  Function: 2  Alpha:   11:25-73 NHSBT - DONOR REFERRAL. Please call NURSE GAIL LEE on Direct Dial Number 01903285124 Hospital WORTHING HOSPIAL Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG1200: Address: 1321710  Function: 2  Alpha:   11:25-16 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: ce70bzk. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
+POCSAG1200: Address:  549693  Function: 2  Alpha:   11:25-95 ~PLEASE CONTACT E23 IN RELATION TO EXHAUSTING EASTERN AREA FOR A FF FOR TOMORROW NIGHT.<NUL>
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   11:25-37 5065<NUL>
+POCSAG2400: Address: 1320049  Function: 2  Alpha:   11:25-81 Contact Johnstone Control in respect of an incident
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   11:25-46 23/12/2021 11:23:37 INC 24864955 17D05 AVRO COURT - FLAT 19, ASPINALL STREET, MILLS HILL MANCHESTER, M24 2EP Male 90Y M FALLEN CHEST PAIN SOB GRD 388606 405533
+POCSAG1200: Address:   80070  Function: 3  Alpha:   FB
+POCSAG1200: Address:  312672  Function: 0  Alpha:   11:25-99 23/12/2021 11:23:37 INC 24864955 17D05 AVRO COURT - FLAT 19, ASPINALL STREET, MILLS HILL MANCHESTER, M24 2EP Male 90Y M FALLEN CHEST PAIN SOB GRD 388606 405533
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:24-12 4379<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   11:24-12 2304<NUL>
 POCSAG1200: Address:   80196  Function: 2  Alpha:   H<FF>
 POCSAG2400: Address: 1913561  Function: 2  Alpha:   11:24-04 2304<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1123231221+++TIME=1123231221<NUL>
@@ -958,43 +998,3 @@ POCSAG2400: Address: 1320280  Function: 2  Alpha:   05:46-76 5013<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   05:42-47 5013<NUL>
 POCSAG2400: Address: 2007781  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0538231221+++TIME=0538231221<NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   05:37-36 5531<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   49263  Function: 2  Alpha:   05:35-45 CARDIAC ARREST WARD 33 DMH<NUL><NUL>
-POCSAG2400: Address: 1242621  Function: 2  Alpha:   05:35-70 NHSBT - DONOR REFERRAL. Please call NURSE RANJIT MANDAIR on Direct Dial Number 01902 698 5025 Hospital NEW CROSS Dept ITU . Regards Donor Referral Lin
-POCSAG2400: Address: 1322819  Function: 2  Alpha:   05:35-57 NHSBT - DONOR REFERRAL. Please call NURSE RANJIT MANDAIR on Direct Dial Number 01902 698 5025 Hospital NEW CROSS Dept ITU . Regards Donor Referral Lin
-POCSAG2400: Address: 1322879  Function: 2  Alpha:   05:35-16 NHSBT - DONOR REFERRAL. Please call NURSE RANJIT MANDAIR on Direct Dial Number 01902 698 5025 Hospital NEW CROSS Dept ITU . Regards Donor Referral Lin
-POCSAG2400: Address: 1322882  Function: 2  Alpha:   05:35-19 NHSBT - DONOR REFERRAL. Please call NURSE RANJIT MANDAIR on Direct Dial Number 01902 698 5025 Hospital NEW CROSS Dept ITU . Regards Donor Regurral Lin
-POCSAG2400: Address: 1322886  Function: 2  Alpha:   05:35-46 NHSBT - DONOR REFERRAL. Please call NURSE RANJIT MANDAIR on Direct Dial Number 
-POCSAG2400: Address:  549065  Function: 2  Alpha:   05:35-40 NHSBT - DONOR REFERRAL. Please call NURSE RANJIT MANDAIR on Direct Dial Number 01902 698 5025 Hospital NEW CROSS Dept ITU . Regards Donor Referral Lin
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   05:34-08 2561<NUL>
-POCSAG2400: Address:  532592  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0533231221+++TIME=0533231221<NUL>
-POCSAG512: Address: 1974390  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1013917  Function: 2  Alpha:   05:27-63 DSCC PIN 10128, DUTY CASE, PLEASE CALL 03457 500 620 
-POCSAG1200: Address: 1745891  Function: 0 
-POCSAG1200: Address: 1032690  Function: 0 
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523231221+++TIME=0523231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1592176  Function: 3 
-POCSAG1200: Address: 1913536  Function: 2  Alpha:   <ENQ>J6<STX><GS>J<DC2><STX>MMQ]]a<SOH>MeQ]Ae<SOH>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   05:20-63 50795
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518231221+++TIME=0518231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   05:16-62 50795
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   05:10-25 3508<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0508231221+++TIME=0508231221<NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   05:04-10`<DC2>3/12/2021 05:02:35 INC 24863997 31E01 70 SAXONY ROAD, KENSINGTON L7, L7 8RU Female 20Y FAINTED GRD 336421 390719
-POCSAG2400: Address: 1320366  Function: 2  Alpha:   05:03-27 5276<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503231221+++TIME=0503231221<NUL>
-POCSAG1200: Address:  269111  Function: 2 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address: 2088912  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2072918  Function: 0 
