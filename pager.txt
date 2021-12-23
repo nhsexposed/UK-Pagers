@@ -1,3 +1,28 @@
+POCSAG2400: Address: 1913645  Function: 2  Alpha:   15:48-55 4791<NUL>|<DEL><DEL>
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   15:48-01 4034<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1548231221+++TIME=1548231221<NUL>
+POCSAG2400: Address: 1323930  Function: 2  Alpha:   15:48-01 amber please dial in for the csep review<BS>ht 1600 regards eoc bow<NUL>
+POCSAG2400: Address: 1653004  Function: 2  Alpha:   <ACK>2~<SYN><BEL>"G.<ACK><SUB><RS>/<ACK><BEL><DC2>/6O.><BEL><LF>&<BEL><LF>3<ETX><ETX><ETX><DC2>/><SO><SYN>g<US>C*~<RS><ACK><DC2>~><BEL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   15:48-90 23/12/2021 15:46:19 INC 24866042 05D01 14 CALDER AVENUE, BILLINGTON NR WHALLEY, BB7 9NQ Male 52Y BACK PAIN GRD 372436 435630<NUL>
+POCSAG1200: Address: 1999603  Function: 0 
+POCSAG1200: Address: 1584800  Function: 0  Alpha:   AW
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   15:47-96 2307<NUL>
+POCSAG2400: Address: 1913708  Function: 2  Alpha:   15:47-86 2233<NUL>
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   15:47-79 4263<NUL>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   VB
+POCSAG2400: Address:   28870  Function: 0  Alpha:   15:46-58 PLS CALL DR WIN FROM BASILDON 7254201 <NUL>
+POCSAG1200: Address: 1683400  Function: 2 
+POCSAG1200: Address: 1837920  Function: 3 
+POCSAG1200: Address:  585450  Function: 2  Alpha:   15:46-28 2594<NUL>
+POCSAG1200: Address: 1039320  Function: 2  Alpha:   <SYN>3
+POCSAG2400: Address:   33713  Function: 2  Alpha:   15:45-76 NHSBT - DONOR REFERRAL. Please call DR SARAH JOLLY on Direct Dial Number 02087251290 Hospital ST GEORGES  Dept EMERGENCY  . Regards Donor Referral Lin
+POCSAG2400: Address: 1320387  Function: 2  Alpha:   15:45-37 3116<NUL>
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   15:45-78 4268<NUL>
+POCSAG2400: Address: 1913785  Function: 2  Alpha:   15:45-81 2233<NUL>
+POCSAG1200: Address: 1032913  Function: 3  Alpha:   V<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1324588  Function: 2  Alpha:   15:44-80 PLEASE CALL HOSPITAL SWITCHBOARD, CALL WAITING<NUL><NUL>
 POCSAG1200: Address: 1932984  Function: 3 
 POCSAG1200: Address:  951872  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1543231221+++TIME=1543231221<NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address:  290193  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1761232  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1547007  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   11:57-56 68943
-POCSAG1200: Address:  325955  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420458  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761265  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032192  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619135  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 2017526  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039277  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  414171  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812346  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512761  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619128  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015495  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015502  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  714757  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761453  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1485500  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761493  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1700684  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032947  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212111  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031461  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906580  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031883  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325810  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031726  Function: 2  Alpha:   !<ACK>
