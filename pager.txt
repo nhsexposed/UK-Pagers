@@ -1,3 +1,29 @@
+POCSAG1200: Address:  619020  Function: 3  Alpha:   &<LF>
+POCSAG1200: Address: 2047648  Function: 2  Alpha:   <ENQ><STX><CR>Ltd<STX><SUB>=-<FF>$Mt<<EOT><LF>t$<EOT>b,4$<ENQ><LF><DC4>m<EOT><STX><CR>Lt<EOT>:<DC4>%<EOT><SUB>3<ESC><ESC>3+<ETX><SUB>;<DC3><VT><ESC><VT>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1103231221+++TIME=1103231221<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:03-52 4110<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  940431  Function: 2  Alpha:   11:03-44 Call 24864856 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   11:02-39 3144<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:02-61 5897<NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   11:01-20 97
+POCSAG2400: Address:   28896  Function: 0  Alpha:   11:01-30 5897<NUL>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG1200: Address: 1511945  Function: 2  Alpha:   &<EOT>
+POCSAG1200: Address: 1751792  Function: 0 
+POCSAG1200: Address:  396958  Function: 1  Alpha:   <ESC>h<<EM>;y<CAN>=Z{<EM>H<CAN><NUL>gS<ESC><BS>1<GS>=^<CAN> G<VT>(P;<RS>(X=8<SUB>;X8<SUB>;<SUB>=<RS>(z|<=y<FS>hx[<ESC>=x<CAN><GS>(P<ESC>9<RS><BS>5]\;Y<FS><BS>l-n<CR>L<FF>mL<CR>lL<VT><BS>(3Y\<<RS>h<DLE>Z<z<FS>=;x\<VT><NUL>
+POCSAG1200: Address: 1978998  Function: 0 
+POCSAG1200: Address: 1031513  Function: 3  Alpha:   v0
+POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG2400: Address: 1323894  Function: 2  Alpha:   11:00-16 4187<NUL>
+POCSAG2400: Address:  549033  Function: 2  Alpha:   11:00-28 ***TEST CRASH TEST ***
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   11:00-76 2343<NUL>
+POCSAG1200: Address: 1893469  Function: 2  Alpha:   <SOH><GS>J<SYN><ACK>R<STX>MVRR>:<STX><NAK>22<SYN>N6<SYN>J<SYN><STX>A>JR<STX><CR>"ZY1<SOH><CR>"ZY<SOH>IQ^<STX>5<ACK>3<ETB><ETX>]Ae<STX>U:<SO>>:N<SO>&>VN<STX>9>&Nf<STX><HT>J<SYN><ACK>R"&:<RS><STX><GS>J<DC2><STX>MMa]eE<SOH>M]QeII<SOH><NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   11:00-39 23/12/2021 10:59:09 INC 24864855 09E02 29 HOPE FARM R
+POCSAG2400: Address: 1913993  Function: 2  Alpha:   11:00-10 3106<NUL>
+POCSAG1200: Address: 1321859  Function: 2  Alpha:   11:00-70 PC THOMAS REGARDING SADAA RIAZ AT PERRI BAR CUSTODY BIRMINGHAM ON 0121 322 6098 <NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   11:00-79 Case ref 11276206 Fill in tick sheet
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   10:59-09 4188<NUL>
 POCSAG2400: Address: 1652749  Function: 2  Alpha:   10
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
@@ -972,29 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353231221+++TIME=03
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1089603  Function: 2  Alpha:   03:52-29 23
 POCSAG1200: Address:  134364  Function: 1  Alpha:   <EM><FS><ESC><ESC><DLE>Y<FS>"<CAN>Y&Pg*ji$b"<SYN><DLE>*d"<DLE>d*'j$g#j''<SYN><DLE>g')*dfg')<DLE>ig "<SYN><DLE>f'gcid#$*Pf g!db)j")<SYN>Pf<CAN><EM><DLE><SUB>$(<DLE>crv0v2<DLE>ZY,<DLE>ab"'<DLE>i 'P'k")P#)"P<EM>\[X<ESC><FS>PY\<SUB><ESC><FS><FS>
-POCSAG1200: Address: 1876830  Function: 0 
-POCSAG2400: Address: 1469041  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0348231221+++TIME=0348231221<NUL>
-POCSAG1200: Address: 2095064  Function: 3 
-POCSAG1200: Address: 1875974  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   03:46-02 23/12/2021 03:43:57 INC 24863858 30D03 OUTSIDE, SILVERTOWN CABS & TAXIS WOOD STREET MILL, WOOD STREET, MACCLESFIELD SK11, SK11 6JQ Male 30Y Q BROKEN FOOT GRD 391772 373393
-POCSAG2400: Address: 1323593  Function: 2  Alpha:   03:45-50 Please call 5442. End of message<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0343231221+++TIME=0343231221<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   <DLE>!<DC2>43-75 4314<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  549881  Function: 2  Alpha:   03:42-67 ATTEND:<LF>CO ALARM<LF>7 IONA GARDENS,.,BALLYMENA,ANTRIM<LF>0P 2T<LF>35838211<LF>D 11685 02721<LF>N1102 N1171 NO04 NO13<LF>END
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:41-59 4387<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   03:39-74 4156<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0338231221+++TIME=0338231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   03:36-56 2233<NUL>
-POCSAG1200: Address:  306142  Function: 2  Alpha:   03:34-37 PLEASE CALL OXFORD NEUROSURGERY ON 07878 129 503, OR BLEEP 6609<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0333231221+++TIME=0333231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0333231221+++TIME=0333231221<NUL>
-POCSAG2400: Address: 1008210  Function: 2  Alpha:   03
-POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:32-66 PLEASE CALL RE MORRIS MARSH HAS PASSED AWAY ON 07733 551 501<NUL><NUL>
-POCSAG1200: Address: 1214147  Function: 0  Alpha:   ''<VT><HT>A<STX>/<ETX>3A<RS><GS>A`nnff@jjb@j`b<NUL><NUL>
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   03:32-76 PLEASE CALL RE MORRIS MARSH HA
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  611928  Function: 3 
