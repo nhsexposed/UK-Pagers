@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203231221+++TIME=0203231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0203231221+++TIME=02 2261221<NUL>
+POCSAG1200: Address:  929936  Function: 1 
+POCSAG1200: Address:   40088  Function: 2  Alpha:   02:01-34 32026
+POCSAG1200: Address:  678665  Function: 2  Alpha:   02:00-70 Case ref 11276206 Fill in tick sheet
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158231221+++TIME=0158231221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0158231221+++TIME=0158231221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1323724  Function: 2  Alpha:   18:32-57 4114<NUL>
 POCSAG2400: Address: 1913953  Function: 2  Alpha:   18:31-44 4462<NUL>
 POCSAG1200: Address: 1321717  Function: 2  Alpha:   18:31-65 Destination: Parking\D78 Ext TP, Booking Ref#: 806647, Vehicle: nv70bhk. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
 POCSAG1200: Address: 2007161  Function: 0 
-POCSAG1200: Address: 1480305  Function: 0 
-POCSAG1200: Address:  290052  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1913768  Function: 2  Alpha:   18:30-68 4187<NUL>
-POCSAG1200: Address: 1236704  Function: 0  Alpha:   <NUL><STX>
-POCSAG1200: Address: 1843872  Function: 0 
