@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1816000  Function: 2 
+POCSAG2400: Address:  402816  Function: 2  Alpha:   <STX><DC2>-><SO><SYN>'<RS><BEL>"|v~<SYN><BEL><DC2>-6.<SYN><ETB><SI>f<ACK>bLv.
+POCSAG2400: Address:   28899  Function: 0  Alpha:   07:29-79 5204<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728231221+++TIME=0728231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0728231221+++TIME=0728231221<NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   07:27-58 5400<NUL>
+POCSAG2400: Address:   28920  Function: 0  Alpha:   07:26-29 2183<NUL>
+POCSAG1200: Address:  618883  Function: 2  Alpha:   07:24-42 Daily Test Message<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   07:24-23 23/12/2021 07:21:49 INC 24864238 13D01 15 BOARSHAW CLOUGH, BOARSHAW MANCHESTER, M24 2NG Female 32Y OOH GP-TRYING TO RING PAT, NO ANSWER PASSED DUE TO DIABETIC PROBS GRD 387624 406765
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0723231221+++TIME=0723231221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1022475  Function: 0  Alpha:   21:02-48 Exercise- Comms exe
 POCSAG1200: Address:  216350  Function: 2  Alpha:   21:07534 Resource comment received for Incident 2112007751;  TO MDT - DOOR ENTRY CODE PRESS CODE 2021<NUL>
 POCSAG2400: Address:   28964  Function: 0  Alpha:   21:00-91 BBCI CALL 01276 526 839<NUL><NUL>
 POCSAG1200: Address: 1022663  Function: 0  Alpha:   21:00-31 *TEST FIRE TEST*
-POCSAG1200: Address:   42299  Function: 2  Alpha:   20:59-83 CALL 07583 250 847<NUL>
-POCSAG1200: Address:  306142  Function: 2  Alpha:   20:59-30 CALL 07583 250 847<NUL>
-POCSAG1200: Address:  865416  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2058221221+++TIME=2058221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2058221221+++TIME=2058221221<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:58-29 Please call Marjory Warren Ward 33301<NUL><NUL>
-POCSAG1200: Address: 1323538  Function: 2  Alpha:   20:57-07 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address:   16904  Function: 3  Alpha:   9<ESC>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
