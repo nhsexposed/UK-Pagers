@@ -1,3 +1,18 @@
+POCSAG1200: Address:  585540  Function: 2  Alpha:   13:43-53 3<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  230940  Function: 2  Alpha:   %R
+POCSAG512: Address:  600606  Function: 0  Alpha:   13:42-53 TEST CALL <NUL>
+POCSAG2400: Address:  699880  Function: 1 
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   13:41-18 4387<NUL>
+POCSAG1200: Address:  585540  Function: 2  Alpha:   13:41-52 3994<NUL>
+POCSAG2400: Address: 1913840  Function: 2  Alpha:   13:41-54 2182<NUL>
+POCSAG2400: Address:  549007  Function: 2  Alpha:   13:40-39 please call 8263
+POCSAG2400: Address: 1022629  Function: 0  Alpha:   13:40-71 Category 1 C Section CAT 1 C SECTION TO OBSTETRIC THEATRETheatre<NUL>
+POCSAG1200: Address:  230940  Function: 2  Alpha:   %R
+POCSAG2400: Address:   28905  Function: 0  Alpha:   13:40-01 4411<NUL>
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:40-54 4387<NUL>
+POCSAG1200: Address:  336389  Function: 2  Alpha:   13:39-44 Alarm#32057 13:39 Error=0 Late=1, <CR><LF>Reuters\IndexRics [Late]<CR><LF>----------------<CR><LF>Reuters\IndexRics: Run up but Auto Mode not Started
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   13:39-88 3<NUL>
 POCSAG1200: Address: 1039338  Function: 3  Alpha:   b<EOT>
 POCSAG1200: Address: 1312466  Function: 2  Alpha:   13:38-55 68373
 POCSAG1200: Address: 1312467  Function: 2  Alpha:   13:38-98 68373
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1925527  Function: 2  Alpha:   10:17-33 23/12/2021 10:15:09
 POCSAG1200: Address:  585450  Function: 2  Alpha:   10:17-23 3503<NUL>
 POCSAG1200: Address: 2017594  Function: 3  Alpha:   E<EM>
 POCSAG2400: Address: 1914025  Function: 2  Alpha:   10:15-98 4034<NUL>
-POCSAG1200: Address:  363869  Function: 2  Alpha:   10:15-98 23/12/2021 10:07:26 INC 24864679 09D01 46 HAGGERSTON ROAD, WALTON L4, L4 6SB Female 65Y Q STROKE GRD 336460 394784<NUL><NUL>
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   10:15-31 23/12/2021 10:07:26 INC 24864679 09D01 46 HAGGERSTON ROAD, WALTON L4, L4 6SB Female 65Y Q STROKE GRD 336460 394784<NUL><NUL>
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   10:15-81 23/12/2021 10:13:40 INC 24864704 06E01 9 WEW4 VIEW, STACKSTEADS BACUP, OL13 0NX Male 86Y DIB - CANT HARDLY WALK GRD 384574 421704<NUL><NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:15-51 23/12/2021 10:14:16 INC 24864707 10D02 32 INNES CLOSE, ROCHDALE, OL12 7BA Male 60Y DIB - CHEST PAIN GRD 388119 414186<NUL><NUL>
-POCSAG2400: Address:  864722  Function: 2 
-POCSAG2400: Address: 1320721  Function: 2  Alpha:   10:15-44 4835<NUL>
-POCSAG1200: Address: 1116176  Function: 1  Alpha:   <LF>8
-POCSAG1200: Address:   80184  Function: 2  Alpha:   XB
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1013231221+++TIME=1013231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1013231221+++TIME=1013231221<NUL>
-POCSAG2400: Address: 1913687  Function: 2  Alpha:   10:13-06 3539<NUL>
-POCSAG1200: Address: 2025461  Function: 1 
-POCSAG1200: Address: 1485588  Function: 3  Alpha:   VF
-POCSAG1200: Address:  548159  Function: 2  Alpha:   10:13-76 3919<NUL>
-POCSAG1200: Address:  930510  Function: 2  Alpha:   10:13-56 23/12/2021 10:11:33 INC 24864696 06E01 91 THORNS ROAD, HALLIWELL BOLTON, BL1 6PD Female 70Y CANT CATCH HER BREATH GRD 370739 411444
