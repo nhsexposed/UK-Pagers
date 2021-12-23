@@ -1,3 +1,30 @@
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   14:14-52 4114<NUL>
+POCSAG2400: Address: 1323941  Function: 2  Alpha:   14:13-01 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1324028  Function: 2  Alpha:   14:13-14 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1324078  Function: 2  Alpha:   14:13-32 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1324054  Function: 2  Alpha:   14:13-62 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1324056  Function: 2  Alpha:   14:13-62 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1413231221+++TIME=1413231221<NUL>
+POCSAG2400: Address: 1323926  Function: 2  Alpha:   14:13-22 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1324068  Function: 2  Alpha:   14:13-78 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1324023  Function: 2  Alpha:   14:13-52 SEL 111 is in front end escalation - DMP 4 - For info only. 02082536951/07557565895. SEL Ops MB.
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1413231221+++TIME=1413231221<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <ENQ>l
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   14:13-19 4316<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   14:13-65 2343<NUL>
+POCSAG1200: Address: 1323595  Function: 2  Alpha:   14:12-77 ~FOR INFO FF BARRY I/A AT S13 STATION TO GIVE IT A CLEAN BEFORE AMBER CLEANING ARRIVE
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   14:12-45 23/12/2021 14:09:32 INC 24865634 36A03A 34 TRECASTLE ROAD, NORTHWOOD KIRKBY L33, L33 9XF Female 13Y fever 41.0 GRD 342530 399718
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   14:12-64 2317<NUL>
+POCSAG2400: Address: 1323896  Function: 2  Alpha:   14:11-36 2541<NUL>
+POCSAG1200: Address:  108029  Function: 0  Alpha:   14:11-00 plse call x3114<NUL>
+POCSAG2400: Address:  225623  Function: 2  Alpha:   14:10-10 Gregor can you ring the control room x3362 asap thanks<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:10-98 23/12/2021 14:07:56 INC 24865629 17D05 5 HUNTER AVENUE, SHAVINGTON CREWE CW2, CW2 5AG Female 66Y FALL GRD 370626 353080
+POCSAG1200: Address:  618949  Function: 2  Alpha:   14:10-89 2')12-21 14:00 WEEKLY TEST, PLEASE CALL SECURITY TO CONFIRM RECEIPT OF THIS MESSAGE. EXT 5348
+POCSAG1200: Address:  725894  Function: 2  Alpha:   14:10-56 WEEKLY TEST, PLEASE CALL SECURITY TO CONFIRM RECEIPT OF THIS MESSAGE. EXT 5348<NUL>
+POCSAG1200: Address: 1534210  Function: 2  Alpha:   14:10-95 (2/2) ref  437151,120887 
+POCSAG1200: Address:  820853  Function: 2  Alpha:   14:10-69 WEEKLY TEST, PLEASE CALL SECURITY TO CONFIRM RECEIPT OF THIS MESSAGE. EXT 5348<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:09-95 2018<NUL>
 POCSAG1200: Address:  548207  Function: 2  Alpha:   14:09-01 580075<NUL><NUL>
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   14:08-59 69001
 POCSAG1200: Address:  679608  Function: 2  Alpha:   14:08-29 69001
@@ -971,30 +998,3 @@ POCSAG1200: Address:  600790  Function: 0  Alpha:   10:44-00 PLS CALL TONY 07385
 POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1043231221+++TIME=1043231221<NUL>
 POCSAG1200: Address:  696953  Function: 2  Alpha:   10:43-42 Testing/Testing Primary PCI Bleeps, Please respond to BACU on Ext 3246 or 2012 (Message sent by Ashford and St Peters Hospitals)
-POCSAG1200: Address:  695144  Function: 2  Alpha:   10:43-73 Testing/Testing Primary PCI Bleep
-POCSAG1200: Address:  443544  Function: 0  Alpha:   <SUB><ESC>P79<DLE><EM>X<CAN><EM><DLE>Tfryyps2Py27:<DLE>q<P`94s792P072P):<DLE>h2z2y9<DLE>dw9x4z0vy<DC4>
-POCSAG2400: Address: 1913756  Function: 2  Alpha:   10:42-03 4462<NUL>
-POCSAG2400: Address:  588009  Function: 2  Alpha:   10:42-97 2798<NUL>
-POCSAG2400: Address:   28925  Function: 0  Alpha:   10:41-26 2272<NUL>t?{
-POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
-POCSAG2400: Address: 1322869  Function: 2  Alpha:   10:40-19 NHSBT - DONOR REFERRAL. Please call CONS MATT
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   10:40-87 2999<NUL>
-POCSAG2400: Address: 1879926  Function: 0 
-POCSAG2400: Address: 1322822  Function: 2  Alpha:   10:40-49 NHSBT - DONOR REFERRAL. Please call CONS MATTHEW HARVEY on Direct Dial Number 07724907352 Hospital BIRMINGHAM CHILDRENS Dept ICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address: 1534259  Function: 2  Alpha:   10:40-87 BOS[3Mobile;0jttps://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1035385  Function: 2  Alpha:   Z;Y<<RS>(3<CAN><FS>H<Y<EM><BS><BS>-mL,n<FF>+<FF>L-<SO>-<CR><BS><NUL><NUL>
-POCSAG1200: Address:  619026  Function: 2  Alpha:   v@
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1038231221+++TIME=1038231261<BEL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   10:38-36 4418<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CXIL
-POCSAG1200: Address: 1812483  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   80163  Function: 3  Alpha:   FR
-POCSAG2400: Address:  734592  Function: 0 
-POCSAG2400: Address: 2092408  Function: 1 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:36-46 4312<NUL>
-POCSAG2400: Address: 1913756  Function: 2  Alpha:   10:35-02 4462<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:35-55 23/12/2021 10:32:35 INC 24864767 10D04 5 THIRLMERE MEWS, MIDDLETON MANCHESTER, M24 5BB Female 41Y CHEST PAIN GRD 386403 407010<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1033231221+++TIME=1033231221<NUL>
-POCSAG2400: Address:  300899  Function: 2  Alpha:   <ACK><NUL>
-POCSAG1200: Address:  901465  Function: 2  Alpha:   10:34-32 PLS CALL JOHN COMBE 07969 104 898 <NUL><NUL>
