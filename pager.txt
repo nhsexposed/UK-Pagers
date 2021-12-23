@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308231221+++TIME=0308231221<NUL>
+POCSAG1200: Address:  114413  Function: 2  Alpha:   03:08-04 ~LEVEL 2 <NUL><NUL>
+POCSAG1200: Address:   11760  Function: 0  Alpha:   03:08-09 03:08-08 ~LEVEL 2 <NUL>
+POCSAG1200: Address:  372193  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:   11678  Function: 0  Alpha:   03:04-41 PLEASE CALL SITE 94 SHED ON 01394 613 458<NUL>
 POCSAG1200: Address:  216342  Function: 2  Alpha:   03:04-79 Destination: D105 SSC In\123, Booking Ref#: 807306, Vehicle: FJ21UMC. If no more Booking Re
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303231221+++TIME=0303231221<NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1321854  Function: 2  Alpha:   19:<DLE><SOH>-50 01539732288
 POCSAG1200: Address:   74752  Function: 2  Alpha:   wy2<DLE>z7<DLE>Z<ESC>Z<SUB>
 POCSAG1200: Address: 1612581  Function: 0  Alpha:   %-<DC4>e<STX>j<DC4>C<ETX><STX><DC3>
 POCSAG2400: Address:   28902  Function: 0  Alpha:   19:02-43 2118<NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   19:02-17 4387<NUL>
-POCSAG2400: Address: 1321854  Function: 2  Alpha:   19:00-48 TEST PAGE <NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:00-13 3157<NUL>
-POCSAG2400: Address:  585013  Function: 2  Alpha:   18:59-73 PLEASE CALL MEHRAN ON 07730 798 734. RE: NEED ADVICE REGARDING ON A FRAUDULENT ACTIVITY.
-POCSAG1200: Address:  600915  Function: 0 
