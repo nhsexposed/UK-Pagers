@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523231221+++TIME=0523231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1592176  Function: 3 
+POCSAG1200: Address: 1913536  Function: 2  Alpha:   <ENQ>J6<STX><GS>J<DC2><STX>MMQ]]a<SOH>MeQ]Ae<SOH>
+POCSAG1200: Address:  227361  Function: 0  Alpha:   05:20-63 50795
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518231221+++TIME=0518231221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  227361  Function: 0  Alpha:   05:16-62 50795
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1031493  Function: 2  Alpha:   <NAK><ACK>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003221221+++TIME=2003221221<NUL>
 POCSAG1200: Address: 2025463  Function: 1 
 POCSAG1200: Address: 1594924  Function: 2  Alpha:   20:03-91 Subject: RESOURCE G15P2 DISPATCHED#Body: CALLSIGN:G15P2; INCIDENT ID:2112007726; TYPE:AIRCRAFT; SUB TYPE:AI05<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   20:02-14 4157<NUL>
-POCSAG1200: Address:  905839  Function: 1 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   20:02-13 4157<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:01-25 Test call.<NUL>
-POCSAG1200: Address: 2011750  Function: 1 
