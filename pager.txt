@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1814983  Function: 2  Alpha:   12:44-39 Please Call - Dr Micheal Tasker 01483464824 ext 3483<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1243231221+++TIME=1243231221<NUL>
+POCSAG2400: Address: 1976695  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1243231221+++TIME=1243231221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:43-92 4172<NUL>
+POCSAG1200: Address:  353219  Function: 0  Alpha:   12:43-58 03316512011
+POCSAG1200: Address: 1483380  Function: 1 
+POCSAG1200: Address:  553840  Function: 3  Alpha:   F0
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   12:42-52 5205<NUL>
+POCSAG1200: Address: 1259045  Function: 2  Alpha:   12:42-99 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:42-51 4660<NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   12:42-31 Call 24865254 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  312672  Function: 0  Alpha:   12:42-13 Call 24865254 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   12:41-32 5507<NUL>
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   12:40-58 5013<NUL><UH
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   12:39-65 2184<NUL>
+POCSAG1200: Address: 1322009  Function: 2  Alpha:   12:39-74 PLS CALL JOAN BUCKER WARD 2291
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   12:39-16 23/12/2021 12:38:37 INC 24865248 29D02L O/S, TOP SPOT CLUB, 48-50 MARKET STREET, HINDLEY WIGAN, WN2 3AN Male 25Y RTC GRD 361830 404572<NUL><NUL>
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U&
 POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:38-65 5076<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238231221+++TIME=1238231221<NUL>
 POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:38-51 12345
@@ -976,25 +998,3 @@ POCSAG2400: Address: 1991250  Function: 1
 POCSAG2400: Address: 1322897  Function: 2  Alpha:   09:25-26 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153306, Donor hospital - ROYAL BERKSHIRE HOSPITAL , Donor DOB - 07/03/1988.<NUL>
 POCSAG2400: Address: 1322526  Function: 2  Alpha:   09:25-18 80300
 POCSAG1200: Address:  360002  Function: 0  Alpha:   09:25-49 23/12/2021 09:24:07 INC 24864535 06D02 1 BIRTWISTLE EAST LEMES, COLNE, BB8 0LA Female 70Y STRUGGLING TO BREATH GRD 389432 440030
-POCSAG2400: Address:  584658  Function: 2  Alpha:   09:24-82 80300
-POCSAG2400: Address: 1323059  Function: 2  Alpha:   09:24-91 80300
-POCSAG1200: Address: 1221104  Function: 0 
-POCSAG1200: Address: 2052088  Function: 3 
-POCSAG1200: Address:  585543  Function: 2  Alpha:   09:24-52 3991<NUL>
-POCSAG2400: Address: 1323650  Function: 2  Alpha:   09:24-87 80300
-POCSAG2400: Address:   28895  Function: 0  Alpha:   09:24-47 5128<NUL>
-POCSAG2400: Address:  583842  Function: 2  Alpha:   09:24-61 80300
-POCSAG1200: Address: 1032197  Function: 3  Alpha:   <NAK><ACK>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0923231221+++TIME=0923231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0923231221+++TIME=0923231221<NUL>
-POCSAG2400: Address: 1044811  Function: 2  Alpha:   09:23-18 80300
-POCSAG2400: Address:  583506  Function: 2  Alpha:   09:23-61 80300
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   09:23-21 23/12/2021 09:21:35 INC 24864526 06E01 ENFIELD HOUSE - FLAT 47, ENFIELD CLOSE, ECCLES MANCHESTER, M30 0GD Male 85Y DIB GRD 376530 397975
-POCSAG1200: Address: 1992909  Function: 2  Alpha:   <SOH>5NA<SOH>A<GS><DC2><STX>5<ACK>3<ETB><ETX>aUe<STX><DC1>&<LF><STX><GS>J<DC2><STX>M]YUMA<SOH>Me]e]U
-POCSAG1200: Address:  334075  Function: 2  Alpha:   09:23-47 23/12/2021 09:21:35 INC 24864526 06E01 ENFIELD HOUSE - FLAT 47, ENFIELD CLOSE, ECCLES MANCHES
-POCSAG2400: Address:  583548  Function: 2  Alpha:   09:23-44 80300
-POCSAG2400: Address: 1324302  Function: 2  Alpha:   09:22-40 80300
-POCSAG2400: Address:  584089  Function: 2  Alpha:   09:22-55 80300
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  549791  Function: 2  Alpha:   09:22-83 80300
-POCSAG2400: Address: 1913715  Function: 2  Alpha:   0<US>>22-88 2338<NUL>
