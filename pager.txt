@@ -1,3 +1,27 @@
+POCSAG2400: Address:   28919  Function: 0  Alpha:   17:05-62 4379<NUL>
+POCSAG2400: Address: 1286944  Function: 1  Alpha:   dulovc02a<CR><LF>Service: Opsview - Results Sender - Message Queue Rate<CR><LF>Ho<NUL><NUL>
+POCSAG2400: Address: 2024044  Function: 0 
+POCSAG2400: Address:  988352  Function: 3  Alpha:   5(L<STX><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:57-61 PROBLEM:
+POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-53 PROBLEM: GMMHACLVDA11A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA11A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Tue Dec 21 21:07:14 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
+POCSAG2400: Address: 2044535  Function: 0 
+POCSAG2400: Address: 1970816  Function: 2 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:00-23 5002<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-28 PROBLEM: Windows - Drive: C is CRITICAL on host GMMHACLVDA11A, <CR><LF>PROBLEM: Windows - Drive: C is CRITICAL on host GMMHACLVDA11A<CR><LF>Service: Windows - Drive: C<CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>Stat<NUL><NUL>
+POCSAG2400: Address:  795248  Function: 2 
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-56 PROBLEM: Group Policy Client is CRITICAL on host GMMHACLVDA11A, <CR><LF>PROBLEM: Group Policy Client is CRITICAL on host GMMHACLVDA11A<CR><LF>Service: Group Policy Client<CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>S<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-52 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc03a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc03a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-20 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc05a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc05a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:58-91 PROBLEM: GMMHACLVDA11A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA11A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Wed Dec 22 02:07:16 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
+POCSAG2400: Address:  670451  Function: 1  Alpha:   emSGKu@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOK<SOH><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   16:56-54 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host brcedulovc01a, <CR><LF>PROBLEM: Op
+POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-76 RECOVERY: Windows - Drive: C is OK on host UOMPENLCVS01MC1, <CR><LF>RECOVERY: Windows - Drive: C is OK on host UOMPENLCVS01MC1<CR><LF>Service: Windows - Drive: C<CR><LF>Host: UOMPENLCVS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.40.142<CR><LF>Host Group Hierarchy: <CR><LF>State: OK<CR><LF><NUL><NUL>
+POCSAG2400: Address:  119612  Function: 3  Alpha:   ;<GS><FS><BS>2:Y<X|<CAN>:^<SO>(Cb<DC4>=<CAN>=Y<SO>(UsRssU3C<STX>1<CAN><NUL><NUL>
+POCSAG1200: Address: 2070177  Function: 3 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   v<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   17:07-86 23/12/2021 17:04:25 INC 24866347 05C03 8 LINKSIDE COURT, RICHARD ROAD, BLUNDELLSANDS L23, L23 8TF Female 87Y PAIN IN BACK - LOOSING STRENGTH IN LEGS GRD 330301 40043e<NUL><NUL>
+POCSAG1200: Address:  149135  Function: 2  Alpha:   17:07-60 Please call Brian Hemmingway on 01729 823510. thanks<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1708231221+++TIME=1708231221<NUL>
 POCSAG1200: Address: 1880696  Function: 1 
 POCSAG1200: Address: 2075247  Function: 0 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-72 PROBLEM: Windows Management Instrumentation is CRITICAL on host UOMPENLCVS01MC1, <CR><LF>PROBLEM: Windows Management Instrumentation is CRITICAL on host UOMPENLCVS01MC1<CR><LF>Service: Windows Management Instrumentation<CR><LF>Host: UOMPENLCVS01MC1<CR><LF>Alias: <CR><NUL><NUL>
@@ -974,27 +998,3 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:16-81 4157<NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   13:15-71 Please Call Switchboard<NUL><NUL>
 POCSAG2400: Address: 1254992  Function: 2 
 POCSAG1200: Address:  390217  Function: 3  Alpha:   E<SOH>M<SOH><CR>2&R"<SYN>J><SYN><STX>A2<ACK><SO><SYN>2<SOH>5<ACK>JR>:<STX><HT>2<ACK><SO>.B>>22<SOH><EM>fR<SOH>QA:<STX>5<ACK>3<ETB><ETX>]Ie<STX><GS><BEL>OC';<US><ETX><EM>?K<ETX><HT>K<ETB><BEL>S#<ETX><ENQ>OS#7<BEL>S'<SI><ETX><GS>J<DC2><STX>MMMIUQ<SOH>QMMYII
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 1234567<u01234567890
-POCSAG2400: Address: 2076212  Function: 0 
-POCSAG2400: Address: 1337175  Function: 2  Alpha:   13:13-53 5202<NUL>
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   13:12-62 2008<NUL>
-POCSAG1200: Address: 1321863  Function: 2  Alpha:   13:12-31 23/12/2021 13:07:03 INC 24865384 27D04S OS, 2 HUGHES CLOSE, FAILSWORDH%MANCHESTER, M35 0EF Unknown 20Y ASSAULTED GRD 389288 401699<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   6"
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:12-77 23/12/2021 13:10:31 INC 24865392 09E01 2 OVERTON CLOSE, OXTON BIRKENHEAD, CH43 2LG Male 92Y NOT BREATHING GRD 329811 387255<NUL><NUL>
-POCSAG1200: Address: 1483265  Function: 2  Alpha:   13:11-04 Alarm#32056 13:11 Error=0 Late=1, <CR><LF>Index_engine [Late]<CR><LF>----------------<CR><LF>Index_engine:
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   13:11-97 0000<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   F<FF>
-POCSAG2400: Address:  376264  Function: 1 
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   13:10-89 2999<NUL>
-POCSAG2400: Address: 1913767  Function: 2  Alpha:   13:10-78 2616<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:09-76 23/12/2021 13:06:13 INC 24865378 29B05V JUNCTION WITH MACCLESFIELD ROAD, JACKSON ROAD, CONGLETON CHESHIRE EAST Unknown UnknownY RTC GRD 386324 364190<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   13:09-13 23/12/2021 13:06:13 INC 24865378 29B05V JUNCTION WITH MACCLESFIELD ROAD, JACKSON ROAD, CONGLETON CHESHIRE EAST Unknown UnknownY RTC GRD 386324 364190<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1308231221+++TIME=1308231221<NUL>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   13:08-38 4020<NUL>
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   &0
-POCSAG1200: Address:  675550  Function: 0  Alpha:   <EM>(<VT>(<DC3><DC2>hP4r4r<DC4>(<VT><BS><NAK>R41<DLE>5Q3Rs<DC1><BS>u<DC3>h2<DC2><DC3><DC3><BS>2Qt4<DC1>S<DC1>hQ<DC4><DC1>h,.,,m<CR><BS><CR>L,M<FF><SO><NUL>
-POCSAG1200: Address: 1032692  Function: 3  Alpha:   <ACK>+
-POCSAG1200: Address: 1032158  Function: 3  Alpha:   Sb
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  360002  Function: 0  Alpha:   13:06-56 23/12/2021 13:04:39 INC 24865371 31D04 16 EDITH STREET, NELSON, BB9 9HU Female 85Y FALLEN GRD 386753 437915<NUL>
-POCSAG1200: Address: 1344117  Function: 3 
