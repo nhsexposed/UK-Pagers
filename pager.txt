@@ -1,3 +1,19 @@
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   08:39-29 4877<NUL>
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   08:39-45 Call Waiting 000
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   08:39-79 23/12/2021 08:36:01 INC 24864381 26A07 10 LANCING DRIVE, AINTREE L10, L10 8LW Female 93Y CANT WALK GRD 337940 398604
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0838231221+++TIME=0838231221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0838231221+++TIME=0838231221<NUL>
+POCSAG1200: Address: 1745893  Function: 0 
+POCSAG1200: Address:  186673  Function: 1  Alpha:   <CR>N<CR>m<FF><SO><CR>(l<CR><DC1>L<FF><BS>M<CR>HPtss<DC2>1<DLE>3<DC1>h<DLE>ss4<DC1><VT><BS>2<DLE><DC3>3r5<DC1><DC3><DC3>Hp<DC3><DC3>uS<DC3><VT>H<DLE>3<FF><BS>NR<DC4>(3<CAN>;<EM>H--<SYN>H1<DLE><DC3>3Q<DC3><VT><BS>1R<DLE>hQ<DC4><DC1>hl-LM,<CR><BS>-<FF>L<CR><SO><SO><NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   08:38-31 23/12/2021 08:36:46 INC 24864385 31D04 9 TRIMINGHAM DRIVE, BRANDLESHOLME BURY, BL8 1HA Female 51Y COVID POS - FAINTED GRD 379548 412540<NUL>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   08:38-57 2317<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:37-40 2300<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1914025  Function: 2  Alpha:   08:37-97 4034<NUL>
+POCSAG1200: Address:  108029  Function: 0  Alpha:   08:37-98 plse call x1342<NUL>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   08:36-25 23/12/2021 08:34:43 INC 24864376 25B03 33 WELBECK ROAD, GODLEY HYDE, SK14 5PN Female 35Y SUICIDAL FEMALE MAKING THREATS GRD 395586 394538<NUL><NUL>
+POCSAG1200: Address: 1817176  Function: 2  Alpha:   08:35-65 PLEASE CALL EXT 3114 <NUL>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   08:35-45 Marcia is responding<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG2400: Address: 1320763  Function: 2  Alpha:   08:33-94 016305-23122021; WFRS IT/Comms On Duty; FS
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1534269  Function: 2  Alpha:   21:48-53 023532-22122021; F1
 POCSAG1200: Address: 2007776  Function: 1 
 POCSAG1200: Address: 1534269  Function: 2  Alpha:   21:47-52 023532-22122021; F11.1 Smell of Burning; 98B FISHERTON STREET,SALISBURY,SP2 7QY; 413996,130131; BOSS Mobile: https://bossd.nfcsp.org.uk<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1534266  Function: 2  Alpha:   21:47-99 023532-22122021; F11.1 Smell of Burning; 98B FISHERTON STREET,SALISBURY,SP2 7QY; 413996,130131; BOSS Mobile: https://bossd.nfcsp.org.uk<NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:47-28 3298<NUL>
-POCSAG2400: Address:  549108  Function: 2  Alpha:   21:45-28 We are notifying you of a Super-Urgent Liver Recipient Registration. The appeal from earlier has been approved and is now on the waiting list.
-POCSAG2400: Address:  549116  Function: 2  Alpha:   21:45-27 We are notifying you of a Super-Urgent Liver Recipient Registration. The appeal from earlier has been approved and is now on the waiting list.
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   21:44-94 22/12/2021 21:42:22 INC 24862941 26C02 20 FINCH MEADOW CLOSE, FAZAKERLEY L9, L9 6EB Female 75Y BP PROBLEMS, 181/93 GRD 338654 395887<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2143221221+++TIME=2143221221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2143221221+++TIME=2143221221<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:42-73 22/12/2021 21:41:14 INC 24862937 09E01 AINSDALE COURT NURSING HOME, HOLT LANE, RAINHILL L35, L35 8NB Female 98Y GONE BLUE GRD 348326 391844
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:42-33 Please call Marjory Warren Ward 33301<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   21:42-92 22/12/2021 21:40:25 INC 24862932 32B03 44 WEST PARK GARDENS, BIRKENHEAD, CH43 7YG Male UnknownY PT COLLAPSED GRD 328035 389931<NUL><NUL>
-POCSAG1200: Address: 1761438  Function: 3  Alpha:   sd
-POCSAG1200: Address:  600572  Function: 0  Alpha:   21:42-08 0<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1880951  Function: 3 
-POCSAG1200: Address: 1001130  Function: 2  Alpha:   21:41-47 CARDIAC ARREST TEAM, WARD 13D, BED 2, RLH<NUL>
-POCSAG1200: Address: 1001131  Function: 2  Alpha:   21:41-47 CARDIAC ARREST TEAM, WARD 13D, BED 2, RLH<NUL>
