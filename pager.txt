@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803231221+++TIME=1803231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803231221+++TIME=1803231221<NUL>
+POCSAG1200: Address:   10023  Function: 0  Alpha:   <DC1>h0<DLE><DC3><DC3>(<DC1><SYN>Hl,.<SO>
+POCSAG1200: Address:  108093  Function: 0  Alpha:   18:03-13 PL
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  336423  Function: 2  Alpha:   18
+POCSAG1200: Address:  164926  Function: 0  Alpha:   V<ETX>BlF<STX>'.<RS>_<ACK>z|D<EOT>bC.f<ACK><BEL><NUL>
+POCSAG1200: Address:  248048  Function: 3 
+POCSAG1200: Address:  216321  Function: 2  Alpha:   18:02-64 (1/4)033693-23122021; A1.0.0
+POCSAG1200: Address: 1072482  Function: 0 
+POCSAG1200: Address: 1405505  Function: 3  Alpha:   ")Gbi
+POCSAG1200: Address:  234377  Function: 2  Alpha:   18:01
+POCSAG1200: Address: 2008956  Function: 0 
+POCSAG1200: Address:   33652  Function: 2  Alpha:   18:01-99 PLS CALL 07825 754 715.<NUL><NUL>
+POCSAG1200: Address: 2009649  Function: 2 
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   18:00-86 Gwse ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  696528  Function: 2  Alpha:   18:00-81 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address: 1762036  Function: 1 
+POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:Intel Apologizes After Asking Suppliers to Avoid China's Xinjiang Region<NUL>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   18:00-91 3930<NUL>
+POCSAG1200: Address:  227361  Function: 0  Alpha:   17:59-64 50792
+POCSAG2400: Address: 1015239  Function: 2  Alpha:   17:59-81 6074<NUL>
 POCSAG2400: Address: 1015239  Function: 2  Alpha:   17:59-80 6074<NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>@
 POCSAG1200: Address:  173169  Function: 1 
@@ -975,26 +998,3 @@ POCSAG2400: Address: 1814983  Function: 2  Alpha:   14:28-43 please call <LF>Sop
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1428231221+++TIME=1428231221<NUL>
 POCSAG1200: Address: 1312466  Function: 2  Alpha:   14:28-59 68373
 POCSAG2400: Address: 1913686  Function: 2  Alpha:   14:28-88 4268<NUL>
-POCSAG1200: Address: 1551474  Function: 2  Alpha:   14:28-69 47432
-POCSAG2400: Address: 2062216  Function: 3  Alpha:   d )kb,<DLE>dg)(P`c`$'<DLE>X<ESC><SUB><SUB><FS>P<EM>\<EM>PZ<ESC><SUB><DLE>i"<GS>Pfdii""Plg*)Pa &&<DLE><NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   14:28-35 PLS CALL JULIE FROM WILLIAM 
-POCSAG2400: Address: 1323785  Function: 2  Alpha:   14:27-66 2343<NUL>
-POCSAG1200: Address:  618949  Function: 2  Alpha:   14:27-90 IS IT YOU<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913774  Function: 2  Alpha:   14:26-49 2751<NUL>
-POCSAG1200: Address:  820861  Function: 2  Alpha:   14:26-91 5348 TEST CALL<NUL><NUL>
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   14:26-79 NHSBT - DONOR REFERRAL. Please call DR ANNE TIVEY on Direct Dial Number 01612916404 Hospital MANCHESTER WYTHENSHAWE Dept AICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address:  619020  Function: 3  Alpha:   V2
-POCSAG2400: Address: 1323991  Function: 2  Alpha:   14:24-27 4114<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   14:24-22 4156<NUL>
-POCSAG1200: Address:  401693  Function: 2  Alpha:   14:24-72  SAMPLE OF URINE IS READY AT COLLECTION 114 LEICESTER ROAD<NUL>
-POCSAG1200: Address:  724133  Function: 0  Alpha:    Male 93Y CHEST PAINS COPD ANGINA GRD 341494 407927
-POCSAG1200: Address:  548039  Function: 2  Alpha:   14:24-37 23/12/2021 14:21:48 INC 24865685 06E01 1 CHAPEL MOSS, ORMSKIRK, L39 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1423231221+++TIME=1423231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1423231221+++TIME=1423231221<NUL>
-POCSAG2400: Address:  935978  Function: 1  Alpha:   <z<CAN><BS><GS>:9<CAN>]<<EM>
-POCSAG2400: Address: 1022633  Function: 0  Alpha:   14:23-12 Activate Massive Obstetric Haemorrhage obs
-POCSAG1200: Address:  371936  Function: 2  Alpha:   TEST 5348<NUL><NUL>
-POCSAG2400: Address: 1594968  Function: 2  Alpha:   14:22-02 INC ALERT No: 16959942 Cardiac Arrest -, AT: 41A MERLIN CRESCENT, EXETER, EX4 9AF, Time of Call: 23/12/2021 14:22:12, Co-ords: 50.7384748 -3.5025467
-POCSAG1200: Address: 1485635  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
