@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   02:34-26 2942<NUL>
+POCSAG1200: Address: 2097136  Function: 3  Alpha:   <ETX>Q
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0233231221+++TIME=0233231221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0233231221+++TIME=0233231221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28924  Function: 0  Alpha:   02:33-33 2183<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1322081  Function: 2  Alpha:   02:31-60 23/12/2021 02:30:07 INC 24863730 06D02 1 HEADS MOUNT, KESWICK KESWICK, CAqO%<LF><EM>PZb,Pf0v2<DLE><FS>Z,Pagj#$<DLE><DC3><DLE>b$!P#)"P<EM><EM><ESC>Z[<ESC>P<SUB>YYYY<SUB><NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   02:30-74 4155<NUL>
+POCSAG1200: Address:   49263  Function: 2  Alpha:   02:30-44 UHND, MEDICAL EMERGENCY TO WARD 11<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228231221+++TIME=0228231221<NUL>
 POCSAG1200: Address:  270480  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 2011892  Function: 0 
@@ -988,13 +998,3 @@ POCSAG1200: Address:  600938  Function: 0
 POCSAG1200: Address:  420504  Function: 3  Alpha:   2R<BS><FS>c
 POCSAG2400: Address: 1913903  Function: 2  Alpha:   18:50-16 2111<NUL>
 POCSAG1200: Address:  325900  Function: 3  Alpha:   *U*e*U2UJU*U*U*e*<EM>D<SUB>E-I<LF>A
-POCSAG1200: Address: 1812483  Function: 0 
-POCSAG1200: Address:  443679  Function: 0  Alpha:   <SOH><NUL>
-POCSAG1200: Address:  906480  Function: 3  Alpha:   s,
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1814995  Function: 0  Alpha:   vj
-POCSAG2400: Address: 1320201  Function: 2  Alpha:   18:45-06 4379<NUL>
-POCSAG1200: Address: 1816759  Function: 2  Alpha:   18:45-15 (2/2) Roles    JY16P1:Main Pump; Talkgrp  FBER-OPS04 (41*) (DGNA)
-POCSAG1200: Address:  325974  Function: 3  Alpha:   U<LF>
-POCSAG1200: Address: 1847908  Function: 0 
-POCSAG1200: Address: 1876081  Function: 2 
