@@ -1,3 +1,23 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1333231221+++TIME=1333231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333231221+++TIME=1333231221<NUL>
+POCSAG1200: Address: 1001134  Function: 2  Alpha:   13:33-93 Adult cardiac arrest, Custom House Ward, NUH - 13.29<NUL>
+POCSAG1200: Address: 1312440  Function: 2  Alpha:   13:33-40 Adult cardiac arrest, Custom House Ward, NUH - 13.29<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   13:33-24 23/12/2021 13:29:39 INC 24865464 31E01 19 ELM ROAD, WINWICK WARRINGTON WA2, WA2 9TW Male 81Y NOT EATING UN RESPONSIVE GRD 360485 391823<NUL>
+POCSAG1200: Address: 2091640  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   13:32-44 3504<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28925  Function: 0  Alpha:   13:32-32 4201<NUL>
+POCSAG2400: Address:   11705  Function: 0  Alpha:   13:32-73 PLEASE CONTACT THE MENTAL HEALTH TEAM ON 6488 <NUL><NUL>
+POCSAG1200: Address:  413198  Function: 2  Alpha:   13:31-74 (2/2) Assigned: JY20P1, JY22P1, JY02P1; Roles    JY22P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA)
+POCSAG2400: Address: 1242697  Function: 2  Alpha:   13:31-34 p<US><DC3>& Order delivered: 2000 - McDonalds Happy Meal Tb<NUL>&<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:31-93 3240<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:30-17 3157<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:30-20 4114<NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   13:30-66 2183<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   13:30-64 2343<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:30-85 23/12/2021 13:28:23 INC 24865457 07B02F 30 SEXTANT CLOSE, MURDISHAW RUNCORN WA7, WA7 6DP Male UnknownY BUILDING FIRE GONE IN PROOPERT SMOKE COUGHING GRD 355874 380569<NUL><NUL>
+POCSAG1200: Address: 1815006  Function: 0  Alpha:   13:30-41 PLS CALL SIMON REMINGTON 07808 809 740 LIVER PATIENT 
 POCSAG2400: Address: 2078297  Function: 2 
 POCSAG2400: Address: 1673160  Function: 0  Alpha:   Sc
 POCSAG2400: Address: 1913963  Function: 2  Alpha:   13:29-20 4379<NUL>
@@ -978,23 +998,3 @@ POCSAG2400: Address: 1814983  Function: 2  Alpha:   10:10-30 Robert Osbourne 079
 POCSAG1200: Address:  609175  Function: 2  Alpha:   @$gg<DC2><DC4><DC1>h
 POCSAG1200: Address:  792630  Function: 0 
 POCSAG1200: Address: 1136933  Function: 3  Alpha:   <EOT><LF>
-POCSAG1200: Address: 1843781  Function: 0 
-POCSAG1200: Address: 1868356  Function: 0  Alpha:   RE
-POCSAG1200: Address: 1717154  Function: 1 
-POCSAG1200: Address:  153359  Function: 0  Alpha:   O%
-POCSAG1200: Address:  268127  Function: 0 
-POCSAG1200: Address:  627382  Function: 0 
-POCSAG2400: Address: 1914020  Function: 2  Alpha:   10:09-60 2150<NUL>
-POCSAG1200: Address: 1639696  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1008231221+++TIME=1008231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1008231221+++TIME=1008231221<NUL>
-POCSAG1200: Address: 1324636  Function: 2  Alpha:   10:08-46 Please call 01535 293910. RSVP
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   10:08-80 23/12/2021 10:07:00 INC 24864678 06E01 80 RIBBLETON AVENUE, PRESTON, PR1 5SA Female 55Y CHEST INF DIB GRD 355842 430599
-POCSAG2400: Address: 1974911  Function: 3 
-POCSAG2400: Address: 1117078  Function: 3  Alpha:   <ENQ><EOT>J]<FS><^<FF>4<FS>LM<CR>D<EM>k9<LF>4Z<EM>(JZeY*:Z<BS>tm<CR>D<CAN>-^<L<SO>D<CAN><GS>L<CR>dY^-\,<SO><EOT>&<ACK>6<ACK>$<SYN><ETB><ETB><ETB>66<ACK><EOT>y=<SO><RS>M<RS>L<CR>4<EM>iy8<LF>4xIIY8xX<BS>DX<FF>N<SO><DC4>IZ<LF>d<ENQ>$Z|<FS>,N<<SO>Dxm}-<SO>$Zl\,.<RS>L<CR>D<EM>m]<FF>
-POCSAG2400: Address: 1323183  Function: 2  Alpha:   10:07-15 NHSBT - DONOR REFERRAL. Please call LYNS SMART-NURSE on Direct Dial Number 0203 2999133 Hospital KINGS COLLECGE Dept ITU . Regards Donor Referral Line
-POCSAG2400: Address: 1323202  Function: 2  Alpha:   10:07-51 NHSBT - DONOR REFERRAL. Please call LYNS SMART-NURSE on Direct Dial Number 0203 2999133 Hospital KINGS COLLECGE Dept ITU . Regards Donor Referral Line
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323179  Function: 2  Alpha:   10:07-64 NHSBT - DONOR REFERRAL. Please call LYNS SMART-NURSE on Direct Dial Number 0203 2999133 Hospital KINGS COLLECGE Dept ITU . Regards Donor Referral Line
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:06-64 2168<NUL>
-POCSAG1200: Address:  733991  Function: 2  Alpha:   10:06-00 3268<NUL>
