@@ -1,3 +1,9 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0138231221+++TIME=0138231221<NUL>
+POCSAG2400: Address: 1613232  Function: 2 
+POCSAG1200: Address: 1032690  Function: 0 
+POCSAG1200: Address: 1199566  Function: 2  Alpha:   PY\Z<SUB><ESC><CAN><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   01:36-92 4316<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:36-38 23/12/2021 01:33:27 INC 24863640 17A02 30 HAILEYBURY AVENUE, AINTREE L10, L10 6LP Female 81Y FALL, UNABLE TO MOVE RIGHT ARM AND SHOULDER GRD 338028 399053<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0133231221+++TIME=0133231221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0133231221+++TIME=0133231221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -992,9 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 sid
 POCSAG1200: Address: 1429453  Function: 3  Alpha:   {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{[!Q!!x}<CR><NUL>
 POCSAG2400: Address: 1323889  Function: 2  Alpha:   18:22-56 5202<NUL>
 POCSAG1200: Address: 1321195  Function: 2  Alpha:   18:22-91 Test: Line 1 of 4<LF>Test: Line 2 of 4<LF>Test: Line 3 of 4<LF>Test: Line 4 of 
-POCSAG1200: Address:  269059  Function: 2  Alpha:   18:22-02 22/12/2021 18:19:54 INC 24862192 09E01 8 ROWDELL WALK, NORTHERN MOOR MANCHESTER, M23 0EY Unknown UnknownY FOUND NOT BREATHING GRD 381605 390872<NUL><NUL>
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>s
-POCSAG1200: Address:  911096  Function: 1 
-POCSAG2400: Address: 2094224  Function: 2 
-POCSAG1200: Address: 1832952  Function: 3 
-POCSAG1200: Address: 1442944  Function: 0  Alpha:   #$j)Pk$&&<DLE>gb""<DLE>i"(f`a""<DLE>j'gd#$*Pa '*Pk`$*P*'j$&Pf')g$g#<ETB><DLE>*d ge)<SYN>Pe i"'<ETB><DLE><NUL><NUL>
