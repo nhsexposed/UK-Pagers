@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   05:03-27 5276<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503231221+++TIME=0503231221<NUL>
+POCSAG1200: Address:  269111  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2088912  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2072918  Function: 0 
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   05:01-61 4155<NUL>
 POCSAG1200: Address: 1750274  Function: 0  Alpha:   '6<SYN>&&<SYN>655E<SUB>YYX<BEL>FV<ACK>'6<SYN>&&<SYN><ACK>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0458231221+++TIME=0458231221<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1816822  Function: 2  Alpha:   19:59-16 CALL 4085<NUL><NUL>
 POCSAG1200: Address: 1321531  Function: 2  Alpha:   19:58-69 992283363<NUL><NUL>
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   <NAK><ACK>
 POCSAG1200: Address: 1782539  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 SZ3B<NUL><NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   19:57-24 4312<NUL>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   19
-POCSAG2400: Address:   28896  Function: 0  Alpha:   19:56-12 4160<NUL>
-POCSAG2400: Address:  549209  Function: 2  Alpha:   19:55-47 Reset password<NUL><NUL>
-POCSAG2400: Address:   11678  Function: 0  Alpha:   19:54-35 Marcia is responding<NUL><NUL>
-POCSAG1200: Address:  433067  Function: 2  Alpha:   19:54-43 22/12/2021 19:52:55 INC 24862533 10D01 15 COTTAM GREEN, COTTAM PRESTON, PR4 0AB Male 50Y CHEST PAINS,VOMIT GRD 350502 432556<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953221221+++TIME=1953221221<NUL>
