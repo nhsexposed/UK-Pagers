@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1483446  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323231221+++TIME=0323231221<NUL>
+POCSAG1200: Address:  585125  Function: 2  Alpha:   03:23-49 23/12/2021 03:21:30 INC 24863834 17D05 4 SHEWELL CLOSE, TRANMERE BIRKENHEAD CH42, CH42 0NS Male 63Y FALLEN GRD 331905 387897<NUL>
+POCSAG1200: Address: 1993466  Function: 0 
+POCSAG1200: Address:  667379  Function: 1  Alpha:   <FF><BS>Ls<DC4>(3<CAN>;<EM>Hm,<SYN>H1<DLE><DC3>3Q<DC3>hQ<DC4><DC1>hl,,<SO>,<CR>h<FF>n<CR>.n<CR>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   03:23-35 3508<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:19-58 4379<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318231221+++TIME=0318231221<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   03:17-40 23/12/2021 03:15:51
 POCSAG1200: Address: 1313150  Function: 2  Alpha:   03:17-05 (2/2) Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Self Contained Flat (Includes Maisonette / Apartment)<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1966608  Function: 0
 POCSAG1200: Address: 1687635  Function: 1  Alpha:   M<SOH>=>M2<SOH>IAe<SOH><HT>VJ:2<SYN>f<STX>1<ACK>:<SYN>2<SOH><CR>"<ACK><DC2><DC2><SYN>JR>:<STX>=2<DC2>"<ACK>62<SOH>=2f<SOH>A<NAK>B<STX>5<ACK>3<ETB><ETX>U:/;?_;g<STX>IR<SO><STX>5
 POCSAG1200: Address:  269059  Function: 2  Alpha:   19:09-09 22/12/2021 19:03:25 INC 24862345 
 POCSAG1200: Address: 1895004  Function: 2 
-POCSAG1200: Address:  420504  Function: 3  Alpha:    &<LF><DC1>8F<CR>f
-POCSAG1200: Address:   41512  Function: 2  Alpha:   19:08-48 33945
-POCSAG1200: Address:  600665  Function: 0  Alpha:   19:06-65 696955 <NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <RS>!
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   19:06-08 4387<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:06-62 2447<NUL>
-POCSAG2400: Address:  549608  Function: 2 
