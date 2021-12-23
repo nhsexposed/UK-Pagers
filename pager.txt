@@ -1,3 +1,17 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0003231221+++TIME=0003231221<NUL>
+POCSAG1200: Address: 1313221  Function: 2  Alpha:   00:03-71 Destination: D105 SSC In\120, Booking Ref#: 807214, Vehicle: pn71eey. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0003231221+++TIME=0003231221<NUL>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   00:03-39 RPA PLS CALL SITE 336A ON 0151 928 9852
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  360216  Function: 2  Alpha:   00:02-89 33835
+POCSAG2400: Address: 1302456  Function: 0 
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   00:02-54 3140<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   00:01-82 23/12/2021 00:00:53 INC 24863352 31A01 WHITEGATES - FLAT 2, WILMSLOW ROAD, CHEADLE, SK8 1HG Female 95Y F - FAINTED GRD 385767 388210<NUL>
+POCSAG2400: Address: 2063616  Function: 2  Alpha:   <DC2>K#<DC3><ETX>
+POCSAG2400: Address: 1320366  Function: 2  Alpha:   00:01-25
+POCSAG1200: Address:  678665  Function: 2  Alpha:   00:00-68 Case@qef 11276206 Fill in tick sheet
+POCSAG1200: Address:  360216  Function: 2  Alpha:   00:00-88 33813
+POCSAG2400: Address:  564459  Function: 2  Alpha:   WSJ:Omycson Shows Signs of Milder Disease as Cases Rise<NUL><NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:59-54 3157<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2358221221+++TIME=2358221221<NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   23:57-72 22/12/2021 23:55:22 INC 24863336 29D02M O/S, ELIZABETH COURT, 81 REDDISH LANE, GORTON MANCHESTER, M18 7NZ Unknown UnknownY CAR V CIVILLIAN GRD 389568 395450
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1321864  Function: 2  Alpha:   17:33-87 22/12/2021 17:30:55
 POCSAG1200: Address: 1562596  Function: 2  Alpha:   17:33-43 22019
 POCSAG2400: Address:   28895  Function: 0  Alpha:   17:33-42 5128<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   17:31-36 22/12/2021 17:24:13 INC 24861965 31D01 FOUR OAKS, GENERAL$<DC4>REA OF, FARLETON LANCASTER, LA2 9LF Male 87Y UNCONCIOUS ON THE FLOOR GRD 357273 466803
-POCSAG2400: Address: 2014053  Function: 0 
-POCSAG2400: Address: 2042483  Function: 0 
-POCSAG2400: Address: 1322351  Function: 2  Alpha:   17:30-61 Please Call Ext .3786<NUL>
-POCSAG1200: Address: 1320259  Function: 2  Alpha:   17:30-43 Internal TEST - no action required<NUL><NUL>
-POCSAG1200: Address: 1745489  Function: 0 
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   17:28-55 4769<NUL>
-POCSAG1200: Address: 1032714  Function: 3  Alpha:   v`
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1728221221+++TIME=1728221221<NUL>
-POCSAG1200: Address:  212028  Function: 0 
-POCSAG1200: Address: 1983266  Function: 2  Alpha:   17:27-95 PLS CALL DAVID FROM JOHN RADCLIFFE RADIOLOGY ON 01865 257 713<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   17:27-53`u"04<NUL>
-POCSAG1200: Address:  149099  Function: 2  Alpha:   1 06E01 80 ABBEYFIELD DRIVE, L12, L12 0JP Male 50Y NOT BREATHING GRD 340622 395310
