@@ -1,3 +1,19 @@
+POCSAG1200: Address: 2074226  Function: 2 
+POCSAG1200: Address: 1562573  Function: 2  Alpha:   11:44-82 888000<NUL><NUL>
+POCSAG1200: Address: 1349816  Function: 2  Alpha:   ><ACK>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   11:42-62 2233<NUL>
+POCSAG1200: Address: 1022677  Function: 2  Alpha:   11:42-51 MANCHESTER AIRPORT CHAN 5-*SA09,CH02,TT1,#
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   11845  Function: 0  Alpha:   11:42-71 7<NUL>
+POCSAG2400: Address: 2008958  Function: 0 
+POCSAG1200: Address: 2026356  Function: 2 
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   &<ACK>
+POCSAG2400: Address: 1913643  Function: 2  Alpha:   11:41-43 4935<NUL>
+POCSAG1200: Address: 1031655  Function: 0 
+POCSAG1200: Address: 2042481  Function: 0 
+POCSAG1200: Address: 1073338  Function: 1  Alpha:   J<DC2><STX>MQAUe]<SOH>UUQYUM<SOH>
+POCSAG1200: Address: 1032196  Function: 2  Alpha:   <STX>`
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   <ETX><HT>
 POCSAG1200: Address: 1562573  Function: 2  Alpha:   11:39-81 888000<NUL><NUL>
 POCSAG1200: Address: 2011888  Function: 0 
 POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:39-33 TEST TEST <NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address:  265548  Function: 2  Alpha:   TEST TES<DC4>)EEST
 POCSAG1200: Address: 1188420  Function: 0 
 POCSAG1200: Address:  334075  Function: 2  Alpha:   06:39-24 23/12/2021 06:38:34 INC 24864151 29D03 JUNCTION OF, 1 RENACRES LANE, HALSALL ORMSKIRK, L39 8SE Male 50Y RTC GRD 337673 411366
 POCSAG1200: Address: 1505405  Function: 0 
-POCSAG1200: Address: 1483183  Function: 2 
-POCSAG1200: Address:  826667  Function: 2 
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   <EM><FF><FS>dL
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  678871  Function: 2  Alpha:   06:35-73 TEST TEST TEST<NUL><NUL>
-POCSAG512: Address:  836072  Function: 1  Alpha:   Y]aeA
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   06:29-10 4157<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0628231221+++TIME=0628231221<NUL>
-POCSAG1200: Address:  549357  Function: 2  Alpha:   06:28-06 TEST CALL <NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   06:25-86 23/12/2021 06:23:56 INC 24864117 09E01 3 WESTFIELD DRIVE, CROXTETH PARK L12, L12 0LB Unknown UnknownY NOT BREATHING GRD 341482 395116
-POCSAG1200: Address: 1321859  Function: 2  Alpha:   06:24-67 PIN 9019 PLEASE CALL 03457 500 620 FOR OWN CLIENT CASE<NUL><NUL>
-POCSAG512: Address: 1706511  Function: 2  Alpha:   01234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1815035  Function: 2  Alpha:   06:21-04 01179505050
