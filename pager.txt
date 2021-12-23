@@ -1,3 +1,34 @@
+POCSAG2400: Address: 1324106  Function: 2  Alpha:   17:00-44 Green: This is the daily pager test. Please take no further action.<NUL>
+POCSAG2400: Address: 1323913  Function: 2  Alpha:   17:00-74 Green: This is the daily pager test. Please take no further action.<NUL>
+POCSAG2400: Address: 1323906  Function: 2  Alpha:   17:00-29 Green: This is the daily pager test. Please take no further action.<NUL>
+POCSAG2400: Address: 1324063  Function: 2  Alpha:   17:00-87 Green: This is the daily pager test. Please take no further action.<NUL>
+POCSAG2400: Address: 1324072  Function: 2  Alpha:   17:00-62 Green: This is the daily pager test. <NUL>Lease take no further action.<NUL>
+POCSAG2400: Address: 1012864  Function: 2  Alpha:   ``Zlr@<SO>eKK]u@(QSgARgAhQKAHCSYsA`COKeAhKgi]@ YKCg<VT><EOT>hBWKA\_ALkeiQKeABGiS_]]<NUL>
+POCSAG2400: Address: 1324071  Function: 2  Alpha:   17
+POCSAG1200: Address:  696608  Function: 2  Alpha:   17:13-71 Primary PCI Call, Cath Lab ETA 15 Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:13-58 23/12/2021 
+POCSAG2400: Address:  888851  Function: 0  Alpha:   )<BEL>Ad`db<SUB><DC4><SUB><DC4><STX>IISiS_]CYA<DC2>]M_e[CiS_]u<SUB><DC4><SUB><DC4><ACK>%<DC3>)<DC3><BEL><ETX><EM><SOH><NUL>
+POCSAG2400: Address:  216251  Function: 2  Alpha:   16:57-93 RECOVERY: Commvault Client Manager Service Instance001 is OK on host UOMPENLCVS01MC1, <CR><LF>RECOVERY: Commvault Client Manager Service Instance001 is OK on host UOMPENLCVS01MC1<CR><LF>Service: Commvault Client Manager Service Instance001<CR><LF>Host: UOMPE<NUL><NUL>
+POCSAG2400: Address:  151703  Function: 2  Alpha:   'ab<SUB><BEL>c<SUB><DC4>&KemSGKu@<ACK>_[[mCkYiA<ACK>YSK]iA<SUB>C]COKeA&KemSGKA<DC2>]giC]GKa`b<SUB><DC4><DLE>_g<SOH><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   16:57-14 PROBLEM: Windows NIC: Backup is CRITICAL on host UOMPENLCVS01MC1, <CR><LF>PROBLEM: Windows NIC: Backup is CRITICAL on host UOMPENLCVS01MC1<CR><LF>Service: Windows NIC: Backup<CR><LF>Host: UOMPENLCVS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.40.142<CR><LF>Host Group Hierarchy: <NUL><NUL>
+POCSAG2400: Address: 1544822  Function: 2 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   16:57-80 PROBLEM: GMMHACLVDA25A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA2?S2is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA25A<CR><LF>Alias: <CR><LF>Address: 192.168.23.155<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Wed Dec 22 00:10:28 UTC 2021<CR><LF><CR><LF>
+POCSAG2400: Address: 1978490  Function: 1 
+POCSAG2400: Address: 1986070  Function: 0  Alpha:   <HT><BS>5:;Y<SO>h5<EM><EM><BS>1y<CAN>HL<FF><BS><FF>L<SO>lM.,<CR>(<NAK>u<DLE>H<FF>L,,C"C"<DLE><EM>9<SUB>=z[;<CAN><ESC>(R[y[<;<CAN>=z[[.C"CbP4<DC2>5r0<DLE><DC3><NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:57-77 PROBLEM: GMMHACLVDA11A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA11A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Wed Dec 22 00:07:15 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   16:57-77 PROBLEM: GMMHACLVDA11A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA11A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Tue Dec 21 23:07:15 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-66 RECOVERY: Opsview - Scheduler - Collector Message Queue Rate is OK on host brcedulovc02a, <CR><LF>RECOVERY: Opsview - Scheduler - Collector Message Queue Rate is OK on host brcedulovc02a<CR><LF>Service: Opsview - Scheduler - Collector Message Queue Rat<NUL><NUL>
+POCSAG2400: Address: 1442944  Function: 0 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-65 RECOVERY: Opsview - Scheduler - Execution Results Message Queue Rate is OK on host brcedulovc02a, <CR><LF>RECOVERY: Opsview - Scheduler - Execution Results Message Queue Rate is OK on host brcedulovc02a<CR><LF>Service: Opsview - Scheduler - Execution R<NUL><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:57-38 RECOVERY: Opsview - Scheduler - Execution Results Message Queue Count is OK on host brcedulovc02a, <CR><LF>RECOVERY: Opsview - Scheduler - Execution Results Message Queue Count is OK on host brcedulovc02a<CR><LF>Service: Opsview - Scheduler - Execution<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   16:57-72 RECOVERY: Opsview - Scheduler - Execution Results Message Queue Count is OK on host brcedulovc02a, <CR><LF>RECOVERY: Opsview - Scheduler - Execution Results Message Queue Count is OK on host brcedulovc02a<CR><LF>Service: Opsview - Scheduler - Execution<NUL><NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   17:02-06 4167<NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:57-37 PROBLEM: GMMHACLVDA25A is DOWN, <CR><LF>PROBLEM: GMMHACLV
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1713231221+++TIME=1713231221<NUL>
+POCSAG1200: Address:  664906  Function: 2  Alpha:   17:12-78 ERNIE 01617888036 HAS NOT BEEN ABLE TO CONTACTa^HE POLICE WILL TRY AGAIN TOMORROW.
+POCSAG1200: Address: 1811477  Function: 2  Alpha:   17:11-73 33886
+POCSAG1200: Address:   40100  Function: 2  Alpha:   17:11-55 23/12/2021 17:09:50 INC 24866366 O/S, SPOTTED COW, 179 BELL LANE, BROAD OAK BURY BURY, BL9 6DF Male 35Y HIT BY A CAR GRD 381590 411266<NUL><NUL>
 POCSAG2400: Address:   28919  Function: 0  Alpha:   17:05-62 4379<NUL>
 POCSAG2400: Address: 1286944  Function: 1  Alpha:   dulovc02a<CR><LF>Service: Opsview - Results Sender - Message Queue Rate<CR><LF>Ho<NUL><NUL>
 POCSAG2400: Address: 2024044  Function: 0 
@@ -967,34 +998,3 @@ POCSAG1200: Address:  585540  Function: 2  Alpha:   13:25-51 614<NUL><NUL>
 POCSAG1200: Address: 1258904  Function: 2  Alpha:   13:25-86 2003<NUL>
 POCSAG1200: Address:  108014  Function: 0  Alpha:   13:25-50 TEST CALL NO RESPONSE REQUIRED  <NUL>
 POCSAG2400: Address: 1913950  Function: 2  Alpha:   13:24-31 2441<NUL>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>#MDL
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1323231221+++TIME=1323231221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address: 1913756  Function: 2  Alpha:   13:23-04 4157<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   13:22-81 23/12/2021 13:11:44 INC 24865397 06E01 11 SHORT STREET, PEMBERTON WIGAN, WN5 8AW Female 92Y ANXIETY ATTACK GRD 354965 404650<NUL>
-POCSAG1200: Address: 1258904  Function: 2  Alpha:   13:22-85 3<NUL>
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
-POCSAG1200: Address: 1485572  Function: 3  Alpha:   Fl
-POCSAG2400: Address:   11754  Function: 0  Alpha:   13:21-92 PLS CALL NNAMANI EXT:6157 OR MOBILE ON 07868 127 612<NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   13:21-17 23/12/2021 13:17:37 INC 24865420 29B01Y O/S, BEST ONE MINI SUPERMARKET, 1 HALSNEAD AVENUE, WHISTON L35, L35 3SD Unknown UnknownY RTC GRD 346488 389985
-POCSAG2400: Address: 1913788  Function: 2  Alpha:   13:20-84 4904<NUL>
-POCSAG1200: Address: 1881905  Function: 0 
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1318231221+++TIME=1318231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1318231221+++TIME=1318231221<NUL>
-POCSAG1200: Address: 1812429  Function: 3  Alpha:   <SYN><DC3><SO>`L
-POCSAG2400: Address: 1321307  Function: 2  Alpha:   13:18-95 call x33102
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1321200  Function: 2  Alpha:   13:16-28 36175
-POCSAG1200: Address:  433853  Function: 2  Alpha:   13:16-37 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153464, Donor hospital - SOUTHEND, Donor DOB -10/04/1962.<NUL><NUL>
-POCSAG1200: Address:   41887  Function: 2  Alpha:   13:16-31 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153464, Donor hospital - SOUTHEND, Donor DOB -10/04/1962.<NUL><NUL>
-POCSAG1200: Address: 1736852  Function: 1 
-POCSAG1200: Address:  271340  Function: 2  Alpha:   13:16-40 Please call Hub Operations on(6117 975 7580 regarding Donor number - 153464, Donor hospital - SOUTHEND, Donor DOB -10/04/1962
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:16-82 2895<NUL>
-POCSAG1200: Address: 2009655  Function: 0 
-POCSAG1200: Address: 1512669  Function: 3  Alpha:   &<STX>
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<CR><LF>L
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:16-81 4157<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   13:15-71 Please Call Switchboard<NUL><NUL>
-POCSAG2400: Address: 1254992  Function: 2 
-POCSAG1200: Address:  390217  Function: 3  Alpha:   E<SOH>M<SOH><CR>2&R"<SYN>J><SYN><STX>A2<ACK><SO><SYN>2<SOH>5<ACK>JR>:<STX><HT>2<ACK><SO>.B>>22<SOH><EM>fR<SOH>QA:<STX>5<ACK>3<ETB><ETX>]Ie<STX><GS><BEL>OC';<US><ETX><EM>?K<ETX><HT>K<ETB><BEL>S#<ETX><ENQ>OS#7<BEL>S'<SI><ETX><GS>J<DC2><STX>MMMIUQ<SOH>QMMYII
