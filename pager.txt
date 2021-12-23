@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1015239  Function: 2  Alpha:   17:59-80 6074<NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2>@
+POCSAG1200: Address:  173169  Function: 1 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   17:58-94 PLS CALL NEUROSCIENCE WARD ON 01865 231 526 - URGENT 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   17:56-47 5090<NUL>
+POCSAG1200: Address: 1453002  Function: 1  Alpha:   5.
+POCSAG1200: Address: 1965560  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1753231221+++TIME=1753231221<NUL>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DLE>,H<FF>5@0f
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address:  371936  Function: 2  Alpha:   TEST 5348<NUL><NUL>
 POCSAG2400: Address: 1594968  Function: 2  Alpha:   14:22-02 INC ALERT No: 16959942 Cardiac Arrest -, AT: 41A MERLIN CRESCENT, EXETER, EX4 9AF, Time of Call: 23/12/2021 14:22:12, Co-ords: 50.7384748 -3.5025467
 POCSAG1200: Address: 1485635  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   14:22-33 5128<NUL>
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   14:22-24 5201<NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   F&
-POCSAG1200: Address:   41512  Function: 2  Alpha:   14:21-72 Call or Calls waiting at Switchboard
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   F<DC2>
-POCSAG1200: Address:  372017  Function: 2  Alpha:   14:21-74 TEST TEST 5348<NUL><NUL>
-POCSAG1200: Address:  553840  Function: 3  Alpha:   &<STX>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   14:21-96 4156<NUL>
-POCSAG2400: Address: 1320361  Function: 2  Alpha:   14:20-07 3294<NUL>
