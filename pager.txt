@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   b<EOT>
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   13:38-55 68373
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   13:38-98 68373
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   &L
+POCSAG1200: Address: 1511856  Function: 2  Alpha:   Vr
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:38-55 4313<NUL>
+POCSAG2400: Address:   11754  Function: 0  Alpha:   13:38-93 PSYCHIC LIAISON TEAM: PLS CALL TAIWO EXT:6810 <NUL><NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<LF>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2078259  Function: 0 
+POCSAG1200: Address: 1321710  Function: 2  Alpha:   13:37-18 Destination: BCM\D25 North\Road, Booking Ref#: SHP21110326, Vehicle: WU67WZE. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>_______________________________________________________________________________<NUL><NUL>
+POCSAG1200: Address:  290040  Function: 3  Alpha:   <DC2>CMLL
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1333231221+++TIME=1333231221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333231221+++TIME=1333231221<NUL>
 POCSAG1200: Address: 1001134  Function: 2  Alpha:   13:33-93 Adult cardiac arrest, Custom House Ward, NUH - 13.29<NUL>
@@ -986,15 +998,3 @@ POCSAG1200: Address: 2025461  Function: 1
 POCSAG1200: Address: 1485588  Function: 3  Alpha:   VF
 POCSAG1200: Address:  548159  Function: 2  Alpha:   10:13-76 3919<NUL>
 POCSAG1200: Address:  930510  Function: 2  Alpha:   10:13-56 23/12/2021 10:11:33 INC 24864696 06E01 91 THORNS ROAD, HALLIWELL BOLTON, BL1 6PD Female 70Y CANT CATCH HER BREATH GRD 370739 411444
-POCSAG1200: Address:  553840  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   10:12-48 23/12/2021 10:11:33 INC 24864696 06D02 91 THORNS ROAD, HALLIWELL BOLTON, BL1 6PD Female 70Y CANT CATCH HER BREATH GRD 370739 411444
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   10:12-14 4687<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   10:11-71 5192<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   10:11-08 23/12/2021 10:10:22 INC 24864692 06E01 32 MALLORY WALK, BROOKLANDS MANCHESTER, M23 9ED Female 30Y asthma attack GRD 379644 389796<NUL><NUL>
-POCSAG1200: Address:  959216  Function: 0 
-POCSAG2400: Address:   11729  Function: 0  Alpha:   10:11-30 PLS CALL INTENSIVE CARE CONSULTANT WILLIAM HARVEY ASAP 07791 788 453 <NUL>
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   10:10-30 Robert Osbourne 07983973356<NUL>
-POCSAG1200: Address:  609175  Function: 2  Alpha:   @$gg<DC2><DC4><DC1>h
-POCSAG1200: Address:  792630  Function: 0 
-POCSAG1200: Address: 1136933  Function: 3  Alpha:   <EOT><LF>
