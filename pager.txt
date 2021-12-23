@@ -1,3 +1,7 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   03:10-03 23/12/2021 03:08:48 INC 24863807 17D05 139 RICE LANE, WALTON L9, L9 1AF Male 70Y DIZZY SPELL - FALLEN GRD 336136 395574
+POCSAG1200: Address:  159128  Function: 2  Alpha:   9&
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308231221+++TIME=0308231221<NUL>
 POCSAG1200: Address:  114413  Function: 2  Alpha:   03:08-04 ~LEVEL 2 <NUL><NUL>
 POCSAG1200: Address:   11760  Function: 0  Alpha:   03:08-09 03:08-08 ~LEVEL 2 <NUL>
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1322527  Function: 2  Alpha:   19:05-67 Steven has left sit
 POCSAG1200: Address: 1500254  Function: 2  Alpha:   19:04-62 TEST PAGE PLEASE RESPOND<NUL>
 POCSAG1200: Address: 1881333  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=
-POCSAG2400: Address: 1321854  Function: 2  Alpha:   19:<DLE><SOH>-50 01539732288
-POCSAG1200: Address:   74752  Function: 2  Alpha:   wy2<DLE>z7<DLE>Z<ESC>Z<SUB>
-POCSAG1200: Address: 1612581  Function: 0  Alpha:   %-<DC4>e<STX>j<DC4>C<ETX><STX><DC3>
-POCSAG2400: Address:   28902  Function: 0  Alpha:   19:02-43 2118<NUL>
