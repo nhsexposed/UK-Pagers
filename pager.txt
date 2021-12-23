@@ -1,3 +1,7 @@
+POCSAG1200: Address:  826667  Function: 2 
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <EM><FF><FS>dL
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  678871  Function: 2  Alpha:   06:35-73 TEST TEST TEST<NUL><NUL>
 POCSAG512: Address:  836072  Function: 1  Alpha:   Y]aeA
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1319054  Function: 2  Alpha:   20:32-30 Donor number - 1534
 POCSAG1200: Address:  680306  Function: 0  Alpha:   <ESC><ETX><DC3><EM><VT><HT>A(<US>A2<US>+%A<SO><VT><GS><VT>%<DC3><BEL>A<DC2><GS><ENQ><US>1]@@<SYN>S]IAdKOCeIgY@<DLE>kEA<RS>aKeCiS_]g]<NUL><NUL>
 POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:31-28 Please call Mary Ray Ward 3485
-POCSAG1200: Address: 1321407  Function: 2  Alpha:   20:30-43 2268386<NUL>
-POCSAG1200: Address:  426013  Function: 2  Alpha:   20:30-94 CALL 0203 162 7527<NUL>
-POCSAG2400: Address:   28904  Function: 0  Alpha:   20:30-11 4660<NUL>
-POCSAG2400: Address: 1814995  Function: 0  Alpha:   <DLE>FP2'p1f
