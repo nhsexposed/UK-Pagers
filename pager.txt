@@ -1,3 +1,18 @@
+POCSAG1200: Address:  360216  Function: 2  Alpha:   21:29-96 33960
+POCSAG2400: Address:  583499  Function: 2  Alpha:   21:28-35 01603711147
+POCSAG2400: Address: 1877585  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2128231221+++TIME=2128231221<NUL>
+POCSAG2400: Address:  583499  Function: 2  Alpha:   21:28-34 0<NUL>
+POCSAG2400: Address:   28908  Function: 0  Alpha:   21:27-64 4183<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   21:27-18 4160<NUL>
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   21:27-74 2343<NUL>
+POCSAG2400: Address: 1974897  Function: 0 
+POCSAG1200: Address:  930510  Function: 2  Alpha:   21:25-72 23/12/2021 21:18:56 INC 24867387 06E01 43 BARON STREET, DARWEN, BB3 1NP Female 75Y PNEUMONIA - SOB GRD 368547 422821
+POCSAG1200: Address:  269111  Function: 2  Alpha:   21:25-21 23/12/2021 21:18:56 INC 24867387 06E01 43 BARON STREET, DARWEN, BB3 1NP Female 75Y PNEUMONIA - SOB GRD 368547 422821
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   21:25-18 23/12/2021 21:18:56 INC 24867387 06E01 43 BARON STREET, DARWEN, BB3 1NP Female 75Y PNEUMONIA - SOB GRD 368547 422821
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   21:25-66 Start Shift Acknowledged Thank you<NUL><NUL>
+POCSAG2400: Address: 1323883  Function: 2  Alpha:   21:24-78 4166<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   21:23-50`=1>3<NUL>
 POCSAG1200: Address: 1277393  Function: 3 
 POCSAG1200: Address: 1974390  Function: 1 
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1324020  Function: 2  Alpha:   17:00-32 Green: This is the 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1703231221+++TIME=1703231221<NUL>
 POCSAG2400: Address: 1323984  Function: 2  Alpha:   17:00-57 Green: This is the daily pager test. Please take no further action.<NUL>
 POCSAG2400: Address: 1323974  Function: 2  Alpha:   17:00-54 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 2028148  Function: 2 
-POCSAG2400: Address: 1324068  Function: 2  Alpha:   17:00-81 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324106  Function: 2  Alpha:   17:00-44 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323913  Function: 2  Alpha:   17:00-74 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1323906  Function: 2  Alpha:   17:00-29 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324063  Function: 2  Alpha:   17:00-87 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324072  Function: 2  Alpha:   17:00-62 Green: This is the daily pager test. <NUL>Lease take no further action.<NUL>
-POCSAG2400: Address: 1012864  Function: 2  Alpha:   ``Zlr@<SO>eKK]u@(QSgARgAhQKAHCSYsA`COKeAhKgi]@ YKCg<VT><EOT>hBWKA\_ALkeiQKeABGiS_]]<NUL>
-POCSAG2400: Address: 1324071  Function: 2  Alpha:   17
-POCSAG1200: Address:  696608  Function: 2  Alpha:   17:13-71 Primary PCI Call, Cath Lab ETA 15 Minutes, Contact BACU on Ext 3246 or 2012 (message sent By Ashford and St Peters Hospitals)
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:13-58 23/12/2021 
-POCSAG2400: Address:  888851  Function: 0  Alpha:   )<BEL>Ad`db<SUB><DC4><SUB><DC4><STX>IISiS_]CYA<DC2>]M_e[CiS_]u<SUB><DC4><SUB><DC4><ACK>%<DC3>)<DC3><BEL><ETX><EM><SOH><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   16:57-93 RECOVERY: Commvault Client Manager Service Instance001 is OK on host UOMPENLCVS01MC1, <CR><LF>RECOVERY: Commvault Client Manager Service Instance001 is OK on host UOMPENLCVS01MC1<CR><LF>Service: Commvault Client Manager Service Instance001<CR><LF>Host: UOMPE<NUL><NUL>
-POCSAG2400: Address:  151703  Function: 2  Alpha:   'ab<SUB><BEL>c<SUB><DC4>&KemSGKu@<ACK>_[[mCkYiA<ACK>YSK]iA<SUB>C]COKeA&KemSGKA<DC2>]giC]GKa`b<SUB><DC4><DLE>_g<SOH><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:57-14 PROBLEM: Windows NIC: Backup is CRITICAL on host UOMPENLCVS01MC1, <CR><LF>PROBLEM: Windows NIC: Backup is CRITICAL on host UOMPENLCVS01MC1<CR><LF>Service: Windows NIC: Backup<CR><LF>Host: UOMPENLCVS01MC1<CR><LF>Alias: <CR><LF>Address: 10.0.40.142<CR><LF>Host Group Hierarchy: <NUL><NUL>
