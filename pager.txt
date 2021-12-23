@@ -1,3 +1,26 @@
+POCSAG1200: Address: 1932984  Function: 3 
+POCSAG1200: Address:  951872  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1543231221+++TIME=1543231221<NUL>
+POCSAG2400: Address:   28868  Function: 0  Alpha:   15:43-57 PLS CALL 35647 DR MANUELLE TUNBRIDGE WELLS RE: REFERRAL 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1543231221+++TIME=1543231221<NUL>
+POCSAG2400: Address: 1913702  Function: 2  Alpha:   15:43-03 5636<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:42-05 2111<NUL>
+POCSAG1200: Address: 1928424  Function: 1 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   15:42-54 23/12/2021 15:40:03 INC 24866019 30D03 O/S, 9 GOUGH AVENUE, LONGFORD WARRINGTON WA2, WA2 9QP Male 45Y 2 PUSHBIKES CRASHED GRD 360536 390522
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   15:42-27 23/12/2021 15:40:03 INC 24866019 30D03 O/S, 9 GOUGH AVENUE, LONGFORD WARRINGTON WA2, WA2 9QP Male 45Y 2 PUSHBIKES CRASHED GRD 360536 390522
+POCSAG1200: Address: 1966611  Function: 0 
+POCSAG1200: Address:  363869  Function: 2  Alpha:   15:42-19 23/12/2021 15:26:57 INC 24865954 31D01 ARINZA APARTMENTS - APARTMENT 1, 1 BEAUMONT STREET, LIVERPOOL, L8 0UR Female 24Y VOMITTING, NOT AWAKE GRD 336541 389298<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   15:42-29 4157<NUL>
+POCSAG1200: Address: 1925683  Function: 2  Alpha:   15:42-88 23/12/2021 15:26:57 INC 24865954 31D01 ARINZA APARTMENTS - APARTMENT 1, 1 BEAUMONT STREET, LIVERPOOL, L8 0UR Female 24Y VOMITTING, NOT AWAKE GRD 336541 389298<NUL>
+POCSAG2400: Address: 1913953  Function: 2  Alpha:   15:42-48 2304<NUL>
+POCSAG1200: Address: 1534100  Function: 2  Alpha:   15:42-24 CAN YOU PHONE LEE SCRIMSHAW AT NEWPORT FIRE STATION ON 07725073731<NUL><NUL>
+POCSAG1200: Address: 1511970  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:41-05 2444<NUL>
+POCSAG2400: Address: 1870385  Function: 3 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:40-04 2018<NUL>
+POCSAG2400: Address: 1320373  Function: 2  Alpha:   15:40-03 5400<NUL>
 POCSAG1200: Address: 1032920  Function: 3  Alpha:   &<LF>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1538231221+++TIME=1538231221<NUL>
 POCSAG1200: Address: 1654585  Function: 3  Alpha:   <RS>\
@@ -975,26 +998,3 @@ POCSAG1200: Address:  906580  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1031883  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  325810  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1031726  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  553925  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761452  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  414106  Function: 3  Alpha:   <DC1>4Y&EC<FF>b
-POCSAG1200: Address:   80193  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015519  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80126  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015501  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039292  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212099  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212194  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  265197  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80200  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  265188  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015512  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812367  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325814  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  647701  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017532  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512755  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032706  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212136  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017551  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1484974  Function: 3  Alpha:   !<ACK>
