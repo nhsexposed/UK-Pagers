@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   16:04-49 call waiting<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   F<LF>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1603231221+++TIME=1603231221<NUL>
+POCSAG1200: Address:  553840  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:02-84 4155<NUL>
+POCSAG512: Address:  114360  Function: 2  Alpha:   16:02-40 Please Respond to Station
+POCSAG1200: Address: 2018039  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   16:02-68 2300<NUL>
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   16:01-10 62818
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   16:01-36
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   16:00-81 4269<NUL>
+POCSAG1200: Address:  600635  Function: 2  Alpha:   16:00-32 856731<NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   16:00-84 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:  549007  Function: 2  Alpha:   16:00-42 please call 8263
+POCSAG1200: Address: 1321675  Function: 2  Alpha:   15:59-04 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehic<DEL>G: cn15rtu~ If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
 POCSAG1200: Address:   42847  Function: 2  Alpha:   15:59-69 5225<NUL>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C%CL
 POCSAG1200: Address: 1594961  Function: 2  Alpha:   15:58-92 52952
@@ -981,20 +998,3 @@ POCSAG2400: Address: 1324176  Function: 2  Alpha:   11:57-47 2444<NUL>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2><EM>
 POCSAG1200: Address:  276576  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1512784  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761496  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032231  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2017537  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619136  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039143  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906542  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  906421  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031689  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812400  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761397  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619140  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325834  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032681  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420512  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1043875  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039231  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512758  Function: 3  Alpha:   !<ACK>
