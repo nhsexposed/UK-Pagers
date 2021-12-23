@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1324564  Function: 2  Alpha:   21:09-51 Confirmed End of Shift Thank you<NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:08-49 Please call Charles Polkey Ward 36483<NUL><NUL>
+POCSAG1200: Address: 1722472  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2108231221+++TIME=2108231221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2108231221+++TIME=2108231221<NUL>
+POCSAG2400: Address:   11691  Function: 0  Alpha:   21:08-64 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:   28937  Function: 0  Alpha:   21:08-80 (1/3)044957-23122021; FIRE IN THE OPEN SMALL; (STREET RECORD),TITSEY ROAD,TITSEY; 540577,153800;
+POCSAG2400: Address:  216748  Function: 2  Alpha:   21:08-52 SOMEONE CONTACT ON 101 REGARDING CASE 381 22/12/2021 IN REALTION EARL STREET IN STAFFORD <NUL><NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   21:07-10 4179<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:06-66 5070<NUL>
+POCSAG1200: Address: 2008959  Function: 0 
+POCSAG1200: Address:   40074  Function: 2  Alpha:   21:06-82 23/12/2021 21:00:52 INC 24867317 17A02G 9 TOTNES AVENUE, BRAMHALL STOCKPORT, SK7 3PH Male 66Y POSS STROKE GRD 390216 386885<NUL><NUL>
+POCSAG1200: Address:   40088  Function: 2  Alpha:   21:06-44 PLEASE CALL EAU ON EXT: 27941<NUL>
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   21:06-14 23/12/2021 21:03:08 INC 24867324 31D03 PULSI PIZZA, BRECK ROAD, POULTON LE FYLDE, FY6 7AA Male 56Y SHAKING AND EYES ROLLED TO BAD OF THE HEAD GRD 334875 439496
+POCSAG1200: Address:  234377  Function: 2  Alpha:   21:06-33 23/12/2021 21:03:08 INC 24867324 31Dp3!ZULSI PIZZA, BRECK ROAD, POULTON LE FYLDE, FY6 7AA Male 56Y SHAKING AND EYES ROLLED TO BAD OF THE HEAD GRD 334875 439496
+POCSAG2400: Address: 1322527  Function: 2  Alpha:   21:05-69 please call switch<NUL>
 POCSAG2400: Address: 1913537  Function: 2  Alpha:   21:04-71 3508<NUL>
 POCSAG1200: Address: 1312598  Function: 2  Alpha:   21:03-42 Stop Message received for Incident 2112008013;  [STOP] 23/12/21 21:03:56 STOP MESSAGE RECEIVED FROM G19P2 (OIC 31277 IN G19P2)<NUL><NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:03-28 4387<NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address:  585540  Function: 2  Alpha:   17:08-55 PLS CALL 6809 <NUL>
 POCSAG1200: Address:  413079  Function: 2  Alpha:   17:01-70 (2/3) BEHIND HALFONDS IN WOODED AREA, YOUTHS HAVING BONFIRE BY RIVERSIDE; Assigned: JY20P1; Roles    JY20P1:Main Pump; Talkgrp  FBER-OPS06 (43*) (DGNA);<NUL>
 POCSAG1200: Address:  413079  Function: 2  Alpha:   17:01-69 (3/3) Additional_Data Address Classification Shop / Showroom<NUL><NUL>
 POCSAG1200: Address:  678665  Function: 2  Alpha:   17:00-85 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-59 PROBLEM: GMMHACLVDA11A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA11A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Tue Dec 21 19:07:25 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-93 PROBLEM: Windows Server Availability is CRITICAL on host GMMHACLVDA11A, <CR><LF>PROBLEM: Windows Server Availability is CRITICAL on host GMMHACLVDA11A<CR><LF>Service: Windows Server Availability<CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>H<NUL><NUL>
-POCSAG2400: Address:  149113  Function: 2  Alpha:   16:57-08 5202<NUL>
-POCSAG1200: Address:  128257  Function: 1 
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:01-24 3181<NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-58 PROBLEM: System Event Notification Service is CRITICAL on host GMMHACLVDA11A, <CR><LF>PROBLEM: System Event Notification Service is CRITICAL on host GMMHACLVDA11A<CR><LF>Service: System Event Notification Service<CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address:<NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-16 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc02b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc02b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG1200: Address: 1454325  Function: 0 
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-12 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc02a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc02a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-26 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CR
-POCSAG2400: Address: 1460655  Function: 0  Alpha:   (<VT>hp<ESC><ESC>;y<CAN>}[<FS>(3y|<x9<EM>(4=9=<EM>H4<CAN>=<EM>(z<FS>hP4<DC2>5r0<DLE><DC3>h[<ESC><BS>z{<FS><GS><BS>9Y<FS>:x<CAN>{[}<CAN>l,8Cb4Y\=z8Y<SO>h<DC3>|\=:y<GS>(<VT>ht<CAN>:<EM>9<GS>;Y<FS>(<VT>hp<ESC><ESC>;y<CAN>}[<FS>(3y|<x9<EM><NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-54 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-47 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derha
-POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-32 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-46 PROBLEM: Opsview - Scheduler - Collecto
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-21 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
