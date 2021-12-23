@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0023231221+++TIME=0023231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0023231221+++TIME=0023231221<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   00:23-18 2183<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1410113  Function: 3 
 POCSAG1200: Address:  360216  Function: 2  Alpha:   00:19-91 33886
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0018231221+++TIME=0018231221<NUL>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   00:18-41 please call kat, frank stansil x37720<NUL><NUL>
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1746806  Function: 0
 POCSAG2400: Address: 1322772  Function: 2  Alpha:   17:47-11 NHSBT - DONOR REFERRAL. Please call DR NATASHA HOWSE on Direct Dial Number 07583 888606 Hospital MUSGROVE PARK Dept itu . Regards Donor Referral Line<NUL>
 POCSAG1200: Address: 2074169  Function: 0 
 POCSAG1200: Address: 2081792  Function: 0  Alpha:   e]]<SOH>QIUQMI<SOH>
-POCSAG1200: Address:  325898  Function: 3  Alpha:   <SYN><DC2>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:46-10 5531<NUL>
-POCSAG2400: Address: 1969033  Function: 0 
-POCSAG2400: Address:  161040  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   17:45-59 4311<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1743221221+++TIME=1743221221<NUL>
