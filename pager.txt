@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:14-85 3567<NUL>
+POCSAG2400: Address: 1913676  Function: 2  Alpha:   16:13-17 3103<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1613231221+++TIME=1613231221<NUL>
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   V<ACK>
+POCSAG2400: Address: 1913929  Function: 2  Alpha:   16:13-00 2344<NUL>
+POCSAG512: Address: 1485414  Function: 2 
+POCSAG2400: Address: 1321465  Function: 2  Alpha:   16:13-21 36514
+POCSAG2400: Address:  201617  Function: 3 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:12-07 4156<NUL>
+POCSAG1200: Address: 1511876  Function: 2  Alpha:   <DC1>"
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:12-97 5201<NUL>
+POCSAG2400: Address: 1913774  Function: 2  Alpha:   16:12-51 5072<NUL>
+POCSAG1200: Address: 1503120  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   16:11-80 33879
+POCSAG2400: Address: 1260094  Function: 2  Alpha:   16:10-03 2054<NUL>
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:08-31 3104<NUL>
 POCSAG2400: Address: 1913686  Function: 2  Alpha:   16:08-89 4954<NUL>
 POCSAG1200: Address:   40074  Function: 2  Alpha:   16:08-50 23/12/2021 16:06:28 INC 24866111 26A07 MANOR COURT - FLAT 114, MANOR AVENUE, SALE, M33 5LX 
@@ -983,18 +998,3 @@ POCSAG2400: Address:   33740  Function: 2  Alpha:   12:02-02 INC ALERT No: 16959
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1913835  Function: 2  Alpha:   12:01-09 4387<NUL>
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   12:01-61 5201<NUL>
-POCSAG2400: Address:   67844  Function: 0  Alpha:   D<CAN><HT><LF>Z(<LF>D<EM>hYH<ENQ>$XJXH<ENQ>T<BS>+6<ACK><DC4><BEL><SUB>H<ENQ>D<SUB>]]<FF>tm<FF>4<CAN>LM-<BEL>$6v<NAK>&v%<ACK>&<SYN><ACK><DC4><SYN>&Wv&GVF<ENQ>4x]u-N<.<BEL>T<ACK>f<ENQ><BEL>'6<ACK>v&<ACK>TEfE
-POCSAG2400: Address:  216730  Function: 2  Alpha:   12:01-10 INC ALERT No: 16959515 Unconscious/Fainting (Near) - PT - F - SLEEPY, HOT, TEMP, 02 LEVELS 89, AT: 3 PARK COURT, A39 BETWEEN TAYLORS CROSS 
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   12:01-33 4316<NUL>
-POCSAG1200: Address: 1032196  Function: 2  Alpha:   <STX>`
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:00-15 4156<NUL>
-POCSAG2400: Address: 1913739  Function: 2  Alpha:   12:00-41 3125<NUL>
-POCSAG1200: Address:  212249  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290190  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032178  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325929  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619046  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80189  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512848  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290159  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512838  Function: 3  Alpha:   !<ACK>
