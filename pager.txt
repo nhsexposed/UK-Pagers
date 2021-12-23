@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1323785  Function: 2  Alpha:   15:14-68 2344<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:14-75 33879
+POCSAG2400: Address: 1913959  Function: 2  Alpha:   15:14-34 5815<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1513231221+++TIME=1513231221<NUL>
+POCSAG2400: Address: 1913729  Function: 2  Alpha:   15:13-39 2560<NUL>
+POCSAG1200: Address: 1032981  Function: 2  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1485641  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   15:12-07 2444<NUL>
+POCSAG1200: Address: 1259045  Function: 2  Alpha:   15:11-04 Call or Calls waiting at Switchboard
+POCSAG2400: Address:   28896  Function: 0  Alpha:   15:11-34 2183<NUL>
+POCSAG1200: Address: 2017494  Function: 2  Alpha:   V*QbL
+POCSAG2400: Address: 1031859  Function: 0 
+POCSAG1200: Address: 1511856  Function: 2  Alpha:   Vr
+POCSAG2400: Address:   28904  Function: 0  Alpha:   15:09-16 4283<NUL>
 POCSAG2400: Address: 1031859  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1508231221+++TIME=1508231221<NUL>
 POCSAG2400: Address: 1913670  Function: 2  Alpha:   15:08-70 3157<NUL>
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1032460  Function: 3  Alpha:   <ETX><HT>
 POCSAG1200: Address: 1562573  Function: 2  Alpha:   11:39-81 888000<NUL><NUL>
 POCSAG1200: Address: 2011888  Function: 0 
 POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:39-33 TEST TEST <NUL>
-POCSAG1200: Address: 1032689  Function: 3  Alpha:   VD
-POCSAG1200: Address: 1060096  Function: 2 
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   11:37-37 5530<NUL>
-POCSAG1200: Address:  696945  Function: 0 
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   11:36-68 INC ALERT No: 16959450 Cardiac Arrest -, AT: 117 HOLLY HILL ROAD, KINGSWOOD BRISTOL, BS15 4DL, Time of Call: 23/12/2021 11:35:40, Co-ords: 51.4667279 -2.4912767<NUL><NUL>
-POCSAG1200: Address: 1032147  Function: 2  Alpha:   <BS>i
-POCSAG2400: Address: 1320200  Function: 2  Alpha:   11:36-75 5072<NUL>
-POCSAG1200: Address:   11771  Function: 0  Alpha:   11:36-43 TEST CALL REPLY TO EXT 2002 OR 2998 
-POCSAG1200: Address: 1511876  Function: 2  Alpha:   <DC1>"
-POCSAG2400: Address: 1499739  Function: 0 
-POCSAG2400: Address: 1320374  Function: 2  Alpha:   11:35-38 4314<NUL>
-POCSAG1200: Address: 1880946  Function: 3 
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address: 1320372  Function: 2  Alpha:   11:34-16 5205<NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   11:33-75 23/12/2021 11:29:39 INC 24864982 06E01E 82 DARMONDS GREEN AVENUE, ANFIELD L6, L6 0DP Female 93Y STRUGGLING T
