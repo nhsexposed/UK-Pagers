@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1784016  Function: 2  Alpha:   "<VT>+;<ETX>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   01:24-47
+POCSAG2400: Address:   28904  Function: 0  Alpha:   01:22-12 4188<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1925683  Function: 2  Alpha:   01:17-49 23/12/2021 01:16:13 INC 24863574 04D02A TAXI RANK, uECKSON ROAD, BLACKPOOL, FY1 2AA Female 35Y ASSAULT GRD 330852 436588<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1321863  Function: 2  Alpha:   01:16-08 23/12/2021 01:15:26 INC 24863573 06D02 164 HOGHTON LANE,
@@ -994,7 +998,3 @@ POCSAG2400: Address:   28896  Function: 0  Alpha:   18:17-05 5202<NUL>
 POCSAG1200: Address:  269056  Function: 1 
 POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS><NUL>0f
 POCSAG1200: Address: 1285924  Function: 3 
-POCSAG1200: Address: 1157979  Function: 0  Alpha:   bh
-POCSAG1200: Address: 1474934  Function: 2  Alpha:   @<SUB>
-POCSAG1200: Address:  825606  Function: 3 
-POCSAG1200: Address:  827476  Function: 3  Alpha:   <STX><STX>
