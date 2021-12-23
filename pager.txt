@@ -1,3 +1,21 @@
+POCSAG1200: Address:  420498  Function: 3  Alpha:   <BEL>K
+POCSAG1200: Address: 1484850  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1853231221+++TIME=1853231221<NUL>
+POCSAG1200: Address: 1032714  Function: 3  Alpha:   <ENQ>l
+POCSAG2400: Address:  725847  Function: 1  Alpha:   `\fldfb`nbf@Zh\`nb``pnhp<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1324561  Function: 2  Alpha:   18:53-44 INC ALERT No: 16960710 Traffic/Transportation Accidents - MOTORBIKE VS CAR, AT: A30 TOWARDS HONITON, HONITON SHOW GROUND, NAGS HEAD ROAD, GITTISHAM HONITON, EX14 3AW, Time of Call: 23/12/2021 18:51:05, Co-ords: 50.7890102 -3.2324571<NUL>
+POCSAG2400: Address:   28902  Function: 0  Alpha:   18:52-47 3240<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28924  Function: 0  Alpha:   18:52-42 2188<NUL>
+POCSAG1200: Address:  149924  Function: 3  Alpha:   A<EM>
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   18:51-69 4769<NUL>
+POCSAG1200: Address: 1290855  Function: 0 
+POCSAG1200: Address: 1221206  Function: 0 
+POCSAG1200: Address:  413059  Function: 2  Alpha:   18:50-53 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
+POCSAG1200: Address:  970328  Function: 0 
+POCSAG1200: Address:  281010  Function: 0  Alpha:   5<DLE><DC1>31<SYN><BS><BS><BS><BS><BS><BS><BS><BS><BS>HtQL<CR><BS>M<DC3><DC1><BS>5<RS><<EM><BS><BS><BS><BS><NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   18:49-34 283<NUL><NUL>
 POCSAG1200: Address: 1816735  Function: 2  Alpha:   18:49-52 (1/3)033703-23122021; F4.0.0.P FIRE - DOMESTIC; 28 MAPLE GROVE,TADLEY,RG26 4ND; 459957,161649; ATTENDING WITH TADLEY; TALKGROUP OPS 3 380*;
 POCSAG1200: Address: 1259427  Function: 2  Alpha:   18:49-89 23/12/2021 18:46:46 INC 24866729 30D03 ANAR RESTAURANT, 130 PRESCOT ROAD, LIVERPOOL L7, L7 0JB Male 31Y ELBOW COME OUT OF PLACE GRD 337812 391137
 POCSAG2400: Address: 2031608  Function: 3 
@@ -980,21 +998,3 @@ POCSAG1200: Address: 2025082  Function: 0
 POCSAG2400: Address: 1320201  Function: 2  Alpha:   15:16-10 2561<NUL>
 POCSAG1200: Address: 1512669  Function: 3  Alpha:   R&
 POCSAG2400: Address: 1323785  Function: 2  Alpha:   15:14-68 2344<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   15:14-75 33879
-POCSAG2400: Address: 1913959  Function: 2  Alpha:   15:14-34 5815<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1513231221+++TIME=1513231221<NUL>
-POCSAG2400: Address: 1913729  Function: 2  Alpha:   15:13-39 2560<NUL>
-POCSAG1200: Address: 1032981  Function: 2  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1485641  Function: 3  Alpha:   <DC1>"
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913756  Function: 2  Alpha:   15:12-07 2444<NUL>
-POCSAG1200: Address: 1259045  Function: 2  Alpha:   15:11-04 Call or Calls waiting at Switchboard
-POCSAG2400: Address:   28896  Function: 0  Alpha:   15:11-34 2183<NUL>
-POCSAG1200: Address: 2017494  Function: 2  Alpha:   V*QbL
-POCSAG2400: Address: 1031859  Function: 0 
-POCSAG1200: Address: 1511856  Function: 2  Alpha:   Vr
-POCSAG2400: Address:   28904  Function: 0  Alpha:   15:09-16 4283<NUL>
-POCSAG2400: Address: 1031859  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1508231221+++TIME=1508231221<NUL>
-POCSAG2400: Address: 1913670  Function: 2  Alpha:   15:08-70 3157<NUL>
-POCSAG2400: Address:  549705  Function: 2  Alpha:   15:08-22 15:08-21 TEST
