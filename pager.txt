@@ -1,3 +1,9 @@
+POCSAG1200: Address:  227361  Function: 0  Alpha:   04:09-59 50795
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0408231221+++TIME=04082312r-<DLE>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408231221+++TIME=0408231221<NUL>
+POCSAG1200: Address: 1812479  Function: 3  Alpha:   'bI`L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  504694  Function: 0 
 POCSAG2400: Address:   28916  Function: 0  Alpha:   04:03-56 4373<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1534286  Function: 0  Alpha:   <ACK>S<BEL><ETX><ENQ><DC2><DC3>K<ETB>OO<ETX><CR>2<BEL>OO'<ESC>'<SI><BEL>S'?;<ETX><DC1><SYN>S<BEL><SI>#<ETB><DC3><ETX><SOH>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:25-35 5440<NUL>
 POCSAG1200: Address:   80176  Function: 3  Alpha:   <DC2>CACL
 POCSAG1200: Address: 2011890  Function: 0 
-POCSAG2400: Address: 1814983  Function: 2  Alpha:   19:24-20 Sorry the number for Mrs  Stabeler is 07305 118219.
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   19:24-34 4387<NUL>
-POCSAG1200: Address: 1817257  Function: 2  Alpha:   19:24-23 33835
-POCSAG1200: Address:   41512  Function: 2  Alpha:   19:24-49 33835
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:   28899  Function: 0  Alpha:   19:23-65 4373<NUL>
