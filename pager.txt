@@ -1,3 +1,27 @@
+POCSAG1200: Address: 1090108  Function: 2 
+POCSAG2400: Address: 1505401  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1218231221+++TIME=1218231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1218231221+++TIME=1218231221<NUL>
+POCSAG2400: Address: 1913792  Function: 2  Alpha:   12:18-62 3509<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   12:18-46 4399<NUL>
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   &<STX>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:17-64 5075<NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   12:17-43 4311<NUL>
+POCSAG1200: Address: 1573739  Function: 2  Alpha:   12:16-97 4226<NUL>
+POCSAG1200: Address:  553840  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  420362  Function: 0 
+POCSAG1200: Address: 2012021  Function: 1 
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   &0
+POCSAG2400: Address:  963123  Function: 1 
+POCSAG2400: Address:  149184  Function: 2  Alpha:   12:15-28 NHSBT - DONOR REFERRAL. Please call GREGG PACKER on Direct Dial Number 07837900966 Hospital QUEEN ELIZABETH BIRMINGHAM  Dept CRITICAL CARE AREA B  . Regards Donor Referral Line
+POCSAG2400: Address: 2091646  Function: 0 
+POCSAG2400: Address: 1913725  Function: 2  Alpha:   12:15-39 5913<NUL>
+POCSAG2400: Address: 2011057  Function: 0 
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   12:15-65 4316<NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   12:14-05 23/12
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   &0
+POCSAG1200: Address:  290040  Function: 3  Alpha:   <ENQ>"
 POCSAG2400: Address: 1323879  Function: 2  Alpha:   12:14-50 4908<NUL>
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   12:14-17 5201<NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   12:14-19 23/12/2021 12:11:30 INC 24865129 09E01 FLAT 2, 19 ONSLOW ROAD, FAIRFIELD L6, L6 3BA Male 55Y FOUND ON FLOOR FACE DOWN GRD 337461 391192<NUL>
@@ -974,27 +998,3 @@ POCSAG2400: Address:  553120  Function: 2  Alpha:   09:07-66 0<NUL>
 POCSAG1200: Address:  553840  Function: 3  Alpha:   &0
 POCSAG2400: Address: 1913978  Function: 2  Alpha:   09:05-31 2364<NUL>
 POCSAG2400: Address: 1913722  Function: 2  Alpha:   09:05-37 5153<NUL>
-POCSAG1200: Address: 1022781  Function: 2  Alpha:   09:05-65 Device is Down (FPS Alerts)., FPS_Alert_4-Out-Response-over-3-minutes is Down on Device: FPS Alerts (10.100.31.180).<CR><LF><CR><LF>Details:<CR><LF>Monitors that are down include: FPS_Alert_4-Out-Response-over-3-minutes<CR><LF>Monitors that are up include: FPS_Ale<NUL><NUL>
-POCSAG1200: Address: 1321712  Function: 2  Alpha:   09:05-95 Destination: Parking\D78 Ext TP, Booking Ref#: 806540, Vehicle: au69kpk. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
-POCSAG1200: Address:  549776  Function: 2  Alpha:   09:04-48 ~PLEASE CONTACT RCC TO CONFIRM ON OR OFF DUTY TODAY
-POCSAG1200: Address:  536206  Function: 0  Alpha:   %<EOT><SUB>#<ESC><ESC>CK<ETX>*+<ESC>;<ETX>K<ETX><NUL>
-POCSAG1200: Address:  646500  Function: 2  Alpha:   09:04-00 23/12/2021 08:58:39 INC 24864457 10D02 RUSKIN UNIT, CARLETON CLINIC, CUMWHINTON ROAD, HARRABY CARLISLE, CA1 3SX Male 79Y UNWITNESSED FAL
-POCSAG1200: Address: 1022230  Function: 2  Alpha:   09:03-85 23/12/2021 09:00:13 INC 24864462 23C01I BAILEY COURT, JAMES HOLT AVENUE, WESTVALE KIRKBY L32, L32 5LA Male 50Y STUMBLING - SHAKING - NOT MAKING MUCH SENSE GRD 340476 398488<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903231221+++TIME=0903231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0903231221+++TIME=0903231221<NUL>
-POCSAG1200: Address: 1811477  Function: 2  Alpha:   09:03-72 Please Call Switchboard<NUL><NUL>
-POCSAG2400: Address: 1323991  Function: 2  Alpha:   09:03-26 5070<NUL>
-POCSAG1200: Address: 1745488  Function: 0 
-POCSAG1200: Address:  931658  Function: 2  Alpha:   09:02-00 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   09:02-56 70940090
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913889  Function: 2  Alpha:   09:02-55 4269<NUL>
-POCSAG1200: Address:  549694  Function: 2  Alpha:   09:02-36 ~PLEASE CONTACT CONTROLS<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   09:02-55 Please Call Switchboard<NUL><NUL>
-POCSAG2400: Address: 1323318  Function: 2  Alpha:   09:00-98 888000<NUL><NUL>
-POCSAG1200: Address: 1031990  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420495  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032614  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   09:00-77 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address: 1761263  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1033022  Function: 3  Alpha:   !<ACK>
