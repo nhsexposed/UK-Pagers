@@ -1,3 +1,17 @@
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &D
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2058231221+++TIME=2058231221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2058231221+++TIME=2058231221<NUL>
+POCSAG2400: Address:  216736  Function: 2  Alpha:   20:58-36 PLEASE CALL 07790 566 920
+POCSAG2400: Address:  979393  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  350338  Function: 0  Alpha:   20:57-72 23/12/2021 20:55:39 INC 24867292 31D04 68 CHRIST CHURCH STREET, PRESTON, PR1 8PJ Female 34Y FAINTED GRD 353060 429121<NUL><NUL>
+POCSAG2400: Address: 1324567  Function: 2  Alpha:   20:57-42 INC ALERT No: 16961051 Traffic/Transportation Accidents - RTC - ROLLED HER CAR - HEAD INJURY, AT: W3W: LOOKED FRUITCAKE SCRUM, GREAT TORRINGTON, DEVON, Time of Call: 23/12/2021 20:55:19, Co-ords: 50.969963 -4.111447<NUL>
+POCSAG1200: Address: 1321708  Function: 2  Alpha:   20:57-37 Destination: D105 SSC In\116, Booking Ref#: 806051, Vehicle: DF64GUG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boo<NUL><NUL>
+POCSAG1200: Address: 1259045  Function: 2  Alpha:   20:57-10 call reception<NUL><NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   20:56-42 23/12/2021 20:52:32 INC 24867283 28C01J 1 KINCARDINE AVENUE, MARTON BLACKPOOL, FY4 5NN Male 60Y Q STROKE GRD 333131 432809
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:56-49 2638<NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   20:55-16 5228<NUL>
+POCSAG1200: Address:  549785  Function: 2  Alpha:   20:55-88 ~FOR INFO: S3102 WILL BE OFF RUN A WHILE - CHANGEOVER REQUIRED
 POCSAG2400: Address: 1095090  Function: 0 
 POCSAG2400: Address: 1321148  Function: 2  Alpha:   20:54-47 2100 Meeting Stood down. Thanks John Dodds EPRR Tac Ad<NUL><NUL>
 POCSAG2400: Address: 1321114  Function: 2  Alpha:   20:54-22 2100 Meeting Stood down. Thanks John Dodds EPRR Tac Ad<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG2400: Address:  216263  Function: 2  Alpha:   16
 POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-07 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
 POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56
 POCSAG1200: Address:  695065  Function: 2  Alpha:   17:04-12 33459
-POCSAG2400: Address: 1323318  Function: 2  Alpha:   16:56-99 please call 888000<NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-97 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   16:56-03 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-61 PROBLEM: Opsview - Scheduler - Collector Message`Y}eue Rate is CRITICAL on host derhaclovc03a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  959600  Function: 0 
-POCSAG1200: Address: 2075376  Function: 1 
-POCSAG2400: Address:  197303  Function: 0  Alpha:   <LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  216251  Function: 2  Alpha:   16:56-12 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gm
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-83 PROBLEM: Opsview - 
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-59 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpcovc01a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpcovc01a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-90 PROBLEM: Opsv
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-92 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host brcedulovc01a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host brs=dulovc01a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 2078336  Function: 3  Alpha:   <DC2><SYN><US>.&.g~6<US><ACK><VT><VT>f<STX>jP<NUL><NAK>}<DC4>d,lT<ETX>z<EOT><US>7O.><BEL>j<STX><SUB><GS>F.&.g.<SYN><BEL>j<STX><SUB>|ff.<RS>&<DEL><SYN><BEL>j,<RS><US><SI>>.<ACK><LF>-/./<ACK><DC2><CR>&/<ACK>J<RS><BEL><SUB><DC4>M$M<FS><FF>d<EOT>zv<ACK>B~<RS>'<BEL><DC2><SYN><US>.&.g~6<US><ACK><VT><VT>nP<CAN>-<SYN>7O<RS>.V<ETX>z<EOT><US>7O.><BEL>j<STX><SUB><GS>F.&.g.<SYN><BEL>j<STX><SUB>|ff.<RS>&<DEL><SYN><BEL>j,<RS><US><SI>>.<ACK><NUL>
-POCSAG2400: Address: 2036960  Function: 0  Alpha:   emSGKu@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOK<SOH><NUL>
