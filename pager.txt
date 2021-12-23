@@ -1,3 +1,22 @@
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   21:04-71 3508<NUL>
+POCSAG1200: Address: 1312598  Function: 2  Alpha:   21:03-42 Stop Message received for Incident 2112008013;  [STOP] 23/12/21 21:03:56 STOP MESSAGE RECEIVED FROM G19P2 (OIC 31277 IN G19P2)<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:03-28 4387<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   21:03-52 3132<NUL>
+POCSAG1200: Address:  600697  Function: 0  Alpha:   21:03-72  PLEASE CALL ROSE ON 01617 943 847, URGENT
+POCSAG1200: Address: 1321531  Function: 2  Alpha:   21:03-73 992283333633<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   21:02-47 23/12/2021 21:00:22 INC 24867312 10D01 OUTSIDE ENTRANCE, TESCO STORES LTD, TOWNGATE, LEYLAND, PR25 2FN Male 46Y COLLAPSED OUTSIDE GRD 354067 421752<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  305200  Function: 0 
+POCSAG2400: Address:  939784  Function: 3 
+POCSAG2400: Address:  642816  Function: 0 
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   21:01-27 4187<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   21:01-66 23/12/2021 20:59:59 INC 2|<CAN>57308 31E01 42 RAE STREET, EDGELEY STOCKPORT, SK3 9LJ Female 61Y DIZZY GRD 388387 389787<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   21:01-40 23/12/2021 20:59:59 INC 24867308 31E01 42 RAE STREET, EDGELEY STOCKPORT, SK3 9LJ Female 61Y DIZZY GRD 388387 389787<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:01-43 23/12/2021 20:59:59 INC 24867308 31E01 42 RAE STREET, EDGELEY STOCKPORT, SK3 9LJ Female 61Y DIZZY GRD 388387 389787<NUL>
+POCSAG1200: Address:  428347  Function: 2  Alpha:   21:01-38 23/12/2021 20:54:16 INC 24867289 17D05 CATHOLIC BLIND INSTITUTE CHRISTOPHER GRANGE, YOUENS WAY, DOVECOT L14, L14 2EW Female 80Y FALLEN DOWN THE STAIRS, IMMOBLE, A LOT OF BLOOD ON HEAD GRD 341268 392079<NUL>
+POCSAG1200: Address: 2008952  Function: 0 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   21:00-89 Case ref 11276206 Fill in tick sheet
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   &D
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2058231221+++TIME=2058231221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2058231221+++TIME=2058231221<NUL>
@@ -979,22 +998,3 @@ POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-47 PROBLEM: Opsview - 
 POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-32 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host derhaclovc03a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   16:56-46 PROBLEM: Opsview - Scheduler - Collecto
 POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-21 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc04b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56-83 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host brcedulovc02a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host brcedulovc02a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG1200: Address: 1685089  Function: 0 
-POCSAG1200: Address: 1631849  Function: 0 
-POCSAG1200: Address:  184944  Function: 2 
-POCSAG2400: Address: 1488481  Function: 1 
-POCSAG2400: Address:  565874  Function: 1 
-POCSAG2400: Address:   28916  Function: 0  Alpha:   17:00-63 4379<NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-01 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host
-POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-21 PROBL
-POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-07 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc03a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc03a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 2000705  Function: 0 
-POCSAG2400: Address: 2093440  Function: 2  Alpha:   YKGi_eA<SUB>KggCOKA"kKkKA$CiKARgA<ACK>%<DC3>)<DC3><BEL><ETX><EM>A^]AP_giAN[[QCGY_mGafBY@<SUB><DC4> %<US><ENQ><EM><VT><ESC>u@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOKA"kKkKA$CiKARgA<ACK>%<DC3>)<DC3><BEL><ETX><EM>A^]AP_giAN[[QCGY_mGafB<ESC><DC4>&KemSGKu@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOK<SOH><NUL>
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-99 PROBLEM: Opsview - Scheduler - Co
-POCSAG2400: Address:  216251  Function: 2  Alpha:   16:56
-POCSAG2400: Address: 1011728  Function: 0  Alpha:   jlZdd@ %<US><ENQ><EM><VT><ESC>u@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOKA"kKkKA$CiKARgA<ACK>%<DC3>)<DC3><BEL><ETX><EM>A^]AP_giAN[[QCGY_mGadBY@<SUB><DC4> %<US><ENQ><EM><VT><ESC>u@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOKA"kKkKA$CiKARgA<ACK>%<DC3>)<DC3><BEL><ETX><EM>A^]AP_giAN[[QCGY_mGadB<ESC><DC4>&KemSGKu@<RS>agmSKoAZ@&GQKIkYKeAZ@<ACK>_YYKGi_eA<SUB>KggCOK<SOH><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16
-POCSAG2400: Address:  216272  Function: 2  Alpha:   16:56-07 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:56
-POCSAG1200: Address:  695065  Function: 2  Alpha:   17:04-12 33459
