@@ -1,3 +1,22 @@
+POCSAG1200: Address: 1880696  Function: 1 
+POCSAG1200: Address: 2075247  Function: 0 
+POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-72 PROBLEM: Windows Management Instrumentation is CRITICAL on host UOMPENLCVS01MC1, <CR><LF>PROBLEM: Windows Management Instrumentation is CRITICAL on host UOMPENLCVS01MC1<CR><LF>Service: Windows Management Instrumentation<CR><LF>Host: UOMPENLCVS01MC1<CR><LF>Alias: <CR><NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-74 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc02a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc02a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
+POCSAG2400: Address:  949715  Function: 2 
+POCSAG2400: Address: 1610359  Function: 0 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-70 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
+POCSAG1200: Address:  225746  Function: 2  Alpha:   17:02-48 Please contact security control on 0151 350 4545, many thanks<NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-33 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc03b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc03b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
+POCSAG2400: Address: 2077694  Function: 2 
+POCSAG2400: Address: 2047392  Function: 2  Alpha:   <GS>J?WC<ETX>!&<ETB>K<BEL>K<SI>#gk<SOH>5(LR<BEL>S<ETX><NUL>
+POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:57-30 PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A, <CR><LF>PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A<CR><LF>Service: NxLog Service<CR><LF>Host: GMMHACLVDA25A<CR><LF>Alias: <CR><LF>Address: 192.168.23.155<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Da<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   16:57-64 PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A, <CR><LF>PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A<CR><LF>Service: NxLog Service<CR><LF>Host: GMMHACLVDA25A<CR><LF>Alias: <CR><LF>Address: 192.168.23.155<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Da<NUL><NUL>
+POCSAG1200: Address:  585540  Function: 2  Alpha:   17:08-55 PLS CALL 6809 <NUL><NUL>
+POCSAG1200: Address:  413079  Function: 2  Alpha:   17:01-70 (2/3) BEHIND HALFONDS IN WOODED AREA, YOUTHS HAVING BONFIRE BY RIVERSIDE; Assigned: JY20P1; Roles    JY20P1:Main Pump; Talkgrp  FBER-OPS06 (43*) (DGNA);<NUL>
+POCSAG1200: Address:  413079  Function: 2  Alpha:   17:01-69 (3/3) Additional_Data Address Classification Shop / Showroom<NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   17:00-85 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-59 PROBLEM: GMMHACLVDA11A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA11A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Tue Dec 21 19:07:25 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
 POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-93 PROBLEM: Windows Server Availability is CRITICAL on host GMMHACLVDA11A, <CR><LF>PROBLEM: Windows Server Availability is CRITICAL on host GMMHACLVDA11A<CR><LF>Service: Windows Server Availability<CR><LF>Host: GMMHACLVDA11A<CR><LF>Alias: <CR><LF>Address: 192.168.23.141<CR><LF>H<NUL><NUL>
 POCSAG2400: Address:  149113  Function: 2  Alpha:   16:57-08 5202<NUL>
 POCSAG1200: Address:  128257  Function: 1 
@@ -979,22 +998,3 @@ POCSAG1200: Address: 1032158  Function: 3  Alpha:   Sb
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  360002  Function: 0  Alpha:   13:06-56 23/12/2021 13:04:39 INC 24865371 31D04 16 EDITH STREET, NELSON, BB9 9HU Female 85Y FALLEN GRD 386753 437915<NUL>
 POCSAG1200: Address: 1344117  Function: 3 
-POCSAG1200: Address:  548160  Function: 2  Alpha:   13:06-36 -3622
-POCSAG2400: Address: 1913570  Function: 2  Alpha:   13:06-83 4269<NUL>
-POCSAG1200: Address:  230853  Function: 3  Alpha:   6"
-POCSAG2400: Address: 1913953  Function: 2  Alpha:   13:04-45 5342<NUL>
-POCSAG1200: Address:  991360  Function: 0  Alpha:   <ACK><ETX>%A,'A<ACK><ETX>%A<SO>%<HT>Afpdndj@hfdpbf
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1303231221+++TIME=1303231221<NUL>
-POCSAG2400: Address: 1324542  Function: 2  Alpha:   13:03-16 INC ALERT No: 16959689 Unconscious/Fainting (Near) - M - HX OF STROKE, NOW FAINTING, SWEATING, AT: 17 NORTH STREET, FOWEY, PL23 1DB, Time of Call: 23/12/2021 13:02:12, Co-ords: 50.337261596 -4.633303819
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1303231221+++TIME=1303231221<NUL>
-POCSAG1200: Address:  618382  Function: 2  Alpha:   E<ACK>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   13:03-18 23/12/2021 12:59:34 INC 24865349 O/S, 15 BREAD STREET, WHITTLEFIELD BURNLEY, BB12 0PX Unknown UnknownY RTC CAR VS CAR GRD 382725 432813<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:02-16 4314<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
-POCSAG2400: Address: 1324553  Function: 2  Alpha:   13:02-52 INC ALERT No: 16959684 Cardiac Arrest -, AT: EDWARD MAY COURT - FLAT 3, MOUNT ROAD, WEST HOWE BOURNEMOUTH, BH11 8AW, Time of Call: 23/12/2021 13:01:30, Co-ords: 50.7606597 -1.9096972
-POCSAG1200: Address: 1746578  Function: 0 
-POCSAG1200: Address:   74752  Function: 2  Alpha:   <STX>A2<SYN><ACK>N<SYN><STX>
-POCSAG1200: Address:  549811  Function: 2  Alpha:   13:02-84 ~CONTACT CONTROL
-POCSAG1200: Address:  230853  Function: 3  Alpha:   6"
-POCSAG2400: Address: 1378883  Function: 1  Alpha:   <ESC>H{<ESC>=Z9z8<CAN>=z[[<VT><NUL><NUL>
