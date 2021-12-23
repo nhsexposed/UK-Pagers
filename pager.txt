@@ -1,3 +1,25 @@
+POCSAG1200: Address: 2077695  Function: 2 
+POCSAG2400: Address:   28870  Function: 0  Alpha:   11:09-54 SPARROWS WARD -WE HAVE PATIENT CALLED KATIE HIRST ON 01843 234 571<NUL><NUL>
+POCSAG1200: Address: 1807302  Function: 2  Alpha:   11:08-88 5993<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1108231221+++TIME=1108231221<NUL>
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   11:08-31 5092<NUL>
+POCSAG2400: Address: 1320362  Function: 2  Alpha:   11:08-30 3164<NUL>
+POCSAG1200: Address:  265341  Function: 3  Alpha:   U&
+POCSAG1200: Address: 1032928  Function: 0 
+POCSAG1200: Address:  548039  Function: 2  Alpha:   11zO-<ESC>X[V<CAN><ESC>Pfi#<CAN>YV9tpur<P#)"PY<EM>Y\<EM><FS>P<EM>\\YZ<FS>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   11:07-05 MSG02-shakey GRD 332938 389359
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   11:07-49 5205<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   11:07-40 MSG02-shakey GRD 332938 389359
+POCSAG2400: Address: 1320361  Function: 2  Alpha:   11:06-06 5153<NUL>
+POCSAG1200: Address:  163033  Function: 1 
+POCSAG1200: Address: 2073456  Function: 2 
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   11:06-37 23/12/2021 11:04:50 INC 24864886 09E01 152 WHITCHURCH ROAD, WITHINGTON MANCHESTER, M20 1FZ Female 80Y not breathing GRD 383843 393257
+POCSAG2400: Address: 1778293  Function: 0 
+POCSAG2400: Address: 1913810  Function: 2  Alpha:   11:05-32 4188<NUL>
+POCSAG1200: Address:  271056  Function: 1 
+POCSAG1200: Address:  277501  Function: 3  Alpha:   J<EM>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   11:04-62 23/12/2021 11:02:21 INC 24864871 06D01 WOODTOP - FLAT 10, HARCOURT STREET, BURNLEY, BB11 5AR Male 90Y 90YOM - BURNING IN ARMS CANT LIFT THEM- BREATHING RAPID GRD 382574 432433<NUL>
 POCSAG1200: Address:  619020  Function: 3  Alpha:   &<LF>
 POCSAG1200: Address: 2047648  Function: 2  Alpha:   <ENQ><STX><CR>Ltd<STX><SUB>=-<FF>$Mt<<EOT><LF>t$<EOT>b,4$<ENQ><LF><DC4>m<EOT><STX><CR>Lt<EOT>:<DC4>%<EOT><SUB>3<ESC><ESC>3+<ETX><SUB>;<DC3><VT><ESC><VT>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1103231221+++TIME=1103231221<NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address:   28922  Function: 0  Alpha:   04:13-42 2183<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1942116  Function: 0 
 POCSAG1200: Address: 1013917  Function: 2  Alpha:   04:09-62 DSCC DUTY CASE PIN 10128, 03457 500 620 <NUL><NUL>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   04:09-59 50795
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0408231221+++TIME=04082312r-<DLE>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408231221+++TIME=0408231221<NUL>
-POCSAG1200: Address: 1812479  Function: 3  Alpha:   'bI`L
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  504694  Function: 0 
-POCSAG2400: Address:   28916  Function: 0  Alpha:   04:03-56 4373<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1534286  Function: 0  Alpha:   <ACK>S<BEL><ETX><ENQ><DC2><DC3>K<ETB>OO<ETX><CR>2<BEL>OO'<ESC>'<SI><BEL>S'?;<ETX><DC1><SYN>S<BEL><SI>#<ETB><DC3><ETX><SOH>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:01-75 2343<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0358231221+++TIME=0358231221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358231221+++TIME=0358231221<NUL>
-POCSAG2400: Address:  820877  Function: 2  Alpha:   03:58-50 [[2021 043696]] INCIDENT: ATTENDANCE REQUEST, Attendance Request<CR><LF><CR><LF>Team: HILCRT<CR><LF>Type: PERSON JUMPED OFF BRIDGE INTO WATER<CR><LF>When: Thu, 23 Dec 2021 03:56 UTC<CR><LF>RV: COBDEN BRIDGE SU 437 140<CR><LF>Map reference: Incident<CR><LF>Loc: COBDEN BRIDGE<CR><LF>Sent: <NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 2007097  Function: 0 
-POCSAG2400: Address:   28896  Function: 0  Alpha:   03:56-24 2188<NUL>
-POCSAG1200: Address: 2045440  Function: 0  Alpha:   <NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0353231221+++TIME=0353231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0353231221+++TIME=0353231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1089603  Function: 2  Alpha:   03:52-29 23
-POCSAG1200: Address:  134364  Function: 1  Alpha:   <EM><FS><ESC><ESC><DLE>Y<FS>"<CAN>Y&Pg*ji$b"<SYN><DLE>*d"<DLE>d*'j$g#j''<SYN><DLE>g')*dfg')<DLE>ig "<SYN><DLE>f'gcid#$*Pf g!db)j")<SYN>Pf<CAN><EM><DLE><SUB>$(<DLE>crv0v2<DLE>ZY,<DLE>ab"'<DLE>i 'P'k")P#)"P<EM>\[X<ESC><FS>PY\<SUB><ESC><FS><FS>
