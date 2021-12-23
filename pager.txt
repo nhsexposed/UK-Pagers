@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0038231221+++TIME=0038231221<NUL>
+POCSAG1200: Address:  354555  Function: 2  Alpha:   00:37-59 23/12/2021 00:35:49 INC 24863454 10D04 6 HAWTHORN WAY, KENDAL, LA9 7TD Male 68Y pain in WtOmach GRD 352935 490875
+POCSAG1200: Address: 1489617  Function: 0 
+POCSAG1200: Address:  778850  Function: 0 
+POCSAG1200: Address:  743720  Function: 0  Alpha:   <ETB>x+D{<SYN><LF>,
+POCSAG1200: Address: 1662248  Function: 2 
+POCSAG1200: Address: 1318133  Function: 2  Alpha:   00:35-96 ADD: 1 LEACH HOUSE LANE GALGATE LA20RT INC`T`PE: DOMESTIC BUILDING FIRE  TG: OPS01 FOR INFO ONLY AS: NEAREST IIO.  ONE CASUALTY WITH SMOKE INHALATION<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:35-13 23/12/2021 00:33:19 INC 24863442 04D02A PAREA RESTAURANT
+POCSAG2400: Address:   28896  Function: 0  Alpha:   00:34-19 3508<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0033231221+++TIME=0033231221<NUL>
 POCSAG2400: Address: 1913537  Function: 2  Alpha:   00:33-55 3508<NUL>
 POCSAG1200: Address: 1032669  Function: 3  Alpha:   <EM>l<FF>dL
@@ -988,13 +998,3 @@ POCSAG2400: Address: 1324054  Function: 2  Alpha:   17:53-58 SEL 111 is out of e
 POCSAG2400: Address: 1324021  Function: 2  Alpha:   17:53-03 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1753221221+++TIME=1753221221<NUL>
 POCSAG2400: Address: 1324027  Function: 2  Alpha:   17:53-33 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   17:53-57 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324058  Function: 2  Alpha:   17:53-04 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1323941  Function: 2  Alpha:   17:53-97 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1753221221+++TIME=1753221221<NUL>
-POCSAG2400: Address: 1450868  Function: 3 
-POCSAG2400: Address: 1324026  Function: 2  Alpha:   17:53-25 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324054  Function: 2  Alpha:   17:53-56 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1323923  Function: 2  Alpha:   17:53-15 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG2400: Address: 1324071  Function: 2  Alpha:   17:53-65 SEL 111 is out of escalation. For info only. 02082536951/07557565895. SEL Ops MB.<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   08/05/2002 CH3B<NUL><NUL>
