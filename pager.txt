@@ -1,3 +1,32 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1303231221+++TIME=1303231221<NUL>
+POCSAG2400: Address: 1324542  Function: 2  Alpha:   13:03-16 INC ALERT No: 16959689 Unconscious/Fainting (Near) - M - HX OF STROKE, NOW FAINTING, SWEATING, AT: 17 NORTH STREET, FOWEY, PL23 1DB, Time of Call: 23/12/2021 13:02:12, Co-ords: 50.337261596 -4.633303819
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1303231221+++TIME=1303231221<NUL>
+POCSAG1200: Address:  618382  Function: 2  Alpha:   E<ACK>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   13:03-18 23/12/2021 12:59:34 INC 24865349 O/S, 15 BREAD STREET, WHITTLEFIELD BURNLEY, BB12 0PX Unknown UnknownY RTC CAR VS CAR GRD 382725 432813<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:02-16 4314<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   Cp
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   13:02-52 INC ALERT No: 16959684 Cardiac Arrest -, AT: EDWARD MAY COURT - FLAT 3, MOUNT ROAD, WEST HOWE BOURNEMOUTH, BH11 8AW, Time of Call: 23/12/2021 13:01:30, Co-ords: 50.7606597 -1.9096972
+POCSAG1200: Address: 1746578  Function: 0 
+POCSAG1200: Address:   74752  Function: 2  Alpha:   <STX>A2<SYN><ACK>N<SYN><STX>
+POCSAG1200: Address:  549811  Function: 2  Alpha:   13:02-84 ~CONTACT CONTROL
+POCSAG1200: Address:  230853  Function: 3  Alpha:   6"
+POCSAG2400: Address: 1378883  Function: 1  Alpha:   <ESC>H{<ESC>=Z9z8<CAN>=z[[<VT><NUL><NUL>
+POCSAG2400: Address:  549429  Function: 2  Alpha:   13:01-51 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG2400: Address: 1183313  Function: 0  Alpha:   <ESC>H{<ESC>=Z9z8<CAN>=z[[<VT><NUL><NUL>
+POCSAG2400: Address:  549415  Function: 2  Alpha:   13:00-53 Weekly EmCC pager S
+POCSAG2400: Address:  549440  Function: 2  Alpha:   13:00-71 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG2400: Address:  549451  Function: 2  Alpha:   13:00-58 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG2400: Address:  549455  Function: 2  Alpha:   13:00-69 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG2400: Address: 1670132  Function: 3  Alpha:    response required to SMS and email notification.<NUL><NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   &0
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:00-69 33844
+POCSAG2400: Address:  549459  Function: 2  Alpha:   13:00-74 Weekly EmCC pager SMS and email alert test. Please select CONFIRMED from the response options on your pager. No response required to SMS and email notification.<NUL><NUL>
+POCSAG1200: Address:  987049  Function: 2  Alpha:   13:00-13 23/12/2021 12:58:25 INC 24865346 28C05J 3 MILTON CRESCENT, POULTON LE FYLDE, FY6 8DD Female 71Y FACIAL DROOP, TWITCHING GRD 334755 437632<NUL><NUL>
+POCSAG1200: Address:   64224  Function: 3  Alpha:   2A<FF><ETX><BEL><DC3><ETX><EM>A<BS>%<US><US>!Y@(/<DC3>)<BEL><DC1><DC3><GS><SI>A<SO>%<HT>Affhnjj@hfnlfd<NUL><NUL>
+POCSAG1200: Address:   80196  Function: 2  Alpha:   H<FF>
+POCSAG1200: Address:  212217  Function: 3  Alpha:   E@
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:59-72 23/12/2021 12:57:29 INC 24865342 06E01 FLAT 2, 11 BALMORAL ROAD, FAIRFIELD L6, L6 8NB Male 31Y HEADACHE, DIB GRD 337569 391188<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1258231221+++TIME=1258231221<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   12:58-32 2616<NUL>
 POCSAG1200: Address: 1092442  Function: 2  Alpha:   12:58-32 23/12/2021 12:56:45 INC 24865337 10D02 26 HILLSIDE AVENUE, HUYTON L36, L36 8DX Female 18Y COLD SWEATS - BREATHING FAST AND FAST HEART RATE AND CHEST PAIN GRD 344059 392503
@@ -969,32 +998,3 @@ POCSAG2400: Address:  583795  Function: 2  Alpha:   09:44-52 80300
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   09:44-09 5400<NUL>
 POCSAG2400: Address: 1320372  Function: 2  Alpha:   09:43-13 5205<NUL>
 POCSAG2400: Address: 1324552  Function: 2  Alpha:   09:43-32 INC ALERT No: 16959145 Cardiac Arrest -, AT: 22 LICHFIELD DRIVE, BRIXHAM, TQ5 8
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   09:44-99 23/12/2021 
-POCSAG1200: Address:  553840  Function: 3  Alpha:   &P
-POCSAG1200: Address: 1484954  Function: 0 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:43-00 2233<NUL>
-POCSAG2400: Address: 1913561  Function: 2  Alpha:   09:42-03 5400<NUL>
-POCSAG2400: Address: 1323145  Function: 2  Alpha:   09:42-79 NHSBT - DONOR REFERRAL. Please call EMMA RYAN - STAFF NURSE on Direct Dial Number 0191 282 6012 Hospital ROYAL VICTORIA, NEWCASTLE Dept PICU . Regards Donor Referral Line<NUL>
-POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>J
-POCSAG2400: Address: 1324545  Function: 2  Alpha:   09:42-70 INC ALERT No: 16959138 Falls - fall - <DEL> HIP INJURY, AT: 1 ROSE COTTAGE, Q
-POCSAG1200: Address:  420307  Function: 2  Alpha:   09:42-53 23/12/2021 09:40:08 INC 24864590 26D01 18 BRAMBLE WAY, BURSCOUGH ORMSKIRK, L40 5BP Male 69Y CHRONIC LIVER DISEASE- CANT STAND AFTER FALL GRD 344788 411601<NUL><NUL>
-POCSAG2400: Address: 1323140  Function: 2  Alpha:   09:42-53 NHSBT - DONOR REFERRAL. Please call THOMAS LUDLOW on Direct Dial Number 01772521471 Hospital ROYAL PRESTON  Dept CRITICAL CARE  . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   &<LF>
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   Ur
-POCSAG1200: Address:   41512  Function: 2  Alpha:   09:41-59 Please Call Switchboard<NUL><NUL>
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:41-48 5201<NUL>
-POCSAG2400: Address: 1913880  Function: 2  Alpha:   09:40-02 5002<NUL>
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   09:40-35 3504<NUL>
-POCSAG2400: Address: 1321573  Function: 2  Alpha:   09:39-70 Please Call 32190<NUL><NUL>
-POCSAG1200: Address: 1090118  Function: 2  Alpha:   09:39-25 PLS CALL THE JOHN RADCLIFFE SWITCHBOARD <NUL><NUL>
-POCSAG2400: Address:  583456  Function: 2  Alpha:   09:39-02 73338
-POCSAG2400: Address: 1001186  Function: 2  Alpha:   09:39-17 73338
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   09:39-wt)23/12/2021 09:37:49 INC 24864581 06D02 VALLEY COURT - APARTMENT 44, (18) LONGSIGHT ROAD, RAMSBOTTOM BURY, BL0 9FY Female 86Y FEMALE - SOB GRD 378041 414999<NUL>
-POCSAG2400: Address: 1323899  Function: 2  Alpha:   09:39-06 3504<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0938231221+++TIME=0938231221<NUL>
-POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>Cd1L
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   09:37-35 23/12/2021 09:36:24 INC 24864578 06D04 6 STEPHEN WALK, STOCKPORT, SK1 4JE Male 41Y M - COVID, SOB GRD 390749 389789<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:  583548  Function: 2  Alpha:   09:37-45 80300
-POCSAG2400: Address: 2066017  Function: 3 
-POCSAG1200: Address: 1512684  Function: 3  Alpha:   <SYN><DC2>
