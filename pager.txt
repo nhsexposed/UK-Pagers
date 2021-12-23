@@ -1,3 +1,19 @@
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   16:54-14 69001
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1653231221+++TIME=1653231221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:t"-01 5321<NUL>
+POCSAG1200: Address: 1313140  Function: 2  Alpha:   !<SYN><BS>52-23 (2/2) Roles    JY10P1:WRL; Talkgrp  FBER-OPS05 (42*) (DGNA)
+POCSAG1200: Address:  433829  Function: 2  Alpha:   16:52-40 4578<NUL>
+POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:52-71 4155<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320116  Function: 2  Alpha:   16:52-71 346721<NUL><NUL>
+POCSAG1200: Address:  433829  Function: 2  Alpha:   16:51-39 4578<NUL>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:51-60 64072
+POCSAG1200: Address:  679608  Function: 2  Alpha:   16:51-30 64072
+POCSAG1200: Address:  649969  Function: 2  Alpha:   16:51-53 64072
+POCSAG2400: Address: 1573644  Function: 2  Alpha:   16:50-78 704000<NUL><NUL>
+POCSAG2400: Address:  585333  Function: 2  Alpha:   16:50-95 Please Call Siobhan Nurse at Frank Stansil - ext 39860<NUL><NUL>
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   16:49-92 23/12/2021 16:43:01 INC 24866272 12C05E BOOTS THE CHEMIST, THERAPY HOUSE LTD, 3-5 BACK ST ANNES ROAD WEST, LYTHAM ST. ANNES, FY8 1RD Male 50Y FITTING GRD 332130 428923<NUL>
 POCSAG2400: Address:  265357  Function: 3  Alpha:   *U*e*U2UJU*U*U*e*<EM>D<SUB>E-I<LF>A
 POCSAG1200: Address: 1484954  Function: 0 
 POCSAG1200: Address:  413130  Function: 2  Alpha:   16:49-67 (2/3) Assigned: JY01P1; Roles    JY01P1:Main Pump; Talkgrp  FOXF-OPS03 (758*) (DGNA);
@@ -982,19 +998,3 @@ POCSAG2400: Address: 1320279  Function: 2  Alpha:   12:42-52 5205<NUL>
 POCSAG1200: Address: 1259045  Function: 2  Alpha:   12:42-99 Please Call Switchboard<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   12:42-51 4660<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   12:42-31 Call 24865254 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  312672  Function: 0  Alpha:   12:42-13 Call 24865254 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   12:41-32 5507<NUL>
-POCSAG2400: Address: 1913761  Function: 2  Alpha:   12:40-58 5013<NUL><UH
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:   28927  Function: 0  Alpha:   12:39-65 2184<NUL>
-POCSAG1200: Address: 1322009  Function: 2  Alpha:   12:39-74 PLS CALL JOAN BUCKER WARD 2291
-POCSAG1200: Address: 1509880  Function: 2  Alpha:   12:39-16 23/12/2021 12:38:37 INC 24865248 29D02L O/S, TOP SPOT CLUB, 48-50 MARKET STREET, HINDLEY WIGAN, WN2 3AN Male 25Y RTC GRD 361830 404572<NUL><NUL>
-POCSAG1200: Address: 2017594  Function: 3  Alpha:   U&
-POCSAG2400: Address: 1913971  Function: 2  Alpha:   12:38-65 5076<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1238231221+++TIME=1238231221<NUL>
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:38-51 12345
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:38-93 12345
-POCSAG1200: Address:  940144  Function: 0 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   12:37-54 2561<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:38-63 2317<NUL>
