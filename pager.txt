@@ -1,3 +1,17 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2113231221+++TIME=2113231221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2113231221+++TIME=2113231221<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   21:13-42 23/12/2021 21:11:20 INC 24867357B49D01 17 PENKETH ROAD, GREAT SANKEY WARRINGTON WA5, WA5 2TE Female 73Y DIABETIC - LOW BLOOD SUGARS - COLLAPSED GRD 357460 387931<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   21:12-66 8252 HDU
+POCSAG1200: Address: 1032113  Function: 2  Alpha:   B<BS><NUL>`L
+POCSAG1200: Address: 1032639  Function: 2  Alpha:   0<NUL><EOT><EM><BEL>N1f
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:12-67 3157<NUL>
+POCSAG1200: Address: 1032639  Function: 2  Alpha:   0<NUL><EOT><EM>L
+POCSAG1200: Address: 2008661  Function: 0 
+POCSAG1200: Address:   40074  Function: 2  Alpha:   21:10-83 23/12/2021 21:08:58 INC 24867347 17A02G 62 NEWALL ROAD, NEWALL GREEN MANCHESTER, M23 2UB Female 81Y fallen in ktitchen GRD 380821 387125
+POCSAG1200: Address:  600638  Function: 0  Alpha:   21:10-13 PLS CALL ELLIS WARD ON 5004<NUL>
+POCSAG1200: Address:  549778  Function: 2  Alpha:   21:10-62 ATTEND:<LF>RTA<LF>15 TULLYCROSS ROAD,ARDKEEN,PORTAFERRY,DOWN<LF>0P 2T<LF>35882211<LF>J 61539 56714<LF>S2671 S2701 SO22<LF>END<NUL>
+POCSAG1200: Address:  360216  Function: 2  Alpha:   21:09-95 33824
 POCSAG2400: Address: 1324564  Function: 2  Alpha:   21:09-51 Confirmed End of Shift Thank you<NUL>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   21:08-49 Please call Charles Polkey Ward 36483<NUL><NUL>
 POCSAG1200: Address: 1722472  Function: 1 
@@ -984,17 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1708231221+++TIME=17
 POCSAG1200: Address: 1880696  Function: 1 
 POCSAG1200: Address: 2075247  Function: 0 
 POCSAG2400: Address:  216272  Function: 2  Alpha:   16:57-72 PROBLEM: Windows Management Instrumentation is CRITICAL on host UOMPENLCVS01MC1, <CR><LF>PROBLEM: Windows Management Instrumentation is CRITICAL on host UOMPENLCVS01MC1<CR><LF>Service: Windows Management Instrumentation<CR><LF>Host: UOMPENLCVS01MC1<CR><LF>Alias: <CR><NUL><NUL>
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-74 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc02a, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host gmmhaclovc02a<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address:  949715  Function: 2 
-POCSAG2400: Address: 1610359  Function: 0 
-POCSAG2400: Address:  216264  Function: 2  Alpha:   16:56-70 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc01b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG1200: Address:  225746  Function: 2  Alpha:   17:02-48 Please contact security control on 0151 350 4545, many thanks<NUL>
-POCSAG2400: Address:  216268  Function: 2  Alpha:   16:56-33 PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc03b, <CR><LF>PROBLEM: Opsview - Scheduler - Collector Message Queue Rate is CRITICAL on host mansdpmovc03b<CR><LF>Service: Opsview - Scheduler - Collector Message<NUL><NUL>
-POCSAG2400: Address: 2077694  Function: 2 
-POCSAG2400: Address: 2047392  Function: 2  Alpha:   <GS>J?WC<ETX>!&<ETB>K<BEL>K<SI>#gk<SOH>5(LR<BEL>S<ETX><NUL>
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   16:57-30 PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A, <CR><LF>PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A<CR><LF>Service: NxLog Service<CR><LF>Host: GMMHACLVDA25A<CR><LF>Alias: <CR><LF>Address: 192.168.23.155<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Da<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:57-64 PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A, <CR><LF>PROBLEM: NxLog Service is CRITICAL on host GMMHACLVDA25A<CR><LF>Service: NxLog Service<CR><LF>Host: GMMHACLVDA25A<CR><LF>Alias: <CR><LF>Address: 192.168.23.155<CR><LF>Host Group Hierarchy: <CR><LF>State: CRITICAL<CR><LF>Da<NUL><NUL>
-POCSAG1200: Address:  585540  Function: 2  Alpha:   17:08-55 PLS CALL 6809 <NUL><NUL>
-POCSAG1200: Address:  413079  Function: 2  Alpha:   17:01-70 (2/3) BEHIND HALFONDS IN WOODED AREA, YOUTHS HAVING BONFIRE BY RIVERSIDE; Assigned: JY20P1; Roles    JY20P1:Main Pump; Talkgrp  FBER-OPS06 (43*) (DGNA);<NUL>
-POCSAG1200: Address:  413079  Function: 2  Alpha:   17:01-69 (3/3) Additional_Data Address Classification Shop / Showroom<NUL><NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   17:00-85 Case ref 11276206 Fill in tick sheet
