@@ -1,3 +1,7 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2072817  Function: 1 
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   06:10-62 3507<NUL>
+POCSAG1200: Address:  378846  Function: 2  Alpha:   06:09-35 012794-2
 POCSAG2400: Address:  667376  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0608231221+++TIME=0608231221<NUL>
 POCSAG1200: Address: 1766263  Function: 0 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:25-27 Please call Coptcoa
 POCSAG1200: Address:  227445  Function: 0 
 POCSAG2400: Address:  709002  Function: 3 
 POCSAG2400: Address:  513049  Function: 2 
-POCSAG2400: Address:  961657  Function: 3 
-POCSAG2400: Address:   28924  Function: 0  Alpha:   20:24-30 2183<NUL>
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   20:24-47 22/12/2021 20:21:00 INC 24862646 31D04 EAST Z EAST B B LTD KING GEORGES HALL, NORTHGATE, BLACKBURN, BB2 1AA Male 8Y DIZZY GRD 368042 428188
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:24-26 Please call Marjorie Warren ward on 34265.
