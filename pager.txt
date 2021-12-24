@@ -1,3 +1,6 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0233241221+++TIME=0233241221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:   82734  Function: 2  Alpha:   02:29-13 24/12/2021 02:27:53 INC 24868385 12D02 166 EAVES LANE, CHORLEY, PR6 0AU Male 27Y FITTING ON PHONE GRD 359197 417939<NUL>
 POCSAG1200: Address: 1264856  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228241221+++TIME=0228241221<NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS><NUL>0f
 POCSAG1200: Address: 1816822  Function: 2  Alpha:   20:06-18 PLEASE CALL 5104 WARD 10B SOUT
 POCSAG2400: Address:   28897  Function: 0  Alpha:   20:05-34 2300<NUL>
 POCSAG1200: Address:  294333  Function: 0  Alpha:   _e
-POCSAG1200: Address:  203269  Function: 1 
-POCSAG1200: Address:  334516  Function: 2  Alpha:   <FF><CR>
-POCSAG1200: Address: 1840547  Function: 2 
