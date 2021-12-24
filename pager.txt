@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1322125  Function: 2  Alpha:   23:54-52 please call rfh ext 38589
+POCSAG1200: Address:   40161  Function: 2  Alpha:   23:54-93 please call rfh ext 38589
+POCSAG512: Address:  249843  Function: 0 
+POCSAG512: Address:  560016  Function: 2 
+POCSAG512: Address:  879432  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:49-34 4157<NUL>
 POCSAG2400: Address: 1814983  Function: 2  Alpha:   23:49-66 please call jane blaker, 07740 121646 re ill health
 POCSAG1200: Address: 1538073  Function: 1  Alpha:   <CAN><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3A<NUL><NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address:  352392  Function: 1  Alpha:   S<ETX>
 POCSAG1200: Address: 1782635  Function: 3 
 POCSAG1200: Address:  588337  Function: 2  Alpha:   d<CR>LHn
 POCSAG1200: Address: 1882483  Function: 0 
-POCSAG1200: Address:  701047  Function: 2 
-POCSAG1200: Address: 1208050  Function: 0 
-POCSAG1200: Address: 1581666  Function: 3  Alpha:   Fs
-POCSAG1200: Address:  127615  Function: 1  Alpha:   s]\F<NUL>
-POCSAG1200: Address: 1292135  Function: 2 
-POCSAG1200: Address:  876901  Function: 1  Alpha:   =[
-POCSAG1200: Address:  305553  Function: 1  Alpha:   nM<NAK>sa
