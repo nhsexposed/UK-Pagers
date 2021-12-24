@@ -1,3 +1,29 @@
+POCSAG1200: Address: 2017494  Function: 2  Alpha:   e0
+POCSAG1200: Address:  420307  Function: 2  Alpha:   13:14-56 24/12/2021 13:12:27 INC 24870148 01D02 CATERING DEPT, ORMSKIRK & DISTRICT GENERAL HOSPITAL, WIGAN ROAD, ORMSKIRK, L39 2JW Male 62Y VOMITING, GREY IN COLOUR, ABDO PAIN GRD 342367 407900<NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  585540  Function: 2  Alpha:   13:14-59 8<NUL>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   V<NUL>
+POCSAG1200: Address: 1467507  Function: 0 
+POCSAG1200: Address: 1346569  Function: 0 
+POCSAG1200: Address: 2097144  Function: 1 
+POCSAG2400: Address:  149113  Function: 2  Alpha:   13:13-18 5002<NUL>
+POCSAG2400: Address: 1323889  Function: 2  Alpha:   13:13-66 5906<NUL>
+POCSAG1200: Address: 1534235  Function: 2  Alpha:   13:13-34 (2/2)         PO4 0EG Type     M8 Notifications Map ref  465305.12,99995.1 Details  None  DUTY FI TO CONTACT CONTROL
+POCSAG1200: Address: 1534179  Function: 2  Alpha:   13:13-94 (2/2)         PO4 0EG Type     M8 Notifications Map ref  465305.12,99995.1 Details  None  DUTY FI TO CONTACT CONTROL
+POCSAG1200: Address: 1534176  Function: 2  Alpha:   13:13-07 (2/2)         PO4 0EG Type     M8 Notifications Map ref  465305.12,99995.1 Details  None  DUTY FI TO CONTACT CONTROL
+POCSAG1200: Address: 1534235  Function: 2  Alpha:   13:13-33 (1/2)Incident Information for JHAT9  Incident HH028262-24122021 To       24/12/2021 11:26:27 Address  BIRDHAM HOUSE          GOLDSMITH AVENUE          SOUTHSEA <NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   13:12-11 Call or Calls waiting at Switchboard
+POCSAG2400: Address: 1913712  Function: 2  Alpha:   13:12-84 4660<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  585270  Function: 2  Alpha:   13:12-24 TEST MESSAGE 
+POCSAG1200: Address:   41432  Function: 2  Alpha:   13:12-79 24/12/2021 13:09:54 INC 24870135 06D04 343 MANCHESTER ROAD, BURNLEY, BB11 4HD Female 41Y COVID SYMPTOMS GRD 383273 431172<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:12-29 24/12/2021 13:09:54 INC 24870135 06D04 343 MANCHESTER ROAD, BURNLEY, BB11 4HD Female 41Y COVID SYMPTOMS GRD 383273 431172<NUL>
+POCSAG2400: Address: 1052908  Function: 2  Alpha:   13:12-92 6371<NUL>
+POCSAG2400: Address:  149113  Function: 2  Alpha:   13:11-17 5002<NUL>
+POCSAG2400: Address: 1913679  Function: 2  Alpha:   13:11-38 4269<NUL>
+POCSAG1200: Address:  695980  Function: 2  Alpha:   13:10-30 24/12/2021 13:08:02 INC 24870129 12D02 29 WOODSTOCK ROAD, BROADHEATH ALTRINCHAM, WA14 5JB Female 22Y FITTING GRD 376044 389534<NUL><NUL>
+POCSAG1200: Address: 1573739  Function: 2  Alpha:   13:10-01 4226<NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   13:09-51 RING 723 8826
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:08-14 2008<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1308241221+++TIME=1308241221<NUL>
 POCSAG2400: Address: 1008224  Function: 2  Alpha:   13:08-51 call 6061<NUL><NUL>
@@ -972,29 +998,3 @@ POCSAG1200: Address:  290159  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  265318  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1031900  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1031562  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  212249  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  197480  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  269407  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031460  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1485474  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325929  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761488  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  618375  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  290190  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031852  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619075  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1761257  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761297  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761312  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420495  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290091  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  197482  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  420529  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031608  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290143  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1512838  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032101  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015484  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032171  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290082  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  906713  Function: 3  Alpha:   !<ACK>
