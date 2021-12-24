@@ -1,3 +1,25 @@
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   18:59-62 3104<NUL>
+POCSAG2400: Address:  249138  Function: 0 
+POCSAG2400: Address:  790784  Function: 0 
+POCSAG2400: Address: 1048577  Function: 0 
+POCSAG2400: Address:     628  Function: 3 
+POCSAG2400: Address:  384008  Function: 0 
+POCSAG2400: Address:       3  Function: 0 
+POCSAG2400: Address:  142800  Function: 2 
+POCSAG2400: Address:      13  Function: 1 
+POCSAG2400: Address:  655362  Function: 0 
+POCSAG2400: Address: 1323485  Function: 2  Alpha:   18:58-36 PLEASE CALL: NAME:SHARON  WARD AND HOSPITAL: VICTORIA HOSPITAL ON ELIZABETH WARD TEL NO: 01304865439<NUL><NUL>
+POCSAG2400: Address: 1323486  Function: 2  Alpha:   18:58-09 PLEASE CALL: NAME:SHARON  WARD AND HOSPITAL: VICTORIA HOSPITAL ON ELIZABETH WARD TEL NO: 01304865439<NUL><NUL>
+POCSAG2400: Address:   43400  Function: 3 
+POCSAG2400: Address: 2097136  Function: 3 
+POCSAG2400: Address:   28900  Function: 0  Alpha:   18:58-08 4283<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:58-18 2343<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:58-17 4660<NUL>
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   vf
+POCSAG1200: Address: 1942387  Function: 0 
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   <DC1>'
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF>I<SOH><STX><DC2>0f
+POCSAG1200: Address:  930489  Function: 2  Alpha:   18:55-55 24/12/2021 18:53:52 INC 24871499 17D05 60 YARBURGH STREET, WHALLEY RANGE MANCHESTER, M16 7FJ Female 64Y FELL OVER - DELIRIOUS - LEGS SWOLLEN GRD 383167 395279<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   18:54-98 5204<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1853241221+++TIME=1853241221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1853241221+++TIME=1853241221<NUL>
@@ -976,25 +998,3 @@ POCSAG2400: Address: 1324176  Function: 2  Alpha:   16:07-87 4316<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   16:07-28 2445<NUL>
 POCSAG2400: Address: 1323899  Function: 2  Alpha:   16:07-14 5002<NUL>
 POCSAG1200: Address: 1312466  Function: 2  Alpha:   16:06-03 68373
-POCSAG1200: Address:  271532  Function: 2  Alpha:   16:05-01 24/12/2021 16:04:25 INC 24870830 06E01 17 SUTTLE CLOSE, MORTON CARLISLE, CA2 6SH Female 84Y DIB HARDLY BREATHING GRD 337914 554729<NUL>
-POCSAG1200: Address: 1512830  Function: 3  Alpha:   <DC2>C<BS><L
-POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&<BS><DC2><STX>h1f
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:05-38 5073<NUL>
-POCSAG1200: Address: 2009973  Function: 1 
-POCSAG2400: Address: 1896822  Function: 0 
-POCSAG2400: Address: 1913970  Function: 2  Alpha:   16:04-77 4462<NUL>
-POCSAG1200: Address: 1032022  Function: 3  Alpha:   <ACK>H
-POCSAG2400: Address: 1321854  Function: 2  Alpha:   16:04-63 PLS CALL THE LANCASTER SUITE 01539 732 288 EXT 41464 
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   T.
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:03-20 3132<NUL>
-POCSAG2400: Address: 1913686  Function: 2  Alpha:   16:03-94 4269<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:   28896  Function: 0  Alpha:   16:03-67 5201<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address:  548160  Function: 2  Alpha:   16:01-46 2150<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:01-53 3507<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:01-37 2161<NUL>
-POCSAG1200: Address: 1565498  Function: 2  Alpha:   16:01-70 24/12/2021 15:59:42 INC 24870815 09E01 45 IVINSON ROAD, DARWEN, BB3 3AW Unknown UnknownY NOT BREATHING GRD 369642 423111<NUL><NUL>
-POCSAG2400: Address:  216263  Function: 2  Alpha:   16:01-11 PROBLEM: Unix Load Average is CRITICAL on host mansdplovc01oni, <CR><LF>PROBLEM: Unix Load Average is CRITICAL on host mansdplovc01oni<CR><LF>Service: Unix Load Average<CR><LF>Host: mansdplovc01oni<CR><LF>Alias: <CR><LF>Address: mansdplovc01oni.ms.private<CR><LF>Host Group Hi<NUL><NUL>
-POCSAG1200: Address:   80070  Function: 3  Alpha:   V<STX>
