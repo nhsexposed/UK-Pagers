@@ -1,3 +1,8 @@
+POCSAG1200: Address:  269365  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0433241221++ktmME=0433241221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0433241221+++TIME=0433241221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <EM>lQcL
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0428241221+++TIME=0428241221<NUL>
 POCSAG2400: Address:   11729  Function: 0  Alpha:   04:28-44 PLEASE CALL A&E WILLIAM HARVEY HOSPITAL EXT: 7234110<NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   04:28-83 24/12/2021 04:26
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1933938  Function: 1
 POCSAG1200: Address: 1092762  Function: 2  Alpha:   20:50-99 23/12/2021 20:48:18 INC 24867273 06E01 5 BRENT WAY, HALEWOOD L26, L26 9XH Female 81Y COPD CA<SO>Q BREATHE GRD 344600 384600<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1540800  Function: 0 
-POCSAG1200: Address:  432413  Function: 2  Alpha:   20:46-46 Please call Hub Operations on 0117 975 7580 regarding Donor number - 153480, Donor hospital - <HT>HG0802 - GILLINGHAM, MEDWAY HOSPITAL, Donor DOB - 18-07-1966<NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   20:45-63 2343<NUL>
-POCSAG2400: Address:  680944  Function: 3  Alpha:   <CR>O
-POCSAG2400: Address: 1022659  Function: 0  Alpha:   20:44-71 NHSBT - DONOR REFERRAL. Please call CONSULTANT CLAIRE on Direct Dial Number 0300 422 6443 Hospital GLOUCESTERSHIRE ROYAL Dept ICU . Regards Donor Referral Line
-POCSAG2400: Address: 1322897  Function: 2  Alpha:   20:44-33 NHSBT - DONOR REFERRAL. Plea
