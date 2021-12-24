@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   12:39-84 4379<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:39-91 5201<NUL>
+POCSAG2400: Address: 1131008  Function: 0  Alpha:   "<VT>+3<ETX>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:38
+POCSAG2400: Address:  549033  Function: 2  Alpha:   12:39-34 call waiting switch
+POCSAG1200: Address: 1312465  Function: 2  Alpha:   12:39-80 te
+POCSAG1200: Address: 1032691  Function: 3  Alpha:   V<BS>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   12:39-09 33238
+POCSAG2400: Address: 1913698  Function: 2  Alpha:   12:38-25 5530<NUL>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   12:37-68 4314<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   12:37-73 INC ALERT No: 16963041 Traffic/Transportation Accidents - CAR STOPPED IN O.S LANE FRONT OF CAR DAMAGED, AT: M5 - J18A SOUTHBOUND, GENERAL AREA OF, AVONMOUTH BRISTOL, Time of Call: 24/12/2021 12:34:31, Co-ords: 51.507108 -2.6633191
+POCSAG2400: Address:   28896  Function: 0  Alpha:   12:36-60 2184<NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   9<BS><SYN>LL
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:35-97 68177
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:35-42 68177
+POCSAG1200: Address:  265355  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:34-89 4156<NUL>
 POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:34-70 4871<NUL>
 POCSAG2400: Address:   28868  Function: 0  Alpha:   12:34-64 PRIORITY HOUSE, MENTAL HEALTH ACT OFFICE TEL 07852 628 499<NUL>
 POCSAG2400: Address: 1321484  Function: 2  Alpha:   12:34-19 pls call33986 urgent<NUL><NUL>
@@ -980,21 +998,3 @@ POCSAG1200: Address: 1039184  Function: 3  Alpha:   <SYN>R
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:40-64 5204<NUL>
 POCSAG1200: Address:   11807  Function: 0  Alpha:   0<NUL><NUL><SOH><DLE><SI>2f
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0938241221+++TIME=0938241221<NUL>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1511870  Function: 2  Alpha:   6<DLE>
-POCSAG2400: Address:   28895  Function: 0  Alpha:   09:37-67 5128<NUL>
-POCSAG1200: Address:  618382  Function: 2  Alpha:   e(
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN>2
-POCSAG2400: Address:  583459  Function: 2  Alpha:   09:36-09 80300
-POCSAG2400: Address:  583456  Function: 2  Alpha:   09:37-03 80300
-POCSAG1200: Address: 1814700  Function: 2  Alpha:   09:36-09 24/12/2021 
-POCSAG1200: Address: 1991288  Function: 0 
-POCSAG1200: Address:  420486  Function: 3  Alpha:   <DC1><STX>
-POCSAG1200: Address:  549853  Function: 2  Alpha:   09:36-11 ~PLEASE CONTACT FF ANTHONY FITZPATRICK ON 07857351628
-POCSAG2400: Address:  583472  Function: 2  Alpha:   09:36-91 80300
-POCSAG2400: Address:  583528  Function: 2  Alpha:   09:35-55 80300
-POCSAG1200: Address:  549770  Function: 2  Alpha:   09:34-70 ~PLEASE CONTACT CONTROLS 
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F0
-POCSAG2400: Address:  583534  Function: 2  Alpha:   09:34-67 80300
-POCSAG2400: Address: 1322526  Function: 2  Alpha:   09:34-20 80300
