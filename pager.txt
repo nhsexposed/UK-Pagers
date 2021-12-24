@@ -1,3 +1,19 @@
+POCSAG2400: Address: 1323923  Function: 2  Alpha:   12:14-22 Amber: Purple call postponed until 12: 30 : Sr Bow<NUL>
+POCSAG2400: Address: 1324078  Function: 2  Alpha:   12:14-36 Amber: Purple call postponed until 12: 30 : Sr Bow<NUL>
+POCSAG2400: Address: 1324047  Function: 2  Alpha:   12:14-27 Amber: Purple call postponed until 12: 30 : Sr Bow<NUL>
+POCSAG2400: Address: 1913683  Function: 2  Alpha:   12:14-59 3422<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1213241221+++TIME=1213241221<NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>!
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  548039  Function: 2  Alpha:   12:13-24 24/12/2021 12:08:20 INC 24869912 32D01 O/S 24/7 SECURE PARKING PARR STREET, COLQUITT STREET, LIVERPOOL CITY CENTRE L1, L1 4DA Unknown UnknownY IN SLEEPING BAG GRD 335076 389770
+POCSAG1200: Address: 1928880  Function: 0 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   12:13-59 24/12/2021 12:08:20 INC 24869912 32D01 O/S 24/7 SECURE PARKING PARR STREET, COLQUITT STREET, LIVERPOOL CITY CENTRE L1, L1 4DA Unknown UnknownY IN SLEEPING BAG GRD 335076 389770
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   12:11-45 3240<NUL>
+POCSAG1200: Address:  230853  Function: 3  Alpha:   <SYN>@
+POCSAG1200: Address: 1485588  Function: 3  Alpha:   V<ACK>
+POCSAG1200: Address: 1749840  Function: 2 
+POCSAG1200: Address:  420385  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address: 2014833  Function: 3 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   12:09-85 3240<NUL><FS>G<FS>
 POCSAG1200: Address:  413064  Function: 2  Alpha:   12:09-10 Please call ext 3707<NUL><NUL>
 POCSAG2400: Address:   28927  Function: 0  Alpha:   12:08-78 4954<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1511870  Function: 2  Alpha:   V<STX>
 POCSAG1200: Address: 1032147  Function: 2  Alpha:   <EOT>k
 POCSAG2400: Address:   28899  Function: 0  Alpha:   09:20-73 4089<NUL>
 POCSAG1200: Address: 1032022  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address: 1512713  Function: 3  Alpha:   B<STX>
-POCSAG1200: Address:  549878  Function: 2  Alpha:   09:19-33 ~PLEASE CONTACT CONTROLS RE ON OR OFF DUTY
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   09:19-23 4399<NUL>
-POCSAG2400: Address: 1946195  Function: 0 
-POCSAG2400: Address: 1913799  Function: 2  Alpha:   09:18-49 4269<NUL>
-POCSAG1200: Address:  553724  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0918241221+++TIME=0918241221<NUL>
-POCSAG1200: Address: 1092442  Function: 2  Alpha:   09:18-65 24/12/2021 09:17:33 INC 24869228 06D02 18 RAWLINSON ROAD, OLD SWAN L13, L13 2DA Female 84Y DIB GRD 339143 390966<NUL>
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   09:18-21
-POCSAG2400: Address:   28907  Function: 0  Alpha:   09:18-12 5201<NUL>
-POCSAG2400: Address: 1913767  Function: 2  Alpha:   09:18-80 4462<NUL>
-POCSAG2400: Address: 1913767  Function: 2  Alpha:   09:18-79 4446<NUL>
-POCSAG2400: Address: 1321178  Function: 2  Alpha:   09:17-82 test test test<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28870  Function: 0  Alpha:   09:17-69 PLS CONTACT SURGICAL REG ON 7256866 RE PATIENT QUERY<NUL>
-POCSAG2400: Address: 1976691  Function: 2 
