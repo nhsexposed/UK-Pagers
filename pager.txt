@@ -1,3 +1,19 @@
+POCSAG2400: Address: 1321854  Function: 2  Alpha:   16:04-63 PLS CALL THE LANCASTER SUITE 01539 732 288 EXT 41464 
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   T.
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:03-20 3132<NUL>
+POCSAG2400: Address: 1913686  Function: 2  Alpha:   16:03-94 4269<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28896  Function: 0  Alpha:   16:03-67 5201<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  548160  Function: 2  Alpha:   16:01-46 2150<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:01-53 3507<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:01-37 2161<NUL>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   16:01-70 24/12/2021 15:59:42 INC 24870815 09E01 45 IVINSON ROAD, DARWEN, BB3 3AW Unknown UnknownY NOT BREATHING GRD 369642 423111<NUL><NUL>
+POCSAG2400: Address:  216263  Function: 2  Alpha:   16:01-11 PROBLEM: Unix Load Average is CRITICAL on host mansdplovc01oni, <CR><LF>PROBLEM: Unix Load Average is CRITICAL on host mansdplovc01oni<CR><LF>Service: Unix Load Average<CR><LF>Host: mansdplovc01oni<CR><LF>Alias: <CR><LF>Address: mansdplovc01oni.ms.private<CR><LF>Host Group Hi<NUL><NUL>
+POCSAG1200: Address:   80070  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  306922  Function: 3 
+POCSAG1200: Address: 1997153  Function: 3 
 POCSAG1200: Address:  600772  Function: 2  Alpha:   p<DC2>YK1f1f
 POCSAG1200: Address:  619016  Function: 3  Alpha:   V<STX>
 POCSAG2400: Address: 1913824  Function: 2  Alpha:   15:57-62 4387<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1913540  Function: 2  Alpha:   12:32-24 4954<NUL>
 POCSAG1200: Address: 1001102  Function: 2  Alpha:   12:31-85 Aircraft returned to Northolt due to weather @12:25
 POCSAG1200: Address:  183610  Function: 2  Alpha:   Z[Y<ESC><NUL>
-POCSAG2400: Address: 1324565  Function: 2  Alpha:   12:27-77 INC ALERT No: 16963015 Traffic/Transportation Accidents - RTC CAR CRASHED INTO WALL, AT: O/S, 22 WESTFORD GRANGE, WESTFORD WELLINGTON, TA21 0EP, Time of Call: 24/12/2021 12:26:36, Co-ords: 50.9755112 -3.2548159<NUL>
-POCSAG1200: Address: 1594976  Function: 2  Alpha:   12:27-74 Location OUTSIDE, BLUE LAGOON, 68-70 MAIN STREET, LARGS, KA30 8AL Inc No: 8183364 Code: 29D02M Con: YES What is the Problem: FEMALE) FALLS Name: Age: 80Y
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   12:27-42 5476<NUL>
-POCSAG1200: Address: 1259045  Function: 2  Alpha:   12:27-18 31083
-POCSAG1200: Address:  488624  Function: 3  Alpha:   [Z<EM>PY<FS>YZ<EM><FS><NUL>
-POCSAG1200: Address:  772655  Function: 0  Alpha:   k)Pf'j')ade"P#)"PY<ESC><ESC>[Z<EM>PY<FS>YZ<EM><FS><NUL>
-POCSAG1200: Address: 1001123  Function: 2  Alpha:   12:26-93 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1001124  Function: 2  Alpha:   12:26-05 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1001125  Function: 2  Alpha:   12:26-55 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1001128  Function: 2  Alpha:   12:26-54 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1001132  Function: 2  Alpha:   12:26-61 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1001133  Function: 2  Alpha:   12:26-60 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   12:26-69 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1001134  Function: 2  Alpha:   12:26-99 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
-POCSAG1200: Address: 1312440  Function: 2  Alpha:   12:26-46 CARDIAC ARREST TEAM TO 3A EAST BED 3    SBH<NUL><NUL>
