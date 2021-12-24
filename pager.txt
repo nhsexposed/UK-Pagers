@@ -1,3 +1,24 @@
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   16:09-27 4155<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1608241221+++TIME=1608241221<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:08-21 3132<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:08-02 2111<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1608241221+++TIME=1608241221<NUL>
+POCSAG2400: Address: 1815043  Function: 0  Alpha:   16:08-68 Can you send a Test page and Test Text please
+POCSAG2400: Address:   28896  Function: 0  Alpha:   16:07-69 5201<NUL>
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   <SOH>O
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   16:07-85 24/12/2021 16:06:11 INC 24870837 09E01 2 WALSINGHAM ROAD, CHILDWALL L16, L16 3NT Female 51Y NOT BREATHING GRD 341353 390062<NUL><NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   16:07-87 4316<NUL>
+POCSAG2400: Address:   28905  Function: 0  Alpha:   16:07-28 2445<NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   16:07-14 5002<NUL>
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   16:06-03 68373
+POCSAG1200: Address:  271532  Function: 2  Alpha:   16:05-01 24/12/2021 16:04:25 INC 24870830 06E01 17 SUTTLE CLOSE, MORTON CARLISLE, CA2 6SH Female 84Y DIB HARDLY BREATHING GRD 337914 554729<NUL>
+POCSAG1200: Address: 1512830  Function: 3  Alpha:   <DC2>C<BS><L
+POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&<BS><DC2><STX>h1f
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:05-38 5073<NUL>
+POCSAG1200: Address: 2009973  Function: 1 
+POCSAG2400: Address: 1896822  Function: 0 
+POCSAG2400: Address: 1913970  Function: 2  Alpha:   16:04-77 4462<NUL>
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <ACK>H
 POCSAG2400: Address: 1321854  Function: 2  Alpha:   16:04-63 PLS CALL THE LANCASTER SUITE 01539 732 288 EXT 41464 
 POCSAG1200: Address: 1039321  Function: 2  Alpha:   T.
 POCSAG2400: Address:   28907  Function: 0  Alpha:   16:03-20 3132<NUL>
@@ -977,24 +998,3 @@ POCSAG1200: Address: 1032691  Function: 3  Alpha:   V<BS>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   12:39-09 33238
 POCSAG2400: Address: 1913698  Function: 2  Alpha:   12:38-25 5530<NUL>
 POCSAG2400: Address:   28916  Function: 0  Alpha:   12:37-68 4314<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1324548  Function: 2  Alpha:   12:37-73 INC ALERT No: 16963041 Traffic/Transportation Accidents - CAR STOPPED IN O.S LANE FRONT OF CAR DAMAGED, AT: M5 - J18A SOUTHBOUND, GENERAL AREA OF, AVONMOUTH BRISTOL, Time of Call: 24/12/2021 12:34:31, Co-ords: 51.507108 -2.6633191
-POCSAG2400: Address:   28896  Function: 0  Alpha:   12:36-60 2184<NUL>
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   9<BS><SYN>LL
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:35-97 68177
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:35-42 68177
-POCSAG1200: Address:  265355  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:34-89 4156<NUL>
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   12:34-70 4871<NUL>
-POCSAG2400: Address:   28868  Function: 0  Alpha:   12:34-64 PRIORITY HOUSE, MENTAL HEALTH ACT OFFICE TEL 07852 628 499<NUL>
-POCSAG2400: Address: 1321484  Function: 2  Alpha:   12:34-19 pls call33986 urgent<NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1233241221+++TIME=1233241221<NUL>
-POCSAG2400: Address:   28905  Function: 0  Alpha:   12:33-22 4399<NUL>
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   12:33-56 OBSTETRIC CARDIAC TO MULBERRY WARD WHIPPS CROSS HOSP TIME: 12:21 
-POCSAG1200: Address: 1312438  Function: 2  Alpha:   12:33-61 OBSTETRIC CARDIAC TO MULBERRY WARD WHIPPS CROSS HOSP TIME: 12:21 
-POCSAG1200: Address: 1312439  Function: 2  Alpha:   12:33-70 OBSTETRIC CARDIAC TO MULBERRY WARD WHIPPS CROSS HOSP TIME: 12:21 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1913540  Function: 2  Alpha:   12:32-24 4954<NUL>
-POCSAG1200: Address: 1001102  Function: 2  Alpha:   12:31-85 Aircraft returned to Northolt due to weather @12:25
-POCSAG1200: Address:  183610  Function: 2  Alpha:   Z[Y<ESC><NUL>
