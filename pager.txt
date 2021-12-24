@@ -1,3 +1,6 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1764145  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:10-19 2183<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1<DEL>28241221+++TIME=1908241221<NUL>
 POCSAG1200: Address: 2008629  Function: 3 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   19:08-66 TEST CALL FROM SWITCHBOARD EXT: 33458<NUL><NUL>
@@ -995,6 +998,3 @@ POCSAG1200: Address:  553985  Function: 0
 POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   16:20-22 5201<NUL>
 POCSAG1200: Address: 1500254  Function: 2  Alpha:   16:20-64 TEST PAGE PLEASE RESPOND END OF MESSAGE <NUL><NUL>
-POCSAG2400: Address:  424234  Function: 1  Alpha:   )d`eb)hb i"P!fgi"<SYN><DLE>j'ihj`,<SYN><DLE>j(<EM><DLE><ESC>b <SYN><DLE>jtv2P73Pa066<GS><DLE><EM>ZW<CAN>Y<ETB><EM><CAN>Y<CAN>P<CAN><ESC>]<CAN><FS>]<CAN><ESC><SYN>PawV79r9<GS>P<SUB><CAN><ETB>Z<ESC>YZX<CAN><ESC>PV<EM>WZZYZ<SUB><SUB><NUL>
-POCSAG1200: Address:  842816  Function: 1 
-POCSAG1200: Address: 1322153  Function: 2  Alpha:   16:18-87 TEST PAGE PLEASE RESPOND<NUL>
