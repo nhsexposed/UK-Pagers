@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1974561  Function: 1 
+POCSAG2400: Address: 1319840  Function: 2  Alpha:   21:54-14 743000<NUL><NUL>
+POCSAG1200: Address: 1832604  Function: 2  Alpha:   :y2<SYN>Pq7x|4w3P79<DLE>r2v4{2y4w3P73<DLE>:tt9<DLE>z7P0w<P7w2P2vy2P4<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1761317  Function: 3  Alpha:   %R
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:49-74 2097<NUL>
 POCSAG1200: Address: 1815036  Function: 0  Alpha:   21:49-51 PLS CALL SOUTH MEADE ON 44121<NUL>
 POCSAG1200: Address: 2074225  Function: 2 
@@ -992,9 +998,3 @@ POCSAG1200: Address:  279155  Function: 2  Alpha:   @H
 POCSAG1200: Address:   83558  Function: 0 
 POCSAG1200: Address:  969764  Function: 1 
 POCSAG1200: Address: 1712167  Function: 1 
-POCSAG1200: Address: 1958414  Function: 0  Alpha:   q<ESC>
-POCSAG1200: Address:  109131  Function: 1 
-POCSAG1200: Address:  354688  Function: 1  Alpha:   ^I
-POCSAG1200: Address: 1651520  Function: 3 
-POCSAG1200: Address:   59699  Function: 0  Alpha:   n+LNK
-POCSAG1200: Address: 1855240  Function: 3  Alpha:   Fe WdFi`
