@@ -1,3 +1,36 @@
+POCSAG2400: Address: 1913769  Function: 2  Alpha:   13:34-73 3181<NUL>
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG2400: Address: 1323755  Function: 2  Alpha:   13:33-54 12345
+POCSAG2400: Address: 1323739  Function: 2  Alpha:   13:33-08 12345
+POCSAG2400: Address: 1323779  Function: 2  Alpha:   13:33-15 12345
+POCSAG2400: Address: 1324545  Function: 2  Alpha:   13:33-90 INC ALERT No: 16963214 Traffic/Transportation Accidents - RTC - 2 VEHICLES, AT: O/S, 160 WHITWORTH ROAD, SWINDON, SN25 3BJ, Time of Call: 24/12/2021 13:31:17, Co-ords: 51.5836013 -1.7918233<NUL>
+POCSAG2400: Address: 1323708  Function: 2  Alpha:   13:33-34 12345
+POCSAG2400: Address: 1323770  Function: 2  Alpha:   13:33-37 12345
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1333241221+++TIME=1333241221<NUL>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   <SYN>$
+POCSAG1200: Address: 1512684  Function: 3  Alpha:   F$
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913682  Function: 2  Alpha:   13:33-52 5070<NUL>
+POCSAG2400: Address: 1913762  Function: 2  Alpha:   13:33-21 3181<NUL>
+POCSAG2400: Address: 1323755  Function: 2  Alpha:   13:32-53 TEST<NUL>
+POCSAG1200: Address: 1785480  Function: 2  Alpha:   QIIYIe<SOH><NUL>
+POCSAG1200: Address:  336423  Function: 2  Alpha:   13:32-27 24/12/2021 13:29:57 INC 24870214 30B02 MELROSE REST HOME, 50 MOSS LANE, LEYLAND, PR25 4SH Female 95Y CAUGHT LEG ON THE STAIRS GRD 355045 422629<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323739  Function: 2  Alpha:   13:32-07 TEST<NUL>
+POCSAG2400: Address: 1489622  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   13:32-78 4157<NUL>
+POCSAG2400: Address: 1323770  Function: 2  Alpha:   13:32-36 TEST<NUL>
+POCSAG2400: Address: 1323708  Function: 2  Alpha:   13:32-33 TEST<NUL>
+POCSAG1200: Address:  108086  Function: 0  Alpha:   13:32-88 TEST CALL <NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   13:32-61 2826<NUL>
+POCSAG2400: Address: 1913979  Function: 2  Alpha:   13:31-73 5013<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   13:31-32 24/12/2021 13:29:08 INC 24870211 06D01 28 GREENHILL ROAD, ELTON BURY, BL8 2LL Male 71Y OXYGEN LEVEL 80 GRD 378337 410347<NUL><NUL>
+POCSAG2400: Address: 1913824  Function: 2  Alpha:   13:30-55 3132<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   13:30-82 4313<NUL>
+POCSAG1200: Address:  763144  Function: 1 
+POCSAG1200: Address:  585540  Function: 2  Alpha:   13:31-65 88
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:30-54 4379<NUL>
 POCSAG1200: Address:  549851  Function: 2  Alpha:   13:29-89 ~PLEASE CONTACT FF GIBSON [S12 ARMAGH] ON 07850442856
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1328241221+++TIME=1328241221<NUL>
 POCSAG2400: Address: 1913810  Function: 2  Alpha:   13:28-37 4935<NUL>
@@ -965,36 +998,3 @@ POCSAG2400: Address: 2073319  Function: 2
 POCSAG2400: Address: 1913641  Function: 2  Alpha:   09:51-31 2427<NUL>
 POCSAG1200: Address: 2008958  Function: 0 
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:50-44 4660<NUL>
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:50-76 2231<NUL>
-POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
-POCSAG1200: Address: 1511945  Function: 2  Alpha:   Fj
-POCSAG1200: Address: 2096272  Function: 2  Alpha:   \<EM><SUB><ESC>PYX"X<CAN><DLE><EM><DLE>*d"Pc j"dgji"<SYN><DLE>c`$)f`+'<DLE>ig "<SYN><DLE>f,*d`&<DLE>f,*d`&P)*P 'gb)<SYN><DLE>c,<FS>P<SUB>("Pf0v2P<ESC>X,P*ga'giadgj)P#)"PYY<SUB>Z<EM><ESC><DLE><SUB>Y<ESC>X<FS><SUB><NUL>
-POCSAG1200: Address: 1950673  Function: 3 
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   09:49-75 4114<NUL>
-POCSAG1200: Address: 1031900  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0948241221+++TIME=0948241221<NUL>
-POCSAG2400: Address: 1323991  Function: 2  Alpha:   09:48-29 4163<NUL>
-POCSAG2400: Address:  583472  Function: 2  Alpha:   09:47-92 73338
-POCSAG1200: Address: 1021944  Function: 1 
-POCSAG1200: Address:  265302  Function: 3  Alpha:   U<LF>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   F0
-POCSAG2400: Address: 1320348  Function: 2  Alpha:   09:47-50 4269<NUL>
-POCSAG2400: Address:  584649  Function: 2  Alpha:   09:47-59 73338
-POCSAG2400: Address:  584658  Function: 2  Alpha:   09:47-84 73338
-POCSAG2400: Address:  583561  Function: 2  Alpha:   09:46-62 80300
-POCSAG1200: Address:  267189  Function: 0  Alpha:   09:46-62 MR COMER PIN 10686 DSCC 03457 500 620 <NUL>
-POCSAG1200: Address:  290090  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  414158  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031900  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290210  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1484809  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1031521  Function: 3  Alpha:   !<ACK>
-POCSAG2400: Address: 1469040  Function: 1 
-POCSAG1200: Address: 1745491  Function: 0 
-POCSAG1200: Address: 1512858  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032178  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031464  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512850  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  209312  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512842  Function: 3  Alpha:   !<ACK>
