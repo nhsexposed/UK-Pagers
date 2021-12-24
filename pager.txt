@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1441909  Function: 0 
+POCSAG1200: Address: 2011511  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0618241221+++TIME=0618241221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TI
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG2400: Address:   28927  Function: 0  Alpha:   06:12-75 2642<NUL>
@@ -994,7 +998,3 @@ POCSAG2400: Address:  549067  Function: 2  Alpha:   21:18-28 TEST PAGE<NUL><NUL>
 POCSAG2400: Address: 1322764  Function: 2  Alpha:   21:18-02 TEST PAGE<NUL><NUL>
 POCSAG2400: Address: 1322760  Function: 2  Alpha:   21:18-42 TEST PAGE<NUL><NUL>
 POCSAG1200: Address:   42299  Function: 2  Alpha:   21:18-97 PLEASE CALL ANOOB ON 01865 221 672<NUL><NUL>
-POCSAG1200: Address:  306142  Function: 2  Alpha:   21:18-44 PLEASE CALL ANOOB ON 01865 221 672<NUL><NUL>
-POCSAG1200: Address: 1896049  Function: 0 
-POCSAG1200: Address: 1991284  Function: 2 
-POCSAG2400: Address:   11729  Function: 0  Alpha:   21:18-41 A&E AT WILLYWARBY ON 07973 913 168<NUL><NUL>
