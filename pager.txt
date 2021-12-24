@@ -1,3 +1,10 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TI
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28927  Function: 0  Alpha:   06:12-75 2642<NUL>
+POCSAG1200: Address: 1032690  Function: 0 
+POCSAG1200: Address:  828517  Function: 0 
+POCSAG1200: Address: 2096120  Function: 3 
+POCSAG1200: Address: 1259045  Function: 2  Alpha:   06:10-13 call reception<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0608241221+++TIME=0608241221<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   06:08-51 2642<NUL>
 POCSAG1200: Address: 2074230  Function: 2 
@@ -991,10 +998,3 @@ POCSAG1200: Address:  306142  Function: 2  Alpha:   21:18-44 PLEASE CALL ANOOB O
 POCSAG1200: Address: 1896049  Function: 0 
 POCSAG1200: Address: 1991284  Function: 2 
 POCSAG2400: Address:   11729  Function: 0  Alpha:   21:18-41 A&E AT WILLYWARBY ON 07973 913 168<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28894  Function: 0  Alpha:   21:16-70 2343<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:15-69 3157<NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   21:15-46 PLEASE CALL CASSIE SUMMERS FROM WARD 60 ON EXT: 21135
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:14-68 3157<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2113231221+++TIME=2113231221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2113231221+++TIME=2113231221<NUL>
