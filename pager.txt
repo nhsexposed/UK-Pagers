@@ -1,3 +1,26 @@
+POCSAG1200: Address: 1511856  Function: 2  Alpha:   V"
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   FF
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1123241221+++TIME=1123241221<NUL>
+POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1655304  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   11:22-07 33835
+POCSAG2400: Address: 1321585  Function: 2  Alpha:   11:22-78 pls call physio 36514<NUL>
+POCSAG2400: Address: 1324449  Function: 2  Alpha:   11:21-70 PLS CALL NRC 0800 432 0559 OPTION 2 RE: DONOR 153480 @W<BS>
+POCSAG2400: Address: 1323170  Function: 2  Alpha:   11:21-91 PLS CALL NRC 0800 432 0559 OPTION 2 RE: DONOR 153480 
+POCSAG2400: Address: 1323200  Function: 2  Alpha:   11:21-54 PLS CALL NRC 0800 432 0559 OPTION 2 RE: DONOR 153480 
+POCSAG2400: Address: 1323179  Function: 2  Alpha:   11:21-75 PLS CALL NRC 0800 432 0559 OPTION 2 RE: DONOR 153480 
+POCSAG2400: Address:   33713  Function: 2  Alpha:   11:21-80 PLS CALL NRC 0800 432 0559 OPTION 2 RE: DONOR 153480 
+POCSAG1200: Address:  600790  Function: 0  Alpha:   11:21-02 PLS CALL HANNA SPRUCE ON 01324 566 137 RE TISSUE DONATION<NUL><NUL>
+POCSAG2400: Address:  549033  Function: 2  Alpha:   11:21-31 call waiting switch
+POCSAG1200: Address:  585450  Function: 2  Alpha:   11:21-34 4192<NUL>
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   11:21-37 60844
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   11:21-92 60844
+POCSAG1200: Address: 1092502  Function: 2  Alpha:   11:21-44 2268386<NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   11:20-91 24/12/2021 11:18:39 INC 2486
+POCSAG1200: Address: 1039338  Function: 3  Alpha:   2*
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   <SYN><HT>
 POCSAG1200: Address:  420227  Function: 2  Alpha:   11:18-89 2540<NUL>
 POCSAG512: Address: 1032662  Function: 3  Alpha:   1<ACK>
 POCSAG2400: Address:   28926  Function: 0  Alpha:   11:18-05 5896<NUL>
@@ -975,26 +998,3 @@ POCSAG1200: Address:   14950  Function: 0  Alpha:   07:32-31 24/12/2021 07:30:19
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  439801  Function: 0 
 POCSAG1200: Address: 1237793  Function: 3 
-POCSAG1200: Address: 1250456  Function: 2  Alpha:   VED FROM G16P1 (OIC 30316 IN G16P1)<NUL><NUL>
-POCSAG1200: Address: 1312598  Function: 2  Alpha:   07:32-44 Stop Message received for Incident 2112008106;  [STOP] 24/12/21 07:32:08 STOP MESSAGE RECEI
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0728241221+++TIME=0728241221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0728241221+++TIME=0728241221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1073190  Function: 0  Alpha:   HIz<SUB><CAN>K<ENQ><DC4><CAN>iI*ZX<BS>D<EM><ACK>F<ENQ>D<EM><ACK><ACK>4&I<BS>T<EM>L]<FF><EOT>'<SYN><VT>4xII<BS>T<ENQ>d<CAN>8X<BS>Dxyj<HT>T<ENQ>D<EM><HT>:<LF><DC4>(Z<BS>$HYZ<BS>t(J<BS>46v<SYN><SYN>G<ACK>4<SYN><ETB>'F&<ACK>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0723241221+++TIME=0723241221<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   07:23-05 5073<NUL>
-POCSAG2400: Address: 1913809  Function: 2  Alpha:   07:21-00 2338<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0718241221+++TIME=0718241221<NUL>
-POCSAG1200: Address: 1313124  Function: 2  Alpha:   07:17-90 PLEASE CALL IAN TRAVIS ON 07500 899 127 RE: MOTHER IN DISTRESS <NUL><NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713241221+++TIME=0713241221<NUL>
-POCSAG1200: Address: 1875975  Function: 0 
-POCSAG1200: Address: 1746550  Function: 0 
-POCSAG1200: Address: 1031784  Function: 3  Alpha:   B<EM>
-POCSAG1200: Address: 1816799  Function: 2  Alpha:   07:10-44 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: DK70YSD. If no more B
-POCSAG1200: Address: 1747546  Function: 1 
-POCSAG2400: Address: 1391497  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0708241221+++TIME=0708241221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1032714  Function: 3  Alpha:   <DC2>*
-POCSAG512: Address: 1995638  Function: 0 
-POCSAG1200: Address: 1259045  Function: 2  Alpha:   07:02-14 33460
