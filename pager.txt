@@ -1,3 +1,12 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0258241221+++TIME=0258241221<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:58-92 4140<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28921  Function: 0  Alpha:   02:57-83 2642<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:56-91 3157<NUL>
+POCSAG2400: Address:   28922  Function: 0  Alpha:   02:56-45 2642<NUL>
+POCSAG1200: Address: 1312984  Function: 2  Alpha:   02:56-71 (2/2) Roles    JY21P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Detached <NUL>
+POCSAG1200: Address:  428347  Function: 2  Alpha:   02:56-46 24/12/2021 02:54:15 INC 24868445 31E01 BEECHWOOD CARE SERVICES, BEECHWOOD RMPD, GRASSENDALE L19, L19 0LD Male 68Y FOUND ON FLOOR - SHALLOW BREATHING -NOT ALERT - COPD GASPING GRD 338649 385022<NUL>
+POCSAG1200: Address: 1039240  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0253241221+++TIME=0253241221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1323889  Function: 2  Alpha:   20:16-60 7324<NUL>
 POCSAG1200: Address: 1483444  Function: 1 
 POCSAG2400: Address: 1323883  Function: 2  Alpha:   20:15-73 4166<NUL>
 POCSAG1200: Address:   40088  Function: 2  Alpha:   20:15-42 WARD: RESPIRATORY UNIT CONTACT NUMBER:21970<NUL><NUL>
-POCSAG2400: Address:  225851  Function: 2  Alpha:   20:14-86 107204<NUL><NUL>
-POCSAG2400: Address: 2011888  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:   42299  Function: 2  Alpha:   20:13-95 PLEASE CALL ED ON 01865 857 71
-POCSAG1200: Address:  306142  Function: 2  Alpha:   20:13-42 PLEASE CALL ED ON 01865 857 71
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1360040  Function: 0 
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   20:12-80 62877
-POCSAG2400: Address:  290053  Function: 0 
