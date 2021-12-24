@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   19:24-70 4373<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1923241221+++TIME=1923241221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1923241221+++TIME=1923241221<NUL>
+POCSAG1200: Address: 2003578  Function: 0 
+POCSAG2400: Address: 1975396  Function: 2 
+POCSAG2400: Address: 1032033  Function: 0 
+POCSAG1200: Address:  428496  Function: 2  Alpha:   19:21-19 Call or Calls waiting at Switchboard
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2>*
+POCSAG2400: Address: 2072676  Function: 0 
+POCSAG2400: Address: 1324564  Function: 2  Alpha:   19:20-62 Confirmed End of Shift Thank you<NUL>
+POCSAG2400: Address: 1814995  Function: 0  Alpha:   e<FF>HdL
+POCSAG2400: Address:   28907  Function: 0  Alpha:   19:20-29 4157<NUL>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   19:19-99 5204<NUL>
 POCSAG1200: Address:  548039  Function: 2  Alpha:   19:18-56 24/12/2021 19:17:47 INC 24871598 31E01 1 THE MEADOW, WOODCHURCH BIRKENHEAD, CH49 8HX Male 34Y INTOXICATED GRD 327664 386955<NUL><NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   19:18-03 24/12/2021 19:17:47 INC 24871598 31E01 1 THE MEADOW, WOODCHURCH$VIRKENHEAD, CH49 8HX Male 34Y INTOXICATED GRD 327664 386955<NUL><NUL>
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1323724  Function: 2  Alpha:   16:31-78 3148<NUL>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   16:30-71 4482<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1628241221+++TIME=1628241221<NUL>
 POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:28-40 2798<NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   16:28-48 24/12/2021 16:24:45 IN
-POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&T<SUB>6<DC2>0f
-POCSAG1200: Address:  212165  Function: 2  Alpha:   Fj
-POCSAG1200: Address: 1606195  Function: 0 
-POCSAG1200: Address:   18937  Function: 2  Alpha:   16:28-48 6439<NUL>
-POCSAG1200: Address: 1485434  Function: 1 
-POCSAG2400: Address: 1913537  Function: 2  Alpha:   16:27-86 5530<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   16:27-88 5330<NUL>
-POCSAG1200: Address:  980544  Function: 0 
-POCSAG1200: Address:  212165  Function: 2  Alpha:   Fj
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>A
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:25-39 2161<NUL>
