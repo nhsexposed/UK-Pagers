@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 2067442  Function: 0 
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:34-73 4156<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2133241221+++TIME=2133241221<NUL>
+POCSAG2400: Address:   11705  Function: 0  Alpha:   21:33-83 PLEASE CALL DR ADEMOLA FROM A&E ON EXT: 8335<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1090108  Function: 2 
 POCSAG1200: Address:  646178  Function: 2  Alpha:   21:29-19 74908
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   21:29-49
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2128241221+++TIME=2128241221<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address: 2046560  Function: 3
 POCSAG1200: Address: 1025413  Function: 3  Alpha:   ~A^|A
 POCSAG1200: Address:  450974  Function: 1  Alpha:   mA<STX>LW}eoYZI_MA\MG
 POCSAG1200: Address: 1751815  Function: 2 
-POCSAG1200: Address:  688809  Function: 3  Alpha:   RD<VT>3c'5J
-POCSAG1200: Address:  283748  Function: 2  Alpha:   tS
-POCSAG1200: Address:  924720  Function: 1 
-POCSAG1200: Address:  529953  Function: 3 
-POCSAG1200: Address: 2074230  Function: 2 
-POCSAG1200: Address: 1176099  Function: 0  Alpha:   tu
-POCSAG1200: Address: 1417497  Function: 0  Alpha:   9<HT>
