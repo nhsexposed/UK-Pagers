@@ -1,3 +1,35 @@
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:54-58 4312<NUL>
+POCSAG1200: Address: 1812358  Function: 3  Alpha:   Uh
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1353241221+++TIME=1353241221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1353241221+++TIME=1353241221<NUL>
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   13:53-49 4387<NUL>
+POCSAG1200: Address:  549859  Function: 2  Alpha:   13:53-26 ~FOR INFO E23 STATION CLEANING HAS BEEN COMPLETED<NUL><NUL>
+POCSAG1200: Address:  549858  Function: 2  Alpha:   13:53-55 ~FOR INFO E23 STATION CLEANING HAS BEEN COMPLETED<NUL><NUL>
+POCSAG1200: Address: 1323595  Function: 2  Alpha:   13:53-81 ~FOR INFO E23 STATION CLEANING HAS BEEN COMPLETED<NUL><NUL>
+POCSAG1200: Address:  549854  Function: 2  Alpha:   13:53-46 ~FOR INFO E23 STATION CLEANING HAS BEEN COMPLETED<NUL><NUL>
+POCSAG1200: Address:  549812  Function: 2  Alpha:   13:53-33 ~FOR INFO E23 STATION CLEANING HAS BEEN COMPLETED<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1913676  Function: 2  Alpha:   13:53-18 5359<NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:52-28 24/12/2021 13:49:01 INC 24870291 31A03 79 LIBERTY PLACE, ST. HELENS, WA10 4PL Male 2Y TEMP = 38.2 - FEELING UNWELL GRD 349716 395345<NUL>
+POCSAG1200: Address: 1067866  Function: 2  Alpha:   13:52-33 24/12/2021 13:51:03 INC 24870302 12D02 7 RYDAL WAY, WIDNES WA8, WA8 8SP Female 14Y SEIZURE GRD 349355 386037
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1484954  Function: 0 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   13:51-34 Alarm alarm.NetworkConnectivityLostAlarm on Host : man-mvmh11-mc1.mgmt.private is Red, Target: man-mvmh11-mc1.mgmt.private <LF>Previous Status: Green <LF>New Status: Red <LF> <LF>Alarm Definition: <LF>([Event alarm expression: Lost Network Connectivity; S<NUL><NUL>
+POCSAG1200: Address:   41432  Function: 2  Alpha:   13:51-82 24/12/2021 13:46:16 INC 24870274 12C04 BAILEY & GARRET CHEMIST, 22-26 ROSEGROVE LANE, BURNLEY, BB12 6HX Male 71Y Q SEIZURE GRD 381605 432486<NUL><NUL>
+POCSAG1200: Address:  548168  Function: 2  Alpha:   13:51-73 PLS CALL 3960 <NUL><NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   13:50-27 4462<NUL>
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   13:51-94 35
+POCSAG1200: Address:  695397  Function: 2  Alpha:   13:50-17 24/12/2021 13:46:37 INC 24870275 06E01 10 PENDLE STREET, ACCRINGTON, BB5 0SL Female 21Y UNCONTIOUS - DIB GRD 375419 428114
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG1200: Address:  585965  Function: 2  Alpha:   13:50-23 PLS CALL JAMIE DAVIES 07548 383 703 
+POCSAG2400: Address: 1321573  Function: 2  Alpha:   13:50-73 32190
+POCSAG1200: Address:  290101  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  585540  Function: 2  Alpha:   13:50-66 2150<NUL>
+POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
+POCSAG1200: Address: 1512713  Function: 3  Alpha:   <ACK><DLE>
+POCSAG1200: Address: 1305144  Function: 0 
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:49-90 24/12/2021 13:47:44 INC 24870280 18C02 CHERRY PIE MARKET HALL - S2, EARL STREET, PRESTON, PR1 2LA Male 11Y SEVERE PAIN IN SIDE GRD 353966 429574<NUL>
 POCSAG1200: Address:  600915  Function: 0 
 POCSAG1200: Address:   80070  Function: 3  Alpha:   V<STX>
@@ -966,35 +998,3 @@ POCSAG1200: Address: 1487388  Function: 0
 POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
 POCSAG2400: Address:   28870  Function: 0  Alpha:   10:16-71 PLS CALL WENDY 3945 <NUL><NUL>
 POCSAG2400: Address: 1320201  Function: 2  Alpha:   10:15-17 3240<NUL>
-POCSAG1200: Address:   41512  Function: 2  Alpha:   10:15-02 Call or Calls waiting at Switchboard
-POCSAG1200: Address:  150090  Function: 0  Alpha:   10:15-02 PLS CALL MRS ATKINS 07496 327 382 <NUL><NUL>
-POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   10:14-95 4263<NUL>
-POCSAG1200: Address: 1032689  Function: 3  Alpha:   VD
-POCSAG2400: Address: 1323889  Function: 2  Alpha:   10:14-63 5204<NUL>
-POCSAG2400: Address: 1913712  Function: 2  Alpha:   10:13-82 4277<NUL>
-POCSAG1200: Address: 1092400  Function: 2  Alpha:   10:13-14 3633<NUL>
-POCSAG2400: Address:  584658  Function: 2  Alpha:   10:13-85 80300
-POCSAG1200: Address:   41512  Function: 2  Alpha:   10:12-01 0<NUL>
-POCSAG2400: Address: 1913884  Function: 2  Alpha:   10:12-71 4264<NUL>
-POCSAG1200: Address: 1032929  Function: 3  Alpha:   V<LF>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   10:10-16 2304<NUL>
-POCSAG2400: Address: 1322786  Function: 2  Alpha:   10:10-85 NHSBT - DONOR REFERRAL. Please call TIM RIDGEWAY  on Direct Dial Number 0151 600 1809 Hospital LIVERPOOL HEART & CHEST  Dept  . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1323140  Function: 2  Alpha:   10:10-63 NHSBT - DONOR REFERRAL. Please call TIM RIDGEWAY  on Direct Dial Number 0151 600 1809 Hospital LIVERPOOL HEART & CHEST  Dept  . Regards Donor Referral Line<NUL>
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   10:10-05 NHSBT - DONOR REFERRAL. Please call TIM RIDGEWAY  on Direct Dial Number 0151 600 1809 Hospital LIVERPOOL HEART & CHEST  Dept  . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  675132  Function: 2  Alpha:   Y\<<CAN><ESC><BS>3Z;<EM><NUL>
-POCSAG1200: Address: 2010227  Function: 1 
-POCSAG1200: Address: 1511856  Function: 2  Alpha:   <SYN>b
-POCSAG2400: Address: 1913880  Function: 2  Alpha:   10:09-05 4333<NUL>
-POCSAG2400: Address: 1913884  Function: 2  Alpha:   10:09-70 4264<NUL>
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   10:09-40 5204<NUL>
-POCSAG2400: Address: 1913801  Function: 2  Alpha:   10:09-33 3240<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1008241221+++TIME=1008241221<NUL>
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:08-78 5242<NUL>
-POCSAG1200: Address:  600484  Function: 3  Alpha:   <ACK><BEL>
-POCSAG2400: Address: 1913889  Function: 2  Alpha:   10:07-59 4269<NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:08-86 24/12/2021 10:05:54 INC 24869423 17A04G 21 LAKESIDE GARDENS, RAINFORD ST HELENS WA11, WA11 8HH Female 94Y F - FALLEN GRD 348147 400736<NUL><NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   z1q<FS>)<FF>1f
-POCSAG1200: Address:  640109  Function: 2  Alpha:   10:06-74 24/12/2021 10:05:46 INC 24869422 31E01 28 BROOKLANDS DRIVE, LEFTWICH NORTHWICH CW9, CW9 8EN Male 55Y DIB- BARELY AWAKE GRD 366058 371725
-POCSAG2400: Address:  549498  Function: 2  Alpha:   10:06-05 EXERCISE EXERCISE EXERCISE - We wish you a merry-and all that end of Message test.
-POCSAG2400: Address: 1913810  Function: 2  Alpha:   10:06-34 2233<NUL>
