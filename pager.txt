@@ -1,3 +1,24 @@
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   09:34-40 24/12/2021 09:33:08 INC 24869297 09E01 43 IMISON STREET, WALTON L9, L9 1EE Male 60Y PANC CANCER - DIED GRD 335505 395050<NUL><NUL>
+POCSAG2400: Address: 1323059  Function: 2  Alpha:   09:34-94 80300
+POCSAG2400: Address: 1323650  Function: 2  Alpha:   09:34-89 80300
+POCSAG2400: Address:  583842  Function: 2  Alpha:   09:33-63 80300
+POCSAG2400: Address: 1712949  Function: 0 
+POCSAG2400: Address:  583548  Function: 2  Alpha:   09:33-46 80300
+POCSAG2400: Address:  583520  Function: 2  Alpha:   09:33-81 80300
+POCSAG2400: Address: 1323696  Function: 2  Alpha:   09:32-48 80300
+POCSAG2400: Address:  583543  Function: 2  Alpha:   09:32-16 80300
+POCSAG2400: Address: 1322513  Function: 2  Alpha:   09:32-32 80300
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  316782  Function: 3  Alpha:   1<DC1>hp3U<DC4><NAK><VT><BS>.<FF><BS>2PT4Rs<DC1>uS<DC3><BS>3P3<DC1><VT>(<DC1>6<DC1>5Q<DC4><VT>(<DC1><SYN><CR><BS>Ns<DC4><VT><BS>5:;<EM>h[<EM>h0<CAN><ESC>[<SO>H<FF>m+LlK<FF>L,<FF><BS>,Nn<FF>L<SO>l<FF><VT>hp;k[<FS>y\<SO>(<CR>Lk<CR><CR><FF>M,<SO>NL<CR>(kL<VT><CR>nL-.,-n<FF><NUL>
+POCSAG1200: Address:  679754  Function: 2  Alpha:   09:31-98 snpp 555
+POCSAG2400: Address:  583583  Function: 2  Alpha:   09:31-31 80300
+POCSAG1200: Address: 1710187  Function: 2  Alpha:   09:31-46 snpp 555
+POCSAG2400: Address: 1913687  Function: 2  Alpha:   09:31-08 2018<NUL>
+POCSAG1200: Address: 1511916  Function: 2  Alpha:   <DC2>C<CR><LF>L
+POCSAG1200: Address:  679754  Function: 2  Alpha:   09:31-96 snpp 555
+POCSAG1200: Address: 1512730  Function: 3  Alpha:   U(
+POCSAG1200: Address:  679754  Function: 2  Alpha:   09:30-95 test snpp 444
+POCSAG1200: Address: 1032925  Function: 3  Alpha:   &P
 POCSAG1200: Address: 2088952  Function: 3 
 POCSAG1200: Address: 1032691  Function: 3  Alpha:   <SYN><DC2>
 POCSAG1200: Address: 1031513  Function: 3  Alpha:   VF
@@ -977,24 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2303231221+++TIME=23
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   23:02-75 23/12/2021 23:01:18 INC 24867795 25B04 TONIC, 27 PICKFORD STREET, MACCLESFIELD SK11, SK11 6JD Male 13Y THREATENING TO JUMP GRD 391872 373395<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:01-56 2233<NUL>
-POCSAG1200: Address:  269365  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:  683592  Function: 2  Alpha:   zJ
-POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>CA;L
-POCSAG1200: Address:  678665  Function: 2  Alpha:   23:00-91 Case ref 11276206 Fill in tick sheet
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   22:59-87 INC ALERT No: 16961356 Cardiac Arrest -, AT: 14 FLAXPITS LANE, WINTERBOURNE BRISTOL, BS36 1JY, Time of Call: 23/12/2021 22:59:19, Co-ords: 51.5224555 -2.5071401<NUL><NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   22:58-57 4376<NUL>
-POCSAG1200: Address:  216463  Function: 2  Alpha:   22:58-23 23/12/2021 22:55:36 INC 24867770 04D04A JUNC GRIERSON STREET, 46A LODGE LANE, TOXTETH L8, L8 0QL Gsne 23Y MENTAL HEALTH- PEPPER SPRAYED GRD 336935 389277
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2258231221+++TIME=2258231221<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   22:58-79 23/12/2021 22:55:36 INC 24867770 04D04A JUNC GRIERSON STREET, 46A LODGE LANE, TOXTETH L8, L8 0QL Male 23Y MENTAL HEALTH- PEPPER SPRAYED GRD 336935 389277
-POCSAG2400: Address: 1876599  Function: 2 
-POCSAG2400: Address:  216264  Function: 2  Alpha:   22:57-28 Alarm alarm.HostCPUUsageAlarm on Host : mansdpcesx09a.hosting.civica.com is Critical, This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Critical] Alarm alarm.HostCPUUsageAlarm on Host mansdpcesx09a.hosting<NUL><NUL>
-POCSAG1200: Address: 1321407  Function: 2  Alpha:   22:57-46 8386<NUL>
-POCSAG1200: Address: 2080096  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   22:56-88 23/12/2021 22:54:44 INC 24867767 36A03A 78 ROYTON AVENUE, SALE MOOR SALE, M33 2TU Male 55Y EXTREME MUSCLE CRAMPING IN LEGS GRD 380140 390642<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:56-55 4312<NUL>
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   22:54-56 2343<NUL>
-POCSAG1200: Address: 1816912  Function: 2  Alpha:   22:54-80 (1/2)033727-23122021; S10.0.0.P SPECIAL SERVICE - RELEASE; 27 LOWER WAY,THATCHAM,RG19 3RR; 450957,167270; RING STUCK ON 13 YEAR OLD; Assigned: JY04P2;
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2253231221+++TIME=2253231221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2253231221+++TIME=2253231221<NUL>
