@@ -1,3 +1,12 @@
+POCSAG1200: Address:   64660  Function: 0  Alpha:   03:29-78 Plse call SGH extn 1013<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328241221+++TIME=0328241221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0328241221+++TIME=0328241221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320153  Function: 2  Alpha:   03:26-02 03:26-01 PLEASE CALL SURGEON (PETER) 07738 395 955<NUL>
+POCSAG2400: Address: 1323145  Function: 2  Alpha:   03:26-85 PLEASE CALL SURGEON (PETER) 07738 395 955<NUL>
+POCSAG2400: Address: 1323140  Function: 2  Alpha:   03:26-60 PLEASE CALL SURGEON (PETER) 07738 395 955<NUL>
+POCSAG2400: Address: 1322796  Function: 2  Alpha:   03:26-58 PLEASE CALL SURGEON (PETER) 07738 395 955<NUL>
+POCSAG2400: Address: 1022653  Function: 0  Alpha:   03:26-86 PLEASE CALL 01823 342 042
 POCSAG1200: Address: 2008953  Function: 0 
 POCSAG1200: Address: 2014832  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323241221+++TIME=0323241221<NUL>
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1324552  Function: 2  Alpha:   20:25-43 INC ALERT No: 16960
 POCSAG2400: Address: 1814968  Function: 0  Alpha:   20:25-44 PLEASE CALL 4315
 POCSAG2400: Address:  549123  Function: 2  Alpha:   20:25-15 5204<NUL>
 POCSAG1200: Address: 1022027  Function: 2  Alpha:   20:24-87 Call 24867119 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  271532  Function: 2  Alpha:   20:24-88 Call 24867119 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2023231221+++TIME=2023231221<NUL>
-POCSAG2400: Address:  583499  Function: 2  Alpha:   20:23-32 711147<NUL><NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   20:23-09 4179<NUL>
-POCSAG1200: Address: 1999458  Function: 1 
-POCSAG1200: Address:  363869  Function: 2  Alpha:   20:22-31 23/12/2021 20:19:53 INC 24867143 27D03S KING RESTAURANT, ALBERT ROAD, WIDNES WA8, WA8 6LG Male 40Y KEEP LOOSSING CONCIOUSNESS, STAB IN THE HEAD GRD 352063 386292<NUL>
-POCSAG1200: Address: 1816709  Function: 2  Alpha:   20:22-35 (2/3) Assigned: JY18P1; Roles    JY18P1:Main Pump; Talkgrp  FBER-OPS03 (40*) (DGNA);<NUL>
-POCSAG2400: Address: 1022635  Function: 2  Alpha:   20:22-03 711147<NUL><NUL>
-POCSAG2400: Address: 1323883  Function: 2  Alpha:   20:22-74 4166<NUL>
