@@ -1,3 +1,19 @@
+POCSAG1200: Address:  420271  Function: 2  Alpha:   15:04-18 3208<NUL>
+POCSAG2400: Address: 2091643  Function: 0 
+POCSAG1200: Address:  269168  Function: 2  Alpha:   15:03-41 24/12/2021 14:59:06 INC 24870562 02C01 LOTUS CARE ASH COTTAGE, 26-28 CROW WOODS, RAMSBOTTOM BURY, BL0 0HY Male 82Y NOT EATING OR DRINKING AND STRUGGLING TO SWALLOW - UNSTEADY AND CONFUSED GRD 379903 420400
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1503241221+++TIME=1503241221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   15:03-52 4114<NUL>
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><BS>
+POCSAG1200: Address:  290120  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  269282  Function: 3  Alpha:   F<EOT>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:   64608  Function: 0 
+POCSAG1200: Address: 1747523  Function: 2 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   15:01-07 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:01-16 33955
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   15:00-73 5204<NUL>
+POCSAG2400: Address:   64608  Function: 0 
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:59-72 5204<NUL>
 POCSAG2400: Address: 1913840  Function: 2  Alpha:   14:59-59 3510<NUL>
 POCSAG1200: Address:  958549  Function: 0 
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1032920  Function: 3  Alpha:   <ACK><VT>
 POCSAG2400: Address:   28868  Function: 0  Alpha:   11:45-61 35160 <NUL><NUL>
 POCSAG1200: Address: 1312467  Function: 2  Alpha:   11:45-39 60844
 POCSAG2400: Address:   28926  Function: 0  Alpha:   11:45-06 2717<NUL>
-POCSAG2400: Address: 1022565  Function: 0  Alpha:   11:45-46 Reminder for fleet call representatives only. Fleet call commences at 12:00hrs - SSM.
-POCSAG2400: Address: 1022568  Function: 0  Alpha:   11:45-78 Reminder for fleet call representatives only. Fleet call commences at 12:00hrs - SSM.
-POCSAG2400: Address: 1323650  Function: 2  Alpha:   11:45-91 Reminder for fleet call representatives only. Fleet call commences at 12:00hrs - SSM.
-POCSAG2400: Address: 1022598  Function: 0  Alpha:   11:45-55 Reminder for fleet call representatives only. Fleet call commences at 12:00hrs - SSM.
-POCSAG2400: Address: 1022558  Function: 0  Alpha:   11:45-60 Reminder for fleet call representatives only. Fleet call commences at 12:00hrs - SSM.
-POCSAG2400: Address: 1321073  Function: 2  Alpha:   11:45-68 4373<NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   11:45-16 24/12/2021 11:42:46 INC 24869780 07C03 17 MAUNBY GARDENS, LITTLE HULTON MANCHESTER, M38 9LD Female 80Y ABDO PAIN GRD 373275 403313<NUL>
-POCSAG1200: Address: 2078360  Function: 2  Alpha:   ll,l<FF>
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   11:44-95 4373<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   11:43-10 5201<NUL>
-POCSAG2400: Address: 1031920  Function: 3  Alpha:   a$
-POCSAG1200: Address:   49263  Function: 2  Alpha:   11:43-54 MEDICAL EMERGENCY WARD 12 AT UHND
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1143241221+++TIME=1143241221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  549851  Function: 2  Alpha:   11:42-83 ~PLEASE CONTACT LOUIS SHIELS ON 07563703423<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
