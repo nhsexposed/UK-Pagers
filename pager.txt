@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
+POCSAG1200: Address: 1274442  Function: 3 
+POCSAG1200: Address: 1032983  Function: 2  Alpha:   <SYN><SOH>@<DEL><DEL>
+POCSAG2400: Address:  202200  Function: 0 
+POCSAG1200: Address: 1259427  Function: 2 
+POCSAG1200: Address:  585224  Function: 2  Alpha:   20:15-16 1: 001PAPUX3128052 Smoke Alarm ***SMOKE*** 01
+POCSAG2400: Address:  829811  Function: 0 
+POCSAG1200: Address:  585004  Function: 2  Alpha:   20:15-88 1: 001PAPUX3128052 Smoke Alarm ***SMOKE*** 01
 POCSAG2400: Address:   28899  Function: 0  Alpha:   20:14-25 2168<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2013241221+++TIME=2013241221<NUL>
 POCSAG1200: Address:  272164  Function: 2  Alpha:   20:13-70 696955<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 2032244  Function: 2
 POCSAG2400: Address: 1022493  Function: 0  Alpha:   17:59-62 Reminder steam controls remain in force, any variation in demand must be pre-agreed with the Infra SCo beforehand - SSM
 POCSAG2400: Address: 1322905  Function: 2  Alpha:   17:59-61 613457<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1758241221+++TIME=1758241221<NUL>
-POCSAG1200: Address: 1612248  Function: 1 
-POCSAG2400: Address:   28900  Function: 0  Alpha:   17:58-06 4411<NUL>
-POCSAG2400: Address: 1321375  Function: 2  Alpha:   17:57-93 ANNIE ZUNC 33437 BED 23<NUL><NUL>
-POCSAG1200: Address: 1039321  Function: 2  Alpha:   r<BS>
-POCSAG1200: Address:  114427  Function: 0  Alpha:   17:57-04 01173421914
-POCSAG2400: Address: 1015239  Function: 2  Alpha:   17:56-84 5<NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   17:55-41 5531<NUL>
-POCSAG2400: Address: 1095090  Function: 0 
