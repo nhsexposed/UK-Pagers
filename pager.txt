@@ -1,3 +1,8 @@
+POCSAG2400: Address:   28870  Function: 0  Alpha:   04:49-68 PLEASE CALL QEQM A&E 7253801
+POCSAG2400: Address: 1066148  Function: 3  Alpha:   <SO>l
+POCSAG2400: Address:  216272  Function: 2  Alpha:   04:47-90 PROBLEM: GMMHACLVDA19A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA19A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA19A<CR><LF>Alias: <CR><LF>Address: 192.168.23.149<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Fri Dec 24 04:47:25 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
+POCSAG1200: Address:  553840  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  548206  Function: 2  Alpha:   04:47-12 04:28-11 PLEASE CALL SECURITY REGARDING ENVIRONMENTAL ALARM 01908 658 100 <NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443241221+++TIME=0443241221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address:  549123  Function: 2  Alpha:   20:55-16 5228<NUL>
 POCSAG1200: Address:  549785  Function: 2  Alpha:   20:55-88 ~FOR INFO: S3102 WILL BE OFF RUN A WHILE - CHANGEOVER REQUIRED
 POCSAG2400: Address: 1095090  Function: 0 
 POCSAG2400: Address: 1321148  Function: 2  Alpha:   20:54-47 2100 Meeting Stood down. Thanks John Dodds EPRR Tac Ad<NUL><NUL>
-POCSAG2400: Address: 1321114  Function: 2  Alpha:   20:54-22 2100 Meeting Stood down. Thanks John Dodds EPRR Tac Ad<NUL><NUL>
-POCSAG2400: Address: 1321142  Function: 2  Alpha:   20:54-35 2100 Meeting Stood down. Thanks John Dodds EPRR Tac Ad<NUL><NUL>
-POCSAG2400: Address: 1324182  Function: 2  Alpha:   20:54-42 2100 Meeting Stood down. Thanks John \ofds EPRR Tac Ad<NUL><NUL>
-POCSAG1200: Address: 1660016  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2053231221+++TIME=2053231221<NUL>
