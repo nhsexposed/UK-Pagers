@@ -1,3 +1,35 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:08-14 2008<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1308241221+++TIME=1308241221<NUL>
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   13:08-51 call 6061<NUL><NUL>
+POCSAG1200: Address:   22062  Function: 2  Alpha:   13:08-36 4226<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1308241221+++TIME=1308241221<NUL>
+POCSAG2400: Address: 1913670  Function: 2  Alpha:   13:08-75 3507<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:08-95 4183<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   13:08-25 4179<NUL>
+POCSAG1200: Address:  269354  Function: 3  Alpha:   <SYN>&
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2009853  Function: 2 
+POCSAG1200: Address: 1511856  Function: 2  Alpha:   V"
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   F0
+POCSAG1200: Address: 1032022  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  314589  Function: 2  Alpha:   13:07-08 2168<NUL>
+POCSAG2400: Address: 1913904  Function: 2  Alpha:   13:07-29 5236<NUL>
+POCSAG2400: Address: 1052908  Function: 2  Alpha:   13:06-91 6371<NUL>
+POCSAG1200: Address:  358192  Function: 1 
+POCSAG1200: Address: 1264169  Function: 0 
+POCSAG1200: Address:  975478  Function: 2 
+POCSAG1200: Address:  360002  Function: 0  Alpha:   13:06-80 24/12/2021 13:01:56 INC 24870105 28C01M 5 PRESCOTT STREET, TURF MOOR BURNLEY, BB10 4DT Female 53Y ?STROKE - FACIAL DROOP GRD 384983 432385<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   13:06-18 24/12/2021 12:47:01 INC 24870055 21A01T 83 FOUNDRY WHARF, ATLAS COURT, ST HELENS, WA9 1BZ Female 65Y ProQA Overridden - Call Escalated - ARM BLEEDING GRD 351869 395588<NUL>
+POCSAG2400: Address: 1913792  Function: 2  Alpha:   13:05-64 5204<NUL>
+POCSAG1200: Address:  549876  Function: 2  Alpha:   13:05-72 ~FOR INFO SLURRY INCIDENT 3 COCHRANES LANE NEWTOWNARDS  3 X HEIFERS IN A SLURRY TANK<NUL>
+POCSAG1200: Address:  549690  Function: 2  Alpha:   13:05-14 ~FOR INFO SLURRY INCIDENT 3 COCHRANES LANE NEWTOWNARDS  3 X HEIFERS IN A SLURRY TANK<NUL>
+POCSAG2400: Address: 2073319  Function: 2 
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   13:05-75 Start Shift Acknowledged Thank you<NUL><NUL>
+POCSAG2400: Address: 1321021  Function: 2  Alpha:   13:05-99 3510<NUL>
+POCSAG2400: Address: 1594963  Function: 2  Alpha:   13:05-77 7<NUL>
+POCSAG2400: Address: 1913792  Function: 2  Alpha:   13:05-63 3539<NUL>
+POCSAG1200: Address:  413140  Function: 2  Alpha:   13:05-30 7<NUL>
+POCSAG1200: Address:  619016  Function: 3  Alpha:   <SYN><EOT>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:04-53 4387<NUL>
 POCSAG2400: Address:   11729  Function: 0  Alpha:   13:04-50 PLS CALL DR SMALL ON A AND E AT THE WILLIAM HARVEY ON EXT 723 8792<NUL><NUL>
 POCSAG2400: Address: 1594963  Function: 2  Alpha:   13:04-76 5<NUL>
@@ -966,35 +998,3 @@ POCSAG1200: Address: 1015484  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1032171  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  290082  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  906713  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812360  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512735  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031990  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  325925  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1512746  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1485552  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032046  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512856  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761226  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290210  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   09:44-84 69003
-POCSAG1200: Address: 1033022  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80189  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031900  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290090  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290137  Function: 3  Alpha:   %6
-POCSAG1200: Address: 1031464  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1484809  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  209312  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039089  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512752  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512858  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 2028152  Function: 1 
-POCSAG1200: Address: 1749843  Function: 2 
-POCSAG1200: Address: 1032178  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  618335  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032935  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  619046  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512850  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032608  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  197480  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290159  Function: 3  Alpha:   !<ACK>
