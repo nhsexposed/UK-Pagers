@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1680370  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0203241221+++TIME=0203241221<NUL>
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   02:03-96 INC ALERT No: 16961761 Electrocution / Lightning - M- ELECTROCUTED FROM A EXPOSED WIRE, AT: 13 CAMPBELL STREET, ST PAULS BRISTOL, BS2 8XE, Time of Call: 24/12/2021 02:02:18, Co-ords: 51.463925173 -2.584728502
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1485502  Function: 3  Alpha:   V<DLE>
+POCSAG2400: Address: 1022277  Function: 0  Alpha:   02:00-16 NHSBT - DONOR REFERRAL. Please call AMBER THOMPSON on Direct Dial Number 01904 726040 Hospital YORK HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
+POCSAG2400: Address: 1323102  Function: 2  Alpha:   02:00-17 NHSBT - DONOR REFERRAL. Please call AMBER THOMPSON on Direct Dial Number 01904 726040 Hospital YORK HOSPITAL Dept ICU . Regards Donor Referral Line<NUL>
 POCSAG1200: Address:   18824  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0158241221+++TIME=0158241221<NUL>
 POCSAG1200: Address: 1322125  Function: 2  Alpha:   01:58-41 please call rfh ext 36087
@@ -990,11 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   09/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1321419  Function: 2  Alpha:   19:57-55 Please call Rashidah Whitechapel  Ex 36910
 POCSAG1200: Address:  906480  Function: 3  Alpha:   <ETX>'
 POCSAG1200: Address: 1749616  Function: 0 
-POCSAG2400: Address: 1022635  Function: 2  Alpha:   19:55-01 01603711147
-POCSAG1200: Address:  108090  Function: 0  Alpha:   19:55-02 PRIMARY PCI TO CALL CCU<NUL><NUL>
-POCSAG1200: Address:  549778  Function: 2  Alpha:   19:54-61 ~PLEASE CONTACT CONTROLS REF S21 MANY THANKS<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1953231221+++TIME=1953231221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953231221+++TIME=1953231221<NUL>
-POCSAG2400: Address:  420537  Function: 2  Alpha:   <DC4>f
-POCSAG2400: Address:  420568  Function: 2  Alpha:   <DC4>f
-POCSAG1200: Address:  600915  Function: 0 
