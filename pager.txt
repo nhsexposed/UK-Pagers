@@ -1,3 +1,19 @@
+POCSAG1200: Address:  619020  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1913695  Function: 2  Alpha:   12:49-00 4316<NUL>
+POCSAG2400: Address: 1913880  Function: 2  Alpha:   12:48-08 4880<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1248241221+++TIME=1248241221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1248241221+++TIME=1248241221<NUL>
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:48-98 68373
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   FB
+POCSAG2400: Address:   33738  Function: 2  Alpha:   12:45-27 INC ALERT No: 16963049 Carbon Monoxide/Inhalation/Hazchem - F - INHALED GAS FROM CLEANING PRODUCTS, BREATHING ISSUES, AT: 17A PRIORSWOOD PLACE, TAUNTON, TA2 7JW, Time of Call: 24/12/2021 12:38:08, Co-ords: 51.0329897 -3.0941097<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:45-92 5042<NUL>
+POCSAG2400: Address: 1913957  Function: 2  Alpha:   12:45-62 2183<NUL>
+POCSAG1200: Address:   18860  Function: 2  Alpha:   12:45-79 TEST CALL FROM SWITCHBOARD<NUL><NUL>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   TN
+POCSAG1200: Address: 1957359  Function: 0 
+POCSAG1200: Address:  901465  Function: 2  Alpha:   12:45-33 PLEASE CALL JONATHAN COMB TEL 07969 104 898<NUL><NUL>
+POCSAG1200: Address: 1927040  Function: 2 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1243241221+++TIME=1243241221<NUL>
 POCSAG2400: Address: 1323798  Function: 2  Alpha:   12:43-28 3181<NUL>
 POCSAG2400: Address: 1913707  Function: 2  Alpha:   12:43-55 5092<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1761226  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address:  290137  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1512752  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1512842  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1812442  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290159  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1039230  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80098  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  269407  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031950  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1031955  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1512786  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address:  197480  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761263  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80118  Function: 2  Alpha:   !<ACK>
-POCSAG1200: Address: 1039204  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1032171  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  290082  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  212249  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761488  Function: 3  Alpha:   !<ACK>
