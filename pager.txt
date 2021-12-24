@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   18:54-98 5204<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1853241221+++TIME=1853241221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1853241221+++TIME=1853241221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 2077689  Function: 2 
+POCSAG2400: Address:   28916  Function: 0  Alpha:   18:51-69 4289<NUL>
+POCSAG1200: Address:  428496  Function: 2  Alpha:   18:50-17 test<NUL>
+POCSAG1200: Address: 1447336  Function: 1  Alpha:   4d
 POCSAG1200: Address:   67430  Function: 2 
 POCSAG1200: Address: 1486132  Function: 1 
 POCSAG1200: Address: 1956640  Function: 1 
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1913904  Function: 2  Alpha:   16:01-37 2161<NUL>
 POCSAG1200: Address: 1565498  Function: 2  Alpha:   16:01-70 24/12/2021 15:59:42 INC 24870815 09E01 45 IVINSON ROAD, DARWEN, BB3 3AW Unknown UnknownY NOT BREATHING GRD 369642 423111<NUL><NUL>
 POCSAG2400: Address:  216263  Function: 2  Alpha:   16:01-11 PROBLEM: Unix Load Average is CRITICAL on host mansdplovc01oni, <CR><LF>PROBLEM: Unix Load Average is CRITICAL on host mansdplovc01oni<CR><LF>Service: Unix Load Average<CR><LF>Host: mansdplovc01oni<CR><LF>Alias: <CR><LF>Address: mansdplovc01oni.ms.private<CR><LF>Host Group Hi<NUL><NUL>
 POCSAG1200: Address:   80070  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  306922  Function: 3 
-POCSAG1200: Address: 1997153  Function: 3 
-POCSAG1200: Address:  600772  Function: 2  Alpha:   p<DC2>YK1f1f
-POCSAG1200: Address:  619016  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   15:57-62 4387<NUL>
-POCSAG1200: Address: 1032917  Function: 3  Alpha:   <ACK>/
-POCSAG1200: Address: 1032155  Function: 2  Alpha:   <STX>Q
-POCSAG2400: Address: 1913920  Function: 2  Alpha:   15:54-02 5056<NUL>
