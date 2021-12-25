@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313251221+++TIME=0313251221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567(y0<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   03:11-15 25/12/2021 03:04:44 INC 24873194 36A03A NICE N SPICE, 723 STOCKPORT ROAD, LEVENSHULME MANCHESTER, M19 3AR Male 56Y SHORT TERM MEMORY LOST CONFUSED GRD 387366 394642<NUL>
+POCSAG1200: Address:  600636  Function: 2  Alpha:   03:10-13 <NULL><NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0308251221+++TIME=0308251221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0308251221+++TIME=0308251221<NUL>
 POCSAG1200: Address: 1562660  Function: 2 
@@ -994,7 +998,3 @@ POCSAG1200: Address:  260715  Function: 0  Alpha:   <FF><SOH>
 POCSAG1200: Address: 1816679  Function: 3  Alpha:   r<BEL>
 POCSAG1200: Address:  371820  Function: 0 
 POCSAG1200: Address: 1665238  Function: 2 
-POCSAG1200: Address:   80083  Function: 0  Alpha:   <RS>5ph<FF>
-POCSAG1200: Address:  361459  Function: 0  Alpha:   r<ACK>`<SOH><NUL> 5 10 FRENCH STREET,<NUL>`(O<DC1><EM>!<FF><ETX><HT>F&
-POCSAG1200: Address:  721894  Function: 1 
-POCSAG1200: Address:  367540  Function: 1  Alpha:   <FF>m
