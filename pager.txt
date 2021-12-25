@@ -1,3 +1,38 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0048251221+++TIME=0048251221<NUL>
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 1441794  Function: 0 
+POCSAG1200: Address: 1056825  Function: 0  Alpha:   <SOH><EM>
+POCSAG1200: Address:  242793  Function: 2 
+POCSAG1200: Address: 1684343  Function: 3 
+POCSAG1200: Address: 1925646  Function: 0  Alpha:   Q<ESC>
+POCSAG1200: Address:   76363  Function: 1 
+POCSAG1200: Address: 1520238  Function: 2 
+POCSAG1200: Address:  319872  Function: 1  Alpha:   nQ
+POCSAG1200: Address: 1618752  Function: 3 
+POCSAG1200: Address:   26931  Function: 2  Alpha:   N+LVK
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   00:48-06 25/12/2021 00:43:06 INC 24872792 06E01 21 VICTORIA STREET, CHORLE<EM><EOT><BS><CR>v
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   00:47-59 Call 24872669 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   00:47-21 25/12/2021 00:42:23 INC 24872789 24D05 10 FRENCH STREET, TOLL BAR ST HELENS WA10, WA10 3DU Female 28Y F - 6 MONTHS PREGNANT, ABDO PAIN GRD 349593 394240<NUL>
+POCSAG1200: Address:  696118  Function: 2  Alpha:   00:45-00 33842
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   00:44-07 25/12/2021 00:40:42 INC 24872781 29D02M OS, THE DOG & PARTRIDGE, 103 MEDLOCK ROAD, FAILSWORTH MANCHESTER, M35 9NP Male 28Y Q BROKEN LEG, CAR RAN INTO HIM GRD 390846 400607
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   00:44-27 25/12/2021 00:35:52 INC 24872766 06D02 ROOM A5, GARVEYS PROMENADE HOTEL, 277-279 PROMENADE, BLACKPOOL, FY1 6AJ Female 52Y FALLEN GRD 330631 434826<NUL><NUL>
 POCSAG1200: Address: 1978098  Function: 0 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   00:41-90 25/12/2021 00:38:52 INC 24872774 06E01 WIRRAL POLICE CUSTODY SUITES, CAVENDISH STREET, BIRKENHEAD CH41, CH41 8FZ Male 26Y STOPPED BREATHING AND HAS HAD A SEIZURE GRD 330889 389775
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   00:41-29 4314<NUL>
@@ -963,38 +998,3 @@ POCSAG2400: Address:  996308  Function: 1
 POCSAG2400: Address: 1504270  Function: 0  Alpha:   bw
 POCSAG2400: Address: 1617169  Function: 2  Alpha:   "<ESC>
 POCSAG2400: Address:  156850  Function: 2 
-POCSAG2400: Address:  534776  Function: 0  Alpha:   I<US>
-POCSAG2400: Address: 1323101  Function: 2  Alpha:   23:54-85 NHSBT<NUL>DZ
-POCSAG2400: Address:   70143  Function: 3  Alpha:   n<SI>LeA$KMKeeCYA<CAN>S]K<SOH><NUL>
-POCSAG2400: Address:  578354  Function: 0  Alpha:   t <ACK> YIUh$ .bg<ETB>pd?
-POCSAG2400: Address: 1639650  Function: 0 
-POCSAG2400: Address: 2026358  Function: 2 
-POCSAG2400: Address: 1201894  Function: 0 
-POCSAG2400: Address:  532661  Function: 1  Alpha:   <FS>E
-POCSAG2400: Address: 2041971  Function: 3 
-POCSAG2400: Address:  770611  Function: 1  Alpha:    <NUL>
-POCSAG2400: Address:  925748  Function: 1 
-POCSAG2400: Address:  375729  Function: 2  Alpha:   0)Nx<SO><BS><DEL>{
-POCSAG2400: Address:  487108  Function: 1  Alpha:   X<VT>
-POCSAG2400: Address: 2043301  Function: 1  Alpha:   <FS>e
-POCSAG2400: Address: 1630835  Function: 1 
-POCSAG2400: Address: 1636108  Function: 2 
-POCSAG2400: Address: 1228091  Function: 2  Alpha:   $<SI>
-POCSAG2400: Address:  156214  Function: 1 
-POCSAG2400: Address:  294620  Function: 2 
-POCSAG2400: Address: 1457342  Function: 0 
-POCSAG2400: Address:  372211  Function: 1  Alpha:   l<NUL><STX>9"N<LF>R<STX>5<SOH><DC1>>:>J<STX>I<SYN><SUB><SYN>JJ<ACK>2:<SOH>A2<ETB><BEL>O<ETB><ETX><CR><BEL>33<ETX>)<SYN>:<STX>]&22&<ACK><DLE>l
-POCSAG2400: Address:     403  Function: 2  Alpha:   AnJL~
-POCSAG2400: Address:  751475  Function: 2 
-POCSAG2400: Address: 1916194  Function: 1  Alpha:   <CR>$
-POCSAG2400: Address: 1784610  Function: 3 
-POCSAG2400: Address:   69823  Function: 3  Alpha:   nOo b
-POCSAG2400: Address: 1187873  Function: 2  Alpha:   V<STX><DC2><SOH>I<HT><US>g@<DC3>k
-POCSAG2400: Address:  127015  Function: 0 
-POCSAG2400: Address: 1306851  Function: 2 
-POCSAG2400: Address:  368780  Function: 0 
-POCSAG2400: Address: 1548441  Function: 0 
-POCSAG2400: Address:   79066  Function: 3  Alpha:   <DC2>;<HT>hyY4<SUB>
-POCSAG2400: Address:  193383  Function: 0 
-POCSAG2400: Address:  979660  Function: 1 
-POCSAG2400: Address:  293809  Function: 2  Alpha:   @)NP<SO><BS>k{
