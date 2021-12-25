@@ -1,3 +1,6 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0623251221+++TIME=0623251221<NUL>
+POCSAG2400: Address: 1744997  Function: 0 
+POCSAG2400: Address: 1022564  Function: 0  Alpha:   06:20-38 Shift Managers and Coordinators, Please send your Fleetcall Report updates via email to the SSM before 10:30, please see update email request - thx SSM <NUL>
 POCSAG1200: Address: 1312575  Function: 2  Alpha:   06:17-66 NOTIFY - FF 2928 S SAGGERS DORKING RED WATCH HAS BOOKED SICK FOR DAY DUTY TODAY 25.12.21 HE IS A DRIVER<NUL><NUL>
 POCSAG2400: Address:   28923  Function: 0  Alpha:   06:16-28 4411<NUL>
 POCSAG2400: Address: 1606196  Function: 0 
@@ -995,6 +998,3 @@ POCSAG1200: Address: 1461436  Function: 2  Alpha:   <CAN>P
 POCSAG1200: Address:  367220  Function: 1 
 POCSAG1200: Address:  338039  Function: 0 
 POCSAG1200: Address:  675873  Function: 2 
-POCSAG1200: Address:  128529  Function: 0  Alpha:   <SOH><STX>
-POCSAG1200: Address: 1417928  Function: 0  Alpha:   9<SI>Ay<CR>
-POCSAG1200: Address:  719937  Function: 0  Alpha:   a<ETB>7H3<ETB>$e)z<STX><NAK>=&
