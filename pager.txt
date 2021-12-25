@@ -1,3 +1,8 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323103  Function: 2  Alpha:   19:32-12 NHSBT - DONOR REFERRAL. Please call LESLEY on Direct Dial Number 01642 854678 Hospital JAMES COOK   MIDDLESBOROUGH Dept GEN HDU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:   28897  Function: 0  Alpha:   19:31-39 2967<NUL>
+POCSAG1200: Address: 2024496  Function: 0 
 POCSAG2400: Address: 1323640  Function: 2  Alpha:   19:29-90 01633234234
 POCSAG2400: Address: 1320201  Function: 2  Alpha:   19:29-35 3132<NUL>
 POCSAG2400: Address:   28904  Function: 0  Alpha:   19:29-45 4376<NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address:  667750  Function: 0
 POCSAG1200: Address: 1322712  Function: 0 
 POCSAG1200: Address: 1460731  Function: 0  Alpha:   <EM><CAN>B1<DC1>h<DLE>rS<DC4>31<SYN><VT><BS>Tt<CR>(l<DC4><NAK>(3<CAN>;<EM>HL-<SYN><BS>4pt4<DC1><DC1>h3<NAK><NAK>hQ<DC4><DC1>h,
 POCSAG1200: Address:  840162  Function: 2 
-POCSAG1200: Address: 1222561  Function: 3 
-POCSAG1200: Address: 1876024  Function: 2 
-POCSAG1200: Address:   41389  Function: 3 
-POCSAG1200: Address: 1147747  Function: 2  Alpha:   g+
-POCSAG1200: Address: 1477922  Function: 0  Alpha:   <LF>4
