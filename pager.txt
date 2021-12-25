@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   22:53-57 5002<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2253251221+++TIME=2253251221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   22:51-30 4376<NUL>
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   22:51-81 8252 hdu
+POCSAG2400: Address: 2008702  Function: 2 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   22:51-14 2447<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2248251221+++TIME=2248251221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2248251221+++TIME=2248251221<NUL>
 POCSAG1200: Address:  495464  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 2091644  Function: 0
 POCSAG1200: Address: 1938995  Function: 0 
 POCSAG1200: Address: 1696406  Function: 3  Alpha:   ~c)F<NUL>
 POCSAG1200: Address: 1276270  Function: 3  Alpha:   S<BEL>:_>~lv
-POCSAG1200: Address:  603088  Function: 1  Alpha:   <FS>C
-POCSAG1200: Address: 1469132  Function: 2  Alpha:   +<DC3>
-POCSAG1200: Address: 1862018  Function: 0 
-POCSAG1200: Address: 1712992  Function: 3 
-POCSAG1200: Address:  241139  Function: 0  Alpha:   d<NUL><STX>=:<ETX><CR><ACK>33<ETX><CR>>?K<DC3>';<BEL>S?K<ETX>Q?<ETX><CR>?;S<BEL><SI>S<ETX><CR>>;SK?3<ETX>I>?7<ETX>=<VT>p<ACK>
-POCSAG1200: Address: 1990329  Function: 1  Alpha:   <GS>eTR7<ETX>'<DEL>
-POCSAG1200: Address: 1980519  Function: 3 
-POCSAG1200: Address:  768672  Function: 3  Alpha:   XA&nnfnp
