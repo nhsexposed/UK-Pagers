@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1503251221+++TIME=1503251221<NUL>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   15:03-72 2304<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1503251221+++TIME=1503251221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  216374  Function: 2  Alpha:   15:02-65 Please call 770697 many thanks
+POCSAG2400: Address:  225057  Function: 2  Alpha:   15:01-89 PLS CALL LAUREL HOUSE ON 01242 634 239 
+POCSAG2400: Address: 1324624  Function: 2  Alpha:   15:01-84 PLS CALL LAUREL HOUSE ON 01242 634 239 
+POCSAG2400: Address: 1324617  Function: 2  Alpha:   15:01-26 15:01-25 PLS CALL LAUREL HOUSE ON 01242 634 239 
+POCSAG2400: Address: 1324625  Function: 2  Alpha:   15:01-85 PLS CALL LAUREL HOUSE ON 01242 634 239 
+POCSAG2400: Address: 1324615  Function: 2  Alpha:   15:01-84 PL
+POCSAG2400: Address: 1324618  Function: 2  Alpha:   15:01-89 PLS CALL LAUREL HOUSE ON 01242 634 239 
+POCSAG1200: Address: 1512792  Function: 3  Alpha:   ER
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1458251221+++TIME=1458251221<NUL>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DLE>,H<FF><ACK>"0f
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   F0
@@ -986,15 +998,3 @@ POCSAG2400: Address:  266557  Function: 0
 POCSAG2400: Address:  611127  Function: 1 
 POCSAG2400: Address:  850105  Function: 2  Alpha:   EL<BEL>Bo
 POCSAG2400: Address: 1115323  Function: 0 
-POCSAG2400: Address:  730223  Function: 0 
-POCSAG2400: Address: 1328115  Function: 2  Alpha:   @<STX>B@<NUL><DC3><EM>a
-POCSAG2400: Address:   92142  Function: 0 
-POCSAG2400: Address: 1956264  Function: 1  Alpha:   -m
-POCSAG2400: Address:  602480  Function: 3 
-POCSAG2400: Address:  761185  Function: 1 
-POCSAG2400: Address: 1939251  Function: 0  Alpha:   d 
-POCSAG2400: Address:  394485  Function: 0  Alpha:   <EM>]
-POCSAG2400: Address:  792753  Function: 1 
-POCSAG2400: Address: 1652412  Function: 1 
-POCSAG2400: Address:  240691  Function: 2  Alpha:   f<NUL>KjN
-POCSAG2400: Address: 1885681  Function: 0  Alpha:   <EM><GS>
