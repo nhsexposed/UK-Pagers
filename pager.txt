@@ -1,3 +1,14 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   18:19-84 33451
+POCSAG2400: Address: 2019944  Function: 0 
+POCSAG2400: Address: 1913871  Function: 2  Alpha:   18:19-62 3181<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:18-14 2852<NUL>
+POCSAG1200: Address: 1745461  Function: 2 
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:17-90 25/12/2021 18:15:19 INC 24875950 06E01 193
+POCSAG1200: Address:  600772  Function: 2  Alpha:   <DLE>&HB0r0f
+POCSAG2400: Address:   28904  Function: 0  Alpha:   18:15-42 5400<NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   18:15-93 25/12/2021 18:13:44 INC 24875943 31D02 9 CHANCEL DRIVE, WARTON PRESTON, PR4 1FW Male 91Y NOT RESPONSIVE G
+POCSAG2400: Address:  964217  Function: 3  Alpha:   <SYN><BEL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   18:14-39 3105<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1813251221+++TIME=1813251221<NUL>
 POCSAG1200: Address:  549853  Function: 2  Alpha:   18:13-41 ~PLEASE CONTACT CONTROLS<NUL>
 POCSAG2400: Address:   28916  Function: 0  Alpha:   18:12-74 4397<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address:  119848  Function: 1
 POCSAG1200: Address:  533896  Function: 1 
 POCSAG1200: Address:  350269  Function: 2  Alpha:   16:19-11 Stop <SOH><FS>K
 POCSAG1200: Address: 1289715  Function: 3  Alpha:   l<NUL><EOT>EYIeM
-POCSAG1200: Address: 1781742  Function: 0 
-POCSAG1200: Address:  890293  Function: 0 
-POCSAG1200: Address: 1938291  Function: 0  Alpha:   <NUL>`
-POCSAG1200: Address:  751466  Function: 3 
-POCSAG1200: Address:  268001  Function: 3  Alpha:   <ACK>6*f<SYN>
-POCSAG1200: Address: 1512680  Function: 1 
-POCSAG1200: Address: 1914022  Function: 2 
-POCSAG1200: Address:  177250  Function: 0  Alpha:   (<DLE><ESC>*)
-POCSAG1200: Address: 2089486  Function: 0  Alpha:   <ACK><SOH><LF>D<EOT>
-POCSAG1200: Address:  241557  Function: 3  Alpha:   t<EM>
-POCSAG1200: Address:  352569  Function: 0  Alpha:   Y)<SOH>Z<VT>
