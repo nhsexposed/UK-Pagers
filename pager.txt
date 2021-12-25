@@ -1,3 +1,47 @@
+POCSAG1200: Address: 1878560  Function: 2 
+POCSAG1200: Address:  178193  Function: 2 
+POCSAG1200: Address:  160353  Function: 0 
+POCSAG1200: Address:  419013  Function: 2 
+POCSAG1200: Address:  796034  Function: 0 
+POCSAG1200: Address:  361459  Function: 0  Alpha:   r<ACK>|<SOH><NUL>
+POCSAG1200: Address:  367540  Function: 1  Alpha:   <FF>m
+POCSAG1200: Address:  338295  Function: 0 
+POCSAG1200: Address: 1422642  Function: 2  Alpha:   <SYN>"
+POCSAG1200: Address:  478454  Function: 0 
+POCSAG1200: Address: 1246455  Function: 2 
+POCSAG1200: Address:  625840  Function: 1  Alpha:   <GS>L
+POCSAG1200: Address: 1359979  Function: 0  Alpha:   <DC1><ACK>
+POCSAG1200: Address:   38957  Function: 2 
+POCSAG1200: Address: 1581106  Function: 1 
+POCSAG1200: Address:  786044  Function: 2 
+POCSAG1200: Address:  520428  Function: 0 
+POCSAG1200: Address: 1286448  Function: 1 
+POCSAG1200: Address: 1680226  Function: 2 
+POCSAG1200: Address:   94746  Function: 0  Alpha:   S<VT>
+POCSAG1200: Address:  212587  Function: 1  Alpha:   <DC4>S
+POCSAG1200: Address:  846246  Function: 1  Alpha:   dE
+POCSAG1200: Address: 1878560  Function: 2 
+POCSAG1200: Address:  178193  Function: 2 
+POCSAG1200: Address:  160353  Function: 0 
+POCSAG1200: Address:  419013  Function: 2 
+POCSAG1200: Address:  796034  Function: 0 
+POCSAG1200: Address: 1598147  Function: 0  Alpha:   Jt<FS><EOT><DC2>#C;<ETX>0<ACK>
+POCSAG1200: Address: 1158824  Function: 2 
+POCSAG1200: Address: 1931287  Function: 2  Alpha:   ^M
+POCSAG1200: Address: 1483136  Function: 1 
+POCSAG1200: Address: 1223477  Function: 2 
+POCSAG1200: Address:  550537  Function: 0 
+POCSAG1200: Address: 1207889  Function: 0 
+POCSAG1200: Address: 1060947  Function: 3 
+POCSAG1200: Address:       0  Function: 2 
+POCSAG1200: Address:  395616  Function: 0 
+POCSAG1200: Address:  125952  Function: 1  Alpha:   t<LF>
+POCSAG1200: Address:     320  Function: 0 
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   00:59-00 PLEASE CALL RE MRS BETTY CASTLE ON 07787 176 856, PASSED AWAY<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0058251221+++TIME=0058251221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1022677  Function: 2  Alpha:   00:57-56 MANCHESTER AIRPORT RESET-*SA09,SR1,#
+POCSAG2400: Address:  706760  Function: 0  Alpha:   <ETX>T
 POCSAG2400: Address: 1324550  Function: 2  Alpha:   00:54-33 INC ALERT No: 16964861 Cardiac Arrest -, AT: COBERLEY, KINGSWOOD BRISTOL, BS15 8ES, Time of Call: 25/12/2021 00:49:44, Co-ords: 51.4545736 -2.5137562<NUL>
 POCSAG2400: Address: 1766328  Function: 1 
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   00:54-81 please call ola, donne ward x36558<NUL><NUL>
@@ -954,47 +998,3 @@ POCSAG1200: Address:  108203  Function: 0  Alpha:   <STX>G
 POCSAG1200: Address: 1672805  Function: 3  Alpha:   2<DLE>
 POCSAG1200: Address: 1318944  Function: 3  Alpha:   I<LF>
 POCSAG1200: Address: 1434392  Function: 0 
-POCSAG1200: Address:  222817  Function: 0  Alpha:   0/<LF>]J<SUB>?<SOH>
-POCSAG1200: Address: 1404161  Function: 1 
-POCSAG1200: Address: 2003583  Function: 0 
-POCSAG1200: Address:  322833  Function: 2  Alpha:   b<ESC><VT>KJJeX
-POCSAG1200: Address: 1482845  Function: 0 
-POCSAG1200: Address:  307632  Function: 1 
-POCSAG1200: Address:  815362  Function: 2  Alpha:   DG
-POCSAG1200: Address:  394277  Function: 0  Alpha:   23:55:17 INC 24872610 17A02G 11 RADLEY ROAD, <ETB> <ETX>I<DC1><ETX>
-POCSAG1200: Address: 1652732  Function: 1 
-POCSAG1200: Address:  241011  Function: 0  Alpha:   n`Jh>
-POCSAG1200: Address:  660530  Function: 0  Alpha:   f<DLE>N`<DLE><STX>bK<DC2>S7
-POCSAG1200: Address:  368993  Function: 3  Alpha:   ved~r
-POCSAG1200: Address: 1552712  Function: 1 
-POCSAG1200: Address:  601242  Function: 0  Alpha:   RY
-POCSAG1200: Address: 1391779  Function: 0 
-POCSAG1200: Address:  193151  Function: 2 
-POCSAG1200: Address:  279475  Function: 1  Alpha:   @do@z<DC3>+E0R<STX>M.&B<STX>1<ACK>:<SYN>2<SOH>1&RR2<SYN><STX>!V2R>:<STX>5<ACK>:<SO>"<SYN>NR<SYN>J2<SOH>5Na<SOH>e]<STX><DC4><ENQ><STX>.n@g.`<DC2>Kh<ENQ>*u<FS>$~<FS>
-POCSAG1200: Address:   83878  Function: 2 
-POCSAG1200: Address: 1482085  Function: 1 
-POCSAG1200: Address: 1956208  Function: 1 
-POCSAG1200: Address:  602416  Function: 3 
-POCSAG1200: Address:  394413  Function: 0  Alpha:   <EM>]
-POCSAG1200: Address:  792689  Function: 1 
-POCSAG1200: Address:  104160  Function: 2  Alpha:   4e&<DEL>jN}j
-POCSAG1200: Address:   47411  Function: 0  Alpha:   &<DC1>rr<DLE>
-POCSAG1200: Address: 1578496  Function: 2  Alpha:   *<SUB>Fe`jqd
-POCSAG1200: Address:     628  Function: 2  Alpha:   <CR><NUL>
-POCSAG1200: Address:  384008  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address:  277968  Function: 2 
-POCSAG1200: Address:  655362  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   10/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   23:56-74 24/12/2021 23:50:35 INC 24872594 06E01 84 GREG STREET, REDDISH STOCKPORT, SK5 7LN Female 73Y CHEST PAIN GRD 389549 392026<NUL>
-POCSAG1200: Address:  199408  Function: 2  Alpha:   23:56-97 PLEASE CALL 07827 823 535
-POCSAG1200: Address: 1877041  Function: 0 
-POCSAG1200: Address:  269068  Function: 2  Alpha:   23:55-62 24/12/2021 23:50:11 INC 24872591 09E02 AT SIDE OF, 135 CHERRY STREET, BLACKBURN, BB1 1NT Male 30Y ASLEEP IN ROAD, NOISY BREATHING GRD 369913 427889<NUL>
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address: 1022277  Function: 0  Alpha:   23:54-21 NHSBT - DONOR REFERRAL. Please call JEN WILLIAMSON on Direct Dial Number 07811 4<SOH><NUL>
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   23:54-21 NHSBT - DONOR REFERRAL. Please call JEN WILLIAMSON on Direct Dial Number 07811 471 988 Hospital  YORK HOSPITAL  Dept   ITU . Regards Donor Referral Line<NUL>
-POCSAG2400: Address:  272312  Function: 2  Alpha:   <FS>|
-POCSAG2400: Address:  238387  Function: 2  Alpha:   @(obPipX
