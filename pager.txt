@@ -1,3 +1,58 @@
+POCSAG1200: Address: 1912457  Function: 2  Alpha:   8<HT>4<CAN>(J<EM>9JYH<ENQ>4<CAN>(<ACK>D<ACK><HT><HT>dX\<GS>L]<FF>D<SYN><ETB><VT><DC4><LF>tiZ(Jx9Z<BS>dyI<LF>$(Z<CAN>H<LF><EM>iy<BS>t(J<BS>4F<ACK>Vv<ACK><ACK>TVFF<SYN>'<ACK>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1408251221+++TIME=1408251221<NUL>
+POCSAG2400: Address: 1323593  Function: 2  Alpha:   14:08-59 please call ext 4989<NUL><NUL>
+POCSAG1200: Address:  199408  Function: 2  Alpha:   14:08-99 2008812<NUL>
+POCSAG2400: Address: 1322999  Function: 2  Alpha:   14:08-15 743000<NUL><NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   14:08-66 4660<NUL>
+POCSAG1200: Address:  216470  Function: 2  Alpha:   14:07-29 13032
+POCSAG1200: Address:  553724  Function: 0 
+POCSAG2400: Address: 1320361  Function: 2  Alpha:   14:07-13 5536<NUL>
+POCSAG1200: Address:      35  Function: 0 
+POCSAG1200: Address: 1789542  Function: 1 
+POCSAG1200: Address: 1477684  Function: 2 
+POCSAG1200: Address: 1574432  Function: 0 
+POCSAG1200: Address:  620842  Function: 3  Alpha:   3<ENQ>:Y%D=#<DC3>?<DC3>
+POCSAG1200: Address:  997679  Function: 1 
+POCSAG1200: Address: 1242125  Function: 0 
+POCSAG1200: Address:  682168  Function: 0  Alpha:   HA^PA<CAN>)<CR><VT>\ 
+POCSAG1200: Address:   45603  Function: 0  Alpha:   R<ACK>R&>:<STX>I><ACK><DC2>2<SOH>IV<SUB><SUB>>J<DC2><STX>=J6N.&J.2<SOH>1RA<SOH>EQ<LF><STX><EM><SYN>7<BEL>3<ETB><ETX> <LF>S<DLE>K
+POCSAG1200: Address:   75754  Function: 0 
+POCSAG1200: Address:  420261  Function: 1  Alpha:   yiJXx
+POCSAG1200: Address:  938867  Function: 1 
+POCSAG1200: Address: 1327927  Function: 2  Alpha:   @"
+POCSAG1200: Address:   67374  Function: 0 
+POCSAG1200: Address:  978173  Function: 2 
+POCSAG1200: Address: 1956072  Function: 1 
+POCSAG1200: Address:  602288  Function: 3 
+POCSAG1200: Address:  760993  Function: 1 
+POCSAG1200: Address:  366195  Function: 1  Alpha:   n<NUL>
+POCSAG1200: Address:  732710  Function: 0 
+POCSAG1200: Address:  270384  Function: 0 
+POCSAG1200: Address: 1700672  Function: 3 
+POCSAG1200: Address:  108855  Function: 2  Alpha:   >+L~K
+POCSAG1200: Address: 1913231  Function: 1  Alpha:   ^A<NAK>kM
+POCSAG1200: Address:   71333  Function: 0 
+POCSAG1200: Address:  194150  Function: 3 
+POCSAG1200: Address:  436693  Function: 0 
+POCSAG1200: Address: 1746244  Function: 0 
+POCSAG1200: Address:  811316  Function: 1  Alpha:   D!
+POCSAG1200: Address: 1845774  Function: 1 
+POCSAG1200: Address: 1976360  Function: 0 
+POCSAG1200: Address: 1683855  Function: 1  Alpha:   ~AUjr
+POCSAG1200: Address:  629680  Function: 0 
+POCSAG1200: Address:      88  Function: 2 
+POCSAG1200: Address:  134200  Function: 3 
+POCSAG1200: Address: 1837319  Function: 0 
+POCSAG1200: Address:       0  Function: 2 
+POCSAG1200: Address:  395616  Function: 0 
+POCSAG1200: Address:   41480  Function: 3  Alpha:   q<LF>
+POCSAG1200: Address:     320  Function: 0 
+POCSAG1200: Address: 1483228  Function: 2  Alpha:   14:05-39 25/12/2021 14:04:27 INC 24874977 09E01 ALSLEY LODGE, 21 STATION ROAD, RUFFORD ORMSKIRK, L40 1TB Female 101Y END OF LIFE PT, NOT BREATHING GRD 346620 415694<NUL>
+POCSAG1200: Address: 1815006  Function: 0  Alpha:   14:05-59 PLS CALL EXT 19103.
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:05-44 3106<NUL>
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   14:05-13 2111<NUL>
+POCSAG2400: Address: 1913902  Function: 2  Alpha:   14:04-56 2111<NUL>
 POCSAG2400: Address: 1913980  Function: 2  Alpha:   14:04-98 5202<NUL>
 POCSAG2400: Address: 1483363  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1403251221+++TIME=1403251221<NUL>
@@ -943,58 +998,3 @@ POCSAG1200: Address: 1717872  Function: 0
 POCSAG1200: Address:  875495  Function: 1  Alpha:   <STX><SUB>BzyIIzi<HT>D)VF<ENQ>D)V<ACK>tVz<LF>T<EM>L]lB0'
 POCSAG1200: Address: 1488352  Function: 2 
 POCSAG1200: Address:  619387  Function: 2  Alpha:   kg>"0
-POCSAG1200: Address:  660851  Function: 1 
-POCSAG1200: Address:  315685  Function: 1 
-POCSAG1200: Address: 1022769  Function: 1 
-POCSAG1200: Address: 1671853  Function: 3  Alpha:   'I
-POCSAG1200: Address: 1551998  Function: 0  Alpha:   I<BS>
-POCSAG1200: Address:  761377  Function: 1 
-POCSAG1200: Address: 1943936  Function: 0  Alpha:   |A
-POCSAG1200: Address: 1682231  Function: 3 
-POCSAG1200: Address: 1925646  Function: 0  Alpha:   Q<ESC>
-POCSAG1200: Address:   76367  Function: 1 
-POCSAG1200: Address: 1520750  Function: 0 
-POCSAG1200: Address:   26931  Function: 2  Alpha:   N+LVK
-POCSAG1200: Address:  420477  Function: 2 
-POCSAG1200: Address:  339452  Function: 0 
-POCSAG1200: Address: 1417632  Function: 2 
-POCSAG1200: Address: 1193378  Function: 2 
-POCSAG1200: Address:  150322  Function: 1  Alpha:   #$'PY
-POCSAG1200: Address: 1712302  Function: 0  Alpha:   <ACK>F'<STX>a#^J
-POCSAG1200: Address: 1466537  Function: 0 
-POCSAG1200: Address: 1246311  Function: 1  Alpha:   Z<FF>
-POCSAG1200: Address:  897062  Function: 1  Alpha:   rW<ACK><DEL>VZ @<CAN>C!
-POCSAG1200: Address: 1684692  Function: 2 
-POCSAG1200: Address: 1778285  Function: 0 
-POCSAG1200: Address:   62481  Function: 3  Alpha:   ei
-POCSAG1200: Address: 1340104  Function: 0  Alpha:   )<SI>oQ<US>
-POCSAG1200: Address: 1717062  Function: 2 
-POCSAG1200: Address:  394741  Function: 0 
-POCSAG1200: Address:  793073  Function: 1 
-POCSAG1200: Address: 1652668  Function: 1 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   12:51-12<DLE>0<ENQ>
-POCSAG1200: Address:  336932  Function: 0  Alpha:   '%P#)"P<EM>Z<CAN><EM><EM><ESC>P<EM>\Z<SUB><FS><CAN>
-POCSAG1200: Address: 1417696  Function: 2 
-POCSAG1200: Address: 1193378  Function: 2 
-POCSAG1200: Address: 1712366  Function: 0  Alpha:   <ACK>F'<STX><DC1>#^J
-POCSAG1200: Address: 1466537  Function: 0 
-POCSAG1200: Address: 1550373  Function: 1  Alpha:   <EM><FF>
-POCSAG1200: Address:  913446  Function: 1  Alpha:   rW<ACK>G<NUL>
-POCSAG1200: Address: 1684692  Function: 2 
-POCSAG1200: Address: 1438634  Function: 3 
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>c
-POCSAG1200: Address: 1259045  Function: 2  Alpha:   12:50-56 Call or Calls waiting at Switchboard
-POCSAG1200: Address:  585254  Function: 2  Alpha:   12:49-85 01173421908
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1248251221+++TIME=1248251221<NUL>
-POCSAG2400: Address: 1544816  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1648214  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   12:47-08 25/12/2021 12:40:01 INC 24874639 21D02M 46 ABINGER ROAD, GARSWOOD, WN4 0RN Female 73Y NOSEBLEED - APPROX 2 HOURS LONG GRD 355998 399711<NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   12:47-09 25/12/2021 12:44:59 INC 24874662 29D02L O/S, 15 HOYLAKE ROAD, BIDSTON BIRKENHEAD CH41, CH41 7BS Male 18Y HIT BY A CAR ON A MOTORBIKE GRD 329583 389955
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   12:47-51 INC ALERT No: 16966246 Cardiac Arrest -, AT: 26 VERNSLADE, BATH, BA1 4DN, Time of Call: 25/12/2021 12:46:34, Co-ords: 51.3983263 -2.3966347
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:47-77 4099<NUL>
-POCSAG1200: Address:  930547  Function: 2  Alpha:   12:47-60 25/12/2021 12:44:59 INC 24874662 29D02L O/S, 15 HOYLAKE ROAD, BIDSTON BIRKENHEAD CH41, CH41 7BS Male 18Y HIT BY A CAR ON A MOTORBIKE GRD 329583 389955
-POCSAG1200: Address:  363869  Function: 2  Alpha:   12:47-00 25/12/2021 12:44:59 INC 24874662 29D02L O/S, 15 HOYLAKE ROAD, BIDSTON BIRKENHEAD CH41, CH41 7BS Male 18Y HIT BY A CAR ON A MOTORBIKE GRD 329583 389955
-POCSAG1200: Address:  334075  Function: 2  Alpha:   12:47-07 25/12/2021 12:44:59 INC 24874662 29D02L O/S, 15 HOYLAKE ROAD, BIDSTON BIRKENHEAD CH41, CH41 7BS Male 18Y HIT BY A CAR ON A MOTORBIKE GRD 329583 389955
-POCSAG1200: Address: 1092762  Function: 2  Alpha:   12:47-64 25/12/2021 12:44:59 INC 24874662 29D02L O/S, 15 HOYLAKE ROAD, BIDSTON BIRKENHEAD CH41, CH41 7BS Male 18Y HIT BY A CAR ON A MOTORBIKE GRD 329583 389955
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   12:47-62 25/12/2021 12:44:59 INC 24874662 29D02L O/S, 15 HOYLAKE ROAD, BIDSTON BIRKENHEAD CH41, CH41 7BS Male 18Y HIT BY A CAR ON A MOTORBIKE GRD 329583 389955
