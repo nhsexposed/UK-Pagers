@@ -1,3 +1,28 @@
+POCSAG1200: Address:  369591  Function: 3  Alpha:   <NUL><NUL>
+POCSAG1200: Address:  908065  Function: 3 
+POCSAG1200: Address: 1262067  Function: 2 
+POCSAG1200: Address:   85923  Function: 2 
+POCSAG1200: Address:  210867  Function: 2 
+POCSAG1200: Address:  636768  Function: 2  Alpha:   <LF>4
+POCSAG1200: Address:   90353  Function: 0  Alpha:   6T<BEL> <DC3>
+POCSAG1200: Address: 1888794  Function: 3 
+POCSAG1200: Address: 1476705  Function: 1  Alpha:   YX
+POCSAG1200: Address:  989285  Function: 1 
+POCSAG1200: Address: 1583153  Function: 3 
+POCSAG1200: Address:    8242  Function: 0 
+POCSAG1200: Address: 1144881  Function: 0  Alpha:   Tq3]4<DC2>o<DC1><BS>_4*?<DC1>
+POCSAG1200: Address:  209505  Function: 0 
+POCSAG1200: Address:  469460  Function: 2 
+POCSAG1200: Address:  844161  Function: 0 
+POCSAG1200: Address: 1766183  Function: 3 
+POCSAG1200: Address: 1876494  Function: 0  Alpha:   !<ESC>
+POCSAG1200: Address:  890483  Function: 2  Alpha:   b<NUL>
+POCSAG1200: Address:  270368  Function: 0  Alpha:   <EM><GS>
+POCSAG1200: Address: 1700672  Function: 3 
+POCSAG1200: Address:  108851  Function: 2  Alpha:   >+L~K
+POCSAG1200: Address: 1384882  Function: 1  Alpha:   ^E%kI
+POCSAG1200: Address:   69648  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318251221+++TIME=0318251221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313251221+++TIME=0313251221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567(y0<NUL>
 POCSAG1200: Address:   40074  Function: 2  Alpha:   03:11-15 25/12/2021 03:04:44 INC 24873194 36A03A NICE N SPICE, 723 STOCKPORT ROAD, LEVENSHULME MANCHESTER, M19 3AR Male 56Y SHORT TERM MEMORY LOST CONFUSED GRD 387366 394642<NUL>
@@ -973,28 +998,3 @@ POCSAG1200: Address: 1377643  Function: 2  Alpha:   r6<SI>v2<BEL><EM>\+<DLE>?
 POCSAG1200: Address:  366888  Function: 0 
 POCSAG1200: Address:  405796  Function: 3 
 POCSAG1200: Address: 1060587  Function: 1 
-POCSAG1200: Address: 1622264  Function: 0 
-POCSAG1200: Address:  631396  Function: 3  Alpha:   "G<RS>P+
-POCSAG1200: Address:  676963  Function: 0 
-POCSAG1200: Address:  337956  Function: 1 
-POCSAG1200: Address:  127322  Function: 3  Alpha:   |I<HT>B<NUL>
-POCSAG1200: Address: 1159843  Function: 3 
-POCSAG1200: Address:  752066  Function: 1  Alpha:   T!<DC3>]R
-POCSAG1200: Address: 1128497  Function: 0  Alpha:   <FS>Q
-POCSAG1200: Address:  193889  Function: 0 
-POCSAG1200: Address: 1880960  Function: 0  Alpha:   lQ
-POCSAG1200: Address: 1618807  Function: 3 
-POCSAG1200: Address: 2069115  Function: 0 
-POCSAG1200: Address:   10827  Function: 1 
-POCSAG1200: Address:  866331  Function: 0  Alpha:   <SUB><EM><SUB><CAN><NUL>
-POCSAG1200: Address: 1071548  Function: 0  Alpha:   eu[Mq
-POCSAG1200: Address: 1856425  Function: 0 
-POCSAG1200: Address:  134002  Function: 0  Alpha:   $'
-POCSAG1200: Address:  149309  Function: 2 
-POCSAG1200: Address:  758504  Function: 1  Alpha:   <STX>*
-POCSAG1200: Address:   86697  Function: 2 
-POCSAG1200: Address:  708640  Function: 1  Alpha:   <ACK><DC4>[iI
-POCSAG1200: Address:  260715  Function: 0  Alpha:   <FF><SOH>
-POCSAG1200: Address: 1816679  Function: 3  Alpha:   r<BEL>
-POCSAG1200: Address:  371820  Function: 0 
-POCSAG1200: Address: 1665238  Function: 2 
