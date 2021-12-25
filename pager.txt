@@ -1,3 +1,19 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1003251221+++TIME=1003251221<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   10:03-60 #1:67
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1022473  Function: 0  Alpha:   10:02-07 SECC team test<NUL><NUL>
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   10:02-65 SECC team test<NUL><NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   10:02-36 25/12/2021 09:59:58 INC 24874064 01C05 SPRINGBANK - FLAT 14, ASHLEY ROAD, BOWDON ALTRINCHAM, WA14 2LR Male 97Y ABDO PAIN GRD 376622 387072<NUL>
+POCSAG2400: Address: 1552264  Function: 1  Alpha:   X-
+POCSAG1200: Address:  214341  Function: 2  Alpha:   10:01-94 trauma team test call south west acute hospital 10am on 25/12/21<NUL>
+POCSAG1200: Address: 1318273  Function: 2  Alpha:   10:01-58 trauma team test call south west acute hospital 10am on 25/12/21<NUL>
+POCSAG1200: Address:  826263  Function: 1  Alpha:   giAFCYYAf_kiQAnKgiABGkiKAP_gaSiCYAb`B[A^]Adj^bd^db<NUL>
+POCSAG1200: Address:   64660  Function: 0  Alpha:   10:01-90 Please call ext 6276, thank you<LF><NUL>
+POCSAG1200: Address:  325974  Function: 3  Alpha:   %2
+POCSAG1200: Address:  874112  Function: 1 
+POCSAG1200: Address: 2062464  Function: 3  Alpha:   q5P9tr2:
+POCSAG2400: Address: 1913918  Function: 2  Alpha:   10:00-90 4660<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   5<BS>
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   6<DC2>
 POCSAG1200: Address: 1511903  Function: 0 
 POCSAG2400: Address: 1913839  Function: 2  Alpha:   09:58-49 4660<NUL>
@@ -982,19 +998,3 @@ POCSAG1200: Address:  667958  Function: 2  Alpha:   I%
 POCSAG1200: Address:  619216  Function: 0 
 POCSAG1200: Address:  860463  Function: 1 
 POCSAG1200: Address:  172714  Function: 0  Alpha:   `Mtr$<DC4>$<DC2>
-POCSAG1200: Address:  287012  Function: 0  Alpha:   )<ETX>
-POCSAG1200: Address: 1455272  Function: 1  Alpha:   <NUL>I4at
-POCSAG1200: Address: 1572896  Function: 0  Alpha:   6<ENQ><SI>;A<RS><ETX><US>Av@<BS>3<DC3><GS><SI>A&/<ETX><GS>A<RS><GS>A(<DC1><VT>A<CAN><ETX><ETB><VT>]@$'!<BEL><ETX>A<DC2><GS>A<STX>
-POCSAG1200: Address:  298968  Function: 1  Alpha:    <NAK>3<ACK>#<iRP<CAN>7
-POCSAG1200: Address: 1039167  Function: 0 
-POCSAG1200: Address:  906687  Function: 0 
-POCSAG1200: Address:  218838  Function: 0  Alpha:   J<EM>
-POCSAG1200: Address: 1039156  Function: 0 
-POCSAG1200: Address:  329204  Function: 1 
-POCSAG1200: Address:  379380  Function: 0 
-POCSAG1200: Address: 1746529  Function: 0 
-POCSAG1200: Address: 1127840  Function: 3  Alpha:   Rb
-POCSAG1200: Address:  103211  Function: 3  Alpha:   )0<VT>'P
-POCSAG1200: Address: 1706274  Function: 1 
-POCSAG1200: Address:  569584  Function: 3 
-POCSAG1200: Address: 1686240  Function: 3 
