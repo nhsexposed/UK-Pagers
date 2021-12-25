@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2095064  Function: 3 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address: 1051166  Function: 0  Alpha:   h<<SUB>9<EM><BS>,Ll<FF>-Mm<CR>.<SO>,Ll<FF>-Mm<CR>.<SO><FF><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message o
+POCSAG2400: Address:   28869  Function: 0  Alpha:   03:51-47 PLEASE CALL EXT 26012<NUL>
 POCSAG1200: Address: 1190128  Function: 1  Alpha:   L<EOT>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   03:48-35 25/12/2021 03:43:55 INC 24873297 06E01 230 GLEBE STREET, LEIGH, WN7 1RJ Male 28Y BARELY BREATHING GRD 365570 400926<NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   03:48-25 25/12/2021 03:45:17 INC 24873301 31D03 47 ANGLIA GROVE, DEANE BOLTON, BL3 4BY Female 58Y PT PASSED OUT GRD 370379 408003<NUL><NUL>
@@ -957,11 +962,6 @@ POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
 POCSAG1200: Address:  452560  Function: 2 
 POCSAG1200: Address:     157  Function: 3 
 POCSAG1200: Address:  655362  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
