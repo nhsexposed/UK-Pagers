@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2143251221+++TIME=2143251221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2143251221+++TIME=2143251221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 2064096  Function: 2  Alpha:   <DC1>hlML<FF>-<SO><BS><CR>,-<SO>M<CR><NUL><NUL>
+POCSAG2400: Address: 1323481  Function: 2  Alpha:   21:42-33 PLS CALL STAFF NURSE KAY AT VICTORIA HOSP IN DEAL TEL 01304 865 439 
+POCSAG2400: Address: 1323484  Function: 2  Alpha:   21:42-90 PLS CALL STAFF NURSE KAY AT VICTORIA HOSP IN DEAL TEL 01304 865 439 
+POCSAG1200: Address: 1321566  Function: 2  Alpha:   21:42-51 PLS CONTACT DVH SWITCHBOARD 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324316  Function: 2  Alpha:   21:41-07 A message about your latest credit card statement<NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   21:42-04 25/12/2021 21:40:22 INC 24876831 11D02U 10 WYNE CLOSE, HAZEL GROVE STOCKPORT, SK7 6PD Female 92Y CHOKING GRD 393217 387152
 POCSAG1200: Address:  273040  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138251221+++TIME=2138251221<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:38-42 431'<SOH>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1360920  Function: 1
 POCSAG1200: Address:   43187  Function: 0  Alpha:   v<ACK><ETB><ACK><NUL>
 POCSAG1200: Address: 1057152  Function: 1 
 POCSAG1200: Address:  852969  Function: 3  Alpha:   Ve
-POCSAG1200: Address: 1182135  Function: 1  Alpha:   3p
-POCSAG1200: Address: 1560442  Function: 0 
-POCSAG1200: Address: 1004898  Function: 1 
-POCSAG1200: Address: 1235193  Function: 2  Alpha:   , <SYN> <RS>
-POCSAG1200: Address:  543920  Function: 2  Alpha:   IZ^<HT>d
-POCSAG1200: Address: 1335967  Function: 1  Alpha:   @<RS>
-POCSAG1200: Address:  916867  Function: 0  Alpha:   <FF><SOH>
-POCSAG1200: Address: 1702727  Function: 3 
-POCSAG1200: Address: 1942030  Function: 0  Alpha:   1<ESC>
-POCSAG1200: Address:   92747  Function: 1 
