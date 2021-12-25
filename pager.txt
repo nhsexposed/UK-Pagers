@@ -1,3 +1,13 @@
+POCSAG1200: Address: 1258904  Function: 2  Alpha:   15:59-01 3257<NUL>
+POCSAG1200: Address:  282267  Function: 1  Alpha:   XUU<NAK>jdfb^XZ<SUB><FS>YZ<CAN><EM>Y<CAN><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=155825
+POCSAG1200: Address: 1297416  Function: 1 
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   FH
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  108097  Function: 0  Alpha:   15:58-41 pls call 2403
+POCSAG2400: Address:   28894  Function: 0  Alpha:   15:57-91 4155<NUL>
+POCSAG2400: Address:  172440  Function: 0 
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   15:55
 POCSAG1200: Address:  585254  Function: 2  Alpha:   15:54-90 01173421902
 POCSAG2400: Address: 1032067  Function: 3  Alpha:   U<NUL>
 POCSAG1200: Address:  216470  Function: 2  Alpha:   15:54-35 12001
@@ -988,13 +998,3 @@ POCSAG1200: Address: 2011774  Function: 0
 POCSAG1200: Address:  553724  Function: 0 
 POCSAG2400: Address:   28905  Function: 0  Alpha:   14:10-40 4157<NUL>
 POCSAG1200: Address:   41512  Function: 2  Alpha:   14:09-74 Call or Calls waiting at Switchboard
-POCSAG1200: Address: 1912457  Function: 2  Alpha:   8<HT>4<CAN>(J<EM>9JYH<ENQ>4<CAN>(<ACK>D<ACK><HT><HT>dX\<GS>L]<FF>D<SYN><ETB><VT><DC4><LF>tiZ(Jx9Z<BS>dyI<LF>$(Z<CAN>H<LF><EM>iy<BS>t(J<BS>4F<ACK>Vv<ACK><ACK>TVFF<SYN>'<ACK>
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1408251221+++TIME=1408251221<NUL>
-POCSAG2400: Address: 1323593  Function: 2  Alpha:   14:08-59 please call ext 4989<NUL><NUL>
-POCSAG1200: Address:  199408  Function: 2  Alpha:   14:08-99 2008812<NUL>
-POCSAG2400: Address: 1322999  Function: 2  Alpha:   14:08-15 743000<NUL><NUL>
-POCSAG2400: Address: 1323888  Function: 2  Alpha:   14:08-66 4660<NUL>
-POCSAG1200: Address:  216470  Function: 2  Alpha:   14:07-29 13032
-POCSAG1200: Address:  553724  Function: 0 
-POCSAG2400: Address: 1320361  Function: 2  Alpha:   14:07-13 5536<NUL>
