@@ -1,3 +1,14 @@
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG2400: Address: 1322351  Function: 2  Alpha:   12:18-72 Please call PAH ext:3661<NUL>
+POCSAG2400: Address: 2073174  Function: 0 
+POCSAG2400: Address:   28906  Function: 0  Alpha:   12:18-33 3104<NUL>
+POCSAG1200: Address: 1521064  Function: 3 
+POCSAG1200: Address: 1450550  Function: 0 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <STX>h
+POCSAG2400: Address: 1999859  Function: 2 
+POCSAG2400: Address: 1044842  Function: 2  Alpha:   12:15-64 25711
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:15-75 2097<NUL>
+POCSAG2400: Address:   28925  Function: 0  Alpha:   12:14-42 4472<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1213251221+++TIME=1213251221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1213251221+++TIME=1213251221<NUL>
 POCSAG1200: Address: 1484918  Function: 3  Alpha:   p<ACK><DC4><STX>X 1f
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1090108  Function: 2  Alpha:   10:23-31 25/12/2021 10:20:27
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address:  829010  Function: 2 
 POCSAG2400: Address: 1320207  Function: 2  Alpha:   10:20-95 4316<NUL>
-POCSAG2400: Address: 1913790  Function: 2  Alpha:   10:19-81 5536<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1018251221+++TIME=1018251221<NUL>
-POCSAG1200: Address:  720304  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  114434  Function: 2  Alpha:   10:17-87 <NULL><NUL><NUL>
-POCSAG1200: Address:  413086  Function: 2  Alpha:   10:17-12 01173421906
-POCSAG1200: Address:  600772  Function: 2  Alpha:   p0A<xj1f
-POCSAG1200: Address:  312672  Function: 0  Alpha:   10:16-46 25/12/2021 10:15:24 INC 24874109 30B01 11 LENHAM GARDENS, BREIGHTMET BOLTON, BL2 6HL Female UnknownY HEAD INJURY GRD 374296 408848<NUL>
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
-POCSAG1200: Address: 1176595  Function: 3 
-POCSAG1200: Address: 1908531  Function: 1 
