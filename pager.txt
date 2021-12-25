@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:43-98 2447<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  820161  Function: 1 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:41-97 5204<NUL>
+POCSAG2400: Address: 1520832  Function: 2  Alpha:   O<ETX><NAK>><SO><STX>1>:<DC2>>:<STX>M>VR"<STX><DC1>2<STX>
+POCSAG2400: Address: 1323378  Function: 2  Alpha:   08:40-97 234234<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0838251221+++TIME=0838251221<NUL>
 POCSAG1200: Address:  334075  Function: 2  Alpha:   08:38-53 25/12/2021 08:37:54 INC 24873828 06E01 27 SHILLINGFORD ROAD, FARNWORTH BOLTON, BL4 7D<RS>"Vemale 57Y LUNG CANCER - STRUGGLING TO BREATHE GRD 373014 40566
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0838251221+++TIME=0838251221<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address:  109811  Function: 3  Alpha:   d <LF>Y<ESC>
 POCSAG1200: Address: 1781486  Function: 2 
 POCSAG1200: Address: 1232038  Function: 0 
 POCSAG1200: Address:     134  Function: 1 
-POCSAG1200: Address:  945269  Function: 1 
-POCSAG1200: Address: 1306554  Function: 0  Alpha:   qM<CR>@<NUL>m^@l^2
-POCSAG1200: Address:  506366  Function: 0  Alpha:   ;_
-POCSAG1200: Address:  751768  Function: 1 
-POCSAG1200: Address:  453340  Function: 2 
-POCSAG1200: Address:  832947  Function: 1 
