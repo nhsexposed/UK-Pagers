@@ -1,3 +1,10 @@
+POCSAG1200: Address:  273040  Function: 3 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138251221+++TIME=2138251221<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:38-42 431'<SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   21:37-59 25/12/2021 21:36:35 INC 24876816 06E01 77 PARK ROAD, ADLINGTON, PR7 4JW Male 72Y M - COLLAPSED, JUST ABOUT BREATHING GRD 359702 412977<NUL><NUL>
+POCSAG1200: Address:  346010  Function: 0  Alpha:   21:37-62 25/12/2021 21:<ESC><ETB>:35 INC 24876816 06E01 77 PARK ROAD, ADLINGTON, PR7 4JW Male 72Y M - COLLAPSED, JUST ABOUT BREATHING GRD 359702 412977<NUL><NUL>
+POCSAG1200: Address:  600915  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:     580  Function: 1 
 POCSAG1200: Address:  384008  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address:  916867  Function: 0  Alpha:   <FF><SOH>
 POCSAG1200: Address: 1702727  Function: 3 
 POCSAG1200: Address: 1942030  Function: 0  Alpha:   1<ESC>
 POCSAG1200: Address:   92747  Function: 1 
-POCSAG1200: Address: 1536110  Function: 1 
-POCSAG1200: Address:  340384  Function: 3  Alpha:   <RS>A
-POCSAG1200: Address: 1635136  Function: 3 
-POCSAG1200: Address:   43315  Function: 2  Alpha:   .+LvK
-POCSAG1200: Address:      24  Function: 0  Alpha:   <NUL>:HC1Y30i82
-POCSAG1200: Address:  384008  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
