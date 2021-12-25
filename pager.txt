@@ -1,3 +1,22 @@
+POCSAG2400: Address:   33685  Function: 2  Alpha:   11:09-14 PLS CALL LAUREN ON 07788 410 298 
+POCSAG2400: Address:  975422  Function: 0 
+POCSAG2400: Address:   33684  Function: 2  Alpha:   11:09-14 PLS CALL LAUREN ON 07788 410 298 
+POCSAG2400: Address:   33691  Function: 2  Alpha:   11:09-17 PLS CALL LAUREN ON 07788 410 298 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   11:08-36 3106<NUL>
+POCSAG2400: Address: 1463513  Function: 0  Alpha:   ;<SOH>
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1108251221+++TIME=1108251221<NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   11:08-01 25/12/2021 11:07:16 INC 24874290 29D05 O/S, 128 CHORLEY ROAD, WINGATES BOLTON, BL5 3PN Unknown UnknownY RTC - 2 VEHICLE - PERSONS TRAPPED GRD 364919 407454<NUL>
+POCSAG1200: Address: 1877603  Function: 2 
+POCSAG2400: Address: 1321461  Function: 2  Alpha:   11:08-19 PLS CALL SWITCHBOARD <NUL>
+POCSAG2400: Address: 1913656  Function: 2  Alpha:   11:07-53 3510<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   11:07-55 4316<NUL>
+POCSAG1200: Address:  585254  Function: 2  Alpha:   11:07-76 01173421908
+POCSAG2400: Address: 2079888  Function: 2  Alpha:   *<ETX>#<DC3><ETX>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   11:05-27
+POCSAG1200: Address:   54538  Function: 2  Alpha:   MQ<SOH>MMeQU
+POCSAG1200: Address: 1817257  Function: 2  Alpha:   11
+POCSAG1200: Address:  594696  Function: 2  Alpha:   <DLE><DC3><DC3>(3Pt<DC2>HQt3<DC3>Ht36<DLE><DC3><BS>sS<DC3>qS<DC3><BS>rs<DC4><DC4>hS<DC3><BS>ML,<FF><CR><LF><STX>
 POCSAG2400: Address:  592184  Function: 0  Alpha:   <ACK>4
 POCSAG2400: Address:  758519  Function: 2 
 POCSAG2400: Address:  708793  Function: 2  Alpha:    B
@@ -963,25 +982,6 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address: 2007103  Function: 0 
 POCSAG1200: Address:  549767  Function: 2  Alpha:   09:32-17 ~PLEASE CONTACT CONTROLS RE ON OR OFF DUTY
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   v 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
