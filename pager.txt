@@ -1,3 +1,32 @@
+POCSAG1200: Address: 1449091  Function: 2  Alpha:   <ETX>*<VT>D<EOT>j<FF>f.<ACK><DC2>K<ENQ><DC2>K}l<EOT><SUB>%<NAK>-=<dLt<<EOT>"}<EOT><DC2><DC4>-<FF>$E,<EOT>:<DC4>%<EOT><SUB>;<ETX>##;<ETX><SUB>+<DC3><ESC>#C<ETX><NUL><NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:39-28 25/12/2021 12:38:05 INC 24874633 06E01 187 CREWE ROAD, SHAVINGTON CREWE CW2,
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1238251221+++TIME=1238251221<NUL>
+POCSAG2400: Address: 1814968  Function: 0  Alpha:   12:38-50 PLS CALL 4316 SECOND CALL <NUL><NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   12:38-61 5072<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   12:38-34 3104<NUL>
+POCSAG1200: Address:  549143  Function: 2  Alpha:   12:37-07 Pageone test engineer pls ignore<NUL>
+POCSAG1200: Address:  216796  Function: 2  Alpha:   12:37-47 Pageone test engineer pls ignore<NUL>
+POCSAG1200: Address:  549144  Function: 2  Alpha:   12:37-52 Pageone test engineer pls ignore<NUL>
+POCSAG1200: Address: 1319836  Function: 2  Alpha:   12:37-00 Pageone test engineer pls ignore<NUL>
+POCSAG1200: Address:  216643  Function: 2  Alpha:   12:37-15 Pageone test engineer pls ignore<NUL>
+POCSAG1200: Address:  998433  Function: 2  Alpha:   N=<SO><DC4>}l}-^<FF><NUL>
+POCSAG1200: Address: 1000060  Function: 2  Alpha:   12:37-15 Pageone test engine
+POCSAG1200: Address: 1321566  Function: 2  Alpha:   12:37-45 PLS CONTACT DVH 
+POCSAG1200: Address:  216470  Function: 2  Alpha:   12:37-21 15201
+POCSAG2400: Address: 1913839  Function: 2  Alpha:   12:37-51 3181<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   12:37-66 33945
+POCSAG2400: Address:   28894  Function: 0  Alpha:   12:36-87 4157<NUL>
+POCSAG2400: Address: 1324547  Function: 2  Alpha:   12:36-89 INC ALERT No: 16966224 Cardiac Arrest -, AT: 81 CYRIL STREET WEST, TAUNTON, TA2 6JE, Time of Call: 25/12/2021 12:36:05, Co-ords: 51.0247566 -3.1127094
+POCSAG1200: Address:   28883  Function: 3  Alpha:   12:36-42 PLS CALL TOM GANNON ON 07580 131 898 RE FRENCH BULLDOG HAS SWALLOWED A PLASTIC TOY <NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   12:36-39 3157<NUL>
+POCSAG1200: Address:  585543  Function: 2  Alpha:   12:36-56 2380<NUL>
+POCSAG1200: Address:   33653  Function: 2  Alpha:   12:35-85 PLS CALL ICU MEDWAY HOSP ON 01634 833 967 - URGENT 
+POCSAG1200: Address:   33647  Function: 2  Alpha:   12:35-32 PLS CALL ICU MEDWAY HOSP ON 01634 833 967 - URGENT 
+POCSAG1200: Address: 1730785  Function: 1 
+POCSAG1200: Address:  658648  Function: 0  Alpha:   -w
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1913790  Function: 2  Alpha:   12:34-83 4935<NUL>
 POCSAG1200: Address:  325974  Function: 3  Alpha:   e<DC2>
 POCSAG1200: Address: 1032691  Function: 3  Alpha:   Vl
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN><BS>L
@@ -969,32 +998,3 @@ POCSAG1200: Address:  453925  Function: 0
 POCSAG1200: Address: 1956072  Function: 1 
 POCSAG1200: Address:  602352  Function: 3 
 POCSAG1200: Address:  760993  Function: 1 
-POCSAG1200: Address:  208494  Function: 2 
-POCSAG1200: Address:  394293  Function: 0 
-POCSAG1200: Address: 1581104  Function: 1 
-POCSAG1200: Address:  108855  Function: 2  Alpha:   ~+L~K
-POCSAG1200: Address:   68056  Function: 2  Alpha:   Tc ofFmd
-POCSAG1200: Address:  850331  Function: 1  Alpha:   <GS><SOH>
-POCSAG1200: Address:  717640  Function: 3 
-POCSAG1200: Address:   30481  Function: 2  Alpha:   D<HT>4P<BEL>')w
-POCSAG1200: Address:  142116  Function: 1 
-POCSAG1200: Address: 1578017  Function: 0  Alpha:   M3<SYN>(3<CAN>;<EM>hL-<SYN><BS>T|;4<DLE>hS=Y\<<SUB><EM>9Y<ESC>(<VT>h0<CAN><ESC><ESC>(q|8<CAN>;<CAN>=<EM><EM> P
-POCSAG1200: Address: 1465840  Function: 1 
-POCSAG1200: Address: 1222633  Function: 0 
-POCSAG1200: Address: 1876597  Function: 0 
-POCSAG1200: Address:  183138  Function: 2  Alpha:   ga<RS>h7
-POCSAG1200: Address: 1283430  Function: 2 
-POCSAG1200: Address:  297269  Function: 0 
-POCSAG1200: Address: 1058091  Function: 1 
-POCSAG1200: Address: 1750246  Function: 2 
-POCSAG1200: Address: 1477746  Function: 0  Alpha:   I<LF>S)*]<BS>TbZ8
-POCSAG1200: Address: 1056825  Function: 1  Alpha:   <SOH><GS>
-POCSAG1200: Address: 1925646  Function: 0  Alpha:   Q<ESC>
-POCSAG1200: Address:   76363  Function: 1 
-POCSAG1200: Address: 1519974  Function: 0 
-POCSAG1200: Address: 1618752  Function: 3 
-POCSAG1200: Address:   26931  Function: 2  Alpha:   N+LVK
-POCSAG1200: Address: 1925527  Function: 2  Alpha:   10:@fFah
-POCSAG1200: Address: 1812326  Function: 2  Alpha:   &b
-POCSAG1200: Address: 1386927  Function: 2  Alpha:   alN ~}r{
-POCSAG1200: Address: 1265511  Function: 2 
