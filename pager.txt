@@ -1,3 +1,17 @@
+POCSAG1200: Address: 1816912  Function: 2  Alpha:   14:29-92 (3/3) Roles    JY04P2:Main Pump,RBFRS Incident Command System Level 2; Talkgrp  FBER-OPS02 (39*) (DGNA)<NUL><NUL>
+POCSAG1200: Address: 1081946  Function: 2  Alpha:   [<ETX>
+POCSAG1200: Address:  350338  Function: 0  Alpha:   14:29-18 25/12/2021 14:25:43 INC 24875046 17B02 FLAT 232 SANDOWN CRT, AVENHAM LANE, PRESTON, PR1 3UQ Female 31Y CRACKED HEAD OPEN GRD 354277 429119<NUL>
+POCSAG1200: Address: 1227408  Function: 0 
+POCSAG1200: Address:  216470  Function: 2  Alpha:   14:28-30 12039
+POCSAG1200: Address:  413198  Function: 2  Alpha:   14:28-80 (2/2) 1 VEHICLE IN CENTRAL RESERVATION;
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1428251221+++TIME=1428251221<NUL>
+POCSAG1200: Address: 2008955  Function: 0 
+POCSAG2400: Address: 1643648  Function: 0  Alpha:   <SUB><VT>+;<ETX>
+POCSAG1200: Address: 1259045  Function: 2  Alpha:   14:27-62 33736
+POCSAG1200: Address:  269168  Function: 2  Alpha:   14:25-98 25/12/2021 14:23:34 INC 24875037 18C02 55 ASHWORTH LANE, ASTLEY BRIDGE BOLTON, BL1 8RH Male 25Y DIB GRD 371774 412168<NUL><NUL>
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:25-83 5114<NUL>
+POCSAG2400: Address: 1095090  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3A<NUL><NUL>
 POCSAG2400: Address:  442576  Function: 1 
 POCSAG2400: Address:  434940  Function: 2 
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1288588  Function: 2
 POCSAG1200: Address: 1401186  Function: 0 
 POCSAG1200: Address: 1127232  Function: 3  Alpha:   Rk
 POCSAG1200: Address: 1761362  Function: 2 
-POCSAG1200: Address:  175726  Function: 0 
-POCSAG1200: Address:  303391  Function: 0 
-POCSAG1200: Address:   10805  Function: 2  Alpha:   B<SI>
-POCSAG1200: Address:  394277  Function: 0  Alpha:   12:48:15 INC 24874678 09E01 BEHIND, POST OFFI<ETX> <VT>
-POCSAG1200: Address:  793073  Function: 1 
-POCSAG1200: Address: 1652732  Function: 1 
-POCSAG1200: Address: 1289587  Function: 3  Alpha:   r`Jj>
-POCSAG1200: Address: 1257318  Function: 1 
-POCSAG1200: Address: 1086768  Function: 0 
-POCSAG1200: Address: 1292979  Function: 0  Alpha:   @Fodbod<BS>
-POCSAG1200: Address:  395811  Function: 2  Alpha:   <BS><DC4><SI>JH!FV
-POCSAG1200: Address: 1187892  Function: 1 
-POCSAG1200: Address:  749816  Function: 0  Alpha:   9'<VT>Z<GS>
-POCSAG1200: Address: 1517081  Function: 0  Alpha:   <ESC><EM>Hh.
