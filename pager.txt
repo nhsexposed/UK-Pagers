@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:34-24 4660<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:32-23 3508<NUL>
+POCSAG1200: Address: 1764147  Function: 0 
+POCSAG1200: Address: 1765528  Function: 2  Alpha:   03:31-02 Resource comment received for Incident 2112008394;  TO MDTS - FURTHER CALL FROM POL STATING ADDRESS IS 64 CHURCH STREET. POL ARE ON SCENE<NUL><NUL>
 POCSAG2400: Address:   28868  Function: 0  Alpha:   03:29-74 PLEASE CALL ALEX EXT:38172<NUL><NUL>
 POCSAG2400: Address: 1323202  Function: 2  Alpha:   03:28-67 NHSBT - DONOR REFERRAL. Please call LIZ - SENIOR STAFF NURSE on Direct Dial Number 0208 725 1290 Hospital ST GEORGE'S, TOOTING Dept A&E . Regards Donor Referral Line
 POCSAG2400: Address: 1323179  Function: 2  Alpha:   03:28-81 NHSBT - DONOR REFERRAL. Please call LIZ - SENIOR STAFF NURSE on Direct Dial Number 0208 725 1290 Hospital ST GEORGE'S, TOOTING Dept A&E . Regards Donor Referral Line
@@ -993,8 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address: 2023806  Function: 1 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
