@@ -1,3 +1,8 @@
+POCSAG2400: Address:  959540  Function: 2 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0143251221+++TIME=0143251221<NUL>
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   01:43-35 INC ALERT No: 16964971 Cardiac Arrest -, AT: KEYNSHAM POLICE STATION, ASHMEAD ROAD, KEYNSHAM BRISTOL, BS31 1SA, Time of Call: 25/12/2021 01:42:06, Co-ords: 51.4127469 -2.4790506<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   <DLE>D<FF><ESC><BS><NUL>0f
 POCSAG2400: Address:  549123  Function: 2  Alpha:   01:38-27 4157<NUL>
 POCSAG1200: Address:  993315  Function: 1  Alpha:   y)<BS><EOT><EM>8<LF>$
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   01:35-30 4156<NUL>
@@ -992,9 +997,4 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address: 1882870  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
