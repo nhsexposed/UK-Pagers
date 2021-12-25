@@ -1,3 +1,20 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   18:04-13 5202<NUL>
+POCSAG2400: Address:  225477  Function: 2  Alpha:   18:04-35 5204<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   18:04-87 25/12/2021 18:02:41 INC 24<SUB>44907 09E02 17 ORVILLE STREET, SUTTON ST HELENS WA9, WA9 3JJ Male 61Y NOT AWAKE NOISY BREATHING INCONTINENT FAECES AND URINE GRD 353527 393307<NUL><NUL>
+POCSAG1200: Address: 1511985  Function: 3  Alpha:   v0
+POCSAG1200: Address: 1494496  Function: 3  Alpha:   Te
+POCSAG1200: Address:  541536  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1803251221+++TIME=1803251221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1803251221+++TIME=1803251221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG512: Address:  114437  Function: 2  Alpha:   18:03-55 <NULL><NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   18:01-07 25/12/2021 17:59:02 INC 24875894 17D04 TITUS COTTAGE, BRADLEY FOLD ROAD, AINSWORTH BOLTON, BL2 5QR Female 82Y FALLEN - CANT MOVE GRD 376327 409552<NUL><NUL>
+POCSAG1200: Address: 1259991  Function: 2  Alpha:   18:01-39 2008814<NUL>
+POCSAG1200: Address: 2007934  Function: 1 
+POCSAG1200: Address:  106110  Function: 2  Alpha:   18:00-88 25/12/2021 17:58:41 INC 24875893 17A02P CASTLE STREET JCT, WHITEFIELD STREET, HAPTON LANCASHIRE Female 70Y FALLEN GRD 379188 431922
+POCSAG2400: Address: 1594968  Function: 2  Alpha:   17:59-19 INC ALERT No: 16967
+POCSAG2400: Address:   28904  Function: 0  Alpha:   17:59-41 4379<NUL>
 POCSAG1200: Address: 1381362  Function: 1 
 POCSAG1200: Address:  826799  Function: 1  Alpha:   <ENQ>r
 POCSAG1200: Address: 1068899  Function: 3 
@@ -981,20 +998,3 @@ POCSAG1200: Address: 1840800  Function: 2
 POCSAG1200: Address: 1133411  Function: 0  Alpha:   i`6b9<ENQ><DLE>~
 POCSAG1200: Address:  386428  Function: 1 
 POCSAG1200: Address:  678182  Function: 1  Alpha:   <,
-POCSAG1200: Address: 1261804  Function: 1 
-POCSAG1200: Address: 1303668  Function: 1  Alpha:   <DC3>H<DC2>Q$+pp
-POCSAG1200: Address:  501876  Function: 2 
-POCSAG1200: Address:  259169  Function: 2  Alpha:   <NUL><SOH>J@<NUL>
-POCSAG1200: Address:  897920  Function: 0  Alpha:   |a
-POCSAG1200: Address: 1813335  Function: 3 
-POCSAG1200: Address: 1925646  Function: 0  Alpha:   Q<ESC>
-POCSAG1200: Address: 2074231  Function: 2 
-POCSAG1200: Address: 1520998  Function: 0 
-POCSAG1200: Address:   26931  Function: 2  Alpha:   N+LVK
-POCSAG1200: Address:  176221  Function: 0  Alpha:   K[<ETB>g<DEL><HT><STX><SOH>
-POCSAG1200: Address:  811317  Function: 1  Alpha:   -e
-POCSAG1200: Address: 1028654  Function: 3  Alpha:   Gu
-POCSAG1200: Address: 1946014  Function: 1  Alpha:   ~E%{Y
-POCSAG1200: Address:  623432  Function: 2 
-POCSAG1200: Address:      32  Function: 2 
-POCSAG1200: Address:  141360  Function: 1 
