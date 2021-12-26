@@ -1,3 +1,15 @@
+POCSAG1200: Address:  880650  Function: 2  Alpha:   16:39-84 6800<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1638261221+++TIME=1638261221<NUL>
+POCSAG1200: Address: 1039284  Function: 3  Alpha:   5<LF>
+POCSAG2400: Address: 2077823  Function: 0  Alpha:   <DEL><DEL>?<CAN>cIMy
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:37-85  !81<NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:37-84 5202<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   16:37-18 2184<NUL>
+POCSAG1200: Address: 2023970  Function: 0 
+POCSAG1200: Address: 2078257  Function: 0 
+POCSAG1200: Address:  938372  Function: 0 
+POCSAG1200: Address: 1032993  Function: 1  Alpha:   *U
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:34-52 4166<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  585543  Function: 2  Alpha:   16:33-57 6556<NUL>
 POCSAG2400: Address: 1032279  Function: 0 
@@ -986,15 +998,3 @@ POCSAG1200: Address:  979303  Function: 1  Alpha:   dS
 POCSAG1200: Address: 1095857  Function: 0  Alpha:   (s
 POCSAG1200: Address:  160865  Function: 0 
 POCSAG1200: Address:  417989  Function: 2 
-POCSAG1200: Address:  340060  Function: 1  Alpha:   K<FF>L,<FF>(<FF>M.ML<SO>,<SO>(Rs<DLE>H<FF><CR><SO><SO>@<CAN>[a<FS>
-POCSAG1200: Address:  979303  Function: 1  Alpha:   dS
-POCSAG1200: Address:      28  Function: 2 
-POCSAG1200: Address:  866529  Function: 1 
-POCSAG1200: Address: 1071584  Function: 1  Alpha:   tdc<STX><STX>B<CAN>)<BS>t(J<BS>46&&fv<ACK>DF
-POCSAG1200: Address: 1590697  Function: 2 
-POCSAG1200: Address:   88929  Function: 0 
-POCSAG1200: Address:  914293  Function: 3 
-POCSAG1200: Address:  276796  Function: 1 
-POCSAG1200: Address: 1913059  Function: 2  Alpha:   3+
-POCSAG1200: Address:  548011  Function: 0  Alpha:   <SUB>C
-POCSAG1200: Address: 1245861  Function: 0 
