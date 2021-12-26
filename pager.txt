@@ -1,3 +1,8 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0418261221+++TIME=0418261221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0418261221+++TIME=0418261221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1532661  Function: 0 
+POCSAG1200: Address: 2089652  Function: 0 
 POCSAG1200: Address:  585254  Function: 2  Alpha:   04:14-94 Icespy alarm Sensor: SMH Freezer (New), Alert Group: On call<CR><LF>Site: Bristol Royal Infirmary<CR><LF>Sensor: SMH Freezer (New)<CR><LF>Sensor S/N: 00023960<CR><LF>Channel: 1<CR><LF>Parameter: Temperature<CR><LF>Reading: -14.90 C<CR><LF>Alarm Type: High Alarm<CR><LF>Alarm Level: -15.00<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413261221+++TIME=0413261221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234<NAK>61890
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:12-51 4660<NUL>
 POCSAG1200: Address:  524208  Function: 0 
 POCSAG1200: Address:  108097  Function: 0  Alpha:   23:12-50 1327<NUL>
 POCSAG1200: Address: 1817213  Function: 2  Alpha:   23:12-81 PLEASE CALL ANTHONY MOORE ON 07809 867 580 AT THE SPORTSMAN CASINO HIS ACCOUNT HAS BEEN PASSWORD LOCKED<NUL><NUL>
-POCSAG1200: Address:  227361  Function: 0  Alpha:   23:12-72 59055
-POCSAG1200: Address:  216380  Function: 2  Alpha:   23:12-21 PLEASE CALL ANTHONY MOORE ON@0<NAK>809 867 580 AT THE SPORTSMAN CASINO HIS ACCOUNT HAS BEEN PASSWORD LOCKED<NUL><NUL>
-POCSAG1200: Address: 1058476  Function: 2  Alpha:   23:10-00 25/12/2021 23:10:37 INC 24877262 25D03 21 QUEEN STREET, GLOSSOP, SK13 8EL Male 53 ?PHYSCHOTIC, EPISODE, SHOUTING FOR HELP GRD 402716 393922
-POCSAG2400: Address: 1322173  Function: 2  Alpha:   23:10-22 Leo Guo; 778 319 8066;This is an experimental paging.;EOM December 25, 2021 at 11:09PM<NUL><NUL>
-POCSAG2400: Address: 1323640  Function: 2  Alpha:   23:09-92 0163343<NUL>
