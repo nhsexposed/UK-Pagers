@@ -1,3 +1,23 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1223261221+++TIME=1223261221<NUL>
+POCSAG2400: Address: 1022271  Function: 0  Alpha:   12:23-57 NHSBT - DONOR REFERRAL. Please call DR NICK HEUSTON on Direct Dial Number 01642 850850 X55727 Hospital JAMES COOK MIDDLESBROUGH Dept ED . Regards Donor Referral Line
+POCSAG2400: Address:  562060  Function: 1  Alpha:   t ED . Regards Donor Referral Line
+POCSAG2400: Address: 1322796  Function: 2  Alpha:   12:23-67 NHSBT - DONOR REFERRAL. Please call DR NICK HEUSTON on Direct Dial Number 01642 850850 X55727 Hospital JAMES COOK MIDDLESBROUGH 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  108097  Function: 0  Alpha:   12:23-53 Please call ext 1002<NUL><NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   12:22-58 26/12/2021 12:19:07 INC 24880034 17A04G 12 VICTORIA ROAD, STOCKPORT, SK1 4AT Male 69Y FALL GRD 390597 390352
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   12:22-00 26/12/2021 12:19:55 INC 24880039 17D03 GO LOCAL EXTRA SHOP, 99 OAK ROAD, PARTINGTON MANCHESTER, M31 4LD Male 40Y FALL GRD 371077 390631<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   12:22-30 26/12/2021 12:19:59 INC 24880041 36C02A 19 QUEEN STREET, WATERLOO L22, L22 5PA Male 35Y DIZZY- UNABLE TO GET OUT OF BED GRD 331964 397844<NUL><NUL>
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <DC2><FF>
+POCSAG1200: Address: 1788577  Function: 2 
+POCSAG2400: Address:   28904  Function: 0  Alpha:   12:20-55 4156<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   12:20-28 26/12/2021 12:17:08 INC 24880026 05A01 L9 4RW, FLAT 1, 41A WARBRECK MOOR, WALTON L9 Female 31Y LOSUW BACK PAIN GRD 336552 396993
+POCSAG2400: Address:  772162  Function: 3 
+POCSAG2400: Address:  377169  Function: 0 
+POCSAG2400: Address:   33704  Function: 2  Alpha:   12:20-32 12:20-31 PLS CALL JUDITH MARTIN ON 07889 304 131
+POCSAG2400: Address: 1022657  Function: 2  Alpha:   12:20-83 PLS CALL JUDITH MARTIN ON 07889 304 131
+POCSAG2400: Address: 1060233  Function: 3 
+POCSAG2400: Address: 1323067  Function: 2  Alpha:   12:20-23 PLS CALL JUDITH MARTIN ON 07889 304 131
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=12182617;0+++TIME=1218261221<NUL>
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   52=18-14 4387<NUL>
 POCSAG2400: Address: 2024311  Function: 0 
@@ -978,23 +998,3 @@ POCSAG1200: Address: 1578552  Function: 1
 POCSAG1200: Address: 1555054  Function: 0  Alpha:   9<BEL>B<DEL><RS>g|&
 POCSAG1200: Address:  352620  Function: 0 
 POCSAG1200: Address:  750224  Function: 3 
-POCSAG1200: Address: 1784608  Function: 3 
-POCSAG1200: Address:  685008  Function: 1  Alpha:   -i<SOH>Ts<SOH>8ga\_MIA
-POCSAG1200: Address: 1995680  Function: 3 
-POCSAG1200: Address:  255174  Function: 0  Alpha:   x<DC3><ETX>@jl!<US>
-POCSAG1200: Address:  376528  Function: 1 
-POCSAG1200: Address: 1682226  Function: 3 
-POCSAG1200: Address: 2043353  Function: 0  Alpha:   Z<DC1>^ih
-POCSAG1200: Address:  189494  Function: 0  Alpha:   <DC1>-
-POCSAG1200: Address:  321020  Function: 2 
-POCSAG1200: Address: 2008842  Function: 3  Alpha:   &o
-POCSAG1200: Address: 1022128  Function: 2  Alpha:   11:02-51 Testing/Testing Primary PCI Bleep3@Y
-POCSAG1200: Address:  993319  Function: 0 
-POCSAG1200: Address: 1972473  Function: 1 
-POCSAG1200: Address: 1508386  Function: 0  Alpha:   2<SUB>/yI<BEL>dW>xh
-POCSAG1200: Address:  658992  Function: 1 
-POCSAG1200: Address: 1833760  Function: 3 
-POCSAG1200: Address:  734160  Function: 1  Alpha:   ]i<SOH>ls<SOH>,gaV_MOA
-POCSAG1200: Address: 2044832  Function: 3 
-POCSAG1200: Address:  191177  Function: 2  Alpha:   g}
-POCSAG1200: Address:  294608  Function: 1 
