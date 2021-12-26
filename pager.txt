@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0543261221+++TIME=0543261221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0543261221+++TIME=0543261221<NUL>
+POCSAG2400: Address:   28894  Function: 0  Alpha:   05:43-03 4160<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address: 1321829  Function: 2  Alpha:   05:43-38 =NAGIOS10 ALERT=, OK pages: 1<CR><LF><CR><LF>https://nagios10.2020media.net.uk/ <CR><LF><CR><LF>Room101-mailhost2.clubwebsite.co.uk - SMTP is OK - Sun Dec 26 05:41:08 GMT 2021<CR><LF>|<CR><LF>***** Notification Details *****<CR><LF><CR><LF>Notification Type: RECOVERY<CR><LF>Service: SMTP<CR><LF>Host<NUL><NUL>
+POCSAG1200: Address: 1534251  Function: 2  Alpha:   05:42-67 (2/2)   F4 Fire Domestic BC3 BC2 Map ref  472018.4,106892 Details  CAR  IN GARAGE 
+POCSAG2400: Address: 1323654  Function: 2  Alpha:   05:39-89 38001-11
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0538261221+++TIME=0538261221<NUL>
 POCSAG1200: Address:  337785  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
@@ -990,11 +998,3 @@ POCSAG2400: Address:   92339  Function: 1  Alpha:   0OMZ<CR>
 POCSAG2400: Address:  751214  Function: 1 
 POCSAG2400: Address:  730181  Function: 0  Alpha:   <FS>]
 POCSAG2400: Address:  848257  Function: 1 
-POCSAG2400: Address: 1749518  Function: 0 
-POCSAG2400: Address:  828713  Function: 3 
-POCSAG2400: Address: 1863441  Function: 0 
-POCSAG2400: Address: 1077810  Function: 1 
-POCSAG2400: Address:  140905  Function: 0 
-POCSAG2400: Address:  894707  Function: 1  Alpha:   p@On<DLE>
-POCSAG2400: Address: 1508011  Function: 0 
-POCSAG2400: Address:  160442  Function: 3 
