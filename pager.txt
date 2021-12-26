@@ -1,3 +1,10 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   22:12-53 BLOCKED CATHETER, PLEASE RING IC24<NUL><NUL>
+POCSAG1200: Address:   33724  Function: 2  Alpha:   22:12-75 BLOCKED CATHETER, PLEASE RING IC24<NUL><NUL>
+POCSAG2400: Address: 1222256  Function: 0 
+POCSAG1200: Address: 1221173  Function: 3 
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   22:09-43 26/12
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1031781  Function: 3  Alpha:   b<EOT>
 POCSAG1200: Address: 1032724  Function: 0 
 POCSAG1200: Address: 1031771  Function: 3  Alpha:   b<EOT>
 POCSAG1200: Address: 1031778  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1031809  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1031799  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1032965  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1032725  Function: 0 
-POCSAG1200: Address: 1322170  Function: 2  Alpha:   19:02-31 262<NUL><NUL>
-POCSAG1200: Address: 1031777  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address:  765151  Function: 1  Alpha:   9<BS>Y8JZ(J5z)6<ACK><EOT>f<EM>8<BEL>DF<SYN>W<SYN>VF<NAK>&<SYN><ETB>wv6<BEL>d<CAN>)Z<BS><DC4>i<HT>$<CAN>i<HT>4<LF>YH8<BEL>
