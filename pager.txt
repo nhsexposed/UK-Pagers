@@ -1,3 +1,51 @@
+POCSAG2400: Address: 1485432  Function: 1 
+POCSAG1200: Address: 1312640  Function: 2  Alpha:   10:53-88 ADD: ATHERLEIGH WAY WIGAN LEIGH: BETWEEN ATHERLEIGH WAY AND LEIGH BRIDGE INC TYPE: RESCUE OF PERSON IN WATER  TG: FNWR-OPS06 FOR INFO ONLY AS: GM MENTORING OFFICER<NUL><NUL>
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 2074229  Function: 2 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 1483185  Function: 2  Alpha:   10:53-07 26/12/2021 10:50:19 INC 2487<SOH>2
+POCSAG1200: Address: 1835034  Function: 2 
+POCSAG1200: Address: 1587174  Function: 3 
+POCSAG1200: Address: 1142184  Function: 2 
+POCSAG1200: Address: 1411955  Function: 2  Alpha:   `j
+POCSAG1200: Address:  557933  Function: 2 
+POCSAG1200: Address:  189226  Function: 0 
+POCSAG1200: Address:  156974  Function: 2 
+POCSAG1200: Address:  627440  Function: 1  Alpha:   <STX>R
+POCSAG1200: Address: 1071264  Function: 3 
+POCSAG1200: Address: 1665705  Function: 1 
+POCSAG1200: Address: 1246311  Function: 1  Alpha:   \<FF>
+POCSAG1200: Address:  532005  Function: 1  Alpha:   <EM><FF>
+POCSAG1200: Address:  897057  Function: 0  Alpha:   r+<ACK>yw
+POCSAG1200: Address: 1425194  Function: 3 
+POCSAG1200: Address:  352513  Function: 2 
+POCSAG1200: Address: 1252136  Function: 1  Alpha:   <RS>g
+POCSAG1200: Address: 1713897  Function: 0 
+POCSAG1200: Address: 1353830  Function: 1  Alpha:   (<SUB>C9(3<LF>TFy9
+POCSAG1200: Address:  350338  Function: 0  Alpha:   10:53-46 2"
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:53-18 2445<NUL>
+POCSAG1200: Address: 1703466  Function: 2 
+POCSAG1200: Address:  655794  Function: 3 
+POCSAG1200: Address: 1512329  Function: 0 
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1925332  Function: 2  Alpha:   10:51-99 26/12/2021 10:49:25 INC 24879677 31E01 27 MILTON AVENUE, STALYBRIDGE, SK15 3HB Male 89Y COLLAPSED - LOC GRD 398061 399546<NUL>
+POCSAG1200: Address: 1001133  Function: 2  Alpha:   10:4)
+POCSAG1200: Address: 1312439  Function: 2  Alpha:   10:49-88 CARDIAC ARREST TEAM TO 13 E BED 22 RLH<NUL>
+POCSAG1200: Address: 1312441  Function: 2  Alpha:   10:49-64 CARDIAC ARREST TEAM TO 13 E BED 22 RLH<NUL>
+POCSAG1200: Address: 1816832  Function: 2  Alpha:   10:49-97 343<NUL><NUL>
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   10:49-37 26/12/2021 10:47:07 INC 24879668 09E01 2 SMITHY CLOSE, OLD GLOSSOP, SK13 7SP Female 88Y NOT BREATHING GRD 403636 394177
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   10:49-09 26/12/2021 10:47:07 INC 24879668 09E01 2 SMITHY CLOSE, OLD GLOSSOP, SK13 7SP Female 88Y NOT BREATHING GRD 403636 394177
 POCSAG1200: Address: 1058476  Function: 2  Alpha:   10:49-11 26/12/2021 10:47:07 INC 24879668 2 SMITHY CLOSE, OLD GLOSSOP, SK13 7SP GRD 403636 394177
@@ -950,51 +998,3 @@ POCSAG2400: Address:   28894  Function: 0  Alpha:   05:43-03 4160<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
 POCSAG1200: Address: 1321829  Function: 2  Alpha:   05:43-38 =NAGIOS10 ALERT=, OK pages: 1<CR><LF><CR><LF>https://nagios10.2020media.net.uk/ <CR><LF><CR><LF>Room101-mailhost2.clubwebsite.co.uk - SMTP is OK - Sun Dec 26 05:41:08 GMT 2021<CR><LF>|<CR><LF>***** Notification Details *****<CR><LF><CR><LF>Notification Type: RECOVERY<CR><LF>Service: SMTP<CR><LF>Host<NUL><NUL>
-POCSAG1200: Address: 1534251  Function: 2  Alpha:   05:42-67 (2/2)   F4 Fire Domestic BC3 BC2 Map ref  472018.4,106892 Details  CAR  IN GARAGE 
-POCSAG2400: Address: 1323654  Function: 2  Alpha:   05:39-89 38001-11
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0538261221+++TIME=0538261221<NUL>
-POCSAG1200: Address:  337785  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   05:37-65 26/12/2021 05:34:53 INC 24878645 09E02 7 WALTON PARK, WALTON L9, L9 1AA Male 86Y NOT RESPONSING GRD 336166 395850
-POCSAG1200: Address:  363869  Function: 2  Alpha:   05:37-34 26/12/2021 05:34:53 INC 24878645 09E02 7 WALTON PARK, WALTON L9, L9 1AA Male 86Y NOT RESPONSING GRD 336166 395850
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   05:37-50 26/12/2021 05:34:53 INC 24878645 09E02 7 WALTON PARK, WALTON L9, L9 1AA Male 86Y NOT RESPONSING GRD 336166 395850
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   05:34-15 3106<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   05:29-66 4157<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   05:26-71 5440<NUL>
-POCSAG1200: Address: 1128864  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0523261221+++TIME=0523261221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG1200: Address:  866890  Function: 3 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   05:22-36 26/12/2021 05:19:25 INC 24878621 10D02 21 BROADWOOD WAY, LYTHAM LYTHAM ST ANNES, FY8 4PH Male 67Y DIB > CHEST PAIN GRD 335295 427603<NUL>
-POCSAG2400: Address:   28904  Function: 0  Alpha:   05:22-53 3157<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0518261221+++TIME=0518261221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0518261221+++TIME=05182V0421<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   05:16-36 4156<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  549114  Function: 2  Alpha:   05:11-79 UNSPEC KIDNEY OFFER: Donor: 153799, DBD, Hospital: UNI HSPT    COVENTRY, HM1701, DOB:05/02/1975, Recipient name:MUHAMMAD NIAZ KHAN , DOB: 04/12/1975, Mismatch: 122, cRF: 99, Match Score: 9 - THIS OFFER EXPIRES AT 06:00 - NORS TEAM
-POCSAG1200: Address: 1534246  Function: 2  Alpha:   05:09-53 BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1534246  Function: 2  Alpha:   05:09-54 (2/2) 472018.4,106892 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1680369  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0503261221+++TIME=0503261221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  678665  Function: 2  Alpha:   05:00-44 Case ref 11276206 Fill in tick sheet
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0458261221+++TIME=0458261221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0453261221+++TIME=0453261221<NUL>
-POCSAG2400: Address:   28870  Function: 0  Alpha:   04:53-89 PLEASE CALL QEQM MARGATE ON 725 3347 <NUL><NUL>
-POCSAG1200: Address:  731560  Function: 3 
-POCSAG1200: Address:   40161  Function: 2  Alpha:   04:51-03 please call rfh ext 39524
-POCSAG1200: Address: 1322125  Function: 2  Alpha:   04:51-62 please call rfh ext 39524
-POCSAG1200: Address:   41512  Function: 2  Alpha:   04:51-97 33239
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   04:50-14 3106<NUL>
-POCSAG1200: Address:  269168  Function: 2  Alpha:   04:49-28 26/12/2021 04:47:19 INC 24878556 06D01 30 GREENSIDE AVENUE, BLACKBURN, BB2 4TG Female 60Y STRUGGLING TO BREATHE GRD 366283 425771<NUL><NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   04:48-35 4156<NUL>
-POCSAG1200: Address: 1534251  Function: 2  Alpha:   04:47-65 BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1530712  Function: 1 
-POCSAG1200: Address:  710216  Function: 1 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   04:44-02 4157<NUL>
-POCSAG1200: Address:  987049  Function: 2  Alpha:   04:44-79 26/12/2021 04:42:41 INC 24878543 21D05M 44 REGENT ROAD, BLACKPOOL, FY1 4NB Male 33Y COUGHING UP BLOOD GRD 331231 436101
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443261221+++TIME=0443261221<NUL>
