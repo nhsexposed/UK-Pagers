@@ -1,3 +1,10 @@
+POCSAG1200: Address: 1534194  Function: 2  Alpha:   13:44-08 028427-26122021; F4.P Fire Dome<DEL>wic Persons Reported; 109 MERRIVALE ROAD,PORTSMOUTH,PO2 0TH; 465861,103250; BOSS Mobile: https://bossd.nfcsp.org.uk<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=13433<1221+++TIME=1343261221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  549227  Function: 2  Alpha:   13:42-53 13:42-52 SILVER PLEASE CALL FIONA ON 01553 613 225 
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   13:40-36 2616<NUL>
+POCSAG2400: Address: 1324256  Function: 2  Alpha:   13:40-30 PLEASE CALL STACEY FROM SOUTH EAST COAST AMBULANCE SERVICE 111 ON 07733 324 311 <NUL><NUL>
 POCSAG1200: Address:  600915  Function: 0 
 POCSAG1200: Address:  346010  Function: 0  Alpha:   13:39-86 26/12/2021 13:35:51 INC 24880341 28C05J 35 COPPULL HALL LANE, COPPULL CHORLEY, PR7 6pP Male 70Y STROKE GRD 357073 414349<NUL><NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1338261221+++TIME=1338261221<NUL>
@@ -991,10 +998,3 @@ POCSAG2400: Address: 1952501  Function: 3  Alpha:   eR<DEL>i<DC4><DEL> His4
 POCSAG2400: Address:  257723  Function: 2  Alpha:   <SUB>H
 POCSAG2400: Address:  997477  Function: 1 
 POCSAG2400: Address:  801397  Function: 3 
-POCSAG2400: Address:  663611  Function: 2  Alpha:   Y<SOH>
-POCSAG2400: Address:  385656  Function: 2  Alpha:   |C
-POCSAG2400: Address: 1681155  Function: 3 
-POCSAG2400: Address:  882867  Function: 1  Alpha:   PIL\<FF>
-POCSAG2400: Address:   77935  Function: 0 
-POCSAG2400: Address:  847236  Function: 1  Alpha:   ik<ESC>LK
-POCSAG2400: Address: 1094032  Function: 3 
