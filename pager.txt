@@ -1,3 +1,40 @@
+POCSAG1200: Address: 1745492  Function: 0 
+POCSAG2400: Address: 2011768  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  227361  Function: 0  Alpha:   18:42-77 50792
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:41-12 4935<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   18:41-96 26/12/2021 18:38:01 INC 24881729 17D03P O/S, 72 FAVERSHAM ROAD, NORRIS GREEN L11, L11 7BQ Male 55Y FALL GRD 338331 395335<NUL>
+POCSAG1200: Address:  958546  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0  Alpha:   <DEL>Y
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 1959542  Function: 2 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:  924320  Function: 1 
+POCSAG1200: Address: 1068132  Function: 3 
+POCSAG1200: Address:  784687  Function: 1  Alpha:   t!CD<NUL>=(B<ESC>H2
+POCSAG1200: Address: 1552908  Function: 1 
+POCSAG1200: Address:   95002  Function: 0  Alpha:   <I
 POCSAG1200: Address: 2016821  Function: 2 
 POCSAG1200: Address: 1312891  Function: 2  Alpha:   18:37-89 PLEASE CALL MINOR INJURIES ON 0300 421 635vBD
 POCSAG1200: Address:  851267  Function: 2  Alpha:   18:37-96 PLEASE CALL MINOR INJURIES ON 0300 421 6356<NUL><NUL>
@@ -961,40 +998,3 @@ POCSAG2400: Address: 1320280  Function: 2  Alpha:   17:14-46 2097<NUL>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   17:13-19 Twinning Ext: 34177
 POCSAG1200: Address:  227361  Function: 0  Alpha:   17:13-76 50792
 POCSAG1200: Address:  432215  Function: 2  Alpha:   17:12-64 2268386<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   17:12-96 4387<NUL>
-POCSAG1200: Address:  600697  Function: 0  Alpha:   17:12-84 PLS CALL  7896834<NUL><NUL>
-POCSAG1200: Address:  314547  Function: 2  Alpha:   17:11-53 5002<NUL>
-POCSAG1200: Address:  819858  Function: 3  Alpha:   e 91Y LOW BP, HEART PROBLEM GRD 389418 397122
-POCSAG1200: Address:  420486  Function: 3  Alpha:   <SYN><SOH>
-POCSAG2400: Address:   28906  Function: 0  Alpha:   17:10-60 4960<NUL>
-POCSAG2400: Address: 1323593  Function: 2  Alpha:   17:10-72 please call Switchboard to bleep 3342<NUL><NUL>
-POCSAG1200: Address:  715960  Function: 3 
-POCSAG1200: Address: 1815006  Function: 0  Alpha:   17:09-75 12039
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1708261221+++TIME=1708261221<NUL>
-POCSAG2400: Address: 1913768  Function: 2  Alpha:   17:09-93 5078<NUL>
-POCSAG2400: Address: 1323100  Function: 2  Alpha:   17:07-81 NHSBT - DONOR REFERRAL. Please call Nurse Jeff Arboleda on Direct Dial Number 01642 382 820 Hospital University Hospital of North Tees, StocMton-on-Tees Dept ICU . Regards Donor Referral Lin
-POCSAG2400: Address: 1323101  Function: 2  Alpha:   17:07-98 NHSBT - DONOR REFERRAL. Please call Nurse Jeff Arboleda on Direct Dial Number 01642 382 820 Hospital University Hospital of North Tees, Stockton-on-Tees Dept ICU . Regards Donor Referral Lin
-POCSAG1200: Address: 1915838  Function: 2  Alpha:   17:07-42 999, 999<LF>Alert<NUL><NUL>
-POCSAG1200: Address:  108097  Function: 0  Alpha:   17:07-58  pls call 1938<NUL><NUL>
-POCSAG2400: Address: 1913536  Function: 2  Alpha:   17:07-36 4179<NUL>
-POCSAG1200: Address: 2077694  Function: 2 
-POCSAG1200: Address:  420504  Function: 3  Alpha:   <EM><EM>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   17:04-53 3119<NUL>
-POCSAG2400: Address: 1913904  Function: 2  Alpha:   17:04-54 5202<NUL>
-POCSAG2400: Address:   28902  Function: 0  Alpha:   17:03-57 3119<NUL>
-POCSAG1200: Address: 1748727  Function: 0 
-POCSAG512: Address: 2027122  Function: 1 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:03-31 26/12/2021 17:00:03 INC 24881254 30D03 ST OSWALDS C
-POCSAG1200: Address: 1026673  Function: 1 
-POCSAG2400: Address: 1913768  Function: 2  Alpha:   17:02-91 4167<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:02-30 26/12/2021 17:01:30 INC 24881258 06E01 105 CAMPBELL DRIVE, SWANSIDE L14, L14 7QF Female 73Y CANT CATCH BREATH - CO<EM>E(GRD 341190 391170<NUL><NUL>
-POCSAG1200: Address: 1747509  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1323913  Function: 2  Alpha:   17:00-78 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 1324073  Function: 2  Alpha:   17:00-40 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address:  926245  Function: 0 
-POCSAG2400: Address: 1324072  Function: 2  Alpha:   17:00-70 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG2400: Address: 2044424  Function: 2  Alpha:   <SO><RS>/<ACK>"<SI>^.<ACK>r~<ACK>2.<ETB>'G.<SYN><BEL><LF><RS>&O~vv<STX>
-POCSAG2400: Address: 1323970  Function: 2  Alpha:   17:00-08 Green: This is the daily pager test. Please take no further action.<NUL>
-POCSAG1200: Address: 1801393  Function: 0 
-POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>C<GS><EM>L
