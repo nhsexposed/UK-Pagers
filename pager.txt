@@ -1,3 +1,9 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1813261221+++TIME=1813261221<NUL>
+POCSAG1200: Address:  301472  Function: 3  Alpha:   <EOT>**V<ACK>D<SYN>;<LF>dX\<GS>L]<FF>t&<SYN><VT>$<CAN>hyXH<BS><EOT>Y<CAN>H<BS>T<ENQ>dzY<EM>IZH<BS>$HyyI<BS>t(J<BS>4VV&F<ACK><BEL>D&6f<ACK>&
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address: 2056264  Function: 1 
+POCSAG2400: Address: 1913980  Function: 2  Alpha:   18:10-07 5204<NUL>
 POCSAG1200: Address:  216470  Function: 2  Alpha:   18:09-45 PLS CALL QE SWITCHBOARD 0121 371 2016<NUL><NUL>
 POCSAG1200: Address: 1321741  Function: 2  Alpha:   18:08-35 PPCI ACTIVATIOnjDTA 30 MINS PLS RESPOND TO EXT 5094
 POCSAG1200: Address: 1321726  Function: 2  Alpha:   18:08-95 PPCI ACTIVATION ETA 30 MINS PLS RESPOND TO EXT 5094
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:37-84 5202<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   16:37-18 2184<NUL>
 POCSAG1200: Address: 2023970  Function: 0 
 POCSAG1200: Address: 2078257  Function: 0 
-POCSAG1200: Address:  938372  Function: 0 
-POCSAG1200: Address: 1032993  Function: 1  Alpha:   *U
-POCSAG2400: Address:   28907  Function: 0  Alpha:   16:34-52 4166<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  585543  Function: 2  Alpha:   16:33-57 6556<NUL>
-POCSAG2400: Address: 1032279  Function: 0 
