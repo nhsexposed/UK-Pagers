@@ -1,3 +1,16 @@
+POCSAG2400: Address:   28870  Function: 0  Alpha:   22:19-97 PLEASE CALL 7253305
+POCSAG2400: Address: 1324566  Function: 2  Alpha:   22:18-10
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2218261221+++TIME=2218261221<NUL>
+POCSAG1200: Address:  548160  Function: 2  Alpha:   22:18-54 2140<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1022685  Function: 0  Alpha:   22:16-12 01173421911
+POCSAG1200: Address: 1999487  Function: 2 
+POCSAG1200: Address: 1270022  Function: 1 
+POCSAG2400: Address: 2011774  Function: 0 
+POCSAG1200: Address:  764528  Function: 2 
+POCSAG1200: Address: 1511424  Function: 2 
+POCSAG1200: Address: 1321730  Function: 2  Alpha:   22:15-62 PPCI ACTIVATION, ETA 30 MINS, REPORT TO CATH LAB IMMEDIATELY, PLEASE CALL 01438 285 094 TO CONFIRM RECEIPT OF MESSAGE<NUL><NUL>
+POCSAG1200: Address: 2077692  Function: 2 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1008210  Function: 2  Alpha:   22:12-53 BLOCKED CATHETER, PLEASE RING IC24<NUL><NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1312467  Function: 2  Alpha:   19:04-80 68373
 POCSAG1200: Address: 2011700  Function: 2 
 POCSAG1200: Address:   40088  Function: 2  Alpha:   19:03-12 TEST CALL FROM SWITCH<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBB
-POCSAG1200: Address: 1031826  Function: 3  Alpha:   b<EOT>
-POCSAG2400: Address: 1913900  Function: 2  Alpha:   19:03-21 2111<NUL>
-POCSAG1200: Address: 1031770  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address:  516457  Function: 3  Alpha:   T$
-POCSAG1200: Address: 1031773  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1031803  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1032723  Function: 0 
-POCSAG1200: Address: 1031794  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1031791  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1031781  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1032724  Function: 0 
-POCSAG1200: Address: 1031771  Function: 3  Alpha:   b<EOT>
-POCSAG1200: Address: 1031778  Function: 3  Alpha:   b<EOT>
