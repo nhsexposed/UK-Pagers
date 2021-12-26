@@ -1,3 +1,9 @@
+POCSAG1200: Address: 2072818  Function: 1 
+POCSAG2400: Address: 1663848  Function: 0  Alpha:   <ETX><DC2>3{<LF><DC3>{<DC2><ETX><DC3><VT><ETX><DC2><ETX>S+<ETX>S<ESC>Cc<STX><SUB>|nz<SYN>'<RS>W<ETX>*<ETX>s<SUB>K+<DC3>K+#<ETX>j"s<LF>3C<VT>C<VT><VT><ETX><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:52-51 3298<NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   20:52-66 26/12/2021 20:47
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   20:51-90 8013<NUL>
 POCSAG1200: Address: 1499764  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2048261221+++TIME=2048261221<NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   20:48-79 26/12/2021 20:43:15 INC 24882340 31D04 15 LISTER STREET, ACCRINGTON, BB5 1TA Female 29Y UNCON GRD! 75197 42863
@@ -992,9 +998,3 @@ POCSAG1200: Address:  760929  Function: 1
 POCSAG1200: Address: 1365016  Function: 2  Alpha:   fc.OhNen
 POCSAG1200: Address: 1517354  Function: 0 
 POCSAG1200: Address:   90409  Function: 2 
-POCSAG1200: Address:  790701  Function: 3 
-POCSAG1200: Address:  155695  Function: 0  Alpha:   <FF><VT>
-POCSAG1200: Address: 1944182  Function: 3 
-POCSAG1200: Address:  139300  Function: 0 
-POCSAG1200: Address:  388353  Function: 1  Alpha:   x3
-POCSAG1200: Address: 1811028  Function: 3  Alpha:   >g
