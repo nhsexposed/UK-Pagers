@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1267624  Function: 1  Alpha:   <NAK>[
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0108261221+++TIME=0108261221<NUL>
+POCSAG1200: Address: 1808648  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   01:05-03 26/12/2021 00:58:34 INC 24877763 06E01 368 COG LANE, BURNLEY, BB11 5JS Male 78Y SOB AF GRD 382683 431641<NUL>
+POCSAG1200: Address:  360002  Function: 0  Alpha:   01:05-30 26/12/2021 00:58:34 INC 24877763 06E01 368 COG LANE, BURNLEY, BB11 5JS Male 78Y SOB AF GRD 382683 431641<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:03-61 4660<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0103261221+++TIME=0103261221<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:03-60 5531<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1667162  Function: 2
 POCSAG1200: Address:  208971  Function: 2 
 POCSAG1200: Address: 1388677  Function: 1 
 POCSAG1200: Address: 1106635  Function: 1 
-POCSAG1200: Address: 1368586  Function: 1 
-POCSAG1200: Address: 1735270  Function: 0  Alpha:   ,+<VT>P"
-POCSAG1200: Address:  270641  Function: 0  Alpha:   L[
-POCSAG1200: Address:   67558  Function: 3 
-POCSAG1200: Address:  953765  Function: 2 
-POCSAG1200: Address: 1956280  Function: 1 
