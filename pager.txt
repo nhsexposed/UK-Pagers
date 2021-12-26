@@ -1,3 +1,11 @@
+POCSAG1200: Address: 1800400  Function: 2 
+POCSAG1200: Address: 1783808  Function: 2  Alpha:   46<ACK>WV<SYN><BEL>4<SYN><BEL><ACK><ETB>'<ACK>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1485588  Function: 3  Alpha:   v 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   19:22-23 4387<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:20-18 4187<NUL>
+POCSAG1200: Address:  350377  Function: 0  Alpha:   <FF><NUL>
 POCSAG2400: Address: 1906088  Function: 2 
 POCSAG2400: Address: 1913641  Function: 2  Alpha:   19:18-32 5342<NUL>
 POCSAG1200: Address:  369888  Function: 0  Alpha:   )A<ACK><US><GS>)%<US><EM>'<SOH>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1637169  Function: 0  Alpha:   d5
 POCSAG1200: Address:  177761  Function: 0 
 POCSAG1200: Address:   75430  Function: 1 
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:26-40 26/12/2021 17:24:07 INC 24881368 24C03 33 RADSTOCK ROAD, FAIRFIELD L6, L6 3AU Female 23Y 7 WEEKS Pb
-POCSAG1200: Address:  221593  Function: 0 
-POCSAG1200: Address:  420405  Function: 2  Alpha:   Rh<DLE>dL
-POCSAG1200: Address:  420405  Function: 2  Alpha:   Rh
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   17:22-78 61877
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:21-22 4022<NUL>
-POCSAG2400: Address: 1485410  Function: 2 
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:21-87 4163<NUL>
-POCSAG1200: Address:  212309  Function: 0 
