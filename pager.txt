@@ -1,3 +1,22 @@
+POCSAG1200: Address:  527373  Function: 2 
+POCSAG1200: Address: 1870988  Function: 2 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   02:12-48 01233 629 803 <NUL><NUL>
+POCSAG1200: Address:   33724  Function: 2  Alpha:   02:12-70 01233 629 803 <NUL><NUL>
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:12-16 01233 629 803 <NUL><NUL>
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   02:12-22 01233 629 803 <NUL><NUL>
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:12-99 01233 629 803 <NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1324550  Function: 2  Alpha:   02:12-87 INC ALERT No: 16968471 Cardiac Arrest -, AT: 104 NORTHCOTE ROAD, MANGOTSFIELD BRISTOL, BS16 9DF, Time of Call: 26/12/2021 02:11:05, Co-ords: 51.4870928 -2.4915964
+POCSAG1200: Address:  269168  Function: 2  Alpha:   02:12-14 26/12/2021 02:05:25 INC 24878073 31E01 23 NEWPORT STREET, FARNWORTH BOLTON, BL4 9JN Male 24Y PURPLE IN FACE, CANT SEE, UNCONSCIOUS GRD 374011 405260
+POCSAG1200: Address:   40074  Function: 2  Alpha:   02:12-12 26/12/2021 02:09:53 INC 24878089 17A02G 51 CECIL ROAD, HALE ALTRINCHAM, WA15 9NT Male 83Y FALL GRD 377136
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   02:11-47 PLEASE CALL ASAP ON 07564 340 778
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   02:11-98 PLEASE CALL ASAP ON 07564 340 778
+POCSAG1200: Address:   33724  Function: 2  Alpha:   02:11-69 PLEASE CALL ASAP ON 07564 340 778
+POCSAG1200: Address: 1313126  Function: 2  Alpha:   02:11-21 PLEASE CALL ASAP ON 07564 340 778
+POCSAG1200: Address: 1313124  Function: 2  Alpha:   02:11-25 PLEASE CALL ASAP ON 07564 340 778
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   02:11-85 ip2 8259
+POCSAG1200: Address:  930489  Function: 2  Alpha:   02:09-93 26/12/2021 02:01:41 INC 24878058 30D03 JAM STREET CAFE, 209 UPPER CHORLTON ROAD, WHALLEY RANGE MANCHESTER, M16 0BH Male 41Y COLD ON ONE SIDE OF FACE GRD 382191 395005<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0208261221+++TIME=0208261221<NUL>
 POCSAG1200: Address:  216379  Function: 2  Alpha:   02:05-13 (3/3) Roles    JY02P1:Main Pump; Additional_Data Address Classification Property Shell<NUL><NUL>
 POCSAG1200: Address:  216379  Function: 2  Alpha:   02:05-12 (1/3)033879-26122021; F4.0.0.P FIRE - DOMESTIC; THE OLD RECTORY,CHURCH ROAD,EVERSLEY,HOOK,RG27 0PX; 477894,160874;<NUL><NUL>
@@ -924,25 +943,6 @@ POCSAG1200: Address: 1534150  Function: 2  Alpha:   22:04-46 PLEASE CONTACT CONT
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   b<FF>q`L
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  269168  Function: 2  Alpha:   22:03-67 25/12/2021 22:00:02 INS`;4876925 06D01 24 LINCOLN ROAD, BLACKBURN, BB1 1TP Male 22Y PANIC ATTACK GRD 369710 427688<NUL><NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
