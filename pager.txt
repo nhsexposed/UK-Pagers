@@ -1,3 +1,10 @@
+POCSAG1200: Address:  640240  Function: 2  Alpha:   l2
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0643261221+++TIME=0643261221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0643261221+++TIME=0643261221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   06:42-06 2183<NUL>
+POCSAG1200: Address: 1698440  Function: 1 
+POCSAG1200: Address:  618883  Function: 2  Alpha:   06:41-47 Daily Test Message<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0638261221+++TIME=0638261221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0638261221+++TIME=0638261221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
@@ -991,10 +998,3 @@ POCSAG2400: Address:  501486  Function: 0
 POCSAG2400: Address: 1401178  Function: 0 
 POCSAG2400: Address: 1275616  Function: 1 
 POCSAG2400: Address:  435845  Function: 1  Alpha:   )<ETX><GS>p<DC1>+:)+2YP<EM>s
-POCSAG2400: Address:  944436  Function: 1 
-POCSAG2400: Address: 1209088  Function: 3 
-POCSAG2400: Address:  394277  Function: 0  Alpha:   23:30:36 INC 24877376 31E01 84 CHAIN ROAD, HI<BEL> <DC1>+0A
-POCSAG2400: Address:  793073  Function: 1 
-POCSAG2400: Address: 1652732  Function: 1 
-POCSAG2400: Address: 1944947  Function: 1  Alpha:   f`Jj>
-POCSAG2400: Address: 1086760  Function: 0  Alpha:   <EM>=
