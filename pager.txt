@@ -1,3 +1,7 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0133261221+++TIME=0133261221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0133261221+++TIME=0133261221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:29-64 3507<NUL>
 POCSAG1200: Address:  271642  Function: 0  Alpha:   <FS>K
 POCSAG1200: Address:  402473  Function: 2 
@@ -994,7 +998,3 @@ POCSAG1200: Address:  761762  Function: 1
 POCSAG1200: Address: 1882544  Function: 3 
 POCSAG1200: Address:   33645  Function: 2 
 POCSAG1200: Address:  627688  Function: 1  Alpha:   t<EOT><STX>D<EM>G<ENQ>D<EM><BEL><DC4><ACK>y<LF>T<EM>L]<FF>Tj=m}}n<GS><VT>$J:
-POCSAG1200: Address:  566714  Function: 0  Alpha:   Ve<LF> w
-POCSAG1200: Address:  372020  Function: 0  Alpha:   I8<DC3><LF>Y
-POCSAG1200: Address: 1060131  Function: 1 
-POCSAG1200: Address: 1516768  Function: 2 
