@@ -1,3 +1,18 @@
+POCSAG1200: Address:  549853  Function: 2  Alpha:   20:44-00 ~PLEASE CONTACT KNOCK STATION<NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:43-50 16
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   20:43-55
+POCSAG1200: Address: 1605765  Function: 3  Alpha:   M<SOH>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   20:43-15 3157<NUL>
+POCSAG1200: Address: 1892976  Function: 0 
+POCSAG1200: Address: 1411271  Function: 1 
+POCSAG2400: Address:  633907  Function: 1 
+POCSAG2400: Address:  387456  Function: 1  Alpha:   <SO><SOH>
+POCSAG2400: Address:  404752  Function: 3  Alpha:   u<LF>
+POCSAG2400: Address:  733432  Function: 1  Alpha:   U_
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   20:42-25 2182<NUL>
+POCSAG1200: Address: 2008955  Function: 0 
+POCSAG1200: Address: 2077691  Function: 2 
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   20:41-33 Surgical SHO ext: 35450<NUL><NUL>
 POCSAG2400: Address: 2072818  Function: 1 
 POCSAG1200: Address:  549876  Function: 2  Alpha:   20:38-94 ~SRT 077892p,;00
 POCSAG1200: Address:       0  Function: 0 
@@ -983,18 +998,3 @@ POCSAG1200: Address:  790701  Function: 3
 POCSAG1200: Address: 1847923  Function: 3 
 POCSAG1200: Address:  155695  Function: 0  Alpha:   <FF><VT>
 POCSAG1200: Address:  139300  Function: 0 
-POCSAG1200: Address:  388353  Function: 1  Alpha:   x3
-POCSAG1200: Address: 1811028  Function: 3  Alpha:   >g
-POCSAG1200: Address:  877769  Function: 2 
-POCSAG1200: Address: 1128243  Function: 2  Alpha:   Re
-POCSAG1200: Address:  340060  Function: 1 
-POCSAG1200: Address:  454893  Function: 0 
-POCSAG1200: Address: 1354725  Function: 3  Alpha:   b+
-POCSAG1200: Address:  571409  Function: 0 
-POCSAG1200: Address:  160865  Function: 0 
-POCSAG1200: Address:  417989  Function: 2 
-POCSAG1200: Address:  367139  Function: 0  Alpha:   ]]Q<SOH><NUL>
-POCSAG1200: Address:  433653  Function: 2  Alpha:   <ESC>p
-POCSAG1200: Address:  367540  Function: 1 
-POCSAG1200: Address:  338359  Function: 0 
-POCSAG1200: Address:  594274  Function: 2 
