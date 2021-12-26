@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   00:34-60 3504<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:   28904  Function: 0  Alpha:   00:32-46 5002<NUL>
+POCSAG2400: Address: 1814999  Function: 0  Alpha:   00:31-43 03454251001
+POCSAG1200: Address:  227361  Function: 0  Alpha:   00:30-73 51347
+POCSAG2400: Address:   28894  Function: 0  Alpha:   00:30-01 2183<NUL>
 POCSAG1200: Address:  678641  Function: 2  Alpha:   00:29-39 BOSS Mobile: https://bossm.tvfcs.org.uk/bossmobile/
 POCSAG1200: Address: 2039968  Function: 0  Alpha:   ,<<ENQ><SUB>|$%<CR><,<FS><ENQ><STX><STX><STX><STX><STX><STX><STX><STX><STX>BL<D<EOT><DC2>}<FF>$<EOT><STX><STX><STX><STX><STX><STX><STX><STX>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0028261221+++TIME=0028261221<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1583742  Function: 0
 POCSAG1200: Address:  549858  Function: 2  Alpha:   21:54-70 ~FOR INFO - WESTLAND STATION CLEANING COMPLETE <NUL>
 POCSAG1200: Address:  549853  Function: 2  Alpha:   21:54-51 ~FOR INFO - WESTLAND STATION CLEANING COMPLETE <NUL>
 POCSAG1200: Address:  149130  Function: 2  Alpha:   21:54-51 ~FOR INFO - WESTLAND STATION CLEANING COMPLETE <NUL>
-POCSAG2400: Address: 2089560  Function: 1 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2153251221+++TIME=2153251221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   21:51-06 3148<NUL>
-POCSAG1200: Address:   11760  Function: 0  Alpha:   21:51-17 21:51-16 ~LEVEL 2<NUL><NUL>
