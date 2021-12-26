@@ -1,3 +1,10 @@
+POCSAG1200: Address: 2011864  Function: 1 
+POCSAG512: Address: 1399568  Function: 0 
+POCSAG1200: Address:  177811  Function: 1  Alpha:   <US>%)<EM>3<NAK><NUL><NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   18:00-57 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address: 1489616  Function: 0 
+POCSAG1200: Address: 2025462  Function: 1 
+POCSAG1200: Address:  958547  Function: 0 
 POCSAG1200: Address: 1745891  Function: 0 
 POCSAG1200: Address: 1761330  Function: 0 
 POCSAG1200: Address:  618274  Function: 0 
@@ -991,10 +998,3 @@ POCSAG2400: Address:       0  Function: 0
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:  724664  Function: 0  Alpha:   IZ<STX><NUL><NUL>
-POCSAG2400: Address: 1318970  Function: 0  Alpha:   O<SO><LF>DMI4f
-POCSAG2400: Address:  255590  Function: 0 
-POCSAG2400: Address:  520933  Function: 0 
-POCSAG2400: Address:  635143  Function: 2 
-POCSAG2400: Address: 1156421  Function: 2 
-POCSAG2400: Address:   94993  Function: 2  Alpha:   _i
-POCSAG2400: Address:  207148  Function: 3 
