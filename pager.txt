@@ -1,3 +1,17 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1953261221+++TIME=1953261221<NUL>
+POCSAG1200: Address:  267710  Function: 0  Alpha:   19:53-32 9901173421919
+POCSAG512: Address: 1991220  Function: 0 
+POCSAG2400: Address: 1032259  Function: 0 
+POCSAG2400: Address: 1032259  Function: 0 
+POCSAG1200: Address: 2000947  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   19:51-33 33904
+POCSAG2400: Address: 2073207  Function: 1 
+POCSAG2400: Address: 1589408  Function: 0  Alpha:   V<SYN><SYN>:<STX><NAK>2&j<ACK><LF><SYN>R"<STX>-&:<RS>N<STX>1f::<STX><DC1><SYN>CS<ETX><SOH>%RV<STX>9<SOH>I<SYN><US><BEL>K<DC3>O<ETX><DC1>>;?K<ETX>I<SYN><ESC><ETB>KK<BEL>3<ETX>1&;<ETB>
+POCSAG2400: Address: 1475157  Function: 2 
+POCSAG2400: Address: 1206368  Function: 3 
+POCSAG2400: Address: 2009939  Function: 0 
+POCSAG2400: Address: 2007931  Function: 1 
+POCSAG2400: Address: 1168367  Function: 3  Alpha:     01553 613321 Hospital  QUEEN ELIZABETH KINGS LYNN Dept  ITU . Regards Donor Referral Line
 POCSAG2400: Address:   28899  Function: 0  Alpha:   19:49-11 2447<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1948261221+++TIME=1948261221<NUL>
 POCSAG1200: Address: 1038561  Function: 2 
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1550024  Function: 2
 POCSAG1200: Address: 1419844  Function: 2 
 POCSAG1200: Address:  224282  Function: 0  Alpha:   ^<HT>
 POCSAG1200: Address:  717456  Function: 2  Alpha:   <EM><ESC><ETX>H<DC1>
-POCSAG1200: Address:  719136  Function: 1 
-POCSAG1200: Address: 1745422  Function: 1 
-POCSAG1200: Address:   31931  Function: 0  Alpha:   I<ENQ>*QM
-POCSAG1200: Address: 1586148  Function: 2  Alpha:   <SUB><ACK>B,d$<EOT>b4c<STX>b4<ETX><SUB><VT>,<ENQ>2,n<SO>f.<ACK><DC2><ESC>K<ENQ>:<ETX>:-,\<FS><ENQ><STX><NAK>-<<FF>tt$m<STX><SUB><FF><DLE>hQ<BS><EOT>
-POCSAG1200: Address:  298852  Function: 2  Alpha:   z9<BEL><HT>4e<EM>XI<ENQ>|
-POCSAG1200: Address: 1590003  Function: 3  Alpha:   @&n@<DC4>
-POCSAG1200: Address:   75494  Function: 1 
-POCSAG1200: Address: 1850016  Function: 1  Alpha:   LM
-POCSAG1200: Address:  602224  Function: 3 
-POCSAG1200: Address:  760929  Function: 1 
-POCSAG1200: Address: 1450038  Function: 0  Alpha:   n<NUL>
-POCSAG1200: Address:  389560  Function: 1  Alpha:   ~I
-POCSAG1200: Address:  365171  Function: 1  Alpha:   <NUL>@
-POCSAG1200: Address: 1580079  Function: 1  Alpha:   m<FF>B,N
