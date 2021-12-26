@@ -1,3 +1,16 @@
+POCSAG2400: Address:  216597  Function: 2  Alpha:   19:29-32 07853313881 - Charlotte Carter : 102 Starkholmes Road Matlock Derbyshire DE4 3DE Dog Pablo Just thrown up phone call requested<NUL><NUL>
+POCSAG1200: Address:  815256  Function: 3  Alpha:   +++TIME=1928261221+++TIME=1928261221<NUL>
+POCSAG2400: Address: 1959328  Function: 3 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   19:28-59 4114<NUL>
+POCSAG1200: Address:   28883  Function: 3  Alpha:   19:28-55 PLEASE CALL 07748 794 159
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:27-10 2581<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1974579  Function: 0 
+POCSAG1200: Address: 1968631  Function: 2  Alpha:   <DC1><DC1>(3<CAN>;<EM>H<CR>,<SYN><BS>11<DLE><DC1>Hp<DC3>1<SYN>hQ<DC4><DC1>hL<CR>.L<FF><CR><BS>Ml-Nl<FF>
+POCSAG2400: Address:   11678  Function: 0  Alpha:   19:25-72 Ian is resp
+POCSAG1200: Address: 1483516  Function: 1 
+POCSAG1200: Address:  674617  Function: 2  Alpha:   <BS>$F<ACK><BEL><ETB><SYN><BEL>6<ACK>$<ACK>7<BS><SYN>6<HT>T<ACK><ACK>tz)J8zz)J<LF><HT>$z<EM>HH<ENQ>$ZHH<CAN>9<LF><HT>4Jz98<HT>z)JJ<ENQ>4:Y<ACK>d&<HT><HT>dX\<GS>L]<FF><EOT>W<SYN><VT>DX<BS><EM>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:24-09 3509<NUL>
 POCSAG1200: Address: 1800400  Function: 2 
 POCSAG1200: Address: 1783808  Function: 2  Alpha:   46<ACK>WV<SYN><BEL>4<SYN><BEL><ACK><ETB>'<ACK>
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1357153  Function: 3
 POCSAG1200: Address:  865507  Function: 0  Alpha:   <CR>(<RS>1<DC1>o<DC4>h
 POCSAG1200: Address:  791269  Function: 3 
 POCSAG1200: Address: 1847987  Function: 3 
-POCSAG1200: Address: 1075819  Function: 0  Alpha:   <FF>K
-POCSAG1200: Address: 1770089  Function: 2 
-POCSAG1200: Address: 1704996  Function: 3 
-POCSAG1200: Address:  651523  Function: 2  Alpha:   <EOT><SOH>
-POCSAG1200: Address: 1700676  Function: 2 
-POCSAG1200: Address:  111386  Function: 0  Alpha:   9)
-POCSAG1200: Address:   94755  Function: 3 
-POCSAG1200: Address:  354684  Function: 2 
-POCSAG1200: Address:  992554  Function: 1  Alpha:   <FS>C
-POCSAG1200: Address: 1637169  Function: 0  Alpha:   d5
-POCSAG1200: Address:  177761  Function: 0 
-POCSAG1200: Address:   75430  Function: 1 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   17:26-40 26/12/2021 17:24:07 INC 24881368 24C03 33 RADSTOCK ROAD, FAIRFIELD L6, L6 3AU Female 23Y 7 WEEKS Pb
