@@ -1,3 +1,20 @@
+POCSAG1200: Address: 1816709  Function: 2  Alpha:   16:44-50 (2/2) Roles    JY18P1:Main Pump; Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Property Shell<NUL><NUL>
+POCSAG1200: Address:  214093  Function: 2  Alpha:   16:44-08 26/12/2021 16:43:13 INC 24881169 06D01 44 MARKET PLACE, LONGRIDGE PRESTON, PR3 3RR Male 49Y DIB GRD 360576 437165
+POCSAG1200: Address: 1209752  Function: 1 
+POCSAG1200: Address: 1345828  Function: 3 
+POCSAG1200: Address:  500330  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1643261221+++TIME=1643261221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1643261221+++TIME=1643261221<NUL>
+POCSAG2400: Address:   28904  Function: 0  Alpha:   16:42-60 3157<NUL>
+POCSAG2400: Address:  640737  Function: 2 
+POCSAG2400: Address:  546465  Function: 1 
+POCSAG2400: Address: 1814968  Function: 0  Alpha:   16:41-58 PLEASE CALL 530 
+POCSAG1200: Address: 1983006  Function: 2  Alpha:   16:42-49 33945
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CE,L
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <HT>B<DC1><EM>  <STX>f
+POCSAG1200: Address: 1032993  Function: 1  Alpha:   '<CAN>
+POCSAG1200: Address: 1089607  Function: 2  Alpha:   16:40-93 Please call 772565 many thanks
+POCSAG1200: Address: 1512691  Function: 3  Alpha:   <ACK>R
 POCSAG1200: Address:  880650  Function: 2  Alpha:   16:39-84 6800<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1638261221+++TIME=1638261221<NUL>
 POCSAG1200: Address: 1039284  Function: 3  Alpha:   5<LF>
@@ -981,20 +998,3 @@ POCSAG1200: Address:  356744  Function: 1  Alpha:   ^U
 POCSAG1200: Address: 1651520  Function: 3 
 POCSAG1200: Address:   59703  Function: 1  Alpha:   n+LNK
 POCSAG1200: Address:  815502  Function: 1  Alpha:   .U<DC1>Sa
-POCSAG1200: Address: 1852304  Function: 1 
-POCSAG1200: Address: 1071456  Function: 1  Alpha:   t$c<STX>2
-POCSAG1200: Address: 1877300  Function: 2 
-POCSAG1200: Address: 1590569  Function: 2 
-POCSAG1200: Address:   88801  Function: 0 
-POCSAG1200: Address:  914165  Function: 3 
-POCSAG1200: Address:  276668  Function: 1 
-POCSAG1200: Address: 1912931  Function: 2  Alpha:   3K
-POCSAG1200: Address:  547883  Function: 0  Alpha:   <SUB><ETX>
-POCSAG1200: Address: 1942432  Function: 2  Alpha:   >g'z<SYN><DLE>~,
-POCSAG1200: Address:  615625  Function: 2 
-POCSAG1200: Address: 1128243  Function: 2  Alpha:   Re
-POCSAG1200: Address:  340060  Function: 1 
-POCSAG1200: Address:  979303  Function: 1  Alpha:   dS
-POCSAG1200: Address: 1095857  Function: 0  Alpha:   (s
-POCSAG1200: Address:  160865  Function: 0 
-POCSAG1200: Address:  417989  Function: 2 
