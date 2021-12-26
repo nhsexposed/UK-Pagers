@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   r1<SUB>03-92 26/12
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2003261221+++TIME=2003261221<NUL>
+POCSAG2400: Address: 1323931  Function: 2  Alpha:   20:03-02 AMBER :  CSP RED LEVEL REVIEW CALL AT 20:30. PLEASE JOIN VIA TEAMS LINK. EOC SOUTH : BD<NUL>
+POCSAG1200: Address:  906765  Function: 3  Alpha:   #h
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  153192  Function: 2 
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   20:02-26 26/12/2021 19:59:10 INC 24882117 09E02 13 OAK BANK, WHINNEY HILL ROAD, HUNCOAT ACCRINGTON, BB5 6NR Male 73Y COLLAPSED GRD 376839 430555<NUL>
+POCSAG1200: Address: 2091641  Function: 0 
+POCSAG1200: Address: 1976691  Function: 2 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   20:00-59 Case ref 11276206 Fill in tick sheet
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:59-12 4462<NUL>
 POCSAG2400: Address: 1022474  Function: 0  Alpha:   19:58-02 Reminder steam controls remain in force
 POCSAG2400: Address:  549055  Function: 2  Alpha:   19:58-44 TEST PAGE<NUL><NUL>
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   19:58-60 26/12/2021 19:56:43 INC 24882101 04B03A 169 CUMBERLAND GATE, NETHERTON L30, L30 7PY Male 30Y 2 MALES FIGHTING GRD 336391 399577<NUL>
@@ -986,15 +998,3 @@ POCSAG1200: Address:  719136  Function: 1
 POCSAG1200: Address: 1745422  Function: 1 
 POCSAG1200: Address:   31931  Function: 0  Alpha:   I<ENQ>*QM
 POCSAG1200: Address:  401446  Function: 0  Alpha:   <LF>A
-POCSAG1200: Address: 1569504  Function: 2  Alpha:   v<ETB>
-POCSAG1200: Address:  110677  Function: 2  Alpha:   5y
-POCSAG1200: Address: 1146171  Function: 0 
-POCSAG1200: Address:  359784  Function: 0 
-POCSAG1200: Address: 1255112  Function: 2  Alpha:   <NAK>!
-POCSAG1200: Address:  175316  Function: 0  Alpha:   *<ENQ>rrn.z.
-POCSAG1200: Address:  288344  Function: 1 
-POCSAG1200: Address:  536835  Function: 2  Alpha:   D7
-POCSAG1200: Address:  366115  Function: 0  Alpha:   A]<SOH>%:<SO><STX>IQaaEMYa<VT><EM>Q<CR>BM<SOH>MM<SOH>I<ACK><DC2>NR><SO>.<STX>I><ACK><DC2>2<SOH><EM><ACK>&J<SUB><ACK>`,
-POCSAG1200: Address:  394741  Function: 0  Alpha:   <ESC>}
-POCSAG1200: Address:  793009  Function: 1 
-POCSAG1200: Address: 1652668  Function: 1 
