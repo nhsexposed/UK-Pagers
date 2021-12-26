@@ -1,3 +1,19 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328261221+++TIME=0328261221<NUL>
+POCSAG1200: Address: 1852904  Function: 3 
+POCSAG1200: Address:  918032  Function: 3 
+POCSAG1200: Address:  108090  Function: 0  Alpha:   03:28-07 PRIMARY PCI PLEASE CALL CCU ON EXT 3168 <NUL><NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   03:27-48 26/12/2021 03:20:13 INC 24878310 17D02 25 HUDLESTON ROAD, WAVERTREE L15, L15 7JS Female 36Y FALLEN DOWNSTAIRS GRD 339652 390086<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  216478  Function: 2  Alpha:   03:27-70 Got time for a survey?B <NUL>
+POCSAG1200: Address: 1312703  Function: 2  Alpha:   03:26-12 On Call Coordinator to contact Contro,bVoom on 01392 456726 x355026 regarding ongoing incident number 831 25122021 relating to male on a ledge (nature of incident) at 28 central park ave plymouth (Incident location)<NUL>
+POCSAG1200: Address: 1324219  Function: 2  Alpha:   03:26-37 On Call Coordinator to contact Control Room on 01392 456726 x355026 regarding ongoing incident number 831 25122021 relating to male on a ledge (nature of incident) at 28 central park ave plymouth (Incident location)<NUL>
+POCSAG1200: Address: 1324434  Function: 2  Alpha:   03:26-70 On Call Coordinator to contact Control Room on 01392 456726 x35506f2regarding ongoing incident number 831 25122021 relating to male on a ledge (nature of incident) at 28 central park ave plymouth (Incident location)<NUL>
+POCSAG1200: Address:  205603  Function: 2  Alpha:   03:26-51 Call 24878310 - Warning - Scene Unsafe. Contract Control for further advice.
+POCSAG1200: Address:  587795  Function: 3  Alpha:   b<SI>LHN
+POCSAG1200: Address:  175322  Function: 0  Alpha:   ,3
+POCSAG1200: Address: 1471106  Function: 1  Alpha:   H%
+POCSAG1200: Address: 1192848  Function: 2  Alpha:   <ACK>a
+POCSAG1200: Address:  548039  Function: 2  Alpha:   03:24-88 26/12/2021 03:20:13 INC 24878310 17D03 25@YKAfl2A<FF><ETX><EM><EM><VT><GS>A<BS><US>/
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323261221+++TIME=0323261221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1313125  Function: 2  Alpha:   03:19-19 03003000044
@@ -982,19 +998,3 @@ POCSAG1200: Address: 1190144  Function: 3
 POCSAG1200: Address:   80170  Function: 3  Alpha:   6r
 POCSAG1200: Address:  273040  Function: 3  Alpha:   11/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1765503  Function: 2  Alpha:   23:06-77 Sat Dec 25 23:06:43 UTC 2021 -- PROBLEM : fw1-tch-CPU-dataplane on fw1-tch is CRITICAL (Critical - the dataplane is 96)
-POCSAG1200: Address:  987049  Function: 2  Alpha:   23:06-68 25/12/2021 23:01:00 INC 24877210 31D03 O/S ON ROAD, 1 CHURCH MANSIONS, TITHEBARN STREET, POULTON LE FYLDE, FY6 7BX Male 60Y UNCONS IN MIDDLE OF ROAD GRD 334648 439580<NUL><NUL>
-POCSAG1200: Address:  930489  Function: 2  Alpha:   23:06-91 25/12/2021 23:01:37 INC 24877213 17D05 45 WHIMBERRY CLOSE, ORDSALL SALFORD, M5 3WL Male 21Y FALLEN HEAD INJURY GRD 381976 397389
-POCSAG1200: Address:  334075  Function: 2  Alpha:   23:06-88 25/12/2021 23:01:37 INC 24877213 17D05 45 WHIMBERRY CLOSE, ORDSALL SALFORD, M5 3WL Male 21Y FALLEN HEAD INJURY GRD 381976 397389
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:06-49 25/12/2021 23:01:37 INC 24877213 17D05 45 WHIMBERRY CLOSE, ORDSALL SALFORD, M5 3WL Male 21Y FALLEN HEAD INJURY GRD 381976 397389
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:05-50 4312<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   23:04-58 4313<NUL>
-POCSAG1200: Address:  548039  Function: 2  Alpha:   23
-POCSAG1200: Address: 1312645  Function: 2  Alpha:   23:04-46 Stop Message received for Incident 2112008598;  [STOP] 25/12/21 23:04:42 STOP MESSAGE RECEIVED FROM G23P1 (OIC 31409 IN G23P1)<NUL><NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   23:04-13 3164<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:04-31 4312<NUL>
-POCSAG2400: Address:  583459  Function: 2  Alpha:   23:04-12 80300
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2303251221+++TIME=2303251221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2303251221+++TIME=2303251221<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
-POCSAG2400: Address:  583534  Function: 2  Alpha:   23:02-70 80300
-POCSAG2400: Address: 1322526  Function: 2  Alpha:   23:02-24 80300
