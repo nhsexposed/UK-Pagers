@@ -1,3 +1,11 @@
+POCSAG1200: Address: 2029302  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1171368  Function: 1 
+POCSAG1200: Address: 1312592  Function: 2  Alpha:   14:12-37 NOTIFY - PLEASE CONTACT CONTROL WHEN CONVENIENT - THANK YOU
+POCSAG1200: Address: 1092710  Function: 2  Alpha:   14:12-00 26/12/2021 14:07:40 INC 24880476 NEAR CROSS BARN LANE, MOOR LANE, INCE BLUNDELL L38, L38 6JQ Female UnknownY RTC GRD 332051 403477<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   14:11-33 4167<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DLE>,H<FF>T<EOT>2f
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:10-78 1553<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   14:09-76 2183<NUL>
 POCSAG1200: Address:  589824  Function: 1 
 POCSAG1200: Address:    1496  Function: 2 
@@ -990,11 +998,3 @@ POCSAG2400: Address:  233010  Function: 0
 POCSAG2400: Address: 1581095  Function: 1 
 POCSAG2400: Address:  958549  Function: 0 
 POCSAG1200: Address: 1032674  Function: 3  Alpha:   <DC2>CY,L
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:39-65 2097<NUL>
-POCSAG2400: Address: 1814968  Function: 0  Alpha:   12:39-56 4315<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1238261221+++TIME=1238261221<NUL>
-POCSAG1200: Address: 1925646  Function: 0 
-POCSAG1200: Address:   76363  Function: 1 
-POCSAG1200: Address: 1520750  Function: 1 
-POCSAG1200: Address:  323984  Function: 1  Alpha:   nM
-POCSAG1200: Address: 1618752  Function: 3 
