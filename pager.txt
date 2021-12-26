@@ -1,3 +1,15 @@
+POCSAG1200: Address:  585254  Function: 2  Alpha:   04:14-94 Icespy alarm Sensor: SMH Freezer (New), Alert Group: On call<CR><LF>Site: Bristol Royal Infirmary<CR><LF>Sensor: SMH Freezer (New)<CR><LF>Sensor S/N: 00023960<CR><LF>Channel: 1<CR><LF>Parameter: Temperature<CR><LF>Reading: -14.90 C<CR><LF>Alarm Type: High Alarm<CR><LF>Alarm Level: -15.00<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413261221+++TIME=0413261221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234<NAK>61890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1534235  Function: 2  Alpha:   04:12-39 DUTY FI TO CONTACT CONTROL<NUL><NUL>
+POCSAG1200: Address: 1534139  Function: 2  Alpha:   04:12-16 DUTY FI TO CONTACT CONTROL<NUL><NUL>
+POCSAG1200: Address: 1534179  Function: 2  Alpha:   04:12-99 DUTY FI TO CONTACT CONTROL<NUL><NUL>
+POCSAG1200: Address: 1534251  Function: 2  Alpha:   04:12-62 DUTY FI TO CONTACT CONTROL<NUL><NUL>
+POCSAG1200: Address: 1188727  Function: 0 
+POCSAG1200: Address: 1534176  Function: 2  Alpha:   04:12-12 DUTY FI TO CONTACT CONTROL<NUL><NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   04:10-56 26/12/2021 04:09:17 INC 24878456 06E01 63 DAMWOOD ROAD, SPEKE L24, L24 0TD Female 29Y ASTHMA ATTACK GRD 343692 382858<NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:09-64 4155<NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:09-69 4935<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0408261221+++TIME=0408261221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0408261221+++TIME=0408261221<NUL>
@@ -986,15 +998,3 @@ POCSAG1200: Address:  216380  Function: 2  Alpha:   23:12-21 PLEASE CALL ANTHONY
 POCSAG1200: Address: 1058476  Function: 2  Alpha:   23:10-00 25/12/2021 23:10:37 INC 24877262 25D03 21 QUEEN STREET, GLOSSOP, SK13 8EL Male 53 ?PHYSCHOTIC, EPISODE, SHOUTING FOR HELP GRD 402716 393922
 POCSAG2400: Address: 1322173  Function: 2  Alpha:   23:10-22 Leo Guo; 778 319 8066;This is an experimental paging.;EOM December 25, 2021 at 11:09PM<NUL><NUL>
 POCSAG2400: Address: 1323640  Function: 2  Alpha:   23:09-92 0163343<NUL>
-POCSAG1200: Address: 1712191  Function: 1 
-POCSAG1200: Address: 1958414  Function: 0  Alpha:   q<ESC>
-POCSAG1200: Address:  109131  Function: 1 
-POCSAG1200: Address: 1552486  Function: 0 
-POCSAG1200: Address:  354736  Function: 1  Alpha:   ^A
-POCSAG1200: Address: 1651520  Function: 3 
-POCSAG1200: Address:   59699  Function: 2  Alpha:   n+LNK
-POCSAG1200: Address: 1862066  Function: 1  Alpha:   .A<EM>Sa
-POCSAG1200: Address: 1858480  Function: 0 
-POCSAG1200: Address:   91657  Function: 1  Alpha:   fhlhp@hfrjp`<NUL><NUL>
-POCSAG1200: Address:  148966  Function: 0  Alpha:   Qt
-POCSAG1200: Address:  602040  Function: 0 
