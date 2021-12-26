@@ -1,3 +1,29 @@
+POCSAG1200: Address:  340147  Function: 0  Alpha:   13:14-67 264226<NUL><NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1313261221+++TIME=1313261221<NUL>
+POCSAG1200: Address: 1925527  Function: 2  Alpha:   13:13-45 26/12/2021 13:10:45 INC 24880254 09E01 7 PINFOLD COURT, PARK LANE WHITEFIELD MANCHESTER, M45 7NZ Unknown UnknownY COLD - NOT RESPONDING - EYES ARE HALF OPEN GRD 380368 405652<NUL><NUL>
+POCSAG1200: Address:  618313  Function: 3  Alpha:   <SYN>f
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   13:11-52 3104<NUL>
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   13:11-46 4!39<NUL>
+POCSAG1200: Address:  312672  Function: 0  Alpha:   13:10-51 26/12/2021 13:08:18 INC 24880234 17D04G 20 BROOK STREET, LOWTON WARRINGTON, WA3 1AY Male 76Y VASCULAR PROBLEMS - CANT WEIGHT BARE GRD 363247 398157<NUL>
+POCSAG1200: Address:  265333  Function: 0 
+POCSAG1200: Address:  265354  Function: 0 
+POCSAG1200: Address: 1039274  Function: 0 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   13:10-96 3298<NUL>
+POCSAG1200: Address:  265350  Function: 0 
+POCSAG1200: Address:  265350  Function: 0 
+POCSAG1200: Address:  618357  Function: 0 
+POCSAG1200: Address:  265333  Function: 0 
+POCSAG1200: Address:  265354  Function: 0 
+POCSAG1200: Address: 1039274  Function: 0 
+POCSAG1200: Address: 1039249  Function: 0 
+POCSAG1200: Address: 1039249  Function: 0 
+POCSAG1200: Address:  618357  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   13:09-10 2186<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   13:09-50 3104<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   13:09-75 4387<NUL>
 POCSAG1200: Address: 2083970  Function: 3 
 POCSAG2400: Address: 1129808  Function: 3  Alpha:   <FS>L
@@ -972,29 +998,3 @@ POCSAG2400: Address: 1682611  Function: 3  Alpha:   r@
 POCSAG2400: Address: 1449041  Function: 2  Alpha:   d<SO><BEL>L.
 POCSAG2400: Address:     580  Function: 2  Alpha:   <FF><NUL>
 POCSAG2400: Address:  384008  Function: 0 
-POCSAG2400: Address:       3  Function: 0 
-POCSAG2400: Address:    1552  Function: 1 
-POCSAG2400: Address: 1021904  Function: 2 
-POCSAG2400: Address:     253  Function: 1 
-POCSAG2400: Address:  655362  Function: 0 
-POCSAG2400: Address: 1323103  Function: 2  Alpha:   11:33-15 NH
-POCSAG2400: Address: 1320153  Function: 2  Alpha:   11:33-39 NHSBT - DONOR REFERRAL. Please call Sister Jane Watson on Direct Dial Number 01642 282 680 Hospital James Cook University Hospital, Middlesbrough Dept ICU 2 . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address:  517337  Function: 1 
-POCSAG1200: Address:  345778  Function: 2  Alpha:   11:33-40 26/12/2021 11:29:19 INC 24879830 31D02 THE OWL HOUSE, 2 BROWGATE, SAWLEY CLITHEROE, BB7 4NB Female 80Y UNRESPONSIVE GRD 377717 445954
-POCSAG1200: Address: 1318908  Function: 2  Alpha:   11:33-09 26/12/2021 11:29:19 INC 24879830 31D02 THE OWL HOUSE, 2 BROWGATE, SAWLEY CLITHEROE, BB7 4NB Female 80Y UNRESPONSIVE GRD 377717 445954
-POCSAG1200: Address:  209785  Function: 2  Alpha:   11:33-02 26/12/2021 11:29:19 INC 24879830 31D02 THE OWL HOUSE, 2 BROWGATE, SAWLEY CLITHEROE, BB7 4NB Female 80Y UNRESPONSIVE GRD 377717 445954
-POCSAG1200: Address:  214093  Function: 2  Alpha:   11:33-86 26/12/2021 11:29:19 INC 24879830 31D02 THE OWL HOUSE, 2 BROWGATE, SAWLEY CLITHEROE, BB7 4NB Female 80Y UNRESPONSIVE GRD 377717 445954
-POCSAG1200: Address:  273040  Function: 3  Alpha:   12/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
