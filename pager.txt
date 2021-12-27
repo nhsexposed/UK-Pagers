@@ -1,3 +1,18 @@
+POCSAG1200: Address:  906666  Function: 0 
+POCSAG1200: Address:  435600  Function: 2  Alpha:   11:29-58 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1128271221+++TIME=1128271221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1128271221+++TIME=1128271221<NUL>
+POCSAG1200: Address:  420485  Function: 3  Alpha:   F<DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1323899  Function: 2  Alpha:   11:28-29 2427<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   11:28-36 4157<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   11:28-21 27/12/2021 11:23:34 INC 24886007 01C06 28 GEORGE MOORE COURT, THORNTON L23, L23 1ZD Female 84Y SUB CALL - PAIN ABDO GRD 334035 400739
+POCSAG2400: Address:   28899  Function: 0  Alpha:   11:27-64 4935<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   11:27-44 27/12/2021 11:25:29 INC 24886016 06D02 112 ANYON STREET, DARWEN, BB3 3AQ Female 62Y DIB GRD 369935 422906
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   11:27-36 4684<NUL>
+POCSAG1200: Address:  216338  Function: 2  Alpha:   11:27-74 Destination: Parking\D78 Ext TP, Booking Ref#: 807710, Vehicle: CJ50DNG. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF><NUL><NUL>
+POCSAG2400: Address: 1323880  Function: 2  Alpha:   11:25-98 5204<NUL>
+POCSAG1200: Address:  906666  Function: 0 
 POCSAG2400: Address:   28894  Function: 0  Alpha:   11:24-19 2183<NUL>
 POCSAG1200: Address:  549784  Function: 2  Alpha:   11:24-81 ~TEST MESSAGE
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1123271221+++TIME=1123271221<NUL>
@@ -983,18 +998,3 @@ POCSAG1200: Address:  373120  Function: 1  Alpha:   >E
 POCSAG1200: Address: 1667904  Function: 3 
 POCSAG1200: Address:   76083  Function: 3  Alpha:   <RS>+LnK
 POCSAG1200: Address: 1880450  Function: 1  Alpha:   nE<EM>sA
-POCSAG1200: Address: 1609896  Function: 2 
-POCSAG1200: Address: 1948130  Function: 3  Alpha:   .f#K<VT><ACK><VT>dXX<EM>HY<BS>d<CAN>HIYh<HT>t(J<BS>46<SYN>G<ACK>V<ACK>4<SYN>7v&<SYN><BEL>
-POCSAG1200: Address: 1068452  Function: 3 
-POCSAG1200: Address: 1412521  Function: 2 
-POCSAG1200: Address: 1705316  Function: 3  Alpha:   <CAN>9
-POCSAG1200: Address:  420130  Function: 1  Alpha:   <EM>&
-POCSAG1200: Address:  857322  Function: 1 
-POCSAG1200: Address: 1220841  Function: 0 
-POCSAG1200: Address: 1927337  Function: 3 
-POCSAG1200: Address: 1460278  Function: 0  Alpha:   <BS><EOT><VT><SUB>IMHU
-POCSAG1200: Address: 1843249  Function: 1 
-POCSAG1200: Address:  258470  Function: 0 
-POCSAG1200: Address: 1810525  Function: 0 
-POCSAG1200: Address: 1395619  Function: 2 
-POCSAG1200: Address:  362364  Function: 2 
