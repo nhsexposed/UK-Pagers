@@ -1,3 +1,24 @@
+POCSAG2400: Address:   28895  Function: 0  Alpha:   16:19-99 5128<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1618271221+++TIME=1618271221<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   16:18-52 2182<NUL>
+POCSAG2400: Address:   33859  Function: 2  Alpha:   16:18-12 please call Dr Ali on AAU on 2249
+POCSAG1200: Address:  553838  Function: 3  Alpha:   &P
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   16:18-81 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:17-89 5202<NUL>
+POCSAG1200: Address: 1761317  Function: 3  Alpha:   U<LF>
+POCSAG2400: Address: 1321021  Function: 2  Alpha:   16:16-02 3510<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   16:16-51 4387<NUL>
+POCSAG1200: Address: 1321566  Function: 2  Alpha:   16:17-62 CONTACT DVH SWITCHBOARD <NUL>
+POCSAG1200: Address:  600665  Function: 0  Alpha:   16:16-84 696955<NUL><NUL>
+POCSAG1200: Address: 1092762  Function: 2 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   16:15-80 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   16:15-47 27/12/2021 16:12:38 INC 24887462 24C03 17 LINACRE LANE, BOOTLE L20, L20 5AG Female 22Y PAIN- VOMITING-PREGNANT ABDO PAIN GRD 334267 396261<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:15-72 27/12/2021 16:12:38 INC 24887462 24C03 17 LINACRE LANE, BOOTLE L20, L20 5AG Female 22Y PAIN- VOMITING-PREGNANT ABDO PAIN GRD 334267 396261<NUL>
+POCSAG1200: Address: 1761317  Function: 3  Alpha:   <ACK>M
+POCSAG2400: Address: 1032271  Function: 0 
+POCSAG2400: Address:   28894  Function: 0  Alpha:   16:14-26 2180<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1613271221+++TIME=1613271221<NUL>
 POCSAG1200: Address:  420484  Function: 3  Alpha:   <DLE>,H<FF><DC2>30f
 POCSAG1200: Address:  269059  Function: 2  Alpha:   16:12-34 27/12/2021 16:02:36 INC 24887410 09D01 14 ROSEWOOD CLOSE, STOCKBRIDGE VILLAGE L28, L28 5RU Female 27Y VOMITING-BLOOD SUGARS 2.6-NOT RESPONDING GRD 342911 393417<NUL><NUL>
@@ -977,24 +998,3 @@ POCSAG2400: Address:  814468  Function: 1  Alpha:   Ik<ESC>TK
 POCSAG2400: Address: 1061264  Function: 3 
 POCSAG2400: Address: 1213409  Function: 2  Alpha:   E<ACK><STX><VT>%%<ETX><EM>]@ YKCgKAFCYYA&<DC3>')<VT>%A&<ETX>%<ETX><DC1>A&<ESC><DC3>)<DC1>A^]A<BS>SeK<BEL><DLE>S
 POCSAG2400: Address:  305570  Function: 1  Alpha:   <ENQ>dJiy
-POCSAG2400: Address:  564591  Function: 1 
-POCSAG2400: Address: 1944883  Function: 2  Alpha:   l 
-POCSAG2400: Address:  288292  Function: 2  Alpha:   ;Y<HT>"fC&O
-POCSAG2400: Address: 1579064  Function: 1 
-POCSAG2400: Address: 1292323  Function: 2  Alpha:   um\z.
-POCSAG2400: Address: 1007759  Function: 0  Alpha:   ;;
-POCSAG2400: Address:  422549  Function: 2  Alpha:   (%
-POCSAG2400: Address:  942359  Function: 1 
-POCSAG2400: Address: 1510894  Function: 2 
-POCSAG2400: Address: 1839537  Function: 0 
-POCSAG2400: Address:  535032  Function: 1  Alpha:   <FS><FS>B<<EM>h8<CAN><ESC><ESC>h4r<DC4>5Q<DC4>h4P4<DLE><DC2>h43<DC2><NAK><DC2>h[C<CAN>[]<K
-POCSAG2400: Address:  628720  Function: 2 
-POCSAG2400: Address: 1354164  Function: 3 
-POCSAG2400: Address: 1213281  Function: 2  Alpha:   Ef
-POCSAG2400: Address:  305442  Function: 1  Alpha:   <ENQ>$JiY
-POCSAG2400: Address:  564463  Function: 1 
-POCSAG2400: Address: 1944755  Function: 0  Alpha:   p@
-POCSAG2400: Address:    8235  Function: 0  Alpha:   A<SOH>Z<SOH>@J'b!S+
-POCSAG2400: Address: 1683883  Function: 1  Alpha:   ~A<GS>{I
-POCSAG2400: Address:  622704  Function: 0 
-POCSAG2400: Address:  135224  Function: 1 
