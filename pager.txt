@@ -1,3 +1,10 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0503271221+++TIME=0503271221<NUL>
+POCSAG2400: Address: 2089010  Function: 2 
+POCSAG512: Address: 1976933  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:  549112  Function: 2  Alpha:   04:59-84 KTS TIME - Donor: 153502, Hospital: NSECH, HA1116, DOB: 17/12/1970 - KTS: 04:55
+POCSAG2400: Address:  549106  Function: 2  Alpha:   04:59-85 KTS TIME - Donor: 153502, Hospital: NSECH, HA1116, DOB: 17/12/1970 - KTS: 04:55
 POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:   28904  Function: 0  Alpha:   04:57-62 5082<NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   04:56-96 27/12/2021 04:49:57 INC 24884446 31E01 29 VENTURE SCOUT WAY, CHEETHAM HILL MANCHESTER(uM8 8SY Female 24Y FEVER COLLAPSED GRD 383711 400514<NUL>
@@ -991,10 +998,3 @@ POCSAG2400: Address:  866747  Function: 0  Alpha:   <DC3><SI>
 POCSAG2400: Address:  827749  Function: 0  Alpha:   j[Rui
 POCSAG2400: Address: 1881906  Function: 3 
 POCSAG2400: Address:  899761  Function: 1 
-POCSAG2400: Address: 1158556  Function: 0 
-POCSAG2400: Address: 1797658  Function: 1 
-POCSAG2400: Address:  468455  Function: 2  Alpha:   <ESC>;
-POCSAG2400: Address: 1322970  Function: 2  Alpha:   00:04-95 HDU 8252
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0003271221+++TIME=0003271221<NUL>
-POCSAG512: Address: 2002624  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
