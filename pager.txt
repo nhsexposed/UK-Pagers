@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0428271221+++TIME=0428271221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0428271221+++TIME=0428271221<NUL>
+POCSAG1200: Address:  674487  Function: 0  Alpha:   $ELt<<EOT><STX><NAK>}<DC4>d,l<FS><ENQ>:<DC4>%<EOT><SUB>#<ESC><DC3><ESC>;<ETX>"3<ESC><DC3><ESC>K<ETX><NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   04:27-52 33813
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1534145  Function: 2  Alpha:   04:25-00 CONTACT CONTROL<NUL>
+POCSAG1200: Address:  346010  Function: 0  Alpha:   04:25-98 27/12/2021 04:18:18 INC 24884358 06E01 1 CHARLESTON COURT, BAMBER BRIDGE, PR5 6XH Female 78Y 78 YO F - DIZZY/ALMOST FAINTED GETTING OUT OF BED GRD 356346 426575<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423271221+++TIME=0423271221<NUL>
 POCSAG2400: Address: 1980081  Function: 0 
 POCSAG2400: Address: 1322970  Function: 2  Alpha:   04:22-97 IP1 8013
@@ -991,10 +998,3 @@ POCSAG1200: Address:  602288  Function: 3
 POCSAG1200: Address:  760993  Function: 1 
 POCSAG1200: Address: 1152627  Function: 0  Alpha:   b<NUL>
 POCSAG1200: Address:  270376  Function: 0  Alpha:   <EM><GS>
-POCSAG1200: Address: 1700672  Function: 3 
-POCSAG1200: Address: 1868143  Function: 0 
-POCSAG1200: Address: 1386930  Function: 1  Alpha:   ^Q<NAK>ka
-POCSAG1200: Address:   69648  Function: 0 
-POCSAG1200: Address: 1040477  Function: 0  Alpha:   <FF><LF><ACK>7<BS>
-POCSAG1200: Address:  914833  Function: 1 
-POCSAG1200: Address:  766768  Function: 3 
