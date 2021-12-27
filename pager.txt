@@ -1,3 +1,28 @@
+POCSAG1200: Address: 1770639  Function: 0  Alpha:   9<BS>V<EM>L
+POCSAG1200: Address: 1013917  Function: 2  Alpha:   16:34-69 PIN 12443 - PLS CALL DSCC ON 03457 500 620 <NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   16:33-30 2343<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1633271221+++TIME=1633271221<NUL>
+POCSAG1200: Address:  916118  Function: 2  Alpha:   16:33-01 call balfour switch
+POCSAG2400: Address: 1254794  Function: 0 
+POCSAG1200: Address:    1973  Function: 2  Alpha:   16:33-63 Confirmed Primary Angioplasty,  in green resus now, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
+POCSAG1200: Address:  334328  Function: 2  Alpha:   16:33-61 Confirmed Primary Angioplasty,  in green resus now, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
+POCSAG1200: Address:    4252  Function: 2  Alpha:   16:33-06 ConfirMmd Primary Angioplasty,  in green resus now, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
+POCSAG1200: Address:  290371  Function: 2  Alpha:   16:33-32 Confirmed Primary Angioplasty,  in green resus now, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1322169  Function: 2  Alpha:   16:33-32 TEST PAGE  PLS RESPOND <NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address:  363476  Function: 1  Alpha:   9<HT><EOT>y9<LF><LF><EOT>
+POCSAG1200: Address: 1509880  Function: 2  Alpha:   16:32-01 27/12/2021 16:31:45 INC 24887550 09E03 120 HARDYBUTTS, HIGHER INCE WIGAN, WN1 3NE hanging GRD 359073 405490<NUL>
+POCSAG1200: Address:  548039  Function: 2  Alpha:   16:32-50 27/12/2021 16:31:45 INC 24887550 09E03 120 HARDYBUTTS, HIGHER INCE WIGAN, WN1 3NE hanging GRD 359073 405490<NUL>
+POCSAG1200: Address: 1092762  Function: 2  Alpha:   16:32-50 27/12/2021 16:30:12 INC 24887544 31E01 12 ARDENNES ROAD, HUYTON L36, L36 7UF Female 85Y PASSED OUT, COVID POSITIVE GRD 344143 391415<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:32-76 27/12/2021 16:30:12 INC 24887544 31E01 12 ARDENNES ROAD, HUYTON L36, L36 7UF Female 85Y PASSED OUT, COVID POSITIVE GRD 344143 391415<NUL>
+POCSAG2400: Address:  549389  Function: 2  Alpha:   16:32-33 07832003077 - 07919888655 - Mrs Louise Seddon : Brook Cottage Farm Furneux Pelham Buntingford Hertfordshire SG9 0LL Horse Mallow Calling from Brook Cottage Farm Riding School<LF>had colic yesterday <LF>Just calling with a update on trea
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   16:31-51 4179<NUL>
+POCSAG2400: Address: 1913768  Function: 2  Alpha:   16:32-99 2343<NUL>
+POCSAG1200: Address:  336140  Function: 2  Alpha:   16:31-59 27/12/2021 16:29:19 INC 24887543 31E01 PITCH 11, NORTHSIDE CARAVAN PARK, NORTH ROAD, CARNFORTH, LA6 1AA Male 75Y ON THE FLOOR GRD 351276 471418<NUL><NUL>
+POCSAG1200: Address:  940431  Function: 2  Alpha:   16:31-27 27/12/2021 16:29:19 INC 24887543 31E01 PITCH 11, NORTHSIDE CARAVAN PARK, NORTH ROAD, CARNFORTH, LA6 1AA Male 75Y ON THE FLOOR GRD 351276 471418<NUL><NUL>
+POCSAG1200: Address: 1991289  Function: 0 
+POCSAG1200: Address: 1770639  Function: 0  Alpha:   9<BS>VaL
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1628271221+++TIME=1628271221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1628271221+++TIME=1628271221<NUL>
 POCSAG2400: Address: 1814983  Function: 2  Alpha:   16:28-95 Please call Morgan Marsh regarding Richard Marsh on 07508457198 OR 01273832083<NUL>
@@ -973,28 +998,3 @@ POCSAG2400: Address: 1263220  Function: 1
 POCSAG2400: Address:  380516  Function: 0 
 POCSAG2400: Address: 1059379  Function: 1 
 POCSAG2400: Address: 1272355  Function: 3 
-POCSAG2400: Address:  736307  Function: 1  Alpha:   <DLE>u
-POCSAG2400: Address:  320120  Function: 2  Alpha:   lC
-POCSAG2400: Address:  817715  Function: 0  Alpha:   D-nPH
-POCSAG2400: Address:   12399  Function: 0 
-POCSAG2400: Address:  535032  Function: 1  Alpha:   <FS><FS>B<<EM>h8<CAN><ESC><ESC>h4r<DC4>5Q<DC4>h4P4<DLE><DC2>h43<DC2><NAK><DC2>h[<ESC><BS>1Z<y<CAN><GS><BS>1:<CAN><ESC>H3=[<BS>p2
-POCSAG2400: Address:  628720  Function: 2 
-POCSAG2400: Address: 1354164  Function: 3 
-POCSAG2400: Address:  305442  Function: 1  Alpha:   <ENQ>$JiY
-POCSAG2400: Address:  564463  Function: 1 
-POCSAG2400: Address: 1637120  Function: 2  Alpha:   li.<ACK>G*<BS>c!S+
-POCSAG2400: Address: 1210403  Function: 2  Alpha:   %m\R.
-POCSAG2400: Address:  925839  Function: 0  Alpha:   K;
-POCSAG2400: Address: 1061776  Function: 1 
-POCSAG2400: Address:  160438  Function: 2  Alpha:   6Q/9`C<CAN>K<ESC><DLE>%[<CAN><SUB><SUB><SUB><CR><EM>PEwyF4z/6xj,"PHENSHAWE HOSPITAL, MANCHESTER Dept I<ETX>Ui/ Rega
-POCSAG2400: Address: 1510574  Function: 2 
-POCSAG2400: Address: 1839217  Function: 0 
-POCSAG2400: Address: 2026086  Function: 2 
-POCSAG2400: Address:  651354  Function: 3 
-POCSAG2400: Address:  763264  Function: 1  Alpha:   4!S|I
-POCSAG2400: Address: 1140113  Function: 3 
-POCSAG2400: Address: 1246463  Function: 0  Alpha:   06fL&<SO>u<SYN>
-POCSAG2400: Address:  534712  Function: 1  Alpha:   <FS>\
-POCSAG2400: Address:  628400  Function: 2 
-POCSAG2400: Address: 1353844  Function: 3 
-POCSAG2400: Address: 1212961  Function: 2  Alpha:   E<ACK>
