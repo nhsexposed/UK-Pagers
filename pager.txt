@@ -1,3 +1,10 @@
+POCSAG1200: Address:   22104  Function: 2  Alpha:   03:54-68 27/12/2021 03:43:37 INC 24884221 23C02A WHARF END, TRAFFORD PARK MANCHESTER, M17 1
+POCSAG1200: Address:  106110  Function: 2  Alpha:   03:53-35 27/12/2021 03:06:30 INC 24884077 17A09$22 LOXLEY GARDENS, BURNLEY, BB12 6PW Male 29Y FALLEN GRD 380714 432868<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B{$side 12345678901234567890
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   03:52-00 PLEASE CALL STEPH AT QEQM ON 7253240
+POCSAG2400: Address:  434739  Function: 0 
+POCSAG2400: Address:   28897  Function: 0  Alpha:   03:50-43 4160<NUL>
 POCSAG1200: Address: 1606198  Function: 0 
 POCSAG1200: Address: 1312437  Function: 2  Alpha:   03:48-83 NGH - Adult Cardiac Arrest A&E Resus at 0347hrs<NUL>
 POCSAG1200: Address: 1534246  Function: 2  Alpha:   03:48-57 CONTACT CONTROL<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address:  604679  Function: 2
 POCSAG1200: Address: 1878049  Function: 0  Alpha:   b[
 POCSAG1200: Address:  157773  Function: 2 
 POCSAG1200: Address:  553672  Function: 0 
-POCSAG1200: Address: 1975926  Function: 1 
-POCSAG1200: Address: 1594901  Function: 2  Alpha:   23:46-57 TESTING EMERGENCY LINES, PLEASE DIAL 222<NUL><NUL>
-POCSAG1200: Address:  598048  Function: 3  Alpha:   t,<FS>e<STX><STX>e,<FF><FS>-<EOT>"L<FF>d<EOT><DC2><DC3><DC3><ETX><NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:46-91 4935<NUL>
-POCSAG1200: Address:  548160  Function: 2  Alpha:   23:46-55 2505<NUL>
-POCSAG1200: Address:   24706  Function: 1  Alpha:   <DLE><US>)<VT><EM>Y@<SO><ETX>%'/<US><US><HT>A<RS><EM><HT>A$<US><ETX><HT>Y@<ACK><ETX>%%A<SUB><DC3><EM><EM>A&)A<DLE><VT><EM><VT><GS>'A.<ETX>cbX@.<ETX>cb@n<CAN>1A<FF>K[CYKAfb2A -A<EOT><EM><VT><VT><HT>A<SO>%<HT>Afjdh`l@frnlfr<NUL><NUL>
-POCSAG1200: Address: 2059424  Function: 1 
