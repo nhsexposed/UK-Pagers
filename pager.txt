@@ -1,3 +1,10 @@
+POCSAG1200: Address: 2019950  Function: 0 
+POCSAG1200: Address: 2077968  Function: 2  Alpha:   bulance Control<NUL><NUL>
+POCSAG1200: Address: 1485412  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0213271221+++TIME=0213271221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1245215  Function: 0  Alpha:   JJY<BS>4J*ZXHJ<ENQ>dy)J<LF>y<SUB>9<BS><HT>4x<LF>G<ENQ>4x<LF><BEL><DC4><SYN>(<BS>T<EM>L]<FF>4V<SYN><VT>4<EM>98YH<BS><DC4>i<HT><EOT>Y<CAN>H<BS>t(J<BS>4fVf&<ACK><ACK>4v6<ACK>Gv<ACK>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   02:10-80 27/12/2021 02:06:16 INC 24883853 06E01 17 WARPERS MOSS CLOSE, BURSCOUGH, L40 4LQ Male 43Y STRUGG TO BREATH - ASTHMA GRD 344534 412406
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0208271221+++TIME=0208271221<NUL>
 POCSAG1200: Address: 1022198  Function: 2  Alpha:   02:06-88
 POCSAG1200: Address:       0  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address:  602352  Function: 3
 POCSAG1200: Address:  761057  Function: 1 
 POCSAG1200: Address: 1652260  Function: 0  Alpha:   K<FF>L,<FF>HlLnLM<SO>-<SO>
 POCSAG1200: Address: 1158579  Function: 3  Alpha:   j`Kl~
-POCSAG1200: Address:  875886  Function: 0  Alpha:   <EM>}
-POCSAG1200: Address:    3392  Function: 2 
-POCSAG1200: Address: 1669175  Function: 1  Alpha:   ><CR>
-POCSAG1200: Address:   95854  Function: 0 
-POCSAG1200: Address:  469708  Function: 2 
-POCSAG1200: Address:  866723  Function: 1 
-POCSAG1200: Address: 1370242  Function: 1 
