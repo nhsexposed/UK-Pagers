@@ -1,3 +1,9 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  958546  Function: 0 
+POCSAG1200: Address: 1276082  Function: 1  Alpha:   <ACK><SYN><ACK>F<ACK>
+POCSAG1200: Address:  290371  Function: 2  Alpha:   01:55-30 Confirmed Primary Angioplasty, ETA  20  Mins, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL><NUL>
+POCSAG1200: Address:  360002  Function: 0  Alpha:   01:55-65 27/12/2021 01:53:23 INC 24883814 09E01 8 COLLINGWOOD, CLAYTON LE MOORS, BB5 5QP Female 51Y CARDIAC ARREST GRD 374267 430870<NUL><NUL>
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   01:55-41 27/12/2021 01:49:13 INC 24883799 10D05 THE GALLEON BAR, 68-70 ABINGDON STREET, BLACKPOOL, FY1 1NH Male 57Y CHEST PAIN NUMBNESS LEFT ARM GRD 330792 436482
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153271221+++TIME=0153271221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:52-03 2182<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address:  944551  Function: 3
 POCSAG1200: Address: 1719168  Function: 3 
 POCSAG1200: Address: 1451360  Function: 3 
 POCSAG1200: Address:   69605  Function: 0 
-POCSAG1200: Address: 1981281  Function: 3  Alpha:   <ETX>z<STX><FS>5
-POCSAG1200: Address:  668460  Function: 2  Alpha:   e-
-POCSAG1200: Address: 1680114  Function: 3  Alpha:   <ACK>%
-POCSAG1200: Address:  779509  Function: 0 
-POCSAG1200: Address: 1745492  Function: 0 
-POCSAG1200: Address:  764245  Function: 1  Alpha:   :C
