@@ -1,3 +1,13 @@
+POCSAG1200: Address:  352586  Function: 2  Alpha:   17:59-66 3991<NUL>
+POCSAG1200: Address: 1067656  Function: 3 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   17:58-33 4157<NUL>
+POCSAG1200: Address: 1761331  Function: 3  Alpha:   6<DC2><NUL>aL
+POCSAG2400: Address:   28894  Function: 0  Alpha:   17:57-32 4155<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   17:56-54 43<ETB>9<EOT>
+POCSAG1200: Address:  472480  Function: 2  Alpha:   I<SYN><ACK>T<SYN>H<LF>T<EM>L]<FF>4F<SYN><VT>4Z<SUB>9<CAN>I<CAN>H<HT>D<LF>yYz<BS>I:<LF>t(J<BS>46&fVf<ACK>4<ACK><ETB><BEL><SYN><ACK><BEL><NUL><NUL>
+POCSAG1200: Address: 1226887  Function: 2  Alpha:   !A(<US>/<GS>A<DLE><ETX><EM><EM>Y@<DLE><ETX><ESC><DC3><EM>)<US><GS>A&#+<ETX>%<VT>Y@<EOT><DC3>%<ETB><VT><GS><DC1><VT><ETX><HT>A<ACK><DC1>ibX@<ACK>
+POCSAG1200: Address: 2011892  Function: 0 
+POCSAG2400: Address:  549033  Function: 2  Alpha:   17:55-51 6114<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1753271221+++TIME=<DLE><13271221<NUL>
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   17:53-53 Please call Mary Ray ward on 37428.<NUL>
 POCSAG1200: Address:  600915  Function: 0 
@@ -988,13 +998,3 @@ POCSAG1200: Address:  328892  Function: 0
 POCSAG1200: Address: 1691750  Function: 3  Alpha:   <ENQ>F
 POCSAG1200: Address: 1187894  Function: 0  Alpha:   d<STX>n@F
 POCSAG1200: Address:  915088  Function: 1  Alpha:   }E
-POCSAG1200: Address: 1680145  Function: 3 
-POCSAG1200: Address: 1156809  Function: 2 
-POCSAG1200: Address:   92243  Function: 2  Alpha:   ^K
-POCSAG1200: Address: 1360712  Function: 2  Alpha:   gc.O`Ref
-POCSAG1200: Address: 1848311  Function: 3  Alpha:   %l#<SI><ACK><SO><DC4>HL,^<><SO>4H<GS><><RS>m<FS>=<FS>L<RS>}m<CR><EOT>*~<CR>^,N<RS><SI>4<LF>]LM<CR><NUL>
-POCSAG1200: Address:   82294  Function: 1  Alpha:   diNi?
-POCSAG1200: Address:  103803  Function: 1 
-POCSAG1200: Address:  264316  Function: 0  Alpha:   0<DC1><VT>k#c<DC4>T<HT><BS>:-N<<HT><BS>)qQ<
-POCSAG1200: Address:  866343  Function: 3 
-POCSAG1200: Address:  390681  Function: 0  Alpha:   <BEL><SOH>
