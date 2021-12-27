@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2023645  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0243271221+++TIME=0243271221<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBb(test message on B3 side 12345678901234567890
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   02:43-57 2304<NUL>
+POCSAG1200: Address: 1032714  Function: 3  Alpha:   v`
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0238271221+++TIME=0238271221<NUL>
 POCSAG1200: Address:  431704  Function: 3 
 POCSAG1200: Address:   40118  Function: 2  Alpha:   02:36-34 27/12/2021 02:34:02 INC 24883961 09E01 ORCHARD MANOR NURSING HOME, ACRES LANE, UPTON CHESTER CH2, CH2 1LJ Male UnknownY POSITIVE COVID PAT - NOW NOT BREATHING GRD 341720 370023
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1291283  Function: 0  Alpha:   8:ZH<BS>
 POCSAG1200: Address:  111467  Function: 3 
 POCSAG1200: Address:  226167  Function: 2 
 POCSAG1200: Address: 1110616  Function: 1  Alpha:   <DC1>Q<CAN>N <DLE>vr
-POCSAG1200: Address:  452627  Function: 3 
-POCSAG1200: Address:  305513  Function: 1 
-POCSAG1200: Address:  831579  Function: 0 
-POCSAG1200: Address:  162158  Function: 0 
-POCSAG1200: Address:  289948  Function: 0 
