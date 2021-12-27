@@ -1,3 +1,15 @@
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:33-41 4156<NUL>
+POCSAG2400: Address: 2024032  Function: 0 
+POCSAG2400: Address: 1022477  Function: 0  Alpha:   02:32-50 SWTP reset. Demin supplies returned to normal - SSM
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   02:32-75 SWTP reset. Demin supplies returned to normal - SSM
+POCSAG1200: Address: 1483519  Function: 1 
+POCSAG1200: Address: 1814681  Function: 2  Alpha:   v3:30-45 27/12/2021 02:27:41 INC 24883942 10D05 O/S, JOBCENTRE PLUS, 43 QUEEN STREET, BLACKPOOL, FY1 1HQ Male 57Y CHEST PAIN GRD 330783 436503
+POCSAG1200: Address: 1317931  Function: 2  Alpha:   02:30-98 27/12/2021 02:27:41 INC 24883942 10D05 O/S, JOBCENTRE PLUS, 43 QUEEN STREET, BLACKPOOL, FY1 1HQ Male 57Y CHEST PAIN GRD 330783 436503
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   02:30-57 PLS CALL MRS MCATEER ON 07422 528 451 RE MR MCATEER
+POCSAG1200: Address:   33724  Function: 2  Alpha:   02:30-79 PLS CALL MRS MCATEER ON 07422 528 451 RE MR MCATEER
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   02:30-25 PLS CALL MRS MCATEER ON 07422 528 451 RE MR MCATEER
+POCSAG1200: Address: 1313124  Function: 2  Alpha:   02:30-35 PL
+POCSAG2400: Address:  549123  Function: 2  Alpha:   02:29-70 4156<NUL>
 POCSAG2400: Address:  121784  Function: 3 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0228271221+++TIME=0228271221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0228271221+++TIME=0228271221<NUL>
@@ -986,15 +998,3 @@ POCSAG1200: Address:  289948  Function: 0
 POCSAG1200: Address:  533231  Function: 1 
 POCSAG1200: Address:  890403  Function: 0  Alpha:   Qe<SOH>%:<SO><STX>IQaaMIMA<SOH>Ae<NAK>BE<SOH>a<SOH>M"<SYN><SYN>:<STX>I><ACK><DC2>2<SOH>9<SYN>^<STX><HT>J&<RS>"<DC2> }
 POCSAG1200: Address:  394733  Function: 0  Alpha:   <EM>}
-POCSAG1200: Address:  793009  Function: 1 
-POCSAG1200: Address: 1652668  Function: 1 
-POCSAG1200: Address: 1158451  Function: 0  Alpha:   l Kl^
-POCSAG1200: Address:     200  Function: 3  Alpha:   iKKL<RS>
-POCSAG1200: Address: 1701943  Function: 1  Alpha:   <SO><SUB>
-POCSAG1200: Address:  128622  Function: 0 
-POCSAG1200: Address:  502476  Function: 2 
-POCSAG1200: Address:  899491  Function: 1 
-POCSAG1200: Address: 1403010  Function: 1 
-POCSAG1200: Address:  615138  Function: 1 
-POCSAG1200: Address: 1778436  Function: 2 
-POCSAG1200: Address:  189092  Function: 1  Alpha:   du\I<ENQ>
