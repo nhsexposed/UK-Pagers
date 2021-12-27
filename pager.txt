@@ -1,3 +1,99 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903271221+++TIME=0903271221<NUL>
+POCSAG2400: Address: 1913707  Function: 2  Alpha:   09:03-56 4114<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0903271221+++TIME=0903271221<NUL>
+POCSAG1200: Address: 1312649  Function: 2  Alpha:   09:02-11 NOTIFY - DATE: 27.12.21    TIME: 0900 WT AV IMMEDIATE - 17 WT AV RECiLL (TRAINING) - 0 ON-CALL - 2 MAX 0 MIN  MANY THANKS, CONTROL 
+POCSAG1200: Address: 1312586  Function: 2  Alpha:   09:02-34 NOTIFY - DATE: 27.12.21    TIME: 0900 WT AV IMMEDIATE - 17 WT AV REC
+POCSAG1200: Address: 1032690  Function: 0 
+POCSAG1200: Address: 1746533  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1312610  Function: 2  Alpha:   09:02-34 NOTIFY - DATE: 27.12.21    TIME: 0900 WT AV IMMEDIATE - 17 WT AV RECALL (TRAINING) - 0 ON-CALL - 2 MAX 0 MIN  MANY THANKS, CONTROL 
+POCSAG1200: Address: 1687498  Function: 2  Alpha:   bd j"P<SYN>PX<ESC>P+*P +<DLE>iba &&<DLE><DC4>*i`$g$gc<DC4>P<SYN><DLE><CAN>P'gVa &&P<SYN><DLE><EM>Pf ,<DLE><CAN>Pf$'<DLE>Pf g,<DLE>*d ge)<SYN>Pa''*i'&
+POCSAG2400: Address: 1324622  Function: 2  Alpha:   09:02-89 DUTY MANAGER PLEASE CALL MANDY AT LAUREL HOUSE <NUL>
+POCSAG2400: Address:  225334  Function: 2  Alpha:   09:02-94 DUTY MANAGER PLEASE CALL MANDY AT LAUREL HOUSE <NUL>
+POCSAG2400: Address:  225057  Function: 2  Alpha:   09:02-95 DUTY MANAGER PLEASE CALL MANDY AT LAUREL HOUSE <NUL>
+POCSAG2400: Address: 1324620  Function: 2  Alpha:   09:02-89 DUTY MANAGER PLEASE CALL MANDY AT LAUREL HOUSE <NUL>
+POCSAG2400: Address: 1324621  Function: 2  Alpha:   09:02-91 DUTY MANAGER PLEASE CALL MANDY AT LAUREL HOUSE <NUL>
+POCSAG2400: Address: 1324625  Function: 2  Alpha:   09:02-91 DUTY MANAGER PLEASE CALL MANDY AT LAUREL HOUSE <NUL>
+POCSAG2400: Address: 1324614  Function: 2  Alpha:   09:02-60 DUTY MANAGER PLEASE CALL MANDY JP LAUREL HOUSE <NUL>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   09:02-81 please call Enid Parker 01609 534539 Thanks<NUL><NUL>
+POCSAG1200: Address:  880669  Function: 2  Alpha:   09:02-48 50
+POCSAG2400: Address: 1323059  Function: 2  Alpha:   09:02-98 87893
+POCSAG1200: Address:   11760  Function: 0  Alpha:   09:01-25 09:01-24 ~LEVEL 2<NUL><NUL>
+POCSAG1200: Address:   80119  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address: 1761488  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032935  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  420517  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031608  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  209312  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  197431  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1039230  Function: 3  Alpha:    <ACK>
+POCSAG2400: Address: 2014837  Function: 3 
+POCSAG1200: Address: 1031950  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031464  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290143  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address: 1033022  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512850  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290082  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032614  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032178  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  619046  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512842  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1761263  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290190  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  325925  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address:  906668  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address: 1512746  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1812442  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:   80098  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290210  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1761297  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1812360  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512858  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031990  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  619075  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address: 1031562  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address: 1015393  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1485552  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290198  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032101  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031460  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1761226  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1032608  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1015484  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290083  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1661996  Function: 2 
+POCSAG1200: Address:  298484  Function: 1 
+POCSAG1200: Address: 1820176  Function: 3  Alpha:   U<SUB>fzI
+POCSAG1200: Address:  906713  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290090  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290137  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290159  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1485474  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290153  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  414158  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031900  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031826  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1761257  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031888  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  618335  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:   33730  Function: 2  Alpha:   09:00-78 Weekly pager Test<NUL><NUL>
+POCSAG1200: Address:  212249  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512848  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512687  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1512838  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1039204  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  827371  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address:  290084  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1031955  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address: 1008310  Function: 2  Alpha:   09:00-23 Weekly pager Test<NUL><NUL>
+POCSAG1200: Address: 1008280  Function: 2  Alpha:   09:00-55 Weekly pager Test<NUL><NUL>
+POCSAG1200: Address:  302826  Function: 2  Alpha:   09:00-25 Weekly pager Test<NUL><NUL>
+POCSAG1200: Address: 1484809  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  290195  Function: 3  Alpha:   !<ACK>
+POCSAG1200: Address:  302829  Function: 2  Alpha:   09:00-07 Weekly pager Test<NUL><NUL>
+POCSAG2400: Address: 2010977  Function: 0 
+POCSAG2400: Address:  225851  Function: 2  Alpha:   08:59-15 107204<NUL><NUL>
+POCSAG2400: Address: 1321178  Function: 2  Alpha:   08:59-90 Good Morning, I hope you all had a good Xmas. Please note you are now on call, alerts should be responded to within 15 minutes. James EPRR TAC
 POCSAG2400: Address: 1347506  Function: 0 
 POCSAG2400: Address:  570147  Function: 3 
 POCSAG2400: Address: 1712902  Function: 3  Alpha:   F#
@@ -902,99 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  745975  Function: 2  Alpha:   <DC4><GS>t0z2<GS><DLE>bg+g<ACK><ENQ>b0z2<DLE><DC3><DLE>jtv2<GS>Pf77<DLE>"<NUL><NUL>
-POCSAG1200: Address: 1477603  Function: 2 
-POCSAG1200: Address: 1521576  Function: 1  Alpha:   <SYN>j
-POCSAG1200: Address:  997621  Function: 3  Alpha:   ,.B<BEL><DC4>3xi]U5
-POCSAG1200: Address: 1978615  Function: 3 
-POCSAG1200: Address: 1299071  Function: 2  Alpha:    ^<ACK>M!
-POCSAG1200: Address: 1275495  Function: 2 
-POCSAG1200: Address:  794658  Function: 1  Alpha:   <RS><FS>
-POCSAG1200: Address:  241444  Function: 0  Alpha:   97Oz><BEL><DEL><ETX>
-POCSAG1200: Address: 1536980  Function: 3 
-POCSAG1200: Address:  881636  Function: 1 
-POCSAG1200: Address: 1913673  Function: 3 
-POCSAG1200: Address:   63255  Function: 2  Alpha:   o]NH<EOT>
-POCSAG1200: Address: 1169256  Function: 0  Alpha:   Ea<DC2>O3<DC1>>~;6<5(<DLE>@|<RS>'W<ETX>J<FS>|tlj<FS><-<DC4>l<LF>Dk<STX><VT>kP<BS>dN<SO><RS>W<ETX>jP<BS>$&<SYN>/<RS><US>W<ETX><LF>K<DC3>s<NUL><NAK>&@g%0v&8v<SO>*<SOH>-=N
-POCSAG1200: Address: 1279738  Function: 2  Alpha:   3+vp<NAK>W0k
-POCSAG1200: Address:  629412  Function: 1  Alpha:   TC
-POCSAG1200: Address: 1359521  Function: 2 
-POCSAG1200: Address: 1447009  Function: 0 
-POCSAG1200: Address: 1874533  Function: 0 
-POCSAG1200: Address: 1176124  Function: 2 
-POCSAG1200: Address: 1843238  Function: 0 
-POCSAG1200: Address:  228959  Function: 2 
-POCSAG1200: Address:  864691  Function: 1  Alpha:   <DC3>!
-POCSAG1200: Address: 2028161  Function: 2 
-POCSAG1200: Address:   59435  Function: 1 
-POCSAG1200: Address: 1856552  Function: 2  Alpha:   Fa.WfRir
-POCSAG1200: Address:  208407  Function: 3  Alpha:   e: UP<CR><LF>Date & Time: Mon Dec 2<NUL><NUL>
-POCSAG1200: Address: 1152489  Function: 1 
-POCSAG1200: Address: 1519098  Function: 0 
-POCSAG1200: Address:  834596  Function: 0  Alpha:   x8Y<ESC>]<y<FS>H<SI>(3X{<CAN>:y<FS>=Y<FS>H<SI>(rpS3<ESC>h53Z<SYN>iZ<VT>
-POCSAG1200: Address: 1006951  Function: 0  Alpha:   'x<RS>{4o;x<DC2><DLE>>
