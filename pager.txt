@@ -1,3 +1,8 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0313271221+++TIME=0313271221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313271221+++TIME=0313271221<NUL>
+POCSAG1200: Address: 1008921  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BB<STX>EcB Test message on B3 side 12345678901234567890
+POCSAG1200: Address:  977782  Function: 1 
 POCSAG1200: Address: 1562660  Function: 2  Alpha:   03:07-46 27/12/2021 03:00:18 INC 24884055 10C01 56 CHAPEL STREET, LEVENSHULME MANCHESTER, M19 3GH Female 18Y COVID+ CHEST PAIN GRD 387714 394104<NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   03:06-43 5204<NUL>
 POCSAG2400: Address:   28896  Function: 0  Alpha:   03:04-28 2188<NUL>
@@ -993,8 +998,3 @@ POCSAG1200: Address:   92467  Function: 1  Alpha:   ^+L^K
 POCSAG1200: Address:  321972  Function: 1  Alpha:   <RS>Q<ENQ>KA
 POCSAG1200: Address:   50200  Function: 1 
 POCSAG1200: Address: 1603639  Function: 1  Alpha:   .<CR>
-POCSAG1200: Address:   30318  Function: 0 
-POCSAG1200: Address:  404172  Function: 2 
-POCSAG1200: Address: 1980832  Function: 1 
-POCSAG1200: Address: 1749025  Function: 0  Alpha:   (<FF>2<DLE>H19;<CAN>;<EM>Hm-<SYN><BS>4pt4<DC1><DC1>h3<NAK><NAK>(<VT><BS><NAK>2Rsr<DC4><BS>11<DLE><DC1>hQ<DC4><DC1>h
-POCSAG1200: Address: 1446384  Function: 1 
