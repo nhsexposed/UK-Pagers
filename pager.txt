@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1813349  Function: 1 
+POCSAG1200: Address: 1745491  Function: 0 
+POCSAG1200: Address: 1747525  Function: 2 
+POCSAG1200: Address: 1713164  Function: 2  Alpha:   EeIMI]EIIE<SOH>
+POCSAG2400: Address: 1413737  Function: 1 
+POCSAG2400: Address: 1346418  Function: 2 
+POCSAG2400: Address: 1705077  Function: 0 
 POCSAG1200: Address: 1312743  Function: 2 
 POCSAG2400: Address: 1320153  Function: 2  Alpha:   19:14-66 CALL 0800 432 0559 OPT 2<NUL>
 POCSAG1200: Address: 1116359  Function: 3  Alpha:   <ETX>"<ESC><DC3>#<VT>;<ETX>
@@ -991,10 +998,3 @@ POCSAG2400: Address:    8208  Function: 2  Alpha:   !<CR>FMN
 POCSAG2400: Address: 1962822  Function: 3  Alpha:   r<DC1>
 POCSAG2400: Address:  197486  Function: 0  Alpha:   De*Y}
 POCSAG2400: Address:  134516  Function: 0 
-POCSAG2400: Address: 1782050  Function: 1  Alpha:   <SYN>'
-POCSAG2400: Address: 1323187  Function: 2  Alpha:   17:26-21 <CAN>9
-POCSAG2400: Address: 1324445  Function: 2  Alpha:   17:26-17 01223 596 010 ADENBROOKES <NUL><NUL>
-POCSAG2400: Address: 1323174  Function: 2  Alpha:   17:26-09 01223 596 010 ADENBROOKES <NUL><NUL>
-POCSAG2400: Address: 1323175  Function: 2  Alpha:   17:26-22 01223 596 010 ADENBROOKES <NUL><NUL>
-POCSAG2400: Address: 1323176  Function: 2  Alpha:   17:26-31 01223 596 010 ADENBROOKES <NUL><NUL>
-POCSAG2400: Address: 1323177  Function: 2  Alpha:   17:26-44 01223 596 010 ADENBROOKES <NUL><NUL>
