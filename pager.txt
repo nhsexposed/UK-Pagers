@@ -1,3 +1,44 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0508271221+++TIME=0508271221<NUL>
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:  453076  Function: 2 
+POCSAG1200: Address: 1860110  Function: 0  Alpha:   A<ESC>\Q<SUB>Zi<CAN>
+POCSAG1200: Address: 1450038  Function: 1  Alpha:   l<NUL>
+POCSAG1200: Address:  385416  Function: 1  Alpha:   ~U
+POCSAG1200: Address: 1684288  Function: 3 
+POCSAG1200: Address:   92467  Function: 3  Alpha:   ^+L^K
+POCSAG1200: Address:  319918  Function: 1  Alpha:   <RS>A<EM>KY
+POCSAG1200: Address: 1360280  Function: 2 
+POCSAG1200: Address:  899251  Function: 3  Alpha:   0/
+POCSAG1200: Address:  616493  Function: 2 
+POCSAG1200: Address:  864360  Function: 2 
+POCSAG1200: Address:  994496  Function: 1 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   05:06-32 4376<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0503271221+++TIME=0503271221<NUL>
 POCSAG2400: Address: 2089010  Function: 2 
 POCSAG512: Address: 1976933  Function: 0 
@@ -957,44 +998,3 @@ POCSAG2400: Address:  408814  Function: 0  Alpha:   N<SOH><EM>`'3)<DC3><ETX>U?
 POCSAG2400: Address: 1474041  Function: 1  Alpha:   Ah
 POCSAG2400: Address: 1415092  Function: 3  Alpha:   2}
 POCSAG2400: Address: 1849654  Function: 3  Alpha:   .&gbR
-POCSAG2400: Address: 1950455  Function: 0  Alpha:   sH<DEL>t<DLE>
-POCSAG2400: Address: 1246398  Function: 0 
-POCSAG2400: Address: 1465440  Function: 3  Alpha:   .<ACK>'g.
-POCSAG2400: Address: 1976894  Function: 0 
-POCSAG2400: Address: 1028361  Function: 2 
-POCSAG2400: Address: 1798881  Function: 3 
-POCSAG2400: Address:  976325  Function: 0  Alpha:   <ESC>;<ETX>K<ACK>zt<DC2>
-POCSAG2400: Address:  323028  Function: 1 
-POCSAG2400: Address: 1880835  Function: 2 
-POCSAG2400: Address:  216263  Function: 2  Alpha:   <NUL>a G`Hqd
-POCSAG2400: Address: 1785888  Function: 0  Alpha:   <VT>#<EOT><ESC>Clj<FF>t<L$m<DC2>-<l<LF>d<STX><SUB><US>F.&.g.<ACK><SUB>4mJt&/ffN<RS><BEL><NUL>
-POCSAG2400: Address: 1296295  Function: 2  Alpha:   tw7<DLE>{
-POCSAG2400: Address:  792421  Function: 1  Alpha:   Mm
-POCSAG2400: Address: 1932147  Function: 3 
-POCSAG2400: Address:   95995  Function: 0  Alpha:   t(<SO>v<US>
-POCSAG2400: Address: 1550054  Function: 2 
-POCSAG2400: Address:  470695  Function: 0 
-POCSAG2400: Address: 2047678  Function: 1 
-POCSAG2400: Address: 1572556  Function: 1 
-POCSAG2400: Address:  910308  Function: 3 
-POCSAG2400: Address: 1550192  Function: 3 
-POCSAG2400: Address:  474350  Function: 0  Alpha:   <RS><SOH><EM>h'35<DC3><ETX>W?
-POCSAG2400: Address:  979941  Function: 3 
-POCSAG2400: Address:  190643  Function: 1 
-POCSAG2400: Address:  178995  Function: 1  Alpha:   *M
-POCSAG2400: Address: 1470497  Function: 2 
-POCSAG2400: Address:  795561  Function: 2  Alpha:   B%
-POCSAG2400: Address: 1246654  Function: 0 
-POCSAG2400: Address:   97271  Function: 3  Alpha:    <CR><STX><ETX><GS>'<HT>!<ESC><GS><DC3><SI>ab<STX>AZ@.<ETX>%<GS><DC3><GS><SI>u@&GQKql[
-POCSAG2400: Address: 1265639  Function: 2 
-POCSAG2400: Address:  329132  Function: 2 
-POCSAG2400: Address:  843186  Function: 1 
-POCSAG2400: Address:  834423  Function: 3 
-POCSAG2400: Address:  372019  Function: 1  Alpha:   l 
-POCSAG2400: Address:  208678  Function: 0 
-POCSAG2400: Address:  834789  Function: 0 
-POCSAG2400: Address:    5312  Function: 1 
-POCSAG2400: Address:  866747  Function: 0  Alpha:   <DC3><SI>
-POCSAG2400: Address:  827749  Function: 0  Alpha:   j[Rui
-POCSAG2400: Address: 1881906  Function: 3 
-POCSAG2400: Address:  899761  Function: 1 
