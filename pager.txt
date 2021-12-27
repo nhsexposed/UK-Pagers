@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0043271221+++TIME=00432w1~21<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:43-97 3106<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   00:43-34 27/12/2021 00:38:48 INC 24883523 10D02 11 WOODLAND VIEW, BRADSHAW BOLTON, BL7 9NS Male 75Y CHEST PAIN GRD 372946 413896
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  585013  Function: 2  Alpha:   00:42-87 PIN 9524 PLEASE CALL 03457 500 620 FOR UPDATE ON DUTY CASE<NUL>
+POCSAG1200: Address:  325972  Function: 2  Alpha:   ER
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:41-37 2233<NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   00:40-68 4167<NUL>
 POCSAG2400: Address: 1022493  Function: 0  Alpha:   00:39-74 SWTP has tripped. Please conserve Demin water - SSM
 POCSAG2400: Address: 1022475  Function: 0  Alpha:   00:39-65 SWTP has tripped. Please conserve Demin water - SSM
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0038271221+++TIME=0038271221<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1120216  Function: 0  Alpha:   <DC4>e$ofRuf
 POCSAG1200: Address:  365932  Function: 1  Alpha:   s0
 POCSAG1200: Address: 1559353  Function: 0 
 POCSAG1200: Address:  774945  Function: 0 
-POCSAG1200: Address: 1519330  Function: 3 
-POCSAG1200: Address:  545513  Function: 2 
-POCSAG1200: Address: 1874593  Function: 0 
-POCSAG1200: Address:  315001  Function: 0  Alpha:   <LF><DC4><SI>Z(
-POCSAG1200: Address: 1087520  Function: 1 
-POCSAG1200: Address: 1581113  Function: 0 
-POCSAG1200: Address:  259425  Function: 0 
-POCSAG1200: Address:  519877  Function: 2 
