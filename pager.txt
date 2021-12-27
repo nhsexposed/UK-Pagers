@@ -1,3 +1,54 @@
+POCSAG1200: Address: 1622305  Function: 3  Alpha:   LD L4, L4 8UD Female U
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address:   28869  Function: 0  Alpha:   20:33-72 CALL 07494 269 813<DLE>
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address: 1482670  Function: 0  Alpha:   <CAN>}
+POCSAG2400: Address:  109003  Function: 0 
+POCSAG2400: Address: 1484370  Function: 0 
+POCSAG2400: Address: 1643570  Function: 0 
+POCSAG2400: Address: 1619694  Function: 3 
+POCSAG2400: Address: 1193587  Function: 2 
+POCSAG2400: Address: 1712272  Function: 1 
+POCSAG2400: Address:   98739  Function: 0 
+POCSAG2400: Address: 1249190  Function: 2 
+POCSAG2400: Address:  183652  Function: 1 
+POCSAG2400: Address:  521344  Function: 2 
+POCSAG2400: Address:  827431  Function: 0 
+POCSAG2400: Address: 1767150  Function: 2 
+POCSAG2400: Address:  576186  Function: 0  Alpha:   l@
+POCSAG2400: Address: 2008667  Function: 2 
+POCSAG2400: Address: 2037376  Function: 0 
+POCSAG2400: Address: 1728572  Function: 2  Alpha:   <ETX><CR>
+POCSAG2400: Address: 1876213  Function: 0 
+POCSAG2400: Address:    8245  Function: 0 
+POCSAG2400: Address: 1302668  Function: 1 
+POCSAG2400: Address: 1679987  Function: 1  Alpha:   4S
+POCSAG2400: Address:   29595  Function: 1  Alpha:   M-\R<SO>$)f
+POCSAG2400: Address:  669795  Function: 3 
+POCSAG1200: Address:  801388  Function: 1 
+POCSAG1200: Address: 1415267  Function: 2  Alpha:   .<ACK>
+POCSAG1200: Address: 1671474  Function: 3  Alpha:   2<SI>
+POCSAG1200: Address:   72137  Function: 3 
+POCSAG1200: Address:  661448  Function: 2  Alpha:   <DC3><DC3>
+POCSAG1200: Address:  577798  Function: 3 
+POCSAG1200: Address:  903973  Function: 3 
+POCSAG1200: Address:  169261  Function: 3 
+POCSAG1200: Address: 1413283  Function: 1  Alpha:   d<STX>
 POCSAG1200: Address:  563717  Function: 3 
 POCSAG1200: Address:  895106  Function: 2  Alpha:   b@F@<DLE>
 POCSAG1200: Address: 1582149  Function: 0 
@@ -898,57 +949,6 @@ POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
 POCSAG1200: Address: 1562660  Function: 2  Alpha:   17:35<CR>(>!27/12/2021 17:34:28 INC 24887852 06D02 75 AVONDALE ROAD, EDGELEY STOCKPORT, SK3 9NY Female 66Y DIB GRD 388096 389518
 POCSAG1200: Address: 1092442  Function: 2  Alpha:   17:35-80 27/12/2021 17:33:04 INC 24887846 12D02 16 BORROWDALE ROAD, WAVERTREE L15, L15 3LE Female 57Y FITTING GRD 338356 388607<NUL>
 POCSAG2400: Address:   28900  Function: 0  Alpha:   17:34-18 4144<NUL>
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
