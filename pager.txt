@@ -1,3 +1,7 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0423271221+++TIME=0423271221<NUL>
+POCSAG2400: Address: 1980081  Function: 0 
+POCSAG2400: Address: 1322970  Function: 2  Alpha:   04:22-97 IP1 8013
+POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1237747  Function: 0 
 POCSAG1200: Address:  216478  Function: 2  Alpha:   04:14-75 Got time for a survey?B <NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3B<NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address:   69648  Function: 0
 POCSAG1200: Address: 1040477  Function: 0  Alpha:   <FF><LF><ACK>7<BS>
 POCSAG1200: Address:  914833  Function: 1 
 POCSAG1200: Address:  766768  Function: 3 
-POCSAG1200: Address:  763174  Function: 1 
-POCSAG1200: Address: 1865225  Function: 1  Alpha:    <HT>,Q<DC4><BS>;<CAN>K<GS>H
-POCSAG1200: Address: 1208737  Function: 0 
-POCSAG1200: Address:  143026  Function: 0 
