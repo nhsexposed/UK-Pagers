@@ -1,3 +1,9 @@
+POCSAG2400: Address:   28896  Function: 0  Alpha:   03:04-28 2188<NUL>
+POCSAG1200: Address:   33724  Function: 2  Alpha:   03:03-80 URGENT PLS CALL MRS MCATEER ON 07422 528 451 RE MR MCATEER<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0303271221+++TIME=0303271221<NUL>
+POCSAG1200: Address: 1313124  Function: 2  Alpha:   03:03-36 URGENT PLS 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1565498  Function: 2  Alpha:   03:01-52 27/12/2021 02:57:52 INC 24884046 17D05 27 BEECH STREET, ACCRINGTON, BB5 2AU Female 83Y CHEST PAIN NAUSEA FALLEN DIB GRD 376495 428353
 POCSAG2400: Address:  549123  Function: 2  Alpha:   02:59-72 4156<NUL>
 POCSAG2400: Address:  353049  Function: 0  Alpha:   02:59-40 99
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0258271221+++TIME=0258271221<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1749025  Function: 0  Alpha:   (<FF>2<DLE>H19;<CAN>;<EM>Hm-
 POCSAG1200: Address: 1446384  Function: 1 
 POCSAG1200: Address: 1590697  Function: 0  Alpha:   jx
 POCSAG1200: Address: 1672058  Function: 0  Alpha:   bl
-POCSAG1200: Address: 1328119  Function: 2  Alpha:   @<DLE>B<SOH>M"<SYN><SYN>:<STX>I><ACK><DC2>2<SOH>9<SYN>^<STX><HT>J&<RS>"R>:<STX>]<ACK>
-POCSAG1200: Address: 1850288  Function: 1  Alpha:   ll
-POCSAG1200: Address:  602480  Function: 3 
-POCSAG1200: Address:  761185  Function: 1 
-POCSAG1200: Address:  890675  Function: 0  Alpha:   r 
-POCSAG1200: Address:  394477  Function: 0  Alpha:   <EM>]
