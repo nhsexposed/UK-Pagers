@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2028149  Function: 2 
+POCSAG2400: Address:  924264  Function: 3 
+POCSAG1200: Address:  214338  Function: 2  Alpha:   06:23-51 8386<NUL>
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   06:21-34 27
+POCSAG1200: Address: 2009035  Function: 2  Alpha:   06:20-03 2268386<NUL>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address:  269168  Function: 2  Alpha:   00:43-34 27/12/2021 00:38:48
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG2400: Address:  585013  Function: 2  Alpha:   00:42-87 PIN 9524 PLEASE CALL 03457 500 620 FOR UPDATE ON DUTY CASE<NUL>
 POCSAG1200: Address:  325972  Function: 2  Alpha:   ER
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:41-37 2233<NUL>
-POCSAG2400: Address:  549123  Function: 2  Alpha:   00:40-68 4167<NUL>
-POCSAG2400: Address: 1022493  Function: 0  Alpha:   00:39-74 SWTP has tripped. Please conserve Demin water - SSM
-POCSAG2400: Address: 1022475  Function: 0  Alpha:   00:39-65 SWTP has tripped. Please conserve Demin water - SSM
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0038271221+++TIME=0038271221<NUL>
