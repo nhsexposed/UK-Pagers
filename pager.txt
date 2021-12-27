@@ -1,3 +1,16 @@
+POCSAG1200: Address: 2028155  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1008271221+++TIME=1008271221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1008271221+++TIME=1008271221<NUL>
+POCSAG1200: Address: 1324636  Function: 2  Alpha:   10:08-83 please call CCCT 07590 279431 Thanks
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG2400: Address: 1323059  Function: 2  Alpha:   10:07-00 80300
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <DC2><DC3>
+POCSAG1200: Address: 1032690  Function: 0 
+POCSAG1200: Address: 1512731  Function: 3  Alpha:   %2
+POCSAG1200: Address: 1318273  Function: 2  Alpha:   10:05-60 Trauma Team Test Call South West Acute Hospital 27/12/21 10.05am<NUL>
+POCSAG1200: Address: 1817700  Function: 2  Alpha:   10:05-25 Trauma Team Test Call South West Acute Hospital 27/12/21 10.05am<NUL>
+POCSAG1200: Address:   28883  Function: 3  Alpha:   10:05-60 MARK SIMONS IS OUTSIDE THE DOOR. 
+POCSAG1200: Address: 1032196  Function: 2  Alpha:   <ETX>,
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:04-32 3120<NUL>
 POCSAG2400: Address:   28908  Function: 0  Alpha:   10:04-07 5204<NUL>
 POCSAG2400: Address:   28927  Function: 0  Alpha:   10:04-93 2642<NUL>
@@ -985,16 +998,3 @@ POCSAG2400: Address: 1308774  Function: 0
 POCSAG2400: Address:  926243  Function: 0 
 POCSAG2400: Address: 1565842  Function: 2 
 POCSAG2400: Address:   95765  Function: 0  Alpha:   U=|X<DC4>},4
-POCSAG2400: Address: 1322089  Function: 2  Alpha:   08:50-98 PROBLEM: Website Check - Host IP - Different Port: HTTP Check is CRITICAL on host rbgcmslabc02oni, <CR><LF>PROBLEM: Website Check - Host IP - Dif
-POCSAG1200: Address:  688738  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   08:50-34 3132<NUL>
-POCSAG1200: Address: 2008664  Function: 2 
-POCSAG2400: Address: 1324552  Function: 2  Alpha:   08:49-84 INC ALERT No: 16973456 Heart Problems/A.I.C.D. - AF - ATTACK, AT: 7A SILVER BRIDGE CLOSE, PAIGNTON, TQ4 7NW, Time of Call: 27/12/2021 08:48:25, Co-ords: 50.410493553 -3.56265756<NUL><NUL>
-POCSAG2400: Address:  585864  Function: 2  Alpha:   08:49-03 01209823713
-POCSAG2400: Address: 1323724  Function: 2  Alpha:   08:48-87 4411<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0848271221+++TIME=0848271221<NUL>
-POCSAG1200: Address: 1491061  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address:  585264  Function: 2  Alpha:   08:47-13 ROBERTO GRAFTON 07827 712 090<NUL>
-POCSAG2400: Address: 1324602  Function: 2  Alpha:   08:46-67 08:46-66 PLEASE CALL 0300 421 8528<NUL><NUL>
-POCSAG2400: Address: 1324611  Function: 2  Alpha:   08:46-01 PLEASE CALL 0300 421 8528
