@@ -1,3 +1,68 @@
+POCSAG512: Address: 1734900  Function: 1  Alpha:   <BEL><US><ETB><ETX>=;<ETX><ENQ><STX>M'<DC3><ETB><ETX>AEIMQUY]aeAEIMQUY]aeA<SOH><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test 
+POCSAG2400: Address: 1220256  Function: 2 
+POCSAG2400: Address: 1484837  Function: 3  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG1200: Address:  212165  Function: 2  Alpha:   6@
+POCSAG2400: Address:   11754  Function: 0  Alpha:   11:11-10 PSYCH LIAISON PLS CALL 6810 OR 6828 - CDU WARD <NUL>
+POCSAG2400: Address: 1323378  Function: 2  Alpha:   11:11-05 234234<NUL><NUL>
+POCSAG2400: Address: 1032517  Function: 3  Alpha:   6p
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   11:10-29 2018<NUL>
+POCSAG1200: Address: 1074268  Function: 0 
+POCSAG1200: Address: 1639458  Function: 0  Alpha:   ROAD, PENWORTHAM, PR1 9AT Female 79Y 79YOF,VO<CR> <DC3><EM><DC1><GS>
+POCSAG1200: Address: 1560058  Function: 0  Alpha:   Zh
+POCSAG1200: Address:   83814  Function: 0 
+POCSAG1200: Address:  953653  Function: 0 
+POCSAG1200: Address: 1850152  Function: 1 
+POCSAG1200: Address:  602352  Function: 3 
+POCSAG1200: Address:  761057  Function: 1 
+POCSAG1200: Address: 1414835  Function: 2  Alpha:   r@
+POCSAG1200: Address:  394357  Function: 0  Alpha:   <CAN><GS>
+POCSAG1200: Address:  792625  Function: 1 
+POCSAG1200: Address:  125239  Function: 3  Alpha:   ~+LF<NUL>
+POCSAG1200: Address:   86187  Function: 2  Alpha:   Tc"_`Pmr
+POCSAG1200: Address: 1208558  Function: 0 
+POCSAG1200: Address: 1467612  Function: 2 
+POCSAG1200: Address: 1319752  Function: 3  Alpha:   <ACK>k
+POCSAG1200: Address: 1225698  Function: 2 
+POCSAG1200: Address: 1612705  Function: 3  Alpha:   Om
+POCSAG1200: Address:  957373  Function: 3 
+POCSAG1200: Address: 1706874  Function: 1 
+POCSAG1200: Address:  767336  Function: 3 
+POCSAG1200: Address: 1686304  Function: 3 
+POCSAG1200: Address: 1734444  Function: 3 
+POCSAG1200: Address:   85742  Function: 0  Alpha:   T@
+POCSAG1200: Address:  346804  Function: 0 
+POCSAG1200: Address: 1715745  Function: 3  Alpha:   ><LF>
+POCSAG1200: Address:    8242  Function: 0 
+POCSAG1200: Address:  127523  Function: 3 
+POCSAG1200: Address:  387452  Function: 2 
+POCSAG1200: Address:  371869  Function: 0 
+POCSAG1200: Address:  899567  Function: 1 
+POCSAG1200: Address: 1669937  Function: 0  Alpha:   VQ
+POCSAG1200: Address:  210273  Function: 0 
+POCSAG1200: Address:  467141  Function: 2 
+POCSAG1200: Address:  848258  Function: 0 
+POCSAG1200: Address: 1876494  Function: 0  Alpha:   !<ESC>\uZ
+POCSAG1200: Address: 1471854  Function: 0 
+POCSAG1200: Address:   19480  Function: 0  Alpha:   Y<CAN><DLE>@1Q#0
+POCSAG1200: Address:   64435  Function: 0  Alpha:   <DC2><CR>
+POCSAG1200: Address:   61798  Function: 1 
+POCSAG1200: Address: 1485525  Function: 0 
+POCSAG1200: Address:  832387  Function: 1 
+POCSAG1200: Address: 1337474  Function: 1 
+POCSAG1200: Address: 1979366  Function: 2  Alpha:   BQ
+POCSAG1200: Address:  953853  Function: 2 
+POCSAG1200: Address: 1850344  Function: 1 
+POCSAG1200: Address:   78256  Function: 3 
+POCSAG1200: Address:  273720  Function: 1  Alpha:   <SOH>]
+POCSAG1200: Address:  150641  Function: 0  Alpha:   <CAN>]
+POCSAG1200: Address:  793688  Function: 3 
+POCSAG1200: Address:     532  Function: 2  Alpha:   <HT><NUL>
+POCSAG1200: Address:  384008  Function: 0 
+POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address: 1704536  Function: 2 
+POCSAG1200: Address:   81920  Function: 0 
+POCSAG1200: Address: 1983049  Function: 2  Alpha:   11:10-35 01579382707 - Paula Richards : Chiuownder Colmers Lane Callington Cornwall PL17 7QB Cat Mischief Registered with the Callington surgery. she is not moving very well her back end seems to be going and she"<SOH>
 POCSAG2400: Address: 1323888  Function: 2  Alpha:   11:09-27 3164<NUL>
 POCSAG1200: Address:  106110  Function: 2  Alpha:   11:09-45 27/12/2021 11:06:12 INC 24885914 17A04G 22 SCOTT DRIVE, ORMSKIRK, L39 1PP Male 63Y MALE FALLEN GRD 341771 409307<NUL>
 POCSAG2400: Address:  584819  Function: 2  Alpha:   11:09-14 74444
@@ -933,68 +998,3 @@ POCSAG1200: Address: 1778502  Function: 2
 POCSAG1200: Address: 1483185  Function: 2  Alpha:   09:44-17 27/12/2021 09:40:56 INC 24885456 30D01 6 WOOD LANE, <ETX>!q<ACK><DC2>8<HT>
 POCSAG1200: Address:  433150  Function: 2  Alpha:   09:44-27 27/12/2021 09:40:56 INC 24885456 30D01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
 POCSAG1200: Address:  312672  Function: 0  Alpha:   09:44-15 27/12/2021 09:40:56 INC 24885456 30D01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address: 1817414  Function: 2  Alpha:   09:43-29 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address:   40091  Function: 2  Alpha:   09:43-64 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address:  269059  Function: 2  Alpha:   09:43-67 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address: 1092709  Function: 2  Alpha:   09:43-95 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   09:43-52 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0943271221+++TIME=0943271221<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0943271221+++TIME=0943271221<NUL>
-POCSAG1200: Address: 1258733  Function: 2  Alpha:   09:43-88 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address:  346010  Function: 0  Alpha:   09:43-04 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address: 1483228  Function: 2  Alpha:   09:43-32 27/12/2021 09:40:56 INC 24885456 09E01 6 WOOD LANE, WRIGHTINGTON, WN6 9SQ Male 96Y FALL BANGED HEAD BLEEDING GRD 353473 413527<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:43-88 27/12/2021 09:41:32 INC 24885459 31E
-POCSAG1200: Address: 1032650  Function: 3  Alpha:   U<FF>
-POCSAG1200: Address: 1747065  Function: 0 
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0938271221+++TIME=0938271221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0938271221+++TIME=0938271221<NUL>
-POCSAG2400: Address:   11754  Function: 0  Alpha:   09:37-09 PLEASE CALL CDU ON 6828<NUL><NUL>
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
-POCSAG1200: Address:  269282  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1318948  Function: 2  Alpha:   09:36-74 3994-4<NUL><NUL>
-POCSAG2400: Address: 1476962  Function: 1  Alpha:   Yj&Z8
-POCSAG2400: Address: 1448288  Function: 1 
-POCSAG2400: Address: 1712950  Function: 2 
-POCSAG2400: Address:  366252  Function: 2 
-POCSAG2400: Address: 1559230  Function: 0 
-POCSAG2400: Address:  628848  Function: 1 
-POCSAG2400: Address: 1682483  Function: 2  Alpha:   r<NUL>
-POCSAG2400: Address:  116834  Function: 0 
-POCSAG2400: Address: 1273198  Function: 0 
-POCSAG2400: Address: 1516694  Function: 2 
-POCSAG2400: Address: 1976689  Function: 2 
-POCSAG2400: Address: 1123824  Function: 1 
-POCSAG2400: Address: 1634885  Function: 2 
-POCSAG2400: Address: 1632201  Function: 1 
-POCSAG2400: Address:  418001  Function: 2  Alpha:   H<DC1>
-POCSAG2400: Address:  926976  Function: 2 
-POCSAG2400: Address:  366508  Function: 2 
-POCSAG2400: Address: 1434016  Function: 3  Alpha:   <SO><SOH>
-POCSAG2400: Address:  382000  Function: 3 
-POCSAG2400: Address:       8  Function: 3 
-POCSAG2400: Address:     580  Function: 3 
-POCSAG2400: Address:  384008  Function: 0 
-POCSAG2400: Address:       3  Function: 0 
-POCSAG2400: Address:    1552  Function: 1 
-POCSAG2400: Address:  144848  Function: 2 
-POCSAG2400: Address:     157  Function: 2 
-POCSAG2400: Address:  655362  Function: 0 
-POCSAG1200: Address:  548160  Function: 2  Alpha:   09:34-58 8505<NUL>
-POCSAG1200: Address:  548160  Function: 2  Alpha:   09:34-57 850<NUL><NUL>
-POCSAG2400: Address: 1322756  Function: 2  Alpha:   09:33-99 ALISON SMITH COMPLEX CARE NURSE 07392 864 043 WORKING FROM HOME AS DAUGHTER IS COVID POSITIVE
-POCSAG2400: Address:  302810  Function: 2  Alpha:   09:33-69 09:33-68 ALISON SMITH COMPLEX CARE NURSE 07392 864 043 WORKING FROM HOME AS DAUGHTER IS COVID POSITIVE
-POCSAG2400: Address:  926320  Function: 0 
-POCSAG2400: Address:   64608  Function: 0 
-POCSAG1200: Address:  885099  Function: 3  Alpha:   rrfdb
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0933271221+++TIME=0933271221<NUL>
-POCSAG1200: Address: 1522048  Function: 1 
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   09:33-85 27/12/2021 09:32:30 INC 24885416 09E01 24 LIT<DC4>TD CROSBY ROAD, CROSBY L23, L23 2TG Unknown UnknownY NOT BREATHING - BLOOD COMING FROM MOUTH GRD 332007 400311
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   09:33-99 27/12/2021 09:32:30 INC 24885416 09E01 24 LITTLE CROSBY ROAD, CROSBY L23, L23 2TG Unknown UnknownY NOT BREATHING - BLOOD COMING FROM MOUTH GRD 332007 400311
-POCSAG2400: Address:  583520  Function: 2  Alpha:   09:33-89 80300
-POCSAG2400: Address:   64608  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   13/05/2002 CH3A<NUL><NUL>
-POCSAG2400: Address: 1323696  Function: 2  Alpha:   09:32-49 80300
-POCSAG1200: Address: 1716816  Function: 0 
-POCSAG1200: Address:  420477  Function: 2 
