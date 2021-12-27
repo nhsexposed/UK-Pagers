@@ -1,3 +1,16 @@
+POCSAG2400: Address:  150086  Function: 0  Alpha:   10:39-37 2351<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1038271221+++TIME=1038271221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1038271221+++TIME=1038271221<NUL>
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   10:37-33 4156<NUL>
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:37-34 2343<NUL>
+POCSAG1200: Address: 1815036  Function: 0  Alpha:   10:37-59 46608
+POCSAG1200: Address:  585629  Function: 2  Alpha:   10:37-28 10:37-32 LENS BURY LTD, NIAMH ROBBINS 02086 146 402.<NUL>
+POCSAG1200: Address: 1032674  Function: 3  Alpha:   9<BS><SYN><STX>L
+POCSAG2400: Address: 1032271  Function: 0 
+POCSAG1200: Address:  549861  Function: 2  Alpha:   10:36-49 ~TESTING
+POCSAG2400: Address: 1320279  Function: 2  Alpha:   10:36-62 5204<NUL>
+POCSAG1200: Address:   80174  Function: 3  Alpha:   <DC2>C<DC1><EOT>L
+POCSAG1200: Address: 1013917  Function: 2  Alpha:   10:35-67 PLEASE CALL MR AMIR AT PRISON (LOCATION UNKNOWN)
 POCSAG2400: Address:   28895  Function: 0  Alpha:   10:34-96 2343<NUL>
 POCSAG2400: Address:  829299  Function: 1 
 POCSAG1200: Address: 1032699  Function: 3  Alpha:   V<DLE>
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1319338  Function: 1
 POCSAG1200: Address: 1477033  Function: 2 
 POCSAG1200: Address: 1700715  Function: 3  Alpha:   d 
 POCSAG1200: Address:  612577  Function: 1  Alpha:   <EOT>"R,<FS>
-POCSAG1200: Address: 1243321  Function: 1  Alpha:    H
-POCSAG1200: Address: 1115242  Function: 2 
-POCSAG1200: Address:  771693  Function: 0 
-POCSAG1200: Address:  281638  Function: 0 
-POCSAG1200: Address: 1817190  Function: 0  Alpha:   {+<VT>x"
-POCSAG1200: Address: 1142312  Function: 1  Alpha:   T!<ACK>^m
-POCSAG1200: Address: 1649726  Function: 0 
-POCSAG1200: Address:  716053  Function: 2  Alpha:   <FS><ENQ>
-POCSAG1200: Address:  588346  Function: 0 
-POCSAG1200: Address:  175734  Function: 0 
-POCSAG1200: Address: 1075616  Function: 1  Alpha:   %!
-POCSAG1200: Address: 1729328  Function: 2 
-POCSAG1200: Address: 1058057  Function: 1 
