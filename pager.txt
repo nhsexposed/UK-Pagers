@@ -1,3 +1,19 @@
+POCSAG1200: Address:  585963  Function: 2  Alpha:   14:09-70 PLEASE CONTACT CONTROL
+POCSAG1200: Address:   41512  Function: 2  Alpha:   14:09-18 33231
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1408281221+++TIME=1408281221<NUL>
+POCSAG2400: Address: 1268064  Function: 1 
+POCSAG2400: Address:   11696  Function: 0  Alpha:   14:08-04 FIRE CALL<NUL><NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:07-68 3104<NUL>
+POCSAG2400: Address:  988136  Function: 2 
+POCSAG1200: Address: 1761390  Function: 2  Alpha:   U2
+POCSAG2400: Address:   28899  Function: 0  Alpha:   14:06-67 4373<NUL>
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address: 1876853  Function: 1 
+POCSAG2400: Address:  150086  Function: 0  Alpha:   14:05-49 5411<NUL>
+POCSAG1200: Address: 1797873  Function: 0  Alpha:   BN<SYN><DC2><STX><GS>J<DC2><STX>MYYaIQ<SOH>M]MYeY
+POCSAG2400: Address:  707979  Function: 2  Alpha:   <SUB><EM><BS>tm-EX-^<L<SO>D<CAN><GS>L<CR>dY^-\,<SO><EOT><SYN>F6<ACK><BEL>$<ACK>G<ACK><ACK>W<ACK><EOT>y=<SO><RS>M<RS>L<CR>D<EM>9JZ(<LF><EOT>y9<LF><LF>DX<FF>N<SO>4(<SUB>I<SUB>9<CAN>H<HT>4<CAN>(Z<BS>d<ENQ>$Z|<FS>,N<<SO>Dxm}-<SO>$Zl\,.<RS>L<CR>D<EM>m]<FF>
 POCSAG2400: Address:    6043  Function: 2  Alpha:   9X<FS>y<FS><BS>q[{[<FS>H4Y9Y\<<CAN><ESC><BS>3Z;<EM>
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   14:04-55 4314<NUL>
 POCSAG2400: Address: 2003573  Function: 0 
@@ -982,19 +998,3 @@ POCSAG2400: Address:  110080  Function: 1  Alpha:   p<LF>
 POCSAG2400: Address:     320  Function: 0 
 POCSAG2400: Address:  198490  Function: 2  Alpha:   Pda*<DLE><ETB><DLE>irs09r9<DLE>b7w79<DLE>i2s29y06<DLE>f4w2
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   11:49-87 69000
-POCSAG1200: Address:  679608  Function: 2  Alpha:   11:49-57 69000
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1148281221+++TIME=1148281221<NUL>
-POCSAG2400: Address: 1033011  Function: 0 
-POCSAG1200: Address:  929242  Function: 0  Alpha:   <ESC>X<EM><ETB>Pf29y<P!4yt9zvp9
-POCSAG1200: Address:  901465  Function: 2  Alpha:   11:45-37 07
-POCSAG1200: Address:  600572  Function: 0  Alpha:   11:45-31 Please call<SI><VT><EM>P2<:P<CAN><CAN><FS><EM><NUL><NUL>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address: 2061092  Function: 2 
-POCSAG1200: Address:  338962  Function: 3  Alpha:   <DC4><HT>
-POCSAG1200: Address:  303437  Function: 0  Alpha:   iA<STX>r<ESC>
-POCSAG1200: Address: 1598337  Function: 2  Alpha:   &+
-POCSAG1200: Address:  894899  Function: 3  Alpha:   prnrp
-POCSAG1200: Address: 1508203  Function: 0 
-POCSAG1200: Address:  160634  Function: 3 
-POCSAG1200: Address: 1814241  Function: 3 
-POCSAG1200: Address: 2072700  Function: 1 
