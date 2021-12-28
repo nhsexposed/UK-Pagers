@@ -1,3 +1,13 @@
+POCSAG1200: Address:   64660  Function: 0  Alpha:   21:54-97 plse call ext 0531<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2153281221+++TIME=2153281221<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:53-53 3132<NUL>
+POCSAG2400: Address: 1811056  Function: 0 
+POCSAG1200: Address: 1032677  Function: 3  Alpha:   9<BS><SYN><DC3>L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1794177  Function: 3 
+POCSAG2400: Address:  999320  Function: 3  Alpha:   <BS>x
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   21:51-52 2233<NUL>
+POCSAG1200: Address: 1336056  Function: 3 
 POCSAG1200: Address: 1983006  Function: 2  Alpha:   21:49-72 33879
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2148281221+++TIME=2148281221<NUL>
 POCSAG1200: Address:  548039  Function: 2  Alpha:   21:46-72 28/12/2021 21:45:05 INC 24895017 09E01 LARKHILL HALL NURSING HOME, 236 MUIRHEAD AVENUE EAST, NORRIS GREEN L11, L11 1ER Female 86Y ALREADY PASSED - WANTING ETA GRD 339700 394084
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1279847  Function: 2  Alpha:   0w<SO>w3<BEL>z<DEL>
 POCSAG1200: Address: 2080559  Function: 3  Alpha:   N%"GV
 POCSAG1200: Address: 1538797  Function: 2 
 POCSAG1200: Address:  156338  Function: 2  Alpha:   vPf2`
-POCSAG1200: Address:  630818  Function: 2  Alpha:   ,<ETX>#<ESC>M
-POCSAG1200: Address:  912153  Function: 3  Alpha:   <STX><SOH>
-POCSAG1200: Address:  257204  Function: 0 
-POCSAG1200: Address:  615119  Function: 1 
-POCSAG1200: Address: 1270598  Function: 2 
-POCSAG1200: Address:   76717  Function: 3 
-POCSAG1200: Address:  303429  Function: 0  Alpha:   jAJq<HT>a%<CR>
-POCSAG1200: Address:  569825  Function: 1 
-POCSAG1200: Address: 1992137  Function: 0  Alpha:   DQ
-POCSAG1200: Address:  143713  Function: 0 
