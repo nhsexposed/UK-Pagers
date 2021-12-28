@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2077824  Function: 2  Alpha:   05:17
+POCSAG1200: Address: 1377749  Function: 2  Alpha:   $*<EOT><DLE>f
+POCSAG1200: Address:  421274  Function: 1  Alpha:   <ESC><DLE>
+POCSAG1200: Address: 2011744  Function: 1 
+POCSAG1200: Address:  295511  Function: 0 
 POCSAG1200: Address: 1976400  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1188416  Function: 0 
@@ -993,8 +998,3 @@ POCSAG1200: Address:  538927  Function: 1  Alpha:   DO
 POCSAG1200: Address:  127389  Function: 1  Alpha:   -<DC4><ENQ>@$
 POCSAG2400: Address:  583556  Function: 2  Alpha:   23:07-32 80300
 POCSAG2400: Address:  583528  Function: 2  Alpha:   23:07-61 80300
-POCSAG2400: Address: 1322526  Function: 2  Alpha:   23:07-30 80300
-POCSAG1200: Address: 1573492  Function: 3  Alpha:   hld<NUL><NUL>
-POCSAG2400: Address: 1320138  Function: 2  Alpha:   23:05-34 80300
-POCSAG2400: Address:  584089  Function: 2  Alpha:   23:05-72 80300
-POCSAG2400: Address:   28870  Function: 0  Alpha:   23:05-11 PLEASE CALL 725 3945 <NUL>
