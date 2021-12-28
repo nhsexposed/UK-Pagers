@@ -1,3 +1,7 @@
+POCSAG2400: Address: 2097144  Function: 1 
+POCSAG2400: Address: 2012028  Function: 0 
+POCSAG1200: Address: 1856150  Function: 1 
+POCSAG1200: Address:  186885  Function: 2 
 POCSAG2400: Address: 1323593  Function: 2  Alpha:   07:20-86 please bleep 2016<NUL><NUL>
 POCSAG2400: Address:   11699  Function: 0  Alpha:   07:18-79 FIRE CALL<NUL><NUL>
 POCSAG1200: Address:   71654  Function: 1 
@@ -994,7 +998,3 @@ POCSAG1200: Address:  519877  Function: 2
 POCSAG1200: Address:   76363  Function: 1 
 POCSAG1200: Address:  319872  Function: 1  Alpha:   nI
 POCSAG1200: Address: 1618752  Function: 3 
-POCSAG1200: Address:  633907  Function: 0  Alpha:   n<NUL><VT>g<NAK>&k%
-POCSAG1200: Address:  385411  Function: 1  Alpha:   <SO><SOH>
-POCSAG1200: Address:  116824  Function: 2 
-POCSAG1200: Address: 1604147  Function: 0  Alpha:   @ilT<CR>m*<FF>
