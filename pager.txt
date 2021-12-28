@@ -1,3 +1,14 @@
+POCSAG1200: Address: 2003568  Function: 0 
+POCSAG2400: Address: 2003575  Function: 0 
+POCSAG2400: Address:   28907  Function: 0  Alpha:   14:38-75 5693<NUL>
+POCSAG1200: Address: 1998947  Function: 0 
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   14:37-66 PLS CALL 25457<NUL><NUL>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   14:37-50 PLS CALL 25457<NUL><NUL>
+POCSAG2400: Address: 2011898  Function: 0 
+POCSAG1200: Address: 1032699  Function: 3  Alpha:   <ACK><DLE>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   14:35-65 4140<NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   14:34-89 4114<NUL>
 POCSAG1200: Address: 1512730  Function: 3  Alpha:   U<DC2>
 POCSAG2400: Address:  252200  Function: 1 
@@ -982,17 +993,6 @@ POCSAG2400: Address:   28924  Function: 0  Alpha:   11:53-63 2183<NUL>
 POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:53-74 (3/3) REPORTED*  PAGED TO INFORM AS DGC <NUL><NUL>
 POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:53-73 (1/3)Incident Information for SG037  Incident 045612-28122021 To       28/12/2021 11:47:27 Address  EASEDALE          1 WOODWAY          GUILDFORD          GU1
 POCSAG1200: Address:  585402  Function: 2  Alpha:   11:53-17 Test<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 2009205  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
