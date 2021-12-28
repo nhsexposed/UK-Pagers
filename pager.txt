@@ -1,3 +1,27 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1823281221+++TIME=1823281221<NUL>
+POCSAG2400: Address:   28916  Function: 0  Alpha:   18:23-90 4289<NUL>
+POCSAG2400: Address: 1022276  Function: 0  Alpha:   18:23-55 NHSBT - DONOR REFERRAL. Please call SHAMS ABDELRAHEEM on Direct Dial Number 07450 258847 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1320153  Function: 2  Alpha:   18:23-83 NHSBT - DONOR REFERRAL. Please call SHAMS ABDELRAHEEM on Direct Dial Number 07450 258847 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1322785  Function: 2  Alpha:   18:23-05 NHSBT - DONOR REFERRAL. Please call SHAMS ABDELRAHEEM on Direct Dial Number 07450 258847 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address: 1323145  Function: 2  Alpha:   18:23-51 NHSBT - DONOR REFERRAL. Please call SHAMS ABDELRAHEEM on Direct Dial Number 07450 258847 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG2400: Address:  549963  Function: 2  Alpha:   18:23-09 NHSBT - DONOR REFERRAL. Please call SHAMS ABDELRAHEEM on Direct Dial Number 07450 258847 Hospital MANCHESTER ROYAL INFIRMARY Dept ICU . Regards Donor Referral Line<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG1200: Address: 1761437  Function: 3  Alpha:   U<LF>
+POCSAG1200: Address:  336053  Function: 2  Alpha:   18:23-63 28/12/2021 18:22:49 INC 24894005 DX0106 32 COLLEN CRESCENT, BRANDLESHOLME BURY, BL8 1JE Male 1m 111 NWAS/**chest Infection Sickness 4 Days GRD 379017 412744
+POCSAG2400: Address: 1324542  Function: 2  Alpha:   18:22-43 INC ALERT No: 16980599 Ineffective breathing - ASTHMA ATTACK HAS INFECTION, AT: 101 PAR GREEN, PAR, PL24 2AG, Time of Call: 28/12/2021 18:19:33, Co-ords: 50.3516573 -4.7005846<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  428496  Function: 2  Alpha:   18:22-34 33867
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   18:22-77 3157<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   18:21-06 3104<NUL>
+POCSAG1200: Address:   40074  Function: 2  Alpha:   18:21-60 28/12/2021 18:20:17 INC 24893998 04B03A MITFORD LODGE, 90 MITFORD STREET, STRETFORD MANCHESTER, M32 8AQ Male 24Y ASSAULT GRD 379392 394436<NUL>
+POCSAG1200: Address:   22104  Function: 2  Alpha:   18:21-43 28/12/2021 18:17:23 INC 24893985 17A04G STAND 4, MERSEYTRAVEL, 33 CONWAY STREET, BIRKENHEAD CH41, CH41 6RT Male 55Y FALLEN ON FLOOR CANT FEEL HIS LEGS GRD 332062 388763
+POCSAG1200: Address:  216470  Function: 2  Alpha:   18:20-63 12006
+POCSAG1200: Address:  216321  Function: 2  Alpha:   18:20-71 (2/2) Roles    JY17P2:Main Pump; Talkgrp  FBER-OPS05 (42*) (DGNA)
+POCSAG1200: Address:  216321  Function: 2  Alpha:   18:20-71 (1/2)034127-28122021; M3.0.0.P MOBILISING - STANDBY; (FSTN) JY19 MAIDENHEAD,BRIDGE STREET,MAIDENHEAD,SL6 8PG; 489266,181507; Assigned: JY17P2;
+POCSAG1200: Address: 1058476  Function: 2  Alpha:   18:20-50 28/12/2021 18:18:43 INC 24893991 N111C3 93A STATION ROAD, HADFIELD GLOSSOP, SK13 1AR ProQA Overridden - COVID SYMPTOMS- BLURRED VISIONS GRD 402252 396214
+POCSAG2400: Address:   28906  Function: 0  Alpha:   18:20-05 2182<NUL>
+POCSAG1200: Address: 1032940  Function: 0 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   18:19-01 4387<NUL>
 POCSAG2400: Address: 1324566  Function: 2  Alpha:   18:19-29 INC ALERT No: 16980591 Falls - M FALLEN ONTO ROCKS, HIT HEAD, AT: 33 PINN HILL, EXETER, EX1 3TH, Time of Call: 28/12/2021 18:17:40, Co-ords: 50.7438214 -3.4653268
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1818281221+++TIME=1818281221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1818281221+++TIME=1818281221<NUL>
@@ -974,27 +998,3 @@ POCSAG2400: Address:  190022  Function: 0
 POCSAG2400: Address: 1352033  Function: 0 
 POCSAG2400: Address: 1602056  Function: 0  Alpha:   &c
 POCSAG2400: Address:   26667  Function: 3 
-POCSAG2400: Address: 1845968  Function: 0  Alpha:   <ACK>#
-POCSAG2400: Address: 1321743  Function: 2  Alpha:   16
-POCSAG2400: Address: 1158643  Function: 3  Alpha:   n<NUL><FS>A<SO>&<STX>Q<SYN>NR<STX><CR><ACK>2<STX>A2N<STX>I<SYN>NB>:<DC2><STX>=:<STX><SOH>UAeU<SOH>
-POCSAG2400: Address: 1781742  Function: 1 
-POCSAG2400: Address: 1445173  Function: 1  Alpha:   <SUB>`<DC4><CR>6
-POCSAG2400: Address:  268025  Function: 0  Alpha:   <HT>$
-POCSAG2400: Address:   14512  Function: 2  Alpha:   >Z
-POCSAG2400: Address:  949900  Function: 0  Alpha:   +_;R<SOH>
-POCSAG2400: Address: 1586999  Function: 3  Alpha:   G!
-POCSAG2400: Address:  798536  Function: 2 
-POCSAG2400: Address: 1926585  Function: 1  Alpha:   5Y_2 is cur
-POCSAG2400: Address: 1926834  Function: 2 
-POCSAG2400: Address:  452300  Function: 0  Alpha:   n<ENQ>:O<ACK>zg<SYN>
-POCSAG2400: Address: 1749379  Function: 1 
-POCSAG2400: Address: 2012037  Function: 1 
-POCSAG2400: Address:  714731  Function: 2 
-POCSAG2400: Address:  924065  Function: 1  Alpha:   <EOT>b
-POCSAG2400: Address: 1648049  Function: 3 
-POCSAG2400: Address:   84862  Function: 2  Alpha:    #
-POCSAG2400: Address: 2022585  Function: 0  Alpha:   F_ZKcMhqZ[$[]S
-POCSAG2400: Address: 1541734  Function: 2  Alpha:   z<EM>
-POCSAG2400: Address: 2058804  Function: 1 
-POCSAG2400: Address: 1712185  Function: 1 
-POCSAG2400: Address:  847129  Function: 1  Alpha:   `%<BEL>K|me<FS>&Z<SO>m]Emm-l6\tw<NAK>}E
