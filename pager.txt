@@ -1,3 +1,12 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123456789012345678y7
+POCSAG1200: Address: 1958283  Function: 1  Alpha:   <SO><SOH>
+POCSAG1200: Address:       8  Function: 3 
+POCSAG1200: Address:     612  Function: 3 
+POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address:  149456  Function: 2 
+POCSAG1200: Address: 1991285  Function: 2 
+POCSAG1200: Address:      93  Function: 3 
+POCSAG1200: Address:  655362  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0443281221+++TIME=0443281221<NUL>
 POCSAG2400: Address: 1323187  Function: 2  Alpha:   04:37-22 VANESSA FROM CAMBRIDGE VIROLOGY, SNOD NURSE PLEASE CALL 01323 257 632<NUL>
@@ -986,15 +995,6 @@ POCSAG2400: Address:       0  Function: 0
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:    7696  Function: 0 
-POCSAG2400: Address: 1085456  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
