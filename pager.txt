@@ -1,3 +1,35 @@
+POCSAG1200: Address: 1911361  Function: 2 
+POCSAG1200: Address:  981128  Function: 1 
+POCSAG1200: Address: 1032003  Function: 0 
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG1200: Address:  688739  Function: 0 
+POCSAG1200: Address:  901459  Function: 2  Alpha:   10:00-70 Site Emergency2A|arm Test,<NAK>\
+POCSAG1200: Address:  901465  Function: 2  Alpha:   10:00-36 Site Emergency Alarm Test
+POCSAG1200: Address: 1843824  Function: 0 
+POCSAG1200: Address:  820840  Function: 2  Alpha:   10:00-58 Site Emergency Alarm Test
+POCSAG2400: Address:   86605  Function: 3  Alpha:   <BEL>K7<ETX>Q<SYN>OS
+POCSAG2400: Address:  225601  Function: 2  Alpha:   10:00-73 Site Emergenc
+POCSAG1200: Address:  618929  Function: 2  Alpha:   10:00-83 Site Emergency Alarm Test
+POCSAG1200: Address: 2008664  Function: 2 
+POCSAG1200: Address: 2045176  Function: 2 
+POCSAG1200: Address: 2028158  Function: 1 
+POCSAG1200: Address:  901451  Function: 2 
+POCSAG1200: Address: 1418850  Function: 0 
+POCSAG1200: Address: 1745526  Function: 3 
+POCSAG1200: Address:  901431  Function: 2  Alpha:   10:00-69 Site Emergency Alarm Test
+POCSAG1200: Address:  901418  Function: 2  Alpha:   10:00-09 Site Emergency Al-zl Test
+POCSAG1200: Address:  225792  Function: 2  Alpha:   90*00-75 Site Emergency Alarm Test
+POCSAG1200: Address: 2071138  Function: 0 
+POCSAG1200: Address:  820840  Function: 2  Alpha:   10:00-57 Site Emergency Alarm Test
+POCSAG1200: Address:  371983  Function: 2  Alpha:   10:00-96 Site Emergency Alarm Test
+POCSAG1200: Address:  901428  Function: 2  Alpha:   10:00-11 Site Emergency Alarm Test
+POCSAG1200: Address:  265571  Function: 2  Alpha:   10:00-65 Site Emergency Alarm Test
+POCSAG2400: Address:  225601  Function: 2  Alpha:   10:00-72 Site Emergency Alarm Test
+POCSAG1200: Address:  619447  Function: 2  Alpha:   10:00-61 Site Emergency Alarm Test
+POCSAG1200: Address:  618929  Function: 2  Alpha:   10:00-82 Site Emergency Alarm Test
+POCSAG1200: Address:  314587  Function: 2  Alpha:   Y2{82=48 Site Emergency Alarm Test
+POCSAG1200: Address:  619413  Function: 2  Alpha:   10:00-50 Site Emergency Alarm Test
+POCSAG1200: Address:  225792  Function: 2  Alpha:   10:00-74 Site Emergency Alarm Test
 POCSAG2400: Address:  959605  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0958281221+++TIME=0958281221<NUL>
 POCSAG2400: Address: 1095090  Function: 0 
@@ -966,35 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  662179  Function: 1 
-POCSAG1200: Address: 1046897  Function: 1 
-POCSAG1200: Address: 1679953  Function: 3 
-POCSAG1200: Address: 1140781  Function: 3  Alpha:   0[
-POCSAG1200: Address: 1257086  Function: 0 
-POCSAG1200: Address:  336165  Function: 2 
-POCSAG1200: Address:  844234  Function: 1 
-POCSAG1200: Address:  155838  Function: 2  Alpha:   I<HT><LF>R<SYN><SUB>(5<SOH>\2
-POCSAG1200: Address:  406156  Function: 0 
-POCSAG1200: Address:   42213  Function: 2  Alpha:   07:41-93 FAO N<SOH><EOT>)
-POCSAG1200: Address: 1673137  Function: 2  Alpha:   ``n<NUL><NUL>
-POCSAG1200: Address: 1711142  Function: 1 
-POCSAG1200: Address: 1817190  Function: 0 
-POCSAG1200: Address:  374372  Function: 0 
-POCSAG1200: Address:  912840  Function: 1 
-POCSAG1200: Address: 1172948  Function: 3 
-POCSAG1200: Address:  241565  Function: 2  Alpha:   9I
-POCSAG1200: Address:  993591  Function: 1 
-POCSAG1200: Address:  175402  Function: 3  Alpha:   "-
-POCSAG1200: Address: 1850242  Function: 3  Alpha:   Ne c0
