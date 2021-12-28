@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1320382  Function: 2  Alpha:   15:24-28 5531<NUL>
+POCSAG2400: Address:   28906  Function: 0  Alpha:   15:24-98 3140<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1876025  Function: 2 
+POCSAG2400: Address:   28906  Function: 0  Alpha:   15:24-97 3105<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1523281221+++TIME=1523281221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1523281221+++TIME=1523281221<NUL>
+POCSAG1200: Address:  663670  Function: 2  Alpha:   .v<ACK><SUB>%<DEL>~&<ACK>"|>w<ACK>2<SYN><DEL>n<ACK>Jv<RS>N&.v&<BEL>"t$t<EOT><VT><DC3>K#3k<DC2>C<VT><DC3><DC3><ETX><DC3><VT>S<ETX>"t<<FF><DC3><ETX><LF><RS><BEL>2$<FS><ENQ>2<SYN><DEL>n<ACK>B<FF><DC4>EB<FF><SYN><ETB><DEL>><SO>&/N<STX>
+POCSAG1200: Address:  366238  Function: 2  Alpha:   15:23-35 The following resources/officers hav
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:23-33 5531<NUL>
+POCSAG1200: Address: 1560676  Function: 2  Alpha:   <DC2>m];L
+POCSAG1200: Address:  290052  Function: 3  Alpha:   <ACK>O
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
+POCSAG1200: Address:  585450  Function: 2  Alpha:   15:20-56 4188<NUL>
+POCSAG1200: Address:  850920  Function: 3 
+POCSAG1200: Address: 1032650  Function: 3  Alpha:   E@
 POCSAG1200: Address:  679608  Function: 2  Alpha:   15:19-62 69002
 POCSAG1200: Address:  649969  Function: 2  Alpha:   15:19-87 69002
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1518281221+++TIME=1518281221<NUL>
@@ -981,20 +998,3 @@ POCSAG2400: Address: 1160002  Function: 0  Alpha:   pedz<DC4>
 POCSAG2400: Address:  769633  Function: 0 
 POCSAG2400: Address: 1534081  Function: 1 
 POCSAG2400: Address: 1978742  Function: 0 
-POCSAG2400: Address: 1008114  Function: 1 
-POCSAG2400: Address: 1653477  Function: 2 
-POCSAG2400: Address:  866321  Function: 3 
-POCSAG2400: Address:  193633  Function: 0 
-POCSAG2400: Address:  452308  Function: 2 
-POCSAG2400: Address:  828800  Function: 0 
-POCSAG2400: Address: 1915056  Function: 1 
-POCSAG2400: Address:  602224  Function: 3 
-POCSAG2400: Address: 1324625  Function: 2  Alpha:   13:01-94 CLINICAL MANAGER RING BED MANAGEMENT PLS - 0300 421 7990 <NUL><NUL>
-POCSAG2400: Address:  959093  Function: 3 
-POCSAG2400: Address: 1746555  Function: 1 
-POCSAG2400: Address: 1324613  Function: 2  Alpha:   13:01-93 CLINICAL MANAGER RING BED MANAGEMENT PLS - 0300 421 7990 $<STX>
-POCSAG2400: Address: 1324617  Function: 2  Alpha:   13:01-44 13:01-43 CL
-POCSAG2400: Address: 1324624  Function: 2  Alpha:   13:01-93 CLINICAL MANAGER RING BED MANAGEMENT PLS - 0300 421 7990 <NUL><NUL>
-POCSAG2400: Address: 1876084  Function: 2 
-POCSAG2400: Address: 1324616  Function: 2  Alpha:   13:01-07 CLINICAL MANAGER RING BED MANAGEMENT PLS - 0300 421 7990 <NUL><NUL>
-POCSAG1200: Address:  549695  Function: 2  Alpha:   13:02-50 AT
