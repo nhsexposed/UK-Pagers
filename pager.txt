@@ -1,3 +1,34 @@
+POCSAG2400: Address: 1324544  Function: 2  Alpha:   16:39-58 INC ALERT No: 16980191 Traumatic Injuries (Specific) - 3.5M - HIT HEAD - TIRED AND VOMITED - HIGH TEMP, AT: 32 HIGHER PARK, MINEHEAD, TA24 8AR, Time of Call: 28/12/2021 16:36:49, Co-ords: 51.2031928 -3.4918402<NUL><NUL>
+POCSAG1200: Address:  108029  Function: 0  Alpha:   16:38-21 please call x 4195<NUL>
+POCSAG1200: Address: 1321857  Function: 2  Alpha:   16:39-64 TEST MESSAGE PLEASE RESPOND<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1638281221+++TIME=1638281221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1638281221+++TIME=1638281221<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:38-80 4183<NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:38-81 3105<NUL>
+POCSAG1200: Address: 1321535  Function: 2  Alpha:   16:38-07 28/12/2021 16:36:54 INC 24893549 09E02 2 WOODSIDE DRIVE, HIGH LANE STOCKPORT, SK6 8HU Male 78Y UNRESPONSIVE GRD 395554 385408
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   16:38-03 28/12/2021 16:35:22 INC 24893541 01C05 55 JACKSONS GARDENS, THE WITHENS, LIVERPOOL, L28 1AD Male 58Y abdo pain and diarrhoea GRD 342622 393538
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   &p
+POCSAG1200: Address:  108097  Function: 0  Alpha:   16:37-78 please call x 2306<LF>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1092502  Function: 2  Alpha:   16:37-48 8386<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   16:37-79 3157<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   16:37-72 5090<NUL>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   16:37-93 69001
+POCSAG1200: Address:  679608  Function: 2  Alpha:   16:37-63 69001
+POCSAG1200: Address:  649969  Function: 2  Alpha:   16:37-88 69001
+POCSAG1200: Address: 1090402  Function: 2  Alpha:   16:37-72 TEST MESSAGE PLEASE RESPOND.
+POCSAG2400: Address:  585333  Function: 2  Alpha:   16:36-10 Test bleep . Have a gd shift :
+POCSAG2400: Address: 1321206  Function: 2  Alpha:   16:36-99 Test bleep . Have a gd shift :
+POCSAG1200: Address: 1817185  Function: 2  Alpha:   16:35-10 28/12/2021 16:33:34 INC 24893529 06E01 TOWN GREEN COURT - 11, WHALLEY DRIVE, AUGHTON NR ORMSKIRK, L39 6TH Female 91Y dib- GRD 340424 405522
+POCSAG1200: Address:  334075  Function: 2  Alpha:   16:35-28 28/12/2021 16:33:34 INC 24893529 06E01 TOWN GREEN COURT - 11, WHALLEY DRIVE, AUGHTON NR ozHSKIRK, L39 6TH Female 91Y dib- GRD 340424 405522
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   16:35-72 28/12/2021 16:33:34 INC 24893529 06E01 TOWN GREEN COURT - 11, WHALLEY DRIVE, AUGHTON NR ORMSKIRK, L39 6TH Female 91Y dib- GRD 340424 405522
+POCSAG1200: Address: 1534222  Function: 2  Alpha:   16:35-16 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
+POCSAG1200: Address:  548160  Function: 2  Alpha:   16:35-68 6269<NUL>
+POCSAG1200: Address: 1321860  Function: 2  Alpha:   16:35-75 TEST MESSAGE PLS RESPOND 
+POCSAG1200: Address: 1534198  Function: 2  Alpha:   16:35-86 (1/2)028636-28122021; R4 Rescue From Unstable Surface; BEAULIEU ROAD STATION,BEAULIEU ROAD,BEAULIEU ROAD,BEAULIEU,SO42 7YQ; 434912,106306;<NUL>
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   16:35-77 61877
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   16:35-26 61877
+POCSAG2400: Address:   28907  Function: 0  Alpha:   16:34-80 3105<NUL>
 POCSAG1200: Address: 1534198  Function: 2  Alpha:   16:34-85 (1/2)028636-28122021; R3.2 Assist from Vehicle in Water BC3; BEAULIEU ROAD STATION,BEAULIEU ROAD,BEAULIEU ROAD,BEAULIEU,SO42 7YQ; 434912,106306;<NUL>
 POCSAG1200: Address: 1749620  Function: 0 
 POCSAG1200: Address:  114427  Function: 0  Alpha:   16:34-51 9901173421919
@@ -967,34 +998,3 @@ POCSAG1200: Address:  240436  Function: 1  Alpha:   9o<SO>z<US>&}<ETX><DC2><DLE>
 POCSAG1200: Address:  876936  Function: 2 
 POCSAG1200: Address: 1123999  Function: 2  Alpha:   R3
 POCSAG1200: Address:   61722  Function: 3  Alpha:   b)<BEL>JV
-POCSAG1200: Address:   46883  Function: 3 
-POCSAG1200: Address:  681456  Function: 1  Alpha:   D!<SO>TW
-POCSAG1200: Address:  677883  Function: 2  Alpha:   2q<ETX>U<ETX>a$<DLE>dg)(<SYN><DLE>d&X<ESC><CAN><EM><SYN><DLE>b'!<GS>PYXW<CAN>XWX<FS><FS><CAN><SYN><DLE>irq4xt27:<DLE>wp<ACK>he<ACK>DA
-POCSAG1200: Address:  313764  Function: 1 
-POCSAG1200: Address:  135996  Function: 3  Alpha:   98<SO>zP'<GS>hbgl
-POCSAG1200: Address:  148717  Function: 2 
-POCSAG1200: Address:  139836  Function: 3 
-POCSAG1200: Address: 1318962  Function: 3 
-POCSAG1200: Address:  782758  Function: 1 
-POCSAG1200: Address: 1172963  Function: 2 
-POCSAG1200: Address: 1145891  Function: 0  Alpha:   5M$_,
-POCSAG1200: Address: 1646928  Function: 2  Alpha:   Y'
-POCSAG1200: Address:   59955  Function: 0  Alpha:   d<SI>MJ<VT>
-POCSAG1200: Address:  647842  Function: 1  Alpha:   <FF><RS>f<ENQ>DVq<CAN>j<NAK><SUB>1<SUB>\
-POCSAG1200: Address:  896285  Function: 0  Alpha:   3[<BS>{Z
-POCSAG1200: Address: 1794117  Function: 0 
-POCSAG1200: Address:  882049  Function: 0 
-POCSAG1200: Address: 1780524  Function: 3 
-POCSAG1200: Address:  603392  Function: 2 
-POCSAG1200: Address: 1894924  Function: 1 
-POCSAG1200: Address: 1094819  Function: 0  Alpha:   "EEt<DC4>
-POCSAG1200: Address: 1062160  Function: 1  Alpha:   LS`dF
-POCSAG1200: Address: 1999395  Function: 0  Alpha:   e=IAAA1<SOH>5&O7<BEL>S<SI>#k<SOH>AAA1<SOH><CR>K<SUB>j<SOH>A1<SOH>5<ACK>S<SI>#<ETX>M<SO>?K<ETB>k<SOH>I<SOH> j
-POCSAG1200: Address:   75758  Function: 1 
-POCSAG1200: Address:  860015  Function: 1  Alpha:   <FF>tN<STX>2e<DC4>|
-POCSAG1200: Address: 1515886  Function: 0 
-POCSAG1200: Address: 1508139  Function: 0  Alpha:   A2
-POCSAG1200: Address:  243447  Function: 2 
-POCSAG1200: Address: 1880236  Function: 3  Alpha:   .V.<BEL>b
-POCSAG1200: Address:  101495  Function: 0  Alpha:   $<VT>
-POCSAG1200: Address:  794680  Function: 3  Alpha:   X<FS>
