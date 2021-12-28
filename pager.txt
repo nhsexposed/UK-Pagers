@@ -1,3 +1,35 @@
+POCSAG2400: Address:   11678  Function: 0  Alpha:   19:58-82 Jonathan is responding
+POCSAG1200: Address: 1105713  Function: 1 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1958281221+++TIME=1958281221<NUL>
+POCSAG2400: Address: 2053192  Function: 2 
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>cD<DC1>L
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1669760  Function: 3  Alpha:   <CAN>D
+POCSAG2400: Address: 2074228  Function: 2 
+POCSAG2400: Address: 1324553  Function: 2  Alpha:   19:57-68 Start Shift Acknowledged Thank you<NUL><NUL>
+POCSAG1200: Address:  695980  Function: 2  Alpha:   19:56-97 28/12/2021 19:52:05 INC 24894465 10D04 14 CRAVEN ROAD, BROADHEATH ALTRINCHAM, WA14 5JD Female 27Y DIB, SWEATING, PAIN DOWN BACK, UNWELL GRD 376194 389578
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>#<CR><DLE>L
+POCSAG1200: Address: 1259126  Function: 2  Alpha:   19:56-29 28/12/2021 19:54:48 INC 24894482 02E01 16 WHARTON AVENUE, THORNTON THORNTON CLEVELEYS, FY5 4DQ Female 46Y COVID POSITIVE NECK AND FACE SWOLLEN GRD 334607 442306<NUL><NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   19:56-67 28/12/2021 19:54:48 INC 24894482 02E01 16 WHARTON AVENUE, THORNTON THORNTON CLEVELEYS, FY5 4DQ Female 46Y COVID POSITIVE NECK AND FACE SWOLLEN GRD 334607 442306<NUL><NUL>
+POCSAG1200: Address: 1092646  Function: 2  Alpha:   19:56-66 28/12/2021 19:54:48 INC 24894482 02E01 16 WHARTON AVENUE, THORNTON THORNTON CLEVELEYS, FY5 4DQ Female 46Y COVID POSITIVE NECK AND FACE SWOLLEN GRD 334607 442306<NUL><NUL>
+POCSAG2400: Address:   76363  Function: 1 
+POCSAG2400: Address: 1520238  Function: 0 
+POCSAG2400: Address:  324000  Function: 3  Alpha:   nU
+POCSAG2400: Address: 1618752  Function: 3 
+POCSAG2400: Address:   26931  Function: 0  Alpha:   N+LVK
+POCSAG2400: Address: 1925527  Function: 2  Alpha:   19:@jJaf
+POCSAG2400: Address:    8235  Function: 1  Alpha:   Alb2A&+<DC3><BEL><DC3><HT><ETX><EM>A<SO>%<HT>Afnrlbf@fprrjh
+POCSAG2400: Address: 1421728  Function: 3  Alpha:   ~U<NAK>{M
+POCSAG2400: Address:  919952  Function: 2 
+POCSAG2400: Address: 1835009  Function: 0 
+POCSAG2400: Address:     628  Function: 0 
+POCSAG2400: Address:  384008  Function: 0 
+POCSAG2400: Address:       3  Function: 0 
+POCSAG2400: Address:    1552  Function: 1 
+POCSAG2400: Address:  147920  Function: 2 
+POCSAG2400: Address:  655362  Function: 0 
+POCSAG2400: Address:   11678  Function: 0  Alpha:   19:56-80 PLEASE CALL GARI
+POCSAG2400: Address: 1485434  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1953281221+++TIME=1953281221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1953281221+++TIME=1953281221<NUL>
 POCSAG1200: Address: 1090108  Function: 2  Alpha:   19:53-49 28/12/2021 19:49:29 INC 24894448 17A04 11 VICTORIA DRIVE, ROCK FERRY BIRKENHEAD CH42, CH42 1QX Female 85Y UPDATED INFO GRD 333126 386071
@@ -966,35 +998,3 @@ POCSAG1200: Address: 1472110  Function: 3
 POCSAG1200: Address:  108851  Function: 0  Alpha:   >+L~K,<SYN><ACK><EOT>0,v<BS>l
 POCSAG1200: Address: 1388962  Function: 3  Alpha:   ^A<NAK>kE
 POCSAG1200: Address: 1118224  Function: 0 
-POCSAG1200: Address:      40  Function: 2 
-POCSAG1200: Address:  134168  Function: 2 
-POCSAG1200: Address: 1837319  Function: 0 
-POCSAG1200: Address:       0  Function: 2 
-POCSAG1200: Address:  395616  Function: 0 
-POCSAG1200: Address:    5632  Function: 3  Alpha:   u<LF>
-POCSAG1200: Address:     320  Function: 0 
-POCSAG1200: Address: 1067866  Function: 2  Alpha:   19:05-09 28/12/2021 19:03:34 INC 24894235 12D02E 10 RABY CLOSE, WIDNES WA8, WA8
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   19:05-17 28/12/2021 19:03:37 INC 24894236 17D05 12 MONTROSE CLOSE, SHAVINGTON CREWE CW2, CW2 5HT Male 9Y FALL GRD 369490 351430<NUL>
-POCSAG1200: Address:  314547  Function: 2  Alpha:   19:05-56 6239<NUL>
-POCSAG2400: Address:  901450  Function: 2  Alpha:   19:05-82 2222<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
