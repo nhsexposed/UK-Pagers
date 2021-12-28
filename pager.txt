@@ -1,3 +1,8 @@
+POCSAG1200: Address:  646034  Function: 1  Alpha:   <DEL><DC2>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   02:21-16 PLEASE CALL EXT 725 3347 
+POCSAG1200: Address: 1876688  Function: 0 
+POCSAG1200: Address: 2074229  Function: 2 
 POCSAG2400: Address: 1811259  Function: 0 
 POCSAG2400: Address: 1263297  Function: 1  Alpha:   <SUB><FF>ff<ACK>B<DC3>+<DC3><ETX><NUL>
 POCSAG2400: Address: 1008256  Function: 2  Alpha:   02:16
@@ -993,8 +998,3 @@ POCSAG1200: Address:  321040  Function: 3  Alpha:   b )f,<DLE>c`$'j""P#)"PY<FS><
 POCSAG1200: Address:  267769  Function: 1 
 POCSAG1200: Address: 1877046  Function: 0 
 POCSAG1200: Address: 1071541  Function: 2  Alpha:   <ACK>z
-POCSAG1200: Address: 2007650  Function: 0 
-POCSAG1200: Address: 1581092  Function: 1  Alpha:   ,<EOT>
-POCSAG1200: Address:  127577  Function: 3  Alpha:   s<HT>
-POCSAG1200: Address:  111411  Function: 2 
-POCSAG1200: Address:  238159  Function: 0 
