@@ -1,3 +1,13 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1328281221+++TIME=1328281221<NUL>
+POCSAG1200: Address: 1032937  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address:   28907  Function: 0  Alpha:   13:27-73 4179<NUL>
+POCSAG2400: Address: 2023994  Function: 3 
+POCSAG1200: Address: 1032620  Function: 3  Alpha:   <DLE>D<FF>$y<SO>0f
+POCSAG2400: Address: 2073842  Function: 0 
+POCSAG2400: Address:  533681  Function: 1  Alpha:   <<FF>t<EOT>",<ACK>'<BEL>J<FS>,<ENQ>r<STX><DC2>-><SO><SYN>'<RS><BEL>"|v~<SYN><BEL><DC2>-6.<SYN><ETB><SI>f<ACK>bLv.
+POCSAG2400: Address:  278789  Function: 3  Alpha:   eCYA<CAN>S]K
+POCSAG1200: Address:  600915  Function: 0 
 POCSAG1200: Address:  434737  Function: 0 
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:23-42 28/12/2021 13:21:49 INC 24892618 12D02 5 THE PADDOCK, RAMSBOTTOM CENTRAL BURY, BL0 9HP Female 85Y SHAKING GRD 378882 417391<NUL><NUL>
 POCSAG1200: Address:  269168  Function: 2  Alpha:   13:23-72 28/12/2021 13:21:49 INC 24892618 12D02 5 THE PADDOCK, RAMSBOTTOM CENTRAL BURY, BL0 9HP Female 85Y SHAKING GRD 378
@@ -988,13 +998,3 @@ POCSAG2400: Address:  532597  Function: 0
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address: 2028033  Function: 0 
-POCSAG2400: Address:   59435  Function: 1 
-POCSAG2400: Address:  481766  Function: 2 
-POCSAG2400: Address: 1740659  Function: 2 
-POCSAG2400: Address: 1692528  Function: 3  Alpha:   feb<NAK>6
-POCSAG2400: Address: 1511094  Function: 1  Alpha:   <SO>H
-POCSAG2400: Address: 1306716  Function: 0 
-POCSAG2400: Address:  372774  Function: 3 
-POCSAG2400: Address:  472287  Function: 2  Alpha:   <CAN><ETB>Ch"w4/
