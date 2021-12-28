@@ -1,3 +1,16 @@
+POCSAG2400: Address:   28908  Function: 0  Alpha:   23:14-43 4482<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2313281221+++TIME=2313281221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   23:13-08 4482<NUL>
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   23:12-02 28/12/2021 23:06:15 INC 24895391 06E01 H M PRISON HINDLEY, BARRACKS ROAD, BICKERSHAW WIGAN, WN2 5TH Male 36Y DIB GRD 361841 402497<NUL>
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   23:12-02 28/12/2021 23:06:49 INC 24895393 36A02A 12 WYNNSTAY STREET, TOXTETH L8, L8 3UD Female 30Y CHEST PAIN GRD 336378 388523<NUL>
+POCSAG1200: Address: 1313125  Function: 2  Alpha:   23:10-43 03003000044
+POCSAG2400: Address:  149253  Function: 2  Alpha:   23:10-66 03003000044
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   23:<EM> -75 03003000044
+POCSAG2400: Address: 1323475  Function: 2  Alpha:   23:10-28 03003000044
+POCSAG1200: Address:   33723  Function: 2  Alpha:   23:10-34 03003000044
+POCSAG2400: Address: 1095090  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3A<NUL><NUL>
 POCSAG2400: Address: 1095090  Function: 0 
 POCSAG1200: Address:  600656  Function: 0  Alpha:   23:06-03 .<NUL>
@@ -985,16 +998,3 @@ POCSAG1200: Address:  761249  Function: 1
 POCSAG1200: Address: 1152883  Function: 2  Alpha:   f 
 POCSAG1200: Address: 1257254  Function: 0 
 POCSAG1200: Address:  394541  Function: 0 
-POCSAG1200: Address:  792817  Function: 1 
-POCSAG1200: Address: 1652476  Function: 1 
-POCSAG1200: Address:  371827  Function: 1  Alpha:   n@Jp.
-POCSAG1200: Address: 1257062  Function: 0 
-POCSAG1200: Address:    8216  Function: 2  Alpha:   <BS><VT>
-POCSAG1200: Address: 1587827  Function: 0 
-POCSAG1200: Address:  276072  Function: 2 
-POCSAG1200: Address: 1242126  Function: 1 
-POCSAG1200: Address: 1339682  Function: 0  Alpha:   'e$T<FF>
-POCSAG1200: Address: 1696841  Function: 2  Alpha:   HX(@<DC4><NAK>a<DC3>
-POCSAG1200: Address:  112333  Function: 2  Alpha:   9c
-POCSAG1200: Address:  877952  Function: 0 
-POCSAG1200: Address:  359236  Function: 3 
