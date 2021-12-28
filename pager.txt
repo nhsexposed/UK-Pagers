@@ -1,3 +1,53 @@
+POCSAG1200: Address: 1966608  Function: 0 
+POCSAG1200: Address:   49263  Function: 2  Alpha:   15:54-97 MEDICAL EMERGENCY. WARD 41. DM
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1553281221+++TIME=1553281221<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:53-23 33879
+POCSAG2400: Address:   28908  Function: 0  Alpha:   15:53-37 4165<NUL>
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address: 1323480  Function: 2  Alpha:   15:52-8<EOT>
+POCSAG2400: Address:      32  Function: 0 
+POCSAG2400: Address:  231095  Function: 1  Alpha:   `L
+POCSAG2400: Address: 1799854  Function: 0 
+POCSAG2400: Address:  453732  Function: 1 
+POCSAG2400: Address: 1838626  Function: 1 
+POCSAG2400: Address:  238950  Function: 2 
+POCSAG2400: Address:  352519  Function: 2 
+POCSAG2400: Address:  878967  Function: 1 
+POCSAG2400: Address: 1778320  Function: 2 
+POCSAG2400: Address: 1894441  Function: 2  Alpha:   <US>i
+POCSAG2400: Address: 1208648  Function: 1  Alpha:   ,M TOLxT
+POCSAG2400: Address: 1338116  Function: 2 
+POCSAG2400: Address:  420884  Function: 2 
+POCSAG2400: Address: 1849648  Function: 1 
+POCSAG2400: Address: 1815787  Function: 3 
+POCSAG2400: Address: 1515694  Function: 0  Alpha:   ]A
+POCSAG2400: Address: 1679973  Function: 2  Alpha:   d<SOH><SI>j$
+POCSAG2400: Address:  660026  Function: 0  Alpha:   :<LF>
+POCSAG2400: Address: 1305376  Function: 3 
+POCSAG2400: Address: 1160363  Function: 3  Alpha:   4u<x<STX>
+POCSAG2400: Address:  603637  Function: 1  Alpha:   T!ClN
+POCSAG2400: Address: 2044516  Function: 3 
+POCSAG2400: Address: 1632858  Function: 3  Alpha:   m<HT>
+POCSAG2400: Address:  175694  Function: 0  Alpha:   $<BEL>
+POCSAG2400: Address:  811316  Function: 1  Alpha:   D!
+POCSAG2400: Address: 1845774  Function: 1 
+POCSAG2400: Address: 1323478  Function: 2  Alpha:   15:52-92<NUL>P 
+POCSAG2400: Address: 1679893  Function: 3  Alpha:   DICATION 07867988206
+POCSAG2400: Address: 1974702  Function: 0  Alpha:   <ACK>r*<SYN>zGNz
+POCSAG2400: Address: 2045601  Function: 2 
+POCSAG2400: Address:  124971  Function: 0 
+POCSAG2400: Address: 1405359  Function: 1  Alpha:   >U<HT>[Y
+POCSAG2400: Address:  930560  Function: 3  Alpha:   V<LF>
+POCSAG2400: Address: 1323479  Function: 2  Alpha:   15:52-72 PLS CALL SANDRA FROM FOLKTON CONCERNING PATIENTS MEDICATION 0786798820
+POCSAG2400: Address: 1323483  Function: 2  Alpha:   15:52-49 PLS CALL SANDRA FROM FOLKTON CONCERNING PATIENTS MEDICATION 0786798820
+POCSAG2400: Address: 1323486  Function: 2  Alpha:   15:52-27 PLS CALL SANDRA FROM FOLKTON CONCERNING PATIENTS MEDICATION 0786798820
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address:  585013  Function: 2  Alpha:   15:50-98 A MESSAGE FOR BETHAN CHICHESTER AT LEWIS NEDUS. CONCERNING MAGNUS TITT. TODAY HE TESTED POSITIVE IN BULLINGDON PRISON. HE IS VERY CONCERNED BECAUSE 10 DAYS OF ISOLATION WILL TAKE HIM BEYOND HIS HEARING DATE. CAN YOU PLEASE CONTACT HIM OR CAN YOU CALL ME PLEASE.<LF>LEONORA PITT - 07800755870
+POCSAG1200: Address: 1573639  Function: 2  Alpha:   15:50-63 28/12/2021 15:35:39 INC 24893255 10C01 3 ST JOHNS ROAD, NR BURNLEY, BB12 6RP Male 59Y SUI<DC2>ADAL GRD 382457 432876<NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>#<CR>@L
+POCSAG1200: Address: 1032940  Function: 0 
+POCSAG1200: Address: 1511969  Function: 3  Alpha:   <ACK><DLE>
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF><HT>cL
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -948,53 +998,3 @@ POCSAG2400: Address:  534843  Function: 1
 POCSAG2400: Address: 1302120  Function: 1 
 POCSAG2400: Address:   28896  Function: 0  Alpha:   13:49-77 2183<NUL>
 POCSAG2400: Address:  548053  Function: 2  Alpha:   13:50-94 C REM
-POCSAG2400: Address:  816984  Function: 2  Alpha:   13:49-18 ADAM BROOKS HOSPITAL MICROBIOLOGY MARTIN STRICKLAND 01223349796<NUL><NUL>
-POCSAG2400: Address:  225480  Function: 2  Alpha:   13:49-22 ADAM BROOKS HOSPITAL MICROBIOLOGY MARTIN STRICKLAND 01223349796<NUL><NUL>
-POCSAG2400: Address:  225481  Function: 2  Alpha:   13:49-45 ADAM BROOKS HOSPITAL MICROBIOLOGY MARTIN STRICKLAND 01223349796<NUL><NUL>
-POCSAG2400: Address: 1008325  Function: 2  Alpha:   13:49-68 ADAM BROOKS HOSPITAL MICROBIOLOGY MARTIN STRICKLAND 01223349796<NUL><NUL>
-POCSAG1200: Address: 1933163  Function: 2  Alpha:   13:48-19 3991<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2026357  Function: 2 
-POCSAG1200: Address:  913445  Function: 2 
-POCSAG1200: Address: 1946496  Function: 0  Alpha:   s?
-POCSAG1200: Address:   76363  Function: 1 
-POCSAG1200: Address: 1520750  Function: 1 
-POCSAG1200: Address:  324016  Function: 1  Alpha:   nM
-POCSAG1200: Address: 1618752  Function: 3 
-POCSAG1200: Address: 1573639  Function: 2  Alpha:   13:@fPah
-POCSAG1200: Address: 1448972  Function: 2  Alpha:   78 427583<NUL><NUL>
-POCSAG1200: Address:  367612  Function: 1 
-POCSAG1200: Address:  338423  Function: 0 
-POCSAG1200: Address: 1733024  Function: 2 
-POCSAG1200: Address: 1558310  Function: 0  Alpha:   q0<ETB><DLE>[?PY
-POCSAG1200: Address: 1745492  Function: 0 
-POCSAG1200: Address: 1706290  Function: 1 
-POCSAG1200: Address:  733408  Function: 3 
-POCSAG1200: Address: 1686240  Function: 3 
-POCSAG1200: Address: 1734316  Function: 3 
-POCSAG1200: Address:   67174  Function: 2  Alpha:   N@
-POCSAG1200: Address:  111642  Function: 2  Alpha:   s)
-POCSAG1200: Address:  111139  Function: 3 
-POCSAG1200: Address: 1450336  Function: 0 
-POCSAG1200: Address: 1450864  Function: 3 
-POCSAG1200: Address: 2007776  Function: 1 
-POCSAG1200: Address:  847909  Function: 2 
-POCSAG1200: Address: 1880960  Function: 0  Alpha:   #?
-POCSAG1200: Address: 1843726  Function: 0  Alpha:   A<ESC>\a<EM>
-POCSAG1200: Address:  338423  Function: 0 
-POCSAG1200: Address: 1733088  Function: 2 
-POCSAG1200: Address: 1558374  Function: 0  Alpha:   q0<ETB><DLE>;?PY
-POCSAG1200: Address: 1706290  Function: 1 
-POCSAG1200: Address: 1686240  Function: 3 
-POCSAG1200: Address: 1450034  Function: 1 
-POCSAG1200: Address:  111139  Function: 3 
-POCSAG1200: Address: 2025462  Function: 1 
-POCSAG1200: Address:  616884  Function: 1  Alpha:   TO
-POCSAG1200: Address:  847909  Function: 2 
-POCSAG1200: Address: 1880960  Function: 0  Alpha:   c?
-POCSAG1200: Address: 1860110  Function: 0  Alpha:   A<ESC>\Q<EM>
-POCSAG1200: Address:   10827  Function: 1 
-POCSAG1200: Address:  269107  Function: 2  Alpha:   13:38-18 28/12/2021 13:36<SUB>`b
-POCSAG1200: Address:      16  Function: 2 
-POCSAG1200: Address:  637875  Function: 2  Alpha:   pf
-POCSAG1200: Address:  459686  Function: 1 
