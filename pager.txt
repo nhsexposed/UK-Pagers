@@ -1,3 +1,11 @@
+POCSAG2400: Address: 1877042  Function: 0 
+POCSAG1200: Address: 1573096  Function: 0 
+POCSAG1200: Address: 1032913  Function: 3  Alpha:   <ACK><EM>
+POCSAG2400: Address:  549199  Function: 2  Alpha:   08:23-62 80300
+POCSAG2400: Address: 1483363  Function: 0 
+POCSAG1200: Address:  114427  Function: 0  Alpha:   08:21-40 01173421914
+POCSAG1200: Address: 1848180  Function: 0 
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   08:20-55 4163<NUL>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1939059  Function: 1  Alpha:   r<NUL>
 POCSAG1200: Address:  270368  Function: 0  Alpha:   <CAN><GS>
 POCSAG1200: Address: 1700672  Function: 3 
 POCSAG1200: Address:  108851  Function: 0  Alpha:   >+L~K
-POCSAG1200: Address: 1384866  Function: 1  Alpha:   ^U!kM
-POCSAG1200: Address: 1118224  Function: 0 
-POCSAG1200: Address: 1445282  Function: 0  Alpha:   <CAN>j<ETB>Pv-v<STX>k 68Y CANT BREATHE GRD 346615 415594<NUL>
-POCSAG1200: Address:  941427  Function: 1  Alpha:   <DC4>=K<STX>2
-POCSAG1200: Address: 1745889  Function: 0 
-POCSAG1200: Address: 1618173  Function: 3  Alpha:   R$<LF>O<DC2>
-POCSAG1200: Address:  148654  Function: 2 
-POCSAG1200: Address:  601784  Function: 0 
