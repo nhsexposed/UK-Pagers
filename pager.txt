@@ -1,3 +1,20 @@
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   5<FF>
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   14:43-66 2616<NUL>
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   14:43-71 64810
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   14:43-20 64810
+POCSAG512: Address: 1737444  Function: 1 
+POCSAG1200: Address: 1485483  Function: 0 
+POCSAG1200: Address: 2016115  Function: 0 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   14:41-80 4155<NUL>
+POCSAG1200: Address:  348872  Function: 0 
+POCSAG2400: Address:   28906  Function: 0  Alpha:   14:41-92 3117<NUL>
+POCSAG1200: Address:  478497  Function: 0 
+POCSAG1200: Address: 1746529  Function: 0 
+POCSAG1200: Address: 1761390  Function: 2  Alpha:   UJ
+POCSAG1200: Address: 2011703  Function: 2 
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG2400: Address: 1022550  Function: 0  Alpha:   14:39-58 74231
 POCSAG1200: Address: 2003568  Function: 0 
 POCSAG2400: Address: 2003575  Function: 0 
 POCSAG2400: Address:   28907  Function: 0  Alpha:   14:38-75 5693<NUL>
@@ -981,20 +998,3 @@ POCSAG1200: Address:  197128  Function: 2
 POCSAG1200: Address: 1409837  Function: 2  Alpha:   df
 POCSAG1200: Address: 1248776  Function: 2 
 POCSAG1200: Address:  672791  Function: 3  Alpha:   ,-Lg<DC2>
-POCSAG1200: Address: 2011213  Function: 3 
-POCSAG1200: Address:  688684  Function: 0  Alpha:   O 
-POCSAG1200: Address:  560275  Function: 2  Alpha:   h<CAN>9XJ
-POCSAG1200: Address:  627522  Function: 1 
-POCSAG1200: Address:  420477  Function: 2 
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   11:54-63 6464810<NUL>
-POCSAG2400: Address: 1913627  Function: 2  Alpha:   11:54-59 4157<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1153281221+++TIME=1153281221<NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   11:53-63 2183<NUL>
-POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:53-74 (3/3) REPORTED*  PAGED TO INFORM AS DGC <NUL><NUL>
-POCSAG1200: Address: 1312594  Function: 2  Alpha:   11:53-73 (1/3)Incident Information for SG037  Incident 045612-28122021 To       28/12/2021 11:47:27 Address  EASEDALE          1 WOODWAY          GUILDFORD          GU1
-POCSAG1200: Address:  585402  Function: 2  Alpha:   11:53-17 Test<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
