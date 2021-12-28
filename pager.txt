@@ -1,3 +1,6 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0713281221+++TIME=0713281221<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG512: Address: 1717873  Function: 0 
 POCSAG1200: Address: 1925527  Function: 2  Alpha:   07
 POCSAG1200: Address: 1966610  Function: 0 
 POCSAG1200: Address:  958544  Function: 0 
@@ -995,6 +998,3 @@ POCSAG1200: Address:  334075  Function: 2  Alpha:   00:18-01 28/12/2021 00
 POCSAG1200: Address: 1762033  Function: 1 
 POCSAG2400: Address: 1260135  Function: 2 
 POCSAG2400: Address: 1748515  Function: 0 
-POCSAG2400: Address: 1320280  Function: 2  Alpha:   00:11-87 2180<NUL>
-POCSAG1200: Address: 1548530  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3A<NUL><NUL>
