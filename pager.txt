@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   19:14-22 Please call A/E Resus 32397<NUL>
+POCSAG1200: Address: 1032677  Function: 3  Alpha:   <DC2>C<GS><L
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1913281221+++TIME=1913281221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1913281221+++TIME=1913281221<NUL>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   19:13-41 8252<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   19:13-05 3508<NUL>
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   19:13-03 2097<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG2400: Address: 1320721  Function: 2  Alpha:   19:12-63 5530<NUL>
+POCSAG1200: Address: 1562660  Function: 2  Alpha:   19:12-63 28/12/2021 19:09:35 INC 24894264 10D04 39 MELLAND ROAD, GORTON MANCHESTER, M18 7QA Male 46Y PAIN IN LEFT SIDE OF CHEST GRD 388331 395267
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   19:11-02 28/12/2021 19:10:27 INC 24894268 06E01 7 WATERSON AVENUE, MOSTON MANCHESTER, M40 9BY Female 29Y F - CANT BREATHE GRD 387139 401137<NUL>
+POCSAG1200: Address:  334075  Function: 2  Alpha:   19:11-70 28/12/2021 19:10:27 INC 24894268 06E01 7 WATERSON AVENUE, MOSTON MANCHESTER, M40 9BY Female 29Y F - CANT BREATHE GRD 387139 401137<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:11-79 5530<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:10-95 5202<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   19:10-04 4114<NUL>
+POCSAG2400: Address:   28870  Function: 0  Alpha:   19:09-24 PLS CALL 7253943
+POCSAG1200: Address: 1321960  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   19:09-34 Please Call Switchboard<NUL><NUL>
 POCSAG1200: Address: 1321960  Function: 0 
 POCSAG1200: Address:  269168  Function: 2  Alpha:   19:09-28 28/12/2021 19:08:04 INC 24894256 31D03 229 ASHWORTH LANE, ASTLEY BRIDGE BOLTON, BL1 8RS Female 38Y ABDO PAIN COLLAPSED GRD 372105 412188
 POCSAG2400: Address:       0  Function: 0 
@@ -980,21 +998,3 @@ POCSAG1200: Address:  108097  Function: 0  Alpha:   18:41-79 PLEASE CALL X 2083<
 POCSAG1200: Address:  699768  Function: 1 
 POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
 POCSAG2400: Address:   28907  Function: 0  Alpha:   18:40-87 4310<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address: 1321566  Function: 2  Alpha:   18:40-73 PLS CONTACT DVH SWITCHBOARD<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address:  214093  Function: 2  Alpha:   18:40-69 28/12/2021 18:34:34 INC 24894076 06D02 25 BELL VILLAS, GIB LANE, HOGHTON PRESTON, PR5 0RT Female 83Y DIB GRD 361363 427445
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG1200: Address:  354553  Function: 2  Alpha:   i<NUL>
-POCSAG2400: Address: 1322541  Function: 2  Alpha:   18:39-21 New Voicemail from 01823344989 - 01823344989, <CR><LF>You have received a new voice mail from "01823344989 -"01823344989"<CR><LF><HT><HT><HT><CR><LF>From:01823344989 <CR><LF>To: 2159" - "On Call Engineer 2" "(IT)CVB"<CR><LF>Received:"2021-12-28 18:38:53"<CR><LF>Duration:"00:
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
