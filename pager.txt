@@ -1,3 +1,19 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1533281221+++TIME=1533281221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1533281221+++TIME=1533281221<NUL>
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   15:33-95 4684<NUL>
+POCSAG2400: Address: 1896048  Function: 0 
+POCSAG1200: Address: 1031691  Function: 3  Alpha:   #<STX>
+POCSAG1200: Address:  108090  Function: 0  Alpha:   15:33-14 PRIMARY PCI TO CALL CCU.<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1032650  Function: 3  Alpha:   E@
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <DC2>@
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF><HT><FS>(<DLE>2f
+POCSAG1200: Address:  122043  Function: 2  Alpha:   15:31-36 Please call AGH switchboard on 01535 652511<NUL><NUL>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:31-35 3157<NUL>
+POCSAG1200: Address: 1534139  Function: 2  Alpha:   15:30-19 CONTACT CONTROL 
+POCSAG1200: Address: 1534179  Function: 2  Alpha:   15:30-02 CONTACT CONTROL 
+POCSAG1200: Address: 1534251  Function: 2  Alpha:   15:30-70 CONTACT CONTROL 
+POCSAG1200: Address: 1534176  Function: 2  Alpha:   15:30-15 CONTACT CONTROL 
 POCSAG1200: Address:  600484  Function: 3  Alpha:   3<ACK>
 POCSAG1200: Address:  548159  Function: 2  Alpha:   15:28-92 6708- <NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
@@ -982,19 +998,3 @@ POCSAG2400: Address:  108851  Function: 0  Alpha:   >+L~K
 POCSAG2400: Address: 1388978  Function: 1  Alpha:   ^A<ENQ>kI
 POCSAG2400: Address:   69648  Function: 0 
 POCSAG2400: Address: 1603603  Function: 3  Alpha:   @<SI>NR<FF>
-POCSAG2400: Address: 1715416  Function: 0  Alpha:   <FF>3
-POCSAG2400: Address: 1866934  Function: 2  Alpha:   <SYN><DLE>f<CAN><FS><DLE>Y"!Pf0v2P[Y,<DLE>!ib *d$g#<DLE>b$#cda*&jdb)P#)"
-POCSAG2400: Address: 1258918  Function: 2  Alpha:   R~'<STX>q
-POCSAG2400: Address:   41389  Function: 0 
-POCSAG2400: Address:  150394  Function: 3  Alpha:    "
-POCSAG2400: Address: 1530104  Function: 1  Alpha:   $<B$<GS>
-POCSAG2400: Address: 1327795  Function: 2  Alpha:   @L
-POCSAG2400: Address:   67238  Function: 3 
-POCSAG2400: Address: 1444965  Function: 2 
-POCSAG2400: Address: 1914992  Function: 1 
-POCSAG2400: Address:  602160  Function: 3 
-POCSAG2400: Address: 1843238  Function: 1 
-POCSAG2400: Address:  125515  Function: 1 
-POCSAG2400: Address: 1569382  Function: 1 
-POCSAG2400: Address:  373136  Function: 1  Alpha:   >U
-POCSAG2400: Address: 1667904  Function: 3 
