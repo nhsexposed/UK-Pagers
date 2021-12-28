@@ -1,3 +1,7 @@
+POCSAG1200: Address: 2008735  Function: 0 
+POCSAG512: Address: 1700691  Function: 2  Alpha:   on B3 side 123
+POCSAG1200: Address: 2011891  Function: 0 
+POCSAG1200: Address:  548160  Function: 2  Alpha:   01:03-64 6266'
 POCSAG2400: Address: 1323170  Function: 2  Alpha:   00:56-51 PLEASE CALL 07890 251 939 <NUL><NUL>
 POCSAG2400: Address: 1323249  Function: 2  Alpha:   00:56-83 PLEASE CALL 07890 251 939 <NUL><NUL>
 POCSAG2400: Address: 1323183  Function: 2  Alpha:   00:56-86 PLEASE CALL 07890 251 939 <NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address:  419540  Function: 2
 POCSAG1200: Address:  930489  Function: 2  Alpha:   22:47-54 27/12/2021 22:42:30 INC 2488<SOH>r
 POCSAG1200: Address:  672997  Function: 0  Alpha:   <FF>NS,<FS>
 POCSAG1200: Address: 1316530  Function: 0 
-POCSAG1200: Address: 1023667  Function: 1 
-POCSAG1200: Address: 1068132  Function: 2 
-POCSAG1200: Address:  345193  Function: 2 
-POCSAG1200: Address: 1156230  Function: 2  Alpha:   vc
