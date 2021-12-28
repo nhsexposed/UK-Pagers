@@ -1,3 +1,18 @@
+POCSAG1200: Address: 1466771  Function: 2  Alpha:   GQ
+POCSAG1200: Address: 1319054  Function: 2  Alpha:   08:48-84 SPK OFFER Donor: 15351
+POCSAG1200: Address: 2044032  Function: 3 
+POCSAG2400: Address: 1870577  Function: 0 
+POCSAG1200: Address:  420477  Function: 2 
+POCSAG1200: Address:  295508  Function: 0 
+POCSAG2400: Address: 1814968  Function: 0  Alpha:   08:47-72 3667<NUL>
+POCSAG2400: Address: 1643648  Function: 0 
+POCSAG1200: Address: 1560771  Function: 3  Alpha:   <ACK><DLE>
+POCSAG2400: Address:  789824  Function: 1 
+POCSAG2400: Address:  131072  Function: 0 
+POCSAG2400: Address:     604  Function: 3 
+POCSAG2400: Address:  384008  Function: 0 
+POCSAG2400: Address:     293  Function: 0 
+POCSAG2400: Address:  655362  Function: 0 
 POCSAG1200: Address:  600915  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0843281221+++TIME=0843281221<NUL>
 POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1188020  Function: 1  Alpha:   ]U
 POCSAG1200: Address:   76323  Function: 2  Alpha:   $g<ETX>P#
 POCSAG1200: Address:  169610  Function: 3 
 POCSAG1200: Address:  269110  Function: 2  Alpha:   02:32-46 28
-POCSAG1200: Address: 1810801  Function: 0 
-POCSAG1200: Address:  197256  Function: 2 
-POCSAG1200: Address:  429528  Function: 1 
-POCSAG1200: Address:  206429  Function: 3 
-POCSAG1200: Address: 1672026  Function: 0  Alpha:   rb
-POCSAG1200: Address:  206425  Function: 3 
-POCSAG1200: Address:  468761  Function: 1 
-POCSAG1200: Address:  142749  Function: 0  Alpha:   <ESC>\
-POCSAG1200: Address:  987049  Function: 2  Alpha:   02:30-02 28/12/2021 02:27:51 IN
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   02:30-46 28/12/2021 
-POCSAG2400: Address: 1005536  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  300875  Function: 0  Alpha:   <NAK>s
-POCSAG1200: Address: 1980082  Function: 0 
-POCSAG1200: Address:  646034  Function: 1  Alpha:   <DEL><DC2>
