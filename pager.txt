@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1991291  Function: 0 
+POCSAG1200: Address: 2008642  Function: 0 
+POCSAG1200: Address:   49263  Function: 2  Alpha:   04:11-88 MEDICAL EMERGENCY WARD 33 DMH 
+POCSAG1200: Address: 1998949  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0408281221+++TIME=0408281221<NUL>
 POCSAG1200: Address: 2089506  Function: 1 
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   04:06-43 2343<NUL>
@@ -994,7 +998,3 @@ POCSAG2400: Address:   24576  Function: 1
 POCSAG2400: Address:  182773  Function: 1  Alpha:   <SOH><NUL>
 POCSAG2400: Address:  652220  Function: 0  Alpha:   g<ENQ>
 POCSAG2400: Address:  210342  Function: 0 
-POCSAG2400: Address:  298869  Function: 2 
-POCSAG2400: Address:  945405  Function: 2 
-POCSAG2400: Address:  649416  Function: 1 
-POCSAG2400: Address: 1505490  Function: 0 
