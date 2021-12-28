@@ -1,3 +1,5 @@
+POCSAG512: Address:  486018  Function: 2  Alpha:   |<x9<EM>h[<ESC>Hp<FF>h<<SUB>9<EM>(Ll<FF>-Mm<CR>.<SO>,Ll<FF>-Mm<CR>.<SO><FF>
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   03:58-42 2182<NUL>
 POCSAG2400: Address:  448937  Function: 0  Alpha:   eA<SOH>IM]Y<SOH>
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   03
@@ -996,5 +998,3 @@ POCSAG2400: Address: 1505490  Function: 0
 POCSAG2400: Address: 1732009  Function: 3 
 POCSAG2400: Address: 1639523  Function: 2  Alpha:   2<CAN>'P$
 POCSAG2400: Address:  663609  Function: 0  Alpha:   <BS><EM>
-POCSAG2400: Address: 1307234  Function: 3 
-POCSAG2400: Address:  125837  Function: 2 
