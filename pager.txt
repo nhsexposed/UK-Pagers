@@ -1,3 +1,13 @@
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0843281221+++TIME=0843281221<NUL>
+POCSAG1200: Address: 1032949  Function: 3  Alpha:   <DC2>#<NUL>`L
+POCSAG2400: Address:  791640  Function: 2 
+POCSAG2400: Address:     596  Function: 2  Alpha:   <CR><NUL>
+POCSAG2400: Address:  384008  Function: 0 
+POCSAG2400: Address:       3  Function: 0 
+POCSAG2400: Address:  664272  Function: 0 
+POCSAG2400: Address: 1815043  Function: 0  Alpha:   08:40-92 07526718045 - Julie Venner : 5 The Siding Bexhill-on-Sea East Sussex TN40
+POCSAG1200: Address: 1993469  Function: 0 
 POCSAG2400: Address: 1188681  Function: 0 
 POCSAG2400: Address: 1588560  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address:  300875  Function: 0  Alpha:   <NAK>s
 POCSAG1200: Address: 1980082  Function: 0 
 POCSAG1200: Address:  646034  Function: 1  Alpha:   <DEL><DC2>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address:   28870  Function: 0  Alpha:   02:21-16 PLEASE CALL EXT 725 3347 
-POCSAG1200: Address: 1876688  Function: 0 
-POCSAG1200: Address: 2074229  Function: 2 
-POCSAG2400: Address: 1811259  Function: 0 
-POCSAG2400: Address: 1263297  Function: 1  Alpha:   <SUB><FF>ff<ACK>B<DC3>+<DC3><ETX><NUL>
-POCSAG2400: Address: 1008256  Function: 2  Alpha:   02:16
-POCSAG1200: Address: 2012754  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  264945  Function: 2 
