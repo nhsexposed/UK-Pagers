@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1913751  Function: 2  Alpha:   10:38-I($4462<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1038281221+++TIME=1038281221<NUL>
+POCSAG2400: Address: 1913993  Function: 2  Alpha:   10:38-16 4183<NUL>
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1450596  Function: 0 
+POCSAG1200: Address: 1876787  Function: 0 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   10:37-70 2188<NUL>
+POCSAG1200: Address: 1016436  Function: 0 
+POCSAG1200: Address: 1959106  Function: 0 
+POCSAG2400: Address: 1913761  Function: 2  Alpha:   10:36-65 5201<NUL>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   10:35-86 65073
+POCSAG2400: Address: 1008242  Function: 2  Alpha:   10:34-95 888000<NUL><NUL>
+POCSAG1200: Address: 1119345  Function: 0 
 POCSAG2400: Address: 1933939  Function: 1 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Tes, message on B3 side 12345678901234567890
 POCSAG2400: Address: 1032947  Function: 1 
@@ -985,16 +998,3 @@ POCSAG1200: Address:  618951  Function: 1  Alpha:   \U
 POCSAG1200: Address:  342129  Function: 0  Alpha:   <RS>u
 POCSAG1200: Address:  193633  Function: 0 
 POCSAG1200: Address:   10827  Function: 1 
-POCSAG1200: Address: 1072644  Function: 3  Alpha:   44L<FS>,<DC4><ENQ><NUL> R9)12/2021 08:21<SUB>`d
-POCSAG1200: Address:  719345  Function: 2  Alpha:   In
-POCSAG1200: Address:  786786  Function: 1  Alpha:   Xi
-POCSAG1200: Address: 1685169  Function: 3 
-POCSAG1200: Address: 1413747  Function: 1  Alpha:   j<FF>
-POCSAG1200: Address:  357028  Function: 0  Alpha:   V<ETX>BZ<FF>
-POCSAG1200: Address:  340356  Function: 0 
-POCSAG1200: Address:  584082  Function: 1 
-POCSAG1200: Address: 1550323  Function: 0 
-POCSAG1200: Address:  311802  Function: 1  Alpha:   Mo
-POCSAG1200: Address: 1267129  Function: 2  Alpha:   <DLE>u
-POCSAG1200: Address: 1462631  Function: 2  Alpha:   <DC4>%
-POCSAG1200: Address:   75502  Function: 0 
