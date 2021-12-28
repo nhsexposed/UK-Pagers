@@ -1,3 +1,17 @@
+POCSAG1200: Address: 2009784  Function: 0 
+POCSAG1200: Address: 1999456  Function: 1 
+POCSAG1200: Address:  234377  Function: 2  Alpha:   12
+POCSAG1200: Address: 2061312  Function: 3  Alpha:   <SO>f.<ACK>:#K<ENQ><STX><CR>Lt<EOT>Jt<EOT>:<DC4>}Lt<EOT>:<DC4>%<EOT><SUB><ESC><DC3><VT>;+<ETX>"#3<DC3>C+
+POCSAG1200: Address: 1054215  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3B<NUL><NUL>
+POCSAG2400: Address: 1913627  Function: 2  Alpha:   12:27-60 4156<NUL>
+POCSAG1200: Address:  548159  Function: 2  Alpha:   12:26-89 3613- <NUL><NUL>
+POCSAG2400: Address:  964736  Function: 2  Alpha:   3<ETX>1&;<ETB><ETX><NUL>
+POCSAG2400: Address:  149189  Function: 2  Alpha:   12:25-85 NHSBT - DONOR REFERRAL. Please call ASHLEIGH on Direct Dial Number 07825 014
+POCSAG2400: Address:   43429  Function: 0  Alpha:   3<ETX>1&;<ETB><ETX><NUL>
+POCSAG2400: Address: 1323228  Function: 2  Alpha:   12:25-40 NHSBT - DONOR REFERRAL. Please call ASHLEIGH on Direct Dial Number 07825 014 789 Hospital NORTHWICK PARK Dept ITU . Regards Donor Ref
+POCSAG2400: Address:   28905  Function: 0  Alpha:   12:25-88 4479<NUL>
+POCSAG2400: Address: 1913679  Function: 2  Alpha:   12:24-43 3105<NUL>
 POCSAG1200: Address: 1876828  Function: 0 
 POCSAG2400: Address:   28904  Function: 0  Alpha:   12:24-71 4316<NUL>
 POCSAG2400: Address: 1324624  Function: 2  Alpha:   12:23-92 ON-CALL MANAGEMENT CALL BED MANAGER UGENTLY  AT  03004217990<NUL><NUL>
@@ -984,17 +998,3 @@ POCSAG1200: Address: 1312466  Function: 2  Alpha:   10:51-60 62291
 POCSAG2400: Address:  959411  Function: 0 
 POCSAG1200: Address: 1312467  Function: 2  Alpha:   10:51-08 62291
 POCSAG1200: Address: 1745521  Function: 3 
-POCSAG1200: Address:  585450  Function: 2  Alpha:   10:50-53 0500<NUL>
-POCSAG1200: Address:  926719  Function: 1 
-POCSAG1200: Address:  757208  Function: 3 
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   E<EM>
-POCSAG1200: Address: 1313047  Function: 0 
-POCSAG2400: Address: 2011920  Function: 0 
-POCSAG1200: Address: 1843315  Function: 0 
-POCSAG1200: Address: 1229852  Function: 0  Alpha:   <SUB>Z
-POCSAG1200: Address: 1483365  Function: 0 
-POCSAG1200: Address: 1985659  Function: 1  Alpha:   '<VT>Y@<FF>
-POCSAG2400: Address: 1391323  Function: 0  Alpha:   10:43-11 12345
-POCSAG2400: Address: 1323779  Function: 2  Alpha:   10:43-18 12345
-POCSAG1200: Address: 2063482  Function: 0 
-POCSAG2400: Address: 1876494  Function: 0  Alpha:   !<ESC>\u<CAN>Zy<EM>@<DC3><SUB>
