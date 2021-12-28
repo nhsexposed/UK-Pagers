@@ -1,3 +1,14 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2143281221+++TIME=2143281221<NUL>
+POCSAG2400: Address: 1075884  Function: 1 
+POCSAG2400: Address: 2083498  Function: 1 
+POCSAG2400: Address:  624689  Function: 3  Alpha:   <SYN>9
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2143281221+++TIME=2143281221<NUL>
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   21:43-24 28/12/2021 21:41:52 INC 24895005 25B03 126 CRANBROOK STREET, RADCLIFFE EAST MANCHESTER, M26 2XP Female 55Y SUICIDAL GRD 379412 408170
+POCSAG1200: Address:  273040  Function: 3  Alpha:   14/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  246115  Function: 2 
+POCSAG1200: Address:  353109  Function: 2  Alpha:   <DLE>$<DC1>1S*1f
+POCSAG1200: Address: 1058499  Function: 2  Alpha:   21:40-58 28/12/2021 21:37:51 INC 24894988 30D04 12 VIKING CLOSE, SOUTHPORT, PR8 4DN Male 55Y BREATHING WORSE GRD 333447 415527<NUL><NUL>
+POCSAG2400: Address:   11729  Function: 0  Alpha:   21:40-09 PLS CALL WILLIAM HARVEY HOSPITAL ON 7238865 RE : REFERRAL<NUL><NUL>
 POCSAG1200: Address: 2008955  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138281221+++TIME=2138281221<NUL>
 POCSAG1200: Address:  200957  Function: 2  Alpha:   21:38-51 PLS CALL 26719<NUL><NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address: 1652412  Function: 1
 POCSAG1200: Address: 1420339  Function: 3  Alpha:   h<NUL>KpN
 POCSAG1200: Address:  911750  Function: 1  Alpha:   <SO><SOH>
 POCSAG1200: Address:  115528  Function: 2 
-POCSAG1200: Address: 1211191  Function: 1  Alpha:   $<CR>
-POCSAG1200: Address:   30310  Function: 0 
-POCSAG1200: Address:  405196  Function: 0 
-POCSAG1200: Address:  932280  Function: 1 
-POCSAG1200: Address: 1476641  Function: 0  Alpha:   <NAK><DC2><BS><DC3><SO><VT><BS><DC3><SO><BS>,T<DC4>(U{Z{{]<ESC>(U{Z{{];<SYN>H<FF>H5<DC1><DC2>H<DC4>u<DLE>hQ<DC4><DC1>h
-POCSAG1200: Address: 1262061  Function: 0  Alpha:   >b
-POCSAG1200: Address:  190318  Function: 1  Alpha:   01C<DC4>5+1Y
-POCSAG1200: Address:  758560  Function: 1  Alpha:   <STX>"
-POCSAG1200: Address: 1188072  Function: 1 
-POCSAG1200: Address:  621801  Function: 2 
-POCSAG1200: Address:  598714  Function: 3  Alpha:   +G
