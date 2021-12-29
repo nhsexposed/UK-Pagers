@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1321294  Function: 2  Alpha:   16:14-84 Please call EXTN: 33145<NUL><NUL>
+POCSAG2400: Address: 2040968  Function: 2  Alpha:   <ETB><SI>f<ACK>bLv.
+POCSAG2400: Address: 1472576  Function: 0  Alpha:   <ETX>B|<RS><BEL>
+POCSAG2400: Address: 2029560  Function: 3 
+POCSAG1200: Address: 2007958  Function: 0 
+POCSAG1200: Address: 1511979  Function: 3  Alpha:   <SYN><SOH>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   16:09-90 4183<NUL>
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   16:08-03 4902<NUL>
 POCSAG1200: Address: 1317931  Function: 2  Alpha:   16:08-99 29/12/2021 16:03:59
@@ -992,9 +998,3 @@ POCSAG2400: Address:  296180  Function: 1
 POCSAG2400: Address:  379124  Function: 2 
 POCSAG2400: Address: 1712169  Function: 0 
 POCSAG2400: Address:  358476  Function: 2  Alpha:   SO
-POCSAG2400: Address:     148  Function: 0 
-POCSAG2400: Address: 1581939  Function: 1  Alpha:   v.
-POCSAG2400: Address:  280252  Function: 2  Alpha:   {[
-POCSAG2400: Address: 1875618  Function: 3 
-POCSAG2400: Address:  530485  Function: 1  Alpha:   U<NUL>& B
-POCSAG2400: Address: 1041860  Function: 0 
