@@ -1,3 +1,17 @@
+POCSAG1200: Address:  778848  Function: 0 
+POCSAG2400: Address: 1975392  Function: 2 
+POCSAG2400: Address: 2077817  Function: 0 
+POCSAG1200: Address: 1975161  Function: 0 
+POCSAG1200: Address: 1975908  Function: 1 
+POCSAG2400: Address: 2075217  Function: 2 
+POCSAG2400: Address: 1483320  Function: 3 
+POCSAG2400: Address: 1946231  Function: 1 
+POCSAG2400: Address: 1222258  Function: 0 
+POCSAG2400: Address: 1324616  Function: 2  Alpha:   22:47-11 PLS CALL 01452 894 545
+POCSAG2400: Address: 2073845  Function: 0 
+POCSAG2400: Address:  389745  Function: 2  Alpha:   <DLE>X<CAN>Z<SUB><EM><DLE>\<FS><SUB>P<SUB>Z<SUB>
+POCSAG2400: Address: 1483122  Function: 0 
+POCSAG1200: Address:  420439  Function: 2  Alpha:   <DC2>"<DLE><STX><NUL>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -984,17 +998,3 @@ POCSAG1200: Address:  981618  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  363505  Function: 1  Alpha:   r<FF>`A<SOH>
-POCSAG1200: Address:  389884  Function: 0 
-POCSAG1200: Address:  653512  Function: 2  Alpha:   vAn@<NUL><VT>(C<SYN>;1
-POCSAG1200: Address:  635191  Function: 2 
-POCSAG1200: Address: 1476708  Function: 0 
-POCSAG1200: Address:  701586  Function: 3 
-POCSAG1200: Address: 1096241  Function: 0 
-POCSAG1200: Address: 1651520  Function: 3 
-POCSAG1200: Address:  585591  Function: 2  Alpha:   n+LNK
-POCSAG1200: Address: 1864098  Function: 3  Alpha:   .M<SOH>SM
-POCSAG1200: Address:   16536  Function: 2 
-POCSAG1200: Address: 1980464  Function: 0 
-POCSAG1200: Address: 1978489  Function: 1 
-POCSAG1200: Address:   83558  Function: 0 
