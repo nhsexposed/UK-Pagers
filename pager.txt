@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0323291221+++TIME=0323291221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0323291221+++TIME=0323291221<NUL>
+POCSAG2400: Address: 1228800  Function: 0 
+POCSAG2400: Address: 1310727  Function: 3 
+POCSAG2400: Address:  131651  Function: 2 
+POCSAG2400: Address:   81920  Function: 0 
+POCSAG1200: Address: 2008952  Function: 0 
+POCSAG1200: Address: 1816970  Function: 2  Alpha:   03:19-80 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: ND68WLW. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>________________________________________________________________________________<CR><LF><CR><LF>Boots <NUL><NUL>
 POCSAG2400: Address:  216264  Function: 2  Alpha:   03:19-02 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
 POCSAG2400: Address:  216268  Function: 2  Alpha:   03:19-69 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
 POCSAG1200: Address:  269059  Function: 2  Alpha:   03:19-91 29/12/2021 03:17:22 INC 24896285 04D02A O/S BEES KNEES, 20-22 HARGREAVES STREET, BURNLEY, BB11 1DZ Male 22Y ASSULT GRD 383923 432535<NUL>
@@ -990,11 +998,3 @@ POCSAG1200: Address:  925168  Function: 1
 POCSAG1200: Address:  164714  Function: 2  Alpha:   "'o"6<ETX>!^
 POCSAG1200: Address:  157486  Function: 0 
 POCSAG1200: Address:  469300  Function: 0 
-POCSAG1200: Address: 1327795  Function: 2  Alpha:   @BO@n
-POCSAG1200: Address:   67238  Function: 3 
-POCSAG1200: Address:  437372  Function: 2 
-POCSAG1200: Address: 1915000  Function: 1 
-POCSAG1200: Address:  602160  Function: 3 
-POCSAG1200: Address: 1843238  Function: 1 
-POCSAG1200: Address:  125515  Function: 1 
-POCSAG1200: Address: 1570150  Function: 3 
