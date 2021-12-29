@@ -1,3 +1,72 @@
+POCSAG2400: Address: 2075383  Function: 1 
+POCSAG2400: Address: 1814997  Function: 0  Alpha:   02:46-63 helideck major trauma a&e resus eta 10 mins<NUL><NUL>
+POCSAG1200: Address: 1713248  Function: 0 
+POCSAG1200: Address:  725085  Function: 1  Alpha:   6l<SO>bc
+POCSAG1200: Address: 1441033  Function: 1 
+POCSAG2400: Address:  549123  Function: 2  Alpha:   02:45-02 4155<NUL>
+POCSAG2400: Address: 1944176  Function: 3 
+POCSAG2400: Address:  216263  Function: 2  Alpha:   02:44-70 PROBLEM: GMMHACLVDA15A is DOWN, <CR><LF>PROBLEM: GMMHACLVDA15A is DOWN<CR><LF><CR><LF>Host: GMMHACLVDA15A<CR><LF>Alias: <CR><LF>Address: 192.168.23.145<CR><LF>Host Group Hierarchy: <CR><LF>State: DOWN<CR><LF>Date & Time: Wed Dec 29 02:44:39 UTC 2021<CR><LF><CR><LF>Additional Information:<CR><LF><CR><LF>CRITICAL<NUL><NUL>
+POCSAG1200: Address: 1432953  Function: 0 
+POCSAG1200: Address:  819912  Function: 3 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address: 2011649  Function: 0 
+POCSAG2400: Address:   26671  Function: 1 
+POCSAG2400: Address:  200423  Function: 2  Alpha:   <NUL>a$GhHql
+POCSAG2400: Address:  189364  Function: 3  Alpha:   &dO!v
+POCSAG2400: Address:  941495  Function: 3 
+POCSAG2400: Address: 1481382  Function: 3  Alpha:   ^L
+POCSAG2400: Address: 1926201  Function: 1  Alpha:   I<US>{gA
+POCSAG2400: Address: 1571054  Function: 0  Alpha:   <SO><SOH>
+POCSAG2400: Address:  914357  Function: 3 
+POCSAG2400: Address:  239819  Function: 1 
+POCSAG2400: Address: 1650995  Function: 0  Alpha:   Qe4j<FF>L.<VT>
+POCSAG2400: Address:  343148  Function: 2 
+POCSAG2400: Address: 1630743  Function: 3  Alpha:   ns
+POCSAG2400: Address: 1091054  Function: 2 
+POCSAG2400: Address:  158766  Function: 0  Alpha:   D%MQ<FF>
+POCSAG2400: Address:  275188  Function: 1 
+POCSAG2400: Address:  793633  Function: 0  Alpha:   HiJ<CAN><CAN>V<SYN>H<ENQ>T!<SOH>*z)HYX)<BEL>t<SUB>mM|}><SO>4Z,n^,<SO><DC4>h<RS><FS>M<GS>,<FS>M<GS><CR> =
+POCSAG2400: Address:  157030  Function: 0  Alpha:   [{
+POCSAG2400: Address: 1462113  Function: 0 
+POCSAG2400: Address:  678196  Function: 1 
+POCSAG2400: Address:  903923  Function: 1  Alpha:   y@Ws<DLE>
+POCSAG2400: Address:  214711  Function: 1 
+POCSAG2400: Address:  470190  Function: 2 
+POCSAG2400: Address:  658032  Function: 3 
+POCSAG2400: Address: 1730617  Function: 2  Alpha:   <ETB><VT>
+POCSAG2400: Address:    8247  Function: 3 
+POCSAG2400: Address: 1568462  Function: 0  Alpha:   {_
+POCSAG2400: Address:  897459  Function: 1  Alpha:   3!
+POCSAG2400: Address: 2060929  Function: 2 
+POCSAG2400: Address:   92203  Function: 1 
+POCSAG2400: Address: 1360712  Function: 2  Alpha:   ga$OhHen
 POCSAG2400: Address:  164390  Function: 0  Alpha:   vailability<CR><LF>Host: GMMHACLVDA15A<CR><LF>Alias: <CR><LF>Ad
 POCSAG2400: Address: 1481702  Function: 3  Alpha:   ^l
 POCSAG2400: Address:  740659  Function: 1  Alpha:   =:<SO>Y^
@@ -929,72 +998,3 @@ POCSAG1200: Address: 1213345  Function: 1  Alpha:   Hr
 POCSAG1200: Address: 1381298  Function: 2 
 POCSAG1200: Address:  169849  Function: 2 
 POCSAG1200: Address: 1913123  Function: 2  Alpha:   K%
-POCSAG1200: Address: 1674402  Function: 0  Alpha:   ZC<ETB><DLE>cmvH
-POCSAG1200: Address: 1559161  Function: 0  Alpha:   <ENQ>D
-POCSAG1200: Address: 1020532  Function: 1 
-POCSAG1200: Address: 1261612  Function: 0 
-POCSAG1200: Address: 1712169  Function: 2 
-POCSAG1200: Address: 1176756  Function: 1 
-POCSAG1200: Address:  767394  Function: 1  Alpha:   <A<SO>|S
-POCSAG1200: Address:  620657  Function: 0  Alpha:   V<DC1>
-POCSAG1200: Address:  210529  Function: 0 
-POCSAG1200: Address:  851331  Function: 0  Alpha:   <FS>A
-POCSAG1200: Address: 1876494  Function: 0  Alpha:   !<ESC>\q<ESC>
-POCSAG1200: Address:   27211  Function: 1 
-POCSAG1200: Address: 1470566  Function: 3 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   01:54-36 29/12/2021 <NUL>a"Gj
-POCSAG1200: Address: 1586193  Function: 2  Alpha:   .L-<FF><NUL>
-POCSAG1200: Address: 1674658  Function: 0  Alpha:   Zc<ETB><DLE>smv@`le 9Y BROTHER THREW BOX HIT EYE G<DC2>P9S<FS>x<ESC><CAN><
-POCSAG1200: Address: 1559417  Function: 0  Alpha:   <ENQ>d
-POCSAG1200: Address: 1020788  Function: 1 
-POCSAG1200: Address: 1261868  Function: 0 
-POCSAG1200: Address:   69877  Function: 2  Alpha:   I6
-POCSAG1200: Address:  279091  Function: 3  Alpha:   @<EOT>O@F<DC1><VT>U<ENQ><EM>+<CAN><HT>}
-POCSAG1200: Address:  916867  Function: 0  Alpha:   <FF><SOH>
-POCSAG1200: Address: 1942030  Function: 0  Alpha:   1<ESC>\y<ESC>
-POCSAG1200: Address:   92747  Function: 1 
-POCSAG1200: Address: 1536102  Function: 3 
-POCSAG1200: Address:  336288  Function: 1  Alpha:   <RS>U
-POCSAG1200: Address: 1635136  Function: 3 
-POCSAG1200: Address: 1652476  Function: 1 
-POCSAG1200: Address:  371827  Function: 2  Alpha:   b@Jr.
-POCSAG1200: Address: 1974288  Function: 2  Alpha:   :<FF><STX>LN
-POCSAG1200: Address:     620  Function: 2  Alpha:   <BS><NUL>
-POCSAG1200: Address:  384008  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address:  324048  Function: 2 
-POCSAG1200: Address:     237  Function: 1 
-POCSAG1200: Address:  655362  Function: 0 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   01:54-36 29/12/2021 01:52:06 INC 24896037 30D03 28 CLEVELANDS DRIVE,
-POCSAG1200: Address: 1321864  Function: 2  Alpha:   01:54-91 29/12/2021 01:52:06 INC 24896037 30D03 28 CLEVELANDS DRIVE, BOLTON, BL1 5GJ Female 9Y BROTHER THREW BOX HIT EYE GRD 369030 409161<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0153291221+++TIME=0153291221<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
-POCSAG2400: Address:   28920  Function: 0  Alpha:   01:53-40 2183<NUL>
-POCSAG2400: Address:   28924  Function: 0  Alpha:   01:52-66 2183<NUL>
-POCSAG1200: Address:   41432  Function: 2  Alpha:   01:51-47 29/12/2021 01:49:18 INC 24896026 12D02 12 ELGIN CRESCENT, STOOPS BURNLEY, BB11 4DY Female 33Y SEIZURE GRD 382649 431890
-POCSAG1200: Address:   14950  Function: 0  Alpha:   01:51-45 29/12/2021 01:49:18 INC 24896026 12D02 12 ELGIN CRESCENT, STOOPS BURNLEY, BB11 4DY Female 33Y SEIZURE GRD 382649 431890
-POCSAG1200: Address:  269168  Function: 2  Alpha:   01:51-87 29/12/2021 01:49:18 INC 24896026 12D02 12 ELGIN CRESCENT, STOOPS BURNLEY, BB11 4DY Female 33Y SEIZURE GRD 382649 431890
-POCSAG2400: Address: 1323102  Function: 2  Alpha:   01:50-59 NHSBT - DONOR REFERRAL. Please call STAFF NURSE LAURA MCGALE on Direct Dial Number 01904 726040 Hospital YORK HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG2400: Address: 1322785  Function: 2  Alpha:   01:50-09 NHSBT - DONOR REFERRAL. Please call STAFF NURSE LAURA MCGALE on Direct Dial Number 01904 726040 Hospital YORK HOSPITAL Dept ICU . Regards Donor Referral Line<NUL><NUL>
-POCSAG1200: Address:   40074  Function: 2  Alpha:   01:50-15 29/12/2021 01:47:51 INC 24896020 25O02 FLAT 6, 292 BURTON ROAD, WITHINGTON MANCHESTER, M20 2NB Female 66Y VOMITING - HEAD GOING CRAZY GRD 383708 39189
-POCSAG2400: Address: 1022620  Function: 0  Alpha:   01:50-83 SQLPROD1 - Disk Space Alert, <H3>SQLPROD1 - Disk Space Alert</H3>Please run Treesize before running Admin.dbo.ReclaimDiskSpace<table style="font:12pt" rules="all" class="AltListBorder" cellpadding="2" cellspacing="1" border="1"><t
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0148291221+++TIME=0148291221<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   01:48-35 29/12/2021 01:47:00 INC 24896016 04B02A OS, RIGHTWAY D I Y, 184A TELEGRAPH ROAD, HESWALL WIRRAL CH60, CH60 0AJ Male 49Y 49YOM - FIGHT - BROKEN TOOTH GRD 327053 381766<NUL><NUL>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   01:48-00 29/12/2021 01:47:00 INC 24896016 04B02A OS, RIGHTWAY D I Y, 184A TELEGRAPH ROAD, HESWALL WIRRAL CH60, CH60 0AJ Male 49Y 49YOM - FIGHT - BROKEN TOOTH GRD 327053 381766<NUL><NUL>
-POCSAG1200: Address:   14950  Function: 0  Alpha:   01:47-44 29/12/2021 01:44:31 INC 24896009 06D02 18 RAVENOAK LANE, WORSTHORNE BURNLEY, BB10 3NZ Male 88Y Sub call - Diff breathing GRD 387566 432262<NUL>
-POCSAG1200: Address:  360002  Function: 0  Alpha:   01:47-21 29/12/2021 01:44:31 INC 24896009 06D02 18 RAVENOAK LANE, WORSTHORNE BURNLEY, BB10 3NZ Male 88Y Sub call - Diff breathing GRD 387566 432262<NUL>
-POCSAG2400: Address:  124481  Function: 1 
-POCSAG2400: Address:  960448  Function: 1  Alpha:   s<DC4>
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   01:46-64 4156<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   01:44-62 2182<NUL>
-POCSAG1200: Address:  216321  Function: 2  Alpha:   01:44-76 (1/2)034163-29122021; A3.0.0.P ALARM - RESIDENTIAL; 2 EDENBRIDGE ROAD,SLOUGH,SL2 2JG; 494856,182325; KEYS BEING CALLED; Assigned: JY17P2;<NUL><NUL>
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   01:44-44 29/12/2021 01:41:26 INC 24895998 01A03 66 RIVINGTON AVENUE, WINDLEHURST ST HELENS WA10, WA10 6UE Male 23Y ABDO PAIN GRD 350341 396579
-POCSAG1200: Address:  216321  Function: 2  Alpha:   01:44-75 (2/2) Talkgrp  FBER-OPS03 (40*) (DGNA); Additional_Data Address Classification Terraced<NUL>
-POCSAG1200: Address: 1925683  Function: 2  Alpha:   01:43-69 29/12/2021 01:41:55 INC 24896000 06E01 47 RICHMOND AVENUE, BEAUMONT LANCASTER, LA1 2HQ Male 68Y DIB GRD 347912 463673<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0143291221+++TIME=0143291221<NUL>
-POCSAG2400: Address: 1584904  Function: 3 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0143291221+++TIME=0143291221<NUL>
-POCSAG1200: Address: 1323356  Function: 2  Alpha:   01:43-73 01:43-72 PLEASE RESPOND TO STN 60 FOR INCIDENT IN BIDEFORD FOR BUILDING STABILASATION
-POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address:       0  Function: 0 
