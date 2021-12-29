@@ -1,3 +1,13 @@
+POCSAG2400: Address: 1913756  Function: 2  Alpha:   09:09-17 2150<NUL>
+POCSAG1200: Address: 2027130  Function: 2 
+POCSAG2400: Address:  893488  Function: 0 
+POCSAG2400: Address: 1913818  Function: 2  Alpha:   09:06-08 3574<NUL>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:05-15 2447<NUL>
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><NUL>
+POCSAG1200: Address: 1560621  Function: 3  Alpha:   U<LF>
+POCSAG2400: Address:  150086  Function: 0  Alpha:   09:04-53 3507<NUL>
+POCSAG1200: Address: 1512713  Function: 3  Alpha:   <ACK>+
+POCSAG2400: Address: 1913846  Function: 2  Alpha:   09:04-54 2150<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0903291221+++TIME=0903291221<NUL>
 POCSAG1200: Address: 1548917  Function: 2 
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
@@ -930,16 +940,6 @@ POCSAG1200: Address:  234377  Function: 2  Alpha:   08:37-89 29/12/2021 08:34:28
 POCSAG1200: Address: 2026484  Function: 0 
 POCSAG2400: Address: 1913533  Function: 2  Alpha:   FIRE ALERT -FIRE WOODLANDS HOLBROOK  CORRIDOR EXIT CP Zone 003 502-1-106/0 FIRE ALERT
 POCSAG1200: Address: 1485588  Function: 3  Alpha:   vR
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
