@@ -1,3 +1,17 @@
+POCSAG1200: Address: 2024187  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1543291221+++TIME=1543291221<NUL>
+POCSAG1200: Address: 1480308  Function: 0 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123<9778901234567890
+POCSAG1200: Address:  269059  Function: 2 
+POCSAG1200: Address: 1012936  Function: 2 
+POCSAG1200: Address:  156449  Function: 2 
+POCSAG1200: Address:  309992  Function: 1 
+POCSAG2400: Address: 1913537  Function: 2  Alpha:   15:42-35 3508<NUL>
+POCSAG1200: Address: 1712752  Function: 0 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   v 
+POCSAG2400: Address: 1877589  Function: 0 
+POCSAG1200: Address:    1544  Function: 0 
+POCSAG1200: Address:  655362  Function: 0 
 POCSAG1200: Address: 1619113  Function: 0  Alpha:    3
 POCSAG1200: Address:  160865  Function: 0 
 POCSAG1200: Address:  535658  Function: 2 
@@ -984,17 +998,3 @@ POCSAG2400: Address: 1292979  Function: 1  Alpha:   pIp}\
 POCSAG2400: Address: 1387138  Function: 1  Alpha:   Y_
 POCSAG2400: Address:  604576  Function: 1 
 POCSAG2400: Address:  421294  Function: 2  Alpha:   <SO>h<LF>n{
-POCSAG2400: Address:  792419  Function: 0 
-POCSAG2400: Address: 1585010  Function: 3 
-POCSAG2400: Address: 2091640  Function: 0 
-POCSAG2400: Address: 2013812  Function: 2 
-POCSAG2400: Address: 1786106  Function: 3  Alpha:   , 
-POCSAG2400: Address: 1558713  Function: 0  Alpha:   <ENQ>D<ACK><SUB>f
-POCSAG2400: Address: 1067110  Function: 2  Alpha:   &<SO>
-POCSAG2400: Address:  139298  Function: 0  Alpha:   I<FF>
-POCSAG2400: Address: 1438423  Function: 0  Alpha:   y<BEL>
-POCSAG2400: Address: 1446451  Function: 0 
-POCSAG2400: Address: 1161600  Function: 1 
-POCSAG2400: Address: 1288812  Function: 0 
-POCSAG2400: Address:   95825  Function: 1  Alpha:   R[
-POCSAG2400: Address:  340786  Function: 2 
