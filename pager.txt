@@ -1,3 +1,14 @@
+POCSAG2400: Address:  216264  Function: 2  Alpha:   03:19-02 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
+POCSAG2400: Address:  216268  Function: 2  Alpha:   03:19-69 PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1, <CR><LF>PROBLEM: Disk: C is CRITICAL on host man-madm01-mc1<CR><LF>Service: Disk: C<CR><LF>Host: man-madm01-mc1<CR><LF>Alias: Terminal Services Server<CR><LF>Address: 172.16.100.19<CR><LF>Host Group Hierarchy: Opsview > Dat<NUL><NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   03:19-91 29/12/2021 03:17:22 INC 24896285 04D02A O/S BEES KNEES, 20-22 HARGREAVES STREET, BURNLEY, BB11 1DZ Male 22Y ASSULT GRD 383923 432535<NUL>
+POCSAG1200: Address: 2011894  Function: 0 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0318291221+++TIME=0318291221<NUL>
+POCSAG1200: Address: 1562676  Function: 2  Alpha:   03:18-30 29/12/2021 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0318291221+++TIME=0318291221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address:  436368  Function: 2  Alpha:   03:18-17 704374<NUL><NUL>
+POCSAG2400: Address:  585333  Function: 2  Alpha:   03:15-11 PLS CALL OLIVER 37724<NUL>
+POCSAG2400: Address: 1321206  Function: 2  Alpha:   03:15-00 PLS CALL OLIVER 37724<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0313291221+++TIME=0313291221<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0313291221+++TIME=0313291221<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
@@ -987,14 +998,3 @@ POCSAG1200: Address:  602160  Function: 3
 POCSAG1200: Address: 1843238  Function: 1 
 POCSAG1200: Address:  125515  Function: 1 
 POCSAG1200: Address: 1570150  Function: 3 
-POCSAG1200: Address:  369056  Function: 1  Alpha:   >U
-POCSAG1200: Address: 1667904  Function: 3 
-POCSAG1200: Address:   76083  Function: 2  Alpha:   <RS>+LnK
-POCSAG1200: Address: 1611744  Function: 1  Alpha:   'a$w`@yr
-POCSAG1200: Address:  756232  Function: 2  Alpha:   <DC4><DC1>hl<CR>,,.<SO><BS>Ml<CR>,<CR><SO><NUL>
-POCSAG1200: Address:  663023  Function: 1 
-POCSAG1200: Address: 1599014  Function: 0  Alpha:   .<ACK>*3K<ENQ>Jt$}D<ENQ>j<STX>r|$<ENQ><DC2>-<FS><ENQ>}t<FS>M4-<EOT>j<STX><LF><ENQ><DC2>-<FS><ENQ><ENQ><STX>
-POCSAG1200: Address:   83942  Function: 0  Alpha:   D`
-POCSAG1200: Address:  437090  Function: 2  Alpha:   Ie<STX>(8
-POCSAG1200: Address:  925040  Function: 1 
-POCSAG1200: Address:  164586  Function: 2  Alpha:   "Go"<SYN><ETX>!N
