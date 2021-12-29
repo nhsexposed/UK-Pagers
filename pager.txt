@@ -1,3 +1,16 @@
+POCSAG1200: Address: 1761427  Function: 3  Alpha:   pN<NAK>#r<EOT>1f
+POCSAG2400: Address: 1630830  Function: 0 
+POCSAG2400: Address: 2008802  Function: 0 
+POCSAG2400: Address: 2074421  Function: 1 
+POCSAG1200: Address: 2063504  Function: 0  Alpha:   <ACK><CAN>
+POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>#
+POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:18-=5!01616229870
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF><HT><FS>(20f
+POCSAG1200: Address:  325887  Function: 3  Alpha:   <DC2>CA<STX>L
+POCSAG2400: Address: 1312457  Function: 2  Alpha:   12:16-48 PaWemoe test mes
+POCSAG2400: Address:   28899  Function: 0  Alpha:   12:15-59 3120<NUL><e<RS>
+POCSAG1200: Address: 1942099  Function: 2 
+POCSAG1200: Address:  212096  Function: 2 
 POCSAG1200: Address: 1651946  Function: 0 
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   12:13-95 2343<NUL>
 POCSAG2400: Address:  899507  Function: 0 
@@ -985,16 +998,3 @@ POCSAG1200: Address:  361068  Function: 0  Alpha:   %<DLE>s*)
 POCSAG1200: Address: 1700581  Function: 3 
 POCSAG1200: Address:  652873  Function: 1 
 POCSAG1200: Address:  242785  Function: 0 
-POCSAG1200: Address: 1187945  Function: 1  Alpha:   a<ENQ>
-POCSAG1200: Address:  255609  Function: 2  Alpha:   <ETX><FS>&P<ETX>
-POCSAG1200: Address:  159410  Function: 2  Alpha:   B]
-POCSAG1200: Address:  194579  Function: 3  Alpha:   hs
-POCSAG1200: Address:   46490  Function: 0 
-POCSAG1200: Address: 1978944  Function: 3 
-POCSAG1200: Address: 1094819  Function: 3 
-POCSAG1200: Address: 1325440  Function: 1  Alpha:   LC<BS>dS
-POCSAG1200: Address:  394741  Function: 0 
-POCSAG1200: Address:  793009  Function: 1 
-POCSAG1200: Address:  501302  Function: 0 
-POCSAG1200: Address:  208678  Function: 1 
-POCSAG1200: Address: 1637620  Function: 0 
