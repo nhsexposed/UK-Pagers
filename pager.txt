@@ -1,3 +1,36 @@
+POCSAG1200: Address: 1440307  Function: 2 
+POCSAG1200: Address: 1810597  Function: 1 
+POCSAG1200: Address:  751874  Function: 2 
+POCSAG1200: Address: 1796929  Function: 3 
+POCSAG1200: Address: 1577638  Function: 3 
+POCSAG1200: Address: 1450043  Function: 1  Alpha:   b<ENQ>n @78d
+POCSAG1200: Address:  883130  Function: 1  Alpha:   \E
+POCSAG1200: Address:  680064  Function: 1 
+POCSAG1200: Address: 1587720  Function: 0 
+POCSAG1200: Address: 1925153  Function: 0  Alpha:   J<DC2>2<SYN>^>JR"<STX>I><SO>"<DC2><ACK>2<SYN><STX>I><SO>"<DC2><ACK>2<SYN>2<SOH>=2FY<SOH>I<NAK>B<STX>5<ACK>3<ETB><ETX>UM
+POCSAG1200: Address:  695265  Function: 0 
+POCSAG1200: Address: 2008439  Function: 0 
+POCSAG1200: Address: 1354157  Function: 0 
+POCSAG1200: Address: 1466224  Function: 1 
+POCSAG1200: Address: 1590067  Function: 0  Alpha:   @"
+POCSAG1200: Address:  789283  Function: 0 
+POCSAG1200: Address: 1993330  Function: 0 
+POCSAG1200: Address: 1754742  Function: 0 
+POCSAG1200: Address: 1914976  Function: 3  Alpha:   M<CR>
+POCSAG1200: Address:  602160  Function: 3 
+POCSAG1200: Address: 2009845  Function: 0 
+POCSAG1200: Address: 1054864  Function: 0 
+POCSAG1200: Address:  959331  Function: 3 
+POCSAG1200: Address:  384008  Function: 0 
+POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address:  185296  Function: 2 
+POCSAG1200: Address: 1349439  Function: 1  Alpha:   O%
+POCSAG1200: Address: 1157934  Function: 3  Alpha:   fh
+POCSAG1200: Address: 2072673  Function: 0 
+POCSAG1200: Address: 2012790  Function: 1 
+POCSAG1200: Address:  585532  Function: 2  Alpha:   14:17-00 70
+POCSAG1200: Address: 1092176  Function: 2  Alpha:   14:16-99 3357<NUL>
+POCSAG2400: Address:  791845  Function: 2  Alpha:   .<RS>L<CR>D<EM>m]
 POCSAG2400: Address:   28907  Function: 0  Alpha:   14:13-99 4139<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:13-20 29/12/2021 14:09:56 INC 24898635 22D06 MANOR LANE MANOR GROIN, EGREMONT PROMENADE, EGREMONT WALLASEY CH44, CH45 7PZ Female UnknownY STUCK IN MUD GRD 331606 392753
 POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05o;062 CH3B<NUL><NUL>
@@ -965,36 +998,3 @@ POCSAG1200: Address:  602480  Function: 3
 POCSAG1200: Address:  761185  Function: 1 
 POCSAG1200: Address: 1257190  Function: 1 
 POCSAG1200: Address:  394485  Function: 0 
-POCSAG1200: Address:  792753  Function: 1 
-POCSAG1200: Address: 1652412  Function: 1 
-POCSAG1200: Address:  633907  Function: 0  Alpha:   h<NUL>KrN
-POCSAG1200: Address:  389524  Function: 1  Alpha:   <SO><SOH>
-POCSAG1200: Address: 1260147  Function: 1  Alpha:   p<ACK>
-POCSAG1200: Address:   35571  Function: 1 
-POCSAG1200: Address:  672933  Function: 0  Alpha:   ,MZml
-POCSAG1200: Address:  873071  Function: 1  Alpha:   <STX><SUB>
-POCSAG1200: Address:  653093  Function: 0  Alpha:   <NUL><SUB>
-POCSAG1200: Address:  893261  Function: 3  Alpha:   v3
-POCSAG1200: Address:  893747  Function: 3 
-POCSAG1200: Address: 1405449  Function: 1 
-POCSAG1200: Address:   92595  Function: 2 
-POCSAG1200: Address:  207450  Function: 1 
-POCSAG1200: Address: 1127235  Function: 0 
-POCSAG1200: Address:  695910  Function: 2  Alpha:   12:42-20 29/12/2021 12:40:24 INC 24898192 31D04 7 C
-POCSAG1200: Address: 1090108  Function: 2  Alpha:   12:42-76 29/12/2021 12:39:19 INC 24898185 06E01 4A SOUTH HILL ROAD, DINGLE L8, L8 9RZ Male 35Y PAINS IN CHEST GRD 336216 387680<NUL>
-POCSAG1200: Address: 2009848  Function: 2 
-POCSAG2400: Address: 1999713  Function: 0 
-POCSAG2400: Address:   28894  Function: 0  Alpha:   12:40-63 5201<NUL>
-POCSAG1200: Address: 2007785  Function: 0 
-POCSAG1200: Address: 1975928  Function: 2 
-POCSAG1200: Address:  984705  Function: 2  Alpha:   9<NUL>
-POCSAG2400: Address:  586848  Function: 0 
-POCSAG2400: Address:  534776  Function: 1  Alpha:   <FS><
-POCSAG2400: Address:  628464  Function: 2 
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   12:38-92 01616229870
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:38-41 01616229870
-POCSAG2400: Address: 2080632  Function: 1 
-POCSAG1200: Address: 1511872  Function: 3  Alpha:   F<LF>
-POCSAG1200: Address: 1500782  Function: 0 
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   12:34-88 29/12/2021 
-POCSAG1200: Address: 1976276  Function: 0 
