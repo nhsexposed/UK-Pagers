@@ -1,3 +1,46 @@
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   e<EOT>
+POCSAG2400: Address: 2074226  Function: 2 
+POCSAG2400: Address: 1671844  Function: 0  Alpha:   fPg2`<ETX>[L
+POCSAG2400: Address: 1837220  Function: 3 
+POCSAG2400: Address:  765024  Function: 0 
+POCSAG2400: Address:  582256  Function: 2 
+POCSAG2400: Address: 1072177  Function: 3 
+POCSAG2400: Address: 1470830  Function: 0 
+POCSAG2400: Address: 1071132  Function: 1  Alpha:   ;++3K<ETX>"<ETX><VT>C;#<ETX><NUL>
+POCSAG2400: Address: 1856489  Function: 0 
+POCSAG2400: Address: 1102176  Function: 2 
+POCSAG2400: Address: 1070395  Function: 0 
+POCSAG2400: Address:  174830  Function: 3  Alpha:   5W<DEL>;<ETB>
+POCSAG2400: Address:  535147  Function: 1  Alpha:   ^Vn>'
+POCSAG2400: Address:  139308  Function: 1  Alpha:   2<CAN><ACK>3N
+POCSAG2400: Address: 1975925  Function: 1 
+POCSAG2400: Address: 2077410  Function: 2 
+POCSAG2400: Address: 1404242  Function: 3  Alpha:   SI
+POCSAG2400: Address: 1127235  Function: 0 
+POCSAG2400: Address: 1499440  Function: 1  Alpha:   lC<VT>MI
+POCSAG2400: Address: 1223462  Function: 2 
+POCSAG2400: Address:  161129  Function: 1  Alpha:    <NAK>
+POCSAG2400: Address: 1850752  Function: 0  Alpha:   Le
+POCSAG2400: Address:      24  Function: 2 
+POCSAG2400: Address: 2064104  Function: 2 
+POCSAG2400: Address:  907764  Function: 1 
+POCSAG2400: Address: 1814951  Function: 2 
+POCSAG2400: Address: 1246503  Function: 2  Alpha:   r9g4W/z\
+POCSAG2400: Address:  679664  Function: 1  Alpha:   }-
+POCSAG2400: Address: 1651440  Function: 2 
+POCSAG2400: Address: 2095080  Function: 3 
+POCSAG2400: Address: 1127131  Function: 0  Alpha:   <DC1>#kj<ETB>
+POCSAG2400: Address: 1225075  Function: 1  Alpha:   ag.u<ETX>
+POCSAG2400: Address:  978212  Function: 2 
+POCSAG2400: Address: 1732835  Function: 1  Alpha:   <ACK>V
+POCSAG2400: Address: 2007144  Function: 0 
+POCSAG2400: Address:  131619  Function: 0 
+POCSAG2400: Address:   81920  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1031732  Function: 3  Alpha:   <NAK><BS>
+POCSAG2400: Address: 1320374  Function: 2  Alpha:   16:57-57 3157<NUL>
+POCSAG1200: Address: 1355860  Function: 2 
+POCSAG1200: Address:  334075  Function: 2 
 POCSAG2400: Address:   28907  Function: 0  Alpha:   16:53-07 5204<NUL>
 POCSAG1200: Address: 1089603  Function: 2  Alpha:   16:51
 POCSAG1200: Address:  844564  Function: 0 
@@ -955,46 +998,3 @@ POCSAG1200: Address: 1450043  Function: 1  Alpha:   b<ENQ>n @78d
 POCSAG1200: Address:  883130  Function: 1  Alpha:   \E
 POCSAG1200: Address:  680064  Function: 1 
 POCSAG1200: Address: 1587720  Function: 0 
-POCSAG1200: Address: 1925153  Function: 0  Alpha:   J<DC2>2<SYN>^>JR"<STX>I><SO>"<DC2><ACK>2<SYN><STX>I><SO>"<DC2><ACK>2<SYN>2<SOH>=2FY<SOH>I<NAK>B<STX>5<ACK>3<ETB><ETX>UM
-POCSAG1200: Address:  695265  Function: 0 
-POCSAG1200: Address: 2008439  Function: 0 
-POCSAG1200: Address: 1354157  Function: 0 
-POCSAG1200: Address: 1466224  Function: 1 
-POCSAG1200: Address: 1590067  Function: 0  Alpha:   @"
-POCSAG1200: Address:  789283  Function: 0 
-POCSAG1200: Address: 1993330  Function: 0 
-POCSAG1200: Address: 1754742  Function: 0 
-POCSAG1200: Address: 1914976  Function: 3  Alpha:   M<CR>
-POCSAG1200: Address:  602160  Function: 3 
-POCSAG1200: Address: 2009845  Function: 0 
-POCSAG1200: Address: 1054864  Function: 0 
-POCSAG1200: Address:  959331  Function: 3 
-POCSAG1200: Address:  384008  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address:  185296  Function: 2 
-POCSAG1200: Address: 1349439  Function: 1  Alpha:   O%
-POCSAG1200: Address: 1157934  Function: 3  Alpha:   fh
-POCSAG1200: Address: 2072673  Function: 0 
-POCSAG1200: Address: 2012790  Function: 1 
-POCSAG1200: Address:  585532  Function: 2  Alpha:   14:17-00 70
-POCSAG1200: Address: 1092176  Function: 2  Alpha:   14:16-99 3357<NUL>
-POCSAG2400: Address:  791845  Function: 2  Alpha:   .<RS>L<CR>D<EM>m]
-POCSAG2400: Address:   28907  Function: 0  Alpha:   14:13-99 4139<NUL>
-POCSAG1200: Address: 1052820  Function: 2  Alpha:   14:13-20 29/12/2021 14:09:56 INC 24898635 22D06 MANOR LANE MANOR GROIN, EGREMONT PROMENADE, EGREMONT WALLASEY CH44, CH45 7PZ Female UnknownY STUCK IN MUD GRD 331606 392753
-POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05o;062 CH3B<NUL><NUL>
-POCSAG1200: Address:  265256  Function: 3  Alpha:   <DC2>#Q<FF>L
-POCSAG1200: Address: 1716816  Function: 0 
-POCSAG1200: Address:  950902  Function: 0 
-POCSAG1200: Address: 2077691  Function: 2 
-POCSAG2400: Address: 2008948  Function: 0 
-POCSAG2400: Address: 1149483  Function: 1  Alpha:   `rZnd@h`rr<NUL>
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  959081  Function: 1 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 2015827  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
