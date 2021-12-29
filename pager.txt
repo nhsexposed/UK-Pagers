@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0643291221+++TIME=0643291221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
+POCSAG1200: Address:  269168  Function: 2  Alpha:   06:42-12 29/12/2021 06:40:49 INC 24896708 06E01 18 PETRE CRESCENT, RISHTON, BB1 4RB Female 59Y DIB, IN AND OUT OF CONSCIOUNES GRD 372725 429826<NUL><NUL>
+POCSAG2400: Address: 1022620  Function: 0  Alpha:   06:40-41 SQLPROD1 - Disk Space Alert, <H3>SQLPROD1 - Disk Space Alert</H3>Please run Treesize before running Admin.dbo.ReclaimDiskSpace<table style="font:12pt" rules="all" class="AltListBorder" cellpadding="2" cellspacing="1" border="1"><t
+POCSAG2400: Address: 1022472  Function: 0  Alpha:   06:39-84 Strong winds forecast today between 09:00hrs and 15:00hrs peaking at 50mph around 12:00hrs - SSM
+POCSAG1200: Address: 1500150  Function: 2  Alpha:   06:39-99 29/12/2021 06:38:37 INC 24896703 06D01 69 CORONATION STREET, SWINTON MANCHESTER, M27 6DH Male 80Y BACK PAIN PALPATATIONS GRD 378084 402266<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0638291221+++TIME=0638291221<NUL>
 POCSAG2400: Address: 1323654  Function: 2  Alpha:   06:38-93 38001
 POCSAG2400: Address:   28894  Function: 0  Alpha:   06:38-56 4157<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1450368  Function: 1  Alpha:   DU
 POCSAG1200: Address: 1582440  Function: 0 
 POCSAG1200: Address:  283169  Function: 0  Alpha:   &Z<SYN>2<SOH><CR>"&2<DC2>^<ACK>22<STX>1JU1<SOH>1JU<SOH>EIJ<STX><EM><SYN>7<BEL>3<ETB><ETX>]Ae<STX><ENQ>NR"6<ACK>
 POCSAG1200: Address: 1872369  Function: 0 
-POCSAG1200: Address:  134138  Function: 3 
-POCSAG1200: Address:  479142  Function: 2  Alpha:   iy
-POCSAG1200: Address: 1218912  Function: 1 
-POCSAG1200: Address: 1327923  Function: 2  Alpha:   @*
-POCSAG1200: Address: 1915128  Function: 1 
-POCSAG1200: Address:  602288  Function: 3 
-POCSAG1200: Address:  760993  Function: 1 
