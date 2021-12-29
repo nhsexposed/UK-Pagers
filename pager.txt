@@ -1,3 +1,25 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0608291221+++TIME=0608291221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0608291221+++TIME=0608291221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1321242  Function: 2  Alpha:   06:07-57 PLS CALL D MITCHELL<NUL>32711
+POCSAG1200: Address:  435658  Function: 0  Alpha:   <ETX><HT><CR><DC3><VT><EM><HT>A<SO><EM><US>''<US>!Y@&<ETB>cf@b <NAK>A<FF>K[CYKApb2ALCYYA^kiA^MADKIA^@PSiAPKCIA^@DY__IAhQS]]KegA<SO>%<HT>Ah`bjpr@frl`hh<NUL><NUL>
+POCSAG1200: Address: 1058476  Function: 2  Alpha:   06:07-61 29/12/2021 06:05:22 INC 24896635 17B01 REGENCY HALL, THE CARRIAGE DRIV
+POCSAG1200: Address:  334075  Function: 2  Alpha:   06:07-07 29/12/2021 05:55:28 INC 24896612 06E01 11 GREENHEYS GARDENS, TOXTETH L8, L8 3SN Male 40Y LANGUAGE NOT UNDERSTOOD GRD 336975 388497<NUL>
+POCSAG1200: Address: 2097016  Function: 3 
+POCSAG1200: Address: 1500155  Function: 2  Alpha:   06:06-62 Confirmed Primary Angioplasty, ED RESUS, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL>
+POCSAG1200: Address:    4252  Function: 2  Alpha:   06:06-09 Confirmed Primary Angioplasty, ED RESUS, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL>
+POCSAG1200: Address:  290371  Function: 2  Alpha:   06:06-35 Confirmed Primary Angioplasty, ED RESUS, call 020 7317 7666 or ext 36555 to acknowledge, Thanks<NUL>
+POCSAG2400: Address: 1743142  Function: 0 
+POCSAG2400: Address:  790792  Function: 3 
+POCSAG2400: Address: 1048577  Function: 0 
+POCSAG2400: Address:     524  Function: 1 
+POCSAG2400: Address:  384008  Function: 0 
+POCSAG2400: Address:       3  Function: 0 
+POCSAG2400: Address:    1552  Function: 1 
+POCSAG2400: Address:  142800  Function: 2 
+POCSAG2400: Address:     429  Function: 3 
+POCSAG2400: Address:  655362  Function: 0 
+POCSAG1200: Address: 1022230  Function: 2  Alpha:   06:04-47 29/12/2021 06:02:28 INC 24896627 25B03 14 ROSE BAILEY CLOSE, LIVERPOOL, L11 9AX Male 55Y MENTAL HEALTH CRISIS GRD 339983 395503<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0603291221+++TIME=0603291221<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   06:01-41 5042<NUL>
@@ -951,28 +973,6 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0413291221+++TIME=04
 POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   AAAAAA this is a test message on A side 012345678901234567890<NUL>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   <ACK>R
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
