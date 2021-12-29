@@ -1,3 +1,13 @@
+POCSAG1200: Address: 1090108  Function: 2  Alpha:   00:19-24 29/12/2021 00:17:16 INC 24895688 13C02 21 DUNSFORD, HOUGH GREEN WIDNES WA8, WA8 4NP Female 65Y TYPE 1 DIAB - BLOOD SUGAR MACHINE STATES HIGH GRD 349086 387087<NUL>
+POCSAG1200: Address:  269054  Function: 2  Alpha:   00:18-20 29/12/2021 00:12:17 INC 24895669 31D04 35 ROTHIEMAY ROAD, FLIXTON MANCHESTER, M41 6LL Male 52Y PAT HAS FAINTED - CANT MOVE HIS ARM GRD 374357 394493
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0018291221+++TIME=0018291221<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0018291221+++TIME=0018291221<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   00:17-63 3106<NUL>
+POCSAG1200: Address: 1562676  Function: 2  Alpha:   00:17-25 29/12/2021 00:15:40 INC 24895680 01D01 38 WALTER SCOTT AVENUE, WHITLEY WIGAN, WN1 2RH Female 88Y STOMACH PAIN - CANT MOVE GRD 357746 407893
+POCSAG2400: Address:  216263  Function: 2  Alpha:   00:16-59 Nimble Alarm Reminder on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Wed Dec 22 00:09:50 2021<CR><LF><CR><LF>Object: SP.2.629743.1640131480CommVault<CR><LF>Status: Open<CR><LF>Acknowledged By: N/A<CR><LF>Acknow<NUL><NUL>
+POCSAG2400: Address:  216264  Function: 2  Alpha:   00:16-90 Nimble Alarm Reminder on MANSDPMNIG01A - WARNING: Snapshot attributes synchronization to arrays in the pool delayed, Onset Time: Wed Dec 22 00:09:50 2021<CR><LF><CR><LF>Object: SP.2.629743.1640131480CommVault<CR><LF>Status: Open<CR><LF>Acknowledged By: N/A<CR><LF>Acknow<NUL><NUL>
+POCSAG2400: Address:  216272  Function: 2  Alpha:   00:16-49 Nimble Alarm Reminder on MANSDPMN
 POCSAG1200: Address:  906480  Function: 3  Alpha:   p*<HT><HT>)*1f
 POCSAG1200: Address:  549838  Function: 2  Alpha:   00:14-25 ~FOR INFO; FF KINLEY S33 - STOOD DOWN FROM FIRE GROUND DUE TO ANKLE INJURY. REFUSING MEDICAL TREATMENT. THANK YOU
 POCSAG1200: Address:  940678  Function: 2  Alpha:   00:13-34 29/12/2021 00:09:39 INC 24895656 29D02M O/S, MILBOURNE STREET, BLACKPOOL, FY1 3EU Unknown UnknownY PED VS CAR GRD 331170 436410<NUL>
@@ -988,13 +998,3 @@ POCSAG1200: Address: 1840418  Function: 1
 POCSAG1200: Address: 1060595  Function: 1  Alpha:   LC
 POCSAG1200: Address: 1491134  Function: 0 
 POCSAG1200: Address:  157243  Function: 2  Alpha:   p<DC2><US>rD<ETB><VT>P
-POCSAG1200: Address: 1178404  Function: 2  Alpha:   <STX><SOH>
-POCSAG1200: Address: 1177619  Function: 2 
-POCSAG1200: Address: 1943585  Function: 2 
-POCSAG1200: Address: 1423674  Function: 3 
-POCSAG1200: Address: 1778190  Function: 1  Alpha:   <SYN>a,i<DLE>E6g
-POCSAG1200: Address:   63065  Function: 1  Alpha:   m<HT>
-POCSAG1200: Address:  172730  Function: 3 
-POCSAG1200: Address:  686464  Function: 1  Alpha:   D!<SO>TX
-POCSAG1200: Address:  757793  Function: 2 
-POCSAG1200: Address:  258665  Function: 2  Alpha:   <NUL><SOH>
