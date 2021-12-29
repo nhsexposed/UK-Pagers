@@ -1,3 +1,15 @@
+POCSAG1200: Address: 1423216  Function: 2  Alpha:   /<CR>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0133291221+++TIME=0133291221<NUL>
+POCSAG1200: Address:  314547  Function: 2  Alpha:   01:33-57 8301<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   15/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1321706  Function: 2  Alpha:   01:32-61 Destination: D105 SSC In\120, Booking Ref#: 807671,672,673,674,675,676, Vehicle: WX19YXY. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>___________________________________________________________________<NUL><NUL>
+POCSAG2400: Address:   28927  Function: 0  Alpha:   01:31-06 5125<NUL>
+POCSAG2400: Address:  549123  Function: 2  Alpha:   01:30-01 2415<NUL>
+POCSAG1200: Address:  215010  Function: 2  Alpha:   01:30-27 Wed Dec 29 01:30:44 UTC 2021 -- PROBLEM : core4-tch-0/1/1-linx on core4-tch is CRITICAL (SNMP TRAP CRITICAL - Interface core4-tch-0/1/1-linx [932] on core4-tch is currently up/down)<NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   01:30-33 (2/2) Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Detached 
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   01:30-33 (1/2)034162-29122021; F4.3.0.P FIRE - CHIMNEY; 61 WELLINGTON ROAD,SANDHURST,GU47 9AZ; 483916,161743; TILED ROOF; Assigned: JY16P1; Roles    JY16P1:Main Pump;<NUL><NUL>
+POCSAG1200: Address: 1816759  Function: 2  Alpha:   01:30-32 (2/2) Talkgrp  FBER-OPS02 (39*) (DGNA); Additional_Data Address Classification Detached 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   01:29-34 4183<NUL>
 POCSAG2400: Address: 1323593  Function: 2  Alpha:   01:29-99 please call ext 3613<NUL><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0128291221+++TIME=0128291221<NUL>
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   01:28-16 29/12/2021 01:22:01 INC 24895933 23C01V 20 FALKLAND STREET, LIVERPOOL, L3 8AF Female 22Y OVERDOSE GRD 335650 390953<NUL>
@@ -986,15 +998,3 @@ POCSAG1200: Address: 1663270  Function: 3
 POCSAG1200: Address:   59443  Function: 0  Alpha:   <DC4>/LL.
 POCSAG1200: Address:   62059  Function: 1 
 POCSAG1200: Address: 1096316  Function: 0 
-POCSAG1200: Address:  435654  Function: 0 
-POCSAG1200: Address: 1866657  Function: 3  Alpha:   C!
-POCSAG1200: Address: 1958439  Function: 0  Alpha:   Qe_]SuCiS_]Ah_ABeeCsgAR]AhQKA`__YAHKYCsKIY@<RS>]<BEL>`<ETB><DC3><DLE>Q
-POCSAG1200: Address:  184310  Function: 1 
-POCSAG1200: Address:  189990  Function: 0  Alpha:   )"h&gd#XX P<SYN>Pk )g$g#<GS>P)w0<CAN>zk<DC3>(4<ESC>]V[8[=y
-POCSAG1200: Address:   75131  Function: 1  Alpha:   mind5m <DEL>m }
-POCSAG1200: Address:  216951  Function: 3 
-POCSAG1200: Address:  329004  Function: 2 
-POCSAG1200: Address:  843058  Function: 1 
-POCSAG1200: Address:  834295  Function: 3 
-POCSAG1200: Address:  240819  Function: 1  Alpha:   n@
-POCSAG1200: Address:  208558  Function: 0 
