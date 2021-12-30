@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1999460  Function: 1 
+POCSAG2400: Address: 1745529  Function: 0 
+POCSAG1200: Address:  602224  Function: 3 
+POCSAG1200: Address: 1684288  Function: 3 
+POCSAG1200: Address:  959357  Function: 0 
+POCSAG1200: Address: 1847912  Function: 2  Alpha:   /9
+POCSAG1200: Address:  759728  Function: 1 
+POCSAG1200: Address: 1745461  Function: 2 
+POCSAG1200: Address: 1667904  Function: 3 
 POCSAG1200: Address:   60215  Function: 0  Alpha:   n+LNK
 POCSAG1200: Address: 2008954  Function: 0 
 POCSAG1200: Address: 2007056  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1745233  Function: 0
 POCSAG1200: Address:  820850  Function: 0 
 POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:45-27 2616<NUL>
 POCSAG1200: Address: 2077692  Function: 2 
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   23:45-00 4379<NUL>
-POCSAG2400: Address: 2014832  Function: 3 
-POCSAG1200: Address: 1521296  Function: 0  Alpha:   <DC1><DC3>3<DC1><DC1>hQ<DC4><DC1>hl-<SO>n<CR><SO><BS><CR><FF><SO>l-
-POCSAG1200: Address:  106840  Function: 2  Alpha:   L5<ETX><STX><ETX><NAK><EOT>2,n<SO>f.<ACK>B<ETX>K<ENQ>B<FS><EOT><CR><EOT>:<DC4>%<EOT><SUB><ESC>3K<DC3>K<ETX>"#;;3<ETX><ETX><NUL>
-POCSAG1200: Address: 1915819  Function: 2  Alpha:   23:41-04 Mobilise <NUL><NUL>
-POCSAG2400: Address:   33672  Function: 2  Alpha:   23:39-29 SILVEr<NUL>ZESPONDED <NUL><NUL>
-POCSAG1200: Address:  334075  Function: 2  Alpha:   23:39-77 29/12/2021 23:37:25 INC 24901391 30D03 O/S AT TH
-POCSAG1200: Address:  532703  Function: 3 
-POCSAG1200: Address: 1056350  Function: 2 
