@@ -1,3 +1,5 @@
+POCSAG1200: Address:  989457  Function: 2  Alpha:   <FS><ENQ>"<<FS><EOT>j<STX>:<FS><EOT><STX><CR><DC4><NAK>MmR|t,<FS><ENQ>rLd|<EOT>j<STX>:<FS><EOT><LF>d<DC4>|t<EOT>"<FS><GS><EOT>j<STX><SUB><GS><EOT>bL$%e,<DC4><ENQ><STX><DC2>-<<FF><DC4>%<FS>e<STX><SUB>|t$<NAK>}d<EOT>
+POCSAG1200: Address: 1363154  Function: 0  Alpha:   %A@$<VT><SI><ETX>%<HT>'Y@<ACK><US><GS>)%<US><EM><SOH>
 POCSAG2400: Address: 1999460  Function: 1 
 POCSAG2400: Address: 1745529  Function: 0 
 POCSAG1200: Address:  602224  Function: 3 
@@ -996,5 +998,3 @@ POCSAG1200: Address: 1877357  Function: 1
 POCSAG1200: Address: 1115584  Function: 3 
 POCSAG1200: Address: 1745233  Function: 0 
 POCSAG1200: Address:  820850  Function: 0 
-POCSAG2400: Address: 1320347  Function: 2  Alpha:   23:45-27 2616<NUL>
-POCSAG1200: Address: 2077692  Function: 2 
