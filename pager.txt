@@ -1,3 +1,10 @@
+POCSAG1200: Address:   40100  Function: 2  Alpha:   01
+POCSAG1200: Address: 2078258  Function: 0 
+POCSAG1200: Address: 1975089  Function: 0 
+POCSAG1200: Address: 2091641  Function: 0 
+POCSAG1200: Address:  980563  Function: 0 
+POCSAG1200: Address: 1746665  Function: 0 
+POCSAG2400: Address: 1913768  Function: 2  Alpha:   01:16-23 4022<NUL>
 POCSAG2400: Address:  149253  Function: 2  Alpha:   01:09-74 MRS J
 POCSAG1200: Address:  962578  Function: 0 
 POCSAG1200: Address:  927456  Function: 0 
@@ -991,10 +998,3 @@ POCSAG2400: Address:  811438  Function: 1
 POCSAG2400: Address:  664309  Function: 0 
 POCSAG2400: Address: 1365024  Function: 2 
 POCSAG2400: Address: 1487445  Function: 0 
-POCSAG2400: Address:  337700  Function: 0 
-POCSAG2400: Address:  288057  Function: 1  Alpha:   K'Z_U
-POCSAG2400: Address:  381687  Function: 0 
-POCSAG2400: Address: 1811258  Function: 0 
-POCSAG2400: Address:  589824  Function: 1 
-POCSAG2400: Address:    1496  Function: 2 
-POCSAG2400: Address: 1228800  Function: 0 
