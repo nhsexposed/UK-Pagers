@@ -1,3 +1,41 @@
+POCSAG1200: Address: 1444901  Function: 0  Alpha:   <EM><FS>
+POCSAG1200: Address: 1578016  Function: 3 
+POCSAG1200: Address: 1566248  Function: 2 
+POCSAG1200: Address: 1499827  Function: 2 
+POCSAG1200: Address: 1913059  Function: 2 
+POCSAG1200: Address: 2064928  Function: 0 
+POCSAG1200: Address:  459438  Function: 2 
+POCSAG1200: Address: 2009202  Function: 0 
+POCSAG1200: Address: 2024016  Function: 2 
+POCSAG1200: Address: 1512872  Function: 1 
+POCSAG1200: Address: 1523042  Function: 2 
+POCSAG1200: Address:  950837  Function: 1 
+POCSAG1200: Address:  942699  Function: 0  Alpha:   <SUB>C
+POCSAG1200: Address:  459374  Function: 2 
+POCSAG1200: Address:  143924  Function: 0 
+POCSAG1200: Address:  177249  Function: 0 
+POCSAG1200: Address: 1484496  Function: 3 
+POCSAG1200: Address: 1733392  Function: 3 
+POCSAG1200: Address:  268193  Function: 3  Alpha:   <ACK>f
+POCSAG1200: Address:  942699  Function: 0  Alpha:   <SUB>C
+POCSAG1200: Address: 1733392  Function: 3 
+POCSAG1200: Address:   67310  Function: 0 
+POCSAG1200: Address: 1841842  Function: 1 
+POCSAG1200: Address:  602224  Function: 3 
+POCSAG1200: Address:  760929  Function: 1 
+POCSAG1200: Address: 1652668  Function: 1 
+POCSAG1200: Address:  372019  Function: 2  Alpha:   f k`^
+POCSAG1200: Address:  208678  Function: 1 
+POCSAG1200: Address: 1976272  Function: 0 
+POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address:  385488  Function: 3 
+POCSAG1200: Address: 1255022  Function: 1 
+POCSAG1200: Address:  619018  Function: 3  Alpha:   <DC1>"
+POCSAG1200: Address:  273040  Function: 3  Alpha:   16/05/2002 CH3A<NUL><NUL>
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
+POCSAG2400: Address: 1542774  Function: 0 
+POCSAG1200: Address:  959607  Function: 0 
+POCSAG2400: Address: 1319990  Function: 2  Alpha:   10:40-09 5205<NUL>
 POCSAG1200: Address: 1482650  Function: 1 
 POCSAG1200: Address:  273040  Function: 3 
 POCSAG1200: Address:  649969  Function: 2  Alpha:   10:36-08 69001
@@ -960,41 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   04:06-26 2616<NUL>
 POCSAG2400: Address:  959089  Function: 2 
 POCSAG2400: Address: 1360498  Function: 0 
 POCSAG1200: Address: 1499739  Function: 0 
-POCSAG1200: Address: 1768018  Function: 0 
-POCSAG1200: Address: 1487443  Function: 0 
-POCSAG2400: Address:  790792  Function: 3 
-POCSAG2400: Address:  959541  Function: 2 
-POCSAG2400: Address:  384008  Function: 0 
-POCSAG2400: Address:    1552  Function: 1 
-POCSAG2400: Address:  142800  Function: 2 
-POCSAG1200: Address:  959220  Function: 1 
-POCSAG1200: Address: 1032076  Function: 2 
-POCSAG1200: Address: 1975162  Function: 0 
-POCSAG1200: Address: 1998946  Function: 0 
-POCSAG512: Address: 1499700  Function: 0 
-POCSAG1200: Address:   87905  Function: 3  Alpha:    4
-POCSAG1200: Address: 1352293  Function: 0 
-POCSAG1200: Address: 1749841  Function: 2 
-POCSAG1200: Address: 2007479  Function: 1 
-POCSAG1200: Address: 2014834  Function: 3 
-POCSAG1200: Address: 2077690  Function: 2 
-POCSAG1200: Address:  981617  Function: 0 
-POCSAG1200: Address:  844533  Function: 0  Alpha:   /<DC1>
-POCSAG1200: Address:  140578  Function: 1  Alpha:   <DLE><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   16/05/2002 
-POCSAG1200: Address:  614400  Function: 0 
-POCSAG1200: Address: 1310727  Function: 3 
-POCSAG1200: Address: 1520648  Function: 3  Alpha:   "P<EM><ESC><SUB><FS><SUB><ESC><DLE><SUB><CAN>Y\Z<SUB><NUL><NUL>
-POCSAG1200: Address: 1349432  Function: 1 
-POCSAG1200: Address: 2066041  Function: 0 
-POCSAG2400: Address: 2091640  Function: 0 
-POCSAG1200: Address: 1745491  Function: 0 
-POCSAG1200: Address: 1032690  Function: 0 
-POCSAG1200: Address:  352609  Function: 2  Alpha:   :%
-POCSAG1200: Address: 1333252  Function: 3  Alpha:   AAIe<SOH>MeEYEE
-POCSAG1200: Address: 1737715  Function: 1 
-POCSAG1200: Address: 2008753  Function: 0 
-POCSAG1200: Address: 1745446  Function: 2 
-POCSAG1200: Address: 1745524  Function: 3 
-POCSAG1200: Address:  676916  Function: 3  Alpha:   <FF>.---<SO>h,<SO>l<FF>l<FF><NUL>
-POCSAG1200: Address:  688736  Function: 0 
