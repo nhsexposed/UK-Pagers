@@ -1,3 +1,6 @@
+POCSAG1200: Address: 1990874  Function: 1  Alpha:   <ETX>1?KF
+POCSAG1200: Address: 1895001  Function: 2 
+POCSAG2400: Address: 1323140  Function: 2  Alpha:   12:00-55 NHSBT - DON
 POCSAG1200: Address:  455283  Function: 0 
 POCSAG1200: Address: 1485553  Function: 3  Alpha:   F0
 POCSAG2400: Address: 1069642  Function: 0  Alpha:   <SYN>&&<SYN><ACK>
@@ -995,6 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 1221032  Function: 0  Alpha:   <SYN>v
-POCSAG1200: Address:  838010  Function: 2  Alpha:   A 
-POCSAG1200: Address:  724728  Function: 0  Alpha:   I:<STX>H<SUB>
