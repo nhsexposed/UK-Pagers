@@ -1,3 +1,13 @@
+POCSAG1200: Address:  725504  Function: 0 
+POCSAG1200: Address: 2027633  Function: 1 
+POCSAG1200: Address: 1871461  Function: 0 
+POCSAG1200: Address:  937263  Function: 0  Alpha:   Ua<SOH>MeeQUQ<SOH><NUL>
+POCSAG1200: Address:  585064  Function: 2  Alpha:   18:51-24 CALL 07557 649 513<NUL>
+POCSAG2400: Address: 1689848  Function: 2 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   18:51-80 5128<NUL>
+POCSAG1200: Address: 1511901  Function: 3  Alpha:   <DLE>,X!Xr1f
+POCSAG1200: Address: 1052820  Function: 2  Alpha:   18:50-84 31/12/2021 18:47:05 INC 249116
+POCSAG2400: Address:   28904  Function: 0  Alpha:   18:50-X9(3120<NUL>
 POCSAG1200: Address: 2007149  Function: 0 
 POCSAG1200: Address: 2024122  Function: 0  Alpha:   /7
 POCSAG2400: Address:  583600  Function: 2  Alpha:   18:43-10 71q-6
@@ -988,13 +998,3 @@ POCSAG1200: Address:  614190  Function: 1
 POCSAG1200: Address: 1341046  Function: 2 
 POCSAG1200: Address:  956940  Function: 1  Alpha:   !#<ENQ>1o
 POCSAG1200: Address:  981622  Function: 0 
-POCSAG2400: Address:  861755  Function: 0  Alpha:   7594129<NUL>
-POCSAG1200: Address:  600697  Function: 0  Alpha:   15
-POCSAG2400: Address:  963163  Function: 0 
-POCSAG1200: Address:  928320  Function: 0 
-POCSAG2400: Address: 1031602  Function: 0 
-POCSAG1200: Address: 1052872  Function: 3 
-POCSAG1200: Address: 2030172  Function: 0  Alpha:   <US><NAK>
-POCSAG1200: Address: 1453584  Function: 0 
-POCSAG1200: Address: 1904672  Function: 2 
-POCSAG2400: Address: 2025394  Function: 2 
