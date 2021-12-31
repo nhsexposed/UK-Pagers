@@ -1,3 +1,53 @@
+POCSAG1200: Address:  919666  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1942384  Function: 0 
+POCSAG1200: Address:  197476  Function: 3  Alpha:   B<FF>
+POCSAG2400: Address: 1441909  Function: 0 
+POCSAG1200: Address: 2077425  Function: 3 
+POCSAG1200: Address:  858663  Function: 3  Alpha:   O%
+POCSAG1200: Address: 1067087  Function: 3 
+POCSAG1200: Address: 1681230  Function: 3 
+POCSAG1200: Address:  905990  Function: 2 
+POCSAG1200: Address: 1292045  Function: 2 
+POCSAG1200: Address:  701660  Function: 0  Alpha:   <BS>x
+POCSAG1200: Address:  615108  Function: 1 
+POCSAG1200: Address: 1261739  Function: 2 
+POCSAG1200: Address: 1115590  Function: 3 
+POCSAG1200: Address:  428309  Function: 2  Alpha:   x8
+POCSAG1200: Address: 1499405  Function: 1 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:  149544  Function: 2 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:  434741  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:  667896  Function: 0  Alpha:   E<US>
+POCSAG2400: Address: 1602309  Function: 1  Alpha:   71 <NUL><NUL>
+POCSAG2400: Address: 1453368  Function: 0  Alpha:   <SOH>Q
+POCSAG2400: Address: 1449088  Function: 2 
+POCSAG2400: Address: 1778186  Function: 1  Alpha:   <US>%
+POCSAG2400: Address:      16  Function: 2 
+POCSAG2400: Address:  874739  Function: 1 
+POCSAG2400: Address:  354409  Function: 2 
+POCSAG2400: Address: 1242001  Function: 2 
+POCSAG2400: Address:  303671  Function: 2 
+POCSAG2400: Address:  667896  Function: 0  Alpha:   E<US>
+POCSAG2400: Address:  354601  Function: 2 
+POCSAG2400: Address: 2012009  Function: 0 
+POCSAG2400: Address:  959059  Function: 0 
+POCSAG2400: Address:  733048  Function: 0  Alpha:   J*
 POCSAG2400: Address:  156846  Function: 2 
 POCSAG2400: Address: 1316454  Function: 0 
 POCSAG2400: Address: 1069680  Function: 1 
@@ -948,53 +998,3 @@ POCSAG1200: Address:  605616  Function: 1  Alpha:   <FS>l
 POCSAG1200: Address:  388348  Function: 2 
 POCSAG1200: Address:  316978  Function: 2  Alpha:    <SI>KeB
 POCSAG1200: Address:  470886  Function: 2 
-POCSAG1200: Address: 1741684  Function: 1 
-POCSAG1200: Address: 1129077  Function: 2  Alpha:   ^M
-POCSAG1200: Address:  209258  Function: 3 
-POCSAG1200: Address:  451036  Function: 3 
-POCSAG2400: Address: 1745715  Function: 0 
-POCSAG2400: Address: 1999714  Function: 0 
-POCSAG2400: Address: 2007287  Function: 2 
-POCSAG2400: Address: 1976275  Function: 0 
-POCSAG1200: Address: 1880946  Function: 3 
-POCSAG1200: Address: 2097112  Function: 3 
-POCSAG1200: Address: 1032180  Function: 3  Alpha:   <NAK>&
-POCSAG1200: Address: 1712752  Function: 0 
-POCSAG1200: Address: 2011699  Function: 2 
-POCSAG1200: Address: 1253559  Function: 1 
-POCSAG1200: Address:  976131  Function: 2  Alpha:   lI
-POCSAG1200: Address: 1745669  Function: 3 
-POCSAG1200: Address:  960531  Function: 0 
-POCSAG1200: Address: 1032948  Function: 1 
-POCSAG1200: Address:  155842  Function: 1 
-POCSAG1200: Address:  303174  Function: 0 
-POCSAG1200: Address:      29  Function: 2 
-POCSAG1200: Address:  690613  Function: 3 
-POCSAG1200: Address: 1852649  Function: 0  Alpha:   <LF>?
-POCSAG1200: Address:  623274  Function: 3  Alpha:   eI
-POCSAG1200: Address: 1383024  Function: 1 
-POCSAG1200: Address: 1177379  Function: 2 
-POCSAG1200: Address: 1794821  Function: 3 
-POCSAG1200: Address: 1500371  Function: 0  Alpha:   jA
-POCSAG1200: Address: 1222048  Function: 1 
-POCSAG1200: Address: 1878544  Function: 2 
-POCSAG1200: Address:  412092  Function: 0  Alpha:   <ENQ>d
-POCSAG1200: Address:  273040  Function: 3  Alpha:   17/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2007659  Function: 3 
-POCSAG2400: Address:  549209  Function: 2  Alpha:   08:14-00 Your Virgin Media bill is read
-POCSAG1200: Address:   41512  Function: 2  Alpha:   08:14-08 33811
-POCSAG2400: Address: 2073206  Function: 0 
-POCSAG2400: Address: 2003696  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   17/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address:  963059  Function: 0 
-POCSAG1200: Address: 1259126  Function: 2  Alpha:   08:10-09
-POCSAG1200: Address: 2007909  Function: 0 
-POCSAG1200: Address: 1454709  Function: 0 
-POCSAG2400: Address:  762420  Function: 0 
-POCSAG2400: Address: 1324176  Function: 2  Alpha:   08:07-12 5070<NUL>
-POCSAG1200: Address: 2007606  Function: 1 
-POCSAG1200: Address: 2027476  Function: 0 
-POCSAG1200: Address: 2074226  Function: 2 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
