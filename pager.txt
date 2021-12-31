@@ -1,3 +1,8 @@
+POCSAG2400: Address:  960371  Function: 0 
+POCSAG2400: Address: 2044210  Function: 0  Alpha:   09:21-44 5676<NUL>
+POCSAG1200: Address: 1894818  Function: 3 
+POCSAG1200: Address:  834593  Function: 0  Alpha:   ?<BEL>
+POCSAG1200: Address: 1705793  Function: 3 
 POCSAG2400: Address:  701053  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=091831122
 POCSAG2400: Address:  963169  Function: 2 
@@ -993,8 +998,3 @@ POCSAG2400: Address:   28870  Function: 0  Alpha:   03:10-63 PLEASE CALL 7253945
 POCSAG1200: Address:  412186  Function: 0  Alpha:   e<CAN>
 POCSAG1200: Address:  894592  Function: 0  Alpha:   <ACK><US><SOH><HT>[
 POCSAG1200: Address:  900620  Function: 3  Alpha:   9*
-POCSAG1200: Address: 1288323  Function: 2  Alpha:   mIHb@
-POCSAG1200: Address: 2025458  Function: 1 
-POCSAG1200: Address: 1487443  Function: 0 
-POCSAG2400: Address: 1452660  Function: 2 
-POCSAG512: Address:  788009  Function: 1 
