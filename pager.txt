@@ -1,3 +1,22 @@
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG1200: Address: 2073207  Function: 0 
+POCSAG1200: Address: 1966836  Function: 0 
+POCSAG1200: Address: 1220659  Function: 0 
+POCSAG1200: Address: 1745648  Function: 2 
+POCSAG2400: Address: 1958772  Function: 1 
+POCSAG1200: Address:  442249  Function: 1  Alpha:   *Y*V*U*e*W*V*<NAK>+U,U*e
+POCSAG1200: Address:  125691  Function: 0 
+POCSAG1200: Address:  768418  Function: 2  Alpha:   `U
+POCSAG1200: Address: 1071041  Function: 0 
+POCSAG1200: Address: 2011760  Function: 2 
+POCSAG1200: Address: 1991217  Function: 0  Alpha:   (0
+POCSAG1200: Address:  917505  Function: 0 
+POCSAG1200: Address:  384008  Function: 0 
+POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
+POCSAG1200: Address:  163280  Function: 2 
+POCSAG2400: Address: 1736831  Function: 2 
+POCSAG1200: Address: 1452111  Function: 0  Alpha:   M<DC4><DC4>d,<EOT><SUB>|,<NAK>%<ENQ><SUB><FF><DC4>-<EOT>B|l,d<STX><LF>+
+POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
 POCSAG2400: Address: 1320279  Function: 2  Alpha:   15:49-98 5201<NUL>
 POCSAG1200: Address: 1868143  Function: 0 
 POCSAG1200: Address:  928325  Function: 0 
@@ -979,22 +998,3 @@ POCSAG1200: Address:  610379  Function: 3
 POCSAG1200: Address:  312984  Function: 3 
 POCSAG1200: Address:  681656  Function: 3 
 POCSAG1200: Address:  280916  Function: 3 
-POCSAG1200: Address:  208268  Function: 2 
-POCSAG1200: Address: 1979408  Function: 0  Alpha:   -3
-POCSAG1200: Address: 1511901  Function: 3  Alpha:   <DC2><ETX>U<VT>L
-POCSAG1200: Address: 1999379  Function: 2 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 1951458  Function: 3 
-POCSAG1200: Address: 1990769  Function: 0 
-POCSAG1200: Address: 1146907  Function: 0 
-POCSAG1200: Address: 1012896  Function: 2 
-POCSAG1200: Address:  142644  Function: 0 
