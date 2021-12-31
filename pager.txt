@@ -1,3 +1,9 @@
+POCSAG2400: Address:  792596  Function: 3 
+POCSAG1200: Address: 1606256  Function: 2 
+POCSAG2400: Address: 1008210  Function: 2  Alpha:   20:34-99 TEST PAGE<NUL><NUL>
+POCSAG2400: Address: 1718899  Function: 1 
+POCSAG1200: Address: 1747504  Function: 0 
+POCSAG1200: Address:   33724  Function: 2  Alpha:   20:34-21 TEST PAGE<NUL><NUL>
 POCSAG1200: Address:   22104  Function: 2 
 POCSAG1200: Address:   41432  Function: 2  Alpha:   20
 POCSAG1200: Address: 2025460  Function: 1 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 2008756  Function: 0
 POCSAG1200: Address: 1762303  Function: 0 
 POCSAG1200: Address: 2096705  Function: 1  Alpha:   <FF><DLE>
 POCSAG1200: Address:       0  Function: 0  Alpha:   j<VT>
-POCSAG1200: Address: 1108624  Function: 1  Alpha:   <RS>c,Od<ENQ>w <CR>zi{kneut
-POCSAG1200: Address:  163547  Function: 2 
-POCSAG1200: Address:  622000  Function: 0  Alpha:   <ESC>}
-POCSAG1200: Address: 1835410  Function: 2 
-POCSAG1200: Address: 1749160  Function: 3 
-POCSAG1200: Address: 1140392  Function: 2 
