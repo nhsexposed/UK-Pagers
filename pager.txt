@@ -1,3 +1,11 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0933311221+++TIME=0933311221<NUL>
+POCSAG2400: Address: 1487602  Function: 1 
+POCSAG1200: Address: 1512780  Function: 0 
+POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN><SOH>
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   09:31-58 4835<NUL>
+POCSAG1200: Address: 1716822  Function: 0 
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG2400: Address: 1322513  Function: 2  Alpha:   09:30-39 80300
 POCSAG1200: Address: 1413855  Function: 0 
 POCSAG1200: Address:  269456  Function: 3  Alpha:   %2
 POCSAG1200: Address: 1032979  Function: 3  Alpha:   <ACK><DLE>
@@ -990,11 +998,3 @@ POCSAG1200: Address:  604490  Function: 0  Alpha:    S
 POCSAG1200: Address: 1143361  Function: 2 
 POCSAG1200: Address: 1069872  Function: 2 
 POCSAG1200: Address: 1647988  Function: 0 
-POCSAG1200: Address:   76107  Function: 0  Alpha:    S
-POCSAG1200: Address: 1069873  Function: 2 
-POCSAG1200: Address:  623448  Function: 0  Alpha:   rb
-POCSAG1200: Address:  222815  Function: 2  Alpha:   O%
-POCSAG1200: Address:  401935  Function: 0 
-POCSAG1200: Address: 1402563  Function: 1 
-POCSAG1200: Address: 2025457  Function: 1 
-POCSAG1200: Address: 1810807  Function: 0 
