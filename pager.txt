@@ -1,3 +1,9 @@
+POCSAG1200: Address:  412186  Function: 0  Alpha:   e<CAN>
+POCSAG1200: Address:  894592  Function: 0  Alpha:   <ACK><US><SOH><HT>[
+POCSAG1200: Address:  900620  Function: 3  Alpha:   9*
+POCSAG1200: Address: 1288323  Function: 2  Alpha:   mIHb@
+POCSAG1200: Address: 2025458  Function: 1 
+POCSAG1200: Address: 1487443  Function: 0 
 POCSAG2400: Address: 1452660  Function: 2 
 POCSAG512: Address:  788009  Function: 1 
 POCSAG512: Address: 1064800  Function: 0 
@@ -991,10 +997,4 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  135168  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
