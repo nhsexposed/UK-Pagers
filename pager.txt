@@ -1,3 +1,41 @@
+POCSAG1200: Address: 1352294  Function: 0 
+POCSAG1200: Address: 1754739  Function: 0 
+POCSAG1200: Address: 2001905  Function: 1 
+POCSAG1200: Address: 1474621  Function: 1 
+POCSAG1200: Address: 1930368  Function: 2  Alpha:   \[
+POCSAG2400: Address: 1321269  Function: 2  Alpha:   09:43-49 38652
+POCSAG2400: Address: 2072822  Function: 1 
+POCSAG2400: Address: 2028080  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address:       0  Function: 0 
+POCSAG2400: Address: 2009206  Function: 0 
+POCSAG2400: Address: 1482850  Function: 2 
+POCSAG2400: Address: 1222048  Function: 3 
+POCSAG2400: Address: 1205417  Function: 2 
+POCSAG2400: Address: 1735163  Function: 2 
+POCSAG2400: Address:  139826  Function: 2 
+POCSAG2400: Address: 1979248  Function: 1 
+POCSAG2400: Address:  103472  Function: 0 
+POCSAG2400: Address:  395366  Function: 1  Alpha:   m<CR>
+POCSAG2400: Address:  677938  Function: 1 
+POCSAG2400: Address: 1993329  Function: 0 
+POCSAG2400: Address:  189618  Function: 2 
+POCSAG2400: Address:   69655  Function: 1  Alpha:   _]_eA$KMKeeCYA<CAN>S]K<SOH><NUL>
+POCSAG2400: Address: 1031337  Function: 3 
+POCSAG2400: Address:  634042  Function: 0  Alpha:   <<CR>
+POCSAG2400: Address:  598768  Function: 3  Alpha:   <SYN>!
+POCSAG2400: Address: 1635201  Function: 3 
+POCSAG2400: Address:  118555  Function: 3 
+POCSAG2400: Address:  125003  Function: 3 
+POCSAG2400: Address: 2008625  Function: 3 
+POCSAG2400: Address: 1868337  Function: 0 
+POCSAG2400: Address:  647920  Function: 3  Alpha:   v!
+POCSAG2400: Address: 2008690  Function: 1 
+POCSAG2400: Address:   64608  Function: 0 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   <STX><HT>
+POCSAG2400: Address: 1813350  Function: 1 
+POCSAG1200: Address:  906875  Function: 2  Alpha:   &<DLE>
+POCSAG512: Address: 1879921  Function: 0 
 POCSAG1200: Address: 1511973  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address: 2044768  Function: 0 
 POCSAG1200: Address: 2008952  Function: 0 
@@ -960,41 +998,3 @@ POCSAG1200: Address:   27021  Function: 2
 POCSAG1200: Address: 2013815  Function: 2 
 POCSAG1200: Address:  602608  Function: 3 
 POCSAG1200: Address:  761313  Function: 1 
-POCSAG1200: Address: 2028046  Function: 0  Alpha:   ky
-POCSAG1200: Address: 1843770  Function: 0 
-POCSAG1200: Address:  828937  Function: 2 
-POCSAG1200: Address: 1974868  Function: 0 
-POCSAG1200: Address:  703539  Function: 0 
-POCSAG1200: Address: 1192848  Function: 3 
-POCSAG1200: Address: 1204891  Function: 2  Alpha:   2?O<ETB><DC3>o<SOH><ENQ><DC2><DC3>'S'?[<BEL>#<DEL><DC2><ACK>S<BEL><ETX><LF>$
-POCSAG1200: Address: 1259022  Function: 0 
-POCSAG1200: Address:  395437  Function: 2 
-POCSAG1200: Address:  399741  Function: 0 
-POCSAG1200: Address: 1586529  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   17/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 2007624  Function: 2 
-POCSAG1200: Address:  661464  Function: 0 
-POCSAG1200: Address: 2050096  Function: 2 
-POCSAG1200: Address: 1830904  Function: 1 
-POCSAG1200: Address: 2006332  Function: 3  Alpha:   ~~~~~~~~~~~~~6(4(<BS>>?SO<ETX><SOH><NUL>
-POCSAG1200: Address:  964213  Function: 2 
-POCSAG1200: Address:  230864  Function: 0 
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0338311221+++TIME=0338311221<NUL>
-POCSAG1200: Address: 2041972  Function: 0 
-POCSAG1200: Address:  222811  Function: 2 
-POCSAG1200: Address: 2008958  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0333311221+++TIME=0333311221<NUL>
-POCSAG1200: Address:  958565  Function: 0 
-POCSAG1200: Address: 2075376  Function: 1 
-POCSAG512: Address: 1999610  Function: 0 
-POCSAG2400: Address:  809215  Function: 0  Alpha:   03:32-31 5125<NUL>
-POCSAG1200: Address: 2075379  Function: 1 
-POCSAG1200: Address:  219383  Function: 0 
-POCSAG1200: Address:  619125  Function: 0 
-POCSAG1200: Address: 1039242  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0328311221+++TIME=0328311221<NUL>
-POCSAG1200: Address: 1559441  Function: 1 
-POCSAG1200: Address: 1610354  Function: 0 
-POCSAG1200: Address:   18850  Function: 2  Alpha:   03:20-18 PLEASE CALL JR SWITCHBOARD ON 01865 234 560<NUL><NUL>
-POCSAG1200: Address: 1402567  Function: 1 
-POCSAG1200: Address: 1409318  Function: 3  Alpha:   fh
