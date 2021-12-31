@@ -1,3 +1,10 @@
+POCSAG2400: Address: 1745142  Function: 1 
+POCSAG2400: Address: 1606192  Function: 0 
+POCSAG2400: Address: 1323170  Function: 2  Alpha:   19:46-20 BLEEP TEST 
+POCSAG2400: Address: 1022279  Function: 0  Alpha:   19:46-24 BLEEP TEST 
+POCSAG2400: Address: 2026356  Function: 2 
+POCSAG2400: Address: 2011842  Function: 2 
+POCSAG1200: Address: 1908085  Function: 2  Alpha:   "P<HT>*i
 POCSAG1200: Address:  500333  Function: 0 
 POCSAG1200: Address: 1057079  Function: 1 
 POCSAG1200: Address: 1258606  Function: 3 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1071041  Function: 0
 POCSAG1200: Address: 2011760  Function: 2 
 POCSAG1200: Address: 1991217  Function: 0  Alpha:   (0
 POCSAG1200: Address:  917505  Function: 0 
-POCSAG1200: Address:  384008  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address:  163280  Function: 2 
-POCSAG2400: Address: 1736831  Function: 2 
-POCSAG1200: Address: 1452111  Function: 0  Alpha:   M<DC4><DC4>d,<EOT><SUB>|,<NAK>%<ENQ><SUB><FF><DC4>-<EOT>B|l,d<STX><LF>+
-POCSAG1200: Address: 1511980  Function: 3  Alpha:   F 
-POCSAG2400: Address: 1320279  Function: 2  Alpha:   15:49-98 5201<NUL>
