@@ -1,3 +1,6 @@
+POCSAG1200: Address:  290101  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  272346  Function: 0  Alpha:   ;9
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   F<DLE>
 POCSAG1200: Address: 1254921  Function: 0 
 POCSAG1200: Address: 1449144  Function: 2 
 POCSAG1200: Address:  990520  Function: 1 
@@ -995,6 +998,3 @@ POCSAG1200: Address: 2026084  Function: 2
 POCSAG1200: Address: 2008952  Function: 0 
 POCSAG2400: Address: 1480311  Function: 0 
 POCSAG2400: Address: 1705074  Function: 0 
-POCSAG1200: Address: 1993464  Function: 0 
-POCSAG1200: Address:  234186  Function: 2  Alpha:   11:39-39 WITHDRAWL TIME - Donor: 153534, Hospital: ROYAL CORNWALL, HL2101, DOB: 08/04/1957 - W/D: 11:19<NUL><NUL>
-POCSAG1200: Address: 1221203  Function: 0 
