@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1426529  Function: 0 
+POCSAG1200: Address: 1875968  Function: 0  Alpha:   WH<ETX>#t
+POCSAG1200: Address: 2008656  Function: 0 
+POCSAG1200: Address: 1630837  Function: 3 
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test
 POCSAG1200: Address: 1483354  Function: 0 
 POCSAG1200: Address:  926240  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 2024039  Function: 0
 POCSAG1200: Address: 1789391  Function: 2  Alpha:   6 
 POCSAG1200: Address:  961142  Function: 1 
 POCSAG1200: Address: 1762032  Function: 1 
-POCSAG2400: Address:   28927  Function: 0  Alpha:   16:53-46 2184<NUL>
-POCSAG2400: Address: 1324545  Function: 2  Alpha:   16:53
-POCSAG2400: Address: 1241713  Function: 0 
-POCSAG1200: Address: 1188478  Function: 2 
