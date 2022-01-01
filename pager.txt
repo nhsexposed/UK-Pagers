@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1320280  Function: 2  Alpha:   q7(00
+POCSAG1200: Address: 1483380  Function: 1 
+POCSAG1200: Address: 1499827  Function: 2 
+POCSAG2400: Address: 1977009  Function: 3 
+POCSAG1200: Address: 1876139  Function: 3 
+POCSAG1200: Address:   91434  Function: 0  Alpha:   AI
+POCSAG1200: Address: 2025009  Function: 0 
+POCSAG1200: Address: 1639286  Function: 2  Alpha:   <ACK>J<DC3>K<ENQ>
+POCSAG1200: Address: 1319054  Function: 2 
 POCSAG1200: Address: 2026353  Function: 2 
 POCSAG1200: Address: 1090108  Function: 2 
 POCSAG1200: Address:  959536  Function: 2 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1504355  Function: 0  Alpha:   <ETB><ENQ>/I<SI>ft~
 POCSAG1200: Address:  129984  Function: 2 
 POCSAG1200: Address: 2023807  Function: 1 
 POCSAG1200: Address: 1511901  Function: 3  Alpha:   <ACK><SO>
-POCSAG1200: Address:   45057  Function: 3  Alpha:   bhrb@frhlp`
-POCSAG1200: Address: 2007472  Function: 1 
-POCSAG1200: Address: 1612496  Function: 3 
-POCSAG1200: Address: 1157672  Function: 3  Alpha:   h`
-POCSAG1200: Address:  402016  Function: 0 
-POCSAG1200: Address: 1417843  Function: 0 
-POCSAG1200: Address:  420362  Function: 0 
-POCSAG1200: Address: 1813348  Function: 1 
-POCSAG1200: Address: 1483088  Function: 1 
