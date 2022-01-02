@@ -1,3 +1,8 @@
+POCSAG1200: Address:  722436  Function: 2 
+POCSAG1200: Address:  389528  Function: 1  Alpha:   ~Q
+POCSAG1200: Address: 1684256  Function: 3 
+POCSAG1200: Address: 1056801  Function: 2 
+POCSAG1200: Address: 1259427  Function: 2  Alpha:   17:06-70 02/01/2022 16:48:29 INC 24923157 06E01 11 FRESHFORD, MARSHALLS CROSS<<STX>3<SYN>;
 POCSAG2400: Address: 1834561  Function: 3  Alpha:   <FF><DLE>
 POCSAG2400: Address: 1004001  Function: 2 
 POCSAG2400: Address: 1800967  Function: 2 
@@ -993,8 +998,3 @@ POCSAG2400: Address:  419465  Function: 2
 POCSAG2400: Address:   28705  Function: 0 
 POCSAG2400: Address: 1877082  Function: 0 
 POCSAG2400: Address: 1295285  Function: 3  Alpha:   sp>bT
-POCSAG2400: Address: 1391905  Function: 1  Alpha:   J<<NAK>|U
-POCSAG2400: Address:  565877  Function: 1 
-POCSAG2400: Address: 2089840  Function: 0 
-POCSAG2400: Address:  733166  Function: 0 
-POCSAG2400: Address: 1573269  Function: 2  Alpha:   <CR>j
