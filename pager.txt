@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1686664  Function: 2  Alpha:   <ESC>P<EM>\\<ESC><EM><CAN>
+POCSAG1200: Address: 1451750  Function: 2 
+POCSAG1200: Address: 1777788  Function: 0 
+POCSAG2400: Address: 2007059  Function: 0 
 POCSAG1200: Address: 1477905  Function: 0 
 POCSAG1200: Address:  791290  Function: 3  Alpha:   |t<FS>u<STX>
 POCSAG1200: Address: 2012028  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address: 1157684  Function: 0
 POCSAG1200: Address:     224  Function: 2  Alpha:   P k"gj"<SYN><DLE>*i gf<STX>DR
 POCSAG1200: Address:  676582  Function: 1 
 POCSAG1200: Address: 1515690  Function: 1 
-POCSAG1200: Address:   90281  Function: 2 
-POCSAG1200: Address: 1447984  Function: 3  Alpha:   <SYN><VT><STX><BS>I+Jb
-POCSAG1200: Address:  289997  Function: 0 
-POCSAG1200: Address: 2025461  Function: 1 
