@@ -1,3 +1,41 @@
+POCSAG2400: Address:  420537  Function: 2  Alpha:   u&
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   13:57-21
+POCSAG1200: Address: 1325024  Function: 3 
+POCSAG1200: Address:   43059  Function: 3  Alpha:   "<SI>Lp<SO>
+POCSAG1200: Address: 1615810  Function: 0 
+POCSAG1200: Address: 1485096  Function: 2  Alpha:   <CR>+
+POCSAG1200: Address:  663584  Function: 2 
+POCSAG1200: Address: 2074224  Function: 2 
+POCSAG1200: Address: 1909262  Function: 0  Alpha:   <DC1>[
+POCSAG1200: Address:   59979  Function: 1 
+POCSAG1200: Address: 1504622  Function: 0 
+POCSAG1200: Address:  307632  Function: 1  Alpha:   .U
+POCSAG1200: Address: 1602336  Function: 3 
+POCSAG1200: Address: 2043808  Function: 2 
+POCSAG1200: Address: 2011701  Function: 2 
+POCSAG1200: Address: 1881907  Function: 0  Alpha:   <SI><HT>
+POCSAG1200: Address: 1802837  Function: 0 
+POCSAG1200: Address:  951152  Function: 2 
+POCSAG1200: Address:  881590  Function: 3 
+POCSAG1200: Address:   76467  Function: 0 
+POCSAG1200: Address:  846946  Function: 1 
+POCSAG1200: Address: 1995350  Function: 2  Alpha:   F-
+POCSAG1200: Address:   11085  Function: 1 
+POCSAG1200: Address: 1259571  Function: 2  Alpha:   <DC2><SI>
+POCSAG1200: Address:  761589  Function: 1 
+POCSAG1200: Address: 1651298  Function: 0  Alpha:    <VT>/g*
+POCSAG1200: Address:  653489  Function: 0  Alpha:   x<NAK>
+POCSAG1200: Address:  242785  Function: 0 
+POCSAG1200: Address: 2076254  Function: 0 
+POCSAG1200: Address:    8712  Function: 0  Alpha:   q<LF>
+POCSAG1200: Address: 1241714  Function: 0 
+POCSAG1200: Address: 1811041  Function: 0 
+POCSAG1200: Address: 2017594  Function: 3  Alpha:   U*
+POCSAG1200: Address: 1058265  Function: 0 
+POCSAG1200: Address: 1466741  Function: 0 
+POCSAG1200: Address: 1520808  Function: 2 
+POCSAG1200: Address: 2015860  Function: 1 
+POCSAG2400: Address: 2040566  Function: 0 
 POCSAG1200: Address:  977457  Function: 0 
 POCSAG1200: Address: 1705073  Function: 0 
 POCSAG1200: Address:  954485  Function: 2 
@@ -960,41 +998,3 @@ POCSAG1200: Address:  148582  Function: 0
 POCSAG1200: Address:  543856  Function: 0 
 POCSAG1200: Address:  826409  Function: 1 
 POCSAG1200: Address: 2007779  Function: 1 
-POCSAG1200: Address: 1467929  Function: 0  Alpha:   K<EM>hV,
-POCSAG1200: Address: 1321750  Function: 0 
-POCSAG1200: Address: 1933339  Function: 2 
-POCSAG1200: Address:  142588  Function: 0  Alpha:   <ESC>Z
-POCSAG1200: Address: 1052730  Function: 0  Alpha:   E<BS>
-POCSAG1200: Address:  893217  Function: 1 
-POCSAG1200: Address: 1286670  Function: 0 
-POCSAG1200: Address:  729279  Function: 2  Alpha:   <DC3><ETX><EM>jJ<SYN>4<ENQ>
-POCSAG1200: Address:  319817  Function: 0 
-POCSAG1200: Address:  848257  Function: 1 
-POCSAG1200: Address: 1318950  Function: 0  Alpha:   1<DC1>
-POCSAG1200: Address:  909722  Function: 1 
-POCSAG1200: Address:  627881  Function: 1 
-POCSAG1200: Address: 1548531  Function: 0 
-POCSAG1200: Address: 1705066  Function: 2  Alpha:   lX
-POCSAG1200: Address:  125197  Function: 0 
-POCSAG1200: Address:  764005  Function: 3 
-POCSAG1200: Address:  616656  Function: 0 
-POCSAG1200: Address:  861385  Function: 2 
-POCSAG1200: Address:  193121  Function: 0 
-POCSAG1200: Address:  451037  Function: 0 
-POCSAG1200: Address: 1745674  Function: 3  Alpha:   &s
-POCSAG1200: Address: 1860110  Function: 0  Alpha:   A[
-POCSAG1200: Address:   10827  Function: 1 
-POCSAG1200: Address: 1317931  Function: 2  Alpha:   11:54-75 02/01/2022 11:51<SUB>`h
-POCSAG1200: Address: 1072612  Function: 2  Alpha:   <DC2>b
-POCSAG1200: Address:  136050  Function: 2  Alpha:    bN!4
-POCSAG1200: Address: 1712361  Function: 1 
-POCSAG1200: Address:  148582  Function: 0 
-POCSAG1200: Address:  543856  Function: 0 
-POCSAG1200: Address:  826409  Function: 1 
-POCSAG1200: Address:  876954  Function: 1 
-POCSAG1200: Address:  680564  Function: 1 
-POCSAG1200: Address:  602608  Function: 3 
-POCSAG1200: Address:  761313  Function: 1 
-POCSAG1200: Address: 1152947  Function: 0  Alpha:   j`
-POCSAG1200: Address:  792881  Function: 1  Alpha:   <FF>(<BEL>L^
-POCSAG1200: Address: 1718072  Function: 1 
