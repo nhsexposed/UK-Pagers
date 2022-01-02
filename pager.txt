@@ -1,3 +1,41 @@
+POCSAG1200: Address: 2011893  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 1452209  Function: 3 
+POCSAG1200: Address:   94298  Function: 0  Alpha:   Yy
+POCSAG1200: Address: 1750001  Function: 1 
+POCSAG1200: Address: 1720880  Function: 0 
+POCSAG1200: Address: 1520776  Function: 0 
+POCSAG1200: Address: 1220698  Function: 0 
+POCSAG1200: Address: 1682675  Function: 0  Alpha:   r 
+POCSAG1200: Address:  343396  Function: 0 
+POCSAG1200: Address:  116824  Function: 2 
+POCSAG1200: Address:  717664  Function: 3  Alpha:   <SYN>g
+POCSAG1200: Address: 2012023  Function: 1 
+POCSAG1200: Address:  587046  Function: 1 
+POCSAG1200: Address: 1221132  Function: 1 
+POCSAG1200: Address:  157754  Function: 0  Alpha:   I<CR>,V$
+POCSAG1200: Address: 1850872  Function: 1  Alpha:   <SO>]
+POCSAG1200: Address: 1874090  Function: 1  Alpha:   -M
+POCSAG1200: Address:  387472  Function: 1  Alpha:   ~M
+POCSAG1200: Address: 1684256  Function: 3 
+POCSAG1200: Address: 2007661  Function: 3 
+POCSAG1200: Address:  288504  Function: 1 
+POCSAG1200: Address: 1730665  Function: 1 
+POCSAG1200: Address: 1600370  Function: 3  Alpha:   Fk
+POCSAG1200: Address: 1237744  Function: 0 
+POCSAG1200: Address: 1705316  Function: 3  Alpha:   <ESC>0
+POCSAG1200: Address:  367200  Function: 1 
+POCSAG1200: Address: 1423410  Function: 2 
+POCSAG1200: Address:  951298  Function: 0 
+POCSAG1200: Address: 1616754  Function: 3 
+POCSAG1200: Address:  387472  Function: 1  Alpha:   ~M
+POCSAG1200: Address:   92211  Function: 1  Alpha:   ^<VT>l^K
+POCSAG1200: Address:      48  Function: 0 
+POCSAG1200: Address:  384008  Function: 0 
+POCSAG512: Address: 2075380  Function: 1 
+POCSAG1200: Address:  989305  Function: 1  Alpha:   =<FS>L<CR>t<HT>^,<RS>L<RS>}m=<SO>4XlM.^l
+POCSAG2400: Address: 2016115  Function: 0 
 POCSAG1200: Address:  267787  Function: 2 
 POCSAG1200: Address: 1573639  Function: 2  Alpha:   22:28-<DC3><DC4>
 POCSAG1200: Address: 1745490  Function: 0 
@@ -960,41 +998,3 @@ POCSAG2400: Address:  402043  Function: 1
 POCSAG2400: Address: 1686496  Function: 3 
 POCSAG2400: Address: 1658228  Function: 2 
 POCSAG2400: Address:  576288  Function: 3  Alpha:   F%
-POCSAG2400: Address:  258657  Function: 0 
-POCSAG2400: Address: 1925646  Function: 0  Alpha:   Q[
-POCSAG2400: Address:  688741  Function: 0 
-POCSAG2400: Address: 2004532  Function: 0 
-POCSAG2400: Address: 1877585  Function: 0 
-POCSAG2400: Address:  636192  Function: 3 
-POCSAG2400: Address: 1686240  Function: 3 
-POCSAG2400: Address: 1485751  Function: 0 
-POCSAG2400: Address:  696951  Function: 0 
-POCSAG2400: Address:   48109  Function: 3 
-POCSAG2400: Address: 1361176  Function: 0  Alpha:   ge O`Lef
-POCSAG2400: Address: 1001078  Function: 0 
-POCSAG2400: Address: 1745493  Function: 0 
-POCSAG2400: Address: 1176387  Function: 0  Alpha:   <VT><SOH>
-POCSAG2400: Address: 1370626  Function: 1  Alpha:   fk
-POCSAG2400: Address: 1876494  Function: 0  Alpha:   ![
-POCSAG2400: Address:   27211  Function: 1 
-POCSAG2400: Address:   78627  Function: 3  Alpha:   "'
-POCSAG2400: Address: 1706234  Function: 0 
-POCSAG2400: Address: 1686176  Function: 3 
-POCSAG2400: Address:  961337  Function: 2 
-POCSAG2400: Address:  326577  Function: 0  Alpha:   f1<DLE>K<DC1><DC3>%h<DLE>{s
-POCSAG2400: Address:  176737  Function: 0 
-POCSAG2400: Address:   98331  Function: 0 
-POCSAG2400: Address: 1072288  Function: 2  Alpha:   <DC2>B
-POCSAG2400: Address: 1307232  Function: 2 
-POCSAG2400: Address: 2077428  Function: 0 
-POCSAG2400: Address: 2024282  Function: 0 
-POCSAG2400: Address:  986402  Function: 1  Alpha:   $}4@<HT>
-POCSAG2400: Address: 1839474  Function: 3  Alpha:   <n
-POCSAG2400: Address: 2046816  Function: 3 
-POCSAG2400: Address:  378169  Function: 2  Alpha:   A 
-POCSAG2400: Address:  478887  Function: 2 
-POCSAG2400: Address:  930556  Function: 0 
-POCSAG2400: Address: 1811059  Function: 0 
-POCSAG2400: Address:  337348  Function: 2 
-POCSAG2400: Address:  975294  Function: 1 
-POCSAG2400: Address:  958836  Function: 0 
