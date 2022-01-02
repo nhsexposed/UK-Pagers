@@ -1,3 +1,25 @@
+POCSAG2400: Address:  320210  Function: 2  Alpha:   C<ETX><DC3><ETX><VT><DC3><DC3><ETX>
+POCSAG1200: Address: 1476342  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 1847908  Function: 0 
+POCSAG1200: Address:       0  Function: 0  Alpha:   WH
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 2094240  Function: 3 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address:       0  Function: 0 
+POCSAG1200: Address: 1816497  Function: 3 
+POCSAG1200: Address: 1468776  Function: 2 
+POCSAG1200: Address: 1376365  Function: 2 
+POCSAG1200: Address:  833459  Function: 3 
+POCSAG1200: Address: 1733280  Function: 3 
+POCSAG1200: Address: 2074228  Function: 2 
+POCSAG1200: Address: 1894131  Function: 0 
+POCSAG1200: Address: 1161521  Function: 2  Alpha:   pi
+POCSAG1200: Address:  242785  Function: 0 
 POCSAG1200: Address:  816238  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   <ESC>;/05/2002 CH3A<NUL><NUL>
 POCSAG1200: Address: 1484414  Function: 0 
@@ -976,25 +998,3 @@ POCSAG2400: Address:  959014  Function: 0
 POCSAG2400: Address: 1770286  Function: 1 
 POCSAG2400: Address:  792611  Function: 0 
 POCSAG2400: Address: 1829672  Function: 3 
-POCSAG2400: Address:  636981  Function: 1  Alpha:   4<CR>hxM
-POCSAG2400: Address:  226410  Function: 3 
-POCSAG2400: Address:  484572  Function: 3 
-POCSAG2400: Address: 1877586  Function: 0 
-POCSAG2400: Address: 1761399  Function: 0 
-POCSAG2400: Address:  467358  Function: 1  Alpha:   <GS>u
-POCSAG2400: Address: 1766151  Function: 2 
-POCSAG2400: Address:  308825  Function: 2  Alpha:   k<EM>
-POCSAG2400: Address: 1485217  Function: 0 
-POCSAG2400: Address: 2045440  Function: 0 
-POCSAG2400: Address:  564193  Function: 0 
-POCSAG2400: Address: 1829495  Function: 0 
-POCSAG2400: Address:  535908  Function: 1 
-POCSAG2400: Address: 1669232  Function: 3  Alpha:   vF
-POCSAG2400: Address: 1041891  Function: 1  Alpha:   u)
-POCSAG2400: Address:  225390  Function: 0 
-POCSAG2400: Address:  207068  Function: 2 
-POCSAG2400: Address: 2007779  Function: 1 
-POCSAG2400: Address:  160570  Function: 3 
-POCSAG2400: Address:  657656  Function: 0  Alpha:   (J
-POCSAG2400: Address: 1028728  Function: 0 
-POCSAG2400: Address:  108723  Function: 0  Alpha:   <ACK>M
