@@ -1,3 +1,18 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   19/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address:  583520  Function: 2  Alpha:   09:17-03 80300
+POCSAG2400: Address:  583561  Function: 2  Alpha:   09:16-72 8032x
+POCSAG1200: Address: 1469047  Function: 1 
+POCSAG2400: Address:  779483  Function: 3  Alpha:   n<DC1>
+POCSAG2400: Address: 1812771  Function: 0 
+POCSAG2400: Address: 1319763  Function: 2  Alpha:   09:16-60 4311<NUL>
+POCSAG2400: Address:  583795  Function: 2  Alpha:   09:16-53 80300
+POCSAG2400: Address: 2095608  Function: 3 
+POCSAG1200: Address: 1761428  Function: 2  Alpha:   F<LF>
+POCSAG1200: Address: 1371137  Function: 1  Alpha:   Y<ESC><SUB><SUB>Y<CAN><NUL><NUL>
+POCSAG1200: Address: 2074931  Function: 0 
+POCSAG1200: Address:  627296  Function: 3 
+POCSAG1200: Address: 1417022  Function: 0 
+POCSAG1200: Address: 1189510  Function: 0 
 POCSAG2400: Address: 1870707  Function: 1  Alpha:   d98<BS>$Z<<RS>M<GS>]l=\<FF>DZ<FS>\m<ENQ><NUL>
 POCSAG1200: Address: 2044502  Function: 0 
 POCSAG1200: Address: 2007802  Function: 0 
@@ -983,18 +998,3 @@ POCSAG1200: Address: 1559574  Function: 0
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   ++
 POCSAG1200: Address:  273040  Function: 3  Alpha:   19/05/2002 CH3B<NUL><NUL>
 POCSAG1200: Address: 1749601  Function: 1 
-POCSAG1200: Address:  592922  Function: 3 
-POCSAG1200: Address:  535746  Function: 1 
-POCSAG1200: Address: 1588329  Function: 1 
-POCSAG1200: Address:  856614  Function: 1 
-POCSAG2400: Address:  659217  Function: 2  Alpha:   _#
-POCSAG1200: Address: 2024190  Function: 1 
-POCSAG1200: Address: 1896821  Function: 0 
-POCSAG1200: Address: 2073210  Function: 0 
-POCSAG1200: Address: 2045128  Function: 2  Alpha:   F<SYN><SYN><ACK>4<ACK><ETB><ETB><ACK>f<ACK>
-POCSAG1200: Address: 2008759  Function: 0 
-POCSAG1200: Address:   36003  Function: 2  Alpha:   n@B01
-POCSAG1200: Address: 1275442  Function: 3 
-POCSAG1200: Address:  853090  Function: 3 
-POCSAG2400: Address: 1221174  Function: 3 
-POCSAG2400: Address: 1999610  Function: 0 
