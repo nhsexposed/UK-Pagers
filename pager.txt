@@ -1,3 +1,10 @@
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG1200: Address: 1875969  Function: 0 
+POCSAG1200: Address: 1484850  Function: 0 
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG1200: Address: 1321241  Function: 2  Alpha:   09:20-78 call balfour switch
+POCSAG2400: Address: 1095090  Function: 0 
+POCSAG2400: Address: 1880688  Function: 0 
 POCSAG2400: Address:  266246  Function: 0 
 POCSAG1200: Address: 1312466  Function: 2  Alpha:   09:19-27
 POCSAG1200: Address: 1456226  Function: 3  Alpha:   f<ACK>
@@ -991,10 +998,3 @@ POCSAG1200: Address:  791329  Function: 0
 POCSAG1200: Address: 1669672  Function: 3 
 POCSAG1200: Address:  507358  Function: 1  Alpha:   =<
 POCSAG1200: Address:  342067  Function: 3  Alpha:   R<SI>Lh,
-POCSAG1200: Address: 1484040  Function: 1  Alpha:   "3.s3<NAK>;2
-POCSAG1200: Address:  499174  Function: 0  Alpha:   w'
-POCSAG1200: Address:  765667  Function: 0 
-POCSAG1200: Address:  589347  Function: 0  Alpha:   h<VT>
-POCSAG1200: Address: 1571136  Function: 1  Alpha:   ,S
-POCSAG1200: Address: 1762373  Function: 0 
-POCSAG1200: Address:      16  Function: 2 
