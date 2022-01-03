@@ -1,3 +1,8 @@
+POCSAG2400: Address: 1387752  Function: 3 
+POCSAG2400: Address:  701173  Function: 2  Alpha:   <SYN><ACK>
+POCSAG2400: Address: 1940216  Function: 2 
+POCSAG2400: Address: 1002546  Function: 0  Alpha:   4<LF><EM>Y<EM><BS><EOT><NUL>
+POCSAG2400: Address: 1323253  Function: 2  Alpha:   07:36-70 07939 267 290 CAROLINA SHIMA <NUL>
 POCSAG1200: Address:  149169  Function: 2  Alpha:   07:34-63 Fire Alarm 136 Suite<NUL><NUL>
 POCSAG1200: Address:  787972  Function: 0 
 POCSAG1200: Address: 1594899  Function: 2 
@@ -992,9 +997,4 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:   12288  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
