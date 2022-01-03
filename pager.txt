@@ -1,3 +1,27 @@
+POCSAG1200: Address:  768704  Function: 0 
+POCSAG1200: Address: 1454560  Function: 1  Alpha:   <CAN>m
+POCSAG1200: Address:     256  Function: 1 
+POCSAG1200: Address:  915842  Function: 1  Alpha:   <FF><DC2>
+POCSAG1200: Address:  783176  Function: 3 
+POCSAG1200: Address: 1600769  Function: 1  Alpha:   J<ETX>
+POCSAG1200: Address: 2044128  Function: 0 
+POCSAG1200: Address:  641083  Function: 0  Alpha:   <NUL><DC1>
+POCSAG1200: Address:  537440  Function: 3 
+POCSAG1200: Address: 2095866  Function: 0 
+POCSAG1200: Address:  717057  Function: 2 
+POCSAG1200: Address: 1945177  Function: 0  Alpha:   4Y<BS><DEL>(
+POCSAG1200: Address: 1718264  Function: 1 
+POCSAG1200: Address: 1635178  Function: 1 
+POCSAG1200: Address:  969328  Function: 0 
+POCSAG1200: Address:  111005  Function: 0  Alpha:   >Y<BS>x4
+POCSAG1200: Address: 1255048  Function: 2 
+POCSAG1200: Address: 1713781  Function: 2 
+POCSAG1200: Address:  582327  Function: 1 
+POCSAG1200: Address: 1240038  Function: 2 
+POCSAG1200: Address:  831529  Function: 2  Alpha:   '<ESC>
+POCSAG1200: Address: 1505136  Function: 0 
+POCSAG1200: Address: 1998056  Function: 3 
+POCSAG1200: Address: 1708312  Function: 1  Alpha:   !-
 POCSAG1200: Address: 1712757  Function: 1 
 POCSAG1200: Address: 2025042  Function: 0 
 POCSAG1200: Address: 1983266  Function: 2  Alpha:   08:49-27 <DC2>{304
@@ -974,27 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 1583296  Function: 2 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  752320  Function: 0  Alpha:   6A
-POCSAG1200: Address: 1013296  Function: 2 
-POCSAG1200: Address: 1875834  Function: 0 
-POCSAG1200: Address: 2072809  Function: 3 
-POCSAG1200: Address:  303488  Function: 1 
-POCSAG1200: Address: 1978096  Function: 0 
-POCSAG1200: Address:   83494  Function: 0 
-POCSAG1200: Address:  794659  Function: 1 
-POCSAG1200: Address: 1829698  Function: 3 
-POCSAG1200: Address: 1651488  Function: 3 
-POCSAG1200: Address: 1651488  Function: 3 
-POCSAG1200: Address: 1730977  Function: 1 
-POCSAG1200: Address:   87846  Function: 3  Alpha:   R 
-POCSAG1200: Address: 1978741  Function: 0 
-POCSAG1200: Address: 2008677  Function: 0 
-POCSAG1200: Address: 1356384  Function: 3 
-POCSAG1200: Address:  602352  Function: 3 
-POCSAG1200: Address: 1475282  Function: 0 
-POCSAG1200: Address:  761057  Function: 1 
-POCSAG1200: Address:  124979  Function: 3  Alpha:   ~<VT>lF<NUL>
