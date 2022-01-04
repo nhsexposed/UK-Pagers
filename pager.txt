@@ -1,3 +1,12 @@
+POCSAG512: Address:  279744  Function: 3 
+POCSAG512: Address:   50375  Function: 2 
+POCSAG512: Address: 2052646  Function: 2  Alpha:   dH
+POCSAG2400: Address: 1475154  Function: 2 
+POCSAG1200: Address: 2010740  Function: 1 
+POCSAG1200: Address: 1978993  Function: 0  Alpha:   -<CAN>
+POCSAG1200: Address: 1991288  Function: 0 
+POCSAG1200: Address:       0  Function: 2 
+POCSAG1200: Address:  395616  Function: 0 
 POCSAG1200: Address: 2023536  Function: 3 
 POCSAG1200: Address: 2011888  Function: 0 
 POCSAG2400: Address:  926244  Function: 0 
@@ -989,12 +998,3 @@ POCSAG2400: Address: 1404456  Function: 2  Alpha:   <ENQ><STX>
 POCSAG2400: Address:  390692  Function: 0  Alpha:   v<CR>fB<NUL>
 POCSAG2400: Address:  893095  Function: 1 
 POCSAG2400: Address:  635040  Function: 0 
-POCSAG2400: Address:  751922  Function: 2 
-POCSAG2400: Address: 1403856  Function: 3 
-POCSAG2400: Address:   75917  Function: 2 
-POCSAG2400: Address:  326756  Function: 0  Alpha:   d<DC3>
-POCSAG2400: Address:  438421  Function: 2 
-POCSAG2400: Address:  269168  Function: 2  Alpha:   08:43-56 04/01/2022 08:40:47 INC 24932078 1@`
-POCSAG2400: Address:  786465  Function: 0 
-POCSAG2400: Address: 1717152  Function: 3 
-POCSAG2400: Address:  706874  Function: 1  Alpha:   E=<BEL>8T70\
