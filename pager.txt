@@ -1,3 +1,36 @@
+POCSAG2400: Address: 1880700  Function: 1 
+POCSAG2400: Address:  926322  Function: 0 
+POCSAG2400: Address: 1875969  Function: 0 
+POCSAG2400: Address:   28926  Function: 0  Alpha:   0<BS>838-36 5205<NUL>
+POCSAG2400: Address:  584649  Function: 2  Alpha:   09:38-67 8034<DLE>
+POCSAG1200: Address: 1032974  Function: 2  Alpha:   !<ACK>
+POCSAG1200: Address:  723652  Function: 3  Alpha:   Ss<DC4>hPtS<DC1><NAK><VT>HqS<DC4>
+POCSAG1200: Address: 1745494  Function: 0 
+POCSAG1200: Address: 1732642  Function: 2  Alpha:   <STX><STX><VT>%E
+POCSAG1200: Address: 2074083  Function: 1  Alpha:   <u@yK)>GC! 
+POCSAG1200: Address: 1662307  Function: 0 
+POCSAG1200: Address: 1388344  Function: 0 
+POCSAG1200: Address: 1410288  Function: 0 
+POCSAG1200: Address:  258009  Function: 3  Alpha:   <HT><SOH>
+POCSAG1200: Address: 2057985  Function: 2 
+POCSAG1200: Address: 1467912  Function: 2 
+POCSAG1200: Address:     448  Function: 1 
+POCSAG1200: Address:  688736  Function: 0 
+POCSAG1200: Address: 1998960  Function: 2 
+POCSAG1200: Address: 1076072  Function: 1 
+POCSAG1200: Address: 1715802  Function: 1 
+POCSAG1200: Address:  597816  Function: 1 
+POCSAG1200: Address: 1318958  Function: 1 
+POCSAG1200: Address:  911642  Function: 0  Alpha:   p[
+POCSAG1200: Address: 1242339  Function: 2 
+POCSAG1200: Address:  701152  Function: 2  Alpha:   )A
+POCSAG1200: Address: 1206866  Function: 2  Alpha:   BQ
+POCSAG1200: Address: 1452049  Function: 0 
+POCSAG1200: Address:      16  Function: 2 
+POCSAG1200: Address: 1352295  Function: 0 
+POCSAG2400: Address: 2089815  Function: 0 
+POCSAG2400: Address: 1614448  Function: 0 
+POCSAG2400: Address:  216264  Function: 2  Alpha:   09:35-87 PROBLEM: NetScaler - HTTP / SSL Cert Check - 30 day: VS-
 POCSAG2400: Address: 1352290  Function: 0 
 POCSAG1200: Address: 1750905  Function: 0  Alpha:   /<DC1>
 POCSAG1200: Address: 2028257  Function: 0 
@@ -965,36 +998,3 @@ POCSAG1200: Address:  800771  Function: 2  Alpha:   {<US>^<FS><NUL>
 POCSAG1200: Address: 1071548  Function: 0  Alpha:   Iu
 POCSAG1200: Address: 1856425  Function: 0 
 POCSAG1200: Address: 1233265  Function: 0 
-POCSAG1200: Address:  382764  Function: 0 
-POCSAG1200: Address:  510755  Function: 2 
-POCSAG1200: Address: 1848550  Function: 2  Alpha:   :B
-POCSAG1200: Address: 1604777  Function: 1 
-POCSAG1200: Address:   88737  Function: 0 
-POCSAG1200: Address: 1484501  Function: 3 
-POCSAG1200: Address:  601136  Function: 0 
-POCSAG1200: Address: 1974326  Function: 1 
-POCSAG1200: Address: 1895004  Function: 2 
-POCSAG1200: Address: 1233329  Function: 1  Alpha:   In
-POCSAG1200: Address:  181170  Function: 0 
-POCSAG1200: Address: 1923938  Function: 3 
-POCSAG1200: Address: 1947938  Function: 3  Alpha:   .&
-POCSAG1200: Address: 1068321  Function: 3 
-POCSAG1200: Address: 2077819  Function: 0 
-POCSAG1200: Address: 1936105  Function: 2 
-POCSAG1200: Address: 1267425  Function: 0 
-POCSAG1200: Address: 1705124  Function: 3 
-POCSAG1200: Address: 2066019  Function: 3 
-POCSAG1200: Address:  209505  Function: 0 
-POCSAG1200: Address:  846211  Function: 0 
-POCSAG1200: Address: 1030833  Function: 0 
-POCSAG1200: Address: 1762062  Function: 3 
-POCSAG1200: Address: 1484657  Function: 2 
-POCSAG1200: Address: 1876494  Function: 0  Alpha:   ![
-POCSAG1200: Address:   27211  Function: 1 
-POCSAG1200: Address:      22  Function: 0 
-POCSAG1200: Address:  801275  Function: 1  Alpha:   <CR>m
-POCSAG1200: Address: 2007154  Function: 3 
-POCSAG1200: Address: 1651104  Function: 1 
-POCSAG1200: Address: 1071484  Function: 0  Alpha:   M=
-POCSAG1200: Address: 1233201  Function: 0 
-POCSAG1200: Address: 1663794  Function: 0 
