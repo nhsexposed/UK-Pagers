@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1929208  Function: 3 
+POCSAG2400: Address: 1320372  Function: 2  Alpha:   08:33-65 4399<NUL>
+POCSAG1200: Address: 1485588  Function: 3  Alpha:   ]<EM>
+POCSAG1200: Address:  950944  Function: 0 
+POCSAG2400: Address: 2077821  Function: 0  Alpha:   ;<DC1>
+POCSAG2400: Address:  549031  Function: 2  Alpha:   08:30-63 **TEST TEYP**
+POCSAG2400: Address:  549010  Function: 2  Alpha:   08:30-30 **TEST TEST**
+POCSAG2400: Address:  549012  Function: 2  Alpha:   08:30-76 **TEST TEST**
+POCSAG1200: Address: 1321241  Function: 2  Alpha:   08:30-80 **TEST TEST**
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0828040122+++TIME=0828040122<NUL>
 POCSAG1200: Address: 1025146  Function: 2  Alpha:   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<STX><NUL>
 POCSAG2400: Address: 2007101  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1745634  Function: 2  Alpha:   be
 POCSAG1200: Address:  178193  Function: 0 
 POCSAG1200: Address:  160865  Function: 0 
 POCSAG1200: Address:  421085  Function: 0 
-POCSAG1200: Address:  800128  Function: 0 
-POCSAG1200: Address:  373489  Function: 1  Alpha:   rHO<NUL><NUL>
-POCSAG1200: Address:  791598  Function: 1 
-POCSAG1200: Address:  649257  Function: 2  Alpha:   <ENQ><STX>
-POCSAG1200: Address: 1703738  Function: 3 
-POCSAG1200: Address:  634104  Function: 0  Alpha:   :A
-POCSAG1200: Address: 1009073  Function: 2 
-POCSAG1200: Address: 1794640  Function: 3 
-POCSAG1200: Address:  327044  Function: 3 
