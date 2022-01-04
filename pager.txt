@@ -1,3 +1,13 @@
+POCSAG2400: Address: 2074422  Function: 1 
+POCSAG2400: Address:  547235  Function: 0  Alpha:   <FS><^<FF>4<FS>LM<CR>4vv&<ACK><ACK><EOT><NUL>
+POCSAG2400: Address:  959408  Function: 0 
+POCSAG512: Address: 2074226  Function: 2 
+POCSAG2400: Address: 1913993  Function: 2  Alpha:   15:23-21 5276<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   15:23-85 2767<NUL>
+POCSAG1200: Address:  273040  Function: 3  Alpha:   21/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1039333  Function: 3  Alpha:   <NAK><BS>
+POCSAG1200: Address: 2000946  Function: 0 
+POCSAG2400: Address: 1876026  Function: 2 
 POCSAG1200: Address: 1511897  Function: 2  Alpha:   <EM><BS>NdL
 POCSAG1200: Address: 1999652  Function: 2 
 POCSAG1200: Address: 2091641  Function: 0 
@@ -988,13 +998,3 @@ POCSAG2400: Address:  259946  Function: 1
 POCSAG2400: Address: 1143739  Function: 0  Alpha:   3;
 POCSAG1200: Address:  553832  Function: 3  Alpha:   F0
 POCSAG1200: Address: 1294385  Function: 1 
-POCSAG1200: Address: 1512726  Function: 2  Alpha:   E`
-POCSAG1200: Address: 1512730  Function: 3  Alpha:   e`
-POCSAG2400: Address:  420568  Function: 2  Alpha:   <DC4>k
-POCSAG1200: Address: 1355646  Function: 0  Alpha:   Iy
-POCSAG1200: Address:  210679  Function: 2 
-POCSAG1200: Address: 1056827  Function: 0  Alpha:   S<FF><ACK>FI; bFG(DeU
-POCSAG1200: Address:  388310  Function: 0  Alpha:   z<VT>
-POCSAG1200: Address:  768263  Function: 2 
-POCSAG1200: Address: 1552977  Function: 3 
-POCSAG1200: Address: 1450547  Function: 0 
