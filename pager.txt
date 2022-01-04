@@ -1,3 +1,12 @@
+POCSAG2400: Address: 1878651  Function: 0 
+POCSAG1200: Address:  568949  Function: 0 
+POCSAG1200: Address: 1483365  Function: 0 
+POCSAG1200: Address: 1974880  Function: 0 
+POCSAG1200: Address: 2025462  Function: 1  Alpha:   /^
+POCSAG1200: Address: 1744993  Function: 0 
+POCSAG1200: Address:  413059  Function: 2  Alpha:   18:51-66 (3/3) INFORMED AS IMO<NUL>
+POCSAG1200: Address:   22025  Function: 2  Alpha:   "<STX><EM><SYN>7<BEL>1<ACK>
+POCSAG1200: Address: 1022582  Function: 1  Alpha:   <EOT>h.Nmm-<FF>
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1893314  Function: 3  Alpha:   ne
 POCSAG1200: Address: 2008657  Function: 0 
 POCSAG1200: Address: 1567000  Function: 0  Alpha:   %<NAK>
 POCSAG2400: Address: 2028155  Function: 1 
-POCSAG1200: Address: 2025318  Function: 0 
-POCSAG1200: Address: 2028157  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   21/05/2002 CH3B<NUL><NUL>
-POCSAG2400: Address: 1878869  Function: 0 
-POCSAG1200: Address:   41967  Function: 2  Alpha:   15:48-69 PLEASE CONTACT CONTROL <NUL><NUL>
-POCSAG1200: Address: 1975090  Function: 0 
-POCSAG2400: Address: 1354618  Function: 0 
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   15:47-71 64880
-POCSAG1200: Address: 1852578  Function: 0 
