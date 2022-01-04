@@ -1,3 +1,6 @@
+POCSAG1200: Address: 2015831  Function: 0 
+POCSAG2400: Address: 2011899  Function: 0 
+POCSAG2400: Address:  149253  Function: 2  Alpha:   22:26-45 TEST PAGE <NUL>
 POCSAG2400: Address: 1188421  Function: 0 
 POCSAG1200: Address: 1876027  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   21/05/2002 CH3B<NUL><NUL>
@@ -995,6 +998,3 @@ POCSAG2400: Address:  321900  Function: 0  Alpha:   <NAK>'VM<STX><ENQ>u<STX><HT>
 POCSAG2400: Address:  455302  Function: 2 
 POCSAG2400: Address: 1351936  Function: 2 
 POCSAG2400: Address:  139826  Function: 1  Alpha:   @e
-POCSAG2400: Address:  535334  Function: 1  Alpha:   <FS>$
-POCSAG2400: Address:  612961  Function: 1 
-POCSAG2400: Address: 1518642  Function: 3 
