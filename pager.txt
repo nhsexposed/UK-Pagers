@@ -1,3 +1,15 @@
+POCSAG1200: Address:  858538  Function: 3  Alpha:   j<FF>t<FS>D,<FS>%-<DC4>e<STX>j<FF><VT><ETX><LF>S<<EOT>2,n<SO>f.<ACK>2KK<ENQ>2<FF>dd<EOT>:<DC4>%<EOT><SUB>CK<DC3>K<ESC><ETX><SUB>K;<ESC><ESC>3<ETX>
+POCSAG2400: Address: 1323478  Function: 2  Alpha:   21:03-18 PLS CALL SUZANNE ON 07770 702 698
+POCSAG2400: Address: 1323484  Function: 2  Alpha:   21
+POCSAG2400: Address: 2007891  Function: 2 
+POCSAG2400: Address:  615587  Function: 1  Alpha:   <GS><VT>A<RS><GS>A`nnn`@n`d@lrp<NUL>
+POCSAG1200: Address: 1974871  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   F0
+POCSAG2400: Address:   28900  Function: 0  Alpha:   21:02-75 5070<NUL>
+POCSAG1200: Address: 1710094  Function: 2  Alpha:   21:01-03 64854
+POCSAG2400: Address:   28870  Function: 0  Alpha:   21:00-23 PLS CALL QEQM ON 7253405<NUL>
+POCSAG1200: Address: 2077692  Function: 2 
+POCSAG2400: Address: 2028257  Function: 0 
 POCSAG1200: Address: 1717877  Function: 0 
 POCSAG2400: Address: 1323631  Function: 2  Alpha:   20:58-92 4387<NUL>
 POCSAG1200: Address: 1107017  Function: 3  Alpha:   I<NUL>
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1738040122+++TIME=17
 POCSAG1200: Address:  133419  Function: 3 
 POCSAG1200: Address: 1022230  Function: 2  Alpha:   17:38-04
 POCSAG2400: Address: 2028531  Function: 0 
-POCSAG2400: Address: 1812081  Function: 1 
-POCSAG2400: Address: 2011889  Function: 0 
-POCSAG1200: Address:  828002  Function: 2 
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   17:37-80 64311
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:  673280  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
-POCSAG2400: Address:       0  Function: 0 
