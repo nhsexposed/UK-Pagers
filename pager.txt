@@ -1,3 +1,41 @@
+POCSAG1200: Address:  655362  Function: 0 
+POCSAG1200: Address:  958719  Function: 0 
+POCSAG2400: Address: 2008592  Function: 2 
+POCSAG2400: Address: 1685366  Function: 2  Alpha:   r9
+POCSAG2400: Address:  950836  Function: 1 
+POCSAG2400: Address: 1240882  Function: 0 
+POCSAG2400: Address: 1839337  Function: 1 
+POCSAG2400: Address: 2007152  Function: 0 
+POCSAG2400: Address:  637158  Function: 3 
+POCSAG2400: Address: 1939067  Function: 0  Alpha:   iN^d 
+POCSAG2400: Address: 1746580  Function: 0 
+POCSAG2400: Address: 1483826  Function: 0 
+POCSAG2400: Address: 1466617  Function: 2  Alpha:   g?
+POCSAG2400: Address: 1876028  Function: 2 
+POCSAG2400: Address: 1842747  Function: 2  Alpha:   I<SOH>
+POCSAG2400: Address:  190179  Function: 0  Alpha:   <FS>O
+POCSAG2400: Address:  629776  Function: 2  Alpha:   xi<EM>6<ETX>
+POCSAG2400: Address:   78261  Function: 1 
+POCSAG2400: Address:  941354  Function: 1 
+POCSAG2400: Address:  663668  Function: 2 
+POCSAG2400: Address: 2073427  Function: 3 
+POCSAG2400: Address:  763208  Function: 1 
+POCSAG2400: Address: 1925640  Function: 1 
+POCSAG2400: Address: 1208305  Function: 2 
+POCSAG2400: Address:  700016  Function: 0 
+POCSAG2400: Address: 1489620  Function: 0 
+POCSAG2400: Address: 1945011  Function: 1  Alpha:   j`
+POCSAG2400: Address:     336  Function: 3  Alpha:   b*
+POCSAG2400: Address: 1977892  Function: 3 
+POCSAG2400: Address:  265778  Function: 3 
+POCSAG2400: Address: 1499496  Function: 0 
+POCSAG2400: Address:  152016  Function: 2 
+POCSAG2400: Address:   81920  Function: 0 
+POCSAG2400: Address: 1812210  Function: 2 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   12:26-77 2547<NUL>
+POCSAG1200: Address: 2009798  Function: 0 
+POCSAG1200: Address: 1511973  Function: 3  Alpha:   <ACK>F
+POCSAG1200: Address: 2000706  Function: 0 
 POCSAG1200: Address:  995712  Function: 2 
 POCSAG1200: Address: 1487386  Function: 0 
 POCSAG2400: Address: 1323724  Function: 2  Alpha:   T2<SUB>20-77 2304<NUL>
@@ -960,41 +998,3 @@ POCSAG2400: Address: 1579554  Function: 1  Alpha:   <SYN><ETB>
 POCSAG2400: Address:  499779  Function: 2 
 POCSAG2400: Address:  354376  Function: 2 
 POCSAG2400: Address: 1863513  Function: 2 
-POCSAG2400: Address: 1192088  Function: 0  Alpha:   <ENQ>-^b>
-POCSAG2400: Address: 1981362  Function: 3 
-POCSAG2400: Address: 2046921  Function: 3 
-POCSAG2400: Address: 2011719  Function: 1 
-POCSAG2400: Address: 1982557  Function: 0 
-POCSAG2400: Address:  240977  Function: 0 
-POCSAG2400: Address: 1859865  Function: 1  Alpha:   -I
-POCSAG2400: Address: 1997769  Function: 3 
-POCSAG2400: Address:  818361  Function: 0  Alpha:   C/<BEL>U!
-POCSAG2400: Address: 1582359  Function: 0 
-POCSAG2400: Address: 1875969  Function: 0 
-POCSAG2400: Address: 1807099  Function: 0 
-POCSAG2400: Address:  801394  Function: 0 
-POCSAG2400: Address: 1839289  Function: 1  Alpha:   M\
-POCSAG2400: Address:   43051  Function: 1 
-POCSAG2400: Address:   81920  Function: 0  Alpha:   <CR>DjGi
-POCSAG1200: Address: 2012011  Function: 0 
-POCSAG1200: Address:   85516  Function: 2 
-POCSAG1200: Address:  702059  Function: 1 
-POCSAG1200: Address:  569954  Function: 0 
-POCSAG1200: Address: 1977954  Function: 0 
-POCSAG1200: Address: 1813345  Function: 1 
-POCSAG2400: Address:  926448  Function: 0 
-POCSAG1200: Address: 1032037  Function: 0 
-POCSAG1200: Address: 1031705  Function: 2 
-POCSAG1200: Address: 1042170  Function: 0 
-POCSAG1200: Address:   41814  Function: 3  Alpha:   ``
-POCSAG1200: Address: 1001170  Function: 2  Alpha:   09:17-34 FOR INFO 22
-POCSAG1200: Address:  265346  Function: 3  Alpha:   e<DC2>
-POCSAG1200: Address: 1630963  Function: 0 
-POCSAG1200: Address:   81920  Function: 0  Alpha:   <EOT><DLE>
-POCSAG2400: Address: 1012036  Function: 0  Alpha:   <ETX>!&<ETX><NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   09:12-71 5128<NUL>
-POCSAG2400: Address: 1744992  Function: 0 
-POCSAG1200: Address: 1975026  Function: 1 
-POCSAG1200: Address: 1745650  Function: 2 
-POCSAG1200: Address:  887408  Function: 0 
-POCSAG1200: Address:  566480  Function: 1 
