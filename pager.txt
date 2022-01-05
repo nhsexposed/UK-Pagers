@@ -1,3 +1,15 @@
+POCSAG1200: Address:  114413  Function: 2  Alpha:   20:22-26 ~SRT LEVEL 2<NUL>
+POCSAG1200: Address: 1024120  Function: 2 
+POCSAG2400: Address: 1323170  Function: 2  Alpha:   20:21-02 CALL 01223 257 032<NUL>
+POCSAG2400: Address: 2061712  Function: 3  Alpha:   dbZ`j@<ACK><ETX><EM><EM>A`bddf@djn@`fd<NUL>
+POCSAG2400: Address: 1323191  Function: 2  Alpha:   20:21-31 CALL 01223 257 032<NUL>
+POCSAG2400: Address:   33713  Function: 2  Alpha:   20:21-91 CALL 01223 257 032<NUL>
+POCSAG2400: Address: 2072675  Function: 0 
+POCSAG1200: Address: 2000947  Function: 0 
+POCSAG1200: Address: 1843824  Function: 0 
+POCSAG2400: Address: 1352290  Function: 0 
+POCSAG2400: Address:  156175  Function: 1  Alpha:   lg*)Pa*)
+POCSAG2400: Address: 1974354  Function: 2 
 POCSAG1200: Address: 2027356  Function: 0 
 POCSAG1200: Address:  707473  Function: 2  Alpha:   <BS>$F<SYN>G
 POCSAG1200: Address: 1894134  Function: 0 
@@ -986,15 +998,3 @@ POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1213050122+++TIME=12
 POCSAG1200: Address: 1100149  Function: 2  Alpha:   12:13-94 35538
 POCSAG1200: Address:  673289  Function: 0 
 POCSAG1200: Address:  867013  Function: 1 
-POCSAG1200: Address:  758316  Function: 1 
-POCSAG1200: Address:  561049  Function: 2  Alpha:   jY!<DC1>H
-POCSAG1200: Address: 1241288  Function: 0  Alpha:   <ETB>k
-POCSAG1200: Address: 1029190  Function: 2  Alpha:   `)d<ACK>Ey3<HT>
-POCSAG1200: Address:  171742  Function: 2 
-POCSAG1200: Address: 1652860  Function: 2  Alpha:   <SUB><ACK><BEL>3<DEL>
-POCSAG1200: Address:  311627  Function: 0  Alpha:   MO
-POCSAG1200: Address:  623368  Function: 3  Alpha:   `nNbrZ<FS><ENQ>
-POCSAG1200: Address: 1508040  Function: 3 
-POCSAG1200: Address:   71068  Function: 3  Alpha:   pe: PROBLEM<HT><LF>Host<RS>KP
-POCSAG2400: Address: 1913823  Function: 2  Alpha:   12:11-67 2182<NUL>
-POCSAG2400: Address:  583583  Function: 2  Alpha:   12:11-32 80300
