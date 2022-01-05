@@ -1,3 +1,9 @@
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1188421  Function: 0 
+POCSAG2400: Address:   28896  Function: 0  Alpha:   07:03-00 2183<NUL>
+POCSAG1200: Address: 1762039  Function: 1 
+POCSAG1200: Address: 1321620  Function: 2  Alpha:   07:03-90 Destination: Parking\D78 Ext TP, Booking Ref#: , Vehicle: pn67gzu. If no more Booking Ref to unload, ignore destination and proceed to the Gatehouse.<LF>___________________________________
+POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address: 2075219  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0653050122+++TIME=0653050122<NUL>
 POCSAG1200: Address: 1573739  Function: 2  Alpha:   06:53-36 4226<NUL>
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1482994  Function: 0
 POCSAG1200: Address:   57412  Function: 1  Alpha:   <ETX><ESC>+kP
 POCSAG1200: Address:  185322  Function: 3  Alpha:   s: 32
 POCSAG1200: Address: 2012129  Function: 0 
-POCSAG1200: Address: 2003577  Function: 0 
-POCSAG1200: Address: 1477238  Function: 3 
-POCSAG1200: Address: 2073428  Function: 3 
-POCSAG2400: Address:  958544  Function: 0 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   21/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1310727  Function: 3 
