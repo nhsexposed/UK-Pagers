@@ -1,3 +1,19 @@
+POCSAG1200: Address:  856149  Function: 0 
+POCSAG1200: Address:  743307  Function: 2 
+POCSAG1200: Address: 1329194  Function: 2 
+POCSAG1200: Address: 2001524  Function: 2 
+POCSAG1200: Address: 1966931  Function: 1 
+POCSAG1200: Address:  345160  Function: 2  Alpha:   2 402732
+POCSAG1200: Address: 1966416  Function: 2 
+POCSAG1200: Address: 1761912  Function: 1 
+POCSAG1200: Address:  290746  Function: 2 
+POCSAG1200: Address: 1188418  Function: 0 
+POCSAG2400: Address:   28905  Function: 0  Alpha:   17:16-57 4157<NUL>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <ACK><DLE>
+POCSAG1200: Address: 1487684  Function: 2  Alpha:   17:16-82 60849
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   17:15-79 61065
+POCSAG1200: Address:  200977  Function: 2  Alpha:   17:15-27 3<NUL>
+POCSAG1200: Address:   41512  Function: 2  Alpha:   17:14-50 Call or Calls waiting at Switchboard
 POCSAG1200: Address: 1868140  Function: 0 
 POCSAG2400: Address: 1320359  Function: 2  Alpha:   17:13-68 4769<NUL>
 POCSAG1200: Address:  958546  Function: 0 
@@ -982,19 +998,3 @@ POCSAG2400: Address:  191478  Function: 0
 POCSAG2400: Address: 1850798  Function: 1  Alpha:   <RS>l
 POCSAG2400: Address: 1089392  Function: 3 
 POCSAG2400: Address: 1684293  Function: 3  Alpha:   rQ7{<DLE>
-POCSAG2400: Address:  996308  Function: 1 
-POCSAG2400: Address: 1912847  Function: 2 
-POCSAG2400: Address:  514937  Function: 1  Alpha:   -.<ETX>Z<M,^<NAK>L}A<EM>_
-POCSAG2400: Address:  639669  Function: 2 
-POCSAG2400: Address:  295505  Function: 0 
-POCSAG2400: Address:  996308  Function: 1 
-POCSAG2400: Address: 1811167  Function: 0 
-POCSAG2400: Address: 2011509  Function: 0 
-POCSAG2400: Address: 1089456  Function: 3 
-POCSAG2400: Address: 1880636  Function: 0 
-POCSAG2400: Address: 1700677  Function: 3  Alpha:   <STX><SOH>bv<ACK>
-POCSAG2400: Address: 1845890  Function: 2  Alpha:   BQ
-POCSAG2400: Address: 1089072  Function: 3 
-POCSAG2400: Address:  794683  Function: 0 
-POCSAG2400: Address:  255700  Function: 2 
-POCSAG2400: Address:  631616  Function: 3 
