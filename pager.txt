@@ -1,3 +1,5 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++<FS>Y
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123
 POCSAG2400: Address: 2075220  Function: 2 
 POCSAG2400: Address: 1456472  Function: 0 
 POCSAG2400: Address: 1712239  Function: 0 
@@ -996,5 +998,3 @@ POCSAG1200: Address: 1959537  Function: 2
 POCSAG1200: Address: 1684256  Function: 3 
 POCSAG1200: Address:   92215  Function: 0  Alpha:   ^<VT>l^K
 POCSAG1200: Address: 1747509  Function: 0 
-POCSAG1200: Address:  334075  Function: 2  Alpha:   23:21-89 04/01/2022 23:16:59 INC 24936098 06E01 33 SCARISBRICK RO
-POCSAG1200: Address: 1482994  Function: 0 
