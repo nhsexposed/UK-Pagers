@@ -1,3 +1,6 @@
+POCSAG2400: Address: 2072820  Function: 1 
+POCSAG2400: Address:  549067  Function: 2  Alpha:   03:04-91 NHSBT
+POCSAG2400: Address:  434740  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0258050122+++TIME=0258050122<NUL>
 POCSAG1200: Address: 1011728  Function: 0  Alpha:   <STX>M<SYN>bV<ACK>2<STX><ENQ>NN<ACK>V2R<STX><GS>J<DC2><STX>MMQQUE<SOH>MeAUAU<SOH>
 POCSAG1200: Address: 1577497  Function: 0  Alpha:   *<SUB>
@@ -993,8 +996,5 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address: 2012019  Function: 1 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
