@@ -1,3 +1,11 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   "028<CAN>-66
+POCSAG2400: Address: 2008688  Function: 1 
+POCSAG2400: Address: 1975905  Function: 1 
+POCSAG2400: Address: 1322526  Function: 2  Alpha:   23:00-50 80300
+POCSAG2400: Address: 1716782  Function: 0 
+POCSAG2400: Address:  583842  Function: 2 
+POCSAG1200: Address: 1876024  Function: 2 
+POCSAG1200: Address: 1606194  Function: 0 
 POCSAG2400: Address:  584089  Function: 2  Alpha:   22:59-94 80300
 POCSAG1200: Address: 1606194  Function: 0 
 POCSAG1200: Address: 1650754  Function: 2  Alpha:   CK<ENQ><DC2><DC4>-<FF>$ELt<<EOT>"L44<EOT>:<DC4>%<EOT><SUB>C3<ESC>C;<ETX>"<ETX><ESC>K<VT><DC3><ETX><NUL>
@@ -990,11 +998,3 @@ POCSAG2400: Address:  958546  Function: 0
 POCSAG2400: Address: 1876593  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3<ACK>"<NUL>
 POCSAG1200: Address: 2009220  Function: 2  Alpha:   17:41-63 6595-
-POCSAG1200: Address: 1221169  Function: 3 
-POCSAG1200: Address: 1844985  Function: 0 
-POCSAG1200: Address: 1642498  Function: 2  Alpha:   <BS>9&<BS><NUL>
-POCSAG1200: Address: 1438433  Function: 3 
-POCSAG1200: Address:  785512  Function: 1 
-POCSAG1200: Address: 1977336  Function: 0 
-POCSAG1200: Address: 1485625  Function: 3  Alpha:   F<EM>
-POCSAG2400: Address:   28901  Function: 0  Alpha:   17:34-40 2588<NUL>
