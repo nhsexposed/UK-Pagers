@@ -1,3 +1,10 @@
+POCSAG1200: Address:   40088  Function: 2  Alpha:   22:48-40 PLS CALL CMUC ON 21968
+POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address: 1190641  Function: 0 
+POCSAG1200: Address: 1511870  Function: 2  Alpha:   &0
+POCSAG1200: Address:  317753  Function: 2 
+POCSAG1200: Address: 1032003  Function: 0 
+POCSAG1200: Address: 1352817  Function: 0 
 POCSAG2400: Address: 1065830  Function: 0  Alpha:   <ENQ>b0z2<DLE><DC3><DLE>jtv2<NUL><NUL>
 POCSAG1200: Address:  453626  Function: 0 
 POCSAG1200: Address:     604  Function: 0 
@@ -991,10 +998,3 @@ POCSAG1200: Address: 1999462  Function: 1
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1723050122+++TIME=1723050122<NUL>
 POCSAG1200: Address: 2012791  Function: 0 
 POCSAG1200: Address: 1829493  Function: 0 
-POCSAG1200: Address:  707639  Function: 1 
-POCSAG1200: Address: 1878864  Function: 0 
-POCSAG2400: Address: 1893072  Function: 0 
-POCSAG2400: Address: 1323237  Function: 2  Alpha:   17:19-75 PLS CALL ELVIT ON 07890 251 939 RE- VIROLOGY RESULTS 
-POCSAG1200: Address:  856149  Function: 0 
-POCSAG1200: Address:  743307  Function: 2 
-POCSAG1200: Address: 1329194  Function: 2 
