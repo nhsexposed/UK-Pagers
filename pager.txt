@@ -1,3 +1,18 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0928050122+++TIME=0928050122<NUL>
+POCSAG1200: Address:  453722  Function: 1  Alpha:   Z<EM>
+POCSAG1200: Address:  290038  Function: 3  Alpha:   <ACK><SO>
+POCSAG1200: Address:  381882  Function: 2  Alpha:   09:28-71 6528<NUL>
+POCSAG1200: Address: 2014834  Function: 3 
+POCSAG1200: Address:  290371  Function: 2  Alpha:   09
+POCSAG1200: Address:  926259  Function: 0 
+POCSAG2400: Address:  781589  Function: 0  Alpha:   ;Y=<EM><ESC>hL<VT>Hq[
+POCSAG2400: Address: 2011746  Function: 1 
+POCSAG1200: Address: 1745495  Function: 0 
+POCSAG2400: Address: 2042945  Function: 3  Alpha:   2&N<SYN><DC2><STX>9><STX><NAK>R<ACK><STX>9
+POCSAG1200: Address: 1877590  Function: 0 
+POCSAG1200: Address:   41432  Function: 2  Alpha:   09
+POCSAG1200: Address:  796943  Function: 1  Alpha:   <STX>MaYIQ]<SOH>QM]Qee
+POCSAG1200: Address: 1344113  Function: 3 
 POCSAG1200: Address: 1474622  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3A<NUL><NUL>
 POCSAG2400: Address: 2045568  Function: 2  Alpha:   9UMIQaM<SOH>5I9UaAEEMe<SOH><NUL>
@@ -983,18 +998,3 @@ POCSAG2400: Address: 1405602  Function: 2
 POCSAG2400: Address:  605376  Function: 1  Alpha:   <FS>S<US>nA
 POCSAG2400: Address: 1239637  Function: 2 
 POCSAG2400: Address: 1761762  Function: 2 
-POCSAG2400: Address:  118590  Function: 1  Alpha:   <RS>-
-POCSAG2400: Address: 1107356  Function: 0  Alpha:   <NAK>]ZI<SUB>Pu<CAN>X[<EM>
-POCSAG2400: Address: 1893673  Function: 0 
-POCSAG2400: Address: 2007350  Function: 2 
-POCSAG2400: Address: 1095715  Function: 2  Alpha:   "%
-POCSAG2400: Address:    1552  Function: 1 
-POCSAG2400: Address:   81920  Function: 0  Alpha:   <ACK><DLE>
-POCSAG512: Address:  273040  Function: 3  Alpha:   BB
-POCSAG1200: Address: 1976883  Function: 0 
-POCSAG2400: Address:   11705  Function: 0  Alpha:   02:11-59 PLS CALL SUELA EXT 8035<NUL><NUL>
-POCSAG1200: Address:  696949  Function: 0 
-POCSAG1200: Address: 1635000  Function: 3  Alpha:   <ETB>OS7I5AAE5I<ETB><SI><ETB>'[<ETB>KK5(<EOT><DC2><DC3>K<ETB>OOk<SOH>!<BEL>KK
-POCSAG1200: Address: 1811574  Function: 0 
-POCSAG2400: Address:   28927  Function: 0  Alpha:   02
-POCSAG1200: Address: 1745411  Function: 0 
