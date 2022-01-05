@@ -1,3 +1,7 @@
+POCSAG1200: Address: 2030519  Function: 3 
+POCSAG1200: Address:  354553  Function: 2  Alpha:   <DLE><DC1>
+POCSAG1200: Address:  354553  Function: 2  Alpha:   I<SO>
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
 POCSAG1200: Address:  434740  Function: 0 
 POCSAG1200: Address: 1505141  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3B<NUL><NUL>
@@ -994,7 +998,3 @@ POCSAG1200: Address:  627699  Function: 0  Alpha:   @fOp<EOT>VEe
 POCSAG1200: Address: 1285936  Function: 1  Alpha:   <FS>-<ESC><STX>Z<BEL>%\<DLE>C/
 POCSAG1200: Address: 1647920  Function: 2 
 POCSAG1200: Address: 1876201  Function: 1 
-POCSAG1200: Address: 1896689  Function: 0 
-POCSAG1200: Address:  370821  Function: 1 
-POCSAG1200: Address: 1928068  Function: 2  Alpha:   6%
-POCSAG1200: Address:   92301  Function: 2 
