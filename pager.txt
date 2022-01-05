@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2023800  Function: 1 
+POCSAG1200: Address: 1032201  Function: 3  Alpha:   B<EM>
+POCSAG2400: Address:  583459  Function: 2  Alpha:   23:07-32 803<DLE>2
+POCSAG1200: Address: 2007283  Function: 2 
+POCSAG2400: Address: 1749603  Function: 1 
 POCSAG1200: Address:   41512  Function: 2  Alpha:   "028<CAN>-66
 POCSAG2400: Address: 2008688  Function: 1 
 POCSAG2400: Address: 1975905  Function: 1 
@@ -993,8 +998,3 @@ POCSAG1200: Address: 1847904  Function: 0
 POCSAG1200: Address:  926242  Function: 0 
 POCSAG2400: Address: 1845429  Function: 0 
 POCSAG2400: Address: 1220696  Function: 0 
-POCSAG2400: Address: 1758852  Function: 1  Alpha:   $KMKe
-POCSAG2400: Address:  958546  Function: 0 
-POCSAG2400: Address: 1876593  Function: 2 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3<ACK>"<NUL>
-POCSAG1200: Address: 2009220  Function: 2  Alpha:   17:41-63 6595-
