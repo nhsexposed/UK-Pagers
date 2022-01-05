@@ -1,3 +1,5 @@
+POCSAG1200: Address: 1080105  Function: 2  Alpha:   <VT>%
+POCSAG1200: Address: 2026224  Function: 3 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++<FS>Y
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 123
 POCSAG2400: Address: 2075220  Function: 2 
@@ -996,5 +998,3 @@ POCSAG1200: Address: 1620742  Function: 3
 POCSAG1200: Address:   10831  Function: 1 
 POCSAG1200: Address: 1959537  Function: 2 
 POCSAG1200: Address: 1684256  Function: 3 
-POCSAG1200: Address:   92215  Function: 0  Alpha:   ^<VT>l^K
-POCSAG1200: Address: 1747509  Function: 0 
