@@ -1,3 +1,13 @@
+POCSAG1200: Address: 1483765  Function: 0 
+POCSAG1200: Address: 1487392  Function: 2 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   19:46-01 4156<NUL>
+POCSAG2400: Address:   28909  Function: 0  Alpha:   19:45-38 2616<NUL>
+POCSAG1200: Address:  182865  Function: 2 
+POCSAG1200: Address:  395856  Function: 0  Alpha:   Y<CAN>
+POCSAG1200: Address:  721422  Function: 3 
+POCSAG1200: Address:  445502  Function: 0 
+POCSAG1200: Address: 1450596  Function: 0 
+POCSAG1200: Address: 1892467  Function: 1 
 POCSAG1200: Address: 1484503  Function: 3 
 POCSAG1200: Address:  963160  Function: 0 
 POCSAG2400: Address: 2024147  Function: 0 
@@ -988,13 +998,3 @@ POCSAG2400: Address:  873608  Function: 2  Alpha:   >;?K<ETX>I<SYN><ESC><ETB>KK<
 POCSAG2400: Address: 2051737  Function: 1  Alpha:   06<DLE>f4w2<NUL>
 POCSAG2400: Address: 1843830  Function: 0 
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:34-06 4312<NUL>
-POCSAG1200: Address: 2008944  Function: 0 
-POCSAG1200: Address: 1001127  Function: 2  Alpha:   11:33-30 CA
-POCSAG512: Address: 2016116  Function: 0 
-POCSAG512: Address:  273040  Function: 3 
-POCSAG1200: Address: 1367603  Function: 3 
-POCSAG1200: Address:  953822  Function: 0  Alpha:   ^V
-POCSAG2400: Address: 1022648  Function: 0  Alpha:   11:32-47 PRIMARY PCI
-POCSAG2400: Address: 1913961  Function: 2  Alpha:   11:32-92 5514<NUL>
-POCSAG2400: Address: 2007478  Function: 1 
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:31-18 8013 IP1 pleass<STX>
