@@ -1,3 +1,20 @@
+POCSAG2400: Address: 1324174  Function: 2  Alpha:   11:34-06 4312<NUL>
+POCSAG1200: Address: 2008944  Function: 0 
+POCSAG1200: Address: 1001127  Function: 2  Alpha:   11:33-30 CA
+POCSAG512: Address: 2016116  Function: 0 
+POCSAG512: Address:  273040  Function: 3 
+POCSAG1200: Address: 1367603  Function: 3 
+POCSAG1200: Address:  953822  Function: 0  Alpha:   ^V
+POCSAG2400: Address: 1022648  Function: 0  Alpha:   11:32-47 PRIMARY PCI
+POCSAG2400: Address: 1913961  Function: 2  Alpha:   11:32-92 5514<NUL>
+POCSAG2400: Address: 2007478  Function: 1 
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:31-18 8013 IP1 pleass<STX>
+POCSAG1200: Address:   80070  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1762297  Function: 0 
+POCSAG1200: Address: 1032982  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address: 1761466  Function: 3  Alpha:   $h
+POCSAG1200: Address: 1032734  Function: 0 
+POCSAG1200: Address:  548168  Function: 2  Alpha:   11:29-93 5951<NUL>
 POCSAG1200: Address: 1032734  Function: 0 
 POCSAG1200: Address: 1999858  Function: 2 
 POCSAG1200: Address: 2023800  Function: 1 
@@ -972,23 +989,6 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:  341184  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
