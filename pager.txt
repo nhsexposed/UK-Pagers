@@ -1,3 +1,8 @@
+POCSAG1200: Address: 2024123  Function: 0 
+POCSAG1200: Address:  214041  Function: 2  Alpha:   18:59-52 8386<NUL>
+POCSAG1200: Address: 1001125  Function: 2  Alpha:   18:59
+POCSAG1200: Address: 2010488  Function: 0 
+POCSAG1200: Address:  549880  Function: 2  Alpha:   18:57-74 INFORM:, RTA,MONNABOY 
 POCSAG1200: Address: 1032976  Function: 2  Alpha:   <SYN><SOH>
 POCSAG2400: Address: 1913627  Function: 2  Alpha:   18:53-31 5204<NUL>
 POCSAG2400: Address: 1450547  Function: 0 
@@ -993,8 +998,3 @@ POCSAG2400: Address:   28906  Function: 0  Alpha:   10:52-93 2441<NUL>
 POCSAG2400: Address:  696886  Function: 1 
 POCSAG2400: Address:  827508  Function: 1 
 POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:51-98 2233<NUL>
-POCSAG1200: Address: 1215091  Function: 0 
-POCSAG2400: Address: 1740661  Function: 2 
-POCSAG2400: Address:  149113  Function: 2  Alpha:   10:50-53 4160<NUL>
-POCSAG2400: Address: 1322874  Function: 2  Alpha:   10:50-88
-POCSAG2400: Address: 1502560  Function: 1  Alpha:   3<ETX>1&;<ETB><ETX><NUL>
