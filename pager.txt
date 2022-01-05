@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1781904  Function: 2 
+POCSAG1200: Address:  500241  Function: 0 
+POCSAG2400: Address: 1032460  Function: 3  Alpha:   C<NUL>
+POCSAG2400: Address:  664306  Function: 0 
 POCSAG1200: Address: 1321931  Function: 2  Alpha:   13:29-74 PLS CALL EXT 3502 <NUL>
 POCSAG2400: Address:  347098  Function: 2  Alpha:   +;+C<ETX>
 POCSAG2400: Address: 1188723  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address:  653329  Function: 3
 POCSAG1200: Address:  242529  Function: 0 
 POCSAG1200: Address: 1876581  Function: 0 
 POCSAG1200: Address:  470694  Function: 2 
-POCSAG2400: Address: 1913817  Function: 2  Alpha:   08:23-60 2619<NUL>
-POCSAG1200: Address: 1070270  Function: 3  Alpha:   <FS>,<FF>$<EOT>
-POCSAG1200: Address:  627549  Function: 0  Alpha:   lf
-POCSAG1200: Address:  200284  Function: 2 
