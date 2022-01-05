@@ -1,3 +1,26 @@
+POCSAG2400: Address: 1913465  Function: 2 
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   17:03-95 4179<NUL>
+POCSAG2400: Address:   28926  Function: 0  Alpha:   17:03-65 2183<NUL>
+POCSAG1200: Address:  504692  Function: 0 
+POCSAG2400: Address: 2024309  Function: 0 
+POCSAG2400: Address: 1766256  Function: 0 
+POCSAG1200: Address: 2026355  Function: 2 
+POCSAG1200: Address: 2007634  Function: 1 
+POCSAG1200: Address: 1606197  Function: 0 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <ACK><VT>
+POCSAG2400: Address: 1811061  Function: 0 
+POCSAG2400: Address:  558196  Function: 2 
+POCSAG2400: Address: 2074224  Function: 2 
+POCSAG2400: Address: 1324012  Function: 2 
+POCSAG2400: Address: 1974380  Function: 0 
+POCSAG2400: Address: 1975393  Function: 2 
+POCSAG2400: Address: 2047392  Function: 3 
+POCSAG2400: Address: 2078455  Function: 2 
+POCSAG2400: Address:  934544  Function: 0 
+POCSAG2400: Address: 1913900  Function: 2  Alpha:   17:00-38 2111<NUL>
+POCSAG1200: Address:  678665  Function: 2  Alpha:   17:00-08 Case ref 11276206 Fill in tick sheet
+POCSAG1200: Address:  661617  Function: 2 
+POCSAG1200: Address:  880453  Function: 2  Alpha:   16:59-55 test test<NUL><NUL>
 POCSAG1200: Address: 1712820  Function: 2 
 POCSAG2400: Address:  149184  Function: 2  Alpha:   16:56-13 Please call Hub Operations o
 POCSAG2400: Address: 1762368  Function: 0 
@@ -975,26 +998,3 @@ POCSAG2400: Address:  616569  Function: 3  Alpha:   CE
 POCSAG2400: Address:   80485  Function: 0 
 POCSAG2400: Address:  639541  Function: 2 
 POCSAG2400: Address: 1841185  Function: 0 
-POCSAG2400: Address:  560624  Function: 1 
-POCSAG2400: Address: 1021423  Function: 1 
-POCSAG2400: Address:  845177  Function: 0  Alpha:   Ll<LF>M1
-POCSAG2400: Address: 1877040  Function: 0 
-POCSAG2400: Address: 1484405  Function: 0 
-POCSAG2400: Address: 2065269  Function: 0 
-POCSAG2400: Address: 2014074  Function: 3 
-POCSAG2400: Address: 2074230  Function: 2 
-POCSAG1200: Address:  952941  Function: 0 
-POCSAG1200: Address:  670848  Function: 0  Alpha:   <SUB>K#<VT><ETX>
-POCSAG2400: Address: 1810994  Function: 2 
-POCSAG2400: Address: 1075792  Function: 0 
-POCSAG1200: Address:  906914  Function: 2  Alpha:   09:44-14 Destination: PS[oing\D
-POCSAG2400: Address:   28920  Function: 0  Alpha:   09:44-53 2642<NUL>
-POCSAG1200: Address: 2008954  Function: 0 
-POCSAG2400: Address:  434742  Function: 0 
-POCSAG2400: Address:   28924  Function: 0  Alpha:   09:43-09 2642<NUL>
-POCSAG1200: Address:  265228  Function: 3  Alpha:   V<STX>
-POCSAG2400: Address:  585961  Function: 2  Alpha:   09:41-64 Please Call - 37077
-POCSAG1200: Address: 1811058  Function: 0 
-POCSAG1200: Address: 2008954  Function: 0 
-POCSAG1200: Address: 2045576  Function: 2  Alpha:   Mll--
-POCSAG2400: Address:   28896  Function: 0  Alpha:   09:37-01 2183<NUL>
