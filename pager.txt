@@ -1,3 +1,36 @@
+POCSAG1200: Address: 1873266  Function: 3 
+POCSAG1200: Address:  598850  Function: 2 
+POCSAG1200: Address: 1238793  Function: 3 
+POCSAG1200: Address: 1476649  Function: 1 
+POCSAG1200: Address:  941104  Function: 2 
+POCSAG1200: Address: 1067368  Function: 1 
+POCSAG1200: Address: 1246811  Function: 3 
+POCSAG1200: Address: 1893275  Function: 3 
+POCSAG1200: Address:   24773  Function: 3 
+POCSAG1200: Address:  906480  Function: 3  Alpha:   <DLE><FF><HT>Cpb1f
+POCSAG1200: Address:  120832  Function: 1 
+POCSAG1200: Address: 1483366  Function: 1 
+POCSAG1200: Address: 1466568  Function: 0  Alpha:   )A<SO>R<HT>!zl
+POCSAG1200: Address: 1713960  Function: 0  Alpha:   <STX>Q
+POCSAG1200: Address: 1395499  Function: 3 
+POCSAG1200: Address: 1613942  Function: 0 
+POCSAG1200: Address:  270380  Function: 0 
+POCSAG1200: Address: 1696565  Function: 2 
+POCSAG1200: Address:  893668  Function: 0 
+POCSAG1200: Address:  111198  Function: 0  Alpha:   9I
+POCSAG1200: Address:  221908  Function: 2 
+POCSAG1200: Address:  336157  Function: 0  Alpha:   Z<HT>
+POCSAG1200: Address: 1110612  Function: 3  Alpha:   <SYN>!
+POCSAG1200: Address:  976457  Function: 3 
+POCSAG1200: Address:      28  Function: 0 
+POCSAG1200: Address: 1652401  Function: 3 
+POCSAG1200: Address: 1542770  Function: 0 
+POCSAG1200: Address:   67302  Function: 3  Alpha:   T<ENQ>2,n<SO>f.<ACK><LF>CK<ENQ>"<CR>\,t<EOT>z4-<DC4><ENQ>l<FS> Z
+POCSAG1200: Address: 1449125  Function: 2 
+POCSAG1200: Address: 1857698  Function: 1 
+POCSAG1200: Address:  602224  Function: 3 
+POCSAG1200: Address:  555443  Function: 0  Alpha:   @<CR>
+POCSAG1200: Address: 2077688  Function: 2 
 POCSAG1200: Address: 2011746  Function: 1 
 POCSAG1200: Address:  980353  Function: 0  Alpha:   MYYQA]<SOH><NUL>
 POCSAG1200: Address:  693548  Function: 3  Alpha:   <SOH>Q?<ETX><ENQ><SI>/;?_3<ETB><DC3><US><ETB>3<SOH>Q"<BEL>;/O<ETX><NUL>
@@ -965,36 +998,3 @@ POCSAG1200: Address:   40074  Function: 2  Alpha:   12:36-81
 POCSAG2400: Address: 1975094  Function: 0 
 POCSAG1200: Address: 1484949  Function: 2  Alpha:   ~<ESC>
 POCSAG1200: Address: 2080251  Function: 1  Alpha:   __
-POCSAG2400: Address:   28896  Function: 0  Alpha:   12:30-09 5128<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:29-64 4166<NUL>
-POCSAG1200: Address: 1367864  Function: 1 
-POCSAG1200: Address: 2010982  Function: 0 
-POCSAG1200: Address: 1999602  Function: 0 
-POCSAG1200: Address: 1089904  Function: 0 
-POCSAG2400: Address: 2014834  Function: 3 
-POCSAG1200: Address: 1715059  Function: 0 
-POCSAG1200: Address:   51912  Function: 1  Alpha:   MAQeI
-POCSAG1200: Address: 1032689  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address:  880862  Function: 2  Alpha:   12:22-91 TEST<NUL>
-POCSAG1200: Address:  270259  Function: 2  Alpha:   12:22-86 TEST<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1745489  Function: 0 
-POCSAG1200: Address:  433784  Function: 2  Alpha:   12:22-71 TEST<NUL>
-POCSAG2400: Address:   28907  Function: 0  Alpha:   12:21-62 4156<NUL>
-POCSAG1200: Address: 2032242  Function: 2 
-POCSAG1200: Address:  929970  Function: 0 
-POCSAG1200: Address:  510546  Function: 1 
-POCSAG1200: Address:  987210  Function: 3 
-POCSAG1200: Address: 1913433  Function: 2 
-POCSAG1200: Address: 1441904  Function: 0 
-POCSAG1200: Address: 1512713  Function: 3  Alpha:   V<STX>
-POCSAG1200: Address: 1259427  Function: 2  Alpha:   12:19-99 05/01/2022 12:17:29 INC 24938378 09E01 20 LARKHILL LANE, CLUBMOOR L13, L13 9BR Female 80Y FOUND ON THE FLOOR - Q DECEASED GRD 338142 393409
-POCSAG1200: Address: 1745492  Function: 0 
-POCSAG1200: Address: 1347617  Function: 1 
-POCSAG1200: Address: 1505136  Function: 0 
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   <SYN>r
-POCSAG1200: Address: 1032699  Function: 3  Alpha:   <ACK><DLE>
-POCSAG1200: Address: 1879926  Function: 0 
-POCSAG1200: Address: 1999608  Function: 0 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   12:14-62 4099<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1213050122+++TIME=1213050122<NUL>
