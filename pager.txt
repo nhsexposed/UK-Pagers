@@ -1,3 +1,19 @@
+POCSAG1200: Address:   75295  Function: 2 
+POCSAG1200: Address:  108384  Function: 1  Alpha:   jrtdl
+POCSAG1200: Address: 1441908  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   22/05/2002 CH3B<NUL><NUL>
+POCSAG1200: Address:  600484  Function: 3  Alpha:   <ACK><BEL>
+POCSAG1200: Address: 1975859  Function: 0 
+POCSAG1200: Address: 1975930  Function: 2 
+POCSAG1200: Address: 1032180  Function: 3  Alpha:   <ENQ>p
+POCSAG1200: Address: 2025461  Function: 1 
+POCSAG1200: Address: 2074179  Function: 0 
+POCSAG1200: Address: 1843826  Function: 0 
+POCSAG1200: Address: 1499697  Function: 0 
+POCSAG1200: Address: 1996480  Function: 0 
+POCSAG1200: Address: 1237747  Function: 0  Alpha:   ?!
+POCSAG1200: Address: 2047360  Function: 3  Alpha:   <ENQ><ACK>Vz<HT>
+POCSAG2400: Address: 1913813  Function: 2  Alpha:   10:00-01 4554<NUL>
 POCSAG1200: Address: 1946226  Function: 1 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0958050122+++TIME=0958050122<NUL>
 POCSAG1200: Address: 1052820  Function: 2  Alpha:   09:58-96 05
@@ -982,19 +998,3 @@ POCSAG1200: Address:  628595  Function: 0  Alpha:   l
 POCSAG1200: Address:  792817  Function: 1  Alpha:   <GS>0
 POCSAG1200: Address: 1718008  Function: 1 
 POCSAG1200: Address: 1465377  Function: 0  Alpha:   <EM><GS>
-POCSAG1200: Address: 1738992  Function: 0 
-POCSAG1200: Address:    8192  Function: 0 
-POCSAG1200: Address:   29281  Function: 2 
-POCSAG1200: Address:  555043  Function: 3 
-POCSAG1200: Address: 1468664  Function: 2 
-POCSAG1200: Address: 1352868  Function: 2 
-POCSAG1200: Address: 1378923  Function: 0  Alpha:   '<ETX>/' 
-POCSAG1200: Address: 1016435  Function: 0 
-POCSAG1200: Address: 1254369  Function: 3  Alpha:   <SYN>#
-POCSAG1200: Address:  174278  Function: 2  Alpha:   l<ENQ>:s-
-POCSAG1200: Address:  435950  Function: 0 
-POCSAG1200: Address:  420315  Function: 1 
-POCSAG1200: Address:  750693  Function: 0 
-POCSAG1200: Address: 1999441  Function: 3 
-POCSAG1200: Address: 1490544  Function: 2 
-POCSAG1200: Address: 1146899  Function: 2 
