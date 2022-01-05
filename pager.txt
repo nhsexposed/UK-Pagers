@@ -1,3 +1,13 @@
+POCSAG2400: Address:   57729  Function: 0  Alpha:   M<SOH>
+POCSAG2400: Address: 1581667  Function: 0 
+POCSAG1200: Address: 1485632  Function: 0 
+POCSAG2400: Address: 2026354  Function: 2 
+POCSAG1200: Address:  273040  Function: 3 
+POCSAG1200: Address: 1746668  Function: 0 
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:02-78 4901<NUL>
+POCSAG2400: Address: 1323888  Function: 2  Alpha:   19:02-77 2798<NUL>
+POCSAG1200: Address:  499825  Function: 0 
+POCSAG1200: Address:  164465  Function: 1  Alpha:   F TUMMY GRD 351508 4
 POCSAG1200: Address: 2024123  Function: 0 
 POCSAG1200: Address:  214041  Function: 2  Alpha:   18:59-52 8386<NUL>
 POCSAG1200: Address: 1001125  Function: 2  Alpha:   18:59
@@ -988,13 +998,3 @@ POCSAG2400: Address:   28899  Function: 0  Alpha:   10:56-56 3106<NUL>
 POCSAG1200: Address:   80201  Function: 2  Alpha:   H<FF>
 POCSAG1200: Address: 2025462  Function: 1 
 POCSAG1200: Address: 1999728  Function: 1 
-POCSAG1200: Address: 1991288  Function: 0 
-POCSAG2400: Address: 1878648  Function: 0 
-POCSAG2400: Address: 1913827  Function: 2  Alpha:   10:54-19 4265<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   10:53-55 5813<NUL>
-POCSAG512: Address:  912008  Function: 0  Alpha:   %b
-POCSAG512: Address: 2040371  Function: 2 
-POCSAG2400: Address:   28906  Function: 0  Alpha:   10:52-93 2441<NUL>
-POCSAG2400: Address:  696886  Function: 1 
-POCSAG2400: Address:  827508  Function: 1 
-POCSAG2400: Address: 1913979  Function: 2  Alpha:   10:51-98 2233<NUL>
