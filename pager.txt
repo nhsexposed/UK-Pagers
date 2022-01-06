@@ -1,3 +1,10 @@
+POCSAG1200: Address:  736052  Function: 2  Alpha:   19:13-13/CINC0100195
+POCSAG512: Address: 1876083  Function: 2 
+POCSAG1200: Address: 2065265  Function: 0 
+POCSAG1200: Address: 1032714  Function: 3  Alpha:   <DC2>*
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   5<FF>
+POCSAG2400: Address: 1741520  Function: 0 
+POCSAG1200: Address: 1998962  Function: 2 
 POCSAG2400: Address: 2016118  Function: 0 
 POCSAG1200: Address: 1487684  Function: 2  Alpha:   19:09-90 68682
 POCSAG1200: Address:  679608  Function: 2  Alpha:   19:09-61 68682
@@ -991,10 +998,3 @@ POCSAG2400: Address: 2023507  Function: 0
 POCSAG1200: Address: 2009723  Function: 0 
 POCSAG1200: Address:  269456  Function: 3  Alpha:   e<DLE>
 POCSAG512: Address: 2008954  Function: 0 
-POCSAG1200: Address: 1540660  Function: 0 
-POCSAG1200: Address: 1713783  Function: 2 
-POCSAG1200: Address: 1745495  Function: 0 
-POCSAG1200: Address:  290038  Function: 3  Alpha:   5<DC2>
-POCSAG1200: Address: 2008954  Function: 0 
-POCSAG2400: Address: 1323041  Function: 2  Alpha:   10:30-94 call switch
-POCSAG2400: Address:       0  Function: 0 
