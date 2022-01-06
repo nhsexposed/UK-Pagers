@@ -1,3 +1,11 @@
+POCSAG1200: Address:  549236  Function: 2  Alpha:   14:48-33 ** PROBL%E 
+POCSAG1200: Address:  367400  Function: 3  Alpha:   jh
+POCSAG1200: Address:  688737  Function: 0 
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   14:47-20 4201<NUL>
+POCSAG2400: Address: 2024055  Function: 0 
+POCSAG2400: Address: 1320347  Function: 2  Alpha:   14:47-30 4387<NUL>
+POCSAG1200: Address:  954481  Function: 2 
+POCSAG1200: Address: 1933941  Function: 1 
 POCSAG1200: Address:  290038  Function: 3  Alpha:   R<DLE>
 POCSAG1200: Address: 2073142  Function: 1 
 POCSAG1200: Address: 1024125  Function: 2 
@@ -990,11 +998,3 @@ POCSAG2400: Address: 1848142  Function: 3
 POCSAG2400: Address:  566520  Function: 0 
 POCSAG2400: Address: 2030387  Function: 0 
 POCSAG2400: Address: 1065889  Function: 3 
-POCSAG2400: Address:  628464  Function: 2 
-POCSAG2400: Address:   59507  Function: 0  Alpha:   f<CR>L(<ENQ>
-POCSAG2400: Address:   18656  Function: 3 
-POCSAG2400: Address: 1718880  Function: 0 
-POCSAG2400: Address: 1352295  Function: 0 
-POCSAG2400: Address:  198318  Function: 3 
-POCSAG2400: Address:  978029  Function: 2 
-POCSAG2400: Address:  268924  Function: 1 
