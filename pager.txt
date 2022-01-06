@@ -1,3 +1,9 @@
+POCSAG512: Address:  844016  Function: 0 
+POCSAG1200: Address:  678701  Function: 2  Alpha:   21:39-18 CALL 0207 783 2329<NUL>
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138060122+++TIME=2138060122<NUL>
+POCSAG1200: Address:  496774  Function: 0  Alpha:   h<FF>.,M-<FF>h<FF>N-<CR>,<FF>
+POCSAG1200: Address: 1349433  Function: 1 
+POCSAG1200: Address: 1680168  Function: 3  Alpha:   fj
 POCSAG1200: Address: 1993316  Function: 0 
 POCSAG1200: Address:  220909  Function: 2  Alpha:   21:33-90 704000<NUL><NUL>
 POCSAG2400: Address: 1360503  Function: 0 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 1511882  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1761232  Function: 3  Alpha:   !<ACK>
 POCSAG1200: Address: 1039278  Function: 2  Alpha:   !<ACK>
 POCSAG1200: Address: 1812477  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  414171  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/05/2002 CH3B<NUL><NUL>
-POCSAG1200: Address: 1015495  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1015502  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address: 1761453  Function: 3  Alpha:   !<ACK>
-POCSAG1200: Address:   80076  Function: 3  Alpha:   !<ACK>
