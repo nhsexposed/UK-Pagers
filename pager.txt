@@ -1,3 +1,16 @@
+POCSAG1200: Address:  407168  Function: 2  Alpha:   &<SYN><ACK>d<SYN>VF<ACK>
+POCSAG1200: Address: 1352816  Function: 0 
+POCSAG1200: Address:  549140  Function: 2  Alpha:   23:38-02 MANAGER PLS CALL 0300 421 6154
+POCSAG2400: Address:   28927  Function: 0  Alpha:   23:38-95 2183<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   23:37-26 5204<NUL>
+POCSAG2400: Address: 2075249  Function: 2 
+POCSAG1200: Address: 1352482  Function: 1 
+POCSAG1200: Address: 2007344  Function: 2 
+POCSAG1200: Address: 1584747  Function: 0 
+POCSAG1200: Address:  950839  Function: 1 
+POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:36-75 4156<NUL>
+POCSAG1200: Address: 2080264  Function: 0 
+POCSAG1200: Address:  950897  Function: 0 
 POCSAG1200: Address:  549740  Function: 2  Alpha:   23:34-93 ** PROBLEM 
 POCSAG2400: Address:  975444  Function: 0 
 POCSAG2400: Address: 2078450  Function: 2 
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1832696  Function: 3  Alpha:   J<EM>
 POCSAG1200: Address:  434813  Function: 0 
 POCSAG1200: Address: 1947254  Function: 0 
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1328060122+++TIME=1328060122<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1328060122+++TIME=1328060122<NUL>
-POCSAG1200: Address: 1566792  Function: 3 
-POCSAG2400: Address: 1219376  Function: 0 
-POCSAG1200: Address: 2047360  Function: 3 
-POCSAG1200: Address: 1558751  Function: 2 
-POCSAG1200: Address:  893492  Function: 0 
-POCSAG2400: Address: 2009717  Function: 2 
-POCSAG512: Address: 1237626  Function: 0 
-POCSAG2400: Address: 1878550  Function: 1 
-POCSAG2400: Address: 1008224  Function: 2  Alpha:   13:22-25 ip1 6053
-POCSAG2400: Address: 1913959  Function: 2  Alpha:   13:21-55 5531<NUL>
-POCSAG2400: Address:   11678  Function: 0  Alpha:   13:20-72 RPA PLS CALL BORDER FORCE SITE 403A TEL: 07710 273 737 <NUL>
-POCSAG2400: Address: 1913841  Function: 2  Alpha:   13:19-26 2182<NUL>
