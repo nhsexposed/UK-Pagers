@@ -1,3 +1,14 @@
+POCSAG1200: Address: 2045544  Function: 0 
+POCSAG1200: Address:  949426  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
+POCSAG2400: Address:  959600  Function: 0 
+POCSAG2400: Address: 1913870  Function: 2  Alpha:   16:02-46 3509<NUL>
+POCSAG2400: Address: 2081117  Function: 2  Alpha:   60
+POCSAG2400: Address: 2013744  Function: 0 
+POCSAG1200: Address: 1313941  Function: 2  Alpha:   y<BS>TxI
+POCSAG1200: Address:  209879  Function: 2  Alpha:   16:00-99 PLS CALL ORLA  RE: KIDNEY RECEIVED 1ST JAN TEL: 07385 430 697 
+POCSAG1200: Address:  433853  Function: 2  Alpha:   16:00-91 PLS C
+POCSAG1200: Address: 1318345  Function: 2  Alpha:   16:(X)89 PLS CALL ORLA <STX>bA: KIDND]
 POCSAG2400: Address: 1913679  Function: 2  Alpha:   15:59-74 2018<NUL>
 POCSAG2400: Address: 1913971  Function: 2  Alpha:   15:58-24 5075<NUL>
 POCSAG1200: Address:  906782  Function: 3  Alpha:   V<STX>
@@ -987,14 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  801283  Function: 2  Alpha:   \Y<CAN><EM><NUL>
-POCSAG1200: Address: 1071548  Function: 0  Alpha:   Uy
-POCSAG1200: Address: 1856425  Function: 0 
-POCSAG1200: Address: 1757553  Function: 0 
-POCSAG1200: Address:  156594  Function: 2  Alpha:   vpf2p<ETX>[|
-POCSAG1200: Address:  824688  Function: 1 
-POCSAG1200: Address: 1683809  Function: 1 
