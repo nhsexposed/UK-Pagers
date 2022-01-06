@@ -1,3 +1,7 @@
+POCSAG1200: Address: 1998961  Function: 2 
+POCSAG1200: Address:  331816  Function: 3  Alpha:   3<NAK><NAK><VT>H<DC1>3<DLE><NAK>h<FF><VT>(L
+POCSAG1200: Address: 1324160  Function: 2  Alpha:   ')P#)"PY<ESC><CAN><ESC>Z<ESC>PYZ<SUB>Y<EM><CAN>
+POCSAG1200: Address: 1079549  Function: 1 
 POCSAG1200: Address: 1292045  Function: 2 
 POCSAG1200: Address:  537876  Function: 1  Alpha:   <HT>d
 POCSAG1200: Address: 1233354  Function: 1  Alpha:   CO
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:qr-01 PLS CALL LION WARD 
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:52-00 Please call Kinnier Wilson HDU 31473
 POCSAG1200: Address: 1619571  Function: 0 
 POCSAG1200: Address: 2011507  Function: 0 
-POCSAG1200: Address: 1979489  Function: 2  Alpha:   I^
-POCSAG2400: Address:  295510  Function: 0 
-POCSAG1200: Address: 1933873  Function: 0 
-POCSAG1200: Address:   40088  Function: 2  Alpha:   22:48-40 PLS CALL CMUC ON 21968
