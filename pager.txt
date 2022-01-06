@@ -1,3 +1,8 @@
+POCSAG1200: Address: 1915312  Function: 1 
+POCSAG1200: Address: 1991283  Function: 2 
+POCSAG1200: Address: 1606194  Function: 0 
+POCSAG1200: Address:  435024  Function: 0 
+POCSAG1200: Address: 1270977  Function: 2  Alpha:   C<VT>C<ETX><SUB>C<ESC><ESC>K<ESC><ETX>
 POCSAG2400: Address:   28899  Function: 0  Alpha:   22:26-13 5440<NUL><E<GS>
 POCSAG1200: Address: 1744280  Function: 0 
 POCSAG2400: Address: 1323318  Function: 2  Alpha:   22:25-07 888000<NUL><NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 2011768  Function: 0
 POCSAG2400: Address: 1322225  Function: 2  Alpha:   12:21-26 ACTION: OPEL 4 - A$h healthc
 POCSAG2400: Address: 2014053  Function: 0 
 POCSAG2400: Address:   28927  Function: 0  Alpha:   12:21-88 2186<NUL>
-POCSAG1200: Address: 1168012  Function: 3  Alpha:   d`Zdn@`l^`b^d`dd@
-POCSAG1200: Address: 1052820  Function: 2 
-POCSAG2400: Address: 1259350  Function: 2  Alpha:   12:19-51 2578<NUL>
-POCSAG2400: Address: 1483355  Function: 0 
-POCSAG2400: Address: 1843746  Function: 2 
