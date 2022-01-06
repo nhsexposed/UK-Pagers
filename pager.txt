@@ -1,3 +1,15 @@
+POCSAG2400: Address: 2010708  Function: 0 
+POCSAG2400: Address: 2077265  Function: 0 
+POCSAG2400: Address: 1352288  Function: 0 
+POCSAG2400: Address: 2012019  Function: 1 
+POCSAG512: Address:  267813  Function: 0 
+POCSAG512: Address: 2065267  Function: 0 
+POCSAG1200: Address: 1031493  Function: 2  Alpha:   <BEL><STX>
+POCSAG1200: Address: 1745588  Function: 0 
+POCSAG1200: Address: 1974483  Function: 0 
+POCSAG2400: Address: 1876720  Function: 2 
+POCSAG1200: Address: 1871987  Function: 0  Alpha:   K<DC1>
+POCSAG1200: Address: 1485424  Function: 3 
 POCSAG2400: Address: 1222258  Function: 0 
 POCSAG2400: Address: 1778293  Function: 0 
 POCSAG2400: Address: 2077692  Function: 2 
@@ -986,15 +998,3 @@ POCSAG1200: Address: 1293048  Function: 1
 POCSAG1200: Address: 1747524  Function: 2 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1218060122+++T
 POCSAG1200: Address: 1715058  Function: 0 
-POCSAG2400: Address:  225841  Function: 2  Alpha:   12:16-58 85513
-POCSAG1200: Address: 2001525  Function: 1 
-POCSAG1200: Address: 1964505  Function: 1  Alpha:   ooooo<ACK>E<ACK><ENQ>aw7<NUL><NUL>
-POCSAG1200: Address: 1032180  Function: 3 
-POCSAG2400: Address:  247427  Function: 0 
-POCSAG2400: Address:   33739  Function: 2  Alpha:   12:16-40 INC ALERT No: 17016295 Falls - fa
-POCSAG1200: Address: 1290848  Function: 0 
-POCSAG1200: Address: 2074226  Function: 2 
-POCSAG1200: Address: 2025456  Function: 1 
-POCSAG2400: Address:    2480  Function: 1 
-POCSAG2400: Address:  149113  Function: 2  Alpha:   12:12-67 5002<NUL>
-POCSAG1200: Address: 2007784  Function: 0 
