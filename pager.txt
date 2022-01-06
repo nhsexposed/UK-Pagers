@@ -1,3 +1,12 @@
+POCSAG1200: Address:   41512  Function: 2  Alpha:   15:14-97 33945
+POCSAG2400: Address:   28905  Function: 0  Alpha:   15:13-77 4167<NUL>
+POCSAG512: Address: 1966610  Function: 0 
+POCSAG1200: Address: 2011698  Function: 0 
+POCSAG1200: Address: 2077691  Function: 2 
+POCSAG1200: Address: 1418855  Function: 0 
+POCSAG1200: Address:  290120  Function: 3  Alpha:   V<STX>
+POCSAG2400: Address: 1022632  Function: 0 
+POCSAG2400: Address: 2008690  Function: 1 
 POCSAG2400: Address: 1320280  Function: 2  Alpha:   15:09-51 4160<NUL>
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:09-77 4387<NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1508060122+++TIME=1508060122<NUL>
@@ -989,12 +998,3 @@ POCSAG1200: Address: 2075376  Function: 1
 POCSAG2400: Address: 2092912  Function: 0 
 POCSAG1200: Address: 1352290  Function: 0 
 POCSAG2400: Address: 1999606  Function: 0 
-POCSAG2400: Address:  584088  Function: 2  Alpha:   09:40-19 80300
-POCSAG2400: Address:  584658  Function: 2  Alpha:   09:40-95 80300
-POCSAG2400: Address: 1324304  Function: 2  Alpha:   09:40-33 80300
-POCSAG2400: Address: 1913598  Function: 2  Alpha:   09:41-13 5202<NUL>
-POCSAG2400: Address:  583569  Function: 2  Alpha:   09:40-46 80300
-POCSAG2400: Address:  583534  Function: 2  Alpha:   09:40-84 80300
-POCSAG2400: Address: 1322976  Function: 2  Alpha:   09:40-88 80300
-POCSAG2400: Address:  583522  Function: 2  Alpha:   09:40-52 80300
-POCSAG2400: Address: 1324301  Function: 2  Alpha:   09:40-69 80300
