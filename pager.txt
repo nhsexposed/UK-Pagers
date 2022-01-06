@@ -1,3 +1,6 @@
+POCSAG2400: Address:    2480  Function: 1 
+POCSAG2400: Address:  149113  Function: 2  Alpha:   12:12-67 5002<NUL>
+POCSAG1200: Address: 2007784  Function: 0 
 POCSAG1200: Address: 1770226  Function: 0 
 POCSAG1200: Address: 2007632  Function: 1 
 POCSAG2400: Address: 1913745  Function: 2  Alpha:   12:08-01 3139<NUL>
@@ -995,6 +998,3 @@ POCSAG2400: Address:  669795  Function: 3
 POCSAG2400: Address:  342244  Function: 0  Alpha:   YA<CAN><DC3>5<ETX>A@^]A<BS>SeKGi<SOH><STX><DC1>
 POCSAG2400: Address:  996308  Function: 1 
 POCSAG2400: Address: 1353908  Function: 3 
-POCSAG2400: Address:  125387  Function: 0 
-POCSAG2400: Address: 1925539  Function: 3  Alpha:   >I<CR>[E
-POCSAG2400: Address:  301508  Function: 0  Alpha:   09:23-95 Potential Major Incident (ALERT) STAND DOWN<NUL><NUL>
