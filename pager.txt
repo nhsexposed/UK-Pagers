@@ -1,3 +1,14 @@
+POCSAG1200: Address: 2008561  Function: 2 
+POCSAG1200: Address:  824838  Function: 3 
+POCSAG1200: Address: 1455117  Function: 1 
+POCSAG1200: Address:  603753  Function: 0  Alpha:   <ACK><NUL>
+POCSAG1200: Address: 1485396  Function: 0  Alpha:   <ENQ>T
+POCSAG1200: Address: 2016880  Function: 0 
+POCSAG1200: Address:   41512  Function: 2  Alpha:   11:31-78 Please Call Switchboard<NUL><NUL>
+POCSAG1200: Address: 1123751  Function: 2  Alpha:   <SOH>YAg<DC2>
+POCSAG1200: Address:  426342  Function: 0 
+POCSAG1200: Address:  300702  Function: 3 
+POCSAG2400: Address: 1323884  Function: 2  Alpha:   11:31'87 4277<NUL>
 POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>#MDL
 POCSAG2400: Address: 2074225  Function: 2 
 POCSAG1200: Address:  269456  Function: 3  Alpha:   E<STX>
@@ -987,14 +998,3 @@ POCSAG1200: Address:  177078  Function: 0
 POCSAG1200: Address: 1510766  Function: 2 
 POCSAG1200: Address:  907637  Function: 3 
 POCSAG1200: Address:  634099  Function: 2  Alpha:   l <LF>_<EM>
-POCSAG1200: Address: 1564857  Function: 1  Alpha:   <ENQ>d<DC4>B5
-POCSAG1200: Address: 1696418  Function: 1 
-POCSAG1200: Address:  223094  Function: 2  Alpha:   V<ETB>.YgB,v
-POCSAG1200: Address:  423662  Function: 0 
-POCSAG1200: Address: 1316214  Function: 3  Alpha:   =m^}>
-POCSAG1200: Address: 1236345  Function: 0  Alpha:   K%
-POCSAG1200: Address: 1880692  Function: 0 
-POCSAG1200: Address:  612528  Function: 1  Alpha:   tT
-POCSAG1200: Address:  901751  Function: 3  Alpha:   e<LF>
-POCSAG1200: Address:  663608  Function: 2  Alpha:   <ESC><BS>
-POCSAG1200: Address: 2041312  Function: 1 
