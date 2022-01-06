@@ -1,3 +1,12 @@
+POCSAG1200: Address: 2007284  Function: 2 
+POCSAG1200: Address:  617217  Function: 3 
+POCSAG1200: Address: 1069240  Function: 1 
+POCSAG1200: Address: 1321754  Function: 2  Alpha:   03:58-50 PPCI ACTIVATION, ETA NOW, PATIENT IS IN ED MAJORS, REPORT TO CATH LAB IMMEDIATELY, CALL 01438 285 094<NUL>
+POCSAG1200: Address: 1349152  Function: 0  Alpha:   *$
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0358060122+++TIME=0358060122<NUL>
+POCSAG1200: Address: 1745520  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   23/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1131360  Function: 0 
 POCSAG2400: Address: 1746559  Function: 1 
 POCSAG2400: Address: 1321020  Function: 2  Alpha:   03:53-05 2616<NUL>
 POCSAG1200: Address:  296836  Function: 3  Alpha:   t3u<DC1>r1<DLE>5<DC1><VT>(<DLE><DC4><DC4>
@@ -989,12 +998,3 @@ POCSAG1200: Address: 1717880  Function: 1
 POCSAG1200: Address:    8235  Function: 0  Alpha:   U<GS>
 POCSAG1200: Address:  626584  Function: 0  Alpha:   5e$<DEL>dL}r
 POCSAG1200: Address:       0  Function: 2 
-POCSAG1200: Address:    1544  Function: 0 
-POCSAG1200: Address:  201168  Function: 2 
-POCSAG1200: Address:     469  Function: 3 
-POCSAG1200: Address:  655362  Function: 0 
-POCSAG2400: Address:  549936  Function: 2  Alpha:   22:26-12 22:26-11 PLEASE CALL SAM AT GIST ON 07385 361 085, LOCKED OUT OF ACCOUNT<NUL>
-POCSAG1200: Address:  940224  Function: 3 
-POCSAG1200: Address:   40088  Function: 2  Alpha:   22:25-37 PLEASE CALL EAU ON 27941<NUL>
-POCSAG1200: Address:  143432  Function: 3 
-POCSAG1200: Address: 1837319  Function: 0 
