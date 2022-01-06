@@ -1,3 +1,7 @@
+POCSAG1200: Address: 2045400  Function: 2 
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   20:37-64 CALL 01865 235 049<NUL>
+POCSAG1200: Address: 2024179  Function: 1 
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   20z30%05 K<ACK>A ALERT N
 POCSAG2400: Address:   28899  Function: 0  Alpha:   20:33-98 2111<NUL>
 POCSAG2400: Address: 1320561  Function: 1 
 POCSAG1200: Address:  114427  Function: 0  Alpha:   20:32-07 01173421914
@@ -994,7 +998,3 @@ POCSAG1200: Address:  426342  Function: 0
 POCSAG1200: Address:  300702  Function: 3 
 POCSAG2400: Address: 1323884  Function: 2  Alpha:   11:31'87 4277<NUL>
 POCSAG1200: Address:  290038  Function: 3  Alpha:   <DC2>#MDL
-POCSAG2400: Address: 2074225  Function: 2 
-POCSAG1200: Address:  269456  Function: 3  Alpha:   E<STX>
-POCSAG1200: Address:   94800  Function: 2 
-POCSAG1200: Address: 1706760  Function: 3 
