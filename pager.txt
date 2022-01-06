@@ -1,3 +1,10 @@
+POCSAG1200: Address:  934938  Function: 3  Alpha:   d,-nM<FF>h,N-<CR>.<SO><NUL>
+POCSAG1200: Address:  266850  Function: 1 
+POCSAG1200: Address:  219086  Function: 0  Alpha:   0j
+POCSAG1200: Address:  290080  Function: 2  Alpha:   <DC2><DLE>U<DC2>C
+POCSAG1200: Address: 1976934  Function: 0 
+POCSAG2400: Address: 1505140  Function: 0 
+POCSAG1200: Address: 1188422  Function: 0 
 POCSAG2400: Address:   28899  Function: 0  Alpha:   20:42-02 2111<NUL>
 POCSAG1200: Address: 2045400  Function: 2 
 POCSAG1200: Address: 1983266  Function: 2  Alpha:   20:37-64 CALL 01865 235 049<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address: 2008561  Function: 2
 POCSAG1200: Address:  824838  Function: 3 
 POCSAG1200: Address: 1455117  Function: 1 
 POCSAG1200: Address:  603753  Function: 0  Alpha:   <ACK><NUL>
-POCSAG1200: Address: 1485396  Function: 0  Alpha:   <ENQ>T
-POCSAG1200: Address: 2016880  Function: 0 
-POCSAG1200: Address:   41512  Function: 2  Alpha:   11:31-78 Please Call Switchboard<NUL><NUL>
-POCSAG1200: Address: 1123751  Function: 2  Alpha:   <SOH>YAg<DC2>
-POCSAG1200: Address:  426342  Function: 0 
-POCSAG1200: Address:  300702  Function: 3 
-POCSAG2400: Address: 1323884  Function: 2  Alpha:   11:31'87 4277<NUL>
