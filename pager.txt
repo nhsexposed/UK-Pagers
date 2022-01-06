@@ -1,3 +1,29 @@
+POCSAG1200: Address: 2077693  Function: 2 
+POCSAG1200: Address: 1673045  Function: 2  Alpha:   nlD@h
+POCSAG1200: Address: 1216772  Function: 2 
+POCSAG1200: Address: 1417306  Function: 1 
+POCSAG1200: Address: 2074231  Function: 2  Alpha:   ]<SI>
+POCSAG1200: Address: 2077690  Function: 2 
+POCSAG1200: Address: 2074226  Function: 2 
+POCSAG2400: Address: 2026352  Function: 2 
+POCSAG2400: Address:  964209  Function: 2 
+POCSAG2400: Address:  926453  Function: 0 
+POCSAG2400: Address: 1324108  Function: 2  Alpha:   17:00-59 Green: This i
+POCSAG1200: Address: 1512713  Function: 3  Alpha:   <ACK><DLE>
+POCSAG2400: Address:  225851  Function: 2  Alpha:   17:01-17 107205<NUL><NUL>
+POCSAG2400: Address: 1483512  Function: 1 
+POCSAG2400: Address: 2007682  Function: 0 
+POCSAG2400: Address: 1323968  Function: 2  Alpha:   17:00-11
+POCSAG2400: Address: 2025041  Function: 0 
+POCSAG2400: Address: 1106374  Function: 0  Alpha:   <ETB>K<ETX><ENQ><SI>S'?;;<SOH>
+POCSAG2400: Address: 1237744  Function: 0 
+POCSAG2400: Address: 1324110  Function: 2  Alpha:   17:00-61 Green: This is the daily pager test. Please take no further action.<NUL>
+POCSAG2400: Address: 1485426  Function: 0 
+POCSAG2400: Address: 2024151  Function: 0 
+POCSAG2400: Address: 1537216  Function: 2 
+POCSAG2400: Address: 1483644  Function: 0 
+POCSAG1200: Address: 1914344  Function: 3  Alpha:   <CAN><ESC>
+POCSAG1200: Address: 2081491  Function: 2 
 POCSAG1200: Address: 1745010  Function: 0 
 POCSAG1200: Address: 1837682  Function: 1 
 POCSAG1200: Address: 1715058  Function: 0 
@@ -972,29 +998,3 @@ POCSAG2400: Address: 1913884  Function: 2  Alpha:   10:00-83 2434<NUL>
 POCSAG1200: Address:  216671  Function: 3 
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   5<FF>
 POCSAG2400: Address: 1324176  Function: 2  Alpha:   09:57-79 5530<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:57-46 5530<NUL>
-POCSAG1200: Address: 2008953  Function: 0 
-POCSAG2400: Address: 1913824  Function: 2  Alpha:   09:56-97 4387<NUL>
-POCSAG2400: Address: 2007929  Function: 2 
-POCSAG1200: Address:  435751  Function: 0 
-POCSAG2400: Address: 2014834  Function: 3 
-POCSAG2400: Address: 2078258  Function: 0 
-POCSAG2400: Address: 2026097  Function: 0 
-POCSAG1200: Address:  618999  Function: 1  Alpha:   v#
-POCSAG1200: Address: 1654195  Function: 2 
-POCSAG1200: Address: 1454708  Function: 0 
-POCSAG2400: Address: 1913742  Function: 2  Alpha:   09:52-49 3530<NUL>
-POCSAG2400: Address: 1319990  Function: 2  Alpha:   09:52-62 4283<NUL>
-POCSAG1200: Address: 2010101  Function: 0 
-POCSAG1200: Address:  977778  Function: 1 
-POCSAG1200: Address:  267831  Function: 2  Alpha:   09:51-05 23
-POCSAG1200: Address:  844561  Function: 0 
-POCSAG2400: Address: 1323696  Function: 2  Alpha:   09:51-58 80300
-POCSAG2400: Address:  583530  Function: 2  Alpha:   09:51-18 80300
-POCSAG2400: Address:  583590  Function: 2  Alpha:   09:51-37 80300
-POCSAG2400: Address: 1998949  Function: 0 
-POCSAG2400: Address:  584089  Function: 2  Alpha:   09:51-96 80300
-POCSAG1200: Address: 2015863  Function: 1 
-POCSAG1200: Address: 1715062  Function: 0 
-POCSAG2400: Address: 1913841  Function: 2  Alpha:   09:50-22 2857<NUL>
-POCSAG1200: Address:       0  Function: 0 
