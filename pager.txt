@@ -1,3 +1,11 @@
+POCSAG1200: Address:  600915  Function: 0 
+POCSAG1200: Address: 1748721  Function: 0  Alpha:   k<NAK>
+POCSAG2400: Address: 2028158  Function: 1 
+POCSAG1200: Address: 2073332  Function: 2 
+POCSAG1200: Address:  380502  Function: 0  Alpha:   d<EM>\],<BEL><DC4>x\,<BEL>4v<SYN><VT><NUL><NUL>
+POCSAG1200: Address: 1029672  Function: 1 
+POCSAG1200: Address:  770022  Function: 0 
+POCSAG1200: Address: 1314834  Function: 2  Alpha:   A(<DC3><ESC>!<VT>%<EM><VT>3A<STX><EM>)%<DC3><GS><BEL><DC1><ETX><ESC>Y@.<ETX>ch@j"<SI>A<SUB>CYKApn2A<FF><ETX><EM><EM><VT><GS>A<SO>%<HT>Afnndbp@fprnpd
 POCSAG1200: Address:  200957  Function: 2  Alpha:   20:04-54 PHARMACIST PLS CALL ON 31536
 POCSAG2400: Address: 1484916  Function: 1 
 POCSAG1200: Address: 1723288  Function: 3 
@@ -990,11 +998,3 @@ POCSAG1200: Address:  687481  Function: 1
 POCSAG1200: Address: 1995496  Function: 3 
 POCSAG1200: Address: 1100473  Function: 0  Alpha:   XK
 POCSAG1200: Address: 1469041  Function: 1 
-POCSAG1200: Address: 1039284  Function: 3  Alpha:   Ul
-POCSAG1200: Address: 1441904  Function: 0 
-POCSAG1200: Address:  660608  Function: 2 
-POCSAG1200: Address: 1745495  Function: 0 
-POCSAG1200: Address: 1352304  Function: 0 
-POCSAG512: Address:  563464  Function: 3 
-POCSAG1200: Address: 2028148  Function: 2 
-POCSAG1200: Address: 2008667  Function: 2 
