@@ -1,3 +1,22 @@
+POCSAG1200: Address: 1250544  Function: 1  Alpha:   <ACK>R
+POCSAG1200: Address:  111455  Function: 1  Alpha:   ndvg<DC2>
+POCSAG1200: Address: 1271390  Function: 2 
+POCSAG1200: Address: 2011504  Function: 0 
+POCSAG1200: Address: 2007856  Function: 1 
+POCSAG1200: Address:  893664  Function: 0 
+POCSAG1200: Address:  524896  Function: 0 
+POCSAG1200: Address: 1942099  Function: 2 
+POCSAG1200: Address:  216321  Function: 2  Alpha:   23:03-27 (3/3) Additional_Data Address Classification Self Contained Flat (Includes Maisonette / Apartment)<NUL>
+POCSAG2400: Address:  688741  Function: 0 
+POCSAG2400: Address: 1877045  Function: 0 
+POCSAG2400: Address: 1729110  Function: 2 
+POCSAG2400: Address: 1745712  Function: 0 
+POCSAG2400: Address:  584089  Function: 2  Alpha:   23:02-99 80300
+POCSAG1200: Address: 2009792  Function: 0 
+POCSAG1200: Address:  174993  Function: 0 
+POCSAG1200: Address:   49263  Function: 2  Alpha:   23:00-41 MEDICAL EMERGENCY WARD 3 AT UHND 
+POCSAG1200: Address: 1286739  Function: 1 
+POCSAG1200: Address: 1484369  Function: 0 
 POCSAG1200: Address:  174993  Function: 0 
 POCSAG1200: Address: 1512713  Function: 3  Alpha:   &P
 POCSAG1200: Address:   33724  Function: 2  Alpha:   22:57-01 PLS CALL CLAIRE va|DNT
@@ -979,22 +998,3 @@ POCSAG1200: Address: 1483127  Function: 0
 POCSAG1200: Address: 1391243  Function: 1 
 POCSAG1200: Address: 1635178  Function: 1 
 POCSAG1200: Address: 1016433  Function: 0 
-POCSAG1200: Address:    1544  Function: 0  Alpha:   <NUL><NUL>
-POCSAG1200: Address:      69  Function: 3 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   24/05/2002 CH3A<NUL><NUL>
-POCSAG1200: Address: 1188420  Function: 0 
-POCSAG1200: Address:  175206  Function: 1 
-POCSAG1200: Address:  834762  Function: 0 
-POCSAG1200: Address: 1159170  Function: 0 
-POCSAG1200: Address:  614954  Function: 1  Alpha:   T!C\V
-POCSAG1200: Address: 2044503  Function: 0 
-POCSAG1200: Address:  140132  Function: 0  Alpha:   Pa'k$"<NUL><NUL>
-POCSAG1200: Address:  893489  Function: 0 
-POCSAG1200: Address:  664466  Function: 2  Alpha:   20:20-17
-POCSAG2400: Address: 1913722  Function: 2  Alpha:   20:19-58 83
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2018070122+++TIME=2018070122<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   2<DC1><SUB>18-24 3104<NUL>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   20:18-41 3504<NUL>
-POCSAG1200: Address: 2025491  Function: 0 
-POCSAG1200: Address: 1782654  Function: 3 
