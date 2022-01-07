@@ -1,3 +1,11 @@
+POCSAG1200: Address: 2007286  Function: 0 
+POCSAG1200: Address:  836221  Function: 0 
+POCSAG1200: Address: 1352293  Function: 0 
+POCSAG1200: Address: 2008954  Function: 0 
+POCSAG1200: Address: 2077818  Function: 0 
+POCSAG1200: Address:  160267  Function: 1 
+POCSAG1200: Address:  774880  Function: 3  Alpha:   <DLE>gpw8<CR>P`s2<GS>P<ESC>Z,<NUL><NUL>
+POCSAG2400: Address:  510548  Function: 1  Alpha:   H<ENQ>
 POCSAG1200: Address:  290105  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address: 2008618  Function: 0 
@@ -990,11 +998,3 @@ POCSAG2400: Address:  680565  Function: 1
 POCSAG1200: Address:  131364  Function: 0 
 POCSAG2400: Address: 1913949  Function: 2  Alpha:   09:31-42 3157<NUL>
 POCSAG1200: Address: 1980085  Function: 0 
-POCSAG1200: Address:  676660  Function: 2 
-POCSAG2400: Address:   28899  Function: 0  Alpha:   09:31-52 4099<NUL>
-POCSAG1200: Address: 1812350  Function: 3  Alpha:   Uj
-POCSAG1200: Address: 1594954  Function: 2  Alpha:   09:30-68 NOTIF
-POCSAG1200: Address: 1312566  Function: 2  Alpha:   09:30-76 NOTIFY - DATE: 07.01.22    TIME: 0900 WT A<RS> <HT>
-POCSAG1200: Address: 1312591  Function: 2  Alpha:   09:30-78 NOTIFY -
-POCSAG2400: Address: 1139104  Function: 2  Alpha:   O<ETX>I<ETB>GW'K<ETB><DC3>'
-POCSAG2400: Address: 1608292  Function: 0 
