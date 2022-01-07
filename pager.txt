@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1022198  Function: 2  Alpha:   11:49-49 07/01/2022 11:47:43 INC 2
+POCSAG1200: Address: 2030024  Function: 3 
+POCSAG1200: Address: 2008166  Function: 0 
+POCSAG2400: Address: 1487444  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1148070122+++TIME=1148070122<NUL>
+POCSAG2400: Address:  433666  Function: 2  Alpha:   11:48-68 00000
 POCSAG512: Address:  273040  Function: 3  Alpha:   BBBBBB Test message on B3 side 12345678901234567890
 POCSAG1200: Address:  635413  Function: 3  Alpha:   ')J '
 POCSAG1200: Address:  354444  Function: 3 
@@ -992,9 +998,3 @@ POCSAG1200: Address: 2024305  Function: 0
 POCSAG1200: Address: 1987315  Function: 2 
 POCSAG1200: Address: 2075376  Function: 1 
 POCSAG1200: Address:  289835  Function: 0  Alpha:   <EM><NUL>
-POCSAG1200: Address:   40088  Function: 2  Alpha:   21:53-58 CALL 34113<NUL>
-POCSAG1200: Address: 1746548  Function: 0 
-POCSAG1200: Address: 1483363  Function: 0 
-POCSAG1200: Address:  548160  Function: 2  Alpha:   21:50-43 2110<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   21:50-10 4183<NUL>
-POCSAG2400: Address:   28964  Function: 0  Alpha:   21:50-03 CALL 01276 526 839<NUL>
