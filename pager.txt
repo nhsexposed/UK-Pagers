@@ -1,3 +1,10 @@
+POCSAG1200: Address:  153712  Function: 1 
+POCSAG1200: Address: 2011696  Function: 0 
+POCSAG1200: Address: 1680178  Function: 2 
+POCSAG1200: Address: 1230414  Function: 3 
+POCSAG2400: Address: 1976880  Function: 0 
+POCSAG2400: Address:  811625  Function: 2 
+POCSAG2400: Address: 1221232  Function: 1 
 POCSAG1200: Address:  790792  Function: 0  Alpha:   X-
 POCSAG1200: Address:  655362  Function: 0 
 POCSAG2400: Address: 1319990  Function: 2  Alpha:   14
@@ -991,10 +998,3 @@ POCSAG512: Address: 1265344  Function: 0  Alpha:   K<ETX>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   &p
 POCSAG1200: Address: 1015274  Function: 2  Alpha:   02:16:41 S17P1 Fire call 203
 POCSAG1200: Address:  216452  Function: 2  Alpha:   02:13-55 9<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   02:12-36 4P68<NUL>
-POCSAG1200: Address: 1745609  Function: 0 
-POCSAG1200: Address: 1323639  Function: 0 
-POCSAG1200: Address: 1221207  Function: 0 
-POCSAG2400: Address: 1068102  Function: 3 
-POCSAG2400: Address: 2007608  Function: 0 
-POCSAG2400: Address: 1312560  Function: 2  Alpha:   02:09:52 S17P1 Fire call 203
