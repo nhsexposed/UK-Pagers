@@ -1,3 +1,15 @@
+POCSAG2400: Address: 1913945  Function: 2  Alpha:   11:39-10 4387<NUL>
+POCSAG1200: Address: 2026358  Function: 2 
+POCSAG1200: Address: 1032929  Function: 3  Alpha:   F,
+POCSAG2400: Address: 1008224  Function: 2  Alpha:   11:38-32 please call 8152
+POCSAG1200: Address: 2007928  Function: 1 
+POCSAG1200: Address:  906514  Function: 3  Alpha:   <DLE>l<FF>J<DC3><NUL>0f
+POCSAG1200: Address: 1032646  Function: 3  Alpha:   Uh
+POCSAG1200: Address: 1700805  Function: 3  Alpha:   F2
+POCSAG1200: Address: 2011889  Function: 0 
+POCSAG1200: Address: 2007649  Function: 0 
+POCSAG2400: Address:  963186  Function: 0 
+POCSAG2400: Address: 1913668  Function: 2  Alpha:   11:35-92 4373<NUL>
 POCSAG1200: Address: 2008161  Function: 0 
 POCSAG1200: Address: 1511973  Function: 3  Alpha:   <ACK>"
 POCSAG1200: Address: 2076710  Function: 0 
@@ -986,15 +998,3 @@ POCSAG1200: Address: 2015825  Function: 0
 POCSAG1200: Address: 1466529  Function: 0  Alpha:   <DC3><ETX><SUB>D<FS><VT><EOT><NUL>
 POCSAG1200: Address:  273040  Function: 3  Alpha:   23/05
 POCSAG2400: Address: 2046203  Function: 0 
-POCSAG512: Address:  844016  Function: 0 
-POCSAG1200: Address:  678701  Function: 2  Alpha:   21:39-18 CALL 0207 783 2329<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2138060122+++TIME=2138060122<NUL>
-POCSAG1200: Address:  496774  Function: 0  Alpha:   h<FF>.,M-<FF>h<FF>N-<CR>,<FF>
-POCSAG1200: Address: 1349433  Function: 1 
-POCSAG1200: Address: 1680168  Function: 3  Alpha:   fj
-POCSAG1200: Address: 1993316  Function: 0 
-POCSAG1200: Address:  220909  Function: 2  Alpha:   21:33-90 704000<NUL><NUL>
-POCSAG2400: Address: 1360503  Function: 0 
-POCSAG1200: Address: 1706383  Function: 2 
-POCSAG1200: Address:   14950  Function: 0  Alpha:   21:32
-POCSAG1200: Address: 2029301  Function: 0 
