@@ -1,3 +1,10 @@
+POCSAG2400: Address:   28905  Function: 0  Alpha:   13:19-90 5202<NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   13:19-79 4316<NUL>
+POCSAG1200: Address: 1039321  Function: 2  Alpha:   <SYN><EOT>
+POCSAG1200: Address: 2012132  Function: 0 
+POCSAG2400: Address: 1417841  Function: 0 
+POCSAG2400: Address: 1974848  Function: 1 
+POCSAG1200: Address: 1499986  Function: 2 
 POCSAG2400: Address:  696530  Function: 2 
 POCSAG2400: Address:  549112  Function: 2 
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   13:11-25 4872<NUL>
@@ -991,10 +998,3 @@ POCSAG1200: Address:  407168  Function: 2  Alpha:   &<SYN><ACK>d<SYN>VF<ACK>
 POCSAG1200: Address: 1352816  Function: 0 
 POCSAG1200: Address:  549140  Function: 2  Alpha:   23:38-02 MANAGER PLS CALL 0300 421 6154
 POCSAG2400: Address:   28927  Function: 0  Alpha:   23:38-95 2183<NUL>
-POCSAG2400: Address:   28899  Function: 0  Alpha:   23:37-26 5204<NUL>
-POCSAG2400: Address: 2075249  Function: 2 
-POCSAG1200: Address: 1352482  Function: 1 
-POCSAG1200: Address: 2007344  Function: 2 
-POCSAG1200: Address: 1584747  Function: 0 
-POCSAG1200: Address:  950839  Function: 1 
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   23:36-75 4156<NUL>
