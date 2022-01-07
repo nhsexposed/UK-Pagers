@@ -1,3 +1,7 @@
+POCSAG2400: Address: 2007602  Function: 1 
+POCSAG1200: Address: 2025046  Function: 0 
+POCSAG1200: Address:  664466  Function: 2  Alpha:   21:36-20 TEST<NUL>
+POCSAG1200: Address:  269059  Function: 2  Alpha:   21:35-61 07/01/2022 
 POCSAG2400: Address:  926243  Function: 0 
 POCSAG1200: Address: 2076251  Function: 0 
 POCSAG1200: Address: 1190644  Function: 0 
@@ -994,7 +998,3 @@ POCSAG1200: Address:       0  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:       0  Function: 0 
-POCSAG1200: Address:  909763  Function: 1 
-POCSAG1200: Address:  226153  Function: 1  Alpha:   05<SYN>X$
-POCSAG1200: Address: 1779529  Function: 3 
