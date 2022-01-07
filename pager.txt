@@ -1,3 +1,9 @@
+POCSAG1200: Address: 1613937  Function: 0 
+POCSAG1200: Address: 1939266  Function: 3  Alpha:   n<BS>aj@j@<DLE><ETX><EM><EM><ETX><ESC>A
+POCSAG1200: Address: 1946180  Function: 3  Alpha:   b@
+POCSAG1200: Address: 1450336  Function: 0 
+POCSAG1200: Address: 1031672  Function: 3  Alpha:   <ACK><NUL>
+POCSAG1200: Address: 2025459  Function: 1 
 POCSAG2400: Address: 1913670  Function: 2  Alpha:   13
 POCSAG2400: Address:  434741  Function: 0 
 POCSAG2400: Address: 1022521  Function: 0  Alpha:   13:38-62 75820
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1895007  Function: 2
 POCSAG2400: Address:  327787  Function: 2  Alpha:   OS<ETX><GS>J?WC<ETX>!&<ETB>K<BEL>K<SI>#gk<SOH>5(L<STX><NUL>
 POCSAG2400: Address: 2091646  Function: 0 
 POCSAG2400: Address:  266416  Function: 0  Alpha:   td<FS>4<GS><ENQ><VT>k<FS><FF>kP<BS>dN<SO><RS>W<ETX>j<NUL><NUL>
-POCSAG2400: Address: 1270352  Function: 0  Alpha:   +TIME=0008070122<NUL>
-POCSAG1200: Address: 1089611  Function: 2  Alpha:   00
-POCSAG2400: Address: 1324550  Function: 2  Alpha:   00:06-59
-POCSAG2400: Address: 1213768  Function: 0 
-POCSAG1200: Address:  432776  Function: 2  Alpha:   00:05-94 Call 24946176 - Warning - Scene Unsafe. Contract Control for further advice.
-POCSAG2400: Address: 1324566  Function: 2 
