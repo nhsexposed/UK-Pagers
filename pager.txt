@@ -1,3 +1,16 @@
+POCSAG2400: Address:   28894  Function: 0  Alpha:   09:34-53 5202<NUL>
+POCSAG2400: Address: 2008698  Function: 0 
+POCSAG2400: Address:  680565  Function: 1 
+POCSAG1200: Address:  131364  Function: 0 
+POCSAG2400: Address: 1913949  Function: 2  Alpha:   09:31-42 3157<NUL>
+POCSAG1200: Address: 1980085  Function: 0 
+POCSAG1200: Address:  676660  Function: 2 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   09:31-52 4099<NUL>
+POCSAG1200: Address: 1812350  Function: 3  Alpha:   Uj
+POCSAG1200: Address: 1594954  Function: 2  Alpha:   09:30-68 NOTIF
+POCSAG1200: Address: 1312566  Function: 2  Alpha:   09:30-76 NOTIFY - DATE: 07.01.22    TIME: 0900 WT A<RS> <HT>
+POCSAG1200: Address: 1312591  Function: 2  Alpha:   09:30-78 NOTIFY -
+POCSAG2400: Address: 1139104  Function: 2  Alpha:   O<ETX>I<ETB>GW'K<ETB><DC3>'
 POCSAG2400: Address: 1608292  Function: 0 
 POCSAG1200: Address:  216668  Function: 3  Alpha:   27<RS>%5
 POCSAG1200: Address: 1511985  Function: 3  Alpha:   VD
@@ -985,16 +998,3 @@ POCSAG1200: Address: 1745488  Function: 0
 POCSAG1200: Address: 1454705  Function: 0 
 POCSAG1200: Address: 1499985  Function: 2 
 POCSAG2400: Address: 1729109  Function: 2 
-POCSAG512: Address: 2074422  Function: 1 
-POCSAG2400: Address: 2011893  Function: 0 
-POCSAG2400: Address: 1320207  Function: 2  Alpha:   17:13-58 2097<NUL>
-POCSAG1200: Address: 1745495  Function: 0 
-POCSAG2400: Address: 1140864  Function: 3 
-POCSAG2400: Address: 2008564  Function: 2 
-POCSAG1200: Address:  906480  Function: 3  Alpha:   p<DLE>U<LF><NUL>.2f
-POCSAG1200: Address:  844530  Function: 0 
-POCSAG1200: Address: 2008952  Function: 0 
-POCSAG1200: Address: 2089651  Function: 0 
-POCSAG1200: Address: 1975267  Function: 0 
-POCSAG2400: Address: 1260220  Function: 2  Alpha:   17:07-12 PLEASE CALL EXTENSION 2169<NUL><NUL>
-POCSAG1200: Address:  721419  Function: 3 
