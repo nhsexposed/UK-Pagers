@@ -1,3 +1,18 @@
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=1818070122+++TIME=1818070122<NUL>
+POCSAG1200: Address:  334753  Function: 1 
+POCSAG1200: Address: 1032922  Function: 3  Alpha:   <SYN><SOH>
+POCSAG1200: Address:  267879  Function: 0  Alpha:   <SI>)
+POCSAG1200: Address: 1584710  Function: 0  Alpha:   =k
+POCSAG1200: Address:  577997  Function: 1  Alpha:   TR
+POCSAG1200: Address: 1512713  Function: 3  Alpha:   <ACK>P
+POCSAG1200: Address: 1945200  Function: 2 
+POCSAG1200: Address: 2012352  Function: 0 
+POCSAG2400: Address:  926243  Function: 0 
+POCSAG2400: Address: 1324176  Function: 2  Alpha:   18:15-41 5090<NUL>
+POCSAG2400: Address: 1819616  Function: 0 
+POCSAG2400: Address:  195064  Function: 2 
+POCSAG1200: Address: 1484914  Function: 1  Alpha:   oQ
+POCSAG1200: Address:  926718  Function: 1 
 POCSAG1200: Address: 1472792  Function: 1 
 POCSAG1200: Address: 2024312  Function: 2 
 POCSAG1200: Address: 1312467  Function: 2  Alpha:   18:13-69 2182<NUL>
@@ -983,18 +998,3 @@ POCSAG1200: Address:  281376  Function: 0
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:       0  Function: 0 
 POCSAG1200: Address:  413100  Function: 0 
-POCSAG1200: Address: 1858466  Function: 3 
-POCSAG1200: Address:  602480  Function: 3 
-POCSAG1200: Address:  761185  Function: 1 
-POCSAG1200: Address: 1939251  Function: 2  Alpha:   f 
-POCSAG1200: Address:  792753  Function: 1  Alpha:   <FF>H<BEL>Mn
-POCSAG1200: Address: 1717944  Function: 1 
-POCSAG1200: Address: 1289267  Function: 2  Alpha:   r<NUL>KnN
-POCSAG1200: Address: 1876561  Function: 1 
-POCSAG1200: Address:  116824  Function: 2 
-POCSAG1200: Address:  532539  Function: 0  Alpha:   (<SI>
-POCSAG1200: Address:  779248  Function: 2  Alpha:   x<ETB>
-POCSAG1200: Address:  205430  Function: 2  Alpha:   <EM>'<SI>o<SO>ft~
-POCSAG2400: Address:   28899  Function: 0  Alpha:   15:58-95 4187<NUL>
-POCSAG2400: Address: 1913870  Function: 2  Alpha:   15:58-49 3508<NUL>
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1558070122+++TIME=1558070122<NUL>
