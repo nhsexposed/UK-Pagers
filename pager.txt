@@ -1,3 +1,7 @@
+POCSAG2400: Address: 2007284  Function: 0 
+POCSAG1200: Address: 1352293  Function: 0 
+POCSAG1200: Address:   74752  Function: 2 
+POCSAG1200: Address: 1999655  Function: 2 
 POCSAG1200: Address: 1352487  Function: 1 
 POCSAG2400: Address: 2007614  Function: 0 
 POCSAG2400: Address: 1715056  Function: 0 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1913536  Function: 2  Alpha:   12:06-03 4179<NUL>
 POCSAG1200: Address: 1512700  Function: 3  Alpha:   V<STX>
 POCSAG1200: Address:  919668  Function: 0 
 POCSAG1200: Address:  549767  Function: 2  Alpha:   12:05-24 ~FOR INFO - S21 BANGOR STATION BEING CLEANED. STATION STILL AVAILABLE<NUL>
-POCSAG1200: Address:  678716  Function: 2  Alpha:   12:05-81 HI MARC, PLEASE CONTACT CONTROL, THANKS <NUL><NUL>
-POCSAG1200: Address:     740  Function: 1  Alpha:   <LF><BS><BS>P<SYN><DLE>#f *<DLE><EM><ESC><SYN>PX<EM><CAN><DLE>i
-POCSAG1200: Address: 1312467  Function: 2  Alpha:   !b<SUB>03-39 61609
-POCSAG1200: Address: 1882657  Function: 0 
