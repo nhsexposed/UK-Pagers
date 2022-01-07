@@ -1,3 +1,18 @@
+POCSAG2400: Address: 1999716  Function: 0 
+POCSAG2400: Address: 1974580  Function: 0 
+POCSAG1200: Address: 1237747  Function: 0 
+POCSAG1200: Address: 1312467  Function: 2  Alpha:   12:08-40 <ETB>4070
+POCSAG1200: Address: 1039184  Function: 3  Alpha:   VD
+POCSAG2400: Address: 1998945  Function: 0 
+POCSAG1200: Address: 1483410  Function: 0 
+POCSAG2400: Address:  589226  Function: 2  Alpha:   Q]<SOH>QUUQ<SOH>
+POCSAG2400: Address: 1321073  Function: 2  Alpha:   12
+POCSAG2400: Address: 1259326  Function: 2  Alpha:   12:06-28 4902 URGENT.<NUL>
+POCSAG2400: Address: 1913536  Function: 2  Alpha:   12:06-03 4179<NUL>
+POCSAG1200: Address: 1512700  Function: 3  Alpha:   V<STX>
+POCSAG1200: Address:  919668  Function: 0 
+POCSAG1200: Address:  549767  Function: 2  Alpha:   12:05-24 ~FOR INFO - S21 BANGOR STATION BEING CLEANED. STATION STILL AVAILABLE<NUL>
+POCSAG1200: Address:  678716  Function: 2  Alpha:   12:05-81 HI MARC, PLEASE CONTACT CONTROL, THANKS <NUL><NUL>
 POCSAG1200: Address:     740  Function: 1  Alpha:   <LF><BS><BS>P<SYN><DLE>#f *<DLE><EM><ESC><SYN>PX<EM><CAN><DLE>i
 POCSAG1200: Address: 1312467  Function: 2  Alpha:   !b<SUB>03-39 61609
 POCSAG1200: Address: 1882657  Function: 0 
@@ -983,18 +998,3 @@ POCSAG2400: Address: 2077265  Function: 0
 POCSAG2400: Address: 1352288  Function: 0 
 POCSAG2400: Address: 2012019  Function: 1 
 POCSAG512: Address:  267813  Function: 0 
-POCSAG512: Address: 2065267  Function: 0 
-POCSAG1200: Address: 1031493  Function: 2  Alpha:   <BEL><STX>
-POCSAG1200: Address: 1745588  Function: 0 
-POCSAG1200: Address: 1974483  Function: 0 
-POCSAG2400: Address: 1876720  Function: 2 
-POCSAG1200: Address: 1871987  Function: 0  Alpha:   K<DC1>
-POCSAG1200: Address: 1485424  Function: 3 
-POCSAG2400: Address: 1222258  Function: 0 
-POCSAG2400: Address: 1778293  Function: 0 
-POCSAG2400: Address: 2077692  Function: 2 
-POCSAG2400: Address:  295504  Function: 0 
-POCSAG1200: Address:   67587  Function: 1 
-POCSAG1200: Address:  273040  Function: 3  Alpha:   23/05/2002 CH3
-POCSAG1200: Address:  930489  Function: 2  Alpha:   22:16
-POCSAG1200: Address: 1255007  Function: 3 
