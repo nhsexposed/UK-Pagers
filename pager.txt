@@ -1,3 +1,9 @@
+POCSAG2400: Address: 1826930  Function: 0 
+POCSAG1200: Address:  637548  Function: 1 
+POCSAG1200: Address:  657524  Function: 0 
+POCSAG1200: Address: 1085986  Function: 0 
+POCSAG1200: Address: 1685062  Function: 0  Alpha:   "M<BEL>/V<ETX><STX><NAK>
+POCSAG1200: Address: 1124878  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2333080122+++TIME=2333080122<NUL>
 POCSAG1200: Address: 1914240  Function: 3 
 POCSAG1200: Address: 1469043  Function: 1 
@@ -992,9 +998,3 @@ POCSAG2400: Address: 1808120  Function: 3
 POCSAG2400: Address: 2016886  Function: 0 
 POCSAG2400: Address:   85916  Function: 0 
 POCSAG2400: Address: 1057296  Function: 0  Alpha:   <ACK>o
-POCSAG2400: Address:  560488  Function: 0 
-POCSAG2400: Address:  613216  Function: 1 
-POCSAG2400: Address:  688742  Function: 0 
-POCSAG2400: Address:  309193  Function: 1 
-POCSAG2400: Address: 2073840  Function: 0 
-POCSAG2400: Address:  193642  Function: 3 
