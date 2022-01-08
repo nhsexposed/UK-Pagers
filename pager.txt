@@ -1,3 +1,5 @@
+POCSAG2400: Address: 1975026  Function: 1 
+POCSAG1200: Address: 1974272  Function: 0 
 POCSAG1200: Address:  959331  Function: 3 
 POCSAG1200: Address: 1890743  Function: 0 
 POCSAG1200: Address: 1483297  Function: 1 
@@ -996,5 +998,3 @@ POCSAG1200: Address: 1022230  Function: 2  Alpha:   13:28-58 08/01/2022 13:21:38
 POCSAG1200: Address:  273040  Function: 3  Alpha:   25/ 1=2002 CH*B<NUL><NUL>
 POCSAG1200: Address: 1246255  Function: 0  Alpha:   v0P<DC4>q<DLE>hQ<DC4><DC1>h,m<FF>n,<FF>h<FF><SO>,N<FF><SO><NUL>
 POCSAG2400: Address:   28905  Function: 0  Alpha:   13:26-08 5201<NUL>
-POCSAG1200: Address: 1097250  Function: 0  Alpha:   |dd<STX>2L%<ETX><SUB><ETX><CR><EOT>j<FF>f.<ACK><DC2>CK<ENQ>*d,<FS>$<NAK>}<FS>,%-$<EOT>:<DC4>%<EOT><SUB>
-POCSAG1200: Address:   74225  Function: 1  Alpha:   Ac
