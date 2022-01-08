@@ -1,3 +1,49 @@
+POCSAG1200: Address: 1472824  Function: 3  Alpha:   <RS>&
+POCSAG1200: Address: 1810564  Function: 1  Alpha:   uA
+POCSAG1200: Address: 1028361  Function: 2 
+POCSAG1200: Address: 1798881  Function: 3 
+POCSAG1200: Address:  323012  Function: 1 
+POCSAG1200: Address:   27083  Function: 2  Alpha:   +[
+POCSAG1200: Address: 1843328  Function: 2 
+POCSAG1200: Address: 1746534  Function: 0 
+POCSAG1200: Address:  964988  Function: 1  Alpha:   ^a<SYN><STX>2
+POCSAG1200: Address:   43823  Function: 2  Alpha:   )<GS>
+POCSAG1200: Address:     446  Function: 0  Alpha:   <FS>_LL<ENQ><DC4>`S
+POCSAG1200: Address: 1749088  Function: 1  Alpha:   6<ACK>#6&
+POCSAG1200: Address: 1417473  Function: 2 
+POCSAG1200: Address:  211121  Function: 2 
+POCSAG1200: Address:  867635  Function: 0 
+POCSAG1200: Address:  830750  Function: 2 
+POCSAG1200: Address:   13333  Function: 3  Alpha:   NY
+POCSAG1200: Address:  602608  Function: 3 
+POCSAG1200: Address:  792945  Function: 0  Alpha:   <FF>(
+POCSAG1200: Address: 1718072  Function: 1 
+POCSAG1200: Address:  208550  Function: 0 
+POCSAG1200: Address:    7256  Function: 1  Alpha:   !<SO>
+POCSAG1200: Address:  866691  Function: 0 
+POCSAG1200: Address:  913865  Function: 1  Alpha:   <NAK>R
+POCSAG1200: Address: 1221204  Function: 0 
+POCSAG1200: Address:  900403  Function: 0 
+POCSAG1200: Address: 1276787  Function: 0 
+POCSAG1200: Address:  221341  Function: 0 
+POCSAG1200: Address:  133746  Function: 0  Alpha:   $<BEL>
+POCSAG1200: Address:  529452  Function: 0  Alpha:   8<LF>
+POCSAG1200: Address: 1303054  Function: 1 
+POCSAG1200: Address: 1235377  Function: 0  Alpha:   0M4x<LF>
+POCSAG1200: Address: 1939443  Function: 0  Alpha:   b`
+POCSAG1200: Address:  208806  Function: 0 
+POCSAG1200: Address: 1720882  Function: 0 
+POCSAG1200: Address:  792945  Function: 1  Alpha:   <FF>h
+POCSAG1200: Address:  861040  Function: 0 
+POCSAG1200: Address: 1718136  Function: 1 
+POCSAG1200: Address: 1912867  Function: 2 
+POCSAG1200: Address:  256204  Function: 0  Alpha:   x<ENQ>j@<NUL>
+POCSAG1200: Address:  239721  Function: 1 
+POCSAG1200: Address:  620022  Function: 1  Alpha:   4-
+POCSAG1200: Address:  295509  Function: 0 
+POCSAG1200: Address: 1869525  Function: 0 
+POCSAG1200: Address:   91794  Function: 1  Alpha:   5645<NUL>
+POCSAG1200: Address: 1032669  Function: 3  Alpha:   <DC2>CACL
 POCSAG2400: Address:  959218  Function: 1 
 POCSAG1200: Address: 2007954  Function: 0 
 POCSAG1200: Address:  975423  Function: 0 
@@ -952,49 +998,3 @@ POCSAG1200: Address:  864339  Function: 3  Alpha:   <DLE>u<FS>l,
 POCSAG1200: Address:  193099  Function: 1 
 POCSAG1200: Address:  322817  Function: 1 
 POCSAG1200: Address: 1225230  Function: 0  Alpha:   .g
-POCSAG1200: Address: 1731857  Function: 2  Alpha:   @{
-POCSAG1200: Address:  140084  Function: 1 
-POCSAG1200: Address: 1027567  Function: 1  Alpha:   <STX><SUB>B(Z<CAN>HZ(<LF>T<EM>h9<BS>Y8JZ(<LF>TY:ZXZ<HT>ti<BS>4:<CAN>Yh9X<BS>d<EOT><DC4>iIX:J*<LF>0<SYN>
-POCSAG1200: Address:  541619  Function: 1  Alpha:   <STX>a
-POCSAG1200: Address:   67494  Function: 1 
-POCSAG1200: Address: 1461604  Function: 2 
-POCSAG1200: Address: 1923426  Function: 1 
-POCSAG1200: Address:  602416  Function: 3 
-POCSAG1200: Address:  628467  Function: 1  Alpha:   f@
-POCSAG1200: Address:  792689  Function: 1  Alpha:   <FF>H<LF>L.
-POCSAG1200: Address: 1717880  Function: 1 
-POCSAG1200: Address: 1572907  Function: 0  Alpha:   ]<GS>
-POCSAG1200: Address: 1409971  Function: 0  Alpha:   frn`z
-POCSAG1200: Address:  726886  Function: 2 
-POCSAG1200: Address: 1912859  Function: 3  Alpha:   $<ACK><SYN><VT>Tj9xiI<SUB>yY:<LF>T<ENQ>d<CAN>HIYh<HT>t(J<BS>
-POCSAG1200: Address:  758055  Function: 2  Alpha:   <FS>3w<STX>R<CR>3[@+m<STX>2^m<SO>o
-POCSAG1200: Address:  676962  Function: 1  Alpha:   <ENQ><DC2>S<FF>$
-POCSAG1200: Address:    8242  Function: 1  Alpha:   @<BS>
-POCSAG1200: Address:  635040  Function: 2  Alpha:   x/<VT>z3
-POCSAG1200: Address:  763338  Function: 1 
-POCSAG1200: Address: 1403808  Function: 3 
-POCSAG1200: Address:  210537  Function: 1  Alpha:   P%
-POCSAG1200: Address:  470725  Function: 2 
-POCSAG1200: Address: 1630997  Function: 3  Alpha:   fk
-POCSAG1200: Address:   27211  Function: 1 
-POCSAG1200: Address: 1471846  Function: 2 
-POCSAG1200: Address: 1365288  Function: 3  Alpha:   j`Zpd@`n^`b^d`dd@<NUL>JE<SO>Q
-POCSAG1200: Address:  912867  Function: 0  Alpha:   <ESC><ETX>LD Male 30Y FIT GRD 332480 446828<NUL><NUL>
-POCSAG1200: Address: 1258852  Function: 3 
-POCSAG1200: Address:  181026  Function: 3  Alpha:   g).<SYN>P
-POCSAG1200: Address:  279155  Function: 1  Alpha:   @Bn@,<DC1>%w
-POCSAG1200: Address:   83558  Function: 2 
-POCSAG1200: Address: 1469500  Function: 2 
-POCSAG1200: Address: 1581093  Function: 1 
-POCSAG1200: Address: 1958414  Function: 0  Alpha:   q[
-POCSAG1200: Address:  109131  Function: 1 
-POCSAG1200: Address: 1552486  Function: 3 
-POCSAG1200: Address:  354720  Function: 1  Alpha:   ^U
-POCSAG1200: Address: 1651488  Function: 3 
-POCSAG1200: Address:   59447  Function: 3  Alpha:   n<VT>lNK
-POCSAG1200: Address:  813478  Function: 1  Alpha:   .U<ENQ>SM
-POCSAG1200: Address: 1852304  Function: 1 
-POCSAG1200: Address: 1258852  Function: 3 
-POCSAG1200: Address:  181026  Function: 3  Alpha:   g).<SYN>P
-POCSAG1200: Address: 1246972  Function: 1 
-POCSAG1200: Address:  279155  Function: 1  Alpha:   @Bn@,<DC1>%w
