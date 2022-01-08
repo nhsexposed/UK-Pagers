@@ -1,3 +1,7 @@
+POCSAG2400: Address: 1782962  Function: 1  Alpha:   <BEL><SYN>f<SYN>.
+POCSAG2400: Address: 1846324  Function: 0 
+POCSAG2400: Address: 2023540  Function: 3 
+POCSAG1200: Address:  678665  Function: 2  Alpha:   08:00-73 Case ref 11276206 Fill in tick sheet
 POCSAG1200: Address: 1807122  Function: 1 
 POCSAG2400: Address:       0  Function: 0 
 POCSAG2400: Address:       0  Function: 0 
@@ -994,7 +998,3 @@ POCSAG2400: Address: 1606193  Function: 0
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0128080122+++TIME=0128080122<NUL>
 POCSAG1200: Address: 2009841  Function: 0 
 POCSAG1200: Address: 2025313  Function: 0 
-POCSAG1200: Address:  360710  Function: 2 
-POCSAG1200: Address:  176909  Function: 3 
-POCSAG1200: Address: 1059620  Function: 3  Alpha:   <VT><NUL><RS>#<DC4>
-POCSAG1200: Address:  176898  Function: 3 
