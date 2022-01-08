@@ -1,3 +1,7 @@
+POCSAG1200: Address:  688736  Function: 0 
+POCSAG2400: Address: 1483377  Function: 1 
+POCSAG1200: Address: 1745488  Function: 0 
+POCSAG1200: Address: 1974896  Function: 0 
 POCSAG2400: Address:      36  Function: 0 
 POCSAG2400: Address: 2073458  Function: 2 
 POCSAG2400: Address:  764960  Function: 3 
@@ -994,7 +998,3 @@ POCSAG2400: Address:   11705  Function: 0  Alpha:   12:07-75 CALL 07970 267 753<
 POCSAG1200: Address:  829054  Function: 0 
 POCSAG1200: Address: 2009201  Function: 0 
 POCSAG2400: Address: 1783592  Function: 0  Alpha:   <ACK><ACK>
-POCSAG512: Address:  827507  Function: 1 
-POCSAG1200: Address: 1549808  Function: 3 
-POCSAG1200: Address:   87283  Function: 3  Alpha:   kN<DEL>w<RS>] J
-POCSAG1200: Address: 1834608  Function: 3 
