@@ -1,3 +1,12 @@
+POCSAG2400: Address:  841728  Function: 0 
+POCSAG1200: Address: 1122753  Function: 0  Alpha:   <STX>e.<SO><RS>/<ACK><SUB><FF>ff
+POCSAG1200: Address:   41512  Function: 2  Alpha:   09:53
+POCSAG512: Address: 2075382  Function: 1 
+POCSAG512: Address:  242051  Function: 0 
+POCSAG1200: Address:  950865  Function: 0 
+POCSAG1200: Address: 1029832  Function: 2  Alpha:   PANCREAS OF
+POCSAG1200: Address: 1745713  Function: 0 
+POCSAG1200: Address: 1843826  Function: 0 
 POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=
 POCSAG2400: Address: 1321073  Function: 2  Alpha:   09:47-79 5202<NUL>
 POCSAG1200: Address: 1744929  Function: 1 
@@ -989,12 +998,3 @@ POCSAG1200: Address:   35243  Function: 2
 POCSAG1200: Address: 1508263  Function: 3 
 POCSAG1200: Address: 1812325  Function: 2 
 POCSAG1200: Address: 1732898  Function: 2 
-POCSAG1200: Address:  381689  Function: 2  Alpha:   OO
-POCSAG1200: Address: 1527476  Function: 0  Alpha:   qU
-POCSAG1200: Address:  784563  Function: 0 
-POCSAG1200: Address:  128917  Function: 3  Alpha:   p%
-POCSAG1200: Address:  376412  Function: 0  Alpha:   w<ETB>
-POCSAG1200: Address:  487660  Function: 0 
-POCSAG1200: Address: 1144136  Function: 1 
-POCSAG1200: Address: 1911376  Function: 2 
-POCSAG1200: Address: 2088360  Function: 1  Alpha:   Mn
