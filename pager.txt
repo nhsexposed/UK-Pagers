@@ -1,3 +1,8 @@
+POCSAG1200: Address:   11848  Function: 2 
+POCSAG2400: Address: 2029114  Function: 2 
+POCSAG1200: Address:  428496  Function: 2  Alpha:   14:38-68 33735
+POCSAG1200: Address:  273040  Function: 3  Alpha:   26/05/2002 CH3A<NUL><NUL>
+POCSAG512: Address:  114450  Function: 2  Alpha:   14:34-38
 POCSAG1200: Address: 1746530  Function: 0 
 POCSAG1200: Address: 1488507  Function: 2 
 POCSAG1200: Address: 1717480  Function: 2  Alpha:   v<SYN><ACK>D6vB66<ACK><NUL>
@@ -993,8 +998,3 @@ POCSAG2400: Address: 1022473  Function: 0  Alpha:   10:02-26 SECC team test<NUL>
 POCSAG2400: Address: 1022472  Function: 0  Alpha:   10:02-33 SECC team test<NUL><NUL>
 POCSAG1200: Address: 1032147  Function: 2  Alpha:   R.
 POCSAG1200: Address:  600484  Function: 3  Alpha:   <ACK><BEL>
-POCSAG2400: Address: 1095090  Function: 0 
-POCSAG1200: Address: 1144585  Function: 3 
-POCSAG1200: Address:  600915  Function: 0 
-POCSAG2400: Address: 1548915  Function: 1 
-POCSAG2400: Address:  841728  Function: 0 
