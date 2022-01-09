@@ -1,3 +1,42 @@
+POCSAG2400: Address: 2066044  Function: 0 
+POCSAG2400: Address: 1026676  Function: 1 
+POCSAG2400: Address: 1323183  Function: 2  Alpha:   06
+POCSAG1200: Address: 2008953  Function: 0 
+POCSAG1200: Address: 1896048  Function: 0 
+POCSAG1200: Address:  146765  Function: 0 
+POCSAG1200: Address:  788523  Function: 1 
+POCSAG1200: Address: 1124224  Function: 3 
+POCSAG1200: Address: 1978737  Function: 0 
+POCSAG1200: Address: 1718008  Function: 1 
+POCSAG1200: Address: 1975922  Function: 1 
+POCSAG1200: Address:  650048  Function: 3  Alpha:   <ACK><BS>
+POCSAG1200: Address:  602480  Function: 3 
+POCSAG1200: Address:  761185  Function: 1 
+POCSAG1200: Address:  792753  Function: 1  Alpha:   <FF>H
+POCSAG1200: Address: 2026355  Function: 2  Alpha:   <DEL><ESC>
+POCSAG1200: Address: 1325168  Function: 1 
+POCSAG1200: Address: 2078328  Function: 0 
+POCSAG1200: Address:  738789  Function: 0 
+POCSAG1200: Address:  724384  Function: 0 
+POCSAG1200: Address:  289129  Function: 2 
+POCSAG1200: Address:  824488  Function: 1  Alpha:   <FF>T<ETB>td
+POCSAG1200: Address: 1581117  Function: 1 
+POCSAG1200: Address: 1812853  Function: 2 
+POCSAG1200: Address: 1974976  Function: 0 
+POCSAG1200: Address:  761313  Function: 1 
+POCSAG1200: Address: 1718072  Function: 1 
+POCSAG1200: Address: 1221202  Function: 0 
+POCSAG1200: Address:  891876  Function: 0 
+POCSAG1200: Address:  602352  Function: 3 
+POCSAG1200: Address:  761057  Function: 1 
+POCSAG1200: Address: 1065459  Function: 3 
+POCSAG1200: Address: 1966609  Function: 0 
+POCSAG1200: Address:  626793  Function: 1 
+POCSAG1200: Address:  897355  Function: 1 
+POCSAG1200: Address: 1669169  Function: 0  Alpha:   Vu
+POCSAG1200: Address:  209249  Function: 0 
+POCSAG1200: Address:  602288  Function: 3 
+POCSAG1200: Address: 2089572  Function: 0 
 POCSAG1200: Address:   81920  Function: 0  Alpha:   <FF><DLE>
 POCSAG1200: Address:  383836  Function: 0  Alpha:   nn
 POCSAG1200: Address: 2007674  Function: 0 
@@ -959,42 +998,3 @@ POCSAG1200: Address:  270381  Function: 1
 POCSAG1200: Address: 1827584  Function: 2 
 POCSAG1200: Address:  897067  Function: 2  Alpha:   1MNxD
 POCSAG1200: Address:  226147  Function: 3 
-POCSAG1200: Address: 1269942  Function: 0 
-POCSAG1200: Address:  598752  Function: 0 
-POCSAG1200: Address: 1779608  Function: 3 
-POCSAG1200: Address:  907764  Function: 1 
-POCSAG1200: Address: 1078201  Function: 0  Alpha:   M<DEL>ZIq
-POCSAG1200: Address: 1160883  Function: 0  Alpha:   PZ
-POCSAG1200: Address:   75431  Function: 0 
-POCSAG1200: Address:  194156  Function: 0 
-POCSAG1200: Address:  809081  Function: 1 
-POCSAG1200: Address: 1840673  Function: 3 
-POCSAG1200: Address:  305812  Function: 1 
-POCSAG1200: Address: 1532660  Function: 0 
-POCSAG1200: Address: 2062842  Function: 2  Alpha:   '<DC3><FF><SI>f<RS>O<STX>
-POCSAG1200: Address:  775091  Function: 2  Alpha:   s`
-POCSAG1200: Address:  134070  Function: 2 
-POCSAG1200: Address: 1078009  Function: 0  Alpha:   M?ZI<DC1>
-POCSAG1200: Address: 1101554  Function: 0 
-POCSAG1200: Address:  368300  Function: 0  Alpha:   <ESC>]
-POCSAG1200: Address: 1023092  Function: 1 
-POCSAG1200: Address: 1997930  Function: 3 
-POCSAG1200: Address: 1686273  Function: 1  Alpha:   }e<SOH>~`
-POCSAG1200: Address: 1549896  Function: 2 
-POCSAG1200: Address: 1146460  Function: 2 
-POCSAG1200: Address: 1483248  Function: 3  Alpha:   fu
-POCSAG1200: Address:  402756  Function: 0  Alpha:   FMvb'o)g
-POCSAG1200: Address: 1380728  Function: 3 
-POCSAG1200: Address: 1763224  Function: 3 
-POCSAG1200: Address:   43051  Function: 1  Alpha:   #;
-POCSAG1200: Address: 1712272  Function: 0 
-POCSAG1200: Address:   66923  Function: 1 
-POCSAG1200: Address:  345452  Function: 1 
-POCSAG1200: Address:  433316  Function: 2 
-POCSAG1200: Address: 1923258  Function: 1 
-POCSAG1200: Address:  602432  Function: 3 
-POCSAG1200: Address:  760929  Function: 1 
-POCSAG1200: Address:  385416  Function: 1  Alpha:   ~E
-POCSAG1200: Address: 1684256  Function: 3 
-POCSAG1200: Address: 2011504  Function: 0 
-POCSAG1200: Address:  319884  Function: 1  Alpha:   <RS>E<DC1><HT>@
