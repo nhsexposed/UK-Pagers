@@ -1,3 +1,11 @@
+POCSAG1200: Address: 2021938  Function: 1 
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=1103090122+++TIME=1103090122<NUL>
+POCSAG1200: Address:  600938  Function: 0 
+POCSAG1200: Address: 1039248  Function: 0 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   26/05/2002 CH3A<NUL><NUL>
+POCSAG2400: Address: 1913660  Function: 2  Alpha:   11:02-03 2195<NUL>
+POCSAG1200: Address: 1551474  Function: 2  Alpha:   11:02-24 BLEEP 5892<NUL>
+POCSAG2400: Address: 1323041  Function: 2  Alpha:   11:00-11 ***TEST CRASH TEST ***
 POCSAG1200: Address: 1031493  Function: 2  Alpha:   v 
 POCSAG2400: Address: 1323896  Function: 2  Alpha:   10:56-58 5271<NUL>
 POCSAG1200: Address: 2025458  Function: 1  Alpha:   /]
@@ -990,11 +998,3 @@ POCSAG1200: Address:  315578  Function: 0  Alpha:   D@
 POCSAG1200: Address: 1651298  Function: 0 
 POCSAG1200: Address: 1848704  Function: 2 
 POCSAG1200: Address: 1750058  Function: 2 
-POCSAG1200: Address: 1699130  Function: 1  Alpha:   qM]<NUL><BEL>
-POCSAG1200: Address: 1686180  Function: 0 
-POCSAG1200: Address: 1123426  Function: 2  Alpha:   U<EM>
-POCSAG1200: Address: 1490134  Function: 2  Alpha:   *<DC1>
-POCSAG1200: Address:  553216  Function: 2 
-POCSAG1200: Address: 1878054  Function: 3  Alpha:   <STX><HT>
-POCSAG1200: Address: 1844211  Function: 0 
-POCSAG1200: Address: 1187881  Function: 3 
