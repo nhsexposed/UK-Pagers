@@ -1,3 +1,11 @@
+POCSAG2400: Address: 2008752  Function: 0 
+POCSAG1200: Address:  792670  Function: 3  Alpha:   M<FF>
+POCSAG1200: Address: 1764150  Function: 0 
+POCSAG1200: Address:  150880  Function: 3  Alpha:   J<SOH>
+POCSAG1200: Address: 2083988  Function: 0  Alpha:   M,
+POCSAG1200: Address:  707635  Function: 1 
+POCSAG1200: Address: 1485641  Function: 3  Alpha:   <ACK>E
+POCSAG2400: Address:   28896  Function: 0  Alpha:   12:10-38 21<CAN>0A
 POCSAG2400: Address: 2007150  Function: 0 
 POCSAG2400: Address: 1680369  Function: 0 
 POCSAG1200: Address:  926322  Function: 0 
@@ -990,11 +998,3 @@ POCSAG1200: Address: 1399929  Function: 3  Alpha:   ]<US>{]#
 POCSAG1200: Address: 1441261  Function: 1  Alpha:   <CR><SOH>~]<VT>
 POCSAG1200: Address:  649474  Function: 2 
 POCSAG1200: Address:  632009  Function: 1  Alpha:   0I
-POCSAG1200: Address: 1927585  Function: 0 
-POCSAG1200: Address: 1667770  Function: 3 
-POCSAG1200: Address: 1487472  Function: 0 
-POCSAG1200: Address:  582322  Function: 1  Alpha:   <FS>O
-POCSAG1200: Address:   43181  Function: 3 
-POCSAG1200: Address:  156858  Function: 3  Alpha:   %u
-POCSAG1200: Address:  270685  Function: 0  Alpha:   I<US>
-POCSAG1200: Address:   67566  Function: 0 
