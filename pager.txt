@@ -1,3 +1,5 @@
+POCSAG1200: Address: 1073218  Function: 2  Alpha:   3<VT>
+POCSAG1200: Address: 1324033  Function: 0  Alpha:   <ENQ><STX>M<SYN>j&VJ<SYN><STX><GS>J<DC2><STX>
 POCSAG1200: Address: 1032922  Function: 3  Alpha:   &D
 POCSAG2400: Address:  959472  Function: 2 
 POCSAG2400: Address: 1876558  Function: 0 
@@ -996,5 +998,3 @@ POCSAG2400: Address: 1740658  Function: 2
 POCSAG2400: Address:  601259  Function: 2  Alpha:   <CAN><ESC>
 POCSAG2400: Address:  549963  Function: 2  Alpha:   21:08-87 NHSBT - DONOR REFER
 POCSAG1200: Address:  926715  Function: 1 
-POCSAG1200: Address: 1975907  Function: 1 
-POCSAG1200: Address:       0  Function: 0 
