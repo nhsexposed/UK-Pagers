@@ -1,3 +1,6 @@
+POCSAG1200: Address: 2023972  Function: 0 
+POCSAG1200: Address:  612537  Function: 1  Alpha:   m<CR>
+POCSAG1200: Address: 1067272  Function: 1  Alpha:   ]MQY<SOH>
 POCSAG2400: Address: 1878868  Function: 0 
 POCSAG1200: Address:  723200  Function: 2 
 POCSAG1200: Address: 2044768  Function: 0 
@@ -995,6 +998,3 @@ POCSAG2400: Address: 2026086  Function: 2
 POCSAG1200: Address:  273040  Function: 3  Alpha:   2<RS>)05/2002 CH3B<NUL><NUL>
 POCSAG2400: Address:  549010  Function: 2  Alpha:   10:42-31 call balfour switch
 POCSAG2400: Address: 1320283  Function: 2  Alpha:   10:42-40 3104<NUL>
-POCSAG2400: Address: 1913816  Function: 2  Alpha:   10:42-59 5203<NUL>
-POCSAG1200: Address: 1039333  Function: 3  Alpha:   <STX>/
-POCSAG1200: Address: 1746544  Function: 0 
