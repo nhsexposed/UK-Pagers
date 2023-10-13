@@ -1,3 +1,16 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0054141023+++TIME=0054141023<NUL>
+POCSAG1200: Address: 1053492  Function: 2  Alpha:   00:54-98 14/10/2023 00:51:04 INC 28014916 Dx0128 5 ST JAMES CLOSE, GLOSSOP, SK13 8JX Male 72Y BLOCKED CATHETER, PAIN IN PENIS GRD 403205 393496<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:53-56 3850<NUL>
+POCSAG1200: Address:  344184  Function: 0 
+POCSAG1200: Address:   40091  Function: 2  Alpha:   00:53-42 14/10/2023 00:52:02 INC 28014919 Dx010 O/S, STEEL WORKS TAVERN, 247-249 GORTON LANE, GORTON MANCHESTER, M18 8DA Male 70Y OUTSIDE ON FLOOR - COLLAPSED - NOT BREATHING GRD 388046 396797<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG2400: Address: 2092664  Function: 2 
+POCSAG2400: Address:   28899  Function: 0  Alpha:   00:51-25 4156<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address:  273040  Function: 3  Alpha:   27/02/2004 CH3B<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0049141023+++TIME=0049141023<NUL>
 POCSAG1200: Address: 1033120  Function: 3  Alpha:   eB
 POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
@@ -985,16 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address:   28870  Function: 0  Alpha:   21:30-48 KATIE, 01843225544 (EXT 7256727) A&E QQM - I NEED TO REFER A PATIENT.<NUL>
 POCSAG2400: Address: 1324378  Function: 2  Alpha:   21:29-35 4188<NUL>
 POCSAG1200: Address:  436095  Function: 2  Alpha:   21:29-09 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG1200: Address:  420460  Function: 3  Alpha:   <DLE>,H<FF>vd0f
-POCSAG1200: Address: 1032017  Function: 3  Alpha:   <DC1>"
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2129131023+++TIME=2129131023<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2129131023+++TIME=2129131023<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address:   33739  Function: 2  Alpha:   21:28-61 INC ALERT No: 19612247 Carbon Monoxide/Inhalation/Hazchem - F - SMOKE INHILATION - FIRE, IN: KINGSTEIGNTON NEWTON ABBOT, Time: 13/10/2023 21:25:48<NUL><NUL>
-POCSAG1200: Address:  585004  Function: 2  Alpha:   21:27-24 1: 001MTAHU0401033 Smoke Detector Alarm ***SMOKE*** 01<NUL><NUL>`<DEL><DEL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG1200: Address:  664466  Function: 2  Alpha:   21:27-22 1: 001MTAHU0401033 Smoke Detector Alarm ***SMOKE*** 01<NUL><NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   27/02/2004 CH3B<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG1200: Address:  108034  Function: 0  Alpha:   21:26-64 13/10/2023 21:25:02 05LCWLSPB 6  70   LCWLS Pressure Booster Alarm   Item Description                 Pressure Booster Alarm_PC1$ Status : Pressure Booster Alarm_PC1$<NUL><NUL>
