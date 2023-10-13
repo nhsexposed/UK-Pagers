@@ -1,3 +1,21 @@
+POCSAG1200: Address:  722465  Function: 2 
+POCSAG1200: Address:  343317  Function: 0  Alpha:   20:29-67 Engine 3 Shutdown, Engine_3_OnLoa
+POCSAG1200: Address:  585004  Function: 2  Alpha:   20:29-22 TEST<NUL>
+POCSAG2400: Address: 1094040  Function: 3 
+POCSAG2400: Address:  585013  Function: 2  Alpha:   20:29-78 DSCC <LF>PIN 10381<LF>CAN WE HAVE A CALLBACK?<LF><NUL><NUL>
+POCSAG1200: Address:   64660  Function: 0  Alpha:   20:29-17 PLease call ext 1002<NUL><NUL>
+POCSAG1200: Address:   40091  Function: 2  Alpha:   20:28-79 13/10/2023 20:25:52 INC 28013963 Dx0101 22 FERNHILL WAY, BOOTLE L20, L20 9JU Male 2Y 2 YOM - FALLEN - HIT HEAD ON TABLE - BLUNT - NOT AWAKE GRD 335016 395017<NUL><NUL>
+POCSAG1200: Address:  363869  Function: 2  Alpha:   20:28-02 13/10/2023 20:25:52 INC 28013963 Dx0101 22 FERNHILL WAY, BOOTLE L20, L20 9JU Male 2Y 2 YOM - FALLEN - HIT HEAD ON TABLE - BLUNT - NOT AWAKE GRD 335016 395017<NUL><NUL>
+POCSAG1200: Address:   64660  Function: 0  Alpha:   20:28-16 please call ex 5625<LF><NUL><NUL>
+POCSAG2400: Address: 1324547  Function: 2  Alpha:   20:28-74 INC ALERT No: 19612050 Traffic/Transportation Accidents - RTC - X2 VECHILES - SHOULDER PAIN, IN: BRIDGWATER, Time: 13/10/2023 20:26:15<NUL><NUL>
+POCSAG2400: Address: 1324564  Function: 2  Alpha:   20:28-87 INC ALERT No: 19612050 Traffic/Transportation Accidents - RTC - X2 VECHILES - SHOULDER PAIN, IN: BRIDGWATER, Time: 13/10/2023 20:26:15<NUL><NUL>
+POCSAG2400: Address: 1324548  Function: 2  Alpha:   20:28-01 GoodSAM Alert: No 19612050 Traffic/Transportation Accidents, RTC - X2 VECHILES - SHOULDER PAIN, AT: O/S, UNIT 25 - WICKES BUILDING SUPPLIES LTD, WYLDS ROAD, BRIDGWATER, TA6 4DH, Time of Call: 13/10/2023 20:26:15
+POCSAG2400: Address: 1324556  Function: 2  Alpha:   20:28-59 INC ALERT No: 19612050 Traffic/Transportation Accidents - RTC - X2 VECHILES - SHOULDER PAIN, IN: BRIDGWATER, Time: 13/10/2023 20:26:15<NUL><NUL>
+POCSAG1200: Address:  664466  Function: 2  Alpha:   20:28-20 TEST<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG2400: Address: 1913862  Function: 2  Alpha:   20:28-07 3507<NUL>
+POCSAG1200: Address: 1817162  Function: 2  Alpha:   20:27-35 02392283363
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address: 1324542  Function: 2  Alpha:   20:27-70 INC ALERT No: 19612039 Falls - UNCONSCIOUS NOISY BREATHING, IN: MILLBROOK TORPOINT, 17D02, Time: 13/10/2023 20:23:47
 POCSAG1200: Address: 1323608  Function: 2  Alpha:   20:27-15 ~PLEASE CONTACT CONTROLS RE; REPLACEMENT FIRE KIT FOR 1 X FF @ E13, THANKS<NUL><NUL>
 Enabled demodulators: POCSAG512 POCSAG1200 POCSAG2400
@@ -980,21 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:14-43 4148<NUL>
 POCSAG2400: Address:  549209  Function: 2  Alpha:   15:13-71 Tuition Fees for Students in the Academic Year 202324
 POCSAG1200: Address: 1534237  Function: 2  Alpha:   15:13-63 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
-POCSAG1200: Address: 1534237  Function: 2  Alpha:   15:13-63 (1/2)021803-13102023; F1 Fire Commercial/Industrial; WESTON AEROSPACE LTD,124 VICTORIA ROAD,FARNBOROUGH,GU14 7PW; 486539,155505;
-POCSAG1200: Address: 1312466  Function: 2  Alpha:   15:13-31 62836
-POCSAG1200: Address:  696528  Function: 2  Alpha:   15:13-99 Please call AGH switchboard on 01535 652511<NUL><NUL>
-POCSAG2400: Address:   11729  Function: 0  Alpha:   15:13-59 CALLBACK MEDHIA, 07507858692.<NUL>
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:13-42 3157<NUL>
-POCSAG2400: Address: 1573633  Function: 0  Alpha:   <ETX>i
-POCSAG2400: Address:   99096  Function: 2 
-POCSAG2400: Address:   28907  Function: 0  Alpha:   15:13-56 3729<NUL>
-POCSAG2400: Address:   28896  Function: 0  Alpha:   15:13-86 4411<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address: 1324174  Function: 2  Alpha:   15:13-41 3726<NUL>
-POCSAG2400: Address:  549209  Function: 2  Alpha:   15:12-70 Tuition Fees for Students in the Academic Year 202324
-POCSAG1200: Address: 1032920  Function: 3  Alpha:   V<DC2>
-POCSAG1200: Address: 1511888  Function: 2  Alpha:   F2
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address:   28900  Function: 0  Alpha:   15:12-20 4431<NUL>
-POCSAG2400: Address:  150086  Function: 0  Alpha:   15:12-65 2233<NUL>
-POCSAG2400: Address: 1022675  Function: 0  Alpha:   15:11-41 IMC Emergency Call-in<NUL>
