@@ -1,3 +1,6 @@
+POCSAG2400: Address: 1324542  Function: 2  Alpha:   20:27-70 INC ALERT No: 19612039 Falls - UNCONSCIOUS NOISY BREATHING, IN: MILLBROOK TORPOINT, 17D02, Time: 13/10/2023 20:23:47
+POCSAG1200: Address: 1323608  Function: 2  Alpha:   20:27-15 ~PLEASE CONTACT CONTROLS RE; REPLACEMENT FIRE KIT FOR 1 X FF @ E13, THANKS<NUL><NUL>
+Enabled demodulators: POCSAG512 POCSAG1200 POCSAG2400
 POCSAG2400: Address:  945704  Function: 2  Alpha:   17:35-25 55616
 POCSAG1200: Address:  549807  Function: 2  Alpha:   17:35-49 ~PLEASE CONTACT CONTROLS. THANKS 
 POCSAG2400: Address:   28904  Function: 0  Alpha:   17:34-87 2444<NUL>
@@ -995,6 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address:   28900  Function: 0  Alpha:   15:12-20 4431<NUL>
 POCSAG2400: Address:  150086  Function: 0  Alpha:   15:12-65 2233<NUL>
 POCSAG2400: Address: 1022675  Function: 0  Alpha:   15:11-41 IMC Emergency Call-in<NUL>
-POCSAG1200: Address: 1032970  Function: 3  Alpha:   <SYN> 
-POCSAG512: Address:  640251  Function: 2  Alpha:   15:11-82 33879
-POCSAG1200: Address: 1534147  Function: 2  Alpha:   15:11-50 (2/2) BOSS Mobile: https://bossd.nfcsp.org.uk
