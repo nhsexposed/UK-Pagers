@@ -1,3 +1,31 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0224141023+++TIME=0224141023<NUL>
+POCSAG2400: Address: 1324169  Function: 2  Alpha:   02:23-21 2445<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG2400: Address: 1846824  Function: 0  Alpha:   B<BS>
+POCSAG2400: Address: 1324556  Function: 2  Alpha:   02:23-71 INC ALERT No: 19613093 Traffic/Transportation Accidents - POLICE - 2 VEHICLE RTC, IN: BRISTOL, Time: 14/10/2023 02:21:19<NUL><NUL>
+POCSAG512: Address:  537696  Function: 1 
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   02:22-96 [Reminder] TEMPERATURE ALERT: Ob 1 is at 13.3 degrees Celsius, FRIDGE Ob 1 @ 13.3C for >25min. Check urgently. http://mobileview<CR><LF>**************************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   02:22-96 [Reminder] TEMPERATURE ALERT: Card Rec is at 27.4 degrees Celsius, FRIDGE Card Rec @ 27.4C for >25min. Check urgently. http://mobileview<CR><LF>******************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   02:22-95 [Reminder] TEMPERATURE ALERT: Ob 1 is at 13.3 degrees Celsius, FRIDGE Ob 1 @ 13.3C for >25min. Check urgently. http://mobileview<CR><LF>**************************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   02:22-95 [Reminder] TEMPERATURE ALERT: PCT 2 is at 30.1 degrees Celsius, FRIDGE PCT 2 @ 30.1C for >25min. Check urgently. http://mobileview<CR><LF>************************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   02:22-94 [Reminder] TEMPERATURE ALERT: PCT 2 is at 30.1 degrees Celsius, FRIDGE PCT 2 @ 30.1C for >25min. Check urgently. http://mobileview<CR><LF>************************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   02:22-94 [Reminder] TEMPERATURE ALERT: Card Rec is at 27.4 degrees Celsius, FRIDGE Card Rec @ 27.4C for >25min. Check urgently. http://mobileview<CR><LF>******************************************************************************************************<NUL><NUL>
+POCSAG2400: Address:   28899  Function: 0  Alpha:   02:22-30 4868<NUL>
+POCSAG1200: Address:  267189  Function: 0  Alpha:   02:22-67 OWN CLIENT CASE<LF>PIN 5570<LF>03457 500 620<NUL>
+POCSAG1200: Address:   40091  Function: 2  Alpha:   02:22-58 14/10/2023 02:18:14 INC 28015141 Dx0116 CAFE STELLA, 38 KING STREET, LEIGH, WN7 4LR Male 30Y GLASSED IN FACE GRD 365609 399970<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address: 1597608  Function: 2 
+POCSAG1200: Address:  940431  Function: 2  Alpha:   02:21-55 14/10/2023 02:15:34 INC 28015135 Dx0112 8 ENNERDALE AVENUE, MORECAMBE, LA4 5UG Female 44Y CHEST INFECTION 2WKS GRD 344751 463639
+POCSAG1200: Address:  273040  Function: 3  Alpha:   28/02/2004 CH3B<NUL><NUL>
+POCSAG2400: Address: 1323780  Function: 2  Alpha:   02:21-42 4461<NUL>
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   02:20-64 2427<NUL>
+POCSAG1200: Address:   42299  Function: 2  Alpha:   02:20-84 PLEASE CALL AJIT ON 01865 235 010, LOGIN ISSUE<NUL><NUL>
+POCSAG1200: Address:  306142  Function: 2  Alpha:   02:20-30 PLEASE CALL AJIT ON 01865 235 010, LOGIN ISSUE<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address: 1983266  Function: 2  Alpha:   02:20-98 PLEASE CALL AJIT ON 01865 235 010, LOGIN ISSUE<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0219141023+++TIME=0219141023<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0219141023+++TIME=0219141023<NUL>
 POCSAG1200: Address: 1312465  Function: 2  Alpha:   02:19-91 FOR INFO 2310005095 ADD: 19-21 RETIRO STREET, OLDHAM INC TYPE: BUILDING FIRE - BASMEMENT  TG: FNWR-OPS03  FOR INFO ONLY AS: MENTORING OFFICER<NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
@@ -970,31 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG1200: Address:  664466  Function: 2  Alpha:   22:36-24 1: 001MTAHU0401033 Smoke Detector Alarm ***SMOKE*** 01<NUL><NUL>
 POCSAG1200: Address: 1816822  Function: 2  Alpha:   22:35-33 1: 001MTAHU0401033 Smoke Detector Alarm ***SMOKE*** 01<NUL><NUL>
 POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address:   28899  Function: 0  Alpha:   22:35-05 2233<NUL>
-POCSAG1200: Address:  549693  Function: 2  Alpha:   22:34-97 ~PLEASE CONTACT CONTROLS, THANKS<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2234131023+++TIME=2234131023<NUL>
-POCSAG512: Address:  167425  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2234131023+++TIME=2234131023<NUL>
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   22:33-40 5013<NUL>
-POCSAG512: Address: 1115648  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG1200: Address:  420479  Function: 0 
-POCSAG1200: Address: 1031813  Function: 0 
-POCSAG1200: Address: 1511884  Function: 0 
-POCSAG1200: Address: 1039268  Function: 0 
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG1200: Address:  273040  Function: 3  Alpha:   27/02/2004 CH3B<NUL><NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG1200: Address:  664466  Function: 2  Alpha:   22:31-23 1: 001MTAHU0401033 Smoke Detector Alarm ***SMOKE*** 01<NUL><NUL>
-POCSAG1200: Address: 1812330  Function: 2  Alpha:   <SYN><SOH>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address:   28896  Function: 0  Alpha:   22:30-03 5204<NUL>
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   22:30-39 Urgent please call Site Manager on ext: 36663
-POCSAG1200: Address:  311858  Function: 1 
-POCSAG1200: Address: 1908761  Function: 2 
-POCSAG1200: Address:  548028  Function: 2  Alpha:   22:30-34 714<NUL><NUL>
-POCSAG1200: Address: 1562660  Function: 2  Alpha:   22:29-49 13/10/2023 22:22:51 INC 28014416 Dx01214 19 ASHTON STREET, WOODLEY STOCKPORT, SK6 1PB Female 79Y VOMITING, CLAMMY GRD 394158 392601
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=2229131023+++TIME=2229131023<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=2229131023+++TIME=2229131023<NUL>
