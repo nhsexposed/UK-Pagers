@@ -1,3 +1,21 @@
+POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0449141023+++TIME=0449141023<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   04:47-09 [Reminder] TEMPERATURE ALERT: Ob 1 is at 12.5 degrees Celsius, FRIDGE Ob 1 @ 12.5C! Check urgently. http://mobileview<CR><LF>********************************************************************************************************************<CR><LF><CR><LF>_<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   04:47-09 [Reminder] TEMPERATURE ALERT: Card Rec is at 27.4 degrees Celsius, FRIDGE Card Rec @ 27.4C! Check urgently. http://mobileview<CR><LF>*****************************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   04:47-08 [Reminder] TEMPERATURE ALERT: Card Rec is at 27.4 degrees Celsius, FRIDGE Card Rec @ 27.4C! Check urgently. http://mobileview<CR><LF>*****************************************************************************************************************<NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   04:47-07 [Reminder] TEMPERATURE ALERT: PCT 2 is at 30.1 degrees Celsius, FRIDGE PCT 2 @ 30.1C! Check urgently. http://mobileview<CR><LF>********************************************************************************************************************<CR><LF><CR><NUL><NUL>
+POCSAG1200: Address: 1313019  Function: 2  Alpha:   04:47-07 [Reminder] TEMPERATURE ALERT: PCT 2 is at 30.1 degrees Celsius, FRIDGE PCT 2 @ 30.1C! Check urgently. http://mobileview<CR><LF>********************************************************************************************************************<CR><LF><CR><NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address:  216723  Function: 2  Alpha:   04:47-90 PROCEED TO:  CARBON MONOXIDE ALARM/NO LIFE RISK; SK38QF,   15 BUTTERCUP DRIVE  ADSWOOD STOCKPORT ,; FNWR-OPS04; ROLE:[BG] NEAREST HMEPO ; CARBON MONOXIDE ALARM SOUNDED 4 TIMES AND HAS NOW STOPPED BUT WONT TURN BACK ON  ; G22P1 GS0
+POCSAG2400: Address: 1913988  Function: 2  Alpha:   04:47-33 5082<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address: 1525592  Function: 2 
+POCSAG1200: Address:  273040  Function: 3  Alpha:   28/02/2004 CH3B<NUL><NUL>
+POCSAG1200: Address: 1815070  Function: 0  Alpha:   04:46-76 PLEASE CALL FRANCIS AT LITTLEMORE CENTRE ON 01865 902 514 RE OUTLOOK IS DISABLED<NUL><NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG2400: Address: 1323631  Function: 2  Alpha:   04:45-71 3507<NUL>
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
+POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0444141023+++TIME=0444141023<NUL>
 POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0444141023+++TIME=0444141023<NUL>
 POCSAG1200: Address: 1322986  Function: 2  Alpha:   04:44-71 07432632849 - Chris Wade : 27 Yeoman Avenue SA61 1FD Dog Summer - further advice needed - phone call requested
 POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
@@ -980,21 +998,3 @@ POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address:   34559  Function: 2  Alpha:   00:25-73 could you please call Ext 8233
 POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
 POCSAG2400: Address: 1321242  Function: 2  Alpha:   00:24-56 please call baleria, ccu a x39213
-POCSAG2400: Address: 1022869  Function: 1  Alpha:   +++TIME=0024141023+++TIME=0024141023<NUL>
-POCSAG1200: Address:  273040  Function: 3  Alpha:   +++TIME=0024141023+++TIME=0024141023<NUL>
-POCSAG1200: Address:  906904  Function: 2  Alpha:   00:24-83 PHARMACY, PLEASE CALL EXT 2190
-POCSAG2400: Address:   28899  Function: 0  Alpha:   00:23-23 3105<NUL>
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address: 1321242  Function: 2  Alpha:   00:23-55 please call marion, todd ward x31316
-POCSAG1200: Address:   40091  Function: 2  Alpha:   00:23-35 14/10/2023 00:20:55 INC 28014819 Dx0101 UPSTAIRS, LAUREN COURT, SHELLEY ROAD, BLACON CHESTER CH1, CH1 5US Female 90Y NOT RESPONDING GRD 338950 368206<NUL>
-POCSAG1200: Address:   40118  Function: 2  Alpha:   00:23-07 14/10/2023 00:20:55 INC 28014819 Dx0101 UPSTAIRS, LAUREN COURT, SHELLEY ROAD, BLACON CHESTER CH1, CH1 5US Female 90Y NOT RESPONDING GRD 338950 368206<NUL>
-POCSAG2400: Address:   34555  Function: 2  Alpha:   00:23-75 Could you please call ext 8233
-POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
-POCSAG2400: Address: 1323631  Function: 2  Alpha:   00:22-54 2616<NUL>
-POCSAG1200: Address: 1313019  Function: 2  Alpha:   00:22-83 [Reminder] TEMPERATURE ALERT: Ob 1 is at 13.7 degrees Celsius, FRIDGE Ob 1 @ 13.7C for >25min. Check urgently. http://mobileview<CR><LF>**************************************************************************************************************<NUL><NUL>
-POCSAG1200: Address: 1313019  Function: 2  Alpha:   00:22-81 [Reminder] TEMPERATURE ALERT: Card Rec is at 27.4 degrees Celsius, FRIDGE Card Rec @ 27.4C for >25min. Check urgently. http://mobileview<CR><LF>******************************************************************************************************<NUL><NUL>
-POCSAG1200: Address: 1313019  Function: 2  Alpha:   00:22-81 [Reminder] TEMPERATURE ALERT: Card Rec is at 27.4 degrees Celsius, FRIDGE Card Rec @ 27.4C for >25min. Check urgently. http://mobileview<CR><LF>******************************************************************************************************<NUL><NUL>
-POCSAG1200: Address: 1313019  Function: 2  Alpha:   00:22-80 [Reminder] TEMPERATURE ALERT: PCT 2 is at 30.1 degrees Celsius, FRIDGE PCT 2 @ 30.1C for >25min. Check urgently. http://mobileview<CR><LF>************************************************************************************************************<NUL><NUL>
-POCSAG2400: Address:   28908  Function: 0  Alpha:   00:22-97 5201<NUL>
-POCSAG2400: Address:   34559  Function: 2  Alpha:   00:21-72 Please phone ext 82326
-POCSAG1200: Address:   40091  Function: 2  Alpha:   00:21-34 14/10/2023 00:17:43 INC 28014806 Dx011 OPPOSITE, BURGER KING (UK) LTD, 24 RANELAGH STREET, LIVERPOOL, L1 1QE Female 35Y COLLAPSED GRD 334893 390207<NUL>
